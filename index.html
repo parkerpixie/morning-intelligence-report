@@ -1,1 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A warm, useful morning briefing with the stories, ideas, tools, and tiny sparks worth carrying into the day.">
+  <meta name="theme-color" content="#173b45">
 
+  <title>Morning Intelligence Report</title>
+
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main-content">Skip to the report</a>
+
+  <header class="site-header" id="top">
+    <div class="header-inner">
+      <a class="site-brand" href="#top" aria-label="Morning Intelligence Report home">
+        <span class="brand-eyebrow">Your daily field guide</span>
+        <span class="brand-name">Morning Intelligence Report</span>
+      </a>
+
+      <div class="header-meta">
+        <p class="greeting" id="morning-greeting">Good morning, Parker.</p>
+        <time class="report-date" id="report-date" datetime="">Today’s briefing</time>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Report sections">
+    <div class="section-nav-inner">
+      <a href="#top-story">Top Story</a>
+      <a href="#world">The World</a>
+      <a href="#ideas">Ideas &amp; Innovation</a>
+      <a href="#culture">Culture</a>
+      <a href="#wellbeing">Wellbeing</a>
+      <a href="#bright-spots">Bright Spots</a>
+      <a href="#capybara-corner">Capybara Corner</a>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="hero-kicker">Curious. Grounded. Human.</p>
+        <h1 id="hero-title">A smarter start, without the doom-scroll hangover.</h1>
+        <p class="hero-intro">
+          The news that matters, the ideas worth stealing, and one calm capybara keeping watch over the whole operation.
+        </p>
+        <a class="primary-button" href="#top-story">Open today’s report</a>
+      </div>
+
+      <div class="hero-art">
+        <img
+          src="assets/images/morning-intelligence-hero.png"
+          alt="Celestial morning artwork for the Morning Intelligence Report"
+          width="1200"
+          height="800"
+          fetchpriority="high"
+        >
+      </div>
+    </section>
+
+    <section class="report-section featured-section" id="top-story" aria-labelledby="top-story-title">
+      <div class="section-heading">
+        <p class="section-kicker">Start here</p>
+        <h2 id="top-story-title">The Big Story</h2>
+        <p>The one development most likely to shape the day, translated out of headline soup.</p>
+      </div>
+
+      <article class="lead-story" id="lead-story" data-feed="top-story">
+        <div class="story-label">Today’s lead</div>
+        <h3 data-field="headline">Today’s top story will appear here.</h3>
+        <p class="story-summary" data-field="summary">
+          Once the daily report is connected, this space will hold a plain-English summary of the most important story.
+        </p>
+
+        <div class="story-insight-grid">
+          <div class="story-insight">
+            <h4>Why it matters</h4>
+            <p data-field="why-it-matters">The real-world significance will appear here.</p>
+          </div>
+          <div class="story-insight parker-read">
+            <h4>Parker Read</h4>
+            <p data-field="parker-read">A candid interpretation, minus the beige corporate fog.</p>
+          </div>
+        </div>
+
+        <a class="story-link" data-field="source-link" href="#" hidden>Read the original reporting</a>
+      </article>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/Sunrise Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="report-chapter" id="world" aria-labelledby="world-title">
+      <div class="chapter-heading">
+        <p class="section-kicker">What is moving</p>
+        <h2 id="world-title">The World</h2>
+        <p>Power, policy, rights, and the choices shaping life beyond the notification tray.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="politics-title">
+        <div class="section-heading compact">
+          <h3 id="politics-title">U.S. Politics</h3>
+          <p>Policy and political developments with the theater trimmed off.</p>
+        </div>
+        <div class="story-grid" id="politics-stories" data-feed="politics"></div>
+      </section>
+
+      <section class="report-section" aria-labelledby="rights-title">
+        <div class="section-heading compact">
+          <h3 id="rights-title">Equal Rights</h3>
+          <p>Civil rights, reproductive freedom, LGBTQ+ equality, education access, and accountability.</p>
+        </div>
+        <div class="story-grid" id="rights-stories" data-feed="equal-rights"></div>
+      </section>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/Star Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="report-chapter" id="ideas" aria-labelledby="ideas-title">
+      <div class="chapter-heading">
+        <p class="section-kicker">Signals from tomorrow</p>
+        <h2 id="ideas-title">Ideas &amp; Innovation</h2>
+        <p>Science, technology, marketing, and useful inventions before they become conference-slide wallpaper.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="science-title">
+        <div class="section-heading compact">
+          <h3 id="science-title">Science</h3>
+          <p>Discoveries that sharpen how we understand the planet, the body, and the strange machinery of existence.</p>
+        </div>
+        <div class="story-grid" id="science-stories" data-feed="science"></div>
+      </section>
+
+      <section class="report-section" aria-labelledby="technology-title">
+        <div class="section-heading compact">
+          <h3 id="technology-title">Technology</h3>
+          <p>AI, platforms, products, privacy, and the systems quietly rewriting daily life.</p>
+        </div>
+        <div class="story-grid" id="technology-stories" data-feed="technology"></div>
+      </section>
+
+      <section class="report-section" aria-labelledby="marketing-title">
+        <div class="section-heading compact">
+          <h3 id="marketing-title">Marketing &amp; Automation</h3>
+          <p>Smart campaigns, useful data, human-centered automation, and fewer funnels shaped like haunted plumbing.</p>
+        </div>
+        <div class="story-grid" id="marketing-stories" data-feed="marketing"></div>
+      </section>
+
+      <section class="report-section tool-feature" aria-labelledby="tool-title">
+        <div class="tool-copy">
+          <p class="section-kicker">Useful little machine</p>
+          <h3 id="tool-title">AI Automation Tool of the Day</h3>
+          <p data-field="tool-summary">
+            A practical tool, what it does, who it helps, and whether it deserves a place in the workflow.
+          </p>
+          <dl class="tool-details">
+            <div>
+              <dt>Best for</dt>
+              <dd data-field="tool-best-for">To be added in today’s report</dd>
+            </div>
+            <div>
+              <dt>Parker verdict</dt>
+              <dd data-field="tool-verdict">Promising, pointless, or gloriously weird</dd>
+            </div>
+          </dl>
+          <a class="secondary-button" data-field="tool-link" href="#" hidden>Explore the tool</a>
+        </div>
+      </section>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/Botanical Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="report-chapter" id="culture" aria-labelledby="culture-title">
+      <div class="chapter-heading">
+        <p class="section-kicker">The human soundtrack</p>
+        <h2 id="culture-title">Culture</h2>
+        <p>Music, entertainment, and the stories people will actually be talking about.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="celebrity-title">
+        <div class="section-heading compact">
+          <h3 id="celebrity-title">Entertainment &amp; Celebrity</h3>
+          <p>Worth knowing, without turning someone else’s divorce into a doctoral thesis.</p>
+        </div>
+        <div class="story-grid" id="celebrity-stories" data-feed="celebrity"></div>
+      </section>
+
+      <section class="report-section" aria-labelledby="music-title">
+        <div class="section-heading compact">
+          <h3 id="music-title">Music</h3>
+          <p>Releases, tours, industry shifts, and the occasional song that kicks open a window in your brain.</p>
+        </div>
+        <div class="story-grid" id="music-stories" data-feed="music"></div>
+      </section>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/Moon Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="report-chapter" id="wellbeing" aria-labelledby="wellbeing-title">
+      <div class="chapter-heading">
+        <p class="section-kicker">Brains, bodies, and breathing room</p>
+        <h2 id="wellbeing-title">Wellbeing</h2>
+        <p>Health information with context, compassion, and no miracle-cure confetti cannon.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="health-title">
+        <div class="section-heading compact">
+          <h3 id="health-title">Health</h3>
+          <p>Research, care access, public health, and practical developments worth understanding.</p>
+        </div>
+        <div class="story-grid" id="health-stories" data-feed="health"></div>
+      </section>
+
+      <section class="report-section" aria-labelledby="mental-health-title">
+        <div class="section-heading compact">
+          <h3 id="mental-health-title">Mental Health &amp; Psychology</h3>
+          <p>Better ways to understand behavior, emotion, resilience, neurodiversity, and care.</p>
+        </div>
+        <div class="story-grid" id="mental-health-stories" data-feed="mental-health"></div>
+      </section>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/WildFlower Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="report-chapter" id="bright-spots" aria-labelledby="bright-spots-title">
+      <div class="chapter-heading">
+        <p class="section-kicker">Evidence that humans are not entirely doomed</p>
+        <h2 id="bright-spots-title">Bright Spots</h2>
+        <p>Animals, good people, and the tiny rebellions of kindness keeping the lights on.</p>
+      </div>
+
+      <section class="report-section" aria-labelledby="animals-title">
+        <div class="section-heading compact">
+          <h3 id="animals-title">Animals &amp; Pets</h3>
+          <p>Science, rescue stories, wildlife, and creatures displaying superior emotional intelligence.</p>
+        </div>
+        <div class="story-grid" id="animal-stories" data-feed="animals"></div>
+      </section>
+
+      <section class="report-section uplifting-feature" aria-labelledby="uplifting-title">
+        <div class="section-heading compact">
+          <p class="section-kicker">Carry this one with you</p>
+          <h3 id="uplifting-title">The Uplifting Story</h3>
+        </div>
+
+        <article class="uplifting-card" id="uplifting-story" data-feed="uplifting">
+          <h4 data-field="headline">Today’s bright spot will appear here.</h4>
+          <p data-field="summary">A story with enough warmth to loosen the knot between your shoulders.</p>
+          <a class="story-link" data-field="source-link" href="#" hidden>Read the full story</a>
+        </article>
+      </section>
+    </section>
+
+    <div class="decorative-divider" aria-hidden="true">
+      <img src="assets/images/Mushroom and Fern Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="capybara-section" id="capybara-corner" aria-labelledby="capybara-title">
+      <div class="capybara-art">
+        <img
+          src="assets/images/Capybara Corner.png"
+          alt="A peaceful celestial capybara in a dreamy botanical night scene"
+          width="1200"
+          height="1200"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="capybara-copy">
+        <p class="section-kicker">A mandatory pause in the machinery</p>
+        <h2 id="capybara-title">Capybara Corner</h2>
+        <blockquote id="capybara-message">
+          <p data-field="message">You do not have to solve the whole forest before breakfast. Find the next clear step and put one paw there.</p>
+        </blockquote>
+        <p class="capybara-signoff">Steadily yours, Clementine</p>
+      </div>
+    </section>
+
+    <div class="decorative-divider final-divider" aria-hidden="true">
+      <img src="assets/images/Minimal Teal Line Divider.png" alt="" loading="lazy">
+    </div>
+
+    <section class="closing-note" aria-labelledby="closing-title">
+      <p class="section-kicker">Before you go</p>
+      <h2 id="closing-title">That is enough internet for one cup of coffee.</h2>
+      <p>
+        Take what is useful. Leave what is noisy. The world can keep spinning without your supervision for at least seven minutes.
+      </p>
+      <a class="secondary-button" href="#top">Back to the top</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>Morning Intelligence Report</strong></p>
+      <p>Curated for Parker with curiosity, context, and an aggressively low tolerance for nonsense.</p>
+      <p class="footer-note">Sources remain the property of their original publishers.</p>
+    </div>
+  </footer>
+
+  <template id="story-card-template">
+    <article class="story-card">
+      <p class="story-label" data-field="category"></p>
+      <h4 data-field="headline"></h4>
+      <p class="story-summary" data-field="summary"></p>
+      <div class="story-insight">
+        <h5>Why it matters</h5>
+        <p data-field="why-it-matters"></p>
+      </div>
+      <div class="story-insight parker-read">
+        <h5>Parker Read</h5>
+        <p data-field="parker-read"></p>
+      </div>
+      <a class="story-link" data-field="source-link" href="#" target="_blank" rel="noopener noreferrer">Read the source</a>
+    </article>
+  </template>
+
+  <template id="story-placeholder-template">
+    <article class="story-card story-placeholder" aria-hidden="true">
+      <span class="placeholder-line short"></span>
+      <span class="placeholder-line title"></span>
+      <span class="placeholder-line"></span>
+      <span class="placeholder-line"></span>
+      <span class="placeholder-line medium"></span>
+    </article>
+  </template>
+
+  <noscript>
+    <div class="noscript-message">
+      This report needs JavaScript to load the daily stories. The capybara remains operational.
+    </div>
+  </noscript>
+</body>
+</html>
