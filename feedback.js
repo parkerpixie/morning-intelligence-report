@@ -307,7 +307,10 @@
     document.querySelectorAll('[data-feed], #quick-scan-list').forEach((container) => delete container.dataset.feedbackOrdered);
     scheduleOrdering();
 
-    const synced = (await Promise.all(events.map(syncEvent))).every(Boolean);
+    let synced = true;
+    for (const feedbackEvent of events) {
+      if (!await syncEvent(feedbackEvent)) synced = false;
+    }
     const status = bar.querySelector('.feedback-sync-status');
     if (status) status.textContent = synced ? 'Synced' : 'Saved here; sync queued';
   };
