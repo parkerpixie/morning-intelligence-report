@@ -10,8 +10,10 @@
   <link rel="stylesheet" href="header-refresh.css?v=20260716-2">
   <link rel="stylesheet" href="header-half.css?v=20260716-3">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
+  <link rel="stylesheet" href="weather.css?v=20260716-1">
   <script src="script.js?v=20260716-2" defer></script>
   <script src="feedback.js?v=20260716-1" defer></script>
+  <script src="weather.js?v=20260716-1" defer></script>
 </head>
 <body class="home-page" data-page="home">
   <a class="skip-link" href="#main-content">Skip to the report</a>
@@ -68,6 +70,53 @@
         </div>
         <figcaption>Clementine, keeping watch over Lake Monona as Madison wakes up.</figcaption>
       </figure>
+    </section>
+
+    <section class="weather-strip-shell" aria-labelledby="weather-title">
+      <div class="weather-strip is-loading" id="weather-strip" data-theme="cloudy" aria-live="polite" aria-busy="true">
+        <div class="weather-main">
+          <div class="weather-topline">
+            <p class="weather-kicker">Madison weather</p>
+            <p class="weather-updated" id="weather-updated">Checking the sky…</p>
+          </div>
+          <div class="weather-now">
+            <span class="weather-icon" id="weather-icon" aria-hidden="true">✦</span>
+            <div>
+              <div class="weather-temperature-row">
+                <span class="weather-current-temp" id="weather-current-temp">--°</span>
+                <strong class="weather-condition" id="weather-condition">Reading the sky…</strong>
+              </div>
+              <p class="weather-feels" id="weather-feels">Gathering current conditions</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="weather-middle">
+          <div class="weather-vitals" aria-label="Today’s weather details">
+            <div class="weather-vital"><span>High</span><strong id="weather-high">--°</strong></div>
+            <div class="weather-vital"><span>Low</span><strong id="weather-low">--°</strong></div>
+            <div class="weather-vital"><span>Rain</span><strong id="weather-rain">--%</strong></div>
+            <div class="weather-vital"><span>Humidity</span><strong id="weather-humidity">--%</strong></div>
+            <div class="weather-vital"><span>Wind</span><strong id="weather-wind">Checking</strong></div>
+          </div>
+          <div class="weather-hours" id="weather-hours" aria-label="Upcoming hourly forecast">
+            <div class="weather-hour"><span>Now</span><strong>--°</strong><span>checking</span></div>
+            <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
+            <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
+            <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
+          </div>
+        </div>
+
+        <aside class="weather-verdict" aria-label="Clementine’s weather verdict">
+          <p class="weather-verdict-label">Clementine’s pocket forecast</p>
+          <p class="weather-advice" id="weather-advice">Consulting the clouds and reviewing their paperwork.</p>
+          <a class="weather-alert" id="weather-alert" href="#" hidden></a>
+          <div class="weather-actions">
+            <a class="weather-forecast-link" id="weather-forecast-link" href="https://forecast.weather.gov/MapClick.php?lat=43.0731&amp;lon=-89.4012">Full NWS forecast ↗</a>
+            <button class="weather-refresh" id="weather-refresh" type="button">Refresh weather</button>
+          </div>
+        </aside>
+      </div>
     </section>
 
     <section class="report-section featured-section" id="top-story">
