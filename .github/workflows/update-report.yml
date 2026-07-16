@@ -12,6 +12,8 @@ on:
       - main
     paths:
       - "scripts/generate_report.py"
+      - "scripts/normalize_report.py"
+      - ".github/workflows/update-report.yml"
 
 permissions:
   contents: write
@@ -39,6 +41,9 @@ jobs:
 
       - name: Generate report from RSS feeds
         run: python scripts/generate_report.py
+
+      - name: Normalize report for the website
+        run: python scripts/normalize_report.py
 
       - name: Commit refreshed report
         run: |
