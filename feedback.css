@@ -87,6 +87,69 @@
   margin-top: 0.65rem;
   padding-top: 0.65rem;
 }
+
+/* Text-only stories stay lighter than image cards, but still explain the story. */
+.story-card--compact .story-card-body {
+  display: grid;
+  grid-template-columns: minmax(105px, 0.22fr) minmax(0, 1fr);
+  align-items: start;
+  column-gap: 1.15rem;
+  row-gap: 0.48rem;
+  padding: 1.15rem 1.3rem;
+}
+.story-card--compact .story-label {
+  grid-column: 1;
+  grid-row: 1 / span 3;
+  margin: 0.18rem 0 0;
+}
+.story-card--compact h3 {
+  grid-column: 2;
+  margin: 0;
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(1.2rem, 2.2vw, 1.48rem);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.22;
+}
+.story-card--compact .story-summary {
+  display: block;
+  grid-column: 2;
+  margin: 0;
+  color: var(--ink-soft, #4c6065);
+  font-size: 0.94rem;
+  line-height: 1.58;
+}
+.story-card--compact .story-link {
+  grid-column: 2;
+  justify-self: start;
+  align-self: start;
+  min-height: 38px;
+  margin: 0.2rem 0 0;
+  padding: 0.52rem 0.82rem;
+  color: var(--navy-deep, #173b45);
+  border: 1px solid rgba(47, 159, 167, 0.28);
+  border-radius: 999px;
+  background: rgba(47, 159, 167, 0.08);
+  font-size: 0;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.story-card--compact .story-link::before {
+  content: "Read story";
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+.story-card--compact .story-link::after {
+  margin-left: 0.38rem;
+  font-size: 0.82rem;
+}
+.story-card--compact .story-link:hover,
+.story-card--compact .story-link:focus-visible {
+  border-color: rgba(47, 159, 167, 0.55);
+  background: rgba(47, 159, 167, 0.14);
+  outline: none;
+}
+
 #feedback-toast {
   position: fixed;
   right: 1rem;
@@ -114,6 +177,19 @@
   .feedback-label { display: none; }
   .feedback-button { min-width: 38px; justify-content: center; padding-inline: 0.55rem; }
   .feedback-actions--compact { padding-inline: 0.65rem; }
+  .story-card--compact .story-card-body {
+    grid-template-columns: 1fr;
+    row-gap: 0.58rem;
+    padding: 1.05rem 1.1rem;
+  }
+  .story-card--compact .story-label,
+  .story-card--compact h3,
+  .story-card--compact .story-summary,
+  .story-card--compact .story-link {
+    grid-column: 1;
+    grid-row: auto;
+  }
+  .story-card--compact .story-label { margin-top: 0; }
 }
 @media (prefers-reduced-motion: reduce) {
   .feedback-button, #feedback-toast { transition: none; }
