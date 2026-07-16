@@ -49,7 +49,7 @@ const allowedOrigin = (request) => {
     return host === 'mymorningintelligencereport.netlify.app'
       || host === 'mymorningintelligencereport.com'
       || host === 'www.mymorningintelligencereport.com'
-      || host.endsWith('.netlify.app');
+      || host.endsWith('--mymorningintelligencereport.netlify.app');
   } catch {
     return false;
   }
@@ -73,6 +73,15 @@ const adjust = (map, mapKey, amount) => {
   const next = Number((Number(map[mapKey] || 0) + amount).toFixed(2));
   if (Math.abs(next) < 0.01) delete map[mapKey];
   else map[mapKey] = Math.max(-30, Math.min(30, next));
+};
+
+const ensureProfileShape = (profile) => {
+  profile.action_counts ||= { save: 0, useful: 0, more: 0, less: 0 };
+  profile.section_weights ||= {};
+  profile.source_weights ||= {};
+  profile.keyword_weights ||= {};
+  profile.total_signals = Number(profile.total_signals || 0);
+  return profile;
 };
 
 const applyWeight = (profile, story, action, direction) => {
@@ -100,7 +109,9 @@ export default async (request) => {
   const store = getStore({ name: STORE_NAME, consistency: 'strong' });
 
   if (request.method === 'GET') {
-    const profile = await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile();
+    const profile = ensureProfileShape(
+      await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile()
+    );
     return json(profile);
   }
 
@@ -124,15 +135,19 @@ export default async (request) => {
   const existing = await store.get(voteKey, { type: 'json' });
   const wasActive = Boolean(existing?.active);
   if (wasActive === active) {
-    const profile = await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile();
+    const profile = ensureProfileShape(
+      await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile()
+    );
     return json({ ok: true, changed: false, profile_updated_at: profile.updated_at });
   }
 
-  const profile = await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile();
+  const profile = ensureProfileShape(
+    await store.get(PROFILE_KEY, { type: 'json' }) || emptyProfile()
+  );
   const direction = active ? 'add' : 'remove';
   applyWeight(profile, story, action, direction);
   profile.action_counts[action] = Math.max(0, Number(profile.action_counts[action] || 0) + (active ? 1 : -1));
-  profile.total_signals = Math.max(0, Number(profile.total_signals || 0) + (active ? 1 : -1));
+  profile.total_signals = Math.max(0, profile.total_signals + (active ? 1 : -1));
   profile.updated_at = new Date().toISOString();
 
   if (active) {
