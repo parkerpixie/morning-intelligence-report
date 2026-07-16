@@ -24,6 +24,26 @@
       mask-image: linear-gradient(to bottom, black, transparent 78%);
     }
 
+    .report-updated {
+      margin: .35rem 0 0;
+      color: rgba(255,255,255,.78);
+      font-size: .78rem;
+      font-weight: 700;
+    }
+
+    .report-freshness {
+      max-width: 360px;
+      margin: .55rem 0 0 auto;
+      padding: .42rem .7rem;
+      color: #fff8e7;
+      border: 1px solid rgba(255,255,255,.2);
+      border-radius: 999px;
+      background: rgba(223,123,111,.2);
+      font-size: .75rem;
+      font-weight: 800;
+      line-height: 1.35;
+    }
+
     .hero-banner {
       position: relative;
       width: min(calc(100% - 2.5rem), 1180px);
@@ -92,6 +112,9 @@
     }
 
     @media (max-width: 720px) {
+      .header-meta { text-align: left; }
+      .report-freshness { margin-left: 0; border-radius: 14px; }
+
       .hero-banner {
         width: calc(100% - 1rem);
         margin-top: 1rem;
@@ -121,6 +144,16 @@
     month: 'long',
     day: 'numeric',
     year: 'numeric'
+  });
+
+  const formatUpdated = (value) => new Date(value).toLocaleString('en-US', {
+    timeZone: 'America/Chicago',
+    weekday: 'short',
+    month: 'short',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+    timeZoneName: 'short'
   });
 
   const setText = (root, selector, value) => {
@@ -203,13 +236,42 @@
     });
   };
 
+  const renderFreshness = (report) => {
+    const updated = document.getElementById('report-updated');
+    const status = document.getElementById('report-freshness');
+    const generated = report?.generated_at ? new Date(report.generated_at) : null;
+
+    if (!generated || Number.isNaN(generated.getTime())) {
+      if (updated) updated.textContent = 'Refresh time unavailable';
+      if (status) {
+        status.hidden = false;
+        status.textContent = 'The page loaded, but the refresh timestamp is missing.';
+      }
+      return;
+    }
+
+    if (updated) updated.textContent = `Updated ${formatUpdated(report.generated_at)}`;
+
+    const ageHours = (Date.now() - generated.getTime()) / 36e5;
+    if (status) {
+      if (ageHours > 6) {
+        status.hidden = false;
+        status.textContent = 'Today’s refresh is running late. Showing the most recent report.';
+      } else {
+        status.hidden = true;
+        status.textContent = '';
+      }
+    }
+  };
+
   const renderReport = (report) => {
     const date = document.getElementById('report-date');
-    if (date) {
+    if (date && report.report_date) {
       date.dateTime = report.report_date;
       date.textContent = formatDate(report.report_date);
     }
 
+    renderFreshness(report);
     fillStory(document.getElementById('lead-story'), report.top_story);
     renderQuickScan(report.quick_scan);
     Object.entries(report.sections || {}).forEach(([name, stories]) => renderSection(name, stories));
@@ -227,5 +289,12 @@
       console.error(error);
       setText(document.getElementById('lead-story'), '[data-field="headline"]', 'The report data did not load this time.');
       setText(document.getElementById('lead-story'), '[data-field="summary"]', 'The page is working, but the latest report file could not be retrieved.');
+      const updated = document.getElementById('report-updated');
+      const status = document.getElementById('report-freshness');
+      if (updated) updated.textContent = 'Latest refresh could not be confirmed';
+      if (status) {
+        status.hidden = false;
+        status.textContent = 'The report file did not load. Please refresh the page in a moment.';
+      }
     });
 })();
