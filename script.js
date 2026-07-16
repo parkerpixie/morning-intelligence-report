@@ -1,5 +1,18 @@
 (() => {
   const LEAD_FALLBACK_IMAGE = 'assets/images/clementine-madison-morning.webp';
+  const REPORT_URL = 'data/report.json';
+  const REPORT_INDEX_URL = 'data/report-index.json';
+  const REPORT_CACHE_KEY = 'morning-intelligence-report:last-successful-report';
+  const REQUIRED_SECTIONS = [
+    'local',
+    'must-know',
+    'ai-tech',
+    'work-marketing',
+    'wellbeing',
+    'entertainment',
+    'animals',
+    'wonderful'
+  ];
 
   const formatDate = (value) => new Date(`${value}T12:00:00`).toLocaleDateString('en-US', {
     weekday: 'long',
@@ -204,11 +217,87 @@
     });
   };
 
+  const isNonemptyString = (value) => typeof value === 'string' && value.trim().length > 0;
+
+  const isValidStory = (story) => (
+    story
+    && typeof story === 'object'
+    && isNonemptyString(story.source)
+    && isNonemptyString(story.headline)
+    && isNonemptyString(story.summary)
+    && isNonemptyString(story.url)
+  );
+
+  const isValidReport = (report) => {
+    if (!report || typeof report !== 'object') return false;
+    if (!isNonemptyString(report.generated_at) || Number.isNaN(new Date(report.generated_at).getTime())) return false;
+    if (!isNonemptyString(report.report_date)) return false;
+    if (!isValidStory(report.top_story)) return false;
+    if (!Array.isArray(report.quick_scan) || report.quick_scan.length === 0 || !report.quick_scan.every(isValidStory)) return false;
+    if (!report.sections || typeof report.sections !== 'object') return false;
+    if (!REQUIRED_SECTIONS.every((section) => Array.isArray(report.sections[section]))) return false;
+    if (!REQUIRED_SECTIONS.every((section) => report.sections[section].every(isValidStory))) return false;
+    return isNonemptyString(report.capybara_message);
+  };
+
+  const fetchJson = async (url) => {
+    const separator = url.includes('?') ? '&' : '?';
+    const response = await fetch(`${url}${separator}cache=${Date.now()}`, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`Report request failed for ${url}: ${response.status}`);
+    return response.json();
+  };
+
+  const loadPrimaryReport = async () => {
+    const report = await fetchJson(REPORT_URL);
+    if (!isValidReport(report)) throw new Error('The current report file failed browser validation.');
+    return report;
+  };
+
+  const loadArchivedReport = async () => {
+    const index = await fetchJson(REPORT_INDEX_URL);
+    if (!isNonemptyString(index?.latest)) throw new Error('The report archive index is missing its latest path.');
+    const report = await fetchJson(index.latest);
+    if (!isValidReport(report)) throw new Error('The archived report failed browser validation.');
+    return report;
+  };
+
+  const saveCachedReport = (report) => {
+    try {
+      localStorage.setItem(REPORT_CACHE_KEY, JSON.stringify(report));
+    } catch (error) {
+      console.warn('The report loaded, but this browser would not save a local fallback.', error);
+    }
+  };
+
+  const loadCachedReport = () => {
+    try {
+      const cached = localStorage.getItem(REPORT_CACHE_KEY);
+      if (!cached) return null;
+      const report = JSON.parse(cached);
+      return isValidReport(report) ? report : null;
+    } catch (error) {
+      console.warn('The saved browser report could not be read.', error);
+      return null;
+    }
+  };
+
+  const showFallbackNotice = (source) => {
+    const status = document.getElementById('report-freshness');
+    if (!status) return;
+
+    status.hidden = false;
+    if (source === 'archive') {
+      status.textContent = 'The current report file was unavailable. Showing the most recent completed archive.';
+    } else if (source === 'browser') {
+      status.textContent = 'The report files could not be reached. Showing the last report saved on this device.';
+    }
+  };
+
   const showLoadError = (error) => {
     console.error(error);
     const lead = document.getElementById('lead-story');
     setText(lead, '[data-field="headline"]', 'The report data did not load this time.');
-    setText(lead, '[data-field="summary"]', 'The page is working, but the latest report file could not be retrieved.');
+    setText(lead, '[data-field="summary"]', 'The page is working, but no current, archived, or saved report could be retrieved.');
     setImage(lead, '[data-field="image"]', '', 'Morning Intelligence Report', LEAD_FALLBACK_IMAGE);
 
     const updated = document.getElementById('report-updated');
@@ -216,17 +305,44 @@
     if (updated) updated.textContent = 'Latest refresh could not be confirmed';
     if (status) {
       status.hidden = false;
-      status.textContent = 'The report file did not load. Please refresh the page in a moment.';
+      status.textContent = 'No completed report is available on this device yet. Please refresh after the next report run.';
     }
   };
 
-  setActiveNavigation();
+  const loadReportWithFallbacks = async () => {
+    try {
+      const report = await loadPrimaryReport();
+      renderReport(report);
+      saveCachedReport(report);
+      document.body.dataset.reportSource = 'current';
+      return;
+    } catch (primaryError) {
+      console.warn('The current report could not be used.', primaryError);
+    }
 
-  fetch(`data/report.json?cache=${Date.now()}`, { cache: 'no-store' })
-    .then((response) => {
-      if (!response.ok) throw new Error(`Report request failed: ${response.status}`);
-      return response.json();
-    })
-    .then(renderReport)
-    .catch(showLoadError);
+    try {
+      const report = await loadArchivedReport();
+      renderReport(report);
+      saveCachedReport(report);
+      showFallbackNotice('archive');
+      document.body.dataset.reportSource = 'archive';
+      return;
+    } catch (archiveError) {
+      console.warn('The archived report could not be used.', archiveError);
+    }
+
+    const cachedReport = loadCachedReport();
+    if (cachedReport) {
+      renderReport(cachedReport);
+      showFallbackNotice('browser');
+      document.body.dataset.reportSource = 'browser';
+      return;
+    }
+
+    showLoadError(new Error('All report sources failed.'));
+    document.body.dataset.reportSource = 'unavailable';
+  };
+
+  setActiveNavigation();
+  loadReportWithFallbacks();
 })();
