@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-16T21:54:31.693527+00:00",
-  "generated_at_local": "2026-07-16T16:54:31.693527-05:00",
+  "generated_at": "2026-07-16T22:36:01.332542+00:00",
+  "generated_at_local": "2026-07-16T17:36:01.332542-05:00",
   "report_date": "2026-07-16",
   "top_story": {
-    "source": "NPR",
-    "headline": "After years of false claims on voting, Trump to give an address on election integrity",
-    "summary": "President Trump, who for years has sowed doubt about the security of American elections, is scheduled to give a primetime address Thursday night about election integrity. Trump has long contended, without evidence, that he won the 2020 election",
-    "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
-    "image": "assets/images/clementine-madison-morning.webp",
-    "published": "Thu, 16 Jul 2026 16:50:26 -0400"
+    "source": "BBC World",
+    "headline": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+    "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+    "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg",
+    "published": "Thu, 16 Jul 2026 21:22:09 GMT"
   },
   "quick_scan": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "source": "Madison Local",
-      "headline": "Wildfire smoke moves into southern Wisconsin, bringing air quality advisories into at least Friday - Wisconsin State Journal",
-      "summary": "Wildfire smoke moves into southern Wisconsin, bringing air quality advisories into at least Friday Wisconsin State Journal",
+      "headline": "Wildfire smoke moves into southern Wisconsin, bringing 'hazardous' air quality to most of state - Wisconsin State Journal",
+      "summary": "Wildfire smoke moves into southern Wisconsin, bringing 'hazardous' air quality to most of state Wisconsin State Journal",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEdFM2hFNXg4S2hDalIyOFdIdmhvOU14QVY5elBXOW11cVpFN0hoSmE2aFdtOFRSOWxpd2Z2Q3JIUGhUT2VwUktTcVBfTVBDNXJfLXBfVGhBY3A3czJ3eTdxS3paOG9udU9FeWU4Q2hBdjVYc2syRVpkRVk3dHc2OGNzdjVaNEFnR0kxTGdzdjlxZw?oc=5",
       "image": "",
       "published": "Thu, 16 Jul 2026 17:25:00 GMT"
@@ -84,7 +84,7 @@
         "summary": "Dane County Fair pledges to treat animals as ‘queens’ amid heat warnings Wisconsin State Journal",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2gtOVE2eXl5TlZYZUlVc1pRLVUzUUVwUVNlVXpib0wwQ3k2TjU3UHhSdE1GS09DTV9jSmNlUlRkVThLQkdUbVJZZlBvUmtPc09wb1JIdEFCeHJ0U1JBMFM4eHdfYjhkZE1fYTdtb0VQTlhVWkhPeVVxM1FSaFFYZ3VVU2MyODVCOXN5XzZFSmw?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 10:00:00 GMT"
+        "published": "Thu, 16 Jul 2026 10:45:00 GMT"
       },
       {
         "source": "Madison Local",
@@ -146,6 +146,14 @@
     "must-know": [
       {
         "source": "NPR",
+        "headline": "After years of false claims on voting, Trump to give an address on election integrity",
+        "summary": "President Trump, who for years has sowed doubt about the security of American elections, is scheduled to give a primetime address Thursday night about election integrity. Trump has long contended, without evidence, that he won the 2020 election",
+        "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 16:50:26 -0400"
+      },
+      {
+        "source": "NPR",
         "headline": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
         "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.",
         "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
@@ -178,6 +186,14 @@
       },
       {
         "source": "BBC US & Canada",
+        "headline": "At least one dead in Texas floods ravaging same area where campers died",
+        "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/3c71ee80-8137-11f1-b525-63787292c170.jpg",
+        "published": "Thu, 16 Jul 2026 22:08:13 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
         "headline": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
         "summary": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
         "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
@@ -186,27 +202,11 @@
       },
       {
         "source": "BBC US & Canada",
-        "headline": "At least one dead in Texas floods ravaging same area where campers died",
-        "summary": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit.",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/3c71ee80-8137-11f1-b525-63787292c170.jpg",
-        "published": "Thu, 16 Jul 2026 17:56:47 GMT"
-      },
-      {
-        "source": "BBC US & Canada",
         "headline": "What to know about the Canadian and US wildfires and their impact",
         "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
         "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c04/live/5b406ea0-811d-11f1-96bf-6155b9f8d82a.jpg",
         "published": "Thu, 16 Jul 2026 16:08:40 GMT"
-      },
-      {
-        "source": "NPR",
-        "headline": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
-        "summary": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
-        "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-        "image": "",
-        "published": "Thu, 16 Jul 2026 05:01:00 -0400"
       }
     ],
     "ai-tech": [
@@ -476,6 +476,14 @@
     "animals": [
       {
         "source": "Variety",
+        "headline": "FX, Color Force to Develop Series Based on New Yorker Article About National Park Volunteer Rescue Squad (EXCLUSIVE)",
+        "summary": "In a competitive situation, FX has secured the rights to develop a series based on the New Yorker article “The Call of the Wild” by Paige Williams, Variety has learned exclusively from sources. Also published online in January 2026 under the title “The Backcountry Rescue Squad at America’s Busiest National Park,” the article details the",
+        "url": "https://variety.com/2026/tv/news/fx-series-new-yorker-national-park-volunteer-rescue-squad-1236813417/",
+        "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2362220.jpg",
+        "published": "Thu, 16 Jul 2026 22:30:00 +0000"
+      },
+      {
+        "source": "Variety",
         "headline": "Argentina’s World Cup Victory Over England Scores 15.1 Million Viewers on Fox, Largest Semifinals Telecast in English-Language U.S. History",
         "summary": "Just a day after Fox Sports’ coverage of the FIFA World Cup 2026 semifinals broke records, they did it again. Wednesday’s nailbiter between Argentina and England averaged 15.063 million viewers on Fox, making it the most-watched FIFA Men’s World Cup semifinals match in English-language history. That beat Tuesday’s faceoff between Spain and France, which averaged",
         "url": "https://variety.com/2026/tv/news/argentina-england-world-cup-ratings-15-million-fox-1236813261/",
@@ -491,12 +499,12 @@
         "published": "Wed, 15 Jul 2026 23:02:49 GMT"
       },
       {
-        "source": "Reuters",
-        "headline": "NTSB Finds Evidence of Bird Strike Before Fatal New York Helicopter Crash - U.S. News & World Report",
-        "summary": "NTSB Finds Evidence of Bird Strike Before Fatal New York Helicopter Crash U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTEdDZE9jd1BpS0M5TE5oaERkNHJJM0xSanlKWlZBZTUyZE1POEgzcFhFSFJndHdxblNKVEFWVkVLOUdqbjFWZ1N5cTdGX1FhZk9TVjRFdUJLVVRBclpBTVZMNnl1NEdSZ2Z4Q0Y0QS1IN2tkS1dDUWdZRk5xMzdxTlBsSFVDZjZVVWpjVjZJazN1X2xIdG0tNjlMY1lTbDRqdG1HWTkwNEprVE01QXZsTTVFb2ZYTlMxa1VXTkx1SkdSYnFWMWlfdl9n?oc=5",
+        "source": "Animals",
+        "headline": "One Enormous Wildlife Rescue Mission Is Rebuilding What War Destroyed - The Animal Rescue Site",
+        "summary": "One Enormous Wildlife Rescue Mission Is Rebuilding What War Destroyed The Animal Rescue Site",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZk9ramdmUDNHcDd2ZEhHWVlvXzVpYUN6X3cxYXBsWXhUTEJPeHhDT2RDcDlfVlBVQ0UyV2hQQWZ6V0FXZ3VheUxiWDJuU0xCOERNWnBoLTlHdnk2b2FqQm40U3VPOWI3aGlVUEF6b3ZGbmhDRldJSjhsa1NaOW5wR3R6VXRsMWptanZ4ek5jbFBKZ0VwRk1mdlgyZ0tMODVrNk1RaERlQlppRFg0OUdvdllYV1o?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 18:23:00 GMT"
+        "published": "Thu, 16 Jul 2026 12:24:22 GMT"
       },
       {
         "source": "BBC Science",
@@ -528,15 +536,7 @@
         "summary": "Humpback whale found dead under private dock in Winthrop, officials say The Boston Globe",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOTRya1FwUFZFSWRLaHkwNm9IZ1doWTdaUDFmaUo2WThZQk9UdnFqRlZvcDhDUWpCZ0lTMFZDRC1KNVIxVktacmh2SkI5M3UzVEEwa0xLb1BhVGQ4RzFQb3VmZ1FsR1RXc2ZuQ09MckxEQnpTX1N2ZWI0TlNKVElXZURmVQ?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 18:32:51 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "Animal shelter gets $50K donation in will of late Brampton resident - INsauga",
-        "summary": "Animal shelter gets $50K donation in will of late Brampton resident INsauga",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmJkRWZ6Z0Z2V1IxdTRPZTJwU0tXdFdiSE5qc3NqUkhDLU5aVWpOX1RZUnhPMHNMbElCeDUzWExQeE9zcU8yWkxPRkRuSl9ibFdQVUpNSnhFaFJPenVHWTRObC1iSXhxS3dqc0dCWnEwbk5iRjhfX3JDTUhVX3BmNzlwWVV6NGw3NV96ak1nVzV3NTZBYmc?oc=5",
-        "image": "",
-        "published": "Thu, 16 Jul 2026 16:30:35 GMT"
+        "published": "Thu, 16 Jul 2026 20:36:50 GMT"
       }
     ],
     "wonderful": [
@@ -598,5 +598,9 @@
     "image": "",
     "published": "Mon, 13 Jul 2026 11:00:28 +0000"
   },
-  "capybara_message": "Stop trying to earn rest from a committee that keeps moving the requirements."
+  "capybara_message": "Stop trying to earn rest from a committee that keeps moving the requirements.",
+  "personalization": {
+    "active_feedback_signals": 0,
+    "profile_updated_at": null
+  }
 }
