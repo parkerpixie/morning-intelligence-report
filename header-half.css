@@ -1,84 +1,90 @@
-/* Final compact desktop hero override: approximately half the previous height */
+/* Balanced split hero override */
 
 .report-title-hero {
-  grid-template-columns: minmax(0, 1fr) 260px;
-  width: min(calc(100% - 2rem), 1080px);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  align-items: center;
+  width: min(calc(100% - 3rem), 1120px);
   min-height: 0;
-  padding: 1.35rem 0 1.6rem;
-  gap: clamp(2rem, 4vw, 3.25rem);
-}
-
-.report-title-hero::before {
-  top: 8%;
-  left: -2%;
-  width: 12rem;
-  height: 12rem;
-  box-shadow:
-    0 0 0 1.8rem rgba(47, 159, 167, 0.025),
-    0 0 0 3.6rem rgba(88, 54, 79, 0.018);
+  height: auto;
+  margin: 0 auto;
+  padding: 3.25rem 0 3.75rem;
+  gap: clamp(3rem, 6vw, 5.5rem);
 }
 
 .report-title-copy {
-  max-width: 520px;
+  max-width: 610px;
 }
 
 .report-title-kicker {
-  margin-bottom: 0.65rem;
-  font-size: 0.68rem;
-}
-
-.report-title-kicker::before {
-  width: 2rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.74rem;
 }
 
 .report-title-heading {
-  max-width: 8.25ch;
-  font-size: clamp(2.7rem, 4.4vw, 4rem);
-  line-height: 0.84;
+  max-width: 8.5ch;
+  font-size: clamp(3.8rem, 6vw, 5.4rem);
+  line-height: 0.86;
 }
 
 .report-title-description {
-  max-width: 500px;
-  margin-top: 1rem;
-  font-size: clamp(0.92rem, 1.2vw, 1rem);
-  line-height: 1.5;
+  max-width: 590px;
+  margin-top: 1.35rem;
+  font-size: clamp(1rem, 1.35vw, 1.12rem);
+  line-height: 1.62;
 }
 
 .report-title-note {
-  max-width: 500px;
-  margin-top: 0.7rem;
-  font-size: 0.8rem;
-  line-height: 1.35;
+  max-width: 590px;
+  margin-top: 0.9rem;
+  font-size: 0.88rem;
+  line-height: 1.4;
 }
 
 .report-title-button {
-  min-height: 40px;
-  margin-top: 0.95rem;
-  padding: 0.62rem 1.05rem;
-  font-size: 0.8rem;
+  min-height: 46px;
+  margin-top: 1.35rem;
+  padding: 0.78rem 1.3rem;
+  font-size: 0.88rem;
 }
 
 .report-title-art {
-  width: 260px;
+  width: 360px;
+  max-width: 100%;
+  margin: 0;
+  justify-self: end;
 }
 
 .report-title-art::before {
-  inset: -0.65rem 0.75rem 0.75rem -0.75rem;
-  border-radius: 27px;
+  inset: -0.85rem 0.95rem 0.95rem -0.95rem;
+  border-radius: 34px;
 }
 
 .report-title-art::after {
-  top: -0.7rem;
-  right: -0.55rem;
-  width: 2.8rem;
-  height: 2.8rem;
-  font-size: 1.3rem;
+  top: -0.9rem;
+  right: -0.6rem;
+  width: 3.25rem;
+  height: 3.25rem;
+  font-size: 1.5rem;
 }
 
 .report-title-art-frame {
-  border-width: 6px;
-  border-radius: 27px;
-  box-shadow: 0 15px 36px rgba(23, 59, 69, 0.14);
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  border-width: 7px;
+  border-radius: 34px;
+  box-shadow: 0 18px 44px rgba(23, 59, 69, 0.15);
+}
+
+.report-title-art img {
+  display: block;
+  width: 100%;
+  height: 100% !important;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: cover;
+  object-position: center;
 }
 
 .report-title-art figcaption {
@@ -87,51 +93,63 @@
 
 @media (max-width: 960px) {
   .report-title-hero {
-    grid-template-columns: minmax(0, 1fr) 225px;
-    min-height: 0;
-    padding: 1.2rem 0 1.45rem;
-    gap: 1.75rem;
+    grid-template-columns: minmax(0, 1fr) 310px;
+    width: min(calc(100% - 2.5rem), 1040px);
+    padding: 2.8rem 0 3.2rem;
+    gap: 2.5rem;
   }
 
   .report-title-heading {
-    font-size: clamp(2.5rem, 5vw, 3.55rem);
+    font-size: clamp(3.4rem, 7vw, 4.8rem);
   }
 
   .report-title-art {
-    width: 225px;
+    width: 310px;
   }
 }
 
 @media (max-width: 780px) {
   .report-title-hero {
     grid-template-columns: 1fr;
-    width: min(calc(100% - 1.5rem), 680px);
-    padding: 2rem 0 2.5rem;
-    gap: 1.5rem;
+    width: min(calc(100% - 2rem), 680px);
+    padding: 2.4rem 0 3.2rem;
+    gap: 2.25rem;
+  }
+
+  .report-title-copy {
+    max-width: 100%;
   }
 
   .report-title-heading {
-    font-size: clamp(2.8rem, 11vw, 4rem);
+    font-size: clamp(3.25rem, 12vw, 4.6rem);
   }
 
   .report-title-art {
-    width: min(70%, 250px);
-    margin-top: 0;
+    width: min(82%, 360px);
     justify-self: center;
   }
 }
 
 @media (max-width: 480px) {
   .report-title-hero {
-    padding-top: 1.6rem;
-    gap: 1.35rem;
+    width: calc(100% - 1.5rem);
+    padding: 2rem 0 2.75rem;
+    gap: 1.8rem;
   }
 
   .report-title-heading {
-    font-size: clamp(2.7rem, 14vw, 3.75rem);
+    font-size: clamp(3rem, 15vw, 4rem);
+  }
+
+  .report-title-description {
+    font-size: 1rem;
+  }
+
+  .report-title-button {
+    width: 100%;
   }
 
   .report-title-art {
-    width: min(78%, 235px);
+    width: min(88%, 340px);
   }
 }
