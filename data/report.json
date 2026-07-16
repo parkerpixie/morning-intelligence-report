@@ -1,69 +1,96 @@
 {
-  "generated_at": "2026-07-16T02:38:16.661897+00:00",
+  "generated_at": "2026-07-16T03:10:08.029002+00:00",
   "report_date": "2026-07-16",
   "top_story": {
     "source": "BBC World",
-    "headline": "US military to start screening for testosterone deficiency, Hegseth says",
-    "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
-    "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
-    "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
-    "published": "Thu, 16 Jul 2026 02:33:40 GMT"
+    "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+    "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
+    "published": "Thu, 16 Jul 2026 03:08:09 GMT",
+    "take": "The consequential part is not the political theater. It is what this could change in law, policy, rights, or public life: US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran."
   },
   "quick_scan": [
     {
       "source": "Wisconsin News",
-      "headline": "Poor air quality impacting outdoor events in Northeast Wisconsin - WLUK",
-      "summary": "Poor air quality impacting outdoor events in Northeast Wisconsin WLUK",
-      "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnY3c0pJQWN2OUVGOTRJNXMyb2VPVm1Vb2lORHo3Y1J1U0cxbUJHSmNWSm52UUQxdFZvQzF2cDFJR1hCcHFoX0Z5V0RXYUtJcWZ5S2hlRjU1YlNqRVVVbklnd2plaXFnNDVDR2NpZ2Zsbk9zMXJ2LWdqcEQzMWxMSHluNm5zMjJQajctbFRyTnVtRVBJNEZIVDhIQ2ZjZmI2bHc5YzJ0dE1LSlpNUjZOSWln?oc=5",
+      "headline": "Doctors urge caution as wildfire smoke drifts into Wisconsin - Channel 3000",
+      "summary": "Doctors urge caution as wildfire smoke drifts into Wisconsin Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWMyaGpGVUJIM3k0SXN6LU81NmgyVTN6WVFBSEtaUDF2OWlfcUtacXpYWm94WTZubDU1V0ZPQXlmUUFhOUd3c25yS1hKZldmdlBNbDVJVUs3YmJ0Qk5iSE8yMWV0MWtVMFcybG0wc3Q0MkRiUGtqQWxGVUc0NDhmMDJoMjJmclRZSExPaUpkd2tOa21vZTNheGRJLWxvWktOWXMyaEl1M3NNUkpuaVEwanJVOHNtay1OYnJOTGV1dDd0U0FvbDExSHhsYmlBQWp3VTMwVk1KLVY2bVE?oc=5",
       "image": "",
-      "published": "Thu, 16 Jul 2026 00:58:33 GMT"
+      "published": "Thu, 16 Jul 2026 00:37:00 GMT",
+      "take": "This is close enough to matter beyond the headline: Doctors urge caution as wildfire smoke drifts into Wisconsin Channel 3000. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
+    },
+    {
+      "source": "Ars Technica",
+      "headline": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "summary": "The convenience store chain will use StorMagic instead.",
+      "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg",
+      "published": "Wed, 15 Jul 2026 21:41:56 +0000",
+      "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: The convenience store chain will use StorMagic instead."
     },
     {
       "source": "Wisconsin News",
-      "headline": "Doctors urge caution as wildfire smoke drifts into Wisconsin - Channel 3000",
-      "summary": "Doctors urge caution as wildfire smoke drifts into Wisconsin Channel 3000",
-      "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWMyaGpGVUJIM3k0SXN6LU81NmgyVTN6WVFBSEtaUDF2OWlfcUtacXpYWm94WTZubDU1V0ZPQXlmUUFhOUd3c25yS1hKZldmdlBNbDVJVUs3YmJ0Qk5iSE8yMWV0MWtVMFcybG0wc3Q0MkRiUGtqQWxGVUc0NDhmMDJoMjJmclRZSExPaUpkd2tOa21vZTNheGRJLWxvWktOWXMyaEl1M3NNUkpuaVEwanJVOHNtay1OYnJOTGV1dDd0U0FvbDExSHhsYmlBQWp3VTMwVk1KLVY2bVE?oc=5",
+      "headline": "Poor air quality impacting outdoor events in Northeast Wisconsin - WLUK",
+      "summary": "Poor air quality impacting outdoor events in Northeast Wisconsin WLUK",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnY3c0pJQWN2OUVGOTRJNXMyb2VPVm1Vb2lORHo3Y1J1U0cxbUJHSmNWSm52UUQxdFZvQzF2cDFJR1hCcHFoX0Z5V0RXYUtJcWZ5S2hlRjU1YlNqRVVVbklnd2plaXFnNDVDR2NpZ2Zsbk9zMXJ2LWdqcEQzMWxMSHluNm5zMjJQajctbFRyTnVtRVBJNEZIVDhIQ2ZjZmI2bHc5YzJ0dE1LSlpNUjZOSWln?oc=5",
       "image": "",
-      "published": "Thu, 16 Jul 2026 00:37:00 GMT"
-    },
-    {
-      "source": "Variety",
-      "headline": "Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026",
-      "summary": "The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest major returns to one of its most historic venues, where players will compete for the coveted Claret Jug before the PGA Tour […]",
-      "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/watch-the-open-championship-online.jpg",
-      "published": "Wed, 15 Jul 2026 23:50:48 +0000"
+      "published": "Thu, 16 Jul 2026 00:58:33 GMT",
+      "take": "This is close enough to matter beyond the headline: Poor air quality impacting outdoor events in Northeast Wisconsin WLUK. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
     },
     {
       "source": "The Verge",
-      "headline": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch […]",
-      "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
-      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "headline": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop […]",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
       "image": "",
-      "published": "2026-07-15T18:39:40-04:00"
+      "published": "2026-07-15T18:16:46-04:00",
+      "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck."
+    },
+    {
+      "source": "Pitchfork",
+      "headline": "Watch Robyn Cover Erasure’s “Always”",
+      "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
+      "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
+      "image": "https://media.pitchfork.com/photos/6a58108ccccc47e13df0a75e/master/pass/Robyn%20-%206%20Music%20session%20-%20credit%20BBC%20Radio%206%20Music.JPG",
+      "published": "Wed, 15 Jul 2026 23:25:39 +0000",
+      "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs."
+    },
+    {
+      "source": "Pitchfork",
+      "headline": "New David Bowie Collection to Feature Unreleased Songs with Jimmy Page",
+      "summary": "The Shel Talmy Recordings gathers material the late singer, then going by Davie Jones, made with the titular producer in 1965",
+      "url": "https://pitchfork.com/story/david-bowie-collection-jimmy-page/",
+      "image": "https://media.pitchfork.com/photos/6a5802d12a164c2b958e70cc/master/pass/GettyImages-925879904.jpg",
+      "published": "Wed, 15 Jul 2026 22:32:41 +0000",
+      "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: The Shel Talmy Recordings gathers material the late singer, then going by Davie Jones, made with the titular producer in 1965."
     },
     {
       "source": "Good News Network",
-      "headline": "South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner",
-      "summary": "A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. Sak Yiengjuntuek knew as soon as he saw the stack of $100 bills that they belonged to the man who sold him the restaurant that would become Lemongrass Pho […] The post South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner appeared first on Good News Network…",
-      "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
-      "url": "https://www.goodnewsnetwork.org/south-carolina-restaurant-owner-finds-12000-in-old-cabinet-and-returns-it-to-former-owner/",
+      "headline": "Young Man Interviews 3,000 World War II Vets Over 10-year Project–Preserving Their Stories",
+      "summary": "A decade ago, a young American began recording interviews with World War II combat veterans to satisfy his curiosity about the war. That curiosity became something of an obsession, and 3,000 veterans later, his hard drives and SD cards have become something of a national treasure. Brought to us from Steve Hartman for CBS News’ […] The post Young Man Interviews 3,000 World War II Vets Over 10-year Project–Preserving Their…",
+      "url": "https://www.goodnewsnetwork.org/young-man-interviews-3000-world-war-ii-vets-over-10-year-project-preserving-their-stories/",
       "image": "",
-      "published": "Wed, 15 Jul 2026 13:00:40 +0000"
+      "published": "Mon, 13 Jul 2026 11:00:28 +0000",
+      "take": "Keep this one for the day: A decade ago, a young American began recording interviews with World War II combat veterans to satisfy his curiosity about the war. It is concrete evidence that people still repair, help, rescue, and show up."
     },
     {
-      "source": "Good News Network",
-      "headline": "4 Different Bobkittens Rescued in a Week, Undergoing Rehab Together for Return to the Wild",
-      "summary": "These two incredible animals are bobkittens, and they’re lucky to be alive. They are 2 of 4 baby bobcats rescued within days of each other, from as many as 3 different mothers—all of whom either died, or lost or abandoned the kittens. Now living together at the Saratoga Wildlife Care Center, they have a fighting […] The post 4 Different Bobkittens Rescued in a Week, Undergoing Rehab Together for Return to the Wild appeared…",
-      "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
-      "url": "https://www.goodnewsnetwork.org/4-different-bobkittens-rescued-in-a-week-undergoing-rehab-together-for-return-to-the-wild/",
+      "source": "Mental Health",
+      "headline": "Vaping study shows need to empower youth to lead community action - University of Calgary",
+      "summary": "Vaping study shows need to empower youth to lead community action University of Calgary",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajZ0VXRPLVBKaUpwOVVDZlQ0bG5PdkttYVp3RUljSk5JeG4tMkFkekpHVVJpV2RhWC1kQWd5bGpLM0sxckRzU0xxcS1vZWg2ZzF2cThzMnlDU2lqMTVFbXlhRVZWcEtnMlI3anAzWEx3SzhjaDg5MExSNVNVYnVoZkFpbElXOEZ3VnpMTQ?oc=5",
       "image": "",
-      "published": "Wed, 15 Jul 2026 11:01:48 +0000"
+      "published": "Wed, 15 Jul 2026 22:31:23 GMT",
+      "take": "The headline is only the doorway. The meaningful point is: Vaping study shows need to empower youth to lead community action University of Calgary. Keep the nuance, especially before treating research as personal medical guidance."
+    },
+    {
+      "source": "Mental Health",
+      "headline": "FDA's Psychedelic Guidance; Mass Shootings and Car Crashes; ADHD Drug Misuse Down - MedPage Today",
+      "summary": "FDA's Psychedelic Guidance; Mass Shootings and Car Crashes; ADHD Drug Misuse Down MedPage Today",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8waTV1ZDY3MWt6WHNjQU54ZUw1VXNhSmtOV0RGN3FvOXRaVWxDeDBseUlQTHVnN3RDM3hwcDJDVFBXdTRyb1NDZkQyX20xTC1XTUdxYTlQY0hCTjRHbFhuNGVrX1BhTlF2T2lLS1I2clBQQQ?oc=5",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 18:31:44 GMT",
+      "take": "The headline is only the doorway. The meaningful point is: FDA's Psychedelic Guidance; Mass Shootings and Car Crashes; ADHD Drug Misuse Down MedPage Today. Keep the nuance, especially before treating research as personal medical guidance."
     }
   ],
   "sections": {
@@ -72,104 +99,113 @@
         "source": "Wisconsin News",
         "headline": "See photos from the Northeast Wisconsin Top Workplaces awards ceremony - Green Bay Press-Gazette",
         "summary": "See photos from the Northeast Wisconsin Top Workplaces awards ceremony Green Bay Press-Gazette",
-        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2pwQkU1ZUJWdXVzQjdTMG42TFlDY1FuZ0JSbUw5TEhMYkRKWWZRdkE4SkR1YkpOUVpRRGhxUGFGS3Mxa0FoNUZQZHQySXpmT1Q1RmJ1OEtEQkpycnlTRmsyV2xmVy1PVmFYRFJyQ0ViUFliWnEwaGtuWmppMEF3MXl4S3NfX3RUMmliTF9NNk1nX25LSTA2LUhVdHJhNWNzSi1WZ0VWbzQ1aERTT2NsWUczTHZPVTNFbE5mQm96VlNPeUk5MXF3QThnRERwWFItbGswV28xLXpaeVQzb0Y1QjNKdjdhUG03RG9uUzkyNA?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 02:17:00 GMT"
+        "published": "Thu, 16 Jul 2026 02:17:00 GMT",
+        "take": "This is close enough to matter beyond the headline: See photos from the Northeast Wisconsin Top Workplaces awards ceremony Green Bay Press-Gazette. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
+      },
+      {
+        "source": "Madison Local",
+        "headline": "13 people sentenced following multi-year drug investigation in Dane County - WMTV 15 NEWS",
+        "summary": "13 people sentenced following multi-year drug investigation in Dane County WMTV 15 NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVhITXdIbkc1MlBBNTk2eDlzX3c3RjEwbVZhTEVoMlFmR1ppeXh6endTM2RrbVh0ZmtoNGVDOERqQ281MW5mWDNsRzFpeTY4Y1IzbzJhUVZfOUMxYWl3RDYtQy1HNWQtU3VzVVdmMU9vQ0U0QUFfQTVDX2JpWVhhTWFXX0lxcmFVc1dzYUZGQmxxR1NsaDRnREFIaXhYQS1LTXlYeHlpZ0VNYkFJd1gxRERzOWdUeXNlTFVHRWI4Vm1PdUXSAcMBQVVfeXFMTWVYSE13SG5HNTJQQTU5Nng5c193N0YxMG1WYUxFaDJRZkdaaXl4enp3UzNka21YdGZraDRlQzhEakNvNTFuZlgzbEcxaXk2OGNSM28yYVFWXzlDMWFpd0Q2LUMtRzVkLVN1c1VXZjFPb0NFNEFBX0E1Q19iaVlYYU1hV19JcXJhVXNXc2FGRkJscUdTbGg0Z0RBSGl4WEEtS015WHh5aWdFTWJBSXdYMUREczlnVHlzZUxVR0ViOFZtT3VF?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 02:14:00 GMT",
+        "take": "This is close enough to matter beyond the headline: 13 people sentenced following multi-year drug investigation in Dane County WMTV 15 NEWS. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
       },
       {
         "source": "Wisconsin News",
         "headline": "Wisconsin community garden looks to fight hunger, revive history - The Milwaukee Courier",
         "summary": "Wisconsin community garden looks to fight hunger, revive history The Milwaukee Courier",
-        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWFqWU1ub1NEM0ZxMnJURzluMDBjelFSUFFDOHQwa0U5OG9lS3JodFEtUUVVNklMeFdlQzN5OE1rTm5DX3dHS2daWmFRaXR4a1ZOcnREUmVzN0xuR25DNTdESUVNZ0RiR0ZKaHJva2dGRFRJd0xyQXNBMVVhbF9UOFNoeUZxVkhMNDUzNlY1VHpVUzVlcG01dlF0UVVYTzVScHdtQlJ6N2pVblFj?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 01:23:00 GMT"
-      },
-      {
-        "source": "Wisconsin Public Radio",
-        "headline": "WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges",
-        "summary": "The Catalyst Quartet, formed in 2010 by the Sphinx Organization, serves as a catalyst for a more inclusive and inviting classical music experience. The post WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges appeared first on WPR .",
-        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
-        "url": "https://www.wpr.org/music/wpr-music-new-album-of-the-week-catalyst-quartet-uncovers-the-chevalier-de-saint-georges",
-        "image": "",
-        "published": "Thu, 16 Jul 2026 00:00:00 +0000"
+        "published": "Thu, 16 Jul 2026 01:23:00 GMT",
+        "take": "This is close enough to matter beyond the headline: Wisconsin community garden looks to fight hunger, revive history The Milwaukee Courier. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
       },
       {
         "source": "Wisconsin Public Radio",
         "headline": "Rally outside Wisconsin DOC calls for an end to prison overcrowding",
         "summary": "Several dozen people rallied outside the Department of Corrections headquarters in Madison Wednesday, calling for an end to prison overcrowding. The post Rally outside Wisconsin DOC calls for an end to prison overcrowding appeared first on WPR .",
-        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
         "url": "https://www.wpr.org/news/rally-outside-doc-headquarters-end-prison-overcrowding",
         "image": "",
-        "published": "Wed, 15 Jul 2026 23:43:37 +0000"
+        "published": "Wed, 15 Jul 2026 23:43:37 +0000",
+        "take": "This is close enough to matter beyond the headline: Several dozen people rallied outside the Department of Corrections headquarters in Madison Wednesday, calling for an end to prison overcrowding. Watch for the practical effect on Madison, Dane County, or Wisconsin residents."
       }
     ],
     "must-know": [
       {
-        "source": "AP via Google News",
-        "headline": "Trump Immediately Fires the New Court-Appointed Top Prosecutor in Seattle - U.S. News & World Report",
-        "summary": "Trump Immediately Fires the New Court-Appointed Top Prosecutor in Seattle U.S. News & World Report",
-        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUEyRU96cFNTc2VMalpNZWpLOXU2RG5mbjF6VGVuMEs5aGRFVTBKdFZQcWYwZ0tvNkNCWk5XUG9ob1otNF9ZVkM2eEtCcTZZTFBqSEZmZTR2OXczNi1UZ1VOTTFiX3JPdU1DWjd0ZVM2M2ROS3dsSTVJbFZSWlZGOGw5dEZCRTBsbWJTOGdicGtYNVRQem5Ybm5oQk52cjgyMGVxVEJybHRUeWNMeHlORFpjWW9MaFR5cVBvRHBicFZPaWc3UTlBTFU0Nm0yWlBYTXVpMF9MOGJndTdL?oc=5",
-        "image": "",
-        "published": "Thu, 16 Jul 2026 01:57:00 GMT"
-      },
-      {
         "source": "BBC World",
-        "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
-        "published": "Thu, 16 Jul 2026 01:52:41 GMT"
+        "headline": "US military to start screening for testosterone deficiency, Hegseth says",
+        "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
+        "published": "Thu, 16 Jul 2026 02:33:40 GMT",
+        "take": "This made the cut because it could shape today’s wider conversation or consequences: Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\"."
       },
       {
-        "source": "AP via Google News",
+        "source": "Associated Press",
+        "headline": "Trump immediately fires the new court-appointed top prosecutor in Seattle - AP News",
+        "summary": "Trump immediately fires the new court-appointed top prosecutor in Seattle AP News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2JhcW5GTXpYLXlrWFYxTU1vc3lINmpEZ2wwMGw5R1VzVXJVbnJWOGd3N01MblJTZUxob0Q5RV9YRy1Hbmd6ZS1WSmZvQ3d2Ynd6bkc3TTRnZUJzT0p3REdOVHhaeXUyWV80bmVCUEpqNER1SncyVU0xWUxESUpWNFNjbl9FZmhFeW04WUgzdUxpekNiYWc?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:57:00 GMT",
+        "take": "The consequential part is not the political theater. It is what this could change in law, policy, rights, or public life: Trump immediately fires the new court-appointed top prosecutor in Seattle AP News."
+      },
+      {
+        "source": "Associated Press",
         "headline": "Top officials in Arizona's Maricopa County agree on how to oversee elections, ending a legal battle - AP News",
         "summary": "Top officials in Arizona's Maricopa County agree on how to oversee elections, ending a legal battle AP News",
-        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW9UbmN2aHJkN3FGVGpOaDVuWUdOSXBxNmhrN292NUF2dDJ0c3lhMGN2bzVpdkNTcUtxMjZOcl9qWWh2VHRybkFDaWRXdFpMVGNTbEFxaE5sVWZBdU9YT3ZaTFM4QXNfUXFHT1RDcHhTN2pVdTNCRlVMcE95OGhOSVd0MFBlaFNJM3RkUWNhU2FLUmQzSWFxTG5PczRxU1E3VDJTSU1UanJXaTN2Q2hHa0J6SThMajZNa2dsanMwakhhbnk3amR1U0R5TWMzUQ?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 01:22:00 GMT"
+        "published": "Thu, 16 Jul 2026 01:22:00 GMT",
+        "take": "The consequential part is not the political theater. It is what this could change in law, policy, rights, or public life: Top officials in Arizona's Maricopa County agree on how to oversee elections, ending a legal battle AP News."
+      },
+      {
+        "source": "Reuters",
+        "headline": "US says it is blocking Americans in DR Congo from immediate travel home, citing Ebola - Reuters",
+        "summary": "US says it is blocking Americans in DR Congo from immediate travel home, citing Ebola Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTgxRmVubEIzRTBWVnBTTFlHN1M2N1plZURRRFVWYnpVOXdtMDRxTmxaWEVmTGFlbDVNaDBCSG96UnFVaWNlVGt0dnI1am1KdHR2b0RRbWlQaWN5MXFQMmM3YmpDRU1mX3FXSXZJLVlpUi0tMnF4SlNySnJObmRDNXJldDJrS1NKbklWWUE2M2tMZFlfcE9QV19FZncwWkUweTRvWGNyZjM0TFh0TGpaZElIZllRbXlLeXJ0TmVhUDZfemxsOUd4VWVGSlhEM2t6d2ZtcEl2bnBsQUoxbVZOR3pn?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:00:00 GMT",
+        "take": "This made the cut because it could shape today’s wider conversation or consequences: US says it is blocking Americans in DR Congo from immediate travel home, citing Ebola Reuters."
       }
     ],
     "ai-tech": [
       {
-        "source": "The Verge",
-        "headline": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-        "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits […]",
-        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
-        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-        "image": "",
-        "published": "2026-07-15T20:00:00-04:00"
-      },
-      {
         "source": "AI News",
         "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic - TechCrunch",
         "summary": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic TechCrunch",
-        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdzTC1XUGdXQkxVckRTM2JKX1RoaFI3ekgwWmYzQllnQl8wTEtBX3BISU9yWTRIMGk5bWNOMm9KRGpDU0NxS3E1bjR4bkczcXFweHhRZlJpandqbEVBa3I3VFFZdVNINUVVUXZTMExUZm5XeXhsYW1ld3JtRFM2QUtTSHBZcnJZTnE5Q1NLXzAyZmpPNjJrT1NMSnhtOGgzLVEzQURqV1dvbzUybWowLURacw?oc=5",
         "image": "",
-        "published": "Wed, 15 Jul 2026 23:59:44 GMT"
+        "published": "Wed, 15 Jul 2026 23:59:44 GMT",
+        "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic TechCrunch."
       },
       {
         "source": "The Verge",
         "headline": "HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
         "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB […]",
-        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
         "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
         "image": "",
-        "published": "2026-07-15T18:47:11-04:00"
+        "published": "2026-07-15T18:47:11-04:00",
+        "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are."
+      },
+      {
+        "source": "The Verge",
+        "headline": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+        "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch […]",
+        "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+        "image": "",
+        "published": "2026-07-15T18:39:40-04:00",
+        "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing."
       },
       {
         "source": "Ars Technica",
-        "headline": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-        "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
-        "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-1152x648-1784152724.jpeg",
-        "published": "Wed, 15 Jul 2026 22:36:28 +0000"
+        "headline": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+        "summary": "While an impressive sale, the pen and switch did not break records.",
+        "url": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-071526a-lg-1152x648.jpg",
+        "published": "Wed, 15 Jul 2026 22:10:41 +0000",
+        "take": "The useful question is whether this changes how people work, create, protect data, or depend on a platform. Here, the key development is: While an impressive sale, the pen and switch did not break records."
       }
     ],
     "work-marketing": [
@@ -177,37 +213,37 @@
         "source": "Salesforce",
         "headline": "Choose the Right CRM for Your Advisory Practice - SmartAsset",
         "summary": "Choose the Right CRM for Your Advisory Practice SmartAsset",
-        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUFrejJWZXpQV04xSVhKeFpzWUNxeWF6Y01fQlZpTkNkU0k0TWd0OUk0RUtvUUpaVnkydFktZUdSRVRwaG9ET3RWZkwtaWZ5S0ViWE9CWHRPRmEzT0htMVpSQkRQT01fd0VHeHpvajNzZG1jc3E5dUZ0cjVGYmd3M3drS0o3OTFSRGR2OGhlbjd0Zw?oc=5",
         "image": "",
-        "published": "Wed, 15 Jul 2026 21:11:53 GMT"
+        "published": "Wed, 15 Jul 2026 21:11:53 GMT",
+        "take": "For your work brain, the important part is the operational consequence: Choose the Right CRM for Your Advisory Practice SmartAsset. Look for cleaner data, better decisions, or a new burden disguised as innovation."
       },
       {
-        "source": "MarTech",
-        "headline": "Marketing’s AI challenge goes beyond adoption",
-        "summary": "Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing’s AI challenge goes beyond adoption appeared first on MarTech .",
-        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
-        "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/",
-        "image": "https://martech.org/wp-content/uploads/2026/04/robot-shopping-800x450.png",
-        "published": "Wed, 15 Jul 2026 15:40:16 +0000"
-      },
-      {
-        "source": "Salesforce",
-        "headline": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing - Salesforce",
-        "summary": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing Salesforce",
-        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXA1dWg2cEpBbk5hQWJPalVsaHFRdnhtVmxDb3pLcm9rQmxVREhNdHRKdUZQTVFNbVpkSHU2cjFSc0RkRXh4YlY2d0IxZy1KLW5yOWpUZjlhWmRfcXBQZHZTTDVURHB2SW1ISjZ1WENsOTJtQm1iaktuYmxNWWRDZzlQNk10QQ?oc=5",
+        "source": "Marketing Ops",
+        "headline": "Publicis Groupe stock holds steady as global advertising demand shapes long-term outlook - Ad-hoc-news.de",
+        "summary": "Publicis Groupe stock holds steady as global advertising demand shapes long-term outlook Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPemlwYWhlZXBmM09YSGtwbG5qdElDS1lpTjRRSTBTREFtTC04aTlqcXM1NzV5RVFEaHZVWFJqdk96WHRyQUhpSEpXNksxSW1MbWJxSUpUM0U0b2gzVXMzU1Fwd2VsekxtTHZ4ZE5OeEY1a2JzWEFmR09mX29DdGJPRl9MLUNVOExKR2E0TEUzRm12d0owUV9DVXloak1NaEFkUlhhQW1TdUJJd1pEcmVvZEZkb0UxRDZheFhGa2NJck9KQ2g3MHl0Qg?oc=5",
         "image": "",
-        "published": "Wed, 15 Jul 2026 15:37:56 GMT"
+        "published": "Wed, 15 Jul 2026 18:33:13 GMT",
+        "take": "For your work brain, the important part is the operational consequence: Publicis Groupe stock holds steady as global advertising demand shapes long-term outlook Ad-hoc-news.de. Look for cleaner data, better decisions, or a new burden disguised as innovation."
       },
       {
         "source": "MarTech",
         "headline": "Why AI-ready data infrastructure is so hard to build",
         "summary": "Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .",
-        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
         "url": "https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/",
         "image": "https://martech.org/wp-content/uploads/2026/04/data-foundation-construction-800x450.png",
-        "published": "Wed, 15 Jul 2026 12:53:00 +0000"
+        "published": "Wed, 15 Jul 2026 12:53:00 +0000",
+        "take": "For your work brain, the important part is the operational consequence: Many companies try to fix everything before using AI. Look for cleaner data, better decisions, or a new burden disguised as innovation."
+      },
+      {
+        "source": "MarTech",
+        "headline": "Why marketers should measure relationships, not leads",
+        "summary": "Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .",
+        "url": "https://martech.org/why-marketers-should-measure-relationships-not-leads/",
+        "image": "https://martech.org/wp-content/uploads/2026/05/handshake-in-front-of-computer-screen-800x450.png",
+        "published": "Wed, 15 Jul 2026 12:43:00 +0000",
+        "take": "For your work brain, the important part is the operational consequence: Lead volume shows activity. Look for cleaner data, better decisions, or a new burden disguised as innovation."
       }
     ],
     "wellbeing": [
@@ -215,37 +251,37 @@
         "source": "Mental Health",
         "headline": "We’re finally learning what happens to gifted children in adulthood - New Scientist",
         "summary": "We’re finally learning what happens to gifted children in adulthood New Scientist",
-        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTZwODdkNTNmbkV5dWcxYzFFeEdvN2xsd2Mxd3h5VkVMUDNIM0lnR3hqMzhxVndyM2FFZ3lqbXBCVFFYZm5VVTVlemRLblN3cDMtUkFhemQzNWNkZXBJRmk5NktnOGJ4UUlVX3pSdkZNV0xIN0tKaHN1U1VVWEd0c2VvZUVPaU1TcW5PUjhNaUZoLXZtbGJmSVVqcU9oZFlZQzFJajVyVFZZZ2NqT0ktclV3?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 01:52:30 GMT"
+        "published": "Thu, 16 Jul 2026 01:52:30 GMT",
+        "take": "The headline is only the doorway. The meaningful point is: We’re finally learning what happens to gifted children in adulthood New Scientist. Keep the nuance, especially before treating research as personal medical guidance."
       },
       {
         "source": "BBC Health",
         "headline": "The 'heartbreaking' OCD that can make you doubt your relationship",
         "summary": "Relationship OCD is gaining awareness, but limited data means little in known about how common the condition is.",
-        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
         "url": "https://www.bbc.co.uk/news/articles/ce9592kve1po?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a206/live/4435bf30-7f6a-11f1-8812-63adb81ec20b.jpg",
-        "published": "Thu, 16 Jul 2026 00:34:41 GMT"
+        "published": "Thu, 16 Jul 2026 00:34:41 GMT",
+        "take": "The headline is only the doorway. The meaningful point is: Relationship OCD is gaining awareness, but limited data means little in known about how common the condition is. Keep the nuance, especially before treating research as personal medical guidance."
       },
       {
         "source": "BBC Health",
         "headline": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
         "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
-        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
         "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b4/live/c3a48d40-8056-11f1-926f-c90d1bcfbc84.jpg",
-        "published": "Thu, 16 Jul 2026 00:20:52 GMT"
+        "published": "Thu, 16 Jul 2026 00:20:52 GMT",
+        "take": "The headline is only the doorway. The meaningful point is: All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England. Keep the nuance, especially before treating research as personal medical guidance."
       },
       {
         "source": "Mental Health",
         "headline": "Annex B – DWP evidence pack - GOV.UK",
         "summary": "Annex B – DWP evidence pack GOV.UK",
-        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHh2TnhrYTJKQVRoVXVXRFBUMDdhWEM1aElpMDdacy1vMW1zRElwenp1VXdLZmoxVlRUWU91TzVpT3FwRTktV1lnUV84NHd1cWRteUhZcjlza2RndTAzNmpENU4wTGFfVHU5MElzcnJYOTE2MnhwTnUtX0Etd3BHcVNKRFhoTGdaY0NVSzlpN1R2cXhObUd6aWxucU1xSmJXTjBGMHVvd2R1SWswZ2ZCenNHNjdrR1N4Y0dkVnJzNE4zTHNnN3Nldg?oc=5",
         "image": "",
-        "published": "Wed, 15 Jul 2026 23:22:10 GMT"
+        "published": "Wed, 15 Jul 2026 23:22:10 GMT",
+        "take": "The headline is only the doorway. The meaningful point is: Annex B – DWP evidence pack GOV.UK. Keep the nuance, especially before treating research as personal medical guidance."
       }
     ],
     "entertainment": [
@@ -253,37 +289,37 @@
         "source": "Variety",
         "headline": "‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice",
         "summary": "At times, \"Motor City\" is like a silent movie directed by Scorsese. It draws us in because it’s got a glittering underworld-opera surface, but also because the audience needs to use its noodle a bit to participate in the film’s telling.",
-        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
         "url": "https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/",
         "image": "https://variety.com/wp-content/uploads/2026/07/90704037007-motor-city-still-9.webp",
-        "published": "Thu, 16 Jul 2026 02:16:47 +0000"
+        "published": "Thu, 16 Jul 2026 02:16:47 +0000",
+        "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: At times, \"Motor City\" is like a silent movie directed by Scorsese."
       },
       {
         "source": "Pitchfork",
         "headline": "Lana Del Rey Claims Stove Has a “Companion Album”",
         "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
-        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
         "url": "https://pitchfork.com/story/lana-del-rey-new-album/",
         "image": "https://media.pitchfork.com/photos/6a582fc4aaba453fc0830e2a/master/pass/GettyImages-2260453122.jpg",
-        "published": "Thu, 16 Jul 2026 01:48:13 +0000"
+        "published": "Thu, 16 Jul 2026 01:48:13 +0000",
+        "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: “I need a month to finish putting it together."
       },
       {
         "source": "Variety",
         "headline": "Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word",
         "summary": "If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Christopher Nolan is disappointed. “I think it’s dangerous to look at it that specifically,” Nolan recently told The Telegraph about Tarantino’s long-discussed […]",
-        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
         "url": "https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/",
         "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-1469318707-e1784061474510.jpg",
-        "published": "Thu, 16 Jul 2026 00:25:32 +0000"
+        "published": "Thu, 16 Jul 2026 00:25:32 +0000",
+        "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song."
       },
       {
-        "source": "Pitchfork",
-        "headline": "Watch Robyn Cover Erasure’s “Always”",
-        "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
-        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
-        "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
-        "image": "https://media.pitchfork.com/photos/6a58108ccccc47e13df0a75e/master/pass/Robyn%20-%206%20Music%20session%20-%20credit%20BBC%20Radio%206%20Music.JPG",
-        "published": "Wed, 15 Jul 2026 23:25:39 +0000"
+        "source": "Wisconsin Public Radio",
+        "headline": "WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges",
+        "summary": "The Catalyst Quartet, formed in 2010 by the Sphinx Organization, serves as a catalyst for a more inclusive and inviting classical music experience. The post WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges appeared first on WPR .",
+        "url": "https://www.wpr.org/music/wpr-music-new-album-of-the-week-catalyst-quartet-uncovers-the-chevalier-de-saint-georges",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 00:00:00 +0000",
+        "take": "This matters because culture and attention move money, behavior, and conversation. The actual development is: The Catalyst Quartet, formed in 2010 by the Sphinx Organization, serves as a catalyst for a more inclusive and inviting classical music experience."
       }
     ],
     "animals": [
@@ -291,86 +327,86 @@
         "source": "Animals",
         "headline": "World Veterinary Inhalation Anesthesia Machine - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
         "summary": "World Veterinary Inhalation Anesthesia Machine - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSllrZUdnVXJpRWt5VVpsYURwb1dRNWhZSG1yMC1fYjZTRHF0azJTV1Ezdkp2SWw2TkJOVWFxdlBlczhDNl9uNHQ5NUJrQjNWMXNFZF9ycmw3ZHQwaGpzWkNNdFpkXzNjdnJBWVNaS3pwX3ZRazZ2UTNlcEc0LXUzZjBDV1ZkRGU4YmU3NEc1VDNwU21ncllVOHIwUmZWT3FDVHdhUHFsbWt0TEZDTlJ6d0NYRDdfLWI4MDMzMU16U0RMek5IaTVIeldneXhXdjVuOGN0Z0IzZ1RyRlppeEZ1dkhCTzhIWWwyNTNrVlBCZ25rUjRON21JV3gzaF93T3hIdnhsUVI5TE0weWJCSks4?oc=5",
         "image": "",
-        "published": "Thu, 16 Jul 2026 01:31:13 GMT"
+        "published": "Thu, 16 Jul 2026 01:31:13 GMT",
+        "take": "The animal angle here is specific, not decorative: World Veterinary Inhalation Anesthesia Machine - Market Analysis, Forecast, Size, Trends and Insights IndexBox. It is worth watching for what it reveals about behavior, welfare, conservation, or our shared environment."
       },
       {
-        "source": "BBC Science",
-        "headline": "Weekend cooldown to mark end of heatwave for some",
-        "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
-        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
-        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58dc/live/50792090-803a-11f1-b976-0b9c15b0ccfc.jpg",
-        "published": "Thu, 16 Jul 2026 00:31:59 GMT"
+        "source": "The Verge",
+        "headline": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+        "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits […]",
+        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+        "image": "",
+        "published": "2026-07-15T20:00:00-04:00",
+        "take": "The animal angle here is specific, not decorative: Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial. It is worth watching for what it reveals about behavior, welfare, conservation, or our shared environment."
       },
       {
-        "source": "BBC Science",
+        "source": "Variety",
+        "headline": "Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026",
+        "summary": "The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest major returns to one of its most historic venues, where players will compete for the coveted Claret Jug before the PGA Tour […]",
+        "url": "https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/",
+        "image": "https://variety.com/wp-content/uploads/2026/07/watch-the-open-championship-online.jpg",
+        "published": "Wed, 15 Jul 2026 23:50:48 +0000",
+        "take": "The animal angle here is specific, not decorative: The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open. It is worth watching for what it reveals about behavior, welfare, conservation, or our shared environment."
+      },
+      {
+        "source": "BBC World",
         "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
         "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
         "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
-        "published": "Wed, 15 Jul 2026 23:02:49 GMT"
-      },
-      {
-        "source": "Smithsonian",
-        "headline": "Once the World’s Biggest Passenger Ship, This Metal Marvel That Crossed the Atlantic and Took Immigrants to Australia Has a New Museum Home",
-        "summary": "A new museum dedicated to stories surrounding the S.S. \"Great Britain\" is about to open in Bristol, where the ship is permanently dry-docked",
-        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
-        "url": "https://www.smithsonianmag.com/smart-news/once-the-worlds-biggest-passenger-ship-this-metal-marvel-the-ss-great-britain-that-crossed-the-atlantic-and-took-immigrants-to-australia-has-a-new-museum-home-180989130/",
-        "image": "https://th-thumbnailer.cdn-si-edu.com/j8YgHQQyzLFVUrAYrF883e3Gr5U=/420x240/filters:focal(996x664:997x665)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/0b/340b17a0-a638-4d15-9a45-0e7fa4f85d2c/485359586_1086422420196475_1356086387403732802_n.jpeg",
-        "published": "Wed, 15 Jul 2026 20:34:22 +0000"
+        "published": "Wed, 15 Jul 2026 23:02:49 GMT",
+        "take": "The animal angle here is specific, not decorative: Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed. It is worth watching for what it reveals about behavior, welfare, conservation, or our shared environment."
       }
     ],
     "wonderful": [
       {
         "source": "Good News Network",
-        "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
-        "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown…",
-        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
-        "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/",
+        "headline": "South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner",
+        "summary": "A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. Sak Yiengjuntuek knew as soon as he saw the stack of $100 bills that they belonged to the man who sold him the restaurant that would become Lemongrass Pho […] The post South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner appeared first on Good News Network…",
+        "url": "https://www.goodnewsnetwork.org/south-carolina-restaurant-owner-finds-12000-in-old-cabinet-and-returns-it-to-former-owner/",
         "image": "",
-        "published": "Wed, 15 Jul 2026 18:30:48 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "3,200-yo Tomb Discovered in Luxor from the Era of Ramses",
-        "summary": "Another month, another big discovery in Luxor—this time of a tomb with preserved interior frescoes dating back around 3,200 years. The T-shaped tomb was discovered by a team of Dutch-Egypt archaeologists in the middle of a long-term project to combine proactive conservation strategies with archaeological excavations at the Theban Necropolis. Hisham El-Leithy, Secretary-General of Egypt’s […] The post 3,200-yo Tomb Discovered…",
-        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
-        "url": "https://www.goodnewsnetwork.org/3200-yo-tomb-discovered-in-luxor-from-the-era-of-ramses/",
-        "image": "",
-        "published": "Wed, 15 Jul 2026 15:30:22 +0000"
+        "published": "Wed, 15 Jul 2026 13:00:40 +0000",
+        "take": "Keep this one for the day: A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. It is concrete evidence that people still repair, help, rescue, and show up."
       },
       {
         "source": "Positive News",
         "headline": "The marginalised groups finding community through football",
         "summary": "Shut out of the sport for generations, women, disabled players and minority groups are flooding into grassroots clubs The post The marginalised groups finding community through football appeared first on Positive News .",
-        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
         "url": "https://www.positive.news/society/the-marginalised-groups-finding-community-through-football/",
         "image": "",
-        "published": "Wed, 15 Jul 2026 10:30:46 +0000"
+        "published": "Wed, 15 Jul 2026 10:30:46 +0000",
+        "take": "Keep this one for the day: Shut out of the sport for generations, women, disabled players and minority groups are flooding into grassroots clubs The post The marginalised groups finding community through. It is concrete evidence that people still repair, help, rescue, and show up."
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Good News in History, July 15",
+        "summary": "71 years ago today, 18 Nobel laureate scientists signed the Mainau Declaration publicly decrying nuclear weapons. Within one year, 34 others—mostly chemists and physicists—joined the German nuclear scientists Otto Hahn and Max Born in calling for an end to perilous radioactive bombs. READ the text of the Declaration… (1955) “We, the undersigned, are scientists of […] The post Good News in History, July 15 appeared first on…",
+        "url": "https://www.goodnewsnetwork.org/events060715/",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 07:00:00 +0000",
+        "take": "Keep this one for the day: 71 years ago today, 18 Nobel laureate scientists signed the Mainau Declaration publicly decrying nuclear weapons. It is concrete evidence that people still repair, help, rescue, and show up."
       },
       {
         "source": "Positive News",
         "headline": "What positive change have you seen unfold over many years?",
         "summary": "Share the stories of change you’ve witnessed that took patience, persistence and time The post What positive change have you seen unfold over many years? appeared first on Positive News .",
-        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
         "url": "https://www.positive.news/society/what-positive-change-have-you-watched-unfold-over-many-years/",
         "image": "",
-        "published": "Tue, 14 Jul 2026 07:00:06 +0000"
+        "published": "Tue, 14 Jul 2026 07:00:06 +0000",
+        "take": "Keep this one for the day: Share the stories of change you’ve witnessed that took patience, persistence and time The post What positive change have you seen unfold over many years?. It is concrete evidence that people still repair, help, rescue, and show up."
       }
     ]
   },
   "wonderful": {
     "source": "Good News Network",
-    "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
-    "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown…",
-    "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
-    "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/",
+    "headline": "South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner",
+    "summary": "A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. Sak Yiengjuntuek knew as soon as he saw the stack of $100 bills that they belonged to the man who sold him the restaurant that would become Lemongrass Pho […] The post South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner appeared first on Good News Network…",
+    "url": "https://www.goodnewsnetwork.org/south-carolina-restaurant-owner-finds-12000-in-old-cabinet-and-returns-it-to-former-owner/",
     "image": "",
-    "published": "Wed, 15 Jul 2026 18:30:48 +0000"
+    "published": "Wed, 15 Jul 2026 13:00:40 +0000",
+    "take": "Keep this one for the day: A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. It is concrete evidence that people still repair, help, rescue, and show up."
   },
   "capybara_message": "Protect your attention. It is a garden, not a public parking lot."
 }
