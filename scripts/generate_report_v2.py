@@ -9,6 +9,8 @@ import generate_report as base
 ITEMS_PER_SECTION = 8
 QUICK_SCAN_LIMIT = 8
 MAX_PER_SOURCE = 3
+TAYLOR_FASHION_SECTION_LIMIT = 2
+TAYLOR_FASHION_QUICK_SCAN_LIMIT = 1
 
 ALLOWED_SPORTS_PHRASES = {
     "green bay packers",
@@ -112,7 +114,8 @@ def display_score(item: dict[str, Any], now_ts: float) -> float:
     if item.get("image"):
         score += 4
     if is_taylor_fashion_story(item):
-        score += 100
+        # Keep Taylor fashion discoverable without allowing it to dominate the report.
+        score += 6
     return score
 
 
@@ -126,6 +129,21 @@ def collect_filtered(now_ts: float) -> dict[str, list[dict[str, Any]]]:
         )
         pools[section] = filtered
     return pools
+
+
+def limit_taylor_fashion(
+    candidates: list[dict[str, Any]],
+    limit: int,
+) -> list[dict[str, Any]]:
+    limited: list[dict[str, Any]] = []
+    taylor_count = 0
+    for item in candidates:
+        if is_taylor_fashion_story(item):
+            if taylor_count >= limit:
+                continue
+            taylor_count += 1
+        limited.append(item)
+    return limited
 
 
 def choose_with_backfill(
@@ -167,24 +185,18 @@ def choose_top_story(
     today: str,
     now_ts: float,
 ) -> dict[str, Any] | None:
-    taylor_fashion = [
+    # The Big Story is reserved for consequential local, national, global, AI,
+    # or technology news. Entertainment stories, including Taylor Swift, never
+    # enter the lead-story pool.
+    top_pool = [
         item
-        for item in pools.get("entertainment", [])
-        if is_taylor_fashion_story(item) and not base.appeared_before(item, history, today)
-    ]
-    if taylor_fashion:
-        taylor_fashion.sort(
-            key=lambda item: (bool(item.get("image")), item.get("timestamp", 0)),
-            reverse=True,
+        for item in (
+            pools.get("must-know", [])
+            + pools.get("local", [])
+            + pools.get("ai-tech", [])
         )
-        return taylor_fashion[0]
-
-    top_pool = (
-        pools.get("must-know", [])
-        + pools.get("local", [])
-        + pools.get("ai-tech", [])
-        + [item for item in pools.get("entertainment", []) if "taylor swift" in text_for(item)]
-    )
+        if "taylor swift" not in text_for(item)
+    ]
     for item in top_pool:
         item["score"] = display_score(item, now_ts)
     top_pool.sort(key=lambda item: (item["score"], item.get("timestamp", 0)), reverse=True)
@@ -216,6 +228,12 @@ def main() -> None:
             for item in pools.get(section, [])
             if not top_story or item["url"] != top_story["url"]
         ]
+        if section == "entertainment":
+            candidates = limit_taylor_fashion(
+                candidates,
+                TAYLOR_FASHION_SECTION_LIMIT,
+            )
+
         selected = choose_with_backfill(
             candidates,
             ITEMS_PER_SECTION,
@@ -234,6 +252,10 @@ def main() -> None:
     quick_candidates.sort(
         key=lambda item: (display_score(item, now_ts), item.get("timestamp", 0)),
         reverse=True,
+    )
+    quick_candidates = limit_taylor_fashion(
+        quick_candidates,
+        TAYLOR_FASHION_QUICK_SCAN_LIMIT,
     )
     quick_scan = choose_with_backfill(
         quick_candidates,
