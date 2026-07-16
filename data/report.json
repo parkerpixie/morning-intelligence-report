@@ -1,228 +1,376 @@
 {
-  "generated_at": "2026-07-16T02:13:22.089747+00:00",
+  "generated_at": "2026-07-16T02:36:16.270252+00:00",
   "report_date": "2026-07-16",
   "top_story": {
-    "category": "BBC US & Canada",
-    "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-    "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-    "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
-    "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
-    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+    "source": "BBC World",
+    "headline": "US military to start screening for testosterone deficiency, Hegseth says",
+    "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+    "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
+    "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
+    "published": "Thu, 16 Jul 2026 02:33:40 GMT"
   },
+  "quick_scan": [
+    {
+      "source": "Wisconsin News",
+      "headline": "Poor air quality impacting outdoor events in Northeast Wisconsin - WLUK",
+      "summary": "Poor air quality impacting outdoor events in Northeast Wisconsin WLUK",
+      "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnY3c0pJQWN2OUVGOTRJNXMyb2VPVm1Vb2lORHo3Y1J1U0cxbUJHSmNWSm52UUQxdFZvQzF2cDFJR1hCcHFoX0Z5V0RXYUtJcWZ5S2hlRjU1YlNqRVVVbklnd2plaXFnNDVDR2NpZ2Zsbk9zMXJ2LWdqcEQzMWxMSHluNm5zMjJQajctbFRyTnVtRVBJNEZIVDhIQ2ZjZmI2bHc5YzJ0dE1LSlpNUjZOSWln?oc=5",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 00:58:33 GMT"
+    },
+    {
+      "source": "Wisconsin News",
+      "headline": "Doctors urge caution as wildfire smoke drifts into Wisconsin - Channel 3000",
+      "summary": "Doctors urge caution as wildfire smoke drifts into Wisconsin Channel 3000",
+      "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWMyaGpGVUJIM3k0SXN6LU81NmgyVTN6WVFBSEtaUDF2OWlfcUtacXpYWm94WTZubDU1V0ZPQXlmUUFhOUd3c25yS1hKZldmdlBNbDVJVUs3YmJ0Qk5iSE8yMWV0MWtVMFcybG0wc3Q0MkRiUGtqQWxGVUc0NDhmMDJoMjJmclRZSExPaUpkd2tOa21vZTNheGRJLWxvWktOWXMyaEl1M3NNUkpuaVEwanJVOHNtay1OYnJOTGV1dDd0U0FvbDExSHhsYmlBQWp3VTMwVk1KLVY2bVE?oc=5",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 00:37:00 GMT"
+    },
+    {
+      "source": "Variety",
+      "headline": "Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026",
+      "summary": "The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest major returns to one of its most historic venues, where players will compete for the coveted Claret Jug before the PGA Tour […]",
+      "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/watch-the-open-championship-online.jpg",
+      "published": "Wed, 15 Jul 2026 23:50:48 +0000"
+    },
+    {
+      "source": "The Verge",
+      "headline": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch […]",
+      "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
+      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "image": "",
+      "published": "2026-07-15T18:39:40-04:00"
+    },
+    {
+      "source": "Good News Network",
+      "headline": "South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner",
+      "summary": "A restauranteur who found $12,000 in cash got in touch with the rightful owner live on the news to explain he wanted to turn it over. Sak Yiengjuntuek knew as soon as he saw the stack of $100 bills that they belonged to the man who sold him the restaurant that would become Lemongrass Pho […] The post South Carolina Restaurant Owner Finds $12,000 in Old Cabinet and Returns it to Former Owner appeared first on Good News Network…",
+      "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+      "url": "https://www.goodnewsnetwork.org/south-carolina-restaurant-owner-finds-12000-in-old-cabinet-and-returns-it-to-former-owner/",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 13:00:40 +0000"
+    },
+    {
+      "source": "Good News Network",
+      "headline": "4 Different Bobkittens Rescued in a Week, Undergoing Rehab Together for Return to the Wild",
+      "summary": "These two incredible animals are bobkittens, and they’re lucky to be alive. They are 2 of 4 baby bobcats rescued within days of each other, from as many as 3 different mothers—all of whom either died, or lost or abandoned the kittens. Now living together at the Saratoga Wildlife Care Center, they have a fighting […] The post 4 Different Bobkittens Rescued in a Week, Undergoing Rehab Together for Return to the Wild appeared…",
+      "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+      "url": "https://www.goodnewsnetwork.org/4-different-bobkittens-rescued-in-a-week-undergoing-rehab-together-for-return-to-the-wild/",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 11:01:48 +0000"
+    }
+  ],
   "sections": {
-    "politics": [
+    "local": [
       {
-        "category": "BBC US & Canada",
+        "source": "Wisconsin News",
+        "headline": "See photos from the Northeast Wisconsin Top Workplaces awards ceremony - Green Bay Press-Gazette",
+        "summary": "See photos from the Northeast Wisconsin Top Workplaces awards ceremony Green Bay Press-Gazette",
+        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2pwQkU1ZUJWdXVzQjdTMG42TFlDY1FuZ0JSbUw5TEhMYkRKWWZRdkE4SkR1YkpOUVpRRGhxUGFGS3Mxa0FoNUZQZHQySXpmT1Q1RmJ1OEtEQkpycnlTRmsyV2xmVy1PVmFYRFJyQ0ViUFliWnEwaGtuWmppMEF3MXl4S3NfX3RUMmliTF9NNk1nX25LSTA2LUhVdHJhNWNzSi1WZ0VWbzQ1aERTT2NsWUczTHZPVTNFbE5mQm96VlNPeUk5MXF3QThnRERwWFItbGswV28xLXpaeVQzb0Y1QjNKdjdhUG03RG9uUzkyNA?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 02:17:00 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Wisconsin community garden looks to fight hunger, revive history - The Milwaukee Courier",
+        "summary": "Wisconsin community garden looks to fight hunger, revive history The Milwaukee Courier",
+        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWFqWU1ub1NEM0ZxMnJURzluMDBjelFSUFFDOHQwa0U5OG9lS3JodFEtUUVVNklMeFdlQzN5OE1rTm5DX3dHS2daWmFRaXR4a1ZOcnREUmVzN0xuR25DNTdESUVNZ0RiR0ZKaHJva2dGRFRJd0xyQXNBMVVhbF9UOFNoeUZxVkhMNDUzNlY1VHpVUzVlcG01dlF0UVVYTzVScHdtQlJ6N2pVblFj?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:23:00 GMT"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges",
+        "summary": "The Catalyst Quartet, formed in 2010 by the Sphinx Organization, serves as a catalyst for a more inclusive and inviting classical music experience. The post WPR Music New Album of the Week: Catalyst Quartet Uncovers the Chevalier de Saint-Georges appeared first on WPR .",
+        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+        "url": "https://www.wpr.org/music/wpr-music-new-album-of-the-week-catalyst-quartet-uncovers-the-chevalier-de-saint-georges",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 00:00:00 +0000"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Rally outside Wisconsin DOC calls for an end to prison overcrowding",
+        "summary": "Several dozen people rallied outside the Department of Corrections headquarters in Madison Wednesday, calling for an end to prison overcrowding. The post Rally outside Wisconsin DOC calls for an end to prison overcrowding appeared first on WPR .",
+        "take": "This is close enough to affect your actual week, not merely your opinion of the internet.",
+        "url": "https://www.wpr.org/news/rally-outside-doc-headquarters-end-prison-overcrowding",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 23:43:37 +0000"
+      }
+    ],
+    "must-know": [
+      {
+        "source": "AP via Google News",
+        "headline": "Trump immediately fires the new court-appointed top prosecutor in Seattle - AP News",
+        "summary": "Trump immediately fires the new court-appointed top prosecutor in Seattle AP News",
+        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2JhcW5GTXpYLXlrWFYxTU1vc3lINmpEZ2wwMGw5R1VzVXJVbnJWOGd3N01MblJTZUxob0Q5RV9YRy1Hbmd6ZS1WSmZvQ3d2Ynd6bkc3TTRnZUJzT0p3REdOVHhaeXUyWV80bmVCUEpqNER1SncyVU0xWUxESUpWNFNjbl9FZmhFeW04WUgzdUxpekNiYWc?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:57:00 GMT"
+      },
+      {
+        "source": "BBC World",
         "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
         "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-        "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
-        "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c484/live/46eda4a0-8059-11f1-bee8-53ce494e1abc.jpg",
+        "published": "Thu, 16 Jul 2026 01:52:41 GMT"
       },
       {
-        "category": "BBC US & Canada",
-        "headline": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
-        "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
-        "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
-        "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
-        "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss"
+        "source": "AP via Google News",
+        "headline": "Top officials in Arizona's Maricopa County agree on how to oversee elections, ending a legal battle - AP News",
+        "summary": "Top officials in Arizona's Maricopa County agree on how to oversee elections, ending a legal battle AP News",
+        "take": "This is one of the stories most likely to shape today’s conversations, decisions, or consequences.",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW9UbmN2aHJkN3FGVGpOaDVuWUdOSXBxNmhrN292NUF2dDJ0c3lhMGN2bzVpdkNTcUtxMjZOcl9qWWh2VHRybkFDaWRXdFpMVGNTbEFxaE5sVWZBdU9YT3ZaTFM4QXNfUXFHT1RDcHhTN2pVdTNCRlVMcE95OGhOSVd0MFBlaFNJM3RkUWNhU2FLUmQzSWFxTG5PczRxU1E3VDJTSU1UanJXaTN2Q2hHa0J6SThMajZNa2dsanMwakhhbnk3amR1U0R5TWMzUQ?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:22:00 GMT"
       }
     ],
-    "equal-rights": [
+    "ai-tech": [
       {
-        "category": "NPR News",
-        "headline": "Fear and hope in Utah in the shadow of America's largest wildfire",
-        "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
-        "why_it_matters": "Rights are practical, not decorative. This story may affect access, safety, freedom, or accountability.",
-        "parker_read": "The useful question is who gains protection, who loses it, and what happens next in real life.",
-        "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire"
+        "source": "The Verge",
+        "headline": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+        "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits […]",
+        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
+        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+        "image": "",
+        "published": "2026-07-15T20:00:00-04:00"
       },
       {
-        "category": "NPR News",
-        "headline": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
-        "summary": "Argentina survived another heart-stopping match when it scored two late goals to topple England and extend the Three Lions' six-decade-long wait for another World Cup trophy.",
-        "why_it_matters": "Rights are practical, not decorative. This story may affect access, safety, freedom, or accountability.",
-        "parker_read": "The useful question is who gains protection, who loses it, and what happens next in real life.",
-        "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal"
-      }
-    ],
-    "science": [
-      {
-        "category": "BBC Science",
-        "headline": "Weekend cooldown to mark end of heatwave for some",
-        "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
-        "why_it_matters": "This adds evidence to how we understand the world and may shape future research or decisions.",
-        "parker_read": "Promising is not the same as proven, but curiosity gets to keep its little lantern lit.",
-        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss"
+        "source": "AI News",
+        "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic - TechCrunch",
+        "summary": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic TechCrunch",
+        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdzTC1XUGdXQkxVckRTM2JKX1RoaFI3ekgwWmYzQllnQl8wTEtBX3BISU9yWTRIMGk5bWNOMm9KRGpDU0NxS3E1bjR4bkczcXFweHhRZlJpandqbEVBa3I3VFFZdVNINUVVUXZTMExUZm5XeXhsYW1ld3JtRFM2QUtTSHBZcnJZTnE5Q1NLXzAyZmpPNjJrT1NMSnhtOGgzLVEzQURqV1dvbzUybWowLURacw?oc=5",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 23:59:44 GMT"
       },
       {
-        "category": "BBC Science",
-        "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
-        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-        "why_it_matters": "This adds evidence to how we understand the world and may shape future research or decisions.",
-        "parker_read": "Promising is not the same as proven, but curiosity gets to keep its little lantern lit.",
-        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "technology": [
-      {
-        "category": "BBC Technology",
-        "headline": "SpaceX share price drops below stock market debut",
-        "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-        "why_it_matters": "Technology quietly changes work, privacy, access, and power long before the dust settles.",
-        "parker_read": "Useful beats flashy. The real test is whether this improves life or merely adds another dashboard.",
-        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
+        "source": "The Verge",
+        "headline": "HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+        "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB […]",
+        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
+        "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+        "image": "",
+        "published": "2026-07-15T18:47:11-04:00"
       },
       {
-        "category": "MIT Technology Review",
-        "headline": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
-        "why_it_matters": "Technology quietly changes work, privacy, access, and power long before the dust settles.",
-        "parker_read": "Useful beats flashy. The real test is whether this improves life or merely adds another dashboard.",
-        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+        "source": "Ars Technica",
+        "headline": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+        "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+        "take": "The useful question is whether this changes how people work, create, access information, or hand power to a platform.",
+        "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-1152x648-1784152724.jpeg",
+        "published": "Wed, 15 Jul 2026 22:36:28 +0000"
       }
     ],
-    "marketing": [
+    "work-marketing": [
       {
-        "category": "MarTech",
+        "source": "Salesforce",
+        "headline": "Choose the Right CRM for Your Advisory Practice - SmartAsset",
+        "summary": "Choose the Right CRM for Your Advisory Practice SmartAsset",
+        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUFrejJWZXpQV04xSVhKeFpzWUNxeWF6Y01fQlZpTkNkU0k0TWd0OUk0RUtvUUpaVnkydFktZUdSRVRwaG9ET3RWZkwtaWZ5S0ViWE9CWHRPRmEzT0htMVpSQkRQT01fd0VHeHpvajNzZG1jc3E5dUZ0cjVGYmd3M3drS0o3OTFSRGR2OGhlbjd0Zw?oc=5",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 21:11:53 GMT"
+      },
+      {
+        "source": "Marketing Ops",
+        "headline": "Publicis Groupe stock holds steady as global advertising demand shapes long-term outlook - Ad-hoc-news.de",
+        "summary": "Publicis Groupe stock holds steady as global advertising demand shapes long-term outlook Ad-hoc-news.de",
+        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPemlwYWhlZXBmM09YSGtwbG5qdElDS1lpTjRRSTBTREFtTC04aTlqcXM1NzV5RVFEaHZVWFJqdk96WHRyQUhpSEpXNksxSW1MbWJxSUpUM0U0b2gzVXMzU1Fwd2VsekxtTHZ4ZE5OeEY1a2JzWEFmR09mX29DdGJPRl9MLUNVOExKR2E0TEUzRm12d0owUV9DVXloak1NaEFkUlhhQW1TdUJJd1pEcmVvZEZkb0UxRDZheFhGa2NJck9KQ2g3MHl0Qg?oc=5",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 18:33:13 GMT"
+      },
+      {
+        "source": "MarTech",
         "headline": "Marketing’s AI challenge goes beyond adoption",
         "summary": "Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing’s AI challenge goes beyond adoption appeared first on MarTech .",
-        "why_it_matters": "This may influence how teams use data, automation, customer experience, or measurement.",
-        "parker_read": "Look for the operational consequence: cleaner data, better decisions, or a shinier version of the same old funnel.",
-        "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/"
+        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
+        "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/",
+        "image": "https://martech.org/wp-content/uploads/2026/04/robot-shopping-800x450.png",
+        "published": "Wed, 15 Jul 2026 15:40:16 +0000"
       },
       {
-        "category": "MarTech",
-        "headline": "Why AI-ready data infrastructure is so hard to build",
-        "summary": "Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .",
-        "why_it_matters": "This may influence how teams use data, automation, customer experience, or measurement.",
-        "parker_read": "Look for the operational consequence: cleaner data, better decisions, or a shinier version of the same old funnel.",
-        "url": "https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/"
+        "source": "Salesforce",
+        "headline": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing - Salesforce",
+        "summary": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing Salesforce",
+        "take": "Look for the operational consequence: better data, smarter automation, clearer measurement, or another shiny dashboard demanding snacks.",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXA1dWg2cEpBbk5hQWJPalVsaHFRdnhtVmxDb3pLcm9rQmxVREhNdHRKdUZQTVFNbVpkSHU2cjFSc0RkRXh4YlY2d0IxZy1KLW5yOWpUZjlhWmRfcXBQZHZTTDVURHB2SW1ISjZ1WENsOTJtQm1iaktuYmxNWWRDZzlQNk10QQ?oc=5",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 15:37:56 GMT"
       }
     ],
-    "celebrity": [
+    "wellbeing": [
       {
-        "category": "Variety",
-        "headline": "Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word",
-        "summary": "If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Christopher Nolan is disappointed. “I think it’s dangerous to look at it that specifically,” Nolan recently told The Telegraph about Tarantino’s long-discussed […]",
-        "why_it_matters": "Culture stories reveal what audiences are paying attention to, even when the spectacle arrives wearing sequins.",
-        "parker_read": "Worth knowing, perhaps. Worth reorganizing your nervous system around, absolutely not.",
-        "url": "https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/"
+        "source": "Mental Health",
+        "headline": "We’re finally learning what happens to gifted children in adulthood - New Scientist",
+        "summary": "We’re finally learning what happens to gifted children in adulthood New Scientist",
+        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTZwODdkNTNmbkV5dWcxYzFFeEdvN2xsd2Mxd3h5VkVMUDNIM0lnR3hqMzhxVndyM2FFZ3lqbXBCVFFYZm5VVTVlemRLblN3cDMtUkFhemQzNWNkZXBJRmk5NktnOGJ4UUlVX3pSdkZNV0xIN0tKaHN1U1VVWEd0c2VvZUVPaU1TcW5PUjhNaUZoLXZtbGJmSVVqcU9oZFlZQzFJajVyVFZZZ2NqT0ktclV3?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:52:30 GMT"
       },
       {
-        "category": "Variety",
-        "headline": "Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026",
-        "summary": "The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest major returns to one of its most historic venues, where players will compete for the coveted Claret Jug before the PGA Tour […]",
-        "why_it_matters": "Culture stories reveal what audiences are paying attention to, even when the spectacle arrives wearing sequins.",
-        "parker_read": "Worth knowing, perhaps. Worth reorganizing your nervous system around, absolutely not.",
-        "url": "https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/"
-      }
-    ],
-    "music": [
-      {
-        "category": "Pitchfork News",
-        "headline": "Lana Del Rey Claims Stove Has a “Companion Album”",
-        "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
-        "why_it_matters": "Music news often signals broader shifts in culture, business, touring, and creative work.",
-        "parker_read": "The industry angle matters, but so does the simple question: does it make you feel more alive?",
-        "url": "https://pitchfork.com/story/lana-del-rey-new-album/"
+        "source": "BBC Health",
+        "headline": "The 'heartbreaking' OCD that can make you doubt your relationship",
+        "summary": "Relationship OCD is gaining awareness, but limited data means little in known about how common the condition is.",
+        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
+        "url": "https://www.bbc.co.uk/news/articles/ce9592kve1po?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a206/live/4435bf30-7f6a-11f1-8812-63adb81ec20b.jpg",
+        "published": "Thu, 16 Jul 2026 00:34:41 GMT"
       },
       {
-        "category": "Pitchfork News",
-        "headline": "Watch Robyn Cover Erasure’s “Always”",
-        "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
-        "why_it_matters": "Music news often signals broader shifts in culture, business, touring, and creative work.",
-        "parker_read": "The industry angle matters, but so does the simple question: does it make you feel more alive?",
-        "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/"
-      }
-    ],
-    "health": [
-      {
-        "category": "BBC Health",
+        "source": "BBC Health",
         "headline": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
         "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
-        "why_it_matters": "Health reporting can shape care decisions, public understanding, and access to reliable information.",
-        "parker_read": "Treat the headline as an invitation to read carefully, not as personalized medical advice.",
-        "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss"
+        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
+        "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b4/live/c3a48d40-8056-11f1-926f-c90d1bcfbc84.jpg",
+        "published": "Thu, 16 Jul 2026 00:20:52 GMT"
       },
       {
-        "category": "NPR News",
-        "headline": "Fear and hope in Utah in the shadow of America's largest wildfire",
-        "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
-        "why_it_matters": "Health reporting can shape care decisions, public understanding, and access to reliable information.",
-        "parker_read": "Treat the headline as an invitation to read carefully, not as personalized medical advice.",
-        "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire"
+        "source": "Mental Health",
+        "headline": "Annex B – DWP evidence pack - GOV.UK",
+        "summary": "Annex B – DWP evidence pack GOV.UK",
+        "take": "Read the evidence carefully and keep the nuance. Health headlines are not personalized medical advice.",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHh2TnhrYTJKQVRoVXVXRFBUMDdhWEM1aElpMDdacy1vMW1zRElwenp1VXdLZmoxVlRUWU91TzVpT3FwRTktV1lnUV84NHd1cWRteUhZcjlza2RndTAzNmpENU4wTGFfVHU5MElzcnJYOTE2MnhwTnUtX0Etd3BHcVNKRFhoTGdaY0NVSzlpN1R2cXhObUd6aWxucU1xSmJXTjBGMHVvd2R1SWswZ2ZCenNHNjdrR1N4Y0dkVnJzNE4zTHNnN3Nldg?oc=5",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 23:22:10 GMT"
       }
     ],
-    "mental-health": [
+    "entertainment": [
       {
-        "category": "ScienceDaily Mind & Brain",
-        "headline": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
-        "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
-        "why_it_matters": "Mental-health information deserves context because oversimplified claims can travel faster than careful evidence.",
-        "parker_read": "Human behavior is rarely a one-variable spreadsheet. Keep the nuance and discard the miracle claims.",
-        "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm"
+        "source": "Variety",
+        "headline": "‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice",
+        "summary": "At times, \"Motor City\" is like a silent movie directed by Scorsese. It draws us in because it’s got a glittering underworld-opera surface, but also because the audience needs to use its noodle a bit to participate in the film’s telling.",
+        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
+        "url": "https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/",
+        "image": "https://variety.com/wp-content/uploads/2026/07/90704037007-motor-city-still-9.webp",
+        "published": "Thu, 16 Jul 2026 02:16:47 +0000"
       },
       {
-        "category": "ScienceDaily Mind & Brain",
-        "headline": "Going to museums, movies, and theater may help your body stay younger",
-        "summary": "Going to the cinema, visiting museums, or attending concerts may do more than entertain. Researchers found that older adults who regularly participated in cultural activities tended to have bodies that functioned like those of people about three years younger. They believe stronger social ties, better mental health, and healthier habits could help explain the link, although more research is needed to determine whether cultural activities directly slow aging.",
-        "why_it_matters": "Mental-health information deserves context because oversimplified claims can travel faster than careful evidence.",
-        "parker_read": "Human behavior is rarely a one-variable spreadsheet. Keep the nuance and discard the miracle claims.",
-        "url": "https://www.sciencedaily.com/releases/2026/07/260714225526.htm"
+        "source": "Pitchfork",
+        "headline": "Lana Del Rey Claims Stove Has a “Companion Album”",
+        "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
+        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
+        "url": "https://pitchfork.com/story/lana-del-rey-new-album/",
+        "image": "https://media.pitchfork.com/photos/6a582fc4aaba453fc0830e2a/master/pass/GettyImages-2260453122.jpg",
+        "published": "Thu, 16 Jul 2026 01:48:13 +0000"
+      },
+      {
+        "source": "Variety",
+        "headline": "Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word",
+        "summary": "If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Christopher Nolan is disappointed. “I think it’s dangerous to look at it that specifically,” Nolan recently told The Telegraph about Tarantino’s long-discussed […]",
+        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
+        "url": "https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/",
+        "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-1469318707-e1784061474510.jpg",
+        "published": "Thu, 16 Jul 2026 00:25:32 +0000"
+      },
+      {
+        "source": "Pitchfork",
+        "headline": "Watch Robyn Cover Erasure’s “Always”",
+        "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
+        "take": "Culture matters because attention is a real economy. Also, Taylor mentions qualify as infrastructure.",
+        "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/",
+        "image": "https://media.pitchfork.com/photos/6a58108ccccc47e13df0a75e/master/pass/Robyn%20-%206%20Music%20session%20-%20credit%20BBC%20Radio%206%20Music.JPG",
+        "published": "Wed, 15 Jul 2026 23:25:39 +0000"
       }
     ],
     "animals": [
       {
-        "category": "BBC Science",
+        "source": "Animals",
+        "headline": "World Veterinary Inhalation Anesthesia Machine - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "summary": "World Veterinary Inhalation Anesthesia Machine - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSllrZUdnVXJpRWt5VVpsYURwb1dRNWhZSG1yMC1fYjZTRHF0azJTV1Ezdkp2SWw2TkJOVWFxdlBlczhDNl9uNHQ5NUJrQjNWMXNFZF9ycmw3ZHQwaGpzWkNNdFpkXzNjdnJBWVNaS3pwX3ZRazZ2UTNlcEc0LXUzZjBDV1ZkRGU4YmU3NEc1VDNwU21ncllVOHIwUmZWT3FDVHdhUHFsbWt0TEZDTlJ6d0NYRDdfLWI4MDMzMU16U0RMek5IaTVIeldneXhXdjVuOGN0Z0IzZ1RyRlppeEZ1dkhCTzhIWWwyNTNrVlBCZ25rUjRON21JV3gzaF93T3hIdnhsUVI5TE0weWJCSks4?oc=5",
+        "image": "",
+        "published": "Thu, 16 Jul 2026 01:31:13 GMT"
+      },
+      {
+        "source": "BBC Science",
         "headline": "Weekend cooldown to mark end of heatwave for some",
         "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
-        "why_it_matters": "Animal stories can illuminate conservation, behavior, welfare, and the ecosystems we share.",
-        "parker_read": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
-        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss"
+        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58dc/live/50792090-803a-11f1-b976-0b9c15b0ccfc.jpg",
+        "published": "Thu, 16 Jul 2026 00:31:59 GMT"
       },
       {
-        "category": "BBC Science",
+        "source": "BBC Science",
         "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
         "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-        "why_it_matters": "Animal stories can illuminate conservation, behavior, welfare, and the ecosystems we share.",
-        "parker_read": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
-        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
-      }
-    ],
-    "uplifting": [
-      {
-        "category": "Good News Network",
-        "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
-        "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended appeared first on Good News Network .",
-        "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
-        "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
-        "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/"
+        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
+        "published": "Wed, 15 Jul 2026 23:02:49 GMT"
       },
       {
-        "category": "Good News Network",
+        "source": "Smithsonian",
+        "headline": "Once the World’s Biggest Passenger Ship, This Metal Marvel That Crossed the Atlantic and Took Immigrants to Australia Has a New Museum Home",
+        "summary": "A new museum dedicated to stories surrounding the S.S. \"Great Britain\" is about to open in Bristol, where the ship is permanently dry-docked",
+        "take": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://www.smithsonianmag.com/smart-news/once-the-worlds-biggest-passenger-ship-this-metal-marvel-the-ss-great-britain-that-crossed-the-atlantic-and-took-immigrants-to-australia-has-a-new-museum-home-180989130/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/j8YgHQQyzLFVUrAYrF883e3Gr5U=/420x240/filters:focal(996x664:997x665)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/0b/340b17a0-a638-4d15-9a45-0e7fa4f85d2c/485359586_1086422420196475_1356086387403732802_n.jpeg",
+        "published": "Wed, 15 Jul 2026 20:34:22 +0000"
+      }
+    ],
+    "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
+        "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown…",
+        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+        "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 18:30:48 +0000"
+      },
+      {
+        "source": "Good News Network",
         "headline": "3,200-yo Tomb Discovered in Luxor from the Era of Ramses",
-        "summary": "Another month, another big discovery in Luxor—this time of a tomb with preserved interior frescoes dating back around 3,200 years. The T-shaped tomb was discovered by a team of Dutch-Egypt archaeologists in the middle of a long-term project to combine proactive conservation strategies with archaeological excavations at the Theban Necropolis. Hisham El-Leithy, Secretary-General of Egypt’s […] The post 3,200-yo Tomb Discovered in Luxor from the Era of Ramses appeared first on Good News Network .",
-        "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
-        "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
-        "url": "https://www.goodnewsnetwork.org/3200-yo-tomb-discovered-in-luxor-from-the-era-of-ramses/"
+        "summary": "Another month, another big discovery in Luxor—this time of a tomb with preserved interior frescoes dating back around 3,200 years. The T-shaped tomb was discovered by a team of Dutch-Egypt archaeologists in the middle of a long-term project to combine proactive conservation strategies with archaeological excavations at the Theban Necropolis. Hisham El-Leithy, Secretary-General of Egypt’s […] The post 3,200-yo Tomb Discovered…",
+        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+        "url": "https://www.goodnewsnetwork.org/3200-yo-tomb-discovered-in-luxor-from-the-era-of-ramses/",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 15:30:22 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "The marginalised groups finding community through football",
+        "summary": "Shut out of the sport for generations, women, disabled players and minority groups are flooding into grassroots clubs The post The marginalised groups finding community through football appeared first on Positive News .",
+        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+        "url": "https://www.positive.news/society/the-marginalised-groups-finding-community-through-football/",
+        "image": "",
+        "published": "Wed, 15 Jul 2026 10:30:46 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "What positive change have you seen unfold over many years?",
+        "summary": "Share the stories of change you’ve witnessed that took patience, persistence and time The post What positive change have you seen unfold over many years? appeared first on Positive News .",
+        "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+        "url": "https://www.positive.news/society/what-positive-change-have-you-watched-unfold-over-many-years/",
+        "image": "",
+        "published": "Tue, 14 Jul 2026 07:00:06 +0000"
       }
     ]
   },
-  "tool": {
-    "name": "n8n",
-    "summary": "A flexible workflow automation tool with strong control over data, APIs, and self-hosting.",
-    "best_for": "Technical automations that need more control than a lightweight connector tool",
-    "verdict": "Excellent for systems thinkers who enjoy seeing the gears instead of being told the machine is magical.",
-    "url": "https://n8n.io/"
-  },
-  "uplifting": {
-    "category": "Good News Network",
+  "wonderful": {
+    "source": "Good News Network",
     "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
-    "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended appeared first on Good News Network .",
-    "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
-    "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
-    "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/"
+    "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown…",
+    "take": "Keep this one. The internet has extracted enough rent from your nervous system today.",
+    "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/",
+    "image": "",
+    "published": "Wed, 15 Jul 2026 18:30:48 +0000"
   },
   "capybara_message": "Protect your attention. It is a garden, not a public parking lot."
 }
