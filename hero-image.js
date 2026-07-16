@@ -5,7 +5,8 @@
   if (!image || !figure) return;
 
   const parts = [
-    'assets/images/clementine-madison-morning/part-01.txt',
+    'assets/images/clementine-madison-morning/part-01a.txt',
+    'assets/images/clementine-madison-morning/part-01b.txt',
     'assets/images/clementine-madison-morning/part-02.txt',
     'assets/images/clementine-madison-morning/part-03.txt',
     'assets/images/clementine-madison-morning/part-04.txt'
