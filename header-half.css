@@ -1,0 +1,137 @@
+/* Final compact desktop hero override: approximately half the previous height */
+
+.report-title-hero {
+  grid-template-columns: minmax(0, 1fr) 260px;
+  width: min(calc(100% - 2rem), 1080px);
+  min-height: 0;
+  padding: 1.35rem 0 1.6rem;
+  gap: clamp(2rem, 4vw, 3.25rem);
+}
+
+.report-title-hero::before {
+  top: 8%;
+  left: -2%;
+  width: 12rem;
+  height: 12rem;
+  box-shadow:
+    0 0 0 1.8rem rgba(47, 159, 167, 0.025),
+    0 0 0 3.6rem rgba(88, 54, 79, 0.018);
+}
+
+.report-title-copy {
+  max-width: 520px;
+}
+
+.report-title-kicker {
+  margin-bottom: 0.65rem;
+  font-size: 0.68rem;
+}
+
+.report-title-kicker::before {
+  width: 2rem;
+}
+
+.report-title-heading {
+  max-width: 8.25ch;
+  font-size: clamp(2.7rem, 4.4vw, 4rem);
+  line-height: 0.84;
+}
+
+.report-title-description {
+  max-width: 500px;
+  margin-top: 1rem;
+  font-size: clamp(0.92rem, 1.2vw, 1rem);
+  line-height: 1.5;
+}
+
+.report-title-note {
+  max-width: 500px;
+  margin-top: 0.7rem;
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.report-title-button {
+  min-height: 40px;
+  margin-top: 0.95rem;
+  padding: 0.62rem 1.05rem;
+  font-size: 0.8rem;
+}
+
+.report-title-art {
+  width: 260px;
+}
+
+.report-title-art::before {
+  inset: -0.65rem 0.75rem 0.75rem -0.75rem;
+  border-radius: 27px;
+}
+
+.report-title-art::after {
+  top: -0.7rem;
+  right: -0.55rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  font-size: 1.3rem;
+}
+
+.report-title-art-frame {
+  border-width: 6px;
+  border-radius: 27px;
+  box-shadow: 0 15px 36px rgba(23, 59, 69, 0.14);
+}
+
+.report-title-art figcaption {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .report-title-hero {
+    grid-template-columns: minmax(0, 1fr) 225px;
+    min-height: 0;
+    padding: 1.2rem 0 1.45rem;
+    gap: 1.75rem;
+  }
+
+  .report-title-heading {
+    font-size: clamp(2.5rem, 5vw, 3.55rem);
+  }
+
+  .report-title-art {
+    width: 225px;
+  }
+}
+
+@media (max-width: 780px) {
+  .report-title-hero {
+    grid-template-columns: 1fr;
+    width: min(calc(100% - 1.5rem), 680px);
+    padding: 2rem 0 2.5rem;
+    gap: 1.5rem;
+  }
+
+  .report-title-heading {
+    font-size: clamp(2.8rem, 11vw, 4rem);
+  }
+
+  .report-title-art {
+    width: min(70%, 250px);
+    margin-top: 0;
+    justify-self: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .report-title-hero {
+    padding-top: 1.6rem;
+    gap: 1.35rem;
+  }
+
+  .report-title-heading {
+    font-size: clamp(2.7rem, 14vw, 3.75rem);
+  }
+
+  .report-title-art {
+    width: min(78%, 235px);
+  }
+}
