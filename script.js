@@ -1,4 +1,10 @@
 (() => {
+  const heroImage = document.querySelector('.hero-art img');
+  if (heroImage) {
+    heroImage.src = 'assets/images/morning-intelligence-hero-new.webp.WEBP';
+    heroImage.alt = 'A celestial capybara greeting the sunrise with coffee, books, and a journal';
+  }
+
   const style = document.createElement('style');
   style.textContent = `
     body {
@@ -181,7 +187,12 @@
     fillStory(document.getElementById('lead-story'), report.top_story);
 
     const sections = report.sections || {};
-    Object.entries(sections).forEach(([name, stories]) => renderSection(name, stories));
+    document.querySelectorAll('[data-feed]').forEach((container) => {
+      const name = container.dataset.feed;
+      if (name !== 'top-story' && name !== 'uplifting') {
+        renderSection(name, sections[name] || []);
+      }
+    });
 
     const tool = report.tool || {};
     const toolSection = document.querySelector('.tool-feature');
