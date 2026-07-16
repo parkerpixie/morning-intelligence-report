@@ -1,41 +1,228 @@
 {
-  "generated_at": "2026-07-16T02:00:00+00:00",
-  "report_date": "2026-07-15",
+  "generated_at": "2026-07-16T02:13:22.089747+00:00",
+  "report_date": "2026-07-16",
   "top_story": {
-    "category": "RSS system",
-    "headline": "The Morning Intelligence Report is waiting for its first automated refresh.",
-    "summary": "The scheduled GitHub workflow will collect fresh stories from the configured feeds and replace this setup message.",
-    "why_it_matters": "This confirms the website can load report data before the first scheduled RSS run.",
-    "parker_read": "The pipes are connected. Tomorrow morning is the first real water test.",
-    "url": ""
+    "category": "BBC US & Canada",
+    "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+    "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+    "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
+    "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
+    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
   },
   "sections": {
-    "politics": [],
-    "equal-rights": [],
-    "science": [],
-    "technology": [],
-    "marketing": [],
-    "celebrity": [],
-    "music": [],
-    "health": [],
-    "mental-health": [],
-    "animals": [],
-    "uplifting": []
+    "politics": [
+      {
+        "category": "BBC US & Canada",
+        "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+        "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
+        "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "BBC US & Canada",
+        "headline": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+        "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
+        "why_it_matters": "This could affect public policy, institutions, elections, or the everyday rules people live under.",
+        "parker_read": "Watch what changes materially, not just which person wins the microphone for the afternoon.",
+        "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "equal-rights": [
+      {
+        "category": "NPR News",
+        "headline": "Fear and hope in Utah in the shadow of America's largest wildfire",
+        "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
+        "why_it_matters": "Rights are practical, not decorative. This story may affect access, safety, freedom, or accountability.",
+        "parker_read": "The useful question is who gains protection, who loses it, and what happens next in real life.",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire"
+      },
+      {
+        "category": "NPR News",
+        "headline": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
+        "summary": "Argentina survived another heart-stopping match when it scored two late goals to topple England and extend the Three Lions' six-decade-long wait for another World Cup trophy.",
+        "why_it_matters": "Rights are practical, not decorative. This story may affect access, safety, freedom, or accountability.",
+        "parker_read": "The useful question is who gains protection, who loses it, and what happens next in real life.",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal"
+      }
+    ],
+    "science": [
+      {
+        "category": "BBC Science",
+        "headline": "Weekend cooldown to mark end of heatwave for some",
+        "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
+        "why_it_matters": "This adds evidence to how we understand the world and may shape future research or decisions.",
+        "parker_read": "Promising is not the same as proven, but curiosity gets to keep its little lantern lit.",
+        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "BBC Science",
+        "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
+        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+        "why_it_matters": "This adds evidence to how we understand the world and may shape future research or decisions.",
+        "parker_read": "Promising is not the same as proven, but curiosity gets to keep its little lantern lit.",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "technology": [
+      {
+        "category": "BBC Technology",
+        "headline": "SpaceX share price drops below stock market debut",
+        "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+        "why_it_matters": "Technology quietly changes work, privacy, access, and power long before the dust settles.",
+        "parker_read": "Useful beats flashy. The real test is whether this improves life or merely adds another dashboard.",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "MIT Technology Review",
+        "headline": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+        "why_it_matters": "Technology quietly changes work, privacy, access, and power long before the dust settles.",
+        "parker_read": "Useful beats flashy. The real test is whether this improves life or merely adds another dashboard.",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      }
+    ],
+    "marketing": [
+      {
+        "category": "MarTech",
+        "headline": "Marketing’s AI challenge goes beyond adoption",
+        "summary": "Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing’s AI challenge goes beyond adoption appeared first on MarTech .",
+        "why_it_matters": "This may influence how teams use data, automation, customer experience, or measurement.",
+        "parker_read": "Look for the operational consequence: cleaner data, better decisions, or a shinier version of the same old funnel.",
+        "url": "https://martech.org/marketings-ai-challenge-goes-beyond-adoption/"
+      },
+      {
+        "category": "MarTech",
+        "headline": "Why AI-ready data infrastructure is so hard to build",
+        "summary": "Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .",
+        "why_it_matters": "This may influence how teams use data, automation, customer experience, or measurement.",
+        "parker_read": "Look for the operational consequence: cleaner data, better decisions, or a shinier version of the same old funnel.",
+        "url": "https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/"
+      }
+    ],
+    "celebrity": [
+      {
+        "category": "Variety",
+        "headline": "Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word",
+        "summary": "If Quentin Tarantino remains committed to retiring from filmmaking after his 10th feature film, then whatever movie the Oscar winner decides to make next will be his swan song from the big screen. Christopher Nolan is disappointed. “I think it’s dangerous to look at it that specifically,” Nolan recently told The Telegraph about Tarantino’s long-discussed […]",
+        "why_it_matters": "Culture stories reveal what audiences are paying attention to, even when the spectacle arrives wearing sequins.",
+        "parker_read": "Worth knowing, perhaps. Worth reorganizing your nervous system around, absolutely not.",
+        "url": "https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/"
+      },
+      {
+        "category": "Variety",
+        "headline": "Who Will Take Home the Claret Jug? Here’s How to Watch The Open Championship 2026",
+        "summary": "The final major championship of the 2026 golf season is here as the world’s best players head to Royal Birkdale in Southport, England, for the 154th playing of The Open Championship. Golf’s oldest major returns to one of its most historic venues, where players will compete for the coveted Claret Jug before the PGA Tour […]",
+        "why_it_matters": "Culture stories reveal what audiences are paying attention to, even when the spectacle arrives wearing sequins.",
+        "parker_read": "Worth knowing, perhaps. Worth reorganizing your nervous system around, absolutely not.",
+        "url": "https://variety.com/2026/shopping/news/how-to-watch-2026-open-championship-pga-golf-online-free-1236811750/"
+      }
+    ],
+    "music": [
+      {
+        "category": "Pitchfork News",
+        "headline": "Lana Del Rey Claims Stove Has a “Companion Album”",
+        "summary": "“I need a month to finish putting it together. Thank you for waiting.”",
+        "why_it_matters": "Music news often signals broader shifts in culture, business, touring, and creative work.",
+        "parker_read": "The industry angle matters, but so does the simple question: does it make you feel more alive?",
+        "url": "https://pitchfork.com/story/lana-del-rey-new-album/"
+      },
+      {
+        "category": "Pitchfork News",
+        "headline": "Watch Robyn Cover Erasure’s “Always”",
+        "summary": "The Swedish star dropped by BBC Radio 2 today to perform the 1994 synth-pop classic alongside three of her own songs",
+        "why_it_matters": "Music news often signals broader shifts in culture, business, touring, and creative work.",
+        "parker_read": "The industry angle matters, but so does the simple question: does it make you feel more alive?",
+        "url": "https://pitchfork.com/story/watch-robyn-cover-erasures-always/"
+      }
+    ],
+    "health": [
+      {
+        "category": "BBC Health",
+        "headline": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
+        "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
+        "why_it_matters": "Health reporting can shape care decisions, public understanding, and access to reliable information.",
+        "parker_read": "Treat the headline as an invitation to read carefully, not as personalized medical advice.",
+        "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "NPR News",
+        "headline": "Fear and hope in Utah in the shadow of America's largest wildfire",
+        "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
+        "why_it_matters": "Health reporting can shape care decisions, public understanding, and access to reliable information.",
+        "parker_read": "Treat the headline as an invitation to read carefully, not as personalized medical advice.",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire"
+      }
+    ],
+    "mental-health": [
+      {
+        "category": "ScienceDaily Mind & Brain",
+        "headline": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
+        "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
+        "why_it_matters": "Mental-health information deserves context because oversimplified claims can travel faster than careful evidence.",
+        "parker_read": "Human behavior is rarely a one-variable spreadsheet. Keep the nuance and discard the miracle claims.",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm"
+      },
+      {
+        "category": "ScienceDaily Mind & Brain",
+        "headline": "Going to museums, movies, and theater may help your body stay younger",
+        "summary": "Going to the cinema, visiting museums, or attending concerts may do more than entertain. Researchers found that older adults who regularly participated in cultural activities tended to have bodies that functioned like those of people about three years younger. They believe stronger social ties, better mental health, and healthier habits could help explain the link, although more research is needed to determine whether cultural activities directly slow aging.",
+        "why_it_matters": "Mental-health information deserves context because oversimplified claims can travel faster than careful evidence.",
+        "parker_read": "Human behavior is rarely a one-variable spreadsheet. Keep the nuance and discard the miracle claims.",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260714225526.htm"
+      }
+    ],
+    "animals": [
+      {
+        "category": "BBC Science",
+        "headline": "Weekend cooldown to mark end of heatwave for some",
+        "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
+        "why_it_matters": "Animal stories can illuminate conservation, behavior, welfare, and the ecosystems we share.",
+        "parker_read": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "category": "BBC Science",
+        "headline": "New monkey species with orange lips found 'hiding' in DRC forest",
+        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+        "why_it_matters": "Animal stories can illuminate conservation, behavior, welfare, and the ecosystems we share.",
+        "parker_read": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "uplifting": [
+      {
+        "category": "Good News Network",
+        "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
+        "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended appeared first on Good News Network .",
+        "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
+        "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
+        "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/"
+      },
+      {
+        "category": "Good News Network",
+        "headline": "3,200-yo Tomb Discovered in Luxor from the Era of Ramses",
+        "summary": "Another month, another big discovery in Luxor—this time of a tomb with preserved interior frescoes dating back around 3,200 years. The T-shaped tomb was discovered by a team of Dutch-Egypt archaeologists in the middle of a long-term project to combine proactive conservation strategies with archaeological excavations at the Theban Necropolis. Hisham El-Leithy, Secretary-General of Egypt’s […] The post 3,200-yo Tomb Discovered in Luxor from the Era of Ramses appeared first on Good News Network .",
+        "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
+        "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
+        "url": "https://www.goodnewsnetwork.org/3200-yo-tomb-discovered-in-luxor-from-the-era-of-ramses/"
+      }
+    ]
   },
   "tool": {
-    "name": "Make",
-    "summary": "A visual automation platform for connecting apps and routing data through multi-step workflows.",
-    "best_for": "Cross-platform workflows with visible data mapping",
-    "verdict": "Powerful once the scenario stops looking like an electrical diagram designed by an octopus.",
-    "url": "https://www.make.com/"
+    "name": "n8n",
+    "summary": "A flexible workflow automation tool with strong control over data, APIs, and self-hosting.",
+    "best_for": "Technical automations that need more control than a lightweight connector tool",
+    "verdict": "Excellent for systems thinkers who enjoy seeing the gears instead of being told the machine is magical.",
+    "url": "https://n8n.io/"
   },
   "uplifting": {
-    "category": "Setup",
-    "headline": "A small machine is learning how to bring you the morning.",
-    "summary": "The first automated report will replace this message after the RSS workflow runs.",
-    "why_it_matters": "Useful systems begin as a few connected pieces and then quietly become part of daily life.",
-    "parker_read": "Tomorrow gets the confetti only after the machinery proves it can wake up on time.",
-    "url": ""
+    "category": "Good News Network",
+    "headline": "Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended",
+    "summary": "The population of humpback whales around the world continues to climb ever higher, as do the records for numbers of sightings in single whale-watching seasons. In Brazil’s renowned Guanabara Bay, whale watching trips are becoming popular thanks to an increase in the population of humpbacks from 2,000 in 1986, to around 35,000 today. Every year, […] The post Humpback Whale Watching Surges in Brazil Where Population Has Grown 27-fold Since Whaling Ended appeared first on Good News Network .",
+    "why_it_matters": "This is evidence that people still build, help, rescue, repair, and show up for one another.",
+    "parker_read": "Keep this one. The internet has extracted enough rent from your attention today.",
+    "url": "https://www.goodnewsnetwork.org/humpback-whale-watching-surges-in-brazil-where-population-has-grown-27-fold-since-whaling-ended/"
   },
-  "capybara_message": "The pipes are connected. Rest now. Tomorrow we see whether the little news machine remembers to make coffee."
+  "capybara_message": "Protect your attention. It is a garden, not a public parking lot."
 }
