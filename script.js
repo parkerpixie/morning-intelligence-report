@@ -47,19 +47,9 @@
       -webkit-backdrop-filter: blur(15px);
     }
 
-    .hero h1 {
-      max-width: 11ch;
-      margin-inline: 0;
-    }
-
-    .hero-intro {
-      margin-inline: 0;
-    }
-
-    .hero-art {
-      position: relative;
-      z-index: 1;
-    }
+    .hero h1 { max-width: 11ch; margin-inline: 0; }
+    .hero-intro { margin-inline: 0; }
+    .hero-art { position: relative; z-index: 1; }
 
     .hero-art::before {
       position: absolute;
@@ -82,10 +72,7 @@
       box-shadow: 0 26px 64px rgba(23, 59, 69, 0.18);
     }
 
-    .featured-section,
-    .report-chapter {
-      position: relative;
-    }
+    .featured-section, .report-chapter { position: relative; }
 
     .report-chapter::before {
       position: absolute;
@@ -100,49 +87,128 @@
       pointer-events: none;
     }
 
+    .feed-status {
+      grid-column: 1 / -1;
+      margin: 0;
+      padding: 1.1rem 1.25rem;
+      border: 1px dashed rgba(23, 59, 69, 0.18);
+      border-radius: 16px;
+      color: #546268;
+      background: rgba(255, 253, 248, 0.64);
+    }
+
     @media (max-width: 960px) {
-      .hero {
-        grid-template-columns: 1fr;
-      }
-
-      .hero-copy {
-        max-width: 760px;
-      }
-
-      .hero-art {
-        max-width: 860px;
-      }
+      .hero { grid-template-columns: 1fr; }
+      .hero-copy { max-width: 760px; }
+      .hero-art { max-width: 860px; }
     }
 
     @media (max-width: 720px) {
-      .hero {
-        padding-top: 3.5rem;
-        padding-bottom: 4rem;
-      }
-
-      .hero-copy {
-        padding: 2.25rem 1.35rem;
-        border-radius: 26px;
-      }
-
-      .hero-art img {
-        border-width: 5px;
-        border-radius: 24px;
-      }
+      .hero { padding-top: 3.5rem; padding-bottom: 4rem; }
+      .hero-copy { padding: 2.25rem 1.35rem; border-radius: 26px; }
+      .hero-art img { border-width: 5px; border-radius: 24px; }
     }
   `;
-
   document.head.appendChild(style);
 
-  const dateElement = document.getElementById('report-date');
-  if (dateElement) {
-    const now = new Date();
-    dateElement.dateTime = now.toISOString().split('T')[0];
-    dateElement.textContent = now.toLocaleDateString('en-US', {
+  const formatDate = (value = new Date()) => {
+    const date = value instanceof Date ? value : new Date(`${value}T12:00:00`);
+    return date.toLocaleDateString('en-US', {
       weekday: 'long',
       month: 'long',
       day: 'numeric',
       year: 'numeric'
     });
-  }
+  };
+
+  const setText = (root, selector, value) => {
+    const element = root?.querySelector(selector);
+    if (element && value) element.textContent = value;
+  };
+
+  const setLink = (root, selector, url) => {
+    const link = root?.querySelector(selector);
+    if (!link) return;
+    if (url) {
+      link.href = url;
+      link.hidden = false;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    } else {
+      link.hidden = true;
+    }
+  };
+
+  const fillStory = (root, story) => {
+    if (!root || !story) return;
+    setText(root, '[data-field="category"]', story.category);
+    setText(root, '[data-field="headline"]', story.headline);
+    setText(root, '[data-field="summary"]', story.summary);
+    setText(root, '[data-field="why-it-matters"]', story.why_it_matters);
+    setText(root, '[data-field="parker-read"]', story.parker_read);
+    setLink(root, '[data-field="source-link"]', story.url);
+  };
+
+  const renderSection = (feedName, stories) => {
+    const container = document.querySelector(`[data-feed="${feedName}"]`);
+    const template = document.getElementById('story-card-template');
+    if (!container || !template) return;
+
+    container.innerHTML = '';
+    if (!Array.isArray(stories) || stories.length === 0) {
+      const message = document.createElement('p');
+      message.className = 'feed-status';
+      message.textContent = 'This feed is waiting for its next successful refresh.';
+      container.appendChild(message);
+      return;
+    }
+
+    stories.forEach((story) => {
+      const fragment = template.content.cloneNode(true);
+      fillStory(fragment, story);
+      container.appendChild(fragment);
+    });
+  };
+
+  const renderReport = (report) => {
+    const dateElement = document.getElementById('report-date');
+    if (dateElement) {
+      const reportDate = report.report_date || new Date().toISOString().slice(0, 10);
+      dateElement.dateTime = reportDate;
+      dateElement.textContent = formatDate(reportDate);
+    }
+
+    fillStory(document.getElementById('lead-story'), report.top_story);
+
+    const sections = report.sections || {};
+    Object.entries(sections).forEach(([name, stories]) => renderSection(name, stories));
+
+    const tool = report.tool || {};
+    const toolSection = document.querySelector('.tool-feature');
+    setText(toolSection, '#tool-title', tool.name ? `AI Automation Tool of the Day: ${tool.name}` : 'AI Automation Tool of the Day');
+    setText(toolSection, '[data-field="tool-summary"]', tool.summary);
+    setText(toolSection, '[data-field="tool-best-for"]', tool.best_for);
+    setText(toolSection, '[data-field="tool-verdict"]', tool.verdict);
+    setLink(toolSection, '[data-field="tool-link"]', tool.url);
+
+    fillStory(document.getElementById('uplifting-story'), report.uplifting);
+    setText(document.getElementById('capybara-message'), '[data-field="message"]', report.capybara_message);
+  };
+
+  const showLoadError = () => {
+    const lead = document.getElementById('lead-story');
+    setText(lead, '[data-field="headline"]', 'The report data did not load this time.');
+    setText(lead, '[data-field="summary"]', 'The page itself is working, but the latest report file could not be retrieved. Refresh once, then check the GitHub Actions run if the problem remains.');
+  };
+
+  fetch(`data/report.json?cache=${Date.now()}`, { cache: 'no-store' })
+    .then((response) => {
+      if (!response.ok) throw new Error(`Report request failed: ${response.status}`);
+      return response.json();
+    })
+    .then(renderReport)
+    .catch((error) => {
+      console.error(error);
+      showLoadError();
+    });
 })();
