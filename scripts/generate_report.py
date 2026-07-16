@@ -9,7 +9,6 @@ from typing import Any
 
 import feedparser
 
-
 OUTPUT_PATH = Path("data/report.json")
 ITEMS_PER_SECTION = 2
 
@@ -81,7 +80,7 @@ PARKER_READ = {
     "technology": "Useful beats flashy. The real test is whether this improves life or merely adds another dashboard.",
     "marketing": "Look for the operational consequence: cleaner data, better decisions, or a shinier version of the same old funnel.",
     "celebrity": "Worth knowing, perhaps. Worth reorganizing your nervous system around, absolutely not.",
-    "music": "The industry angle matters, but so does the simple question: does it make you feel more alive?","" 
+    "music": "The industry angle matters, but so does the simple question: does it make you feel more alive?",
     "health": "Treat the headline as an invitation to read carefully, not as personalized medical advice.",
     "mental-health": "Human behavior is rarely a one-variable spreadsheet. Keep the nuance and discard the miracle claims.",
     "animals": "Creatures remain undefeated at making science more interesting and humans slightly less self-important.",
@@ -91,7 +90,7 @@ PARKER_READ = {
 TOOLS = [
     {
         "name": "Make",
-        "summary": "A visual automation platform for connecting apps, routing data, and building multi-step workflows without writing an entire application.",
+        "summary": "A visual automation platform for connecting apps, routing data, and building multi-step workflows.",
         "best_for": "Cross-platform workflows with branching logic and visible data mapping",
         "verdict": "Powerful once the scenario stops looking like an electrical diagram designed by an octopus.",
         "url": "https://www.make.com/",
@@ -129,8 +128,7 @@ def clean_text(value: str | None, limit: int = 520) -> str:
     value = re.sub(r"\s+", " ", value).strip()
     if len(value) <= limit:
         return value
-    shortened = value[:limit].rsplit(" ", 1)[0]
-    return f"{shortened}…"
+    return f"{value[:limit].rsplit(' ', 1)[0]}…"
 
 
 def entry_timestamp(entry: Any) -> float:
@@ -146,7 +144,7 @@ def collect_category(category: str) -> list[dict[str, str]]:
 
     for source_name, url in FEEDS[category]:
         feed = feedparser.parse(url)
-        for entry in feed.entries[:8]:
+        for entry in feed.entries[:10]:
             link = entry.get("link", "").strip()
             title = clean_text(entry.get("title"), 180)
             if not link or link in seen_links or not title:
@@ -165,14 +163,17 @@ def collect_category(category: str) -> list[dict[str, str]]:
             )
 
     collected.sort(key=lambda item: item["timestamp"], reverse=True)
-    return [{key: value for key, value in item.items() if key != "timestamp"} for item in collected[:ITEMS_PER_SECTION]]
+    return [
+        {key: value for key, value in item.items() if key != "timestamp"}
+        for item in collected[:ITEMS_PER_SECTION]
+    ]
 
 
 def fallback_story(category: str) -> dict[str, str]:
     return {
         "category": "Feed check",
         "headline": "This section is waiting for its next fresh RSS item.",
-        "summary": "One or more sources did not return a usable story during this run. The next scheduled refresh will try again.",
+        "summary": "One or more sources did not return a usable story during this run. The next refresh will try again.",
         "why_it_matters": CATEGORY_CONTEXT[category],
         "parker_read": "A quiet feed is not a catastrophe. It is merely the internet declining to perform on command for once.",
         "url": "",
@@ -189,7 +190,6 @@ def main() -> None:
 
     top_candidates = sections["politics"] + sections["science"] + sections["technology"]
     top_story = top_candidates[0] if top_candidates else fallback_story("politics")
-
     uplifting = sections["uplifting"][0]
     tool = TOOLS[now.toordinal() % len(TOOLS)]
     capybara_message = CAPYBARA_MESSAGES[now.toordinal() % len(CAPYBARA_MESSAGES)]
