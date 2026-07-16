@@ -3,6 +3,9 @@
   const REPORT_URL = 'data/report.json';
   const REPORT_INDEX_URL = 'data/report-index.json';
   const REPORT_CACHE_KEY = 'morning-intelligence-report:last-successful-report';
+  const STATUS_STYLESHEET = 'report-status.css?v=20260716-1';
+  const REPORT_TIME_ZONE = 'America/Chicago';
+  const FETCH_TIMEOUT_MS = 9000;
   const REQUIRED_SECTIONS = [
     'local',
     'must-know',
@@ -14,6 +17,18 @@
     'wonderful'
   ];
 
+  let activeReport = null;
+  let activeSource = 'current';
+  let loadInProgress = false;
+
+  const addStatusStylesheet = () => {
+    if (document.querySelector(`link[href^="${STATUS_STYLESHEET.split('?')[0]}"]`)) return;
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = STATUS_STYLESHEET;
+    document.head.appendChild(link);
+  };
+
   const formatDate = (value) => new Date(`${value}T12:00:00`).toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
@@ -21,15 +36,54 @@
     year: 'numeric'
   });
 
-  const formatUpdated = (value) => new Date(value).toLocaleString('en-US', {
-    timeZone: 'America/Chicago',
-    weekday: 'short',
-    month: 'short',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: '2-digit',
-    timeZoneName: 'short'
-  });
+  const localDateKey = (value) => {
+    const parts = new Intl.DateTimeFormat('en-CA', {
+      timeZone: REPORT_TIME_ZONE,
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).formatToParts(value);
+    const lookup = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+    return `${lookup.year}-${lookup.month}-${lookup.day}`;
+  };
+
+  const formatExactUpdated = (value) => {
+    const date = new Date(value);
+    const todayKey = localDateKey(new Date());
+    const dateKey = localDateKey(date);
+    const yesterday = new Date();
+    yesterday.setDate(yesterday.getDate() - 1);
+    const yesterdayKey = localDateKey(yesterday);
+
+    const time = date.toLocaleTimeString('en-US', {
+      timeZone: REPORT_TIME_ZONE,
+      hour: 'numeric',
+      minute: '2-digit',
+      timeZoneName: 'short'
+    });
+
+    if (dateKey === todayKey) return `Today at ${time}`;
+    if (dateKey === yesterdayKey) return `Yesterday at ${time}`;
+
+    const day = date.toLocaleDateString('en-US', {
+      timeZone: REPORT_TIME_ZONE,
+      weekday: 'short',
+      month: 'short',
+      day: 'numeric'
+    });
+    return `${day} at ${time}`;
+  };
+
+  const formatRelativeAge = (value) => {
+    const elapsedMs = Math.max(0, Date.now() - new Date(value).getTime());
+    const minutes = Math.floor(elapsedMs / 60000);
+    if (minutes < 1) return 'just now';
+    if (minutes < 60) return `${minutes} minute${minutes === 1 ? '' : 's'} ago`;
+    const hours = Math.floor(minutes / 60);
+    if (hours < 24) return `${hours} hour${hours === 1 ? '' : 's'} ago`;
+    const days = Math.floor(hours / 24);
+    return `${days} day${days === 1 ? '' : 's'} ago`;
+  };
 
   const setText = (root, selector, value) => {
     const element = root?.querySelector(selector);
@@ -133,7 +187,7 @@
     if (!Array.isArray(stories) || stories.length === 0) {
       const status = document.createElement('p');
       status.className = 'feed-status';
-      status.textContent = 'The quick scan is still gathering today’s strongest signals.';
+      status.textContent = 'No quick-scan stories made the cut today.';
       list.appendChild(status);
       return;
     }
@@ -151,49 +205,138 @@
     });
   };
 
-  const renderFreshness = (report) => {
-    const updated = document.getElementById('report-updated');
+  const setStatus = (message, options = {}) => {
     const status = document.getElementById('report-freshness');
-    const generated = report?.generated_at ? new Date(report.generated_at) : null;
-
-    if (!generated || Number.isNaN(generated.getTime())) {
-      if (updated) updated.textContent = 'Refresh time unavailable';
-      if (status) {
-        status.hidden = false;
-        status.textContent = 'The page loaded, but the refresh timestamp is missing.';
-      }
-      return;
-    }
-
-    if (updated) updated.textContent = `Updated ${formatUpdated(report.generated_at)}`;
-
-    const ageHours = (Date.now() - generated.getTime()) / 36e5;
     if (!status) return;
 
-    if (ageHours > 6) {
-      status.hidden = false;
-      status.textContent = 'Today’s refresh is running late. Showing the most recent report.';
-    } else {
-      status.hidden = true;
-      status.textContent = '';
+    status.hidden = false;
+    status.dataset.tone = options.tone || 'info';
+    status.replaceChildren();
+
+    if (options.spinner) {
+      const spinner = document.createElement('span');
+      spinner.className = 'report-status-spinner';
+      spinner.setAttribute('aria-hidden', 'true');
+      status.appendChild(spinner);
+    }
+
+    const messageElement = document.createElement('span');
+    messageElement.className = 'report-status-message';
+    messageElement.textContent = message;
+    status.appendChild(messageElement);
+
+    if (options.retry) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'report-status-retry';
+      button.textContent = options.retryLabel || 'Try again';
+      button.addEventListener('click', () => loadReportWithFallbacks({ forceRetry: true }));
+      status.appendChild(button);
     }
   };
 
-  const renderReportMeta = (report) => {
-    const dates = document.querySelectorAll('.report-date');
-    dates.forEach((date) => {
+  const hideStatus = () => {
+    const status = document.getElementById('report-freshness');
+    if (!status) return;
+    status.hidden = true;
+    status.replaceChildren();
+    delete status.dataset.tone;
+  };
+
+  const renderUpdatedTime = (report) => {
+    const updated = document.getElementById('report-updated');
+    const generated = report?.generated_at ? new Date(report.generated_at) : null;
+    if (!updated) return;
+
+    if (!generated || Number.isNaN(generated.getTime())) {
+      updated.textContent = 'Last updated time unavailable';
+      return;
+    }
+
+    const time = document.createElement('time');
+    time.dateTime = generated.toISOString();
+    time.textContent = formatExactUpdated(report.generated_at);
+    time.title = generated.toLocaleString('en-US', { timeZone: REPORT_TIME_ZONE });
+
+    const age = document.createElement('span');
+    age.className = 'report-age';
+    age.textContent = `• ${formatRelativeAge(report.generated_at)}`;
+
+    updated.replaceChildren(document.createTextNode('Last updated '), time, age);
+  };
+
+  const renderFreshness = (report, source = 'current') => {
+    const generated = report?.generated_at ? new Date(report.generated_at) : null;
+    renderUpdatedTime(report);
+
+    if (!generated || Number.isNaN(generated.getTime())) {
+      setStatus('The report loaded, but its refresh timestamp is missing.', { tone: 'warning' });
+      return;
+    }
+
+    const ageHours = Math.max(0, (Date.now() - generated.getTime()) / 36e5);
+    const exact = formatExactUpdated(report.generated_at);
+    const isToday = localDateKey(generated) === localDateKey(new Date());
+
+    if (source === 'archive') {
+      setStatus(`The live report file did not answer. Showing the latest completed archive from ${exact}.`, {
+        tone: 'warning',
+        retry: true,
+        retryLabel: 'Check again'
+      });
+      return;
+    }
+
+    if (source === 'browser') {
+      const message = navigator.onLine
+        ? `The report files could not be reached. Showing the last copy saved on this device from ${exact}.`
+        : `You are offline. Showing the last report saved on this device from ${exact}.`;
+      setStatus(message, {
+        tone: 'warning',
+        retry: navigator.onLine,
+        retryLabel: 'Check again'
+      });
+      return;
+    }
+
+    if (!isToday || ageHours > 6) {
+      setStatus(`Today’s refresh is delayed. You are seeing the most recent completed report from ${exact}.`, {
+        tone: 'warning',
+        retry: true,
+        retryLabel: 'Refresh'
+      });
+      return;
+    }
+
+    if (ageHours > 2) {
+      setStatus(`This morning’s report was refreshed ${formatRelativeAge(report.generated_at)} and is still the latest completed edition.`, {
+        tone: 'info'
+      });
+      return;
+    }
+
+    hideStatus();
+  };
+
+  const renderReportMeta = (report, source = 'current') => {
+    document.querySelectorAll('.report-date').forEach((date) => {
       if (!report.report_date) return;
       date.dateTime = report.report_date;
       date.textContent = formatDate(report.report_date);
     });
-    renderFreshness(report);
+    renderFreshness(report, source);
   };
 
-  const renderReport = (report) => {
-    renderReportMeta(report);
+  const renderReport = (report, source = 'current') => {
+    activeReport = report;
+    activeSource = source;
+    renderReportMeta(report, source);
 
     const lead = document.getElementById('lead-story');
-    if (lead) fillStory(lead, report.top_story, { requireImage: true });
+    if (lead) {
+      lead.classList.remove('is-loading');
+      fillStory(lead, report.top_story, { requireImage: true });
+    }
 
     renderQuickScan(report.quick_scan);
 
@@ -204,6 +347,52 @@
 
     const capybaraMessage = document.getElementById('capybara-message');
     setText(capybaraMessage, '[data-field="message"]', report.capybara_message);
+
+    document.body.dataset.reportSource = source;
+    document.body.dataset.reportState = 'ready';
+    document.querySelector('main')?.setAttribute('aria-busy', 'false');
+  };
+
+  const renderLoadingState = () => {
+    document.body.dataset.reportState = 'loading';
+    document.querySelector('main')?.setAttribute('aria-busy', 'true');
+
+    const updated = document.getElementById('report-updated');
+    if (updated) updated.textContent = 'Loading the latest completed report…';
+    setStatus('Checking today’s report and its backup copies.', { tone: 'loading', spinner: true });
+
+    const lead = document.getElementById('lead-story');
+    if (lead) {
+      lead.classList.add('is-loading');
+      setText(lead, '[data-field="source"]', 'Gathering today’s signals');
+      setText(lead, '[data-field="headline"]', 'Building your morning briefing…');
+      setText(lead, '[data-field="summary"]', 'Checking the newest completed report before we hand you the headlines.');
+      setLink(lead, '[data-field="source-link"]', '');
+    }
+
+    const quickScan = document.getElementById('quick-scan-list');
+    if (quickScan) {
+      quickScan.innerHTML = '';
+      for (let index = 0; index < 4; index += 1) {
+        const item = document.createElement('div');
+        item.className = 'report-skeleton';
+        item.setAttribute('aria-hidden', 'true');
+        quickScan.appendChild(item);
+      }
+    }
+
+    document.querySelectorAll('[data-feed]').forEach((container) => {
+      container.innerHTML = '';
+      for (let index = 0; index < 4; index += 1) {
+        const card = document.createElement('div');
+        card.className = 'report-skeleton-card';
+        card.setAttribute('aria-hidden', 'true');
+        container.appendChild(card);
+      }
+    });
+
+    const capybaraMessage = document.getElementById('capybara-message');
+    setText(capybaraMessage, '[data-field="message"]', 'Clementine is checking the morning paperwork.');
   };
 
   const setActiveNavigation = () => {
@@ -241,10 +430,20 @@
   };
 
   const fetchJson = async (url) => {
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
     const separator = url.includes('?') ? '&' : '?';
-    const response = await fetch(`${url}${separator}cache=${Date.now()}`, { cache: 'no-store' });
-    if (!response.ok) throw new Error(`Report request failed for ${url}: ${response.status}`);
-    return response.json();
+
+    try {
+      const response = await fetch(`${url}${separator}cache=${Date.now()}`, {
+        cache: 'no-store',
+        signal: controller.signal
+      });
+      if (!response.ok) throw new Error(`Report request failed for ${url}: ${response.status}`);
+      return await response.json();
+    } finally {
+      window.clearTimeout(timer);
+    }
   };
 
   const loadPrimaryReport = async () => {
@@ -281,68 +480,99 @@
     }
   };
 
-  const showFallbackNotice = (source) => {
-    const status = document.getElementById('report-freshness');
-    if (!status) return;
-
-    status.hidden = false;
-    if (source === 'archive') {
-      status.textContent = 'The current report file was unavailable. Showing the most recent completed archive.';
-    } else if (source === 'browser') {
-      status.textContent = 'The report files could not be reached. Showing the last report saved on this device.';
-    }
-  };
-
   const showLoadError = (error) => {
     console.error(error);
+    activeReport = null;
+    activeSource = 'unavailable';
+    document.body.dataset.reportSource = 'unavailable';
+    document.body.dataset.reportState = 'error';
+    document.querySelector('main')?.setAttribute('aria-busy', 'false');
+
     const lead = document.getElementById('lead-story');
-    setText(lead, '[data-field="headline"]', 'The report data did not load this time.');
-    setText(lead, '[data-field="summary"]', 'The page is working, but no current, archived, or saved report could be retrieved.');
-    setImage(lead, '[data-field="image"]', '', 'Morning Intelligence Report', LEAD_FALLBACK_IMAGE);
+    if (lead) {
+      lead.classList.remove('is-loading');
+      setText(lead, '[data-field="source"]', 'Report unavailable');
+      setText(lead, '[data-field="headline"]', 'The morning report could not be reached.');
+      setText(lead, '[data-field="summary"]', 'The page itself is working, but no current, archived, or device-saved report was available.');
+      setImage(lead, '[data-field="image"]', '', 'Morning Intelligence Report', LEAD_FALLBACK_IMAGE);
+      setLink(lead, '[data-field="source-link"]', '');
+    }
 
     const updated = document.getElementById('report-updated');
-    const status = document.getElementById('report-freshness');
-    if (updated) updated.textContent = 'Latest refresh could not be confirmed';
-    if (status) {
-      status.hidden = false;
-      status.textContent = 'No completed report is available on this device yet. Please refresh after the next report run.';
-    }
+    if (updated) updated.textContent = 'Last completed refresh unavailable';
+
+    const offlineMessage = navigator.onLine
+      ? 'None of the report sources answered. Try again now, or return after the next scheduled refresh.'
+      : 'You are offline and this device does not have a saved report yet.';
+    setStatus(offlineMessage, {
+      tone: 'error',
+      retry: navigator.onLine,
+      retryLabel: 'Try again'
+    });
   };
 
   const loadReportWithFallbacks = async () => {
-    try {
-      const report = await loadPrimaryReport();
-      renderReport(report);
-      saveCachedReport(report);
-      document.body.dataset.reportSource = 'current';
-      return;
-    } catch (primaryError) {
-      console.warn('The current report could not be used.', primaryError);
-    }
+    if (loadInProgress) return;
+    loadInProgress = true;
+    renderLoadingState();
 
     try {
-      const report = await loadArchivedReport();
-      renderReport(report);
-      saveCachedReport(report);
-      showFallbackNotice('archive');
-      document.body.dataset.reportSource = 'archive';
-      return;
-    } catch (archiveError) {
-      console.warn('The archived report could not be used.', archiveError);
-    }
+      try {
+        const report = await loadPrimaryReport();
+        renderReport(report, 'current');
+        saveCachedReport(report);
+        return;
+      } catch (primaryError) {
+        console.warn('The current report could not be used.', primaryError);
+      }
 
-    const cachedReport = loadCachedReport();
-    if (cachedReport) {
-      renderReport(cachedReport);
-      showFallbackNotice('browser');
-      document.body.dataset.reportSource = 'browser';
-      return;
-    }
+      try {
+        const report = await loadArchivedReport();
+        renderReport(report, 'archive');
+        saveCachedReport(report);
+        return;
+      } catch (archiveError) {
+        console.warn('The archived report could not be used.', archiveError);
+      }
 
-    showLoadError(new Error('All report sources failed.'));
-    document.body.dataset.reportSource = 'unavailable';
+      const cachedReport = loadCachedReport();
+      if (cachedReport) {
+        renderReport(cachedReport, 'browser');
+        return;
+      }
+
+      showLoadError(new Error('All report sources failed.'));
+    } finally {
+      loadInProgress = false;
+    }
   };
 
+  const refreshVisibleTimestamp = () => {
+    if (activeReport) renderFreshness(activeReport, activeSource);
+  };
+
+  window.addEventListener('offline', () => {
+    if (activeReport) {
+      setStatus(`You are offline. The report currently on screen was saved ${formatRelativeAge(activeReport.generated_at)}.`, {
+        tone: 'warning'
+      });
+    }
+  });
+
+  window.addEventListener('online', () => {
+    if (activeSource === 'browser' || activeSource === 'unavailable') {
+      setStatus('Your connection is back. Check for the newest completed report.', {
+        tone: 'info',
+        retry: true,
+        retryLabel: 'Check now'
+      });
+    } else if (activeReport) {
+      renderFreshness(activeReport, activeSource);
+    }
+  });
+
+  addStatusStylesheet();
   setActiveNavigation();
   loadReportWithFallbacks();
+  window.setInterval(refreshVisibleTimestamp, 60000);
 })();

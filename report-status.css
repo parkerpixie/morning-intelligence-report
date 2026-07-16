@@ -1,0 +1,190 @@
+.report-updated {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-end;
+  gap: 0.3rem;
+  margin: 0.35rem 0 0;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.report-updated time {
+  color: #ffffff;
+}
+
+.report-updated .report-age {
+  color: rgba(255, 255, 255, 0.68);
+  font-weight: 600;
+}
+
+.report-freshness {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.55rem;
+  max-width: 430px;
+  margin: 0.55rem 0 0 auto;
+  padding: 0.52rem 0.72rem;
+  color: #f8fbfb;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.09);
+  font-size: 0.75rem;
+  font-weight: 800;
+  line-height: 1.4;
+  box-shadow: 0 8px 22px rgba(4, 25, 31, 0.12);
+}
+
+.report-freshness[hidden] {
+  display: none;
+}
+
+.report-freshness[data-tone="loading"] {
+  background: rgba(47, 159, 167, 0.18);
+}
+
+.report-freshness[data-tone="info"] {
+  background: rgba(47, 159, 167, 0.16);
+}
+
+.report-freshness[data-tone="warning"] {
+  background: rgba(223, 123, 111, 0.22);
+}
+
+.report-freshness[data-tone="error"] {
+  background: rgba(150, 53, 75, 0.32);
+}
+
+.report-status-spinner {
+  width: 0.82rem;
+  height: 0.82rem;
+  flex: 0 0 auto;
+  border: 2px solid rgba(255, 255, 255, 0.42);
+  border-top-color: #ffffff;
+  border-radius: 50%;
+  animation: report-spin 0.8s linear infinite;
+}
+
+.report-status-message {
+  flex: 1 1 220px;
+}
+
+.report-status-retry {
+  appearance: none;
+  padding: 0.35rem 0.62rem;
+  color: #173b45;
+  border: 0;
+  border-radius: 999px;
+  background: #fff8e7;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.report-status-retry:hover,
+.report-status-retry:focus-visible {
+  background: #ffffff;
+  outline: 2px solid rgba(255, 255, 255, 0.62);
+  outline-offset: 2px;
+}
+
+.report-skeleton,
+.report-skeleton-card,
+.lead-story.is-loading .lead-image,
+.lead-story.is-loading [data-field="source"],
+.lead-story.is-loading [data-field="headline"],
+.lead-story.is-loading [data-field="summary"] {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(100deg, rgba(23, 59, 69, 0.08) 20%, rgba(255, 255, 255, 0.72) 38%, rgba(23, 59, 69, 0.08) 56%);
+  background-size: 220% 100%;
+  animation: report-shimmer 1.25s ease-in-out infinite;
+}
+
+.report-skeleton {
+  min-height: 66px;
+  border: 1px solid rgba(23, 59, 69, 0.08);
+  border-radius: 14px;
+}
+
+.report-skeleton-card {
+  min-height: 250px;
+  border: 1px solid rgba(23, 59, 69, 0.08);
+  border-radius: 18px;
+}
+
+.lead-story.is-loading {
+  pointer-events: none;
+}
+
+.lead-story.is-loading .lead-image {
+  opacity: 0.72;
+}
+
+.lead-story.is-loading [data-field="source"],
+.lead-story.is-loading [data-field="headline"],
+.lead-story.is-loading [data-field="summary"] {
+  color: transparent;
+  border-radius: 8px;
+}
+
+.lead-story.is-loading [data-field="source"] {
+  width: 42%;
+}
+
+.lead-story.is-loading [data-field="headline"] {
+  min-height: 2.5em;
+}
+
+.lead-story.is-loading [data-field="summary"] {
+  min-height: 3.2em;
+}
+
+.lead-story.is-loading .story-link {
+  visibility: hidden;
+}
+
+body[data-report-state="loading"] main {
+  cursor: progress;
+}
+
+body[data-report-state="error"] .lead-story {
+  border: 1px solid rgba(150, 53, 75, 0.2);
+}
+
+@keyframes report-spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes report-shimmer {
+  to { background-position-x: -120%; }
+}
+
+@media (max-width: 720px) {
+  .report-updated {
+    justify-content: flex-start;
+  }
+
+  .report-freshness {
+    width: 100%;
+    max-width: none;
+    margin-left: 0;
+    justify-content: flex-start;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .report-status-spinner,
+  .report-skeleton,
+  .report-skeleton-card,
+  .lead-story.is-loading .lead-image,
+  .lead-story.is-loading [data-field="source"],
+  .lead-story.is-loading [data-field="headline"],
+  .lead-story.is-loading [data-field="summary"] {
+    animation: none;
+  }
+}
