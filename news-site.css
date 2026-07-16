@@ -1,5 +1,25 @@
 /* Compact multi-page layout for the Morning Intelligence Report */
 
+.report-updated {
+  margin: 0.35rem 0 0;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.report-freshness {
+  max-width: 360px;
+  margin: 0.55rem 0 0 auto;
+  padding: 0.42rem 0.7rem;
+  color: #fff8e7;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  background: rgba(223, 123, 111, 0.2);
+  font-size: 0.75rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
 .report-section,
 .report-chapter,
 .section-page-shell,
@@ -241,6 +261,13 @@
   .lead-image {
     min-height: 220px;
     max-height: 340px;
+  }
+}
+
+@media (max-width: 720px) {
+  .report-freshness {
+    margin-left: 0;
+    border-radius: 14px;
   }
 }
 
