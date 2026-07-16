@@ -3,20 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A personalized morning briefing with local news, major stories, technology, work, wellbeing, entertainment, animals, and one calm capybara.">
+  <meta name="description" content="A personalized morning briefing with one lead story, a fast quick scan, and dedicated pages for every news section.">
   <meta name="theme-color" content="#173b45">
   <title>Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="header-refresh.css?v=20260716-2">
   <link rel="stylesheet" href="header-half.css?v=20260716-3">
-  <script src="script.js" defer></script>
+  <link rel="stylesheet" href="news-site.css?v=20260716-1">
+  <script src="script.js?v=20260716-2" defer></script>
 </head>
-<body>
+<body class="home-page" data-page="home">
   <a class="skip-link" href="#main-content">Skip to the report</a>
 
   <header class="site-header" id="top">
     <div class="header-inner">
-      <a class="site-brand" href="#top">
+      <a class="site-brand" href="index.html">
         <span class="brand-eyebrow">Your daily field guide</span>
         <span class="brand-name">Morning Intelligence Report</span>
       </a>
@@ -31,16 +32,18 @@
 
   <nav class="section-nav" aria-label="Report sections">
     <div class="section-nav-inner">
-      <a href="#top-story">Big Story</a>
-      <a href="#quick-scan">Quick Scan</a>
-      <a href="#local">Local</a>
-      <a href="#must-know">Must Know</a>
-      <a href="#ai-tech">AI &amp; Tech</a>
-      <a href="#work-marketing">Work</a>
-      <a href="#wellbeing">Wellbeing</a>
-      <a href="#entertainment">Entertainment</a>
-      <a href="#animals">Animals</a>
-      <a href="#capybara-corner">Capybara Corner</a>
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="big-story.html" data-nav="big-story">Big Story</a>
+      <a href="quick-scan.html" data-nav="quick-scan">Quick Scan</a>
+      <a href="local.html" data-nav="local">Local</a>
+      <a href="must-know.html" data-nav="must-know">Must Know</a>
+      <a href="ai-tech.html" data-nav="ai-tech">AI &amp; Tech</a>
+      <a href="work-marketing.html" data-nav="work-marketing">Work</a>
+      <a href="wellbeing.html" data-nav="wellbeing">Wellbeing</a>
+      <a href="entertainment.html" data-nav="entertainment">Culture</a>
+      <a href="animals.html" data-nav="animals">Animals</a>
+      <a href="wonderful.html" data-nav="wonderful">Wonderful</a>
+      <a href="capybara.html" data-nav="capybara">Capybara</a>
     </div>
   </nav>
 
@@ -73,12 +76,11 @@
         <p>The one development most likely to shape the morning.</p>
       </div>
       <article class="lead-story" id="lead-story">
-        <img class="lead-image" data-field="image" alt="" hidden>
+        <img class="lead-image" data-field="image" src="assets/images/clementine-madison-morning.webp" alt="Morning Intelligence Report" width="600" height="450">
         <div class="lead-content">
           <p class="story-label" data-field="source">Today’s lead</p>
           <h3 data-field="headline">Today’s biggest story is loading.</h3>
           <p class="story-summary" data-field="summary">Fresh reporting is on its way.</p>
-          <div class="story-take"><strong>The Take</strong><p data-field="take"></p></div>
           <a class="story-link" data-field="source-link" href="#" hidden>Read the story</a>
         </div>
       </article>
@@ -92,79 +94,13 @@
       </div>
       <div class="quick-scan-list" id="quick-scan-list"></div>
     </section>
-
-    <div class="decorative-divider"><img src="assets/images/Sunrise Divider.png" alt=""></div>
-
-    <section class="report-chapter" id="local">
-      <div class="chapter-heading"><p class="section-kicker">Closest to home</p><h2>Madison &amp; Wisconsin</h2><p>Madison, Dane County, Wisconsin policy, schools, events, weather impacts, and the stories that can reach your actual calendar.</p></div>
-      <div class="story-grid" data-feed="local"></div>
-    </section>
-
-    <section class="report-chapter" id="must-know">
-      <div class="chapter-heading"><p class="section-kicker">The wider world</p><h2>Must Know Today</h2><p>National and global developments with the noise trimmed off.</p></div>
-      <div class="story-grid" data-feed="must-know"></div>
-    </section>
-
-    <div class="decorative-divider"><img src="assets/images/Star Divider.png" alt=""></div>
-
-    <section class="report-chapter" id="ai-tech">
-      <div class="chapter-heading"><p class="section-kicker">Signals from tomorrow</p><h2>AI &amp; Technology</h2><p>AI, platforms, privacy, products, science, and systems quietly rewriting daily life.</p></div>
-      <div class="story-grid" data-feed="ai-tech"></div>
-    </section>
-
-    <section class="report-chapter" id="work-marketing">
-      <div class="chapter-heading"><p class="section-kicker">For your working brain</p><h2>Work &amp; Marketing</h2><p>Marketing automation, Salesforce, data, customer experience, analytics, and career-relevant shifts.</p></div>
-      <div class="story-grid" data-feed="work-marketing"></div>
-    </section>
-
-    <div class="decorative-divider"><img src="assets/images/Botanical Divider.png" alt=""></div>
-
-    <section class="report-chapter" id="wellbeing">
-      <div class="chapter-heading"><p class="section-kicker">Brains, bodies, and breathing room</p><h2>Psychology, Mental Health &amp; Health</h2><p>Research, care access, neurodiversity, behavioral health, and practical developments worth understanding.</p></div>
-      <div class="story-grid" data-feed="wellbeing"></div>
-    </section>
-
-    <section class="report-chapter" id="entertainment">
-      <div class="chapter-heading"><p class="section-kicker">The human soundtrack</p><h2>Entertainment &amp; Culture</h2><p>Music, television, film, celebrity, and all Taylor Swift developments deemed essential public infrastructure.</p></div>
-      <div class="story-grid" data-feed="entertainment"></div>
-    </section>
-
-    <div class="decorative-divider"><img src="assets/images/Moon Divider.png" alt=""></div>
-
-    <section class="report-chapter" id="animals">
-      <div class="chapter-heading"><p class="section-kicker">Creatures doing better PR than humans</p><h2>Animals &amp; Nature</h2><p>Pets, wildlife, conservation, rescue stories, and excellent animal behavior.</p></div>
-      <div class="story-grid" data-feed="animals"></div>
-    </section>
-
-    <section class="report-section uplifting-feature" id="wonderful">
-      <div class="section-heading compact"><p class="section-kicker">Carry this one with you</p><h2>Something Wonderful</h2></div>
-      <article class="uplifting-card" id="wonderful-story">
-        <img class="card-image" data-field="image" alt="" hidden>
-        <div><h3 data-field="headline">Today’s bright spot is loading.</h3><p data-field="summary"></p><div class="story-take"><strong>The Take</strong><p data-field="take"></p></div><a class="story-link" data-field="source-link" href="#" hidden>Read the story</a></div>
-      </article>
-    </section>
-
-    <div class="decorative-divider"><img src="assets/images/Mushroom and Fern Divider.png" alt=""></div>
-
-    <section class="capybara-section" id="capybara-corner">
-      <div class="capybara-art"><img src="assets/images/Capybara Corner.png" alt="A peaceful celestial capybara in a dreamy botanical night scene" loading="lazy"></div>
-      <div class="capybara-copy"><p class="section-kicker">A mandatory pause in the machinery</p><h2>Capybara Corner</h2><blockquote id="capybara-message"><p data-field="message">You do not have to solve the whole forest before breakfast.</p></blockquote><p class="capybara-signoff">Steadily yours, Clementine</p></div>
-    </section>
   </main>
 
-  <footer class="site-footer"><div class="footer-inner"><p><strong>Morning Intelligence Report</strong></p><p>Curated for Parker with curiosity, context, and an aggressively low tolerance for nonsense.</p></div></footer>
-
-  <template id="story-card-template">
-    <article class="story-card">
-      <img class="card-image" data-field="image" alt="" hidden>
-      <div class="story-card-body">
-        <p class="story-label" data-field="source"></p>
-        <h3 data-field="headline"></h3>
-        <p class="story-summary" data-field="summary"></p>
-        <div class="story-take"><strong>The Take</strong><p data-field="take"></p></div>
-        <a class="story-link" data-field="source-link" href="#" target="_blank" rel="noopener noreferrer">Read the story</a>
-      </div>
-    </article>
-  </template>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>Morning Intelligence Report</strong></p>
+      <p>Curated for Parker with curiosity, context, and an aggressively low tolerance for nonsense.</p>
+    </div>
+  </footer>
 </body>
 </html>
