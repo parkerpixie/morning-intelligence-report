@@ -1,8 +1,12 @@
 from __future__ import annotations
 
+import os
+import re
 from collections import Counter
 from datetime import datetime, timezone
 from typing import Any
+from urllib.error import URLError
+from urllib.request import Request, urlopen
 
 import generate_report as base
 
@@ -11,6 +15,11 @@ QUICK_SCAN_LIMIT = 8
 MAX_PER_SOURCE = 3
 TAYLOR_FASHION_SECTION_LIMIT = 2
 TAYLOR_FASHION_QUICK_SCAN_LIMIT = 1
+PREFERENCE_PROFILE_URL = os.getenv(
+    "PREFERENCE_PROFILE_URL",
+    "https://mymorningintelligencereport.netlify.app/api/feedback",
+)
+MAX_PREFERENCE_BONUS = 18.0
 
 ALLOWED_SPORTS_PHRASES = {
     "green bay packers",
@@ -93,6 +102,75 @@ def text_for(item: dict[str, Any]) -> str:
     return f"{item.get('headline', '')} {item.get('summary', '')}".lower()
 
 
+def load_preference_profile() -> dict[str, Any]:
+    """Load the aggregate preference profile without making report generation depend on it."""
+    if not PREFERENCE_PROFILE_URL:
+        return {}
+
+    request = Request(
+        PREFERENCE_PROFILE_URL,
+        headers={"User-Agent": "Morning-Intelligence-Report/1.0"},
+    )
+    try:
+        with urlopen(request, timeout=6) as response:
+            payload = base.json.loads(response.read().decode("utf-8"))
+    except (OSError, URLError, ValueError, base.json.JSONDecodeError) as error:
+        print(f"Preference profile unavailable; using editorial ranking only: {error}")
+        return {}
+
+    if not isinstance(payload, dict):
+        return {}
+
+    total = int(payload.get("total_signals") or 0)
+    print(f"Loaded preference profile with {total} active feedback signals.")
+    return payload
+
+
+def numeric_map(profile: dict[str, Any], field: str) -> dict[str, float]:
+    raw = profile.get(field)
+    if not isinstance(raw, dict):
+        return {}
+    cleaned: dict[str, float] = {}
+    for map_key, value in raw.items():
+        try:
+            cleaned[str(map_key).lower()] = float(value)
+        except (TypeError, ValueError):
+            continue
+    return cleaned
+
+
+def preference_bonus(item: dict[str, Any], profile: dict[str, Any]) -> float:
+    if not profile:
+        return 0.0
+
+    section_weights = numeric_map(profile, "section_weights")
+    source_weights = numeric_map(profile, "source_weights")
+    keyword_weights = numeric_map(profile, "keyword_weights")
+
+    bonus = section_weights.get(str(item.get("section", "")).lower(), 0.0)
+    bonus += source_weights.get(str(item.get("source", "")).lower(), 0.0)
+
+    text = text_for(item)
+    keyword_bonus = 0.0
+    for keyword, weight in keyword_weights.items():
+        if not keyword:
+            continue
+        if " " in keyword:
+            matched = keyword in text
+        else:
+            matched = re.search(
+                rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])",
+                text,
+            ) is not None
+        if matched:
+            keyword_bonus += weight
+
+    # Feedback should steer the report, not bulldoze editorial importance and recency.
+    keyword_bonus = max(-12.0, min(12.0, keyword_bonus))
+    bonus += keyword_bonus
+    return max(-MAX_PREFERENCE_BONUS, min(MAX_PREFERENCE_BONUS, bonus))
+
+
 def is_allowed_sports_story(text: str) -> bool:
     return any(phrase in text for phrase in ALLOWED_SPORTS_PHRASES)
 
@@ -109,22 +187,33 @@ def is_taylor_fashion_story(item: dict[str, Any]) -> bool:
     return "taylor swift" in text and any(term in text for term in TAYLOR_FASHION_TERMS)
 
 
-def display_score(item: dict[str, Any], now_ts: float) -> float:
+def display_score(
+    item: dict[str, Any],
+    now_ts: float,
+    profile: dict[str, Any] | None = None,
+) -> float:
     score = base.importance_score(item, now_ts)
     if item.get("image"):
         score += 4
     if is_taylor_fashion_story(item):
         # Keep Taylor fashion discoverable without allowing it to dominate the report.
         score += 6
+    score += preference_bonus(item, profile or {})
     return score
 
 
-def collect_filtered(now_ts: float) -> dict[str, list[dict[str, Any]]]:
+def collect_filtered(
+    now_ts: float,
+    profile: dict[str, Any],
+) -> dict[str, list[dict[str, Any]]]:
     pools = base.collect_all(now_ts)
     for section, stories in pools.items():
         filtered = [story for story in stories if not is_unwanted_sports_story(story)]
         filtered.sort(
-            key=lambda item: (display_score(item, now_ts), item.get("timestamp", 0)),
+            key=lambda item: (
+                display_score(item, now_ts, profile),
+                item.get("timestamp", 0),
+            ),
             reverse=True,
         )
         pools[section] = filtered
@@ -184,6 +273,7 @@ def choose_top_story(
     history: list[dict[str, str]],
     today: str,
     now_ts: float,
+    profile: dict[str, Any],
 ) -> dict[str, Any] | None:
     # The Big Story is reserved for consequential local, national, global, AI,
     # or technology news. Entertainment stories, including Taylor Swift, never
@@ -198,8 +288,11 @@ def choose_top_story(
         if "taylor swift" not in text_for(item)
     ]
     for item in top_pool:
-        item["score"] = display_score(item, now_ts)
-    top_pool.sort(key=lambda item: (item["score"], item.get("timestamp", 0)), reverse=True)
+        item["score"] = display_score(item, now_ts, profile)
+    top_pool.sort(
+        key=lambda item: (item["score"], item.get("timestamp", 0)),
+        reverse=True,
+    )
 
     fresh_top = [
         item for item in top_pool if not base.appeared_before(item, history, today)
@@ -213,12 +306,19 @@ def main() -> None:
     now_ts = now_utc.timestamp()
     today = now_local.date().isoformat()
     history = base.load_history(now_local)
-    pools = collect_filtered(now_ts)
+    preference_profile = load_preference_profile()
+    pools = collect_filtered(now_ts, preference_profile)
 
     chosen_global: list[dict[str, Any]] = []
     sections: dict[str, list[dict[str, Any]]] = {}
 
-    top_story = choose_top_story(pools, history, today, now_ts)
+    top_story = choose_top_story(
+        pools,
+        history,
+        today,
+        now_ts,
+        preference_profile,
+    )
     if top_story:
         chosen_global.append(top_story)
 
@@ -250,7 +350,10 @@ def main() -> None:
     for section in base.SECTION_ORDER:
         quick_candidates.extend(pools.get(section, [])[:12])
     quick_candidates.sort(
-        key=lambda item: (display_score(item, now_ts), item.get("timestamp", 0)),
+        key=lambda item: (
+            display_score(item, now_ts, preference_profile),
+            item.get("timestamp", 0),
+        ),
         reverse=True,
     )
     quick_candidates = limit_taylor_fashion(
@@ -274,6 +377,10 @@ def main() -> None:
         "sections": sections,
         "wonderful": sections["wonderful"][0] if sections["wonderful"] else None,
         "capybara_message": base.choose_clementine(now_local),
+        "personalization": {
+            "active_feedback_signals": int(preference_profile.get("total_signals") or 0),
+            "profile_updated_at": preference_profile.get("updated_at"),
+        },
     }
 
     base.OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
