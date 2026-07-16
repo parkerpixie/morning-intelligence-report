@@ -38,6 +38,12 @@
     link.rel = 'noopener noreferrer';
   };
 
+  const setCompactCardState = (image, isCompact) => {
+    const card = image?.closest('.story-card');
+    if (!card) return;
+    card.classList.toggle('story-card--compact', isCompact);
+  };
+
   const setImage = (root, selector, url, headline, fallback = '') => {
     const image = root?.querySelector(selector);
     if (!image) return;
@@ -45,19 +51,25 @@
     const selectedUrl = url || fallback;
     if (!selectedUrl) {
       image.hidden = true;
+      setCompactCardState(image, true);
       return;
     }
 
     image.src = selectedUrl;
     image.alt = headline ? `Photo for: ${headline}` : 'Article photo';
     image.hidden = false;
+    image.decoding = 'async';
+    if (!fallback) image.loading = 'lazy';
+    setCompactCardState(image, false);
 
     image.addEventListener('error', () => {
       if (fallback && !image.src.includes(fallback)) {
         image.src = fallback;
         image.hidden = false;
+        setCompactCardState(image, false);
       } else {
         image.hidden = true;
+        setCompactCardState(image, true);
       }
     }, { once: true });
   };
