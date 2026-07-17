@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Search and browse past editions of Parker's Morning Intelligence Report.">
+  <meta name="theme-color" content="#173b45">
+  <title>Archive &amp; Search | Morning Intelligence Report</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="news-site.css?v=20260716-1">
+  <link rel="stylesheet" href="archive.css?v=20260716-1">
+  <script src="script.js?v=20260716-2" defer></script>
+  <script src="archive.js?v=20260716-1" defer></script>
+</head>
+<body class="archive-page" data-page="archive">
+  <a class="skip-link" href="#main-content">Skip to archive search</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="index.html">
+        <span class="brand-eyebrow">Your daily field guide</span>
+        <span class="brand-name">Morning Intelligence Report</span>
+      </a>
+      <div class="header-meta">
+        <p class="greeting">Archive &amp; Search</p>
+        <time class="report-date">Today’s briefing</time>
+        <p class="report-updated" id="report-updated">Checking the latest refresh…</p>
+        <p class="report-freshness" id="report-freshness" role="status" hidden></p>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Report sections">
+    <div class="section-nav-inner">
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="archive.html" data-nav="archive">Archive</a>
+      <a href="big-story.html" data-nav="big-story">Big Story</a>
+      <a href="quick-scan.html" data-nav="quick-scan">Quick Scan</a>
+      <a href="local.html" data-nav="local">Local</a>
+      <a href="must-know.html" data-nav="must-know">Must Know</a>
+      <a href="ai-tech.html" data-nav="ai-tech">AI &amp; Tech</a>
+      <a href="work-marketing.html" data-nav="work-marketing">Work</a>
+      <a href="wellbeing.html" data-nav="wellbeing">Wellbeing</a>
+      <a href="entertainment.html" data-nav="entertainment">Culture</a>
+      <a href="animals.html" data-nav="animals">Animals</a>
+      <a href="wonderful.html" data-nav="wonderful">Wonderful</a>
+      <a href="capybara.html" data-nav="capybara">Capybara</a>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <section class="archive-hero" aria-labelledby="archive-title">
+      <div class="archive-hero-grid">
+        <div>
+          <p class="archive-kicker">The report remembers now</p>
+          <h1 id="archive-title">Archive &amp; Search</h1>
+          <p class="archive-hero-copy">Search the stories that made the morning report, browse complete editions by date, or revisit the articles you saved. Yesterday’s context no longer vanishes into the digital shrubbery.</p>
+        </div>
+        <div class="archive-stats" aria-label="Archive statistics">
+          <div class="archive-stat"><strong id="archive-edition-count">0</strong><span>Editions</span></div>
+          <div class="archive-stat"><strong id="archive-story-count">0</strong><span>Stories</span></div>
+          <div class="archive-stat"><strong id="archive-saved-count">0</strong><span>Saved</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="archive-shell" aria-label="Archive browser">
+      <div class="archive-loading" id="archive-loading" role="status" aria-live="polite">
+        <strong>Opening the filing cabinet…</strong>
+        <div class="archive-loading-row" aria-hidden="true"></div>
+        <div class="archive-loading-row" aria-hidden="true"></div>
+      </div>
+
+      <div class="archive-error" id="archive-error" hidden>
+        <h2>The archive drawer stuck.</h2>
+        <p id="archive-error-message">The archive could not be opened.</p>
+        <a class="archive-read-link" href="archive.html">Try again</a>
+      </div>
+
+      <div class="archive-app" id="archive-app" hidden>
+        <aside class="archive-sidebar" aria-labelledby="edition-heading">
+          <div class="archive-sidebar-heading">
+            <p>Browse by date</p>
+            <h2 id="edition-heading">Report editions</h2>
+          </div>
+          <div class="archive-editions" id="archive-editions"></div>
+        </aside>
+
+        <div class="archive-main">
+          <div class="archive-toolbar">
+            <div class="archive-view-switcher" aria-label="Archive view">
+              <button class="archive-view-button is-active" type="button" data-archive-view="all" aria-pressed="true">All stories</button>
+              <button class="archive-view-button" type="button" data-archive-view="saved" aria-pressed="false">Saved stories</button>
+            </div>
+
+            <form class="archive-search-form" id="archive-search-form" role="search">
+              <div class="archive-field archive-field--query">
+                <label for="archive-query">Search words</label>
+                <input id="archive-query" type="search" placeholder="Taylor Swift, Madison, Salesforce…" autocomplete="off">
+              </div>
+              <div class="archive-field">
+                <label for="archive-section">Section</label>
+                <select id="archive-section"></select>
+              </div>
+              <div class="archive-field">
+                <label for="archive-date">Edition</label>
+                <select id="archive-date"></select>
+              </div>
+              <div class="archive-field">
+                <label for="archive-sort">Sort</label>
+                <select id="archive-sort">
+                  <option value="relevance">Best match</option>
+                  <option value="newest">Newest first</option>
+                  <option value="oldest">Oldest first</option>
+                  <option value="source">Source A–Z</option>
+                </select>
+              </div>
+              <button class="archive-clear" id="archive-clear" type="button">Clear</button>
+            </form>
+          </div>
+
+          <div class="archive-results-heading">
+            <p id="archive-results-status" role="status" aria-live="polite">Preparing the archive…</p>
+            <a class="archive-read-link" href="index.html">Back to today</a>
+          </div>
+
+          <div class="archive-results" id="archive-results"></div>
+
+          <div class="archive-empty" id="archive-empty" hidden>
+            <h2>No stories found.</h2>
+            <p>Try fewer words, another section, or release the date filter from its tiny bureaucratic clipboard.</p>
+            <button class="archive-clear" type="button" onclick="document.getElementById('archive-clear').click()">Clear filters</button>
+          </div>
+
+          <button class="archive-load-more" id="archive-load-more" type="button" hidden>Show more stories</button>
+          <p class="archive-footnote">Search covers article headlines, summaries, sources, and report sections. Repeated articles are consolidated so the archive stays useful instead of breeding duplicates overnight.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>Morning Intelligence Report</strong></p>
+      <p>Context kept. Receipts filed. Digital dust bunnies evicted.</p>
+    </div>
+  </footer>
+</body>
+</html>
