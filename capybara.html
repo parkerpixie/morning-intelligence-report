@@ -1,16 +1,138 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A quiet daily pause with Clementine the capybara."><meta name="theme-color" content="#173b45">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A quiet daily pause with Clementine, a spirit-animal reflection, and an interactive oracle card draw.">
+  <meta name="theme-color" content="#173b45">
   <title>Capybara Corner | Morning Intelligence Report</title>
-  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="news-site.css?v=20260716-1"><script src="script.js?v=20260716-2" defer></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="news-site.css?v=20260716-1">
+  <link rel="stylesheet" href="oracle.css?v=20260717-1">
+  <script src="script.js?v=20260716-2" defer></script>
+  <script src="oracle.js?v=20260717-1" defer></script>
 </head>
 <body class="capybara-page" data-page="capybara">
   <a class="skip-link" href="#main-content">Skip to Capybara Corner</a>
-  <header class="site-header"><div class="header-inner"><a class="site-brand" href="index.html"><span class="brand-eyebrow">Your daily field guide</span><span class="brand-name">Morning Intelligence Report</span></a><div class="header-meta"><p class="greeting">Capybara Corner</p><time class="report-date">Today’s briefing</time><p class="report-updated" id="report-updated">Checking the latest refresh…</p><p class="report-freshness" id="report-freshness" role="status" hidden></p></div></div></header>
-  <nav class="section-nav" aria-label="Report sections"><div class="section-nav-inner"><a href="index.html" data-nav="home">Home</a><a href="archive.html" data-nav="archive">Archive</a><a href="big-story.html" data-nav="big-story">Big Story</a><a href="quick-scan.html" data-nav="quick-scan">Quick Scan</a><a href="local.html" data-nav="local">Local</a><a href="must-know.html" data-nav="must-know">Must Know</a><a href="ai-tech.html" data-nav="ai-tech">AI &amp; Tech</a><a href="work-marketing.html" data-nav="work-marketing">Work</a><a href="wellbeing.html" data-nav="wellbeing">Wellbeing</a><a href="entertainment.html" data-nav="entertainment">Culture</a><a href="animals.html" data-nav="animals">Animals</a><a href="wonderful.html" data-nav="wonderful">Wonderful</a><a href="capybara.html" data-nav="capybara">Capybara</a></div></nav>
-  <main id="main-content"><div class="capybara-page-shell"><section class="capybara-section"><div class="capybara-art"><img src="assets/images/Capybara Corner.png" alt="A peaceful celestial capybara in a dreamy botanical night scene"></div><div class="capybara-copy"><p class="section-kicker">A mandatory pause in the machinery</p><h2>Capybara Corner</h2><blockquote id="capybara-message"><p data-field="message">You do not have to solve the whole forest before breakfast.</p></blockquote><p class="capybara-signoff">Steadily yours, Clementine</p></div></section></div></main>
-  <footer class="site-footer"><div class="footer-inner"><p><strong>Morning Intelligence Report</strong></p><p>The machinery may resume after one properly supervised pause.</p></div></footer>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="index.html">
+        <span class="brand-eyebrow">Your daily field guide</span>
+        <span class="brand-name">Morning Intelligence Report</span>
+      </a>
+      <div class="header-meta">
+        <p class="greeting">Capybara Corner</p>
+        <time class="report-date">Today’s briefing</time>
+        <p class="report-updated" id="report-updated">Checking the latest refresh…</p>
+        <p class="report-freshness" id="report-freshness" role="status" hidden></p>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Report sections">
+    <div class="section-nav-inner">
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="archive.html" data-nav="archive">Archive</a>
+      <a href="big-story.html" data-nav="big-story">Big Story</a>
+      <a href="quick-scan.html" data-nav="quick-scan">Quick Scan</a>
+      <a href="local.html" data-nav="local">Local</a>
+      <a href="must-know.html" data-nav="must-know">Must Know</a>
+      <a href="ai-tech.html" data-nav="ai-tech">AI &amp; Tech</a>
+      <a href="work-marketing.html" data-nav="work-marketing">Work</a>
+      <a href="wellbeing.html" data-nav="wellbeing">Wellbeing</a>
+      <a href="entertainment.html" data-nav="entertainment">Culture</a>
+      <a href="animals.html" data-nav="animals">Animals</a>
+      <a href="wonderful.html" data-nav="wonderful">Wonderful</a>
+      <a href="capybara.html" data-nav="capybara">Capybara</a>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <div class="capybara-page-shell oracle-page-shell">
+      <section class="capybara-section" aria-labelledby="clementine-heading">
+        <div class="capybara-art">
+          <img src="assets/images/Capybara Corner.png" alt="A peaceful celestial capybara in a dreamy botanical night scene">
+        </div>
+        <div class="capybara-copy">
+          <p class="section-kicker">A mandatory pause in the machinery</p>
+          <h1 id="clementine-heading">Capybara Corner</h1>
+          <blockquote id="capybara-message">
+            <p data-field="message">You do not have to solve the whole forest before breakfast.</p>
+          </blockquote>
+          <p class="capybara-signoff">Steadily yours, Clementine</p>
+        </div>
+      </section>
+
+      <section class="daily-reflection" aria-labelledby="reflection-heading">
+        <div class="oracle-section-heading">
+          <p class="section-kicker">A signal to carry with you</p>
+          <h2 id="reflection-heading">Spirit Animal of the Day</h2>
+          <p>One reflection card, selected for today and held steady until tomorrow.</p>
+        </div>
+
+        <figure class="reflection-card is-loading" id="reflection-card" aria-busy="true">
+          <div class="reflection-image-frame">
+            <img id="reflection-image" src="" alt="" width="1200" height="630" decoding="async">
+          </div>
+          <figcaption>
+            <span class="reflection-date" id="reflection-date">Today’s reflection</span>
+            <strong id="reflection-animal">Consulting the animal council…</strong>
+            <span id="reflection-message">Clementine is shuffling the gold-edged paperwork.</span>
+          </figcaption>
+        </figure>
+      </section>
+
+      <section class="oracle-draw-section" aria-labelledby="oracle-heading">
+        <div class="oracle-draw-copy">
+          <p class="section-kicker">A card for the path ahead</p>
+          <h2 id="oracle-heading">Your Morning Oracle</h2>
+          <p class="oracle-intro">Today’s card is chosen once for the day. Tap it to turn it over and read the full message, or pull another when your intuition requests a recount.</p>
+
+          <div class="oracle-card-name" aria-live="polite">
+            <span>Your card</span>
+            <strong id="oracle-animal">Preparing the deck…</strong>
+          </div>
+
+          <div class="oracle-controls" aria-label="Oracle card controls">
+            <button class="oracle-button oracle-button--primary" id="oracle-flip" type="button" disabled>Reveal the message</button>
+            <button class="oracle-button" id="oracle-redraw" type="button" disabled>Pull another card</button>
+            <button class="oracle-button oracle-button--quiet" id="oracle-return" type="button" hidden>Return to today’s card</button>
+            <button class="oracle-button oracle-button--quiet" id="oracle-enlarge" type="button" hidden>Open reading larger</button>
+          </div>
+          <p class="oracle-status" id="oracle-status" role="status" aria-live="polite">The deck is gathering itself.</p>
+        </div>
+
+        <div class="oracle-stage">
+          <button class="oracle-card is-loading" id="oracle-card" type="button" aria-pressed="false" aria-label="Oracle card. Reveal the message." disabled>
+            <span class="oracle-card-inner">
+              <span class="oracle-card-face oracle-card-front">
+                <img id="oracle-front-image" src="" alt="" width="1050" height="1725" decoding="async">
+              </span>
+              <span class="oracle-card-face oracle-card-back" aria-hidden="true">
+                <img id="oracle-back-image" src="" alt="" width="1050" height="1725" decoding="async">
+              </span>
+            </span>
+          </button>
+          <p class="oracle-card-hint" id="oracle-card-hint">Tap the card to reveal its message.</p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <dialog class="oracle-dialog" id="oracle-dialog" aria-labelledby="oracle-dialog-title">
+    <div class="oracle-dialog-header">
+      <h2 id="oracle-dialog-title">Oracle reading</h2>
+      <button class="oracle-dialog-close" id="oracle-dialog-close" type="button" aria-label="Close full-size oracle reading">Close</button>
+    </div>
+    <img id="oracle-dialog-image" src="" alt="" width="1050" height="1725">
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>Morning Intelligence Report</strong></p>
+      <p>The machinery may resume after one properly supervised pause and one statistically unlicensed oracle draw.</p>
+    </div>
+  </footer>
 </body>
 </html>
