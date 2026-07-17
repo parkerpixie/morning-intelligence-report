@@ -10,13 +10,14 @@ ARCHIVE = ASSET_DIR / "card-assets.zip"
 PARTS = tuple(sorted(ASSET_DIR.glob("card-assets.zip.part-*")))
 TARGET = ASSET_DIR
 ALLOWED_ROOTS = {"oracle", "reflections"}
+ALLOWED_FILES = {"oracle-manifest.json"}
 
 
 def safe_destination(member_name: str) -> Path:
     member = Path(member_name)
     if member.is_absolute() or ".." in member.parts:
         raise ValueError(f"Unsafe oracle asset path: {member_name}")
-    if not member.parts or member.parts[0] not in ALLOWED_ROOTS:
+    if not member.parts or (member.parts[0] not in ALLOWED_ROOTS and member.as_posix() not in ALLOWED_FILES):
         raise ValueError(f"Unexpected oracle asset path: {member_name}")
     destination = (TARGET / member).resolve()
     if TARGET.resolve() not in destination.parents and destination != TARGET.resolve():
