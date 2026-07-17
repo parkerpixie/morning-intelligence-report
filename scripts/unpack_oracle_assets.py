@@ -7,7 +7,10 @@ from zipfile import ZipFile
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSET_DIR = ROOT / "assets" / "oracle"
-ARCHIVE = ASSET_DIR / "card-assets.zip"
+ARCHIVE_CANDIDATES = (
+    ASSET_DIR / "card-assets.zip",
+    ASSET_DIR / "oracle-card-assets.zip",
+)
 PARTS = tuple(sorted(ASSET_DIR.glob("card-assets.zip.part-*")))
 TARGET = ASSET_DIR
 ALLOWED_ROOTS = {"oracle", "reflections"}
@@ -27,11 +30,14 @@ def safe_destination(member_name: str) -> Path:
 
 
 def assembled_archive() -> tuple[Path, bool]:
-    if ARCHIVE.exists():
-        return ARCHIVE, False
+    for archive in ARCHIVE_CANDIDATES:
+        if archive.exists():
+            return archive, False
+
     if not PARTS:
+        expected_paths = ", ".join(str(path.relative_to(ROOT)) for path in ARCHIVE_CANDIDATES)
         raise FileNotFoundError(
-            f"Oracle asset archive not found. Add {ARCHIVE.relative_to(ROOT)} before deploying."
+            f"Oracle asset archive not found. Add one of: {expected_paths}."
         )
 
     temporary = NamedTemporaryFile(prefix="oracle-card-assets-", suffix=".zip", delete=False)
