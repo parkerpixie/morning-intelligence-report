@@ -1,0 +1,6 @@
+[build]
+  command = "python scripts/unpack_oracle_assets.py"
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
