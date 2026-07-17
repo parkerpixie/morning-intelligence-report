@@ -1,5 +1,31 @@
 {
   "latest": "data/archive/2026-07-16.json",
   "report_date": "2026-07-16",
-  "generated_at": "2026-07-16T22:36:01.332542+00:00"
+  "generated_at": "2026-07-17T00:18:50.047374+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "report_date": "2026-07-16",
+      "generated_at": "2026-07-17T00:18:50.047374+00:00",
+      "path": "data/archive/2026-07-16.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+        "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    }
+  ]
 }
