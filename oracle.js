@@ -213,7 +213,11 @@
       const validated = validateManifest(await response.json());
       oracleCards = validated.oracleCards;
       reflectionCards = validated.reflectionCards;
-      const reflection = dailyChoice(reflectionCards, 'spirit-animal-reflection');
+      const matchedReflections = reflectionCards.filter((card) =>
+        card.oracle_match && oracleCards.some((oracle) => oracle.id === card.oracle_match)
+      );
+      const reflectionPool = matchedReflections.length ? matchedReflections : reflectionCards;
+      const reflection = dailyChoice(reflectionPool, 'spirit-animal-reflection');
       setReflection(reflection);
       dailyOracle = chooseDailyOracle(reflection);
       setOracle(dailyOracle, { daily: true, animate: true });
