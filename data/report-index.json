@@ -1,21 +1,21 @@
 {
   "latest": "data/archive/2026-07-17.json",
   "report_date": "2026-07-17",
-  "generated_at": "2026-07-17T10:29:31.648434+00:00",
+  "generated_at": "2026-07-17T11:07:09.151209+00:00",
   "edition_count": 2,
   "editions": [
     {
       "report_date": "2026-07-17",
-      "generated_at": "2026-07-17T10:29:31.648434+00:00",
+      "generated_at": "2026-07-17T11:07:09.151209+00:00",
       "path": "data/archive/2026-07-17.json",
       "top_story": {
-        "source": "NPR",
-        "headline": "An analysis of President Trump's address",
-        "summary": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U.S. elections — a topic he has spread disinformation about for much of his political career.",
-        "url": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d581/live/e4364610-818d-11f1-bee8-53ce494e1abc.jpg"
       },
-      "story_count": 70,
+      "story_count": 71,
       "section_counts": {
         "local": 8,
         "must-know": 8,
@@ -23,7 +23,7 @@
         "work-marketing": 8,
         "wellbeing": 8,
         "entertainment": 8,
-        "animals": 7,
+        "animals": 8,
         "wonderful": 6
       }
     },
