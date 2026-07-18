@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-17.json",
-  "report_date": "2026-07-17",
-  "generated_at": "2026-07-17T11:07:09.151209+00:00",
-  "edition_count": 2,
+  "latest": "data/archive/2026-07-18.json",
+  "report_date": "2026-07-18",
+  "generated_at": "2026-07-18T10:08:41.666319+00:00",
+  "edition_count": 3,
   "editions": [
+    {
+      "report_date": "2026-07-18",
+      "generated_at": "2026-07-18T10:08:41.666319+00:00",
+      "path": "data/archive/2026-07-18.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Wisconsin lawmakers, activists urge Brown County DA to act on Elon Musk election case",
+        "summary": "Two Democratic state lawmakers are urging the Brown County district attorney to take action after a state commission found billionaire Elon Musk likely violated elections law last year.",
+        "url": "https://www.wpr.org/news/wisconsin-lawmakers-activists-brown-county-da-elon-musk-election-case",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-17",
       "generated_at": "2026-07-17T11:07:09.151209+00:00",
