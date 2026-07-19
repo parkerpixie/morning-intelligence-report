@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-18.json",
-  "report_date": "2026-07-18",
-  "generated_at": "2026-07-18T10:47:19.533979+00:00",
-  "edition_count": 3,
+  "latest": "data/archive/2026-07-19.json",
+  "report_date": "2026-07-19",
+  "generated_at": "2026-07-19T10:18:41.407062+00:00",
+  "edition_count": 4,
   "editions": [
+    {
+      "report_date": "2026-07-19",
+      "generated_at": "2026-07-19T10:18:41.407062+00:00",
+      "path": "data/archive/2026-07-19.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-18",
       "generated_at": "2026-07-18T10:47:19.533979+00:00",
