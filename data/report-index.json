@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-19.json",
-  "report_date": "2026-07-19",
-  "generated_at": "2026-07-19T10:54:59.243551+00:00",
-  "edition_count": 4,
+  "latest": "data/archive/2026-07-20.json",
+  "report_date": "2026-07-20",
+  "generated_at": "2026-07-20T11:35:12.626656+00:00",
+  "edition_count": 5,
   "editions": [
+    {
+      "report_date": "2026-07-20",
+      "generated_at": "2026-07-20T11:35:12.626656+00:00",
+      "path": "data/archive/2026-07-20.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "As the Democratic primary heats up, Republican Tom Tiffany has campaigned for governor on his own terms",
+        "summary": "The contentious Democratic primary for Wisconsin governor has given Republican U.S. Rep. Tom Tiffany a chance to campaign on his own terms. He's presented himself as quintessentially Wisconsin but down played his partisan voting record and his ties to President Donald Trump.",
+        "url": "https://www.wpr.org/news/republican-tom-tiffany-campaign-wisconsin-governor-primary-2026",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-19",
       "generated_at": "2026-07-19T10:54:59.243551+00:00",
