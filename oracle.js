@@ -1,6 +1,10 @@
 (() => {
-  const MANIFEST_URL = 'assets/oracle/oracle-manifest.json?v=20260717-1';
+  const MANIFEST_URL = 'assets/oracle/oracle-manifest.json?v=20260721-1';
   const TIME_ZONE = 'America/Chicago';
+  const DISABLED_ORACLE_IDS = new Set(['otter']);
+  const DAILY_REFLECTION_OVERRIDES = {
+    '2026-07-21': 'beaver'
+  };
 
   const elements = {
     reflectionCard: document.getElementById('reflection-card'),
@@ -80,7 +84,9 @@
     if (!manifest || !Array.isArray(manifest.oracle_cards) || !Array.isArray(manifest.reflection_cards)) {
       throw new Error('Oracle manifest is incomplete.');
     }
-    const validOracle = manifest.oracle_cards.filter((card) => card?.animal && card?.front && card?.back);
+    const validOracle = manifest.oracle_cards.filter((card) =>
+      card?.animal && card?.front && card?.back && !DISABLED_ORACLE_IDS.has(card.id)
+    );
     const validReflections = manifest.reflection_cards.filter((card) => card?.animal && card?.image);
     if (!validOracle.length || !validReflections.length) throw new Error('Oracle decks are empty.');
     return { oracleCards: validOracle, reflectionCards: validReflections };
@@ -217,7 +223,9 @@
         card.oracle_match && oracleCards.some((oracle) => oracle.id === card.oracle_match)
       );
       const reflectionPool = matchedReflections.length ? matchedReflections : reflectionCards;
-      const reflection = dailyChoice(reflectionPool, 'spirit-animal-reflection');
+      const overrideId = DAILY_REFLECTION_OVERRIDES[localDateKey()];
+      const reflection = reflectionPool.find((card) => card.id === overrideId)
+        || dailyChoice(reflectionPool, 'spirit-animal-reflection');
       setReflection(reflection);
       dailyOracle = chooseDailyOracle(reflection);
       setOracle(dailyOracle, { daily: true, animate: true });
