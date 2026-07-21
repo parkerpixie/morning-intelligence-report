@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-20.json",
-  "report_date": "2026-07-20",
-  "generated_at": "2026-07-20T11:58:57.512253+00:00",
-  "edition_count": 5,
+  "latest": "data/archive/2026-07-21.json",
+  "report_date": "2026-07-21",
+  "generated_at": "2026-07-21T10:08:58.021526+00:00",
+  "edition_count": 6,
   "editions": [
+    {
+      "report_date": "2026-07-21",
+      "generated_at": "2026-07-21T10:08:58.021526+00:00",
+      "path": "data/archive/2026-07-21.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+        "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+        "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg"
+      },
+      "story_count": 70,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 7,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-20",
       "generated_at": "2026-07-20T11:58:57.512253+00:00",
