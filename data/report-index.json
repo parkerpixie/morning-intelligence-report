@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-21.json",
-  "report_date": "2026-07-21",
-  "generated_at": "2026-07-21T10:33:29.543202+00:00",
-  "edition_count": 6,
+  "latest": "data/archive/2026-07-22.json",
+  "report_date": "2026-07-22",
+  "generated_at": "2026-07-22T10:08:22.847858+00:00",
+  "edition_count": 7,
   "editions": [
+    {
+      "report_date": "2026-07-22",
+      "generated_at": "2026-07-22T10:08:22.847858+00:00",
+      "path": "data/archive/2026-07-22.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Bayer won its Roundup case. Where does that leave thousands of pending lawsuits?",
+        "summary": "Attorneys say cases that claim the popular weedkiller causes cancer will have to change course to move forward in court after the U.S. Supreme Court sided with the agriculture company last month.",
+        "url": "https://www.wpr.org/news/bayer-won-roundup-case-where-does-that-leave-pending-lawsuits",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-21",
       "generated_at": "2026-07-21T10:33:29.543202+00:00",
