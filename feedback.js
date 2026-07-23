@@ -1,6 +1,6 @@
 (() => {
   const ENDPOINT = '/api/feedback';
-  const STYLE_URL = 'feedback.css?v=20260716-1';
+  const STYLE_URL = 'feedback.css?v=20260722-1';
   const STORAGE_KEY = 'morning-intelligence-report:feedback-state';
   const DEVICE_KEY = 'morning-intelligence-report:feedback-device';
   const PENDING_KEY = 'morning-intelligence-report:feedback-pending';
@@ -27,7 +27,6 @@
     wonderful: 'wonderful'
   };
 
-  let reorderTimer = null;
   let toastTimer = null;
 
   const addStylesheet = () => {
@@ -217,37 +216,6 @@
     }
   };
 
-  const scoreStory = (story, state) => {
-    let score = Number(state.section_weights[normalizeKey(story.section)] || 0);
-    score += Number(state.source_weights[normalizeKey(story.source)] || 0);
-    for (const keyword of extractKeywords(story)) score += Number(state.keyword_weights[keyword] || 0);
-    return score;
-  };
-
-  const reorderContainer = (container, selector) => {
-    if (!container || container.dataset.feedbackOrdered === 'true') return;
-    const items = [...container.querySelectorAll(`:scope > ${selector}`)];
-    if (items.length < 2) return;
-    const state = loadState();
-    const scored = items.map((element, index) => ({
-      element,
-      index,
-      score: scoreStory(storyFromElement(element.querySelector('.quick-item') || element), state)
-    }));
-    if (!scored.some((item) => item.score !== 0)) return;
-    scored.sort((a, b) => b.score - a.score || a.index - b.index);
-    scored.forEach(({ element }) => container.appendChild(element));
-    container.dataset.feedbackOrdered = 'true';
-  };
-
-  const scheduleOrdering = () => {
-    clearTimeout(reorderTimer);
-    reorderTimer = setTimeout(() => {
-      document.querySelectorAll('[data-feed]').forEach((container) => reorderContainer(container, '.story-card'));
-      reorderContainer(document.getElementById('quick-scan-list'), '.quick-feedback-shell');
-    }, 80);
-  };
-
   const setButtonState = (bar, storyId, state) => {
     const vote = state.votes[storyId] || {};
     bar.querySelectorAll('[data-feedback-action]').forEach((button) => {
@@ -304,8 +272,6 @@
 
     saveState(state);
     setButtonState(bar, storyId, state);
-    document.querySelectorAll('[data-feed], #quick-scan-list').forEach((container) => delete container.dataset.feedbackOrdered);
-    scheduleOrdering();
 
     let synced = true;
     for (const feedbackEvent of events) {
@@ -381,7 +347,6 @@
   const decorateAll = () => {
     document.querySelectorAll('.lead-story, .story-card').forEach(decorateStoryCard);
     document.querySelectorAll('a.quick-item').forEach(decorateQuickItem);
-    scheduleOrdering();
   };
 
   const start = () => {
