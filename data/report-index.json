@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-07-22.json",
   "report_date": "2026-07-22",
-  "generated_at": "2026-07-23T01:53:16.078954+00:00",
+  "generated_at": "2026-07-23T02:33:08.473732+00:00",
   "edition_count": 7,
   "editions": [
     {
       "report_date": "2026-07-22",
-      "generated_at": "2026-07-23T01:53:16.078954+00:00",
+      "generated_at": "2026-07-23T02:33:08.473732+00:00",
       "path": "data/archive/2026-07-22.json",
       "top_story": {
         "source": "NPR",
@@ -15,7 +15,7 @@
         "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
         "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 68,
+      "story_count": 71,
       "section_counts": {
         "local": 8,
         "must-know": 8,
@@ -24,7 +24,7 @@
         "wellbeing": 8,
         "entertainment": 8,
         "animals": 8,
-        "wonderful": 3
+        "wonderful": 6
       }
     },
     {
