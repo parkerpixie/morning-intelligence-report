@@ -1,6 +1,23 @@
 (() => {
   const NAV_SCROLL_KEY = 'morning-intelligence-report:section-nav-scroll';
   const nav = document.querySelector('.section-nav-inner');
+
+  const loadPersonalizedFeatures = () => {
+    if (!document.querySelector('link[href^="personalized-morning.css"]')) {
+      const style = document.createElement('link');
+      style.rel = 'stylesheet';
+      style.href = 'personalized-morning.css?v=20260723-1';
+      document.head.appendChild(style);
+    }
+    if (!document.querySelector('script[src^="personalized-morning.js"]')) {
+      const script = document.createElement('script');
+      script.src = 'personalized-morning.js?v=20260723-1';
+      script.defer = true;
+      document.head.appendChild(script);
+    }
+  };
+
+  loadPersonalizedFeatures();
   if (!nav) return;
 
   const capybaraLink = nav.querySelector('[data-nav="capybara"]');
