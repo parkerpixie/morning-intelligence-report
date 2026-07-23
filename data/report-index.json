@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-22.json",
-  "report_date": "2026-07-22",
-  "generated_at": "2026-07-23T02:33:08.473732+00:00",
-  "edition_count": 7,
+  "latest": "data/archive/2026-07-23.json",
+  "report_date": "2026-07-23",
+  "generated_at": "2026-07-23T10:06:36.527544+00:00",
+  "edition_count": 8,
   "editions": [
+    {
+      "report_date": "2026-07-23",
+      "generated_at": "2026-07-23T10:06:36.527544+00:00",
+      "path": "data/archive/2026-07-23.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Trump attends dignified transfer of four US service members killed in the Middle East",
+        "summary": "The ceremony for Tyler James Feehan, Angel Rampersad, Isabella Gonzales and Michael Emmanuel Swinton took place at an air base in Delaware.",
+        "url": "https://www.bbc.co.uk/news/videos/cly9nkd4p7eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2f/live/3e6b5e40-85fd-11f1-b3ca-7f13da683e7e.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-07-22",
       "generated_at": "2026-07-23T02:33:08.473732+00:00",
