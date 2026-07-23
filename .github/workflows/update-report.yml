@@ -14,6 +14,7 @@ on:
     paths:
       - "scripts/generate_report.py"
       - "scripts/generate_report_v2.py"
+      - "scripts/generate_report_v3.py"
       - "scripts/normalize_report.py"
       - "scripts/validate_and_archive.py"
       - ".github/workflows/update-report.yml"
@@ -42,8 +43,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate personalized report from RSS feeds
-        run: python scripts/generate_report_v2.py
+      - name: Generate personalized report from expanded RSS feeds
+        run: python scripts/generate_report_v3.py
 
       - name: Normalize report for the website
         run: python scripts/normalize_report.py
