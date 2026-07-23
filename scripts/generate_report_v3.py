@@ -44,6 +44,36 @@ SCIENCE_WELLBEING_FEEDS = [
     ("NIEHS", 'site:niehs.nih.gov/news environmental health research when:14d'),
 ]
 
+# AI and technology: combine official labs and platforms with rigorous tech reporting.
+AI_TECH_FEEDS = [
+    ("OpenAI News", 'site:openai.com/news OpenAI when:14d'),
+    ("Anthropic News", 'site:anthropic.com/news Anthropic Claude when:14d'),
+    ("Google DeepMind", 'site:deepmind.google/discover/blog AI research when:14d'),
+    ("Google AI", 'site:blog.google/technology/ai artificial intelligence when:14d'),
+    ("Microsoft AI", 'site:blogs.microsoft.com AI Copilot when:14d'),
+    ("NVIDIA AI", 'site:blogs.nvidia.com AI enterprise when:14d'),
+    ("TechCrunch AI", 'site:techcrunch.com/category/artificial-intelligence AI when:7d'),
+    ("VentureBeat AI", 'site:venturebeat.com/ai artificial intelligence enterprise when:7d'),
+    ("Wired AI", 'site:wired.com/tag/artificial-intelligence AI when:7d'),
+    ("AI Safety", '(AI safety OR AI regulation OR AI governance) when:7d'),
+]
+
+# Marketing and marketing operations: prioritize platforms, lifecycle, data, and automation.
+MARKETING_FEEDS = [
+    ("Salesforce Marketing", 'site:salesforce.com/news/stories marketing CRM AI when:14d'),
+    ("HubSpot Product", 'site:hubspot.com/company-news product marketing automation when:14d'),
+    ("Klaviyo", 'site:klaviyo.com/blog product marketing automation when:14d'),
+    ("Braze", 'site:braze.com/resources/articles customer engagement lifecycle when:14d'),
+    ("Iterable", 'site:iterable.com/blog lifecycle marketing AI when:14d'),
+    ("MarketingOps", 'site:marketingops.com marketing operations when:14d'),
+    ("Chief Martec", 'site:chiefmartec.com martech marketing technology when:14d'),
+    ("Search Engine Land", 'site:searchengineland.com marketing AI analytics when:7d'),
+    ("Adweek", 'site:adweek.com marketing technology brands when:7d'),
+    ("Customer Data", '(customer data platform OR CDP OR first-party data OR identity resolution) marketing when:14d'),
+    ("Lifecycle Marketing", '(lifecycle marketing OR journey orchestration OR email automation) when:14d'),
+    ("B2B Marketing Ops", '(B2B marketing operations OR lead scoring OR revenue operations) when:14d'),
+]
+
 for source, query in reversed(LOCAL_FEEDS):
     add_feed("local", source, query)
 
@@ -52,6 +82,12 @@ for source, query in reversed(ANIMAL_NATURE_FEEDS):
 
 for source, query in reversed(SCIENCE_WELLBEING_FEEDS):
     add_feed("wellbeing", source, query)
+
+for source, query in reversed(AI_TECH_FEEDS):
+    add_feed("ai-tech", source, query)
+
+for source, query in reversed(MARKETING_FEEDS):
+    add_feed("work-marketing", source, query)
 
 
 if __name__ == "__main__":
