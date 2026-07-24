@@ -107,6 +107,35 @@
     element.append(icon, copy);
   };
 
+  const renderPollen = (pollen) => {
+    const panel = byId('pollen-panel');
+    if (!panel) return;
+
+    const types = ['tree', 'grass', 'weed'];
+    if (!pollen?.available) {
+      panel.classList.add('is-unavailable');
+      byId('pollen-summary').textContent = 'Pollen reading unavailable';
+      types.forEach((type) => {
+        const meter = panel.querySelector(`[data-pollen="${type}"]`);
+        meter?.removeAttribute('data-level');
+        byId(`pollen-${type}-level`).textContent = 'Unavailable';
+        byId(`pollen-${type}-bar`).style.width = '0%';
+      });
+      return;
+    }
+
+    panel.classList.remove('is-unavailable');
+    byId('pollen-summary').textContent = pollen.summary || 'Current forecast';
+    types.forEach((type) => {
+      const reading = pollen[type];
+      const meter = panel.querySelector(`[data-pollen="${type}"]`);
+      const level = reading?.level || 'low';
+      if (meter) meter.dataset.level = level;
+      byId(`pollen-${type}-level`).textContent = reading?.label || 'Low';
+      byId(`pollen-${type}-bar`).style.width = `${Math.max(4, Math.min(100, reading?.percent || 0))}%`;
+    });
+  };
+
   const render = (weather, options = {}) => {
     root.dataset.theme = weather.theme || 'cloudy';
     root.classList.remove('is-unavailable');
@@ -143,6 +172,7 @@
 
     renderHours(weather.next_hours);
     renderAlert(weather.alert);
+    renderPollen(weather.pollen);
     setLoading(false);
   };
 
@@ -154,6 +184,7 @@
     byId('weather-feels').textContent = 'No current reading available';
     byId('weather-advice').textContent = 'Weather data is temporarily unavailable. The full National Weather Service forecast is still one tap away.';
     byId('weather-updated').textContent = 'Forecast unavailable';
+    renderPollen(null);
     setLoading(false);
   };
 
