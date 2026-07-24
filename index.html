@@ -10,11 +10,11 @@
   <link rel="stylesheet" href="header-refresh.css?v=20260716-2">
   <link rel="stylesheet" href="header-half.css?v=20260716-3">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
-  <link rel="stylesheet" href="weather.css?v=20260716-1">
+  <link rel="stylesheet" href="weather.css?v=20260724-1">
   <script src="script.js?v=20260716-2" defer></script>
   <script src="nav-state.js?v=20260722-1" defer></script>
   <script src="feedback.js?v=20260716-1" defer></script>
-  <script src="weather.js?v=20260716-1" defer></script>
+  <script src="weather.js?v=20260724-1" defer></script>
 </head>
 <body class="home-page" data-page="home">
   <a class="skip-link" href="#main-content">Skip to the report</a>
@@ -106,6 +106,26 @@
             <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
             <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
             <div class="weather-hour"><span>Later</span><strong>--°</strong><span>checking</span></div>
+          </div>
+          <div class="pollen-panel" id="pollen-panel" aria-label="Today’s pollen levels">
+            <div class="pollen-heading">
+              <span>Allergy outlook</span>
+              <small id="pollen-summary">Checking pollen…</small>
+            </div>
+            <div class="pollen-meters">
+              <div class="pollen-meter" data-pollen="tree">
+                <div class="pollen-label"><span>Tree</span><strong id="pollen-tree-level">Checking</strong></div>
+                <div class="pollen-track" aria-hidden="true"><span id="pollen-tree-bar"></span></div>
+              </div>
+              <div class="pollen-meter" data-pollen="grass">
+                <div class="pollen-label"><span>Grass</span><strong id="pollen-grass-level">Checking</strong></div>
+                <div class="pollen-track" aria-hidden="true"><span id="pollen-grass-bar"></span></div>
+              </div>
+              <div class="pollen-meter" data-pollen="weed">
+                <div class="pollen-label"><span>Weed / ragweed</span><strong id="pollen-weed-level">Checking</strong></div>
+                <div class="pollen-track" aria-hidden="true"><span id="pollen-weed-bar"></span></div>
+              </div>
+            </div>
           </div>
         </div>
 
