@@ -425,3 +425,84 @@
     animation: none !important;
   }
 }
+
+/* Pollen levels are part of the weather briefing, not a separate card. */
+.pollen-panel {
+  margin-top: 0.65rem;
+  padding: 0.7rem 0.8rem 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 14px;
+  background: rgba(7, 35, 42, 0.18);
+  backdrop-filter: blur(8px);
+}
+
+.pollen-heading,
+.pollen-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.pollen-heading > span {
+  color: #fff;
+  font-size: 0.69rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.pollen-heading small {
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.63rem;
+  font-weight: 750;
+}
+
+.pollen-meters {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin-top: 0.5rem;
+}
+
+.pollen-label span,
+.pollen-label strong {
+  font-size: 0.66rem;
+  line-height: 1.25;
+}
+
+.pollen-label span {
+  color: rgba(255, 255, 255, 0.76);
+  font-weight: 800;
+}
+
+.pollen-label strong {
+  color: #fff;
+  font-weight: 900;
+}
+
+.pollen-track {
+  height: 8px;
+  margin-top: 0.32rem;
+  overflow: hidden;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.pollen-track span {
+  display: block;
+  width: 0;
+  height: 100%;
+  border-radius: inherit;
+  background: #76d29a;
+  transition: width 450ms ease, background-color 250ms ease;
+}
+
+.pollen-meter[data-level='low'] .pollen-track span { background: #76d29a; }
+.pollen-meter[data-level='moderate'] .pollen-track span { background: #ffd166; }
+.pollen-meter[data-level='high'] .pollen-track span { background: #ff776d; }
+.pollen-panel.is-unavailable .pollen-track span { background: rgba(255, 255, 255, 0.28); }
+
+@media (max-width: 520px) {
+  .pollen-meters { grid-template-columns: 1fr; gap: 0.5rem; }
+}
