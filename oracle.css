@@ -491,3 +491,15 @@
     animation: none;
   }
 }
+
+.oracle-button--share {
+  color: #fff;
+  border-color: rgba(106, 224, 232, 0.5);
+  background: linear-gradient(135deg, rgba(47, 159, 167, 0.75), rgba(90, 68, 152, 0.72));
+}
+
+.oracle-button--share:hover,
+.oracle-button--share:focus-visible {
+  border-color: rgba(151, 238, 244, 0.9);
+  background: linear-gradient(135deg, rgba(47, 159, 167, 0.92), rgba(90, 68, 152, 0.9));
+}
