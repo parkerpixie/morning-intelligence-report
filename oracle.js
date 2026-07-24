@@ -12,13 +12,15 @@
     reflectionDate: document.getElementById('reflection-date'),
     reflectionAnimal: document.getElementById('reflection-animal'),
     reflectionMessage: document.getElementById('reflection-message'),
+    reflectionSave: document.getElementById('reflection-save'),
+    reflectionShare: document.getElementById('reflection-share'),
+    reflectionShareStatus: document.getElementById('reflection-share-status'),
     oracleCard: document.getElementById('oracle-card'),
     oracleFront: document.getElementById('oracle-front-image'),
     oracleBack: document.getElementById('oracle-back-image'),
     oracleAnimal: document.getElementById('oracle-animal'),
     oracleFlip: document.getElementById('oracle-flip'),
     oracleRedraw: document.getElementById('oracle-redraw'),
-    oracleShare: document.getElementById('oracle-share'),
     oracleReturn: document.getElementById('oracle-return'),
     oracleEnlarge: document.getElementById('oracle-enlarge'),
     oracleStatus: document.getElementById('oracle-status'),
@@ -106,6 +108,8 @@
     elements.reflectionMessage.textContent = reflection.message || 'A reflection selected for today.';
     elements.reflectionCard.classList.remove('is-loading');
     elements.reflectionCard.setAttribute('aria-busy', 'false');
+    elements.reflectionSave.disabled = false;
+    elements.reflectionShare.disabled = false;
   };
 
   const setFlipState = (nextState, announce = true) => {
@@ -141,7 +145,6 @@
     elements.oracleCard.disabled = false;
     elements.oracleFlip.disabled = false;
     elements.oracleRedraw.disabled = oracleCards.length < 2;
-    elements.oracleShare.disabled = false;
     elements.oracleCard.classList.remove('is-loading');
     elements.oracleReturn.hidden = daily || card.id === dailyOracle?.id;
     preload(card.back);
@@ -198,42 +201,59 @@
     window.setTimeout(() => URL.revokeObjectURL(url), 1500);
   };
 
-  const shareCurrentCard = async () => {
-    if (!currentOracle) return;
-    const imageUrl = isFlipped ? currentOracle.back : currentOracle.front;
-    const side = isFlipped ? 'reading' : 'card';
-    const filename = `${currentOracle.id || currentOracle.animal.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-oracle-${side}.png`;
-    elements.oracleShare.disabled = true;
-    setStatus('Preparing your card image…');
+  const reflectionFilename = () => {
+    const animal = elements.reflectionAnimal.textContent || 'spirit-animal';
+    const slug = animal.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    return `${localDateKey()}-${slug}-spirit-animal.png`;
+  };
 
+  const fetchReflectionBlob = async () => {
+    const response = await fetch(elements.reflectionImage.src, { cache: 'force-cache' });
+    if (!response.ok) throw new Error(`Reflection image request failed with ${response.status}.`);
+    return response.blob();
+  };
+
+  const saveReflectionImage = async () => {
+    elements.reflectionSave.disabled = true;
+    elements.reflectionShareStatus.textContent = 'Preparing your image…';
     try {
-      const response = await fetch(imageUrl, { cache: 'force-cache' });
-      if (!response.ok) throw new Error(`Card image request failed with ${response.status}.`);
-      const blob = await response.blob();
-      const file = new File([blob], filename, { type: blob.type || 'image/png' });
-      const shareData = {
-        files: [file],
-        title: `${currentOracle.animal} — today’s oracle card`,
-        text: 'My oracle card for today, with a few thoughts of my own.'
-      };
+      downloadImage(await fetchReflectionBlob(), reflectionFilename());
+      elements.reflectionShareStatus.textContent = 'Image saved.';
+    } catch (error) {
+      console.error(error);
+      elements.reflectionShareStatus.textContent = 'The image could not be saved. Please try again.';
+    } finally {
+      elements.reflectionSave.disabled = false;
+    }
+  };
 
+  const shareReflectionWithThoughts = async () => {
+    elements.reflectionShare.disabled = true;
+    elements.reflectionShareStatus.textContent = 'Preparing your image…';
+    try {
+      const blob = await fetchReflectionBlob();
+      const file = new File([blob], reflectionFilename(), { type: blob.type || 'image/png' });
       if (navigator.share && navigator.canShare?.({ files: [file] })) {
-        await navigator.share(shareData);
-        setStatus('Your card is ready to share with your thoughts.');
+        await navigator.share({
+          files: [file],
+          title: `${elements.reflectionAnimal.textContent} — Spirit Animal of the Day`,
+          text: 'My Spirit Animal of the Day, with a few thoughts of my own.'
+        });
+        elements.reflectionShareStatus.textContent = 'Your image is ready to share with your thoughts.';
       } else {
-        downloadImage(blob, filename);
-        setStatus('Card downloaded. Facebook is opening—attach the downloaded image and add your thoughts.');
-        window.setTimeout(() => window.open('https://www.facebook.com/', '_blank', 'noopener,noreferrer'), 350);
+        downloadImage(blob, reflectionFilename());
+        elements.reflectionShareStatus.textContent = 'Image saved. Facebook is opening—attach it and add your thoughts.';
+        window.open('https://www.facebook.com/', '_blank', 'noopener,noreferrer');
       }
     } catch (error) {
       if (error?.name === 'AbortError') {
-        setStatus('Sharing canceled. Your card is still right here.');
+        elements.reflectionShareStatus.textContent = 'Sharing canceled. Your image is still right here.';
       } else {
         console.error(error);
-        setStatus('The card image could not be prepared. Try opening it larger, then save the image.');
+        elements.reflectionShareStatus.textContent = 'The image could not be prepared. Please try again.';
       }
     } finally {
-      elements.oracleShare.disabled = false;
+      elements.reflectionShare.disabled = false;
     }
   };
 
@@ -241,7 +261,8 @@
     elements.oracleCard.addEventListener('click', () => setFlipState(!isFlipped));
     elements.oracleFlip.addEventListener('click', () => setFlipState(!isFlipped));
     elements.oracleRedraw.addEventListener('click', drawAnother);
-    elements.oracleShare.addEventListener('click', shareCurrentCard);
+    elements.reflectionSave.addEventListener('click', saveReflectionImage);
+    elements.reflectionShare.addEventListener('click', shareReflectionWithThoughts);
     elements.oracleReturn.addEventListener('click', () => setOracle(dailyOracle, { daily: true, animate: true }));
     elements.oracleEnlarge.addEventListener('click', openLargeReading);
     elements.dialogClose.addEventListener('click', () => elements.dialog.close());
@@ -261,7 +282,8 @@
     elements.oracleCard.disabled = true;
     elements.oracleFlip.disabled = true;
     elements.oracleRedraw.disabled = true;
-    elements.oracleShare.disabled = true;
+    elements.reflectionSave.disabled = true;
+    elements.reflectionShare.disabled = true;
     setStatus('The oracle deck could not be loaded. Refresh the page to try again.');
   };
 
