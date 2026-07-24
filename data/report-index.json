@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-23.json",
-  "report_date": "2026-07-23",
-  "generated_at": "2026-07-23T10:34:27.635824+00:00",
-  "edition_count": 8,
+  "latest": "data/archive/2026-07-24.json",
+  "report_date": "2026-07-24",
+  "generated_at": "2026-07-24T10:00:35.243347+00:00",
+  "edition_count": 9,
   "editions": [
+    {
+      "report_date": "2026-07-24",
+      "generated_at": "2026-07-24T10:00:35.243347+00:00",
+      "path": "data/archive/2026-07-24.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Nicaragua's legislature debates barring opposition from elections",
+        "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
+        "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1879/live/f0465e80-86a7-11f1-9191-f734856583ed.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-07-23",
       "generated_at": "2026-07-23T10:34:27.635824+00:00",
