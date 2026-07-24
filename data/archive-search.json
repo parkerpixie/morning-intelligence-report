@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-07-24T10:02:10.114039+00:00",
+  "generated_at": "2026-07-24T10:29:19.819549+00:00",
   "edition_count": 9,
-  "story_count": 567,
+  "story_count": 568,
   "stories": [
     {
       "id": "df8d3f580774c4b0",
@@ -169,6 +169,25 @@
       "published": "Fri, 24 Jul 2026 05:01:00 -0400",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-07-24"
+      ],
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "appearances": 1
+    },
+    {
+      "id": "0a71a45cd7ed098e",
+      "source": "BBC US & Canada",
+      "headline": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e698/live/f875fc40-873e-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "Fri, 24 Jul 2026 10:21:31 GMT",
+      "sections": [
+        "big-story"
       ],
       "report_dates": [
         "2026-07-24"
@@ -353,6 +372,25 @@
       "appearances": 2
     },
     {
+      "id": "d2957cad27e022be",
+      "source": "BBC World",
+      "headline": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg",
+      "published": "Fri, 24 Jul 2026 10:24:46 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-07-24"
+      ],
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "appearances": 1
+    },
+    {
       "id": "7abc12cde4892a17",
       "source": "BBC World",
       "headline": "South Korea woman acquitted of murdering newborn after hospital delivery",
@@ -505,25 +543,6 @@
       "appearances": 1
     },
     {
-      "id": "bbeea4d7d754f5de",
-      "source": "BBC World",
-      "headline": "Oil prices hit $100 for the first time since May",
-      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
-      "published": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-07-24"
-      ],
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "appearances": 1
-    },
-    {
       "id": "82853a1da142023e",
       "source": "BBC World",
       "headline": "Nicaragua's legislature debates barring opposition from elections",
@@ -533,7 +552,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1879/live/f0465e80-86a7-11f1-9191-f734856583ed.jpg",
       "published": "Thu, 23 Jul 2026 15:54:41 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-07-24"
@@ -618,27 +637,6 @@
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-24",
       "appearances": 1
-    },
-    {
-      "id": "4adf90c2164bec64",
-      "source": "Ars Technica",
-      "headline": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-      "canonical_url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
-      "published": "Wed, 22 Jul 2026 20:36:19 +0000",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-07-24",
-        "2026-07-22"
-      ],
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-24",
-      "appearances": 2
     },
     {
       "id": "820d2e3addddbe78",
@@ -755,25 +753,6 @@
       "appearances": 1
     },
     {
-      "id": "f696b5adb09b4c67",
-      "source": "Taylor Alert",
-      "headline": "Kylie Kelce details Taylor Swift and Travis’ ‘absolutely magical’ wedding - Page Six",
-      "summary": "Kylie Kelce details Taylor Swift and Travis’ ‘absolutely magical’ wedding Page Six",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjF1WXk2SUVvdW5XOGozYzlhbXd5eVRUQm0yc0dPZWRyRlZKdWtPeGhqS1JCLTV4bklSSGJpdmN5OGlrbHlfblJ5ZnU4LVVURHMzUDVOQUJPWGd2dVJROGdvbnpFYVhYaTFoTmRINzFtcVFWbjU3Q2xuQVdfclRSTmxtRHNZQ0tmdzFWWTQ3MzkzTXROdzNYa2VTdGN3Ump0aFBDLUZaT21zTm14TUxEUWFBVloyRkk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjF1WXk2SUVvdW5XOGozYzlhbXd5eVRUQm0yc0dPZWRyRlZKdWtPeGhqS1JCLTV4bklSSGJpdmN5OGlrbHlfblJ5ZnU4LVVURHMzUDVOQUJPWGd2dVJROGdvbnpFYVhYaTFoTmRINzFtcVFWbjU3Q2xuQVdfclRSTmxtRHNZQ0tmdzFWWTQ3MzkzTXROdzNYa2VTdGN3Ump0aFBDLUZaT21zTm14TUxEUWFBVloyRkk",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 16:49:00 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-07-24"
-      ],
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "appearances": 1
-    },
-    {
       "id": "5b272662d736dc80",
       "source": "Wonderful News",
       "headline": "Kids on Camborne spreads kindness with Mandela Day animal rescue drive - The Citizen",
@@ -870,6 +849,25 @@
       "appearances": 1
     },
     {
+      "id": "d315a542dfbb4e22",
+      "source": "Taylor Alert",
+      "headline": "Inside Taylor Swift and Travis Kelce's '30 minute vows' and ‘massive castle' reception - NBC New York",
+      "summary": "Inside Taylor Swift and Travis Kelce's '30 minute vows' and ‘massive castle' reception NBC New York",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYlNpX3FiT2I2YWtLdEdSNEhpZFpZR0k3ai1wWFJqRl9vSGdyTmUwSk0zX0JaVFZGdDR2UTZIQTY4cmg0Vl9vdWFQU21EclJ1N2N0R05hNnlwdlVuYVFyQTJoakRMbklOSmxnS2FYejJjbEVBdi1JWllvWjl6bVE2MWo5N2thRWVtT3lheVNOODJ3RGNBdFV2OW0zelhIcVN3TnlVLVBlZTFGb2xBaHZkTXhOMWkxVDgtZEFSWmlQamF3THc3cm5TUE5COHRhTUNyYk5VQmdhRVdYajBDbWfSAeYBQVVfeXFMT1RweS1KSjRHSi1KNVd1TVpmMUQ5Nks2eE5YRE9XVE1qcGJHVWZFZTFFZFhrTjV1Zjk4ZUV5ZkNWVzl0OTFqWnFFUFU0UDd3dG9UNlJ1Vjhxc2h0QmtFdDVucXAtVmFIZDM2eDh2eUZnYVJlM3F0bkZTVFFuRmJYZ2Jnd3hTbHpsUUZSQXlWcXY1NDhPT1pkOTdPdUR2SXlOdU92QWh6akFsZlBvd29IaDFRb2VDZHU3WklSb0VXVWZCV1ozbWRTZUFOVENlWnh2b3dic3J1UkZ4d2hGdXdPNWFYNmVWd1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYlNpX3FiT2I2YWtLdEdSNEhpZFpZR0k3ai1wWFJqRl9vSGdyTmUwSk0zX0JaVFZGdDR2UTZIQTY4cmg0Vl9vdWFQU21EclJ1N2N0R05hNnlwdlVuYVFyQTJoakRMbklOSmxnS2FYejJjbEVBdi1JWllvWjl6bVE2MWo5N2thRWVtT3lheVNOODJ3RGNBdFV2OW0zelhIcVN3TnlVLVBlZTFGb2xBaHZkTXhOMWkxVDgtZEFSWmlQamF3THc3cm5TUE5COHRhTUNyYk5VQmdhRVdYajBDbWfSAeYBQVVfeXFMT1RweS1KSjRHSi1KNVd1TVpmMUQ5Nks2eE5YRE9XVE1qcGJHVWZFZTFFZFhrTjV1Zjk4ZUV5ZkNWVzl0OTFqWnFFUFU0UDd3dG9UNlJ1Vjhxc2h0QmtFdDVucXAtVmFIZDM2eDh2eUZnYVJlM3F0bkZTVFFuRmJYZ2Jnd3hTbHpsUUZSQXlWcXY1NDhPT1pkOTdPdUR2SXlOdU92QWh6akFsZlBvd29IaDFRb2VDZHU3WklSb0VXVWZCV1ozbWRTZUFOVENlWnh2b3dic3J1UkZ4d2hGdXdPNWFYNmVWd1E",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 16:28:00 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-07-24"
+      ],
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "appearances": 1
+    },
+    {
       "id": "ba482027b0f998a7",
       "source": "NPR",
       "headline": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
@@ -926,6 +924,25 @@
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-24",
       "appearances": 2
+    },
+    {
+      "id": "3962045fe438fef2",
+      "source": "Animals",
+      "headline": "How to Support Oregon Wildlife During Fire Season - MyCentralOregon.com",
+      "summary": "How to Support Oregon Wildlife During Fire Season MyCentralOregon.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFltWEp0eDZhWjVudVQzREliZ0Z1Z0dQckJ3OU1QNDU5NkZKNnJsQS1nXzcta1FtbFZFR3BWanBkY3JGX28wS0I2U0pwNTFQTExGVDFZUjVOajR1Z2otcWZiQTFxYVVnYThIZzAzblo1dmd5a3R6TXNCZUVDTWpJSjdkRDVfNGNvb21MbGNzb0tpZ2ZkVEFxZA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFltWEp0eDZhWjVudVQzREliZ0Z1Z0dQckJ3OU1QNDU5NkZKNnJsQS1nXzcta1FtbFZFR3BWanBkY3JGX28wS0I2U0pwNTFQTExGVDFZUjVOajR1Z2otcWZiQTFxYVVnYThIZzAzblo1dmd5a3R6TXNCZUVDTWpJSjdkRDVfNGNvb21MbGNzb0tpZ2ZkVEFxZA",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 20:03:24 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-07-24"
+      ],
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "appearances": 1
     },
     {
       "id": "7b99e0fdf5e35af5",
@@ -1036,25 +1053,6 @@
       "published": "Fri, 24 Jul 2026 02:30:59 +0000",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-07-24"
-      ],
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "appearances": 1
-    },
-    {
-      "id": "d2957cad27e022be",
-      "source": "BBC World",
-      "headline": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg",
-      "published": "Fri, 24 Jul 2026 09:22:11 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-07-24"
@@ -3280,6 +3278,25 @@
       "published": "Wed, 22 Jul 2026 00:03:43 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-07-22"
+      ],
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "appearances": 1
+    },
+    {
+      "id": "4adf90c2164bec64",
+      "source": "Ars Technica",
+      "headline": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "canonical_url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
+      "published": "Wed, 22 Jul 2026 20:36:19 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-07-22"
