@@ -468,14 +468,72 @@
     grid-template-columns: 1fr;
   }
 
-  .oracle-button {
+  .oracle-button,
+  .reflection-action {
     width: 100%;
+  }
+
+  .reflection-actions {
+    display: grid;
+    grid-template-columns: 1fr;
   }
 
   .oracle-card {
     width: min(100%, 360px);
     border-radius: 19px;
   }
+}
+
+.reflection-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.15rem;
+}
+
+.reflection-action {
+  min-height: 42px;
+  padding: 0.65rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 850;
+  cursor: pointer;
+  transition: transform 160ms ease, background 160ms ease, border-color 160ms ease;
+}
+
+.reflection-action--save {
+  color: #201a2f;
+  border-color: transparent;
+  background: linear-gradient(135deg, var(--oracle-gold-soft), var(--oracle-gold));
+}
+
+.reflection-action--share {
+  color: #fff;
+  border-color: rgba(106, 224, 232, 0.55);
+  background: linear-gradient(135deg, #2f9fa7, #5a4498);
+}
+
+.reflection-action:hover,
+.reflection-action:focus-visible {
+  transform: translateY(-2px);
+  outline: 2px solid rgba(255, 255, 255, 0.75);
+  outline-offset: 2px;
+}
+
+.reflection-action:disabled {
+  cursor: wait;
+  opacity: 0.55;
+  transform: none;
+}
+
+.reflection-share-status {
+  min-height: 1.25em;
+  margin-top: 0.65rem !important;
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 0.74rem;
+  font-weight: 700;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -492,14 +550,3 @@
   }
 }
 
-.oracle-button--share {
-  color: #fff;
-  border-color: rgba(106, 224, 232, 0.5);
-  background: linear-gradient(135deg, rgba(47, 159, 167, 0.75), rgba(90, 68, 152, 0.72));
-}
-
-.oracle-button--share:hover,
-.oracle-button--share:focus-visible {
-  border-color: rgba(151, 238, 244, 0.9);
-  background: linear-gradient(135deg, rgba(47, 159, 167, 0.92), rgba(90, 68, 152, 0.9));
-}
