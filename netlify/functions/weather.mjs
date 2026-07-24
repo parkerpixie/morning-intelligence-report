@@ -3,6 +3,7 @@ const NWS_BASE = 'https://api.weather.gov';
 const USER_AGENT = 'MorningIntelligenceReport/1.0 (https://mymorningintelligencereport.netlify.app)';
 const TIME_ZONE = 'America/Chicago';
 const FORECAST_PAGE = `https://forecast.weather.gov/MapClick.php?lat=${LOCATION.latitude}&lon=${LOCATION.longitude}`;
+const POLLEN_API = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${LOCATION.latitude}&longitude=${LOCATION.longitude}&hourly=alder_pollen,birch_pollen,grass_pollen,mugwort_pollen,ragweed_pollen&timezone=${encodeURIComponent(TIME_ZONE)}&forecast_days=2`;
 const nwsHeaders = { Accept: 'application/geo+json', 'User-Agent': USER_AGENT };
 
 const json = (payload, status = 200, cache = true) => new Response(JSON.stringify(payload), {
@@ -32,6 +33,59 @@ const settledValue = (result, fallback = null) => result.status === 'fulfilled' 
 const celsiusToFahrenheit = (value) => Number.isFinite(value) ? Math.round((value * 9) / 5 + 32) : null;
 const metersPerSecondToMph = (value) => Number.isFinite(value) ? Math.round(value * 2.23694) : null;
 const roundOrNull = (value) => Number.isFinite(value) ? Math.round(value) : null;
+const finiteMax = (...values) => {
+  const finite = values.filter(Number.isFinite);
+  return finite.length ? Math.max(...finite) : 0;
+};
+
+const pollenLevel = (value, moderate, high) => {
+  if (!Number.isFinite(value)) return { level: 'low', label: 'Low', percent: 4, value: 0 };
+  if (value >= high) return { level: 'high', label: 'High', percent: 100, value: Math.round(value) };
+  if (value >= moderate) {
+    const percent = 38 + ((value - moderate) / Math.max(1, high - moderate)) * 48;
+    return { level: 'moderate', label: 'Moderate', percent: Math.round(percent), value: Math.round(value) };
+  }
+  return { level: 'low', label: 'Low', percent: Math.max(4, Math.round((value / Math.max(1, moderate)) * 30)), value: Math.round(value) };
+};
+
+const buildPollen = async () => {
+  try {
+    const data = await fetchJson(POLLEN_API);
+    const times = data?.hourly?.time || [];
+    if (!times.length) throw new Error('Pollen forecast did not include hourly readings.');
+    const now = Date.now();
+    let index = 0;
+    let smallestDistance = Infinity;
+    times.forEach((time, candidate) => {
+      const distance = Math.abs(new Date(time).getTime() - now);
+      if (distance < smallestDistance) {
+        smallestDistance = distance;
+        index = candidate;
+      }
+    });
+
+    const hourly = data.hourly;
+    const treeValue = finiteMax(hourly.alder_pollen?.[index], hourly.birch_pollen?.[index]);
+    const grassValue = finiteMax(hourly.grass_pollen?.[index]);
+    const weedValue = finiteMax(hourly.mugwort_pollen?.[index], hourly.ragweed_pollen?.[index]);
+    const tree = pollenLevel(treeValue, 15, 90);
+    const grass = pollenLevel(grassValue, 5, 20);
+    const weed = pollenLevel(weedValue, 10, 50);
+    const highest = [tree, grass, weed].sort((a, b) => b.percent - a.percent)[0];
+    return {
+      available: true,
+      source: 'Open-Meteo Air Quality',
+      observed_at: times[index],
+      summary: highest.level === 'high' ? 'High pollen today' : highest.level === 'moderate' ? 'Some pollen in the air' : 'Pollen is running low',
+      tree,
+      grass,
+      weed
+    };
+  } catch (error) {
+    console.warn('Pollen forecast unavailable.', error);
+    return { available: false };
+  }
+};
 
 const compassDirection = (degrees) => {
   if (!Number.isFinite(degrees)) return null;
@@ -114,17 +168,19 @@ const buildWeather = async () => {
   const point = await fetchJson(`${NWS_BASE}/points/${LOCATION.latitude},${LOCATION.longitude}`);
   const properties = point?.properties || {};
 
-  const [forecastResult, hourlyResult, alertResult, observationResult] = await Promise.allSettled([
+  const [forecastResult, hourlyResult, alertResult, observationResult, pollenResult] = await Promise.allSettled([
     fetchJson(properties.forecast),
     fetchJson(properties.forecastHourly),
     fetchJson(`${NWS_BASE}/alerts/active?point=${LOCATION.latitude},${LOCATION.longitude}`),
-    getLatestObservation(properties.observationStations)
+    getLatestObservation(properties.observationStations),
+    buildPollen()
   ]);
 
   const forecast = settledValue(forecastResult, {});
   const hourly = settledValue(hourlyResult, {});
   const alerts = settledValue(alertResult, { features: [] });
   const observation = settledValue(observationResult, {});
+  const pollen = settledValue(pollenResult, { available: false });
   const hourlyPeriods = hourly?.properties?.periods || [];
   const currentHour = hourlyPeriods[0] || null;
   const observationProperties = observation?.properties || {};
@@ -179,6 +235,7 @@ const buildWeather = async () => {
       detailed_forecast: forecast?.properties?.periods?.[0]?.detailedForecast || null
     },
     next_hours: nextHours,
+    pollen,
     alert,
     advice: practicalAdvice({
       alert, currentTemp, feelsLike, high, precipitation,
