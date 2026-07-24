@@ -465,6 +465,16 @@
   margin-top: 0.5rem;
 }
 
+.pollen-label {
+  min-height: 2.5em;
+  align-items: flex-start;
+}
+
+.pollen-label strong {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
 .pollen-label span,
 .pollen-label strong {
   font-size: 0.66rem;
