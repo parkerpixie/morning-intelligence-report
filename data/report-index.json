@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-24.json",
-  "report_date": "2026-07-24",
-  "generated_at": "2026-07-24T10:27:45.310584+00:00",
-  "edition_count": 9,
+  "latest": "data/archive/2026-07-25.json",
+  "report_date": "2026-07-25",
+  "generated_at": "2026-07-25T09:22:07.848315+00:00",
+  "edition_count": 10,
   "editions": [
+    {
+      "report_date": "2026-07-25",
+      "generated_at": "2026-07-25T09:22:07.848315+00:00",
+      "path": "data/archive/2026-07-25.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-07-24",
       "generated_at": "2026-07-24T10:27:45.310584+00:00",
