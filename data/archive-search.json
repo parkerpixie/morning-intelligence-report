@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T09:48:28.425073+00:00",
+  "generated_at": "2026-07-26T10:13:14.778712+00:00",
   "edition_count": 11,
   "story_count": 682,
   "stories": [
@@ -84,6 +84,44 @@
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
       "appearances": 2
+    },
+    {
+      "id": "c0bc0b6575414e72",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin needs a good neighbor compact with Big Tech | Opinion - Milwaukee Journal Sentinel",
+      "summary": "Wisconsin needs a good neighbor compact with Big Tech | Opinion Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQmZTME1wZF9pSXJtMzl1cW1hVGpWQ2Nrb2padXZvaEx0emo1TjJtM1cwMWd0b2VjY0RZUWZHejlMWUpOakoxWUJXYU1CTXVuVnY0aFQyQ3NTZXprWVRkUzVxS1BNWXFUSlQwR2c0ajgwVVlGSGdlS0hXQ2QxRlFkcFN3MDNpNXU5RC03U3JiVkMzVmY3Z0VPV2NZdS1VZ0ZGYUN4eW03aDZiY2NhSVBDdDBrMko0Y1ZwMWVnUDdJNUJhSFhVNzB0M2Uxc09DZHV2UVpwWm5YTW1GWkFlOVdxZjNobjlSVWV3WXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQmZTME1wZF9pSXJtMzl1cW1hVGpWQ2Nrb2padXZvaEx0emo1TjJtM1cwMWd0b2VjY0RZUWZHejlMWUpOakoxWUJXYU1CTXVuVnY0aFQyQ3NTZXprWVRkUzVxS1BNWXFUSlQwR2c0ajgwVVlGSGdlS0hXQ2QxRlFkcFN3MDNpNXU5RC03U3JiVkMzVmY3Z0VPV2NZdS1VZ0ZGYUN4eW03aDZiY2NhSVBDdDBrMko0Y1ZwMWVnUDdJNUJhSFhVNzB0M2Uxc09DZHV2UVpwWm5YTW1GWkFlOVdxZjNobjlSVWV3WXc",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 10:02:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-07-26"
+      ],
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "appearances": 1
+    },
+    {
+      "id": "ee6d493e772422ab",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Badgers news: Carrington update, Tonje signing, Fickell ahead of Media Days - Badger of Honor",
+      "summary": "Wisconsin Badgers news: Carrington update, Tonje signing, Fickell ahead of Media Days Badger of Honor",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5WZFdfNU5FaHRhZk1GaDUxb1BJeFhqdEt3U0pBd0NvQmEyWEFybXh4NmR1N21PRzlpOTNXVV9LVnczcDhOTi1aZHQ0UE9OQ29mTVlGT3VSUTB5U2ZYNlVzakVvb0lQbVV4aU1oaUYxdmE4endVbVpxSG93MndJTmtTaVZkQ0hYenJDRUhDcUU3UU1jZmNCazI2djRVczRTd2hrVEJkRlFvcU50?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5WZFdfNU5FaHRhZk1GaDUxb1BJeFhqdEt3U0pBd0NvQmEyWEFybXh4NmR1N21PRzlpOTNXVV9LVnczcDhOTi1aZHQ0UE9OQ29mTVlGT3VSUTB5U2ZYNlVzakVvb0lQbVV4aU1oaUYxdmE4endVbVpxSG93MndJTmtTaVZkQ0hYenJDRUhDcUU3UU1jZmNCazI2djRVczRTd2hrVEJkRlFvcU50",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 10:00:02 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-07-26"
+      ],
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "appearances": 1
     },
     {
       "id": "e5969a00e3299f18",
@@ -181,6 +219,27 @@
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
       "appearances": 1
+    },
+    {
+      "id": "bbb0789ef07de377",
+      "source": "BBC Technology",
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+      "published": "Sat, 25 Jul 2026 10:14:41 GMT",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-07-26",
+        "2026-07-25"
+      ],
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "appearances": 2
     },
     {
       "id": "b8d8be3724d643f9",
@@ -381,25 +440,6 @@
       "appearances": 1
     },
     {
-      "id": "a7e0b9bb8f19218d",
-      "source": "Mental Health",
-      "headline": "Teens who struggle to log off social media could face increased ADHD symptoms over time - Medical Xpress",
-      "summary": "Teens who struggle to log off social media could face increased ADHD symptoms over time Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajVTU2lHZ3Zud041SGVyWmVLOFp0MGJlNUQyamRDcDBuNW83RG4yTzFHSUczN1Q2VjNxaUJ2ZG5VM0xnM1g0OXljbG5QTG1USzE2ejRTb295VE0wclNUNE00aS1FUVZ2aTFPaU5DRmNnaEVHYXVtbjR0cVRCbDByMFpR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajVTU2lHZ3Zud041SGVyWmVLOFp0MGJlNUQyamRDcDBuNW83RG4yTzFHSUczN1Q2VjNxaUJ2ZG5VM0xnM1g0OXljbG5QTG1USzE2ejRTb295VE0wclNUNE00aS1FUVZ2aTFPaU5DRmNnaEVHYXVtbjR0cVRCbDByMFpR",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 13:40:01 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-07-26"
-      ],
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "appearances": 1
-    },
-    {
       "id": "e852f2e56e60cb14",
       "source": "The Verge",
       "headline": "Teenage Engineering’s unique music machines are 30 percent off",
@@ -437,25 +477,6 @@
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-26",
       "appearances": 2
-    },
-    {
-      "id": "23a289b14b063b40",
-      "source": "Reuters",
-      "headline": "SUSPICIOUS TRADING: Oil-Price Bets Ahead of Iran War News Totalled $7 Billion, Reporting Shows - EnergyNow.com",
-      "summary": "SUSPICIOUS TRADING: Oil-Price Bets Ahead of Iran War News Totalled $7 Billion, Reporting Shows EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGhWSGJhZ2gzN0lnWjVEY2o4bDdacnpqS1NVLVE0dlRWcVdFTy1YeXRrbXlmaHRuN2NZZnZ2NDR0RXFPNmYzU00yS3JON1hmUFZ6X2o0N2k4QlFxRElQVDdxeWNRY0tRNTN3YWpGQXlQUUdabzVRS1A1emY2TGd3Nl9jWFFpa0lYTlZ6cGdvMDUyT0s0SFVkcVp5dW5Dd1N3QjYySmpB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGhWSGJhZ2gzN0lnWjVEY2o4bDdacnpqS1NVLVE0dlRWcVdFTy1YeXRrbXlmaHRuN2NZZnZ2NDR0RXFPNmYzU00yS3JON1hmUFZ6X2o0N2k4QlFxRElQVDdxeWNRY0tRNTN3YWpGQXlQUUdabzVRS1A1emY2TGd3Nl9jWFFpa0lYTlZ6cGdvMDUyT0s0SFVkcVp5dW5Dd1N3QjYySmpB",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 12:37:20 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-07-26"
-      ],
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "appearances": 1
     },
     {
       "id": "42bea41b80ea33c7",
@@ -593,6 +614,25 @@
       "appearances": 1
     },
     {
+      "id": "f8c9a68dce7fd7b7",
+      "source": "NPR",
+      "headline": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "summary": "A year after President Trump signed a law ending six decades of federal funding of public media, it's a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "canonical_url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 06:00:00 -0400",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-07-26"
+      ],
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "appearances": 1
+    },
+    {
       "id": "32d19d2dee1ea21b",
       "source": "Variety",
       "headline": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
@@ -671,25 +711,23 @@
       "appearances": 2
     },
     {
-      "id": "c698520a90924ca9",
-      "source": "BBC Health",
-      "headline": "More young women in their 20s are getting type 2 diabetes",
-      "summary": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/20de43c0-8593-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "Wed, 22 Jul 2026 00:03:43 GMT",
+      "id": "e3464b0c0c5e5577",
+      "source": "NPR",
+      "headline": "Lebanese displaced by war turn to satellites to check their homes",
+      "summary": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "canonical_url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 06:00:00 -0400",
       "sections": [
-        "quick-scan",
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
-        "2026-07-26",
-        "2026-07-22"
+        "2026-07-26"
       ],
-      "first_seen": "2026-07-22",
+      "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "e800e20087541918",
@@ -711,25 +749,6 @@
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
       "appearances": 2
-    },
-    {
-      "id": "64716f4737b4f6a8",
-      "source": "City of Madison",
-      "headline": "July 25 update from Chief Patterson - City of Madison, WI",
-      "summary": "July 25 update from Chief Patterson City of Madison, WI",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWRna3Bxd0F4VGk5MTZkcHVOZi02VWRsa0VhS1BQbUZ0c2Z6WXJfTkpiWnZBa185Qi1sTE5oQV91QXNpb3ZGbk1Pem1CYzlvSGlJeEhiVkpockVLZFBTMTlZTllYck9MN3VwNV9LV0lOTV8xNi1SeVJ4dVc2ZGdjVC1pcnVXdDVl?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWRna3Bxd0F4VGk5MTZkcHVOZi02VWRsa0VhS1BQbUZ0c2Z6WXJfTkpiWnZBa185Qi1sTE5oQV91QXNpb3ZGbk1Pem1CYzlvSGlJeEhiVkpockVLZFBTMTlZTllYck9MN3VwNV9LV0lOTV8xNi1SeVJ4dVc2ZGdjVC1pcnVXdDVl",
-      "image": "",
-      "published": "Sun, 26 Jul 2026 02:20:36 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-07-26"
-      ],
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "appearances": 1
     },
     {
       "id": "da5a921984d5f406",
@@ -1346,25 +1365,6 @@
       "appearances": 1
     },
     {
-      "id": "3050d37b666dfc4a",
-      "source": "Madison Local",
-      "headline": "'My heart was just so broken': Ruiz's daughter speaks after Madison police shooting death - WKOW",
-      "summary": "'My heart was just so broken': Ruiz's daughter speaks after Madison police shooting death WKOW",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQckE3dGtFdzg0aTFXVjVqQkhOZ1p3RFRoTWpFeWhIOElGR1lKb1AtaXFUQ3gtM19mMUVIVXktWm1oaFFOSndRSkNsNGttb1lxQU5HTGo2ME5qQVhpMElXOXZsNGV2bHR5UGh5STZndFFTdnV0T2tmNUJGQVdBYlFaRGctaWtOUnJwM0FOd2JKVEdNZ1ZkS2JQbzlfSFhHUkxxeDU4ZC1ab2R0eGR3cDR1X292Zm1MWmZoc0JmWUd0aS1BWWFydE40WDQzWldMYWFwV2Njd1NnVkZkN2g5LTV6aWliVXdiS3doT191VkFmM1JBX2s?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQckE3dGtFdzg0aTFXVjVqQkhOZ1p3RFRoTWpFeWhIOElGR1lKb1AtaXFUQ3gtM19mMUVIVXktWm1oaFFOSndRSkNsNGttb1lxQU5HTGo2ME5qQVhpMElXOXZsNGV2bHR5UGh5STZndFFTdnV0T2tmNUJGQVdBYlFaRGctaWtOUnJwM0FOd2JKVEdNZ1ZkS2JQbzlfSFhHUkxxeDU4ZC1ab2R0eGR3cDR1X292Zm1MWmZoc0JmWUd0aS1BWWFydE40WDQzWldMYWFwV2Njd1NnVkZkN2g5LTV6aWliVXdiS3doT191VkFmM1JBX2s",
-      "image": "",
-      "published": "Sun, 26 Jul 2026 03:55:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-07-26"
-      ],
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "appearances": 1
-    },
-    {
       "id": "90b3b74fecb19644",
       "source": "BBC Health",
       "headline": "'Life-changing' MS drug to help people walk now on NHS in England",
@@ -1615,25 +1615,6 @@
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-25",
       "appearances": 2
-    },
-    {
-      "id": "bbb0789ef07de377",
-      "source": "BBC World",
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-      "published": "Fri, 24 Jul 2026 23:11:13 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-07-25"
-      ],
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "appearances": 1
     },
     {
       "id": "5cc1bf1813908d3d",
@@ -5578,6 +5559,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2636/live/f8e6b960-85d3-11f1-ab29-01af26e68f77.jpg",
       "published": "Wed, 22 Jul 2026 14:47:32 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-07-22"
+      ],
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "appearances": 1
+    },
+    {
+      "id": "c698520a90924ca9",
+      "source": "BBC Health",
+      "headline": "More young women in their 20s are getting type 2 diabetes",
+      "summary": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/20de43c0-8593-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "Wed, 22 Jul 2026 00:03:43 GMT",
       "sections": [
         "wellbeing"
       ],
