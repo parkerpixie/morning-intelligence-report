@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-25.json",
-  "report_date": "2026-07-25",
-  "generated_at": "2026-07-25T09:59:07.456422+00:00",
-  "edition_count": 10,
+  "latest": "data/archive/2026-07-26.json",
+  "report_date": "2026-07-26",
+  "generated_at": "2026-07-26T09:46:56.777721+00:00",
+  "edition_count": 11,
   "editions": [
+    {
+      "report_date": "2026-07-26",
+      "generated_at": "2026-07-26T09:46:56.777721+00:00",
+      "path": "data/archive/2026-07-26.json",
+      "top_story": {
+        "source": "Reuters",
+        "headline": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war - Yahoo",
+        "summary": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUE0ySnJ6V0h2UXd5cUxzZVhJZ1I0Nk1tSnoyejR6NXFEOE0yaWdBdktyV1ptTjE2VW9VRTdmVWlVU1ZXWmJtaUNyQmtLNXVTbDg2ZmtBd0drQWdMUmRNWjFObV9DY0NYNFZRSGljMld0X0YtaFZicVFqZVdiUVhjTTJnQzQ?oc=5",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-25",
       "generated_at": "2026-07-25T09:59:07.456422+00:00",
