@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-07-27T10:58:25.451082+00:00",
+  "generated_at": "2026-07-27T11:38:27.696196+00:00",
   "edition_count": 12,
-  "story_count": 738,
+  "story_count": 740,
   "stories": [
     {
       "id": "583ae2b84568e589",
@@ -45,16 +45,35 @@
       "appearances": 1
     },
     {
-      "id": "e020c2527d72684e",
-      "source": "Ars Technica",
-      "headline": "With help from data, art museums are reframing the visitor experience",
-      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "canonical_url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-1152x648.jpg",
-      "published": "Sat, 25 Jul 2026 11:00:32 +0000",
+      "id": "3c1abe93b9277851",
+      "source": "Wisconsin Watch",
+      "headline": "Wisconsin’s Democratic primary for governor has changed a lot since January — and not much at all - Wisconsin Watch",
+      "summary": "Wisconsin’s Democratic primary for governor has changed a lot since January — and not much at all Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3VjOVN0ckV6NHltSlhDY0JabG5CRUZWZ2pwR2NKbU5Tb3RhOG4tWVFCczU3TXpDbWdVMTJmb2tsX0gtQUF0S0E2dVRWSGxvdTVFdHU0d0plSGU1bnNyYWZEaGtFNHg4cXhVN3VBRTdWWVF4MFVSbUFkLWZXeFhvdy1SWnE1VUgzRVMzNGZCR1lPWjBMOXN6SVhiak9wcEQ3cW0zMVpEUHBHZ01UTWVRM25fajd2UXI0SVZ2cHBjenNWSDdC?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3VjOVN0ckV6NHltSlhDY0JabG5CRUZWZ2pwR2NKbU5Tb3RhOG4tWVFCczU3TXpDbWdVMTJmb2tsX0gtQUF0S0E2dVRWSGxvdTVFdHU0d0plSGU1bnNyYWZEaGtFNHg4cXhVN3VBRTdWWVF4MFVSbUFkLWZXeFhvdy1SWnE1VUgzRVMzNGZCR1lPWjBMOXN6SVhiak9wcEQ3cW0zMVpEUHBHZ01UTWVRM25fajd2UXI0SVZ2cHBjenNWSDdC",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 11:00:00 GMT",
       "sections": [
-        "ai-tech"
+        "local"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "35a32c6ad94d082c",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin governor race; UAW endorses Mandela Barnes - FOX6 News Milwaukee",
+      "summary": "Wisconsin governor race; UAW endorses Mandela Barnes FOX6 News Milwaukee",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkhYbmdEUXFyazZXVkxNajNFRWRoMnBrNUxQaHJhQk5GdldGQkZKeWJvRWRWM25uMDEyeTVOSVN2WmJjNkJGX1hrN2o0WVFVcXZGZ0lDbXJNU2VtMEFDb20tellFYnFwZlJCenpMUlFMNWZZMzc3aFc4eUZiVl9yVHREc290bFNBYVZFamVyVnF1MzMtR25RN2Q0Y1PSAaIBQVVfeXFMTTllcmtiTXJpX1lyenVtYUZCdjI5VGVvRUN6V0xEcmtGb2xHeUdEVFR2NzUwOTZWYU51ZDRQcDdmajdYbWxWeEw3U2o0bVkzQjd5V05hT2pJSjJ1anMzTTRXWXl1U2tSV2JGRUZGT290eUlTdFlhMW9lWFNVTE9tNDljS0F1b1pJMFpiVUwySUs3bzN6aUYtX2FWZjlWVXBWZk1B?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkhYbmdEUXFyazZXVkxNajNFRWRoMnBrNUxQaHJhQk5GdldGQkZKeWJvRWRWM25uMDEyeTVOSVN2WmJjNkJGX1hrN2o0WVFVcXZGZ0lDbXJNU2VtMEFDb20tellFYnFwZlJCenpMUlFMNWZZMzc3aFc4eUZiVl9yVHREc290bFNBYVZFamVyVnF1MzMtR25RN2Q0Y1PSAaIBQVVfeXFMTTllcmtiTXJpX1lyenVtYUZCdjI5VGVvRUN6V0xEcmtGb2xHeUdEVFR2NzUwOTZWYU51ZDRQcDdmajdYbWxWeEw3U2o0bVkzQjd5V05hT2pJSjJ1anMzTTRXWXl1U2tSV2JGRUZGT290eUlTdFlhMW9lWFNVTE9tNDljS0F1b1pJMFpiVUwySUs3bzN6aUYtX2FWZjlWVXBWZk1B",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 10:22:40 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-07-27"
@@ -102,12 +121,12 @@
       "appearances": 1
     },
     {
-      "id": "c5dc4022a48b3a43",
+      "id": "0df3cdc5a439e854",
       "source": "Wisconsin News",
-      "headline": "Why 2025 success along the interior is good news for Wisconsin's defense - Milwaukee Journal Sentinel",
-      "summary": "Why 2025 success along the interior is good news for Wisconsin's defense Milwaukee Journal Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0x2YnNuMlNTWndWRzJpQ041UGxtQzdfZFVYX3g4aE1YcDQxY0RRRFJaNUVGTmVsdW40RkJySzZfdnZNWVBTY3hGWld4Ykp2TW1MdlV0bjJyT2laeXNIX19iYW5memRsbUlxbDF5Ung3RFNpWnJjSU9YTHZIeUJLZm4wdnduX0c5dTN0X25oS213UktkZl94LVY3YkM5YlNYdHQ1ZGUyVzZPc0dxcXNEeEVyX1VXR1FJcm9NbWZnd2lYZ0dCajhjdzlqb0V5SkpOMXh1WnhIdDhMejQ0S0RGWVFpX2lfb1Zzb1FtTg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0x2YnNuMlNTWndWRzJpQ041UGxtQzdfZFVYX3g4aE1YcDQxY0RRRFJaNUVGTmVsdW40RkJySzZfdnZNWVBTY3hGWld4Ykp2TW1MdlV0bjJyT2laeXNIX19iYW5memRsbUlxbDF5Ung3RFNpWnJjSU9YTHZIeUJLZm4wdnduX0c5dTN0X25oS213UktkZl94LVY3YkM5YlNYdHQ1ZGUyVzZPc0dxcXNEeEVyX1VXR1FJcm9NbWZnd2lYZ0dCajhjdzlqb0V5SkpOMXh1WnhIdDhMejQ0S0RGWVFpX2lfb1Zzb1FtTg",
+      "headline": "Why 2025 success along the interior is good news for Wisconsin's defense - Oshkosh Northwestern",
+      "summary": "Why 2025 success along the interior is good news for Wisconsin's defense Oshkosh Northwestern",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3h3c2UxWVEzcllFbjFPT3JwLU5PaVJ5czdUMnYzcmgwdVI4OXozMlZSTWdzZmR0ODZqdlpXaXYzbThPZ2pTa0hXSGk0RUNjZ0FCVUIwV3VZb2c3dTNQeEVyX1JaY3JyV3JHQ2JKT25scEhLQTB5QkVLWDB0TXZON3dxMnN5M0pva0NQN3RjWnpnNFBFZzg3UE91bGdONEdwMDZHSEw3d2tFQjhoUlBrTE1WNWdMd1BmWkw3NDM4Wkg5TlRCbjByampXZUxseHFWOEN4cGZBNGdybmdqRXozejk0S2FNaVVnTDBMNFRfcDR4MGVGWmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3h3c2UxWVEzcllFbjFPT3JwLU5PaVJ5czdUMnYzcmgwdVI4OXozMlZSTWdzZmR0ODZqdlpXaXYzbThPZ2pTa0hXSGk0RUNjZ0FCVUIwV3VZb2c3dTNQeEVyX1JaY3JyV3JHQ2JKT25scEhLQTB5QkVLWDB0TXZON3dxMnN5M0pva0NQN3RjWnpnNFBFZzg3UE91bGdONEdwMDZHSEw3d2tFQjhoUlBrTE1WNWdMd1BmWkw3NDM4Wkg5TlRCbjByampXZUxseHFWOEN4cGZBNGdybmdqRXozejk0S2FNaVVnTDBMNFRfcDR4MGVGWmc",
       "image": "",
       "published": "Mon, 27 Jul 2026 10:25:00 GMT",
       "sections": [
@@ -162,6 +181,25 @@
       "appearances": 1
     },
     {
+      "id": "ff32dc867c5b8b76",
+      "source": "Good News Network",
+      "headline": "Vanished Hornbill Species Breeding Again After 60 Years Among Old Trees",
+      "summary": "For the 4th year in a row, Indian grey hornbills have successfully bred in Gujarat state where they’d been absent for more than 50 years. Despite being listed as a species of “Least Concern” by the IUCN, the animal has habitat requirements that can see it quickly succumb to displacement. Indeed even Gir National Park,",
+      "url": "https://www.goodnewsnetwork.org/vanished-hornbill-species-reintroduced-4-years-ago-now-self-sustaining-again/",
+      "canonical_url": "https://www.goodnewsnetwork.org/vanished-hornbill-species-reintroduced-4-years-ago-now-self-sustaining-again",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 11:00:57 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
       "id": "7e9ae93375168db1",
       "source": "BBC US & Canada",
       "headline": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
@@ -172,25 +210,6 @@
       "published": "Mon, 27 Jul 2026 08:14:46 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
-      "id": "785af49acb8f647c",
-      "source": "Wisconsin News",
-      "headline": "Unions endorse candidates in Wisconsin governor’s race; UAW backs Barnes - FOX6 News Milwaukee",
-      "summary": "Unions endorse candidates in Wisconsin governor’s race; UAW backs Barnes FOX6 News Milwaukee",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkhYbmdEUXFyazZXVkxNajNFRWRoMnBrNUxQaHJhQk5GdldGQkZKeWJvRWRWM25uMDEyeTVOSVN2WmJjNkJGX1hrN2o0WVFVcXZGZ0lDbXJNU2VtMEFDb20tellFYnFwZlJCenpMUlFMNWZZMzc3aFc4eUZiVl9yVHREc290bFNBYVZFamVyVnF1MzMtR25RN2Q0Y1M?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkhYbmdEUXFyazZXVkxNajNFRWRoMnBrNUxQaHJhQk5GdldGQkZKeWJvRWRWM25uMDEyeTVOSVN2WmJjNkJGX1hrN2o0WVFVcXZGZ0lDbXJNU2VtMEFDb20tellFYnFwZlJCenpMUlFMNWZZMzc3aFc4eUZiVl9yVHREc290bFNBYVZFamVyVnF1MzMtR25RN2Q0Y1M",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 10:22:40 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-07-27"
@@ -228,7 +247,7 @@
       "image": "",
       "published": "Mon, 27 Jul 2026 03:38:46 GMT",
       "sections": [
-        "animals"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-07-27"
@@ -256,44 +275,6 @@
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-27",
       "appearances": 2
-    },
-    {
-      "id": "4fab7dc994d8a3b6",
-      "source": "The Verge",
-      "headline": "The vertical video takeover is here",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social and media platform",
-      "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-      "canonical_url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-      "image": "",
-      "published": "2026-07-26T08:00:00-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
-      "id": "4980d5d32352d3b7",
-      "source": "The Verge",
-      "headline": "The US is charging an American citizen for wiping his phone at the border",
-      "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers",
-      "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-      "canonical_url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-      "image": "",
-      "published": "2026-07-26T14:45:50-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
     },
     {
       "id": "85b678ddfc792de2",
@@ -494,25 +475,6 @@
       "appearances": 1
     },
     {
-      "id": "c7e163be67d9bb13",
-      "source": "Animals",
-      "headline": "Rescue, Rehabilitate, Release: Urban Wildlife Rehabilitation celebrates 25 years of saving orphaned wild animals - Western Mass News",
-      "summary": "Rescue, Rehabilitate, Release: Urban Wildlife Rehabilitation celebrates 25 years of saving orphaned wild animals Western Mass News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR3c0WGxLajlhMHN5eFY3Uzl3SmlkaTVnV25jZ3FJRE9wWU5PSF93VWctSGlRV0hRQTlfYUJlTV95b0F6Y05sc0V1cXVqaUlHNDBCb1RPcW9hX2RPblV4ZTRiZ18zb1FiblRkcFIzU1lTajZvNGdxUnZiVF9KaWY4VVFuWkpMVG5xd2Z1dThyZi1GdlJJODQ1am11SjBjWG5KU2pkY3ZQVHVDMks1TkUyYVVPVkw5SUdCeWNkTVRwMnliZlN2c2MtWnlTS0ZqQmRSWTdQZjVISWdXR3M3X1JpSlp5Yk0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR3c0WGxLajlhMHN5eFY3Uzl3SmlkaTVnV25jZ3FJRE9wWU5PSF93VWctSGlRV0hRQTlfYUJlTV95b0F6Y05sc0V1cXVqaUlHNDBCb1RPcW9hX2RPblV4ZTRiZ18zb1FiblRkcFIzU1lTajZvNGdxUnZiVF9KaWY4VVFuWkpMVG5xd2Z1dThyZi1GdlJJODQ1am11SjBjWG5KU2pkY3ZQVHVDMks1TkUyYVVPVkw5SUdCeWNkTVRwMnliZlN2c2MtWnlTS0ZqQmRSWTdQZjVISWdXR3M3X1JpSlp5Yk0",
-      "image": "",
-      "published": "Sun, 26 Jul 2026 23:07:00 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
       "id": "f7b483ad17838f64",
       "source": "AI News",
       "headline": "OpenAI Knew GPT-5 Posed Bioweapon Risk and Downgraded the Rating Anyway - Tech Times",
@@ -540,6 +502,25 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFpUcGNrRnd6NmZNWVJSOGdSX1VLOVA4alQ5R3VOQWd6dGR6RjcyQnVZcFBlNDNkNGRxbXJoV3RQNFFNay1RYzdsMzdMYV80VjNSemxxclQzWDNjM3JnY2xGNnQtUWVjc25UZm9DTXptUERCb3lFTlJpVjRjV0pKbGx0cVVWZ3pWRGdOenNnYk1RZEY5NlBxRFJWdW1NaWRiVFZSWDcxN1FjdU1IVE1ycmhB",
       "image": "",
       "published": "Mon, 27 Jul 2026 08:50:18 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "169abc4ad2d553f0",
+      "source": "Reuters",
+      "headline": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - 朝日新聞",
+      "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bVRnYktrQ3B6TlVSV3VVcU5GNlRoSGdTTGV2NVZHblhXcVFidTJLdk5OWDFCUXZubzlQX1BvN2xGN0VmMVE0ejJzcTFxMWcwX0dYMW5B?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bVRnYktrQ3B6TlVSV3VVcU5GNlRoSGdTTGV2NVZHblhXcVFidTJLdk5OWDFCUXZubzlQX1BvN2xGN0VmMVE0ejJzcTFxMWcwX0dYMW5B",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 06:55:00 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -665,6 +646,44 @@
       "appearances": 1
     },
     {
+      "id": "ede965fbe5ca42a3",
+      "source": "Animals",
+      "headline": "Michigan DNR shares video of conservation officer rescuing injured bald eagle - WILX",
+      "summary": "Michigan DNR shares video of conservation officer rescuing injured bald eagle WILX",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVNBbGUtQnVyX3FfMTIxYk9CeFZDek1WR2E2WERFcTJZVTUwM1pxWVBzMVB5XzJPcGxjdEpReHprNGZHYVhSdDc4Z0Q0N0N4Zjh5anZVX0l0SnJTeDVyWGpZR1NZb3RCcEdFcUJWb1FCU3ZxamE1YzlHcXFsRGJ5TzlsZ1k5VTYtSE0tNkt4UHVkbUNCV2tIRkpvSjlKVjNYRWx2bWUzZDRzWjg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVNBbGUtQnVyX3FfMTIxYk9CeFZDek1WR2E2WERFcTJZVTUwM1pxWVBzMVB5XzJPcGxjdEpReHprNGZHYVhSdDc4Z0Q0N0N4Zjh5anZVX0l0SnJTeDVyWGpZR1NZb3RCcEdFcUJWb1FCU3ZxamE1YzlHcXFsRGJ5TzlsZ1k5VTYtSE0tNkt4UHVkbUNCV2tIRkpvSjlKVjNYRWx2bWUzZDRzWjg",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 10:59:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "378c015dc13f603e",
+      "source": "Associated Press",
+      "headline": "Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say - ABC27",
+      "summary": "Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say ABC27",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2h4anBSSFdGUW83SXA5a3ZZeFJKRU12RGZtdjNjSHZ3SG9WZkRFVVdvaUdudDRXZ0VYNGhTc1p3eFJxWEQ3TG5XbklsUFZ2TTJjdVJOYmp6THYxajdiTk9mY1pGZkwyYTJYcU9Cd3QyNGZBTlphZzZ5S01EU1paZzZpdUswNGp6OVA5aVZVVGNLdzRzdFJ2REpMb21uX2hVVVpSVmZWNE1WTGxkaGxaRUFMcGxJNUxsejBXcl9hMXFLOW5wZ0dBSmtuTU5GUUM10gHWAUFVX3lxTE1IaFRqOW5HWXh3M3dKYWVlT1NCVTJUc3djQktnQXBCS05XVUVPRWx6ZVVqOGx3bzc5RzBoOUVUUjVWME9ZaGwwVG1fSlJpUktsWUszUk5mdnI1REY4dklWbXltbTZYN0tXS2dfODVfZXV4ckxJa3VNZ2dXaEppV0Q0OXJlSVJtQ2ZhWWVvRDNobHVuMk5Sb2FJYkVvTEFMM2pHMmFiRlVXWnFjUmRrMmxjZGRvOS05Y0NtekV1YVFyWmstZ2Q0T2l6YnJzbkhWT091ZVBDRFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2h4anBSSFdGUW83SXA5a3ZZeFJKRU12RGZtdjNjSHZ3SG9WZkRFVVdvaUdudDRXZ0VYNGhTc1p3eFJxWEQ3TG5XbklsUFZ2TTJjdVJOYmp6THYxajdiTk9mY1pGZkwyYTJYcU9Cd3QyNGZBTlphZzZ5S01EU1paZzZpdUswNGp6OVA5aVZVVGNLdzRzdFJ2REpMb21uX2hVVVpSVmZWNE1WTGxkaGxaRUFMcGxJNUxsejBXcl9hMXFLOW5wZ0dBSmtuTU5GUUM10gHWAUFVX3lxTE1IaFRqOW5HWXh3M3dKYWVlT1NCVTJUc3djQktnQXBCS05XVUVPRWx6ZVVqOGx3bzc5RzBoOUVUUjVWME9ZaGwwVG1fSlJpUktsWUszUk5mdnI1REY4dklWbXltbTZYN0tXS2dfODVfZXV4ckxJa3VNZ2dXaEppV0Q0OXJlSVJtQ2ZhWWVvRDNobHVuMk5Sb2FJYkVvTEFMM2pHMmFiRlVXWnFjUmRrMmxjZGRvOS05Y0NtekV1YVFyWmstZ2Q0T2l6YnJzbkhWT091ZVBDRFE",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 09:42:10 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
       "id": "cbc541eefc60c2bc",
       "source": "Wisconsin Public Radio",
       "headline": "Mandela Barnes is asking Democrats for another chance in governor’s race",
@@ -703,44 +722,6 @@
       "appearances": 1
     },
     {
-      "id": "fec5187d11f201ab",
-      "source": "Wisconsin News",
-      "headline": "Madison grapples with Ruiz shooting as signature city events get canceled - PBS Wisconsin",
-      "summary": "Madison grapples with Ruiz shooting as signature city events get canceled PBS Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFRVVWl6WHhBR3BZWVpzc2NvaWVCMTUxMDFhNE91dk9Gejltc08zSUtRR0NCb0NMUzg5ZXJla3dDOTlNbndEaEVzRUZYNzR3M0J4TGl3RHhieG5kTWVKbEtjdjVZVWxzUm9id2lIbmFDd0dKcUptYVY1a1YwbncxWEpXcTJKclVsWTVBZzVzTnlTdVZrYmJ2TkxWTWV4Y0ItUm9QQUdPeHgxWUVaZVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFRVVWl6WHhBR3BZWVpzc2NvaWVCMTUxMDFhNE91dk9Gejltc08zSUtRR0NCb0NMUzg5ZXJla3dDOTlNbndEaEVzRUZYNzR3M0J4TGl3RHhieG5kTWVKbEtjdjVZVWxzUm9id2lIbmFDd0dKcUptYVY1a1YwbncxWEpXcTJKclVsWTVBZzVzTnlTdVZrYmJ2TkxWTWV4Y0ItUm9QQUdPeHgxWUVaZVE",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 04:41:26 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
-      "id": "b1377ea8deb7b17a",
-      "source": "Associated Press",
-      "headline": "Macron holds crisis meeting as monster wildfires drive 250,000 from their homes - ABC27",
-      "summary": "Macron holds crisis meeting as monster wildfires drive 250,000 from their homes ABC27",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPak5acEx4dlNPeHRIaWQ5MHEwaDFnMUNJNUk1Y0o1Z1pxYU5IQS1vQWFCWmlxRk5GaUJ3TW1ucTRwejViNFdoMEQ0TEEyTDJVNEluVFBZaHJGSnd2UTFlZDVqcUxnalc1ZUJ4SEk1SWVwVEQwNFpyVjkyVUNNbDFJVzIzaXo3NzhVWkxxb2IzVTlURWNfRmpKMVY4Nkt4aU9xZnRrRzVHRlpzMV8wVFhWbmNQM3NKLWRKMnAzWHV0YzFsc3hzWjBVb3JWS2cyVXdYV1A5TNIB2gFBVV95cUxNTnZPa29IZll3QkRYNWtzZ3o5VFFaUUEtbWFHbk9FbE5CUktIdjlyRXR0NFNIdTVEVk81dEh4ZV9KX2l2WHhRNWRyQ3pOZHVwazJYSjZzQUNFV2VtNVFzOG04LXZYZTlvd3RQWHN4SzdRamhvd3JNTG9BWnBYdldBUVZzVFNYWXlCUHVJT2FjR3NDR19ERVlpeGlTalJIZ1hGdDN4SWFvSnBQZ3pFaTBpcWs5b1FkS0gzVzRDZHhuV2ZibjVQNnFQT0QwekJHZmIzSFlOdlhlZThKUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPak5acEx4dlNPeHRIaWQ5MHEwaDFnMUNJNUk1Y0o1Z1pxYU5IQS1vQWFCWmlxRk5GaUJ3TW1ucTRwejViNFdoMEQ0TEEyTDJVNEluVFBZaHJGSnd2UTFlZDVqcUxnalc1ZUJ4SEk1SWVwVEQwNFpyVjkyVUNNbDFJVzIzaXo3NzhVWkxxb2IzVTlURWNfRmpKMVY4Nkt4aU9xZnRrRzVHRlpzMV8wVFhWbmNQM3NKLWRKMnAzWHV0YzFsc3hzWjBVb3JWS2cyVXdYV1A5TNIB2gFBVV95cUxNTnZPa29IZll3QkRYNWtzZ3o5VFFaUUEtbWFHbk9FbE5CUktIdjlyRXR0NFNIdTVEVk81dEh4ZV9KX2l2WHhRNWRyQ3pOZHVwazJYSjZzQUNFV2VtNVFzOG04LXZYZTlvd3RQWHN4SzdRamhvd3JNTG9BWnBYdldBUVZzVFNYWXlCUHVJT2FjR3NDR19ERVlpeGlTalJIZ1hGdDN4SWFvSnBQZ3pFaTBpcWs5b1FkS0gzVzRDZHhuV2ZibjVQNnFQT0QwekJHZmIzSFlOdlhlZThKUQ",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 09:54:48 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
       "id": "60ddd00ff1928769",
       "source": "Good News Network",
       "headline": "Last Circus Elephant in Portugal Can Now Romp-and-Roll on 1000-Acre Sanctuary After 40 Years of Working",
@@ -760,9 +741,28 @@
       "appearances": 1
     },
     {
+      "id": "80d8434218cad6bb",
+      "source": "Marketing Ops",
+      "headline": "Kaspersky partners with WebEngage to enhance B2B marketing - Campaign Middle East",
+      "summary": "Kaspersky partners with WebEngage to enhance B2B marketing Campaign Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0Jia0NoOFk3M0xkOU1GNC1weWF1Nll5VVlhX1ltUW12bGNLNTNMbEduSk9wdjlrVHNPdksyYVNQOEVzdzNRYjNjaDRYWXFfWkxNU3hJUnYxZ09hbjM2WE9MVUVpMGtYc2NFOEFzM0YxNWZtaHZpVjctbVRpVDRhcXNLWHd1aFJwVWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0Jia0NoOFk3M0xkOU1GNC1weWF1Nll5VVlhX1ltUW12bGNLNTNMbEduSk9wdjlrVHNPdksyYVNQOEVzdzNRYjNjaDRYWXFfWkxNU3hJUnYxZ09hbjM2WE9MVUVpMGtYc2NFOEFzM0YxNWZtaHZpVjctbVRpVDRhcXNLWHd1aFJwVWc",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 11:32:22 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
       "id": "594346270231ce55",
       "source": "NPR",
-      "headline": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
+      "headline": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
       "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
       "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
       "canonical_url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
@@ -799,16 +799,16 @@
       "appearances": 2
     },
     {
-      "id": "ecca5b45f8342446",
-      "source": "Reuters",
-      "headline": "Indonesia central bank governor Perry Warjiyo steps down in surprise move - Reuters",
-      "summary": "Indonesia central bank governor Perry Warjiyo steps down in surprise move Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv",
+      "id": "ed0fbab39fc5b302",
+      "source": "ScienceDaily Mind & Brain",
+      "headline": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary…",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
       "image": "",
-      "published": "Mon, 27 Jul 2026 00:53:00 GMT",
+      "published": "Sun, 26 Jul 2026 04:16:35 EDT",
       "sections": [
-        "quick-scan"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-07-27"
@@ -828,6 +828,25 @@
       "published": "Mon, 27 Jul 2026 05:00:00 -0400",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "ac247110c2f2a7b9",
+      "source": "Wisconsin News",
+      "headline": "Impact Day: Dangerous heat, severe storms threaten SE Wisconsin - WISN",
+      "summary": "Impact Day: Dangerous heat, severe storms threaten SE Wisconsin WISN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTZxcEtjVURQMzk1UDN5SHpHUFZHbl92V1lBQUZfMU5QY0VmR2lXTEEyLTEydm1ETnN6NHlYN1pSOEVZMWlMOFNPamNaQWVMVkdXUkpHUFJDTHpTVDFlNGRqOEhxcFpFMmVIZEp5M3NFVHJsVkwtXy1XbnNTX3RIeUVrdDd4bHNWSDdINVY3d3haR01WZ0NIcXh1MWF6MWJ5WjNOeVhZQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTZxcEtjVURQMzk1UDN5SHpHUFZHbl92V1lBQUZfMU5QY0VmR2lXTEEyLTEydm1ETnN6NHlYN1pSOEVZMWlMOFNPamNaQWVMVkdXUkpHUFJDTHpTVDFlNGRqOEhxcFpFMmVIZEp5M3NFVHJsVkwtXy1XbnNTX3RIeUVrdDd4bHNWSDdINVY3d3haR01WZ0NIcXh1MWF6MWJ5WjNOeVhZQQ",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 10:53:00 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-07-27"
@@ -876,25 +895,23 @@
       "appearances": 2
     },
     {
-      "id": "50446ce0ded4b100",
-      "source": "HubSpot Marketing",
-      "headline": "HubSpot AEO vs SE Ranking: Features, pricing, and fit",
-      "summary": "You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in those answers, well, you may not even be a consideration.",
-      "url": "https://blog.hubspot.com/marketing/hubspot-vs-se-ranking",
-      "canonical_url": "https://blog.hubspot.com/marketing/hubspot-vs-se-ranking",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/hubspot%20aeo%20vs%20se%20ranking.png",
-      "published": "Mon, 20 Jul 2026 11:00:03 GMT",
+      "id": "e826f1678b7d35e9",
+      "source": "AI Safety",
+      "headline": "How the OpenAI-Hugging Face Hack May Affect the Geopolitics of AI Governance - Tech Policy Press",
+      "summary": "How the OpenAI-Hugging Face Hack May Affect the Geopolitics of AI Governance Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTy1zZmtKSUFHbU5iQ1luOVdzeGJQV3NRbmF5RHFnYXBURjRFdlRNMWR2R2YzNUF5c2FCeWZCQkF1Z0xCMWtvcjhsSW5kd21MQzRia21OXzZkVGNsYVVSdE1nSTVqZ0dzVnVjOTBkX1lNbDZndkZYSWtUNmotQ21ja1dxRTV0eVUwbFZFMlVXU2dubFpZb1NpN0hvN3EzcTVVaVVN?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTy1zZmtKSUFHbU5iQ1luOVdzeGJQV3NRbmF5RHFnYXBURjRFdlRNMWR2R2YzNUF5c2FCeWZCQkF1Z0xCMWtvcjhsSW5kd21MQzRia21OXzZkVGNsYVVSdE1nSTVqZ0dzVnVjOTBkX1lNbDZndkZYSWtUNmotQ21ja1dxRTV0eVUwbFZFMlVXU2dubFpZb1NpN0hvN3EzcTVVaVVN",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 13:49:40 GMT",
       "sections": [
-        "work-marketing"
+        "ai-tech"
       ],
       "report_dates": [
-        "2026-07-27",
-        "2026-07-24",
-        "2026-07-20"
+        "2026-07-27"
       ],
-      "first_seen": "2026-07-20",
+      "first_seen": "2026-07-27",
       "last_seen": "2026-07-27",
-      "appearances": 3
+      "appearances": 1
     },
     {
       "id": "70bc022b02e4a266",
@@ -907,6 +924,25 @@
       "published": "Sun, 26 Jul 2026 07:40:27 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "bd239599b283fedc",
+      "source": "BBC World",
+      "headline": "How 'fire-generated thunderstorms' make wildfires more deadly",
+      "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
+      "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af41/live/297ba580-89ae-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "Mon, 27 Jul 2026 11:11:07 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-07-27"
@@ -975,26 +1011,6 @@
       "appearances": 1
     },
     {
-      "id": "481fc2c7d02e50c0",
-      "source": "Good News Network",
-      "headline": "First Puffin Chick in 30 Years Spotted Emerging From Cliffs Along England’s South Coast",
-      "summary": "Conservationists were holding their breaths this Spring as the last remaining colony of puffins was in danger of being lost altogether, but relief turned to joy as, not only did the adult puffins return, a baby was born. For the first time in 30 years, a newborn bird—called a PUFFLING—was spotted emerging from its cliffside",
-      "url": "https://www.goodnewsnetwork.org/first-puffin-chick-spotted-in-over-30-years-emerges-along-cliffs-at-englands-south-coast/",
-      "canonical_url": "https://www.goodnewsnetwork.org/first-puffin-chick-spotted-in-over-30-years-emerges-along-cliffs-at-englands-south-coast",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 18:10:18 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-07-27",
-        "2026-07-26"
-      ],
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-27",
-      "appearances": 2
-    },
-    {
       "id": "535cb53da989af7b",
       "source": "Smithsonian",
       "headline": "Experimental Alzheimer's Drug That Fights a Tough-to-Target Protein Shows Promise at Slowing Cognitive Decline in a Clinical Trial",
@@ -1024,26 +1040,7 @@
       "image": "",
       "published": "Sun, 26 Jul 2026 18:43:19 +0000",
       "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
-      "id": "e68b9ded679bc4be",
-      "source": "Dane County",
-      "headline": "Dane County Medical Examiner confirms identity of man shot by Madison Police Department - WMTV 15 NEWS",
-      "summary": "Dane County Medical Examiner confirms identity of man shot by Madison Police Department WMTV 15 NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDYyTTJiZ0JkSzB0VURLcWkzTXdnYVRZQ3djejVMemJLOWp3c0lmNWdzUEtWY3Q3VVY1N3htNGhSSk5OeFdjMGZKZVlnTVp6MFFQdGRfNmZzdTRzT1hGWHJ4bWxZejZkMHVwMFRPZ25PMUk4V1NDM2VSY3JDTlc1VkRtRi1PcEJRR1hWSUlaVi1fcUYzSW0yRGlsNkVmMFlQQks3dExjanZCNHRZVDg1aFFwMEJDbk5mOEtFYXVJTmpSdmptMUhXSg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdDYyTTJiZ0JkSzB0VURLcWkzTXdnYVRZQ3djejVMemJLOWp3c0lmNWdzUEtWY3Q3VVY1N3htNGhSSk5OeFdjMGZKZVlnTVp6MFFQdGRfNmZzdTRzT1hGWHJ4bWxZejZkMHVwMFRPZ25PMUk4V1NDM2VSY3JDTlc1VkRtRi1PcEJRR1hWSUlaVi1fcUYzSW0yRGlsNkVmMFlQQks3dExjanZCNHRZVDg1aFFwMEJDbk5mOEtFYXVJTmpSdmptMUhXSg",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 16:30:00 GMT",
-      "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-07-27"
@@ -1101,6 +1098,25 @@
       "published": "Mon, 27 Jul 2026 10:00:00 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-07-27"
+      ],
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "appearances": 1
+    },
+    {
+      "id": "413fed7b0de1366b",
+      "source": "NPR",
+      "headline": "Can the U.S. and Iran take the off-ramp?",
+      "summary": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "canonical_url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 01:57:59 -0400",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-07-27"
@@ -1205,16 +1221,16 @@
       "appearances": 1
     },
     {
-      "id": "c2f7743dbbd0336c",
-      "source": "Associated Press",
-      "headline": "At least 4 people including a child were wounded by gunfire at a Seattle festival, hospital says - 5 EYEWITNESS NEWS",
-      "summary": "At least 4 people including a child were wounded by gunfire at a Seattle festival, hospital says 5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVEtmdmE0dWpheGxuZFAtcUx5bXZGQ3FkZm5CRzJYYTA3MFBnTF9BUzdFVW1GNGV1VF9semtwNmhOd3dLOWItdkFkdkpLSzBKbFppeTdRMWt3WDNIUjRZdFdjc0tKZmZSX3J2ekl1Z28tU1pxZnJjQ2pnMldFc3QteDJYb2RnU3pZTUNxNXB1eFowR0RZN3ByRHk5QzhCNFhKeU0zaHNEV0FwazNPYVpwbzVESUZaYVJQcTE2ZzNteE1MLXFUeUhmSmZ2c010VXhIQ05mOFEweHlwM2drX0RkYVJVUEc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVEtmdmE0dWpheGxuZFAtcUx5bXZGQ3FkZm5CRzJYYTA3MFBnTF9BUzdFVW1GNGV1VF9semtwNmhOd3dLOWItdkFkdkpLSzBKbFppeTdRMWt3WDNIUjRZdFdjc0tKZmZSX3J2ekl1Z28tU1pxZnJjQ2pnMldFc3QteDJYb2RnU3pZTUNxNXB1eFowR0RZN3ByRHk5QzhCNFhKeU0zaHNEV0FwazNPYVpwbzVESUZaYVJQcTE2ZzNteE1MLXFUeUhmSmZ2c010VXhIQ05mOFEweHlwM2drX0RkYVJVUEc",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 03:17:52 GMT",
+      "id": "e45482a3354c240f",
+      "source": "Ars Technica",
+      "headline": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg",
+      "published": "Mon, 27 Jul 2026 10:50:37 +0000",
       "sections": [
-        "wellbeing"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-07-27"
@@ -1349,25 +1365,6 @@
       "published": "Mon, 27 Jul 2026 09:05:42 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-07-27"
-      ],
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "appearances": 1
-    },
-    {
-      "id": "4e5bece2df99dd78",
-      "source": "BBC World",
-      "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
-      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176a/live/52099b90-8901-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "Mon, 27 Jul 2026 05:59:22 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-07-27"
@@ -2302,6 +2299,25 @@
       "published": "Thu, 23 Jul 2026 18:18:46 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-07-26"
+      ],
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "appearances": 1
+    },
+    {
+      "id": "481fc2c7d02e50c0",
+      "source": "Good News Network",
+      "headline": "First Puffin Chick in 30 Years Spotted Emerging From Cliffs Along England’s South Coast",
+      "summary": "Conservationists were holding their breaths this Spring as the last remaining colony of puffins was in danger of being lost altogether, but relief turned to joy as, not only did the adult puffins return, a baby was born. For the first time in 30 years, a newborn bird—called a PUFFLING—was spotted emerging from its cliffside",
+      "url": "https://www.goodnewsnetwork.org/first-puffin-chick-spotted-in-over-30-years-emerges-along-cliffs-at-englands-south-coast/",
+      "canonical_url": "https://www.goodnewsnetwork.org/first-puffin-chick-spotted-in-over-30-years-emerges-along-cliffs-at-englands-south-coast",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 18:10:18 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-07-26"
@@ -4478,6 +4494,26 @@
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-24",
       "appearances": 1
+    },
+    {
+      "id": "50446ce0ded4b100",
+      "source": "HubSpot Marketing",
+      "headline": "HubSpot AEO vs SE Ranking: Features, pricing, and fit",
+      "summary": "You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in those answers, well, you may not even be a consideration.",
+      "url": "https://blog.hubspot.com/marketing/hubspot-vs-se-ranking",
+      "canonical_url": "https://blog.hubspot.com/marketing/hubspot-vs-se-ranking",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/hubspot%20aeo%20vs%20se%20ranking.png",
+      "published": "Mon, 20 Jul 2026 11:00:03 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-07-24",
+        "2026-07-20"
+      ],
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-24",
+      "appearances": 2
     },
     {
       "id": "3962045fe438fef2",
