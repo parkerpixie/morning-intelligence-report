@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:15:34.535049+00:00",
-  "generated_at_local": "2026-07-28T05:15:34.535049-05:00",
+  "generated_at": "2026-07-28T10:44:25.783362+00:00",
+  "generated_at_local": "2026-07-28T05:44:25.783362-05:00",
   "report_date": "2026-07-28",
   "top_story": {
     "source": "BBC World",
@@ -29,11 +29,27 @@
     },
     {
       "source": "Wisconsin Public Radio",
+      "headline": "Police shooting site remains closed to traffic as protests continue",
+      "summary": "Four Madison officers are on leaving pending a Wisconsin Department of Justice investigation into the fatal shooting of Corey Ruiz.",
+      "url": "https://www.wpr.org/news/police-shooting-site-remains-closed-to-traffic-as-protests-continue",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 20:48:12 +0000"
+    },
+    {
+      "source": "Wisconsin Public Radio",
       "headline": "State revokes brewing license for liberal provocateur Kirk Bangstad",
       "summary": "The Wisconsin Department of Revenue confirmed to WPR that it had issued a notice of a brewer’s permit revocation for two Minocqua Brewing Company locations. The business has locations in Minocqua and in Madison.",
       "url": "https://www.wpr.org/news/state-revokes-brewing-license-kirk-bangstad",
       "image": "",
       "published": "Mon, 27 Jul 2026 20:38:24 +0000"
+    },
+    {
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin high schoolers scoring higher on AP tests, but some question why",
+      "summary": "Some teachers and experts are questioning whether students actually know more than their counterparts who graduated before them, or whether the scores are a result of the College Board changing its grading criteria for AP exams.",
+      "url": "https://www.wpr.org/news/wisconsin-high-schoolers-scoring-higher-ap-tests-some-question-why",
+      "image": "",
+      "published": "Tue, 28 Jul 2026 10:00:00 +0000"
     },
     {
       "source": "AI News",
@@ -44,20 +60,12 @@
       "published": "Mon, 27 Jul 2026 09:08:55 GMT"
     },
     {
-      "source": "Wisconsin Public Radio",
-      "headline": "Widespread damage in Menasha and Appleton area after tornado",
-      "summary": "Staff with the National Weather Service assessed the damage on Monday afternoon.",
-      "url": "https://www.wpr.org/news/menasha-and-appleton-area-hit-by-suspected-tornado",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 19:30:19 +0000"
-    },
-    {
-      "source": "Wisconsin News",
-      "headline": "Wisconsin tornado causes extensive damage and cuts power to thousands of homes - AP News",
-      "summary": "Wisconsin tornado causes extensive damage and cuts power to thousands of homes AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2hWMlZsa1RXNWpFNmxfTTdOcTl4UTU2dmQ3aUdlYjFnUkZZSXRpS3JHV2tCWVprdzFrWXJwd1M5TGFUNjUxZWNCR0RXS1R0VF9nS2ZDeTM2dDloNFVHbEtqSnBrTTk1TnotTGtMa1V1T3l3MFk1QlRvZTdBbl9pY0RvSnBfUXhGV3AyTzAtQ2x4bkVPb0R6bThYYXA2QkpGWElnUGZCMExmX19I?oc=5",
-      "image": "",
-      "published": "Tue, 28 Jul 2026 01:15:00 GMT"
+      "source": "Ars Technica",
+      "headline": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
+      "published": "Mon, 27 Jul 2026 19:18:02 +0000"
     },
     {
       "source": "BBC Technology",
@@ -66,14 +74,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
       "published": "Tue, 28 Jul 2026 07:10:37 GMT"
-    },
-    {
-      "source": "Wisconsin News",
-      "headline": "Devastating tornado in Wisconsin - NBC News",
-      "summary": "Devastating tornado in Wisconsin NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDFzc3Rwc0FJZUZtbC1Qc193SFJBWWxqcjZJNGVQYzcxdVA1Z3JIWHJiWXZ3WW1CYkl6SE1wWmpXLVoyTnVqa2NGTXExeGFwcTMtQzFXbVB5cE5CczloN0F2a1RtN0RuT0s2LVctcjBaakJGRE5seFQ1Njk3LTFTRXM1MEs2YmRSWXJsUVRFYmVYdw?oc=5",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 23:44:31 GMT"
     }
   ],
   "sections": {
@@ -103,20 +103,20 @@
         "published": "Tue, 28 Jul 2026 03:13:44 GMT"
       },
       {
+        "source": "Wisconsin Public Radio",
+        "headline": "Francesca Hong has defined Wisconsin’s Democratic primary for governor",
+        "summary": "With her democratic socialist brand of politics, Madison Rep. Franceca Hong is defining the terms of the Democratic primary for governor in Wisconsin. Mainstream Democrats are worried she would lose in November and are scrambling for an alternative.",
+        "url": "https://www.wpr.org/news/francesca-hong-democratic-primary-campaign-governor-2026",
+        "image": "",
+        "published": "Tue, 28 Jul 2026 10:00:00 +0000"
+      },
+      {
         "source": "Wisconsin News",
         "headline": "Voting has begun in Wisconsin’s primary election. Here’s how to make your voice heard. - Votebeat",
         "summary": "Voting has begun in Wisconsin’s primary election. Here’s how to make your voice heard. Votebeat",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTR5Q0ZxcGVlblpqRDVQUThGZzhzZnJncW9fRnNpUVFONXJoX1RiUzcwY21uWXlIMUoxZl9nOVFWandBRkZISE1KS1N6U3JQdFRxRldvS3lPa2s2ZVR2ZjVUbXdRX2pWRDA1UWNFTXBUYkE5OXZrczFDN2hHS1F4dEluaHExUEJaSjRyUm51ZzZ3cWFpd3dMYjRKSkV2VGdSYzc2aGFn?oc=5",
         "image": "",
         "published": "Tue, 28 Jul 2026 09:00:00 GMT"
-      },
-      {
-        "source": "Wisconsin Public Radio",
-        "headline": "Police shooting site remains closed to traffic as protests continue",
-        "summary": "Four Madison officers are on leaving pending a Wisconsin Department of Justice investigation into the fatal shooting of Corey Ruiz.",
-        "url": "https://www.wpr.org/news/police-shooting-site-remains-closed-to-traffic-as-protests-continue",
-        "image": "",
-        "published": "Mon, 27 Jul 2026 20:48:12 +0000"
       },
       {
         "source": "Wisconsin News",
@@ -251,12 +251,12 @@
         "published": "Mon, 27 Jul 2026 11:32:58 +0000"
       },
       {
-        "source": "The Verge",
-        "headline": "Tariffs didn’t bring manufacturing jobs back to the US",
-        "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade and what",
-        "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+        "source": "NPR",
+        "headline": "AI tokens could become the kilowatt-hour of the AI age",
+        "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
+        "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
         "image": "",
-        "published": "2026-07-27T11:00:00-04:00"
+        "published": "Tue, 28 Jul 2026 06:30:00 -0400"
       },
       {
         "source": "BBC US & Canada",
@@ -264,15 +264,15 @@
         "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
         "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg",
-        "published": "Tue, 28 Jul 2026 07:33:12 GMT"
+        "published": "Tue, 28 Jul 2026 10:15:47 GMT"
       },
       {
-        "source": "Ars Technica",
-        "headline": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-        "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-        "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
-        "published": "Mon, 27 Jul 2026 19:18:02 +0000"
+        "source": "The Verge",
+        "headline": "Tariffs didn’t bring manufacturing jobs back to the US",
+        "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade and what",
+        "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+        "image": "",
+        "published": "2026-07-27T11:00:00-04:00"
       }
     ],
     "work-marketing": [
@@ -347,7 +347,7 @@
         "headline": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
         "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
         "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24c/live/11347710-8a6f-11f1-b2ab-0dd01740f9f6.jpg",
         "published": "Tue, 28 Jul 2026 05:01:19 GMT"
       },
       {
@@ -391,20 +391,20 @@
         "published": "Mon, 27 Jul 2026 16:11:20 GMT"
       },
       {
-        "source": "Associated Press",
-        "headline": "Carly Simon has been diagnosed with Parkinson’s disease, treated for skin cancer - AP News",
-        "summary": "Carly Simon has been diagnosed with Parkinson’s disease, treated for skin cancer AP News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQamc4MDg5R09WUmNlYjlwQ0ZSS204bElhX0ZwWXZUdWVMa25hZVlDSkZlZEkwc0pwbWVvUnV1Ym5RMGFET1BSWlNKc0JLczBxcVlYLXJ4aWFMT0NyR0U5aDdTblJyaVhza2ZhWVZJVnQ0UGNlRTV0dXdQN3ZyRm8zTzMtRW5ITlBEQjF2UWl1dWpEVXkw?oc=5",
-        "image": "",
-        "published": "Mon, 27 Jul 2026 15:31:47 GMT"
-      },
-      {
         "source": "ScienceDaily Mind & Brain",
         "headline": "APOE2 may protect the brain from Alzheimer’s and aging",
         "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
         "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
         "image": "",
         "published": "Fri, 24 Jul 2026 02:00:15 EDT"
+      },
+      {
+        "source": "Mental Health",
+        "headline": "\"What about that violence?\" Transforming the discourse on violence in mental health research and services - Frontiers",
+        "summary": "\"What about that violence?\" Transforming the discourse on violence in mental health research and services Frontiers",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGx6YnhNSlFzRHFrMTd6RjRaY2p0SDdDYzJPOHBYQklZVDR2TGh0VmU4c3RRVVRDMjkzUlFvX0NEcGJ0N2lkR0lxcWNsM1NYazNwM3NiSlhKLUxtTktlLWtEcUkyMmlZaGZFaXhGZmhJMWhSNXJodTVlZGxESm5BN200NTZISEpCbjgxejBRRkFiUQ?oc=5",
+        "image": "",
+        "published": "Tue, 28 Jul 2026 07:59:20 GMT"
       }
     ],
     "entertainment": [
@@ -434,11 +434,11 @@
       },
       {
         "source": "Taylor Fashion",
-        "headline": "Taylor Swift's new sister-in-law talks 'magical' wedding - Yahoo Lifestyle Canada",
-        "summary": "Taylor Swift's new sister-in-law talks 'magical' wedding Yahoo Lifestyle Canada",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Deng4UTRzN0lxM1hITnFHWVZjVU1yNGV0M2dQdW1ZNHJHT2V2eG8yYmtGcENpRDduc0lJM0VtaHVzS0JnSGd0NXN5aFFfSDlmYkxjYTZqRDVkZWJwbHM2R1ZjUUpCRkgwVjRqWU5ib1B1OVRsZXRJLXgtamM?oc=5",
+        "headline": "Travis Kelce's Wedding Band Pays Tribute to Taylor Swift in a Subtle but Sweet Way - instyle.com",
+        "summary": "Travis Kelce's Wedding Band Pays Tribute to Taylor Swift in a Subtle but Sweet Way instyle.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0FvN3p4a1pUQW9hRnF4OHQ3R1FWYjBGbGR3Y1JHaXZjejVzWk82WTgtMU1lc3BDWU1UZkx6Qll5MjV4NFI5SklBR2VFemxCSU1vUnpYRmRzc1NwY0hPWHJMUVYzZVNvZWtla0RVTUNrUl9GbHU3UW5qOGk4dWM3OTMtV0xMb0d5TVBsZzdOYnBQZ2FNRDQ2RjlhWWVtRzRuN0lN?oc=5",
         "image": "",
-        "published": "Fri, 24 Jul 2026 10:00:00 GMT"
+        "published": "Mon, 27 Jul 2026 17:23:30 GMT"
       },
       {
         "source": "BBC World",
@@ -461,7 +461,7 @@
         "headline": "Odyssey translator writes scathing review of Nolan film adaptation",
         "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
         "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e39/live/98b7fd70-8a69-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg",
         "published": "Tue, 28 Jul 2026 09:45:10 GMT"
       },
       {
@@ -507,14 +507,6 @@
         "published": "Tue, 28 Jul 2026 04:23:00 GMT"
       },
       {
-        "source": "Wisconsin Public Radio",
-        "headline": "Screwworm restrictions are slowing transports of dogs and cats from crowded shelters",
-        "summary": "Animal rescue leaders say new rules meant to prevent the spread of the livestock parasite make sense. But they are also costly for overcrowded shelters in Texas, which transfer many pets to other states.",
-        "url": "https://www.wpr.org/news/screwworm-restrictions-are-slowing-transports-of-dogs-and-cats-from-crowded-shelters",
-        "image": "",
-        "published": "Mon, 27 Jul 2026 13:09:47 +0000"
-      },
-      {
         "source": "Animals",
         "headline": "Homeward bound: James City County begins initiative to improve lost pet response - Daily Press",
         "summary": "Homeward bound: James City County begins initiative to improve lost pet response Daily Press",
@@ -537,6 +529,14 @@
         "url": "https://www.smithsonianmag.com/smart-news/why-are-these-whales-floating-upside-down-they-might-just-be-moms-who-need-a-break-from-feeding-their-babies-180989184/",
         "image": "https://th-thumbnailer.cdn-si-edu.com/kvPiX4o0MVxn_gQkgaJ_iE9Lwxg=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/7f/637f114f-ffdf-48dc-b200-f219c89f63bc/upside-down-whale.png",
         "published": "Fri, 24 Jul 2026 13:39:39 +0000"
+      },
+      {
+        "source": "National Geographic Wildlife",
+        "headline": "After Hurricane Helene, the country’s tiniest turtle is even closer to extinction - National Geographic",
+        "summary": "After Hurricane Helene, the country’s tiniest turtle is even closer to extinction National Geographic",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWE5KandOYmN5bGg5MnBKYkMxQVEyeFgtM2IySmRTUGdEV2QtUlVvUHU2TlN6b05hQ1ZxazVwaHF3eFZBWXd1TmJKcGJRa05kNzFLSFVxYWZUSTgwVU1kZHBzQzI2TUJnS1gzalRLcF91aDIxUURoSlpEY3lHVGl4OXFoVW9LRFFINEdqVzhzeDY4WHk4RF95elMwcHl6V2VhMXFMZg?oc=5",
+        "image": "",
+        "published": "Fri, 24 Jul 2026 11:14:29 GMT"
       }
     ],
     "wonderful": [
@@ -563,6 +563,30 @@
         "url": "https://www.goodnewsnetwork.org/did-scientists-just-detect-the-first-known-exomoon/",
         "image": "",
         "published": "Mon, 27 Jul 2026 15:30:14 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Leopards recover in Zambia as communities swap skins for synthetics",
+        "summary": "Replacing real leopard skins with synthetic furs has helped leopards recover in western Zambia, researchers say",
+        "url": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
+        "image": "",
+        "published": "Mon, 27 Jul 2026 11:53:11 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "What went right this week: the good news that matters",
+        "summary": "The world’s roads got much safer, global hunger levels eased, and Brazil set a welcome record for deforestation, plus more",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/",
+        "image": "",
+        "published": "Fri, 24 Jul 2026 05:35:31 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "The upside of the global energy crisis",
+        "summary": "The closure of the Strait of Hormuz has brought renewed urgency to the climate solutions campaigners have long championed",
+        "url": "https://www.positive.news/society/the-upside-of-the-energy-crisis/",
+        "image": "",
+        "published": "Thu, 23 Jul 2026 12:51:47 +0000"
       }
     ]
   },
@@ -576,7 +600,7 @@
   },
   "capybara_message": "Choose one thing to protect before the world starts negotiating with you.",
   "personalization": {
-    "active_feedback_signals": 181,
-    "profile_updated_at": "2026-07-26T23:40:15.740Z"
+    "active_feedback_signals": 186,
+    "profile_updated_at": "2026-07-28T10:44:18.576Z"
   }
 }
