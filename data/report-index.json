@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-28.json",
-  "report_date": "2026-07-28",
-  "generated_at": "2026-07-28T10:44:25.783362+00:00",
-  "edition_count": 13,
+  "latest": "data/archive/2026-07-29.json",
+  "report_date": "2026-07-29",
+  "generated_at": "2026-07-29T10:20:02.569615+00:00",
+  "edition_count": 14,
   "editions": [
+    {
+      "report_date": "2026-07-29",
+      "generated_at": "2026-07-29T10:20:02.569615+00:00",
+      "path": "data/archive/2026-07-29.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "The Federal Reserve faces a critical decision on interest rates",
+        "summary": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They're expected to hold rates steady, but there's a chance they could raise rates to combat stubborn inflation.",
+        "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-28",
       "generated_at": "2026-07-28T10:44:25.783362+00:00",
