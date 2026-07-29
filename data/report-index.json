@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-07-29.json",
   "report_date": "2026-07-29",
-  "generated_at": "2026-07-29T10:20:02.569615+00:00",
+  "generated_at": "2026-07-29T10:48:04.289192+00:00",
   "edition_count": 14,
   "editions": [
     {
       "report_date": "2026-07-29",
-      "generated_at": "2026-07-29T10:20:02.569615+00:00",
+      "generated_at": "2026-07-29T10:48:04.289192+00:00",
       "path": "data/archive/2026-07-29.json",
       "top_story": {
         "source": "NPR",
@@ -15,12 +15,12 @@
         "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
         "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 71,
+      "story_count": 64,
       "section_counts": {
-        "local": 8,
+        "local": 4,
         "must-know": 8,
         "ai-tech": 8,
-        "work-marketing": 8,
+        "work-marketing": 5,
         "wellbeing": 8,
         "entertainment": 8,
         "animals": 8,
