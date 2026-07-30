@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-29.json",
-  "report_date": "2026-07-29",
-  "generated_at": "2026-07-29T10:48:04.289192+00:00",
-  "edition_count": 14,
+  "latest": "data/archive/2026-07-30.json",
+  "report_date": "2026-07-30",
+  "generated_at": "2026-07-30T10:05:34.201515+00:00",
+  "edition_count": 15,
   "editions": [
+    {
+      "report_date": "2026-07-30",
+      "generated_at": "2026-07-30T10:05:34.201515+00:00",
+      "path": "data/archive/2026-07-30.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+        "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+        "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1f/live/9a5f9640-8b56-11f1-8322-5bf52455cf04.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-29",
       "generated_at": "2026-07-29T10:48:04.289192+00:00",
