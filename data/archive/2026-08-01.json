@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T09:47:08.242834+00:00",
-  "generated_at_local": "2026-08-01T04:47:08.242834-05:00",
+  "generated_at": "2026-08-01T10:08:43.562391+00:00",
+  "generated_at_local": "2026-08-01T05:08:43.562391-05:00",
   "report_date": "2026-08-01",
   "top_story": {
     "source": "Wisconsin Public Radio",
@@ -11,14 +11,6 @@
     "published": "Fri, 31 Jul 2026 21:54:54 +0000"
   },
   "quick_scan": [
-    {
-      "source": "BBC World",
-      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8710/live/778466c0-8d4d-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "Sat, 01 Aug 2026 08:24:09 GMT"
-    },
     {
       "source": "Ars Technica",
       "headline": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
@@ -34,6 +26,14 @@
       "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "published": "Thu, 30 Jul 2026 20:57:22 +0000"
+    },
+    {
+      "source": "Good News Network",
+      "headline": "Miracle as All 11 Onboard Survive Harrowing Seaplane Crash and Fire in Puget Sound’s Frigid Water",
+      "summary": "Miraculously, all 11 souls walked away with their lives after a seaplane both crashed and caught fire in the Puget Sound. Operator Kenmore Air said in a statement that one of its planes, a de Havilland DHC-3 Otter, was on route out of Seattle with 10 passengers and a pilot when “an accident” saw the",
+      "url": "https://www.goodnewsnetwork.org/miracle-as-all-11-onboard-survive-harrowing-seaplane-crash-and-fire-in-puget-sounds-frigid-water/",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 13:00:35 +0000"
     },
     {
       "source": "Good News Network",
@@ -95,20 +95,20 @@
         "published": "Sat, 01 Aug 2026 01:23:00 GMT"
       },
       {
+        "source": "Wisconsin News",
+        "headline": "EAA Helps Wisconsin Tornado Victims With Food, Water - Aero-News.net",
+        "summary": "EAA Helps Wisconsin Tornado Victims With Food, Water Aero-News.net",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFI2ZFdwbmhxa0hFcUN1blJCRzdKTzJXdEg1UUJpcmhfNk10Ujd6Z2xGWThRaVo0M2lKY1NLbGt2YmJLZjFoR2VyY1kyeDZXZW9tY3AyOU9GYU1vTTUyc1FQZkZWemxYbWpFanRVcGkteHlYTV9hZGVpNUxSU1V2S25rdk9yaHVKWWlfOG9RTW5ucW1YZDRZ?oc=5",
+        "image": "",
+        "published": "Sat, 01 Aug 2026 09:56:15 GMT"
+      },
+      {
         "source": "Dane County",
         "headline": "Madison, Dane County leaders assess impacts of week-long encampment - WKOW",
         "summary": "Madison, Dane County leaders assess impacts of week-long encampment WKOW",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2FRU2pZVzNyRDZ2NVM2am1CUzhXNVpSSWxfaWdjNHVnUlVLeHlsUTNsLTg1MzV1aWdmVkFnck45cEhxYVRNcWlkaTJhTG9rc0p6R25QSC1hRjYyWGpZeGtORDJKRGpWM1Z2VWFsQm4yamQ4LVdIQmxpZUc1TG9jY2N2OS1hTDZsTEtyVHJ1MkQ2bEkybjZBVEtiR3lHSjc0U1ZoQjVZVEkweC1HVm5KRXlBNnhXRklNVmNyazlWU0g3RDdXa2YtVmJRaFdFNlpHUkU5eHM5TGxKQQ?oc=5",
         "image": "",
         "published": "Sat, 01 Aug 2026 03:29:10 GMT"
-      },
-      {
-        "source": "Wisconsin News",
-        "headline": "Mandela Barnes drops out of the Democratic primary for Wisconsin governor - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Mandela Barnes drops out of the Democratic primary for Wisconsin governor ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnVCTzhaUmtzTmVJdDhGV0tuWUd4ekhWc3Q2UktELWNvWWZsZU5PZzBFSGVaSWJlWHBUVDNtSkxtN21ScHZHY2M1MENNODFHb2VXSG1wa21RZnhxME5zV1pMX2R6cDVIUWpsSDM2dmpWS2RvUTg5VlJiZURURC1DMjdISHlQYnRIVlpzUGhkaGJxQ0V5dlJISXl4UnlVNDFyVlBkMjhHOVc0dDjSAbABQVVfeXFMT09qUERnMnZVd2tGU0JiT0xvY3IwVkRFWTA1V2t3UUstdkdJZUFHVUNNLUl2eUhiMVZFNkxMdkQ3cGJaSmtHVHkyekRsVVEweWRlZFd6QUh3aWJWZTNESWd1TUZ0ZVhjU0tkSFZjSkZMTU5GV2d5THlIeGtoV2NVNVBEWFZZR1ljN2QxZjRZQWlJLTFLYU5tSElfR3ZsZTEzcW5fWDB6cUNuTGMzdjB2bHo?oc=5",
-        "image": "",
-        "published": "Sat, 01 Aug 2026 02:48:11 GMT"
       },
       {
         "source": "Madison Local",
@@ -185,6 +185,14 @@
         "published": "Sat, 01 Aug 2026 05:00:00 -0400"
       },
       {
+        "source": "Associated Press",
+        "headline": "As heat and dry conditions fan wildfires in France, volunteers fan out to help - ABC27",
+        "summary": "As heat and dry conditions fan wildfires in France, volunteers fan out to help ABC27",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0JXeEV5QmktTDZhNjFBRzZCNWlmUkdWR1BZbGYySEEtYkFEWGF2dzZHOUhtTi1rQnAyZnMxTXJKSzFFVkdPbm44a1YtVDdaM01pMW5JMUhOQVRRbDBRX2RrcWJVOE5vOFFpVFlLajV4MXFxVjkyZzVXVWJNU2FLamlEekY2M3BHekNWUmJGbGxTZHhhNlZiWFNzU1Z1ZU5lVXNEZndHQUZKdWUwSkZmWFRUZUZNVlM2eGhjZ21iUnVRQkI4SEZkeEw5S0xGOG8zNU1j0gHYAUFVX3lxTE5HSWVJRElWRHJJWXZzX3BTNDZSbG55c2JUUjRIdS04ckFzY2VMRWpVeGF1RE9LUV8wcG1CRUJ4RHg5VGE5MXZoSWRHTmpuNVZONExRekpQdng3eHh6aHYwRzduZDFDRWNOWE5salcwSU03NkQyVlU2N0JvSEsySWx1LWtfTXJYRTZSVmtvUFJnUGd0dk9zeDhlMXR5dy1GUGZIMWpadUxEX1JiOGJKUFVLUUhkNlFlN2hVWEc1VlBGQU11U205d3VPb3I2WWlMbmctNHdPeXdGUQ?oc=5",
+        "image": "",
+        "published": "Sat, 01 Aug 2026 05:15:32 GMT"
+      },
+      {
         "source": "Reuters",
         "headline": "U.S. President Donald Trump holds a meeting of the FIFA Task Force in Washington - The Lufkin Daily News",
         "summary": "U.S. President Donald Trump holds a meeting of the FIFA Task Force in Washington The Lufkin Daily News",
@@ -199,14 +207,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2d/live/8019a5e0-8bfc-11f1-a52a-dba993a97936.jpg",
         "published": "Thu, 30 Jul 2026 10:34:07 GMT"
-      },
-      {
-        "source": "Associated Press",
-        "headline": "Rams won't know more about Aaron Donald's possible return before breaking camp, McVay says - AP News",
-        "summary": "Rams won't know more about Aaron Donald's possible return before breaking camp, McVay says AP News",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWZESGxlS1hDbVVsTUNQb0huQU9YZHRhMFoyWm9PWHlacjJiN3ZZZm04Y3ViMVJLdWpnZG54SVN0b1pxVU0yb002cnhfTGVNZVc0MElWZmhfNUNlbktJUzNwbHJ2QWU0Z1NJT1RyMm0zRnhidFdPaDZNTDdZZmh3LVZYWQ?oc=5",
-        "image": "",
-        "published": "Sat, 01 Aug 2026 02:05:00 GMT"
       }
     ],
     "ai-tech": [
@@ -367,14 +367,6 @@
         "published": "Fri, 31 Jul 2026 21:20:13 GMT"
       },
       {
-        "source": "Reuters",
-        "headline": "India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution - Reuters",
-        "summary": "India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXVwejFaV2RNdEk1ZkVkVlUxY0JSeTRRMDRzMnowWmtyUm1uU1ZmQUpnV09maHl6NW0tTmhKZ3pFTnFnNUxGdmQyUWdUcUJXS05aQTNtNXlQU29udlQtNTZXVkd6c2tHSmsxWkhaRTFEOWczMm95aWxTdjVGNUNnYktOdlNNa29LRU9jNWp0MUJaa1k3WUdlQldaRDI1dlNKcER0dWFZWlVzNlp1WXBoQmpiWkhKVXpVak5na3J0VU1yOUcw?oc=5",
-        "image": "",
-        "published": "Fri, 31 Jul 2026 15:28:02 GMT"
-      },
-      {
         "source": "BBC Health",
         "headline": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
         "summary": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
@@ -405,6 +397,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzVCVkxYVnRBSVprZnlnd0FGTTdIN2hqbEllVTlsbUk2V3J3TXQyN285WGFqS2p5VXJOUVV3aEowN0M2R2liaGpTUU9hci1jUXRtbU1uZG03Y09ZTm1XSGNNakFHTkJMdWVvSVVHQTdYUVd0bDVDVjVhZ29FakZhNm94VXJ2M1U2djlEV1NVN2RUQWlBTnQ5M0tGbTMzUXQ2ZDRfSkhtNlVwTTA?oc=5",
         "image": "",
         "published": "Fri, 31 Jul 2026 22:20:28 GMT"
+      },
+      {
+        "source": "Medical Xpress",
+        "headline": "Newly identified mitochondrial plaques provide potential therapeutic target for Alzheimer's disease - Medical Xpress",
+        "summary": "Newly identified mitochondrial plaques provide potential therapeutic target for Alzheimer's disease Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeF9sQW1jN09LTkpZLThYbkpnX3lBdmhEUkhPRUZLUWZ5cll4STZwdVpoTnFSWFNqZHAtcDNqbmx0bGo2MlpxRzRRSGpyblBnTDJwOVdxdG52SkMwSHozNktFMWhEVlNVWWR6ckh0MlB2ZFFvLU9EdF9JNUV4ZXlVUTFkV2RVRVhrYWtfcXRNb2pjMEJORmZaNQ?oc=5",
+        "image": "",
+        "published": "Fri, 31 Jul 2026 16:20:01 GMT"
       }
     ],
     "entertainment": [
@@ -491,6 +491,14 @@
         "published": "Sat, 01 Aug 2026 05:30:00 +0000"
       },
       {
+        "source": "Wisconsin Public Radio",
+        "headline": "Endangered piping plovers are rebounding in Green Bay thanks to local conservation efforts",
+        "summary": "This is the 10th year of the rare birds nesting on the restored Cat Island after more than 75 years of absence.",
+        "url": "https://www.wpr.org/news/endangered-piping-plovers-rebound-green-bay-conservation-efforts",
+        "image": "",
+        "published": "Sat, 01 Aug 2026 10:03:00 +0000"
+      },
+      {
         "source": "Smithsonian",
         "headline": "Archaeologists Discover Two Thumbnail-Size Bird Sculptures Carved From Mammoth Ivory 40,000 Years Ago",
         "summary": "Measuring less than an inch long, the figurines were buried beneath Germany's Hohle Fels Cave, where some of the world's oldest known figurative artworks have been found",
@@ -500,19 +508,11 @@
       },
       {
         "source": "Animals",
-        "headline": "Pawan Kalyan's wife adopts Elephant, Tiger at Vizag Zoo - Awaz The Voice",
-        "summary": "Pawan Kalyan's wife adopts Elephant, Tiger at Vizag Zoo Awaz The Voice",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1BKYkwxYXB5NXE3QzR2eDNnMDRYSU82ZVh0UU9CV21NYjJoV18zaHgtdkM0VHJKYWVXeXc3UEp2RmpDNXNacjVGejN4ZW16MHB3Y2lnTTN0eE5fS0ROXy1oaVM2R3BGRjE1RnhZOTVSOVB1dFFPSVlFTUxOVzQzc2V1MUV2LUNfX3Yza1FZNnpJUXlqVlBiNWtQOGFtY1JsaDF5cXNUbw?oc=5",
+        "headline": "‘Wild Inside’ a heartfelt animal doc of freedom, flight, found family - Oklahoma City Free Press",
+        "summary": "‘Wild Inside’ a heartfelt animal doc of freedom, flight, found family Oklahoma City Free Press",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmtyWkQyamxFcElYYV8yUGIyTlZfaTNsRVFYV1hqN0VDbF9MZDNKQ1FqMGM1eGVOTUVyWkotWHRma1ViWEMyYmpyaVZUdV9hZFkxTnhGbDRrM0hRdi11b3FOUEozTEM5RDlocVYzWGRodWxTTTlyTTMxQlVJOFlycWJleDdvNUVjM3NMNDVwSVR0bHZVUXc?oc=5",
         "image": "",
-        "published": "Sat, 01 Aug 2026 05:38:07 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "Pawan Kalyan’s wife Anna Konidela adopts jumbo, tiger - The New Indian Express",
-        "summary": "Pawan Kalyan’s wife Anna Konidela adopts jumbo, tiger The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXBZOUdxYjdrTzV4bVpETmJ4a3pDc2JjeEVLajJtR0F0dm1OMGZQWmc1MF82SFhWLXA3b2d0eVhCQWM2WENqcG1JZ1NtNkEwbGpHNjFmeXdfcGJDSUh0S2tXOVJjTXhIdzlDLWE1bmJqM0lSd0FXVGZqWm1qbGx1c1hYZ3NPaHNtcmR1NW1mOS0xMEFPU2dmLVM0UGZFUm04dThrYm5IUXcwdWNic0RWNWQ1VUx3dkc3a0E?oc=5",
-        "image": "",
-        "published": "Sat, 01 Aug 2026 03:48:45 GMT"
+        "published": "Sat, 01 Aug 2026 01:10:20 GMT"
       },
       {
         "source": "Smithsonian Animals",
@@ -532,11 +532,11 @@
       },
       {
         "source": "Animals",
-        "headline": "Carroll County Animal Protection League places 22 pets in first six weeks - Your Ohio News",
-        "summary": "Carroll County Animal Protection League places 22 pets in first six weeks Your Ohio News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0Nhc3BnU0JPYl9UajNUR3BxMmZqdFFZaW5fV3ZhXzIzMEgzS0FZQjhHMkg0a2FVNURSdWVNNHNaMVlhd3ZUZFlPZHhCa3JfMmdtS3hPcjVORFZLSDJrUFNTeVFWbkw5ZjJvejNFN2RsdFRTWEg1WDgySjl2eEs4b0FpRW1NSndEUkFLNEgzcXBMV1RxdkZOd1pBZDZ6M0RM?oc=5",
+        "headline": "Lewis Clark Animal Shelter Maintains 96% Save Rate, Retains No-Kill Status - Dailyfly News",
+        "summary": "Lewis Clark Animal Shelter Maintains 96% Save Rate, Retains No-Kill Status Dailyfly News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc08wNGFKVEprSlpMT2Y5M1VPbFpZdDdqU0FaSnJ2UGlQVWRfQlVJWkpCNnhmTlNYTVA5MVlZc2dqdEQzcTRPT3V6VTR5MkFzOXR4U0lVVWNaaENHaV9vMzZWZ185WTYzUDNyekJIN0FQVjZUYm9zRnRsV0hTNlF4cmEtbVlKZ3RQSGR1Y2JaQzZ2ajBsNDNZMWN3TEFJRUVHLTlwTHZESkM1a3U0S3c?oc=5",
         "image": "",
-        "published": "Fri, 31 Jul 2026 21:12:28 GMT"
+        "published": "Fri, 31 Jul 2026 22:19:05 GMT"
       }
     ],
     "wonderful": [
@@ -549,22 +549,6 @@
         "published": "Fri, 31 Jul 2026 15:30:21 +0000"
       },
       {
-        "source": "Good News Network",
-        "headline": "Organizations Rally to Reunite Lost Pets with Owners Following Earthquake in Japan",
-        "summary": "An inspiring story of solidarity between pet owners comes from Japan, recently rattled by a magnitude 7.1 earthquake. In the wake of the disaster that destroyed homes and claimed over 3 dozen lives, an organization that acts as a digital hub for lost pet notices has amplified the signal of these notices, and worked to",
-        "url": "https://www.goodnewsnetwork.org/organizations-rally-to-reunite-lost-pets-with-their-owners-following-earthquake-in-japan/",
-        "image": "",
-        "published": "Fri, 31 Jul 2026 18:30:05 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "Miracle as All 11 Onboard Survive Harrowing Seaplane Crash and Fire in Puget Sound’s Frigid Water",
-        "summary": "Miraculously, all 11 souls walked away with their lives after a seaplane both crashed and caught fire in the Puget Sound. Operator Kenmore Air said in a statement that one of its planes, a de Havilland DHC-3 Otter, was on route out of Seattle with 10 passengers and a pilot when “an accident” saw the",
-        "url": "https://www.goodnewsnetwork.org/miracle-as-all-11-onboard-survive-harrowing-seaplane-crash-and-fire-in-puget-sounds-frigid-water/",
-        "image": "",
-        "published": "Fri, 31 Jul 2026 13:00:35 +0000"
-      },
-      {
         "source": "Positive News",
         "headline": "A new measure of courage: how Maasai warriors became lion guardians",
         "summary": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist",
@@ -573,12 +557,20 @@
         "published": "Wed, 29 Jul 2026 10:02:57 +0000"
       },
       {
-        "source": "Positive News",
-        "headline": "What went right this week: the good news that matters",
-        "summary": "Scientists flew into the heart of 'fire clouds', Finland cut emissions with a sand battery, and food banks turned waste into millions of meals, plus more",
-        "url": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
+        "source": "Good News Network",
+        "headline": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+        "summary": "Our partner Rob Brezsny, whose latest book is Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob’s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications. He is also the author of Pronoia Is the Antidote for Paranoia:",
+        "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-1-2026/",
         "image": "",
-        "published": "Fri, 31 Jul 2026 08:28:22 +0000"
+        "published": "Sat, 01 Aug 2026 10:00:11 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Organizations Rally to Reunite Lost Pets with Owners Following Earthquake in Japan",
+        "summary": "An inspiring story of solidarity between pet owners comes from Japan, recently rattled by a magnitude 7.1 earthquake. In the wake of the disaster that destroyed homes and claimed over 3 dozen lives, an organization that acts as a digital hub for lost pet notices has amplified the signal of these notices, and worked to",
+        "url": "https://www.goodnewsnetwork.org/organizations-rally-to-reunite-lost-pets-with-their-owners-following-earthquake-in-japan/",
+        "image": "",
+        "published": "Fri, 31 Jul 2026 18:30:05 +0000"
       },
       {
         "source": "Positive News",
@@ -587,6 +579,14 @@
         "url": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
         "image": "",
         "published": "Thu, 30 Jul 2026 05:00:28 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "What went right this week: the good news that matters",
+        "summary": "Scientists flew into the heart of 'fire clouds', Finland cut emissions with a sand battery, and food banks turned waste into millions of meals, plus more",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026/",
+        "image": "",
+        "published": "Fri, 31 Jul 2026 08:28:22 +0000"
       }
     ]
   },
