@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-07-31.json",
-  "report_date": "2026-07-31",
-  "generated_at": "2026-07-31T10:50:00.169192+00:00",
-  "edition_count": 16,
+  "latest": "data/archive/2026-08-01.json",
+  "report_date": "2026-08-01",
+  "generated_at": "2026-08-01T09:47:08.242834+00:00",
+  "edition_count": 17,
   "editions": [
+    {
+      "report_date": "2026-08-01",
+      "generated_at": "2026-08-01T09:47:08.242834+00:00",
+      "path": "data/archive/2026-08-01.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Democratic leaders look to reassure voters amid probe of Milwaukee’s 2020 election results",
+        "summary": "With mail-in voting under scrutiny and two weeks out from Wisconsin’s midterm primary elections, U.S. Sen. Tammy Baldwin, D-Madison, on Friday toured Milwaukee’s elections operations center in an effort to promote voter confidence.",
+        "url": "https://www.wpr.org/news/tammy-baldwin-cavalier-johnson-milwaukee-votes-elections",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-07-31",
       "generated_at": "2026-07-31T10:50:00.169192+00:00",
