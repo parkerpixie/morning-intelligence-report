@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-01.json",
-  "report_date": "2026-08-01",
-  "generated_at": "2026-08-01T10:08:43.562391+00:00",
-  "edition_count": 17,
+  "latest": "data/archive/2026-08-02.json",
+  "report_date": "2026-08-02",
+  "generated_at": "2026-08-02T09:45:13.295840+00:00",
+  "edition_count": 18,
   "editions": [
+    {
+      "report_date": "2026-08-02",
+      "generated_at": "2026-08-02T09:45:13.295840+00:00",
+      "path": "data/archive/2026-08-02.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-01",
       "generated_at": "2026-08-01T10:08:43.562391+00:00",
