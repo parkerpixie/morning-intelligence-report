@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-02.json",
-  "report_date": "2026-08-02",
-  "generated_at": "2026-08-02T10:06:24.238775+00:00",
-  "edition_count": 18,
+  "latest": "data/archive/2026-08-03.json",
+  "report_date": "2026-08-03",
+  "generated_at": "2026-08-03T10:59:36.282788+00:00",
+  "edition_count": 19,
   "editions": [
+    {
+      "report_date": "2026-08-03",
+      "generated_at": "2026-08-03T10:59:36.282788+00:00",
+      "path": "data/archive/2026-08-03.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+        "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+        "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbc/live/ec11f440-8e55-11f1-b8ee-9b3c26ad07bb.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-02",
       "generated_at": "2026-08-02T10:06:24.238775+00:00",
