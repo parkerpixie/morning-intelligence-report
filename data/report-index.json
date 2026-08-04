@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-03.json",
-  "report_date": "2026-08-03",
-  "generated_at": "2026-08-03T11:41:37.758661+00:00",
-  "edition_count": 19,
+  "latest": "data/archive/2026-08-04.json",
+  "report_date": "2026-08-04",
+  "generated_at": "2026-08-04T10:19:37.292092+00:00",
+  "edition_count": 20,
   "editions": [
+    {
+      "report_date": "2026-08-04",
+      "generated_at": "2026-08-04T10:19:37.292092+00:00",
+      "path": "data/archive/2026-08-04.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "At event with FBI director Kash Patel, Van Orden calls for fighting fraud",
+        "summary": "FBI Director Kash Patel was in Eau Claire Monday for a fireside chat with local law enforcement hosted by Republican Congressman Derrick Van Orden. Patel is the 10th member of President Donald Trump's administration to appear with Van Orden as he seeks reelection in a race Democrats see as key to flipping Republicans' slim U.S. House majority.",
+        "url": "https://www.wpr.org/news/fbi-director-kash-patel-van-orden-calls-for-fighting-fraud",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-08-03",
       "generated_at": "2026-08-03T11:41:37.758661+00:00",
