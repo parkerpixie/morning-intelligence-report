@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T10:19:37.292092+00:00",
-  "generated_at_local": "2026-08-04T05:19:37.292092-05:00",
+  "generated_at": "2026-08-04T10:48:53.577060+00:00",
+  "generated_at_local": "2026-08-04T05:48:53.577060-05:00",
   "report_date": "2026-08-04",
   "top_story": {
     "source": "Wisconsin Public Radio",
@@ -44,14 +44,6 @@
       "published": "Mon, 03 Aug 2026 23:45:00 GMT"
     },
     {
-      "source": "Wisconsin Public Radio",
-      "headline": "Wisconsin Rapids’ historic paper mill site could become a data center. Residents aren’t happy.",
-      "summary": "The mill, which opened in 1894, was Wisconsin Rapids' largest employer and its identity for more than a century. It closed amid the pandemic in 2020 after years of decreasing demand for the specialty glossy magazine paper it produced.",
-      "url": "https://www.wpr.org/news/wisconsin-rapids-historic-paper-mill-site-could-become-data-center",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 22:36:00 +0000"
-    },
-    {
       "source": "AI News",
       "headline": "Trump Administration Calls OpenAI, Anthropic, Google to White House for AI Safety Framework Talks - bloomingbit",
       "summary": "Trump Administration Calls OpenAI, Anthropic, Google to White House for AI Safety Framework Talks bloomingbit",
@@ -66,6 +58,14 @@
       "url": "https://www.smithsonianmag.com/smart-news/after-receiving-a-custom-experimental-medicine-a-teen-with-a-rare-genetic-disorder-walked-on-his-own-for-the-first-time-180989230/",
       "image": "https://th-thumbnailer.cdn-si-edu.com/0x9rfhQuv4Tdn4Hj9jQsLR1JWwc=/420x240/filters:focal(4000x2019:4001x2020)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/5b/e05b0a8b-12f1-441c-9500-d02666f67670/epilepsy-med.jpg",
       "published": "Mon, 03 Aug 2026 17:31:49 +0000"
+    },
+    {
+      "source": "Animals",
+      "headline": "Wildlife finds haven anew in Mahagnao Volcano Natural Park - Philippine Information Agency",
+      "summary": "Wildlife finds haven anew in Mahagnao Volcano Natural Park Philippine Information Agency",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcG9XTVpNUFJ1bHZobHdpcGhTN2ExYmdPY0kzZjlMakstVGlvUTNuQlhHdEo2QlZ2WTdPa09fd1BxMEZyNnBTSW5YQlFqX2t3eXNMakVxOHFSaXdvTkloUEVlZklmMHVjcGRwYlhnLW9jZGVtNEVxdXhXT2ZnTG4yVzRKNmh6cVZEOXJlMXNINVY?oc=5",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 07:16:45 GMT"
     },
     {
       "source": "Animals",
@@ -119,7 +119,7 @@
         "published": "Tue, 04 Aug 2026 10:00:00 +0000"
       },
       {
-        "source": "Wisconsin News",
+        "source": "Madison Local",
         "headline": "Madison Mallards Defeat Wisconsin Rapids Rafters in 10-Inning Thriller - northwoodsleague.com",
         "summary": "Madison Mallards Defeat Wisconsin Rapids Rafters in 10-Inning Thriller northwoodsleague.com",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2pCSnp6Z0FHZlB0dElfSmR1eFpCRW5BblBXcUFQV3VqOTFYSlhIWERuMHJXcDZnVk41Vk9UaTk0QmotSnZsd0dHX0lvZFdFbTR0M3ZCZ2tfUHlEbXJIM1hqQ1h6UDBnSEVmcko3cVZtdzF0NG5uQlZpem1vcEZyc3kxVlNSTzV2SjlyZm90dVNiNllDc0haYlRNMUhlMGlNTVFVX3NyUE1ZSkFDZURiejhXNkpQLUlpMFd5LXRuNGR1VWFyNVhv?oc=5",
@@ -186,6 +186,14 @@
       },
       {
         "source": "Reuters",
+        "headline": "India's Odisha state warns iron ore miners, steelmakers over grade manipulation - Reuters",
+        "summary": "India's Odisha state warns iron ore miners, steelmakers over grade manipulation Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjktZmdiVHExc1dHNEN6R3lycVh6MHFBVjF6SFQza19hUTNwRXJ5dGN5RUFEMl9wTG81YnpSWkFwWXk5WHJoaEdFNEVFMGg1bzVwUThvY05pY0dVVl9ZMWFXQ2IzTjMweXFObVNjXzhCS1BmNUs2S0tGTTJqeWZZTzREa0RtWkJ5bEtJMDJuZHFrVkhiOVBEcFpkQ0RlQkVVTW11ZjRfbXVVTVU0QkFNbWJjeXcxUkM4azV4dnVJWjNVVms?oc=5",
+        "image": "",
+        "published": "Tue, 04 Aug 2026 07:14:09 GMT"
+      },
+      {
+        "source": "Reuters",
         "headline": "Ukraine war briefing: Military’s former top commander says Kyiv has no chance of joining Nato - The Guardian",
         "summary": "Ukraine war briefing: Military’s former top commander says Kyiv has no chance of joining Nato The Guardian",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnM5MEtTeFRpOVA0ME1RU3FlUXdxR0NXOVprR19kOXdnLTkwQm9kc0tQNzc0MU1GT0ZDOXRYTXptMnd0NlY0RzBRdTN6c3BhMHpsd3F0bjFsVzVIM3FWeUQ3akwtSzJnRjhoRUFKa3VjcnlValpicmF1LUlpQlFlRUNZeTNVNDY0Z3ZpYjdRREFjcG5qTW8wZEd4eERVb0c5QkRhbnBnSTBmTUFOOGJrVURPYjE4S19sWWJGVngwQ3pvTUJFZW5PZW1rQzBMYTJQby04?oc=5",
@@ -199,14 +207,6 @@
         "url": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
         "image": "",
         "published": "Tue, 04 Aug 2026 02:59:01 -0400"
-      },
-      {
-        "source": "Associated Press",
-        "headline": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires - AP News",
-        "summary": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires AP News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
-        "image": "",
-        "published": "Tue, 04 Aug 2026 04:26:00 GMT"
       }
     ],
     "ai-tech": [
@@ -228,11 +228,11 @@
       },
       {
         "source": "BBC World",
-        "headline": "What is Trump Media's Truth API and why is it controversial?",
+        "headline": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
         "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
         "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8b7/live/86169830-8fe0-11f1-bb3b-43bf44dc94d9.jpg",
-        "published": "Tue, 04 Aug 2026 09:40:47 GMT"
+        "published": "Tue, 04 Aug 2026 10:34:45 GMT"
       },
       {
         "source": "AI News",
@@ -251,20 +251,20 @@
         "published": "Mon, 03 Aug 2026 13:33:56 +0000"
       },
       {
-        "source": "AI News",
-        "headline": "OpenAI, Anthropic, Google to join White House AI safety meeting - BusinessLine",
-        "summary": "OpenAI, Anthropic, Google to join White House AI safety meeting BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0F5TllrSjlKMENIZk5qZlBfTkU5UWNHcjlRYzlWdHIwd3hFcS1KMzNtZzlZU2xQWjBiNmNQM01pazZzQ1dQcjRtZlpfTjdTSDBFUmVWNzFIZnlRSmJ6SHM1eEotZXBNbXI4a1lxdHpuUEN1cUYxYUx1UElhdXNLbktZTU9wSWV3V2VQNG5yUjZsckFhSHV2SFc2ZnZ4dC1MX0xFbmZ2RmNCUWhYN3l0d1ZDdDZpN1pIeWJsb1VkeF93SkZpU1RB0gHOAUFVX3lxTE9DdFpPQ25sRzVhMXZLZEllNzJSRHNqZ2tBc1Vpc0pGamYwMzZTcmxVUFBFbFJXZUx2MFRYdDVPRHAtd2RKX2lPTjd4V09ESG83cFdiY2Q4LW1HZEdzbjlhMENIXzlSUElBUjJFRTNtZTE0aTNYZFZXMWhsYkpnTnlyTFAxNWRWUXFxS29obE4weFo3QmxtSFl4N0NyOXpZSERiS2I1SkEtdlRGRWUwejhKZ29PTmRBb3B2NzFCb1h2dHdMT3lUMV9LbHBvV1lR?oc=5",
-        "image": "",
-        "published": "Tue, 04 Aug 2026 04:03:15 GMT"
-      },
-      {
         "source": "Smithsonian",
         "headline": "To Recover Artworks Looted by the Nazis, Researchers Are Getting Creative, With New Strategies Including an A.I. Chatbot and a Campaign of 'Wanted' Posters",
         "summary": "University researchers hope their new artificial intelligence chatbot makes provenance research easier and more accessible",
         "url": "https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/",
         "image": "https://th-thumbnailer.cdn-si-edu.com/NbIGOKwLJNXBA7mWKqeWhIIoMYk=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/65/2c6578ec-9446-445d-a687-13c11766fd9b/20aeb8493decd864fed61c47c4df237c-l.webp",
         "published": "Mon, 03 Aug 2026 21:33:15 +0000"
+      },
+      {
+        "source": "AI News",
+        "headline": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting - The Indian Express",
+        "summary": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUp2M2hOTzJQRF9VRHlicHowWkJOalZKYXlyYVc0N1REOHB6aEZ0ZFlLb2J4bUJiODJYSEdod1p0ZkNONnQyeThxUjBfNDRXd091V3h6eG9xVlp3aUdDQ2VuVFZYLTZ4NEpnTzlFRHhlWTNpQkVKaDd4Z25uaUV6OENnS0dBZlB3NEdyam5oZFNlemswVkdxRm1Nbk1yNHpxblh1ekNrM05tdk5IaDhwRkxMSEJoX0hWd2U1WlJRNWRvd2NhVVZCZNIBzwFBVV95cUxPZkQ3a1g2OHJqdmU0QTYwVkpKX1dhYjRhclNWV2VKcnF4WUNzZGFwemhIN1JMS09uU3NvTm9XZk5wNjB3aV9tbXlZencyaFdwTmoxbng5QmtWbVA3UTBPbHNTNFdRbVZ0TTZxZUEyWGhweHp0eTdBYjM0SERpbU5UUzJuS252alFFdjBkcWN4XzlIOHR1c05MSF9uZVF6Tjc1U1NPWHJZbzBXOS1mSG9LSG0wMWpXY3dUV2dDeEtmVWZ0b2FSdGJWNWQyWEJJc0U?oc=5",
+        "image": "",
+        "published": "Tue, 04 Aug 2026 02:31:25 GMT"
       },
       {
         "source": "AI News",
@@ -276,6 +276,14 @@
       }
     ],
     "work-marketing": [
+      {
+        "source": "Variety",
+        "headline": "‘Spider-Man: Brand New Day’ Dominates U.K. and Ireland Box Office With Massive Launch",
+        "summary": "Sony’s superhero blockbuster “Spider-Man: Brand New Day” stormed to the top of the U.K. and Ireland box office, recording an opening frame of £36.4 million ($48.9 million). The total marks the third-highest opening in U.K. history, trailing only “Avengers: Endgame” ($58.3 million) and “Spectre” ($55.5 million). Across its pure three-day weekend (Friday–Sunday), the web-slinger collected",
+        "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-uk-ireland-box-office-1236827406/",
+        "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP128.jpg",
+        "published": "Tue, 04 Aug 2026 10:27:10 +0000"
+      },
       {
         "source": "Adweek",
         "headline": "ADWEEK's 2026 Tech Stack Awards: Because Data Is Only as Good as Marketers' Ability to Act On It - ADWEEK",
@@ -291,6 +299,14 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUN5UHM5RmJpQjAwNWxFSEUtVHZUalJLTE9tbmprU0lqZE5TWkZQT3QzcnA4OHhfOHI5R19CX1M5dGZYSGxtZXV6RnZaZlRKSFBoUENPU1lOcnM4TDhvb2pqU1NPOVZrcnhGc0N4cE9sVFNDV2R6dlZQTmstYlFWeU1jTDRrdGVBOUJqMkhSY3IwdHZHckJZdWo1RDB5cWdBN2ozaFB3RE5EVG5CVWtwSy11QkNZN3lLanE5N2NEMkVybC00WDJr?oc=5",
         "image": "",
         "published": "Mon, 03 Aug 2026 22:30:03 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "The sneaky economics of healthwashing",
+        "summary": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
+        "url": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+        "image": "",
+        "published": "Tue, 04 Aug 2026 06:30:00 -0400"
       },
       {
         "source": "The Verge",
@@ -323,22 +339,6 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWNuc09fUWppekRsQlJHbTVPNi1Ld01aNEdxVnBVbThhLTJzUFlIZjVFVkJYTlJOcGlmYXdKN3lSbDFoLVJlblFwbGFsTjJoV19ZUWRxbGVKU05WMUpQX2hINHVRQkdwYmhyVl9yYnlXM0JHWjFNX0pmR2JiaEZVemU0MDRkTmx4bWNNb3V5dE9nRzBfenpLR1ItaF80UQ?oc=5",
         "image": "",
         "published": "Mon, 03 Aug 2026 23:34:48 GMT"
-      },
-      {
-        "source": "Salesforce",
-        "headline": "Salesforce gives Professional Education resources to streamline student support - The University of Utah",
-        "summary": "Salesforce gives Professional Education resources to streamline student support The University of Utah",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1pvS1ROb2JuZmtCTnhoZ2VIZ1NmcnFwSnhjWDhmSFBVeGFJRVdZVndDSURPSG5DbzhGYXRrYVc2LWJkVzVvX1ZDcXNranBPcHhhY3ZmYnh3NnhoSWk2WEcwYkhJT1ROQUFjU0xCUWo4Q0ppaS1GN1JLWWx4SU0ya21Bbk1XLWIyT0VjMDhWUS04Y183di1HOUdGc1Fxc2tseWUtMlBkTXlmX1lvRTV5eVVKRkpzTjVk?oc=5",
-        "image": "",
-        "published": "Thu, 30 Jul 2026 15:55:09 GMT"
-      },
-      {
-        "source": "Search Engine Land",
-        "headline": "Google expands Data Manager API with smarter audience management - Search Engine Land",
-        "summary": "Google expands Data Manager API with smarter audience management Search Engine Land",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVlmNm9yTEZpcmdicUNSVEFCbnRFc3JIWlpJYTJtS2pCWmo4dWRORkRaTFg2NXRmbU1nbmpIRFVXY0FyRmUybmt6amoyLXRaQmlKZmtEdTF5TjZJSFFjaFZobjhxSjVaNVRkZzl1XzI1cjRBU3hYaXAyUWctV3JGTjE3TTdlNFlFSXFhbElOd0Z0Wkd0TVRRZFdSc3Zfd3ZGa2c?oc=5",
-        "image": "",
-        "published": "Mon, 03 Aug 2026 18:30:00 GMT"
       }
     ],
     "wellbeing": [
@@ -483,6 +483,14 @@
         "published": "Tue, 04 Aug 2026 08:22:57 GMT"
       },
       {
+        "source": "BBC Entertainment",
+        "headline": "Greg James shares his heartbreak after death of dog Barney",
+        "summary": "The Radio 1 presenter said his beloved pet had to be put to sleep in the garden of his home.",
+        "url": "https://www.bbc.co.uk/news/articles/cq56001ywnyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5f/live/a56f4fc0-8fee-11f1-a10e-47119dd4425c.jpg",
+        "published": "Tue, 04 Aug 2026 10:39:23 GMT"
+      },
+      {
         "source": "Animals",
         "headline": "IFAW supports emergency animal response after Venezuela earthquakes - International Fund for Animal Welfare | IFAW",
         "summary": "IFAW supports emergency animal response after Venezuela earthquakes International Fund for Animal Welfare | IFAW",
@@ -529,17 +537,17 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEQ1UEZkTzR2ZU9CZGh5OGQ5S1NDcU5oSDNOMVlWWk11UkZoRHhpQktBVEtOV1FQYV9ZS01vcmp6OVg2VHM1cm4zc1dLdmZPX0FKZGhLcjdCU1Jvc0Qwdm91cnFqWlh1cklmWmlFeHNCaE5uaUg5WkpHd0YtLWJZLXZRc2pENzQ?oc=5",
         "image": "",
         "published": "Mon, 03 Aug 2026 18:28:20 GMT"
-      },
-      {
-        "source": "National Geographic Wildlife",
-        "headline": "Quiz: How well do you know these weird and wonderful species? - National Geographic",
-        "summary": "Quiz: How well do you know these weird and wonderful species? National Geographic",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3lJVjc2TVVCcGs4R1h0M08xNWx5UFJzS2kxSnJNQnNjMXZRMU11bVpucHMwY2k1ejlqWkdZZjhxM3Rzd2I1UkJMblhNS2w1NFk4WF9id3praHdJVV9WR0J6Q2xkaWdDZXRma3dpdFI1c29Qc3drZjVFNFIzR0VLNVRyYXN6MXNHMmVDc2hrSTRxUmNlS0VpOWRCa0xPalZtdkFiVG5ZWQ?oc=5",
-        "image": "",
-        "published": "Mon, 03 Aug 2026 15:17:57 GMT"
       }
     ],
     "wonderful": [
+      {
+        "source": "Positive News",
+        "headline": "A new measure of courage: how Maasai warriors became lion guardians",
+        "summary": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist",
+        "url": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
+        "image": "",
+        "published": "Wed, 29 Jul 2026 10:02:57 +0000"
+      },
       {
         "source": "Positive News",
         "headline": "Will regeneratively grown food become mainstream?",
@@ -558,8 +566,8 @@
       },
       {
         "source": "Wonderful News",
-        "headline": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! - KTVN",
-        "summary": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! KTVN",
+        "headline": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! - 2news.com",
+        "summary": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! 2news.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS1hYek9SQWtPLVhTVERrV29GM0g5bEw2dXcteEFTczVvZWtMUlFqc1ZxWVJjbTRmMEVrYU1FbFRBVFBRb2VvOTlJSUUwM0NRVVZnemYxY25hbS1mMzlJZGxpemsxbm51elQ3WG5nSW1zU1ZMRmg3UDdkdlNfTmdWUnN6YXg5b0p0MllSQ0ZrVmwzdzJrcEhoV0hQUDVRb1BJU3RONGRIWlB6R0Jsbkg2cWRVdlVFMkVmRENudjJaZVFYM1VoWFp1OS1fYWdEek1rLXVpaG5kUkRuWGVPYmVTcEI0emdQN2VsTEwtNHkxTDBXVEk?oc=5",
         "image": "",
         "published": "Mon, 03 Aug 2026 23:31:00 GMT"
@@ -582,14 +590,6 @@
       },
       {
         "source": "Positive News",
-        "headline": "A new measure of courage: how Maasai warriors became lion guardians",
-        "summary": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist",
-        "url": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
-        "image": "",
-        "published": "Wed, 29 Jul 2026 10:02:57 +0000"
-      },
-      {
-        "source": "Positive News",
         "headline": "The musicians turning bat calls into club music",
         "summary": "A new album made from the echolocation calls of bats is inviting listeners to hear the misunderstood mammals differently",
         "url": "https://www.positive.news/environment/conservation/the-musicians-turning-bat-calls-into-club-music/",
@@ -600,11 +600,11 @@
   },
   "wonderful": {
     "source": "Positive News",
-    "headline": "Will regeneratively grown food become mainstream?",
-    "summary": "At Groundswell, experts debated how to get more nature-friendly foods on shelves. Here are three key takeaways",
-    "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
+    "headline": "A new measure of courage: how Maasai warriors became lion guardians",
+    "summary": "In east Africa, Maasai men are redefining what it means to be brave by helping people and lions co-exist",
+    "url": "https://www.positive.news/environment/a-new-measure-of-courage-how-maasai-warriors-became-lion-guardians/",
     "image": "",
-    "published": "Tue, 04 Aug 2026 08:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 10:02:57 +0000"
   },
   "capybara_message": "Today, trade one ounce of overexplaining for one ounce of self-trust.",
   "personalization": {
