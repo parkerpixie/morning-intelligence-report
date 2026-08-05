@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T10:16:42.145595+00:00",
-  "generated_at_local": "2026-08-05T05:16:42.145595-05:00",
+  "generated_at": "2026-08-05T10:45:25.228168+00:00",
+  "generated_at_local": "2026-08-05T05:45:25.228168-05:00",
   "report_date": "2026-08-05",
   "top_story": {
     "source": "BBC US & Canada",
@@ -11,14 +11,6 @@
     "published": "Wed, 05 Aug 2026 00:05:47 GMT"
   },
   "quick_scan": [
-    {
-      "source": "BBC US & Canada",
-      "headline": "Did Iran hack water systems in seven US states?",
-      "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1f/live/cf4183d0-8f7c-11f1-a41e-b9f388d2ea9c.jpg",
-      "published": "Tue, 04 Aug 2026 02:29:03 GMT"
-    },
     {
       "source": "Ars Technica",
       "headline": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
@@ -74,6 +66,14 @@
       "url": "https://www.bbc.co.uk/news/articles/c62q0kkr6k2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9864/live/3014fa20-8f9b-11f1-8fd1-09e03851da20.jpg",
       "published": "Wed, 05 Aug 2026 08:29:26 GMT"
+    },
+    {
+      "source": "BBC World",
+      "headline": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+      "summary": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "Wed, 05 Aug 2026 00:40:23 GMT"
     }
   ],
   "sections": {
@@ -185,12 +185,20 @@
         "published": "Tue, 04 Aug 2026 08:59:56 GMT"
       },
       {
-        "source": "Reuters",
-        "headline": "Exclusive-North Korean Missile Unit Deploys in Russia for Ukraine War, Kyiv Says - U.S. News & World Report",
-        "summary": "Exclusive-North Korean Missile Unit Deploys in Russia for Ukraine War, Kyiv Says U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUEtUUGxYYk9yUy1zQWU1NVVvcGcwdDhLdUVoS3JQS1pGNGVpelRQYTJIQmJRd3Y2eUJmR1NjY3ZrWkozRlp6Z05zWFk1elRlODZpWE42LXJmTFlXNVVHakpQeEQxRWFzRkRuT2NVR3Vma3BGYUk4ZmxqMGhiUWZYSjB2NTlaSFJnMFNqX1dsNjhRR0MzUmVhYkZpbWd6QjlvT1BTZGpkODdGbnJ0cTUyMzIxZEdvb1Nad1Ezb0Qtc3Y0X2JpeG5rLThpR2RoZy1ueXc?oc=5",
+        "source": "NPR",
+        "headline": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+        "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said.",
+        "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
         "image": "",
-        "published": "Wed, 05 Aug 2026 04:08:18 GMT"
+        "published": "Wed, 05 Aug 2026 06:15:44 -0400"
+      },
+      {
+        "source": "NPR",
+        "headline": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+        "summary": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid.",
+        "url": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
+        "image": "",
+        "published": "Wed, 05 Aug 2026 04:45:42 -0400"
       },
       {
         "source": "BBC World",
@@ -199,14 +207,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg",
         "published": "Wed, 05 Aug 2026 09:54:20 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "Afghan boxer appears in court in connection with death of Scottish woman",
-        "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
-        "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4808/live/e6b89d00-90a8-11f1-b35a-3be58eca94a8.jpg",
-        "published": "Wed, 05 Aug 2026 09:22:52 GMT"
       }
     ],
     "ai-tech": [
@@ -318,8 +318,8 @@
       },
       {
         "source": "Adweek",
-        "headline": "Heads-Up and Hands-Free: Snap's Play Beyond the Smartphone - ADWEEK",
-        "summary": "Heads-Up and Hands-Free: Snap's Play Beyond the Smartphone ADWEEK",
+        "headline": "Heads-Up and Hands-Free: Snap's Play Beyond the Smartphone - adweek.com",
+        "summary": "Heads-Up and Hands-Free: Snap's Play Beyond the Smartphone adweek.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWg0Q2FSci1HVjlRWXk1NHlNT29KRHB6UUJ6TWdJYzJHR0JYQjlJMUJuSUZmVGJVdmFrQ2RGR2tOSjI5SkFFVmhGaFp1VXRyWkJiVzhybmp1Q3FsOXo4aGE0aHlNc2ZiSWxTMVVnSDAteGNNcDEzaVc2U2x4YjlNX0pYX3Y2bXU5RnhzN2pYRXFQZEtKZzVQelBhQ1Y?oc=5",
         "image": "",
         "published": "Tue, 04 Aug 2026 18:49:38 GMT"
@@ -333,12 +333,12 @@
         "published": "Tue, 04 Aug 2026 18:37:05 GMT"
       },
       {
-        "source": "Marketing Ops",
-        "headline": "ImageKit launches branded video player with analytics - scanx.trade",
-        "summary": "ImageKit launches branded video player with analytics scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBLRHVORkFjdHhDZ01rSVBiOUJ6SWRrZzNjVEZkWmtxSy1EdTdMREdpZ0ttZXNCQm40SU9fdVpFQm9uVWVqazRlMG9sbDJEelNPbUpua0pfaVBfNGwzM3ZwZ3U1RWFpbzh2MDYyLTlYNnllTmpBVmk5OVhwa0F4c3ZJVHNzMkRJdlBvaG93bUVLZmE1WVROYk5UcXF5WF84cUV0QmROU1Ntd1RaZEcyVQ?oc=5",
+        "source": "Adweek",
+        "headline": "First Round's Nick Tran on Why Brands Should Build Culture, Not Chase It - adweek.com",
+        "summary": "First Round's Nick Tran on Why Brands Should Build Culture, Not Chase It adweek.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQjVLa3dXWTJheEtLZU1kSnBrai0xSk9xMVFCenU4Q3l5VW1kRE9mSzZqaGZxZHM0bzFrQXRFWGlsUkFxWGJLMmxkMnZ3eDd3S0p1eEdvTkNVa2tXdmllNkRXZ09SdHlodjdaRDZjcnFpMGI3RTM4bVdUak9KTGVNTDF5S3NJd2Y5SE5XbktUQzhjenNmb1h1V2d2NmtuU1FteEVkUWdoT2p6TmhCQUxnSnVqVldEaDlERjNTRDZxVFlRbFQ1bE5ORGg4VDk5RjU0bzRXVGU4eWtYNTF6OWJjZ0Y4ZE1YSXhKZlJ6d20tN3dXMktjeGFSSnRrNXdOM0lERFE?oc=5",
         "image": "",
-        "published": "Tue, 04 Aug 2026 17:29:02 GMT"
+        "published": "Tue, 04 Aug 2026 16:26:05 GMT"
       }
     ],
     "wellbeing": [
@@ -368,8 +368,8 @@
       },
       {
         "source": "Mental Health",
-        "headline": "Neurodiversity linked to violence-related emergency department visits - Medical Xpress",
-        "summary": "Neurodiversity linked to violence-related emergency department visits Medical Xpress",
+        "headline": "Neurodiversity linked to violence-related emergency department visits - medicalxpress.com",
+        "summary": "Neurodiversity linked to violence-related emergency department visits medicalxpress.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVFmVGVOdVY4SXI2RkpEbk5UOXR2YTAxN3NDT1BfOF9NY25hR0E0aG5NT1FnU2FOYi1WNXpJQkFyWlhSUlVCSlk0RDlEVm81NFFZVHFtZEVUaTJKVXRfWmJPVFgzUmM2ZEtqN29oaUNvSTdiT2JDZHhQM19wSmNhTmxsaWJTZlN6Mml0eTRNSXV6dlRxQXFQOVJFVQ?oc=5",
         "image": "",
         "published": "Wed, 05 Aug 2026 01:00:03 GMT"
@@ -442,11 +442,11 @@
       },
       {
         "source": "BBC Entertainment",
-        "headline": "Major comedy festival under threat as operator folds",
+        "headline": "Firm behind one of UK's biggest comedy festivals folds",
         "summary": "Leicester Comedy Festival has been held for more than 30 years but its operator has ceased trading.",
         "url": "https://www.bbc.co.uk/news/articles/cj4kqvdggg5o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26f/live/31550a70-8446-11f1-878a-03d79d819c89.jpg",
-        "published": "Wed, 05 Aug 2026 09:32:08 GMT"
+        "published": "Wed, 05 Aug 2026 10:29:54 GMT"
       },
       {
         "source": "Variety",
@@ -515,6 +515,14 @@
         "published": "Tue, 04 Aug 2026 11:04:09 GMT"
       },
       {
+        "source": "Mongabay",
+        "headline": "Nepal’s newest national parks drive tiger recovery, but new concerns arise - news - Mongabay",
+        "summary": "Nepal’s newest national parks drive tiger recovery, but new concerns arise news - Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkVRWEZpQ28waERQZnRGYUdfQ2hzNFBDcVQzMDFCZzRrNUxfQ3RseVVqSFRoU2l2VGhQUmlrdFlvS3RHRHF1V2hvS2JNZzJtV3hGZk9YWkFiUkx0eUY0bkJCSVQzZm1hQ0FHclhibTVXSTFwc2JqaUdOTkVGZTNZU2NfQ0UwSmxOVC03YzBmZUh2WndTLThacFhMWGd3ek5tTFYzNzk0emZBOFnSAbABQVVfeXFMTlhMRnNmemV2YzIweldoejNDdk5vb2YyNkpsTFNobXZVWUpoZnBJbERGQld6QnRZTDlUU0kyOXNKTElsRDRkeEFGdmhTZjZLdlpVRFNtcFJvbl9MU3M1YVh6QWlJUjJlOGZoSHFVemU1amhGVENxUHZydGY4SnI2YmdZUDJ6TV9yTHpLY3k1dE9IaVBVQzFtaVdpLVN2YUhSUDJmcW5FbzIzWTQwblJaYlc?oc=5",
+        "image": "",
+        "published": "Wed, 05 Aug 2026 05:30:12 GMT"
+      },
+      {
         "source": "Animals",
         "headline": "Saving trafficked wildlife through legal analysis and reform - ifaw.org",
         "summary": "Saving trafficked wildlife through legal analysis and reform ifaw.org",
@@ -524,19 +532,11 @@
       },
       {
         "source": "Animals",
-        "headline": "Regina DoDaro Hired as Animal Control and Protection Administrator - Hawaii County.gov",
-        "summary": "Regina DoDaro Hired as Animal Control and Protection Administrator Hawaii County.gov",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxbnprbDBxeUZVSnpOWUtsdHkxM3l0dUNlZnhsVndQYkg1X1ViMi1GWjNyTklmazFtUW8tYzJNcGlWYkpIN0tHV01ESGtSUXhRbzFlN3l2bUZNcUZoZzNQWTQzQktfYWRzMDI3UEFtYm0?oc=5",
+        "headline": "LA is exterminating dogs at unprecedented rate. The faces on the ‘kill list’ are heartbreaking - New York Post",
+        "summary": "LA is exterminating dogs at unprecedented rate. The faces on the ‘kill list’ are heartbreaking New York Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXhhcDFFcEYwdS1XUWNTdEVQb0FjQTNxYjFTZ25nYlRhd3lLUlpka04yZVRhV2xkb0VwbTB1eXpvVEtQbndtbi1sY09lY2xhb1BqZG1wVzgwRmtvcjZoQWdCVTF3ZmpBZGhSc3pUTTI1VXFiV0pzWnJwX01nWGdEOUdDN1BKeWN2ZmYyWElhaE8xNk1LaGotdFc0U0prWnI1emlsNEh5VVJiNUs5TXZpRDlhVW52Zw?oc=5",
         "image": "",
-        "published": "Wed, 05 Aug 2026 02:22:24 GMT"
-      },
-      {
-        "source": "Smithsonian Animals",
-        "headline": "Museum Specimens Help Solve a Century-Old Mystery in Hawaiian Bird Evolution - Smithsonian Magazine",
-        "summary": "Museum Specimens Help Solve a Century-Old Mystery in Hawaiian Bird Evolution Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeGxxRnVVZy1yWlZ3WTBGMVExODlJd3QyN29HWHRnWWMwWklEeFpHODhFa1BMT2VPZU1pNXBkOExFZ241QllMZTF1NDBvaXBramxxakhGQjBXUW5GMkJZNFhSZk5sdU43Wl8xbjNjOVFLZEhyNU9JV3dKbEI4RlRmLWljNWdVVklFblJ6T1VYeFowWTlyaEIxcnJZakEzSS1iRTRGOExjRkxZWWtQdVp3R3Ywb1RwcFAtYnNqOFpCdGF6U0ptQkg5X0NHMzBnRzVKVjRlTFhJd1lyT0FsVVpfb2pjdHdoN1MwOEtHSmFFRF9HbWNUOU1mZnc2Mjk3Zw?oc=5",
-        "image": "",
-        "published": "Tue, 04 Aug 2026 15:32:07 GMT"
+        "published": "Mon, 03 Aug 2026 12:00:00 GMT"
       }
     ],
     "wonderful": [
@@ -574,14 +574,6 @@
       },
       {
         "source": "Positive News",
-        "headline": "Did a tourist tax save Magaluf?",
-        "summary": "As Edinburgh introduces a visitor levy, we look at what a decade of tourist tax-funded investment has done for one of Europe’s resorts",
-        "url": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
-        "image": "",
-        "published": "Thu, 30 Jul 2026 05:00:28 +0000"
-      },
-      {
-        "source": "Positive News",
         "headline": "Will regeneratively grown food become mainstream?",
         "summary": "At Groundswell, experts debated how to get more nature-friendly foods on shelves. Here are three key takeaways",
         "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
@@ -589,9 +581,17 @@
         "published": "Tue, 04 Aug 2026 08:00:00 +0000"
       },
       {
+        "source": "Positive News",
+        "headline": "Did a tourist tax save Magaluf?",
+        "summary": "As Edinburgh introduces a visitor levy, we look at what a decade of tourist tax-funded investment has done for one of Europe’s resorts",
+        "url": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
+        "image": "",
+        "published": "Thu, 30 Jul 2026 05:00:28 +0000"
+      },
+      {
         "source": "Wonderful News",
-        "headline": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! - KTVN",
-        "summary": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! KTVN",
+        "headline": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! - 2news.com",
+        "summary": "8/3 - 2 Plus You Nevada - 911 Restoration, UNR Extension, Family Respite Care, Plus More! 2news.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS1hYek9SQWtPLVhTVERrV29GM0g5bEw2dXcteEFTczVvZWtMUlFqc1ZxWVJjbTRmMEVrYU1FbFRBVFBRb2VvOTlJSUUwM0NRVVZnemYxY25hbS1mMzlJZGxpemsxbm51elQ3WG5nSW1zU1ZMRmg3UDdkdlNfTmdWUnN6YXg5b0p0MllSQ0ZrVmwzdzJrcEhoV0hQUDVRb1BJU3RONGRIWlB6R0Jsbkg2cWRVdlVFMkVmRENudjJaZVFYM1VoWFp1OS1fYWdEek1rLXVpaG5kUkRuWGVPYmVTcEI0emdQN2VsTEwtNHkxTDBXVEk?oc=5",
         "image": "",
         "published": "Mon, 03 Aug 2026 23:31:00 GMT"
