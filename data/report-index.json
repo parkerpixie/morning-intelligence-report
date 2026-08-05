@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-04.json",
-  "report_date": "2026-08-04",
-  "generated_at": "2026-08-04T10:48:53.577060+00:00",
-  "edition_count": 20,
+  "latest": "data/archive/2026-08-05.json",
+  "report_date": "2026-08-05",
+  "generated_at": "2026-08-05T10:16:42.145595+00:00",
+  "edition_count": 21,
   "editions": [
+    {
+      "report_date": "2026-08-05",
+      "generated_at": "2026-08-05T10:16:42.145595+00:00",
+      "path": "data/archive/2026-08-05.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "US congressman refuses to drop re-election bid over ex-wife's abuse claims",
+        "summary": "Ohio Republican Max Miller's former father-in-law, a US senator, wants him removed from Congress.",
+        "url": "https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c41/live/0f2010d0-8f63-11f1-8659-31d8ca04a20f.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-08-04",
       "generated_at": "2026-08-04T10:48:53.577060+00:00",
