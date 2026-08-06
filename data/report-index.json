@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-05.json",
-  "report_date": "2026-08-05",
-  "generated_at": "2026-08-05T10:45:25.228168+00:00",
-  "edition_count": 21,
+  "latest": "data/archive/2026-08-06.json",
+  "report_date": "2026-08-06",
+  "generated_at": "2026-08-06T10:18:17.498328+00:00",
+  "edition_count": 22,
   "editions": [
+    {
+      "report_date": "2026-08-06",
+      "generated_at": "2026-08-06T10:18:17.498328+00:00",
+      "path": "data/archive/2026-08-06.json",
+      "top_story": {
+        "source": "Ars Technica",
+        "headline": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+        "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+        "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-05",
       "generated_at": "2026-08-05T10:45:25.228168+00:00",
