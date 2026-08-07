@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-06.json",
-  "report_date": "2026-08-06",
-  "generated_at": "2026-08-06T10:48:27.265940+00:00",
-  "edition_count": 22,
+  "latest": "data/archive/2026-08-07.json",
+  "report_date": "2026-08-07",
+  "generated_at": "2026-08-07T08:40:32.800328+00:00",
+  "edition_count": 23,
   "editions": [
+    {
+      "report_date": "2026-08-07",
+      "generated_at": "2026-08-07T08:40:32.800328+00:00",
+      "path": "data/archive/2026-08-07.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Ukraine hits two oil refineries deep in Russian territory",
+        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-06",
       "generated_at": "2026-08-06T10:48:27.265940+00:00",
