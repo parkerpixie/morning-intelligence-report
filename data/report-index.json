@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-07.json",
-  "report_date": "2026-08-07",
-  "generated_at": "2026-08-07T09:14:19.205375+00:00",
-  "edition_count": 23,
+  "latest": "data/archive/2026-08-08.json",
+  "report_date": "2026-08-08",
+  "generated_at": "2026-08-08T08:22:04.486985+00:00",
+  "edition_count": 24,
   "editions": [
+    {
+      "report_date": "2026-08-08",
+      "generated_at": "2026-08-08T08:22:04.486985+00:00",
+      "path": "data/archive/2026-08-08.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Child among three killed in Russian missile attacks near Kyiv",
+        "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-07",
       "generated_at": "2026-08-07T09:14:19.205375+00:00",
