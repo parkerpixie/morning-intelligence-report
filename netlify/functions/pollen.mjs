@@ -1,4 +1,5 @@
 const SOURCE_URL = 'https://www.mypollenpal.com/madison-wi';
+const TIME_ZONE = 'America/Chicago';
 
 const json = (payload, status = 200) => new Response(JSON.stringify(payload), {
   status,
@@ -22,7 +23,8 @@ const cleanText = (html) => String(html || '')
   .replace(/\s+/g, ' ')
   .trim();
 
-const LEVEL_PATTERN = '(Very High|Moderate|High|Low|None)';
+const LEVEL_VALUE = 'Very High|Moderate|High|Low|None';
+const LEVEL_PATTERN = `(${LEVEL_VALUE})`;
 const levelMeta = {
   none: { level: 'none', label: 'None', percent: 2 },
   low: { level: 'low', label: 'Low', percent: 24 },
@@ -30,6 +32,13 @@ const levelMeta = {
   high: { level: 'high', label: 'High', percent: 80 },
   'very high': { level: 'very-high', label: 'Very High', percent: 100 }
 };
+
+const escapeRegExp = (value) => String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const madisonDateLabel = () => new Intl.DateTimeFormat('en-US', {
+  timeZone: TIME_ZONE,
+  month: 'short',
+  day: 'numeric'
+}).format(new Date());
 
 const extractLevel = (text, label) => {
   const patterns = [
@@ -43,6 +52,18 @@ const extractLevel = (text, label) => {
   return null;
 };
 
+const extractForecastRow = (text, dateLabel) => {
+  const date = escapeRegExp(dateLabel);
+  const pattern = new RegExp(
+    `${date}\\s+Overall:\\s*(${LEVEL_VALUE})\\s+Tree:\\s*(${LEVEL_VALUE})\\s+Grass:\\s*(${LEVEL_VALUE})\\s+Weed:\\s*(${LEVEL_VALUE})`,
+    'i'
+  );
+  const match = text.match(pattern);
+  if (!match) return null;
+  return { overall: match[1], tree: match[2], grass: match[3], weed: match[4] };
+};
+
+const extractPageDate = (text) => text.match(/Madison, WI\s+Today\s+·\s+([A-Z][a-z]{2}\s+\d{1,2})/i)?.[1] || null;
 const extractOverall = (text) => text.match(new RegExp(`Overall:\\s*${LEVEL_PATTERN}`, 'i'))?.[1] || null;
 const extractScore = (text) => text.match(/(\d+)\/10\s+Breathability/i)?.[1] || null;
 const toReading = (value) => value ? (levelMeta[value.toLowerCase()] || null) : null;
@@ -77,19 +98,26 @@ export default async (request) => {
     if (!response.ok) throw new Error(`Pollen source returned ${response.status}`);
 
     const text = cleanText(await response.text());
-    const tree = toReading(extractLevel(text, 'Tree'));
-    const grass = toReading(extractLevel(text, 'Grass'));
-    const weed = toReading(extractLevel(text, 'Weed'));
+    const todayLabel = madisonDateLabel();
+    const datedRow = extractForecastRow(text, todayLabel);
+
+    const overall = datedRow?.overall || extractOverall(text);
+    const tree = toReading(datedRow?.tree || extractLevel(text, 'Tree'));
+    const grass = toReading(datedRow?.grass || extractLevel(text, 'Grass'));
+    const weed = toReading(datedRow?.weed || extractLevel(text, 'Weed'));
 
     if (![tree, grass, weed].some(Boolean)) throw new Error('No pollen levels found');
 
-    const overall = extractOverall(text);
+    const pageDate = extractPageDate(text);
+    const score = pageDate === todayLabel ? extractScore(text) : null;
+
     return json({
       available: true,
       location: 'Madison, WI',
+      forecast_date: todayLabel,
       generated_at: new Date().toISOString(),
       overall,
-      breathability_score: extractScore(text),
+      breathability_score: score,
       summary: summaryFor(overall, [tree, grass, weed]),
       tree: tree || levelMeta.none,
       grass: grass || levelMeta.none,
