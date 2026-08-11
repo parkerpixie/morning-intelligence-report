@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-10.json",
-  "report_date": "2026-08-10",
-  "generated_at": "2026-08-10T09:46:16.395163+00:00",
-  "edition_count": 26,
+  "latest": "data/archive/2026-08-11.json",
+  "report_date": "2026-08-11",
+  "generated_at": "2026-08-11T08:38:42.526725+00:00",
+  "edition_count": 27,
   "editions": [
+    {
+      "report_date": "2026-08-11",
+      "generated_at": "2026-08-11T08:38:42.526725+00:00",
+      "path": "data/archive/2026-08-11.json",
+      "top_story": {
+        "source": "Variety",
+        "headline": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
+        "summary": "Kamiyama Kenji says the alien threat driving his new “Gundam” anime is a direct metaphor for humanity’s uneasy relationship with artificial intelligence. The director, known for “Ghost in the Shell: Stand Alone Complex” and “The Lord of the Rings: The War of the Rohirrim,” tells Variety he built “Mobile Suit Gundam RG XARX-ZERO” around that",
+        "url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
+        "image": "https://variety.com/wp-content/uploads/2026/08/Mobile-Suit-Gundam-RG-XARX-ZERO.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-10",
       "generated_at": "2026-08-10T09:46:16.395163+00:00",
