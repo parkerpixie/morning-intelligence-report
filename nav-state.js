@@ -17,7 +17,17 @@
     }
   };
 
+  const loadWeatherEnhancements = () => {
+    if (!document.getElementById('weather-strip')) return;
+    if (document.querySelector('script[src^="weather-enhancements.js"]')) return;
+    const script = document.createElement('script');
+    script.src = 'weather-enhancements.js?v=20260811-1';
+    script.defer = true;
+    document.head.appendChild(script);
+  };
+
   loadPersonalizedFeatures();
+  loadWeatherEnhancements();
   if (!nav) return;
 
   const capybaraLink = nav.querySelector('[data-nav="capybara"]');
