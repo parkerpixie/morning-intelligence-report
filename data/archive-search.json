@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T08:54:19.202823+00:00",
+  "generated_at": "2026-08-12T09:32:25.455674+00:00",
   "edition_count": 28,
-  "story_count": 1733,
+  "story_count": 1732,
   "stories": [
     {
       "id": "0914c9a0faf8402d",
@@ -15,6 +15,44 @@
       "published": "Wed, 12 Aug 2026 07:00:48 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
+      "id": "1e7d15b6f317f869",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin race tight: Key takeaways from US primary election results - Al Jazeera",
+      "summary": "Wisconsin race tight: Key takeaways from US primary election results Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVNwczdSUUNLSTdLUk1kYzd5NWJMUU0xWkdXODNncFoybEJDU0VoZ0NSSjkwM0FTT1EwMlMtTnBxVS1Jbk00T2h3R1gxeFZ4ckFvdzhoUkF6bGI5OTVqRkVQdC1TQUFBY0o4cDktLVN0SW5KTlMwSFlxVzN5LUlDWDNRVE1qYnNKb3pVT250MHFsVkhpSnludUNOTU9CS0lndDFSMFlsSXRkVVc00gGyAUFVX3lxTE91X2tzTGY1R1hma0RfY3QzbWlPbmxPempMNXk4Q3dkUG1mUDFhM3U2YWpfRVpwTzh2UEt2ZDBFWi1yUmxIVEdfNy00VDdqQUdZNG9HMVpOU2ZXa1hmSEhjMzdxQ1dtMmNWemVfak5XT2NOamE5RVBIcjlNM29CLXEya3VRaVBjSFV5YjBwQ2ZRSDJZT0xJVnFnTl83dHF0a1VYT2dqeVFaT3J0bVdXNWRwYnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVNwczdSUUNLSTdLUk1kYzd5NWJMUU0xWkdXODNncFoybEJDU0VoZ0NSSjkwM0FTT1EwMlMtTnBxVS1Jbk00T2h3R1gxeFZ4ckFvdzhoUkF6bGI5OTVqRkVQdC1TQUFBY0o4cDktLVN0SW5KTlMwSFlxVzN5LUlDWDNRVE1qYnNKb3pVT250MHFsVkhpSnludUNOTU9CS0lndDFSMFlsSXRkVVc00gGyAUFVX3lxTE91X2tzTGY1R1hma0RfY3QzbWlPbmxPempMNXk4Q3dkUG1mUDFhM3U2YWpfRVpwTzh2UEt2ZDBFWi1yUmxIVEdfNy00VDdqQUdZNG9HMVpOU2ZXa1hmSEhjMzdxQ1dtMmNWemVfak5XT2NOamE5RVBIcjlNM29CLXEya3VRaVBjSFV5YjBwQ2ZRSDJZT0xJVnFnTl83dHF0a1VYT2dqeVFaT3J0bVdXNWRwYnc",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 08:52:37 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
+      "id": "0785b0f251101be0",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin live primary results: Crowley projected to defeat Hong - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Wisconsin live primary results: Crowley projected to defeat Hong ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaktqamdqbmVGM1pvTzJuT25EbXZhbXZjZDVNa21UeUpLZ0dmTkJuTnRiZGpUSEVzYjVIQmpZRzdzMWJhQWJmakJvNko5Y0hRYzIyWVRkQWJnSzZCcmtaQmt0c2pURXUwUHhHeG1SdDlBVjhYMF9pUDJxOG1KYXNNbjU5RjI2cTRkZlA0RFNsb1JiNExsem9v0gGcAUFVX3lxTE9ZY1owa2pnendOcWZ0eGxJMV9aWlFNWG9TTjlvRVF5SEs0dTBrM0VVeWpSZTlBV19pRUFTaEtLbEtTUllCRU9GM3JBS2V3bk9ubDFUbVBhRzlhOW1MU3BWZWx5MDlndHpMTkZtMGdTMl9QZGNHcmJxOEY1dmQyYk5HbzVOZEtfeTZ6SDhHenhwYXM3VTBBMDYxWm9XNQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaktqamdqbmVGM1pvTzJuT25EbXZhbXZjZDVNa21UeUpLZ0dmTkJuTnRiZGpUSEVzYjVIQmpZRzdzMWJhQWJmakJvNko5Y0hRYzIyWVRkQWJnSzZCcmtaQmt0c2pURXUwUHhHeG1SdDlBVjhYMF9pUDJxOG1KYXNNbjU5RjI2cTRkZlA0RFNsb1JiNExsem9v0gGcAUFVX3lxTE9ZY1owa2pnendOcWZ0eGxJMV9aWlFNWG9TTjlvRVF5SEs0dTBrM0VVeWpSZTlBV19pRUFTaEtLbEtTUllCRU9GM3JBS2V3bk9ubDFUbVBhRzlhOW1MU3BWZWx5MDlndHpMTkZtMGdTMl9QZGNHcmJxOEY1dmQyYk5HbzVOZEtfeTZ6SDhHenhwYXM3VTBBMDYxWm9XNQ",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 09:10:21 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-12"
@@ -100,16 +138,16 @@
       "appearances": 1
     },
     {
-      "id": "28f3a836d3bbdb16",
-      "source": "Variety",
-      "headline": "WGA Slams David Ellison’s Plan to Pull Paramount From California: ‘This Type of Behavior Is Precisely Why the Merger Should Be Blocked’",
-      "summary": "The Writers Guild of America has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1 if California AG Rob Bonta refused to come to the bargaining table and settle the antitrust suit to stop the studio’s acquisition of Warner Bros. “By threatening to",
-      "url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685/",
-      "canonical_url": "https://variety.com/2026/film/news/wga-david-ellison-paramount-move-california-warner-bros-1236832685",
-      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1700864074.jpg",
-      "published": "Wed, 12 Aug 2026 02:50:57 +0000",
+      "id": "b34e2d308c6ccc47",
+      "source": "Adweek",
+      "headline": "Why Creators Are Becoming the New Marketing Operating System - ADWEEK",
+      "summary": "Why Creators Are Becoming the New Marketing Operating System ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkZRVEoxb2xHVTQxOG9fblF5YmU1NllxNFZmNFp5ZFUtM2xJaURIazQxZGlUbmlrdkxDWjIwZkx1MDBtc3loeVBIYThlSjl3Ti1RbW5aRWxqZzNYUFBjRmp4NHE0bHZKYW9raExubGZMdXlsRFVGYVh2VFBuWmFHeWhlM2FCNzZWbk9fb21yNzNadkJoSG1aN0NIRVJqTHZBc0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkZRVEoxb2xHVTQxOG9fblF5YmU1NllxNFZmNFp5ZFUtM2xJaURIazQxZGlUbmlrdkxDWjIwZkx1MDBtc3loeVBIYThlSjl3Ti1RbW5aRWxqZzNYUFBjRmp4NHE0bHZKYW9raExubGZMdXlsRFVGYVh2VFBuWmFHeWhlM2FCNzZWbk9fb21yNzNadkJoSG1aN0NIRVJqTHZBc0E",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 14:47:14 GMT",
       "sections": [
-        "entertainment"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-08-12"
@@ -157,16 +195,16 @@
       "appearances": 1
     },
     {
-      "id": "4b3d7c38edc58b4a",
-      "source": "Wisconsin News",
-      "headline": "Tuesday primaries: Nail-biter in Wisconsin; another House Democrat goes down - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Tuesday primaries: Nail-biter in Wisconsin; another House Democrat goes down ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEVLMEdqZWVwNW1PMVFBei1BRlJ4Q2FudS02NTBSd2Z0SnkzaHZRcDFWX0pKN3daN2FKejRDeUJVT2dBWWszLXFrV3BTQXZXV3I5LWVtM0RvY0NrWFJYUmRhbzNuaFBBU0tQNU9ORFVzX2JJZjEtdHIyYmdEUlNFRVhCbjVkSjhFRk42MkdCNC1iTXFnNnZB0gGcAUFVX3lxTE05STFENDl4cVZ5Y3FRUm56d1dub2dITlJoNlR3YnFzVm9FeDEyd2xDYnBwQTNTT1JuNzVhcExDSXh1MFNTaUxFQTRHSUc2eXFWb2x3d0Z4QXhaek5WTzJlelZDX1RwRzJWT25RV1dvbTJaQ2xPSEhET1kwRGQyS09JcWRXdHoyQl9ZSDZQdGRCTlBzT05uUEFPNWFqQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEVLMEdqZWVwNW1PMVFBei1BRlJ4Q2FudS02NTBSd2Z0SnkzaHZRcDFWX0pKN3daN2FKejRDeUJVT2dBWWszLXFrV3BTQXZXV3I5LWVtM0RvY0NrWFJYUmRhbzNuaFBBU0tQNU9ORFVzX2JJZjEtdHIyYmdEUlNFRVhCbjVkSjhFRk42MkdCNC1iTXFnNnZB0gGcAUFVX3lxTE05STFENDl4cVZ5Y3FRUm56d1dub2dITlJoNlR3YnFzVm9FeDEyd2xDYnBwQTNTT1JuNzVhcExDSXh1MFNTaUxFQTRHSUc2eXFWb2x3d0Z4QXhaek5WTzJlelZDX1RwRzJWT25RV1dvbTJaQ2xPSEhET1kwRGQyS09JcWRXdHoyQl9ZSDZQdGRCTlBzT05uUEFPNWFqQQ",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 08:11:51 GMT",
+      "id": "9305fa5db3e07f74",
+      "source": "Variety",
+      "headline": "U.K.’s Largest Harry Potter Store Opening in London Ahead of HBO Series Launch",
+      "summary": "With Harry Potter excitement expected to reach fever pitch once more later this year with the launch of HBO’s new TV series, Warner Bros. is going big on the merch — and just in time for Christmas. The studio has announced that the U.K. largest Harry Potter shop will open in central London in November, weeks",
+      "url": "https://variety.com/2026/tv/global/uk-largest-harry-potter-store-opening-in-london-1236832791/",
+      "canonical_url": "https://variety.com/2026/tv/global/uk-largest-harry-potter-store-opening-in-london-1236832791",
+      "image": "https://variety.com/wp-content/uploads/2026/03/dominic-mclaughlin.jpg",
+      "published": "Wed, 12 Aug 2026 09:05:27 +0000",
       "sections": [
-        "local"
+        "entertainment"
       ],
       "report_dates": [
         "2026-08-12"
@@ -367,25 +405,6 @@
       "appearances": 1
     },
     {
-      "id": "a8c66bf64ffd01d0",
-      "source": "Mental Health",
-      "headline": "Polarization obscures the need for nuanced, systems-level research on vaccines. - Psychology Today",
-      "summary": "Polarization obscures the need for nuanced, systems-level research on vaccines. Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTVEd1BJdXpsNHFiV1BhRmNzQ3FqNktDUjlnN1dvSlNFRDhoZV94STBkY0tmTUg1cVBONVlWc2YyZ1QtYlZqUHgzQkFWVGZoN2Nkeko4TUkybXM5LW51YVFwQzk0OVFEZktsOXRLNmNuNlMyYnlmMy1xSmdfQ0czTXd1SWl1dzRYdVJNOHM3TGtHdEJpQy04ZHhPLVdocm1sMzdGeFRjZVZvUWxvWmMyMUNoRmVxUEczd01EODh30gHDAUFVX3lxTFBHYkVkakUtWUFOVThUZUNCSnpSZGZYZ2NsWEUxUC1rUnpvelRKQ3lkVmZMclY3V1BocWZGQVpXZXV4ZHloZEVQb2xtUEtfWWpWWnBMeDJrNkxLZzBBTEY1a3Q2Nk13WmQwNno5Zi10dHZNYkd6WW83ZVd0Q255X0ZJRkdjWXZiaGFFdFFDTHRMeXhjOUlJQnZHbE1QUnBYR3cyQkRCY0VzeDM4RXhhRXo0OTRsX1pDbnhVMll3Q280dDJDVQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTVEd1BJdXpsNHFiV1BhRmNzQ3FqNktDUjlnN1dvSlNFRDhoZV94STBkY0tmTUg1cVBONVlWc2YyZ1QtYlZqUHgzQkFWVGZoN2Nkeko4TUkybXM5LW51YVFwQzk0OVFEZktsOXRLNmNuNlMyYnlmMy1xSmdfQ0czTXd1SWl1dzRYdVJNOHM3TGtHdEJpQy04ZHhPLVdocm1sMzdGeFRjZVZvUWxvWmMyMUNoRmVxUEczd01EODh30gHDAUFVX3lxTFBHYkVkakUtWUFOVThUZUNCSnpSZGZYZ2NsWEUxUC1rUnpvelRKQ3lkVmZMclY3V1BocWZGQVpXZXV4ZHloZEVQb2xtUEtfWWpWWnBMeDJrNkxLZzBBTEY1a3Q2Nk13WmQwNno5Zi10dHZNYkd6WW83ZVd0Q255X0ZJRkdjWXZiaGFFdFFDTHRMeXhjOUlJQnZHbE1QUnBYR3cyQkRCY0VzeDM4RXhhRXo0OTRsX1pDbnhVMll3Q280dDJDVQ",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 19:28:20 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
       "id": "76f48cfcfc720416",
       "source": "Good News Network",
       "headline": "Plant’s First Flower is a ‘Death Bloom’ So Tall the Greenhouse Had to Remove Ceiling Panels",
@@ -407,8 +426,8 @@
     {
       "id": "86964664b6cb53d3",
       "source": "AI News",
-      "headline": "Palantir vs OpenAI and Anthropic: Alex Karp's Second Round - Pasquale Pillitteri",
-      "summary": "Palantir vs OpenAI and Anthropic: Alex Karp's Second Round Pasquale Pillitteri",
+      "headline": "Palantir vs OpenAI and Anthropic: Alex Karp's Second Round - pasqualepillitteri.it",
+      "summary": "Palantir vs OpenAI and Anthropic: Alex Karp's Second Round pasqualepillitteri.it",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOERMQzhxTTNFX0duU2M5allOWHp5c0xvQ3RSV3RkcE9sZUpxZVFhR25STm16NXFhWmtIMTh1Qk8ybU1KV1dtOEpSeTVvSXN4SG1GUmlzLVZPY09Well3eWVQVGhyUjZyV3dHNHZKU184NGloUEZ6YTJxMWlJSFZlSGlvN1Zua1NDUWc?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOERMQzhxTTNFX0duU2M5allOWHp5c0xvQ3RSV3RkcE9sZUpxZVFhR25STm16NXFhWmtIMTh1Qk8ybU1KV1dtOEpSeTVvSXN4SG1GUmlzLVZPY09Well3eWVQVGhyUjZyV3dHNHZKU184NGloUEZ6YTJxMWlJSFZlSGlvN1Zua1NDUWc",
       "image": "",
@@ -453,6 +472,47 @@
       "published": "Tue, 11 Aug 2026 23:35:08 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
+      "id": "adbbfde8daa1ea04",
+      "source": "BBC Health",
+      "headline": "Obesity rates have doubled in England since 1993 - what's going on?",
+      "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/4189fa30-9270-11f1-be40-e93959facbbc.jpg",
+      "published": "Fri, 07 Aug 2026 18:38:46 GMT",
+      "sections": [
+        "quick-scan",
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-12",
+        "2026-08-09",
+        "2026-08-08"
+      ],
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-12",
+      "appearances": 3
+    },
+    {
+      "id": "472e8571ba4d8169",
+      "source": "NPR",
+      "headline": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+      "summary": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+      "canonical_url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 05:00:00 -0400",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-08-12"
@@ -538,14 +598,14 @@
       "appearances": 1
     },
     {
-      "id": "04cbb5b154895e90",
-      "source": "Mental Health",
-      "headline": "Landmark Study Powers A Free, Continuously Updated Guide To Bipolar Disorder Treatments | Newswise - Newswise",
-      "summary": "Landmark Study Powers A Free, Continuously Updated Guide To Bipolar Disorder Treatments | Newswise Newswise",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajkxbkNOYkhjTWZreHQ2MFdBTUFrZXU4emZBdFM1bHV3RU15UXV5MmhXZElhMVFfUkFtSHo5amYzY21lSXJ6WU5KSFprS3gtYUg0cHFZcEl1NHR3WldoX0RIa2VmUm9uQVJOaHozc1pMS0o1V2hHNmIwcjV2b1pfWHJNRVJteWdPTU9jQk5MQWxFQdIBkgFBVV95cUxQajkxbkNOYkhjTWZreHQ2MFdBTUFrZXU4emZBdFM1bHV3RU15UXV5MmhXZElhMVFfUkFtSHo5amYzY21lSXJ6WU5KSFprS3gtYUg0cHFZcEl1NHR3WldoX0RIa2VmUm9uQVJOaHozc1pMS0o1V2hHNmIwcjV2b1pfWHJNRVJteWdPTU9jQk5MQWxFQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajkxbkNOYkhjTWZreHQ2MFdBTUFrZXU4emZBdFM1bHV3RU15UXV5MmhXZElhMVFfUkFtSHo5amYzY21lSXJ6WU5KSFprS3gtYUg0cHFZcEl1NHR3WldoX0RIa2VmUm9uQVJOaHozc1pMS0o1V2hHNmIwcjV2b1pfWHJNRVJteWdPTU9jQk5MQWxFQdIBkgFBVV95cUxQajkxbkNOYkhjTWZreHQ2MFdBTUFrZXU4emZBdFM1bHV3RU15UXV5MmhXZElhMVFfUkFtSHo5amYzY21lSXJ6WU5KSFprS3gtYUg0cHFZcEl1NHR3WldoX0RIa2VmUm9uQVJOaHozc1pMS0o1V2hHNmIwcjV2b1pfWHJNRVJteWdPTU9jQk5MQWxFQQ",
+      "id": "1cc44980d255a3f3",
+      "source": "UW-Madison Science",
+      "headline": "Instruction Coordinator - jobs.wisc.edu",
+      "summary": "Instruction Coordinator jobs.wisc.edu",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTFQRUZ4dTFSc01FTHhXZlJYYjZlbmQ0VFpSMWlNVkUwRkNTaFFUV0pKdllkRmJ1V1Rha0RhdVlFMTNGbkY4TmE1ajBnem5mYlR4R3djQUFJWkNMY091NU80VXRkdzZtczA0cEgtbWxKdFB4alFoeFdSS3E1eTZBaU9kZnI0QnR1Z0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTFQRUZ4dTFSc01FTHhXZlJYYjZlbmQ0VFpSMWlNVkUwRkNTaFFUV0pKdllkRmJ1V1Rha0RhdVlFMTNGbkY4TmE1ajBnem5mYlR4R3djQUFJWkNMY091NU80VXRkdzZtczA0cEgtbWxKdFB4alFoeFdSS3E1eTZBaU9kZnI0QnR1Z0E",
       "image": "",
-      "published": "Wed, 12 Aug 2026 01:20:00 GMT",
+      "published": "Tue, 11 Aug 2026 19:51:02 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -576,35 +636,16 @@
       "appearances": 1
     },
     {
-      "id": "06bcbbd573ad5aae",
-      "source": "Wisconsin Public Radio",
-      "headline": "In shocking comeback, David Crowley wins Democratic primary for governor",
-      "summary": "Wisconsin's Democratic primary for governor remained too close to call Tuesday night, with Madison Rep. Francesca Hong and Milwaukee County Executive David Crowley nearly tied, according to unofficial results.",
-      "url": "https://www.wpr.org/news/wisconsin-democratic-primary-governor-too-close-to-call-david-crowley-francesca-hong",
-      "canonical_url": "https://www.wpr.org/news/wisconsin-democratic-primary-governor-too-close-to-call-david-crowley-francesca-hong",
+      "id": "306272c78c1b01c3",
+      "source": "UW-Madison Science",
+      "headline": "Informatics & Data Services Unit Head - jobs.wisc.edu",
+      "summary": "Informatics & Data Services Unit Head jobs.wisc.edu",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGg3cUVFbTdTellEYXdLTGRBWEZZYmwwczg3R3NYV29VU080VXMxenVIMEZhWjRzT3ZfUjAwOGhkUVpMS0ZEMEk5ZTVkOHpnY0NmRW81cTk3T0Q3aW5JRTdXZnhQdXNyemtHbzl2Y1huLVlnSjY1MEdBdnlMZDhVUzd2aEN1cjdkb0ExZ2FPenlKZVBNaW5yMEFn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGg3cUVFbTdTellEYXdLTGRBWEZZYmwwczg3R3NYV29VU080VXMxenVIMEZhWjRzT3ZfUjAwOGhkUVpMS0ZEMEk5ZTVkOHpnY0NmRW81cTk3T0Q3aW5JRTdXZnhQdXNyemtHbzl2Y1huLVlnSjY1MEdBdnlMZDhVUzd2aEN1cjdkb0ExZ2FPenlKZVBNaW5yMEFn",
       "image": "",
-      "published": "Wed, 12 Aug 2026 06:10:45 +0000",
+      "published": "Tue, 11 Aug 2026 16:49:31 GMT",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
-      "id": "15fd650ee081869e",
-      "source": "MarTech",
-      "headline": "IAB Tech Lab releases new privacy standards",
-      "summary": "Rules aim to keep up with evolving state laws and to make it easier to communicate consumer privacy choices.",
-      "url": "https://martech.org/iab-tech-lab-releases-new-privacy-standards/",
-      "canonical_url": "https://martech.org/iab-tech-lab-releases-new-privacy-standards",
-      "image": "https://martech.org/wp-content/uploads/2026/06/iab-tech-lab2-800x450.png",
-      "published": "Tue, 11 Aug 2026 12:08:00 +0000",
-      "sections": [
-        "quick-scan"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-08-12"
@@ -695,6 +736,25 @@
       "appearances": 1
     },
     {
+      "id": "35bd126728403679",
+      "source": "Animals",
+      "headline": "Hong Kong authorities charge woman who allegedly kept 136 dogs without licences - South China Morning Post",
+      "summary": "Hong Kong authorities charge woman who allegedly kept 136 dogs without licences South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMEk0WjB5NUlrczlDb3h2NVA0OHR6bjdZbk13ZllfRm83QXNOUElrbFNuNTBTbHJpMEtpTnJEQkxiMTRJdDhTczZ5bS1DSE83Ml9xQnpoYnhEYVlKQ01pMnNLMjdRRnA5c0MwZEltNENQMDhqLU55ejQtYmRyaEl2MkhqM1hZdEZHd2dkSkJpRkJLZW1UVkJnVHpkTWtlSnVWYzhxRnhNblhUSno3djU5N0FQS215N1BlRUtQcVhQaHFBRnF4a0o1Qkd5eHluWEh2T0NGTXp1dEhkb0dJWkHSAd4BQVVfeXFMTVJ2TFFSZ0oyQTRRSmhuTDlPQUgtN0pJZ3lsY2tFS2o4Z3VjWmY0UEhVR180dEFmU1F4c1VqWFdvZXkzeUx6TkIzeVZMYmZsbTlJN0pSOHdTR2hUMk9yZUllYThoYVBaZEpUVXIwWGxON250NzdqSlRSZVhLeTFKcnhxbGlDZjQ2R3pQRlBHQkNPY0FNTHVzdkpBb21BN3NXNW0tdEFzbkczaFh4b296dUViUnROb1BuWjJKUmtIb3lSb244VTRCLWFJdDI1eU9iZXJlUk96dEN5TFdDN3hB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMEk0WjB5NUlrczlDb3h2NVA0OHR6bjdZbk13ZllfRm83QXNOUElrbFNuNTBTbHJpMEtpTnJEQkxiMTRJdDhTczZ5bS1DSE83Ml9xQnpoYnhEYVlKQ01pMnNLMjdRRnA5c0MwZEltNENQMDhqLU55ejQtYmRyaEl2MkhqM1hZdEZHd2dkSkJpRkJLZW1UVkJnVHpkTWtlSnVWYzhxRnhNblhUSno3djU5N0FQS215N1BlRUtQcVhQaHFBRnF4a0o1Qkd5eHluWEh2T0NGTXp1dEhkb0dJWkHSAd4BQVVfeXFMTVJ2TFFSZ0oyQTRRSmhuTDlPQUgtN0pJZ3lsY2tFS2o4Z3VjWmY0UEhVR180dEFmU1F4c1VqWFdvZXkzeUx6TkIzeVZMYmZsbTlJN0pSOHdTR2hUMk9yZUllYThoYVBaZEpUVXIwWGxON250NzdqSlRSZVhLeTFKcnhxbGlDZjQ2R3pQRlBHQkNPY0FNTHVzdkpBb21BN3NXNW0tdEFzbkczaFh4b296dUViUnROb1BuWjJKUmtIb3lSb244VTRCLWFJdDI1eU9iZXJlUk96dEN5TFdDN3hB",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 05:55:05 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
       "id": "2812ebb18220b185",
       "source": "Channel 3000",
       "headline": "Here are the rules for recounts of Wisconsin's elections - Channel 3000",
@@ -743,6 +803,25 @@
       "published": "Tue, 11 Aug 2026 22:30:51 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
+      "id": "102350acc334f616",
+      "source": "The Verge",
+      "headline": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+      "summary": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with celebrity cameos and awkward skits, to the confusion of many diehard Pixel fans. But it",
+      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "canonical_url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "image": "",
+      "published": "2026-08-11T13:00:00-04:00",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-12"
@@ -809,25 +888,6 @@
       "appearances": 1
     },
     {
-      "id": "f4396539381b20b9",
-      "source": "Associated Press",
-      "headline": "Former Syrian President Assad sentenced to death in absentia for war crimes - AP News",
-      "summary": "Former Syrian President Assad sentenced to death in absentia for war crimes AP News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbFZ5cVRQTjZBaDZEOFZuSi1ZUXFwd0J6SnNBeGVleVBqdExEY3VweDY5a3ZnUnNpal83SS03QWVGUlN4TExhNDU4VmxKd1FlTDRUaExBbDY2MjU3ZWVqRGptSllyTjRFS2Mzd1JHdlFFaVE5NkY2WjdYREdjYWxqUnJreWZwemR6SVJN",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 16:16:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
       "id": "6ec45c71b994b743",
       "source": "BBC World",
       "headline": "Former judge removed by Orbán elected Hungarian president",
@@ -857,25 +917,6 @@
       "published": "Tue, 11 Aug 2026 23:16:38 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
-      "id": "df1fe1b45b60c980",
-      "source": "Mental Health",
-      "headline": "Experiencing the world through connection and meaning. - Psychology Today",
-      "summary": "Experiencing the world through connection and meaning. Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmI3VjN6WndrYW1Kc05IMDB4Q1RncElsZ0FTRFVMTUlNdkU2OTRmWXdxMndlc185bG8xbVdOOW1oWEdCdlgwb1JBbk9ZcVpRdzFnY0hvSV9GcHdqSVdlYzlFVTkxS3JEbm5vbG9NN21tUXpFVnRLYnhfRWMweGR2bktGX1psbnJyNlpwb1V6TjJHN1NBSTVudWUzY9IBoAFBVV95cUxOY1ZuU2JpRjV0OHdJb0ctX3c1V3NGZVBxUjN1VERJQ2lBbnRrU0g1QWcyZlBiQmtLUDZUTmlBN0ttcjhPM25ONldUQTJuYjA4M2xISmVRb3BPYUFkclZfNUdaSU8yT01OM0M0cHJnTjV2SnhVMEhIUWJrT2twbXVzWHJ5UTdIWFV0TXJkd1JZQjRRTWxXZkczcWRESzZZckdx?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmI3VjN6WndrYW1Kc05IMDB4Q1RncElsZ0FTRFVMTUlNdkU2OTRmWXdxMndlc185bG8xbVdOOW1oWEdCdlgwb1JBbk9ZcVpRdzFnY0hvSV9GcHdqSVdlYzlFVTkxS3JEbm5vbG9NN21tUXpFVnRLYnhfRWMweGR2bktGX1psbnJyNlpwb1V6TjJHN1NBSTVudWUzY9IBoAFBVV95cUxOY1ZuU2JpRjV0OHdJb0ctX3c1V3NGZVBxUjN1VERJQ2lBbnRrU0g1QWcyZlBiQmtLUDZUTmlBN0ttcjhPM25ONldUQTJuYjA4M2xISmVRb3BPYUFkclZfNUdaSU8yT01OM0M0cHJnTjV2SnhVMEhIUWJrT2twbXVzWHJ5UTdIWFV0TXJkd1JZQjRRTWxXZkczcWRESzZZckdx",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 20:08:05 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-08-12"
@@ -1075,25 +1116,6 @@
       "appearances": 1
     },
     {
-      "id": "becea046bf956852",
-      "source": "Animals",
-      "headline": "Climate Change and the Future of Zoos: From Cages to Conservation - Daily Pioneer",
-      "summary": "Climate Change and the Future of Zoos: From Cages to Conservation Daily Pioneer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNE9GVDlBUXNBWTRUSUxndVhiaVhxdS1yVEhjekFmMmppUm1jS0YxRF9wWFI4U04xbjBRRFZGb0ZCVmJsZUtDcGNfeGdBR3ljeEwtSlBodGphVDl3MmFNemdRaERwNlZmRHZ1N2xFRHBaXzFHTGRCMmpxUGJNYlhPN2NSUFpNTFM3MHNTeEU0eEFISTVEN3gxT2hqTkFMR2Q1em1JWFdpeDBnOV9FSFM0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNE9GVDlBUXNBWTRUSUxndVhiaVhxdS1yVEhjekFmMmppUm1jS0YxRF9wWFI4U04xbjBRRFZGb0ZCVmJsZUtDcGNfeGdBR3ljeEwtSlBodGphVDl3MmFNemdRaERwNlZmRHZ1N2xFRHBaXzFHTGRCMmpxUGJNYlhPN2NSUFpNTFM3MHNTeEU0eEFISTVEN3gxT2hqTkFMR2Q1em1JWFdpeDBnOV9FSFM0",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 22:59:05 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
       "id": "d5f067357faf593b",
       "source": "Ars Technica",
       "headline": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -1121,25 +1143,6 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3971/live/3fce6cd0-95b8-11f1-b2ab-0dd01740f9f6.jpg",
       "published": "Tue, 11 Aug 2026 23:31:02 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
-      "id": "2f8a56bd4d213c07",
-      "source": "NIH News",
-      "headline": "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-      "summary": "Childhood screen detects mental health risks National Institutes of Health (NIH) | (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dNZUUwSXVLMVR1YmVtT0FFQ2pWVF9RaE1VOEg0RnVWUWZHa1o0STY1bzB0ajVjS0pnclo3ZHpSdTQ3bEdoZmJ5UURldHlPWF9GY3FiRGZVa1RrNGZyWnkyWl8wSmxZcHFQdDlqb3pvQ0gtcXFjcVFGdVpXdUI2WWphbXB5b0ZrX2FYa0RIYkc1UVlvT0hiSFdIZkZRdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dNZUUwSXVLMVR1YmVtT0FFQ2pWVF9RaE1VOEg0RnVWUWZHa1o0STY1bzB0ajVjS0pnclo3ZHpSdTQ3bEdoZmJ5UURldHlPWF9GY3FiRGZVa1RrNGZyWnkyWl8wSmxZcHFQdDlqb3pvQ0gtcXFjcVFGdVpXdUI2WWphbXB5b0ZrX2FYa0RIYkc1UVlvT0hiSFdIZkZRdw",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 17:55:41 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -1227,16 +1230,35 @@
       "appearances": 1
     },
     {
-      "id": "27e0e7ab2aa3b18f",
-      "source": "MarTech",
-      "headline": "B2B growth doesn’t end at closed-won",
-      "summary": "From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won.",
-      "url": "https://martech.org/b2b-growth-doesnt-end-at-closed-won/",
-      "canonical_url": "https://martech.org/b2b-growth-doesnt-end-at-closed-won",
-      "image": "https://martech.org/wp-content/uploads/2026/05/handshake-in-front-of-computer-screen-800x450.png",
-      "published": "Tue, 11 Aug 2026 14:18:39 +0000",
+      "id": "e7ed3d4dd9ac8257",
+      "source": "B2B Marketing Ops",
+      "headline": "B2B growth doesn’t end at closed-won - MarTech",
+      "summary": "B2B growth doesn’t end at closed-won MarTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZEFkUEYyd2FRdkYyVHNMSFZFREdrZG1jNWJqU1o2cHRrb3JESnl5MTYxNjREQkhiX1lOVmhLakxzQ1FpY2tvSW1SWUc2Z2ljdlM1eHpNbWVkR3h2WDJJUlFtRk5HRUk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZEFkUEYyd2FRdkYyVHNMSFZFREdrZG1jNWJqU1o2cHRrb3JESnl5MTYxNjREQkhiX1lOVmhLakxzQ1FpY2tvSW1SWUc2Z2ljdlM1eHpNbWVkR3h2WDJJUlFtRk5HRUk",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 14:20:49 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-12"
+      ],
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "appearances": 1
+    },
+    {
+      "id": "5a278603f5e591f4",
+      "source": "NPR",
+      "headline": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "canonical_url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 05:00:00 -0400",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-08-12"
@@ -1311,25 +1333,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlFKeXVZNUhPXzF2LUJLanVza2lYRnQzaDJWalRnOXpuWG96YUoyN3I1QUdaOVhFWGh1TkRCcGcwa01fQVVZa3FoS1MydkZJcDNJX1ZOTEhlX0FndTZLaE5NS3RXbG5DMDluNHNtNkFHM0hhYm5OZmRnYTdiX3BTVVlVQWkxN044d2xJWnJSMlFkZ2c4eXZNNXBKNmZHZU9sbWVVRV95ZW1nSjBkWVNHYlQ5MFFxMEFsLXNpX2RLNC1HUmFvbG80Ul9B",
       "image": "",
       "published": "Wed, 12 Aug 2026 06:39:19 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-12"
-      ],
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "appearances": 1
-    },
-    {
-      "id": "8731db13310513eb",
-      "source": "MarTech",
-      "headline": "A 7-step guide to running ads on ChatGPT",
-      "summary": "ChatGPT Ads work differently from other ad platforms. Here’s what early campaigns reveal about CPCs, targeting, measurement, and performance.",
-      "url": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt/",
-      "canonical_url": "https://martech.org/a-7-step-guide-to-running-ads-on-chatgpt",
-      "image": "https://martech.org/searchengineland.com/wp-content/seloads/2026/08/image-21.png",
-      "published": "Tue, 11 Aug 2026 13:54:46 +0000",
       "sections": [
         "work-marketing"
       ],
@@ -4585,27 +4588,6 @@
       "first_seen": "2026-08-09",
       "last_seen": "2026-08-09",
       "appearances": 1
-    },
-    {
-      "id": "adbbfde8daa1ea04",
-      "source": "BBC Health",
-      "headline": "Obesity rates have doubled in England since 1993 - what's going on?",
-      "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/4189fa30-9270-11f1-be40-e93959facbbc.jpg",
-      "published": "Fri, 07 Aug 2026 18:38:46 GMT",
-      "sections": [
-        "quick-scan",
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-08-09",
-        "2026-08-08"
-      ],
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-08-09",
-      "appearances": 2
     },
     {
       "id": "9dc5e0a31489713e",
