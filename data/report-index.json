@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-12.json",
-  "report_date": "2026-08-12",
-  "generated_at": "2026-08-12T09:30:34.184214+00:00",
-  "edition_count": 28,
+  "latest": "data/archive/2026-08-13.json",
+  "report_date": "2026-08-13",
+  "generated_at": "2026-08-13T08:55:20.698364+00:00",
+  "edition_count": 29,
   "editions": [
+    {
+      "report_date": "2026-08-13",
+      "generated_at": "2026-08-13T08:55:20.698364+00:00",
+      "path": "data/archive/2026-08-13.json",
+      "top_story": {
+        "source": "Associated Press",
+        "headline": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News",
+        "summary": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy AP News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejlTamVWblRiVFJyZEhlbUd4Wm02RmRhVkxFdm9tN05WY0hxNEhaa01ENVMxaVdSd0laMnJRZFM4S2puNjRHdnAtdGhleHRoQlpTdUVfS1NkbjlDX3VXNnlpeGRRN3NNeGhLS1BscUd0eGdoamNzczNGMWp4c3l4RkhTRC02bGdlbDYzRDcwOXgzZHdxRjhjSmV1QjZPeTRLUkwtX0xzdUJTQkxmeThYT21UWWkwNXF5WElN?oc=5",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-12",
       "generated_at": "2026-08-12T09:30:34.184214+00:00",
