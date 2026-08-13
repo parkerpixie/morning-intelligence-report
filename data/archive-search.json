@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T08:57:22.640739+00:00",
+  "generated_at": "2026-08-13T09:34:07.398237+00:00",
   "edition_count": 29,
   "story_count": 1801,
   "stories": [
@@ -91,6 +91,25 @@
       "published": "Wed, 12 Aug 2026 10:43:23 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
+      "id": "7024f0f5c24d68b7",
+      "source": "Salesforce",
+      "headline": "Wealthcare Advisory Partners LLC Buys 4,664 Shares of Salesforce Inc. $CRM - MarketBeat",
+      "summary": "Wealthcare Advisory Partners LLC Buys 4,664 Shares of Salesforce Inc. $CRM MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMjA0YnBKZzhka1NXdUJPR2paZXdBUTZpbGRta0hTTHpaVjZPOXc2djA5SENJTEo3d1pHRDdnRW1VenlJNjgzNzlXb0JUTWlORzM2Nk1tcnRlSzM0MFpoY0dwdmt1a3pKUWhxNXJ5M05vbDN0OVo5VDIyTFQ0UERPVzJ3R3BUUURtazhfQnFkODAtN1BnT002OFBrWjUxMjQwR1BkQ3QtMXlFNTE2THdrLXRjcFZrN2xBQ2tYSzRVOXdPXzR4YlNRZ25EODY?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMjA0YnBKZzhka1NXdUJPR2paZXdBUTZpbGRta0hTTHpaVjZPOXc2djA5SENJTEo3d1pHRDdnRW1VenlJNjgzNzlXb0JUTWlORzM2Nk1tcnRlSzM0MFpoY0dwdmt1a3pKUWhxNXJ5M05vbDN0OVo5VDIyTFQ0UERPVzJ3R3BUUURtazhfQnFkODAtN1BnT002OFBrWjUxMjQwR1BkQ3QtMXlFNTE2THdrLXRjcFZrN2xBQ2tYSzRVOXdPXzR4YlNRZ25EODY",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 09:19:52 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-08-13"
@@ -222,6 +241,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
       "published": "Thu, 13 Aug 2026 07:32:07 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
+      "id": "1b2cafc3ae426ef8",
+      "source": "Ars Technica",
+      "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "canonical_url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
+      "published": "Wed, 12 Aug 2026 21:00:30 +0000",
       "sections": [
         "entertainment"
       ],
@@ -406,25 +444,6 @@
       "appearances": 1
     },
     {
-      "id": "916c4f909f543000",
-      "source": "Ars Technica",
-      "headline": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "canonical_url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "published": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "appearances": 1
-    },
-    {
       "id": "9eb60adcb74c2c69",
       "source": "Medical Xpress",
       "headline": "Study explores how sexual minority status and mental health relate to experiences of primary care in England - Medical Xpress",
@@ -568,25 +587,6 @@
       "published": "Wed, 12 Aug 2026 13:32:41 GMT",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "appearances": 1
-    },
-    {
-      "id": "7fedbc2add65c70b",
-      "source": "Search Engine Land",
-      "headline": "Query templates: Expanding the scope of topical authority - searchengineland.com",
-      "summary": "Query templates: Expanding the scope of topical authority searchengineland.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UjltaFVBU2dEdndkT2o2b1o2SFUxTEQxSGxNV3RDcloyaWxaMXhlWF9OeGpDSUJxSEJVRlpPNEU0VC0xaklGQ2ZvOG1OYVNCdGVTQ2l1YmxvSUZ3Y2d6QjZyZU1FV2JqUjJXSjZxdGRqdmwwTzFxag?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UjltaFVBU2dEdndkT2o2b1o2SFUxTEQxSGxNV3RDcloyaWxaMXhlWF9OeGpDSUJxSEJVRlpPNEU0VC0xaklGQ2ZvOG1OYVNCdGVTQ2l1YmxvSUZ3Y2d6QjZyZU1FV2JqUjJXSjZxdGRqdmwwTzFxag",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 15:00:00 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-08-13"
@@ -900,6 +900,25 @@
       "appearances": 1
     },
     {
+      "id": "011522d5826fa303",
+      "source": "MIT Technology Review",
+      "headline": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
       "id": "324a7c6dec953c33",
       "source": "Medical Xpress",
       "headline": "How brain ripples help support working memory - Medical Xpress",
@@ -1109,25 +1128,6 @@
       "appearances": 1
     },
     {
-      "id": "0f36ca8766404acf",
-      "source": "Variety",
-      "headline": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
-      "summary": "The Directors Guild of America and IATSE are urging California Attorney General Rob Bonta to settle his antitrust lawsuit with Paramount, arguing that prolonged uncertainty over the Warner Bros. Discovery merger is bad for the industry. The two unions wrote a letter to Bonta and Paramount Skydance CEO David Ellison on Wednesday, urging the two",
-      "url": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456/",
-      "canonical_url": "https://variety.com/2026/film/news/dga-iatse-rob-bonta-paramount-settle-warner-bros-merger-1236833456",
-      "image": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg",
-      "published": "Thu, 13 Aug 2026 00:14:14 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "appearances": 1
-    },
-    {
       "id": "7b18a194315d0b33",
       "source": "Dane County",
       "headline": "Dane County Regional Airport director wins Great Lakes aviation leadership award - WKOW",
@@ -1290,7 +1290,7 @@
       "image": "",
       "published": "Wed, 12 Aug 2026 20:23:17 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-13"
