@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T08:51:05.882830+00:00",
+  "generated_at": "2026-08-14T09:20:27.792461+00:00",
   "edition_count": 30,
-  "story_count": 1865,
+  "story_count": 1863,
   "stories": [
     {
       "id": "a3acdf913f9fd83d",
@@ -60,6 +60,47 @@
       "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
       "appearances": 1
+    },
+    {
+      "id": "f1d25b06624d8e15",
+      "source": "HubSpot Marketing",
+      "headline": "What is enterprise marketing automation? Features, platforms, and best practices",
+      "summary": "Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers everything you need to make a confident decision.",
+      "url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
+      "canonical_url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/Over%2080%25%20of%20customers%20report%20that%20receiving%20value%20during%20a%20service%20experience%20makes%20them%20more%20likely%20to%20repurchase%2c%20even%20when%20given%20the%20option%20to%20switch%20to%20a%20competitor.%20(1).png",
+      "published": "Fri, 07 Aug 2026 11:00:02 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-14",
+        "2026-08-11",
+        "2026-08-08"
+      ],
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-14",
+      "appearances": 3
+    },
+    {
+      "id": "f2bc2e282b8bccfa",
+      "source": "Good News Network",
+      "headline": "Voyager 2 was Running Low on Power Until NASA Engineered a ‘Big Bang’ to Buy Another Year",
+      "summary": "NASA engineers found a way to free up power aboard Voyager 2, helping the nearly 50-year-old spacecraft continue its scientific work. The Jet Propulsion Laboratory team decided to simultaneously shut down certain powered components and replaced them with options that use less energy—while also making sure Voyager 2 stayed warm enough to function properly. Decaying",
+      "url": "https://www.goodnewsnetwork.org/voyager-2-was-running-low-on-power-until-nasa-engineered-big-bang-to-buy-another-year/",
+      "canonical_url": "https://www.goodnewsnetwork.org/voyager-2-was-running-low-on-power-until-nasa-engineered-big-bang-to-buy-another-year",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 21:42:21 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-08-14",
+        "2026-08-11"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-14",
+      "appearances": 2
     },
     {
       "id": "e8809160fa5678ca",
@@ -157,27 +198,6 @@
       "appearances": 1
     },
     {
-      "id": "a4c329b58fde2a04",
-      "source": "BBC World",
-      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cx2r179e232o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg",
-      "published": "Thu, 13 Aug 2026 01:19:23 GMT",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-14",
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-14",
-      "appearances": 2
-    },
-    {
       "id": "2c01ec5d95b4936b",
       "source": "City of Madison",
       "headline": "Today is Election Day - City of Madison, WI",
@@ -216,6 +236,26 @@
       "appearances": 1
     },
     {
+      "id": "f4db3b7149f7ca29",
+      "source": "HubSpot Marketing",
+      "headline": "The simple way to make your marketing claims 42.9% more believable",
+      "summary": "A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal Geographical Society declared Mount Everest’s elevation to be 29,002 feet. It’s one of those facts that seems fake, but there’s good evidence that it’s true.",
+      "url": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
+      "canonical_url": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/precision-1-20260730-4914936.webp",
+      "published": "Mon, 10 Aug 2026 13:00:04 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-14",
+        "2026-08-11"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-14",
+      "appearances": 2
+    },
+    {
       "id": "113b048c58122b8e",
       "source": "Isthmus",
       "headline": "The attention-getting Pandan Painchiller at Lucille is worth it - Isthmus | Madison, Wisconsin",
@@ -226,25 +266,6 @@
       "published": "Thu, 13 Aug 2026 15:36:34 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-08-14"
-      ],
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "appearances": 1
-    },
-    {
-      "id": "bbb0155c16b776b5",
-      "source": "Mental Health",
-      "headline": "The anatomy of a Rebuttal to ADHD denialism - t.co",
-      "summary": "The anatomy of a Rebuttal to ADHD denialism t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zVFM0WjVybHNoa1dxV0tUbms1NmJQYmh5dGJ2YnpPRG9qWldtTmZ6Ui1razlKU3AycElJ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zVFM0WjVybHNoa1dxV0tUbms1NmJQYmh5dGJ2YnpPRG9qWldtTmZ6Ui1razlKU3AycElJ",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 20:42:01 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-08-14"
@@ -359,25 +380,6 @@
       "published": "Fri, 14 Aug 2026 07:12:09 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-14"
-      ],
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "appearances": 1
-    },
-    {
-      "id": "897a5046cb715a02",
-      "source": "MIT Technology Review",
-      "headline": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 21:00:00 +0000",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-08-14"
@@ -551,7 +553,7 @@
       "image": "",
       "published": "Thu, 13 Aug 2026 20:46:15 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-14"
@@ -620,8 +622,8 @@
     {
       "id": "a35a003d764f3441",
       "source": "Taylor Fashion",
-      "headline": "Newlywed Taylor Swift Trades Wedding Whites for a Little Lavender Dress - Yahoo",
-      "summary": "Newlywed Taylor Swift Trades Wedding Whites for a Little Lavender Dress Yahoo",
+      "headline": "Newlywed Taylor Swift Trades Wedding Whites for a Little Lavender Dress - shopping.yahoo.com",
+      "summary": "Newlywed Taylor Swift Trades Wedding Whites for a Little Lavender Dress shopping.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVdtYWtFLWZYbUFGSTF3WUdsbmJBVVd2MnlPR2dPRHVza1hhYmdWX3BaZFNmN1J5M08zcF9WVUVya0RQQVhkdDQwSU8xSWNTektya3hLNzNUeDFDdGt2WlFtSGEzVzU5enM2bnNvMlNGbXFJeFlYM255UXF5S3dxblVFRXRPSU1tUmtyTk11amFYc3Eyc0NpT29SQlZjd2l2MUo4Xw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVdtYWtFLWZYbUFGSTF3WUdsbmJBVVd2MnlPR2dPRHVza1hhYmdWX3BaZFNmN1J5M08zcF9WVUVya0RQQVhkdDQwSU8xSWNTektya3hLNzNUeDFDdGt2WlFtSGEzVzU5enM2bnNvMlNGbXFJeFlYM255UXF5S3dxblVFRXRPSU1tUmtyTk11amFYc3Eyc0NpT29SQlZjd2l2MUo4Xw",
       "image": "",
@@ -635,6 +637,27 @@
       "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
       "appearances": 1
+    },
+    {
+      "id": "8d0e34f3cea16ce7",
+      "source": "BBC Health",
+      "headline": "New weight-loss pill approved for use in UK",
+      "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
+      "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f7b/live/8cac1af0-94ca-11f1-8dc4-8907761852f3.png",
+      "published": "Mon, 10 Aug 2026 15:25:07 GMT",
+      "sections": [
+        "quick-scan",
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-14",
+        "2026-08-11"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-14",
+      "appearances": 2
     },
     {
       "id": "ab6e5396d3ceaaac",
@@ -732,27 +755,6 @@
       "appearances": 1
     },
     {
-      "id": "8f0a0619b1abdf28",
-      "source": "BBC US & Canada",
-      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2c4/live/5174be90-96f7-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "Thu, 13 Aug 2026 09:40:18 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-14",
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-14",
-      "appearances": 2
-    },
-    {
       "id": "ea7a99c88c4be43a",
       "source": "Wisconsin News",
       "headline": "Marquette Law Poll memo: A look at 2026 primary polling in Wisconsin - Marquette Today",
@@ -829,27 +831,6 @@
       "appearances": 1
     },
     {
-      "id": "347c99bf1af3c8e1",
-      "source": "BBC US & Canada",
-      "headline": "Iran has shaken Trump's support - is his loyal base sticking with him?",
-      "summary": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efd/live/f0862c10-970d-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "Wed, 12 Aug 2026 23:26:21 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-14",
-        "2026-08-13"
-      ],
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-14",
-      "appearances": 2
-    },
-    {
       "id": "487df3123b087a71",
       "source": "Reuters",
       "headline": "India's Tata Motors PV shares fall after profit plunges, warns on margins - Reuters",
@@ -876,7 +857,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEdMZjE5aFdOZl9INDhVejhSV0FNUGpQcllYWjM4ZkZZQTZLVGxDOTNzODVlUldzNzJ3WVpucXlVUEY2VF8xZW5iRXBUZGlBa0F3ZXNfaG9sTEZFWGZra0ltMnBvMndjcFBJdURVRi01MW4wTkIxOEhmc3MwMXBqV1hCZGN0bHRmR2p3ZklDb1BtS1V4b3NteEU1YUZOajhhYmw3dnhfZ1FGMVUyWk90NklvQQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEdMZjE5aFdOZl9INDhVejhSV0FNUGpQcllYWjM4ZkZZQTZLVGxDOTNzODVlUldzNzJ3WVpucXlVUEY2VF8xZW5iRXBUZGlBa0F3ZXNfaG9sTEZFWGZra0ltMnBvMndjcFBJdURVRi01MW4wTkIxOEhmc3MwMXBqV1hCZGN0bHRmR2p3ZklDb1BtS1V4b3NteEU1YUZOajhhYmw3dnhfZ1FGMVUyWk90NklvQQ",
       "image": "",
-      "published": "Thu, 13 Aug 2026 21:06:00 GMT",
+      "published": "Thu, 13 Aug 2026 21:23:47 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -907,14 +888,14 @@
       "appearances": 1
     },
     {
-      "id": "2c566266f3a1271d",
-      "source": "Marketing Ops",
-      "headline": "Google's Ask Advisor now benchmarks your campaign performance against anonymized industry peers - MarketScale",
-      "summary": "Google's Ask Advisor now benchmarks your campaign performance against anonymized industry peers MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb1FRdmpHYlNDQUJuWkt3M2hwV0tXQTFXTVk3Tmc3T25IdEpXSmlyS3hzbzJpMjhaOExqcFZIdXdRZU91dHBhcTEzX2hldEFoTzJpMHcxVTNlN1hNV1dHUnl4RVlWa2pPeUtudlJxdUxXYXE3QmZqU2V2VE54NnJ2a1g3MmVOTllibXROZ3ktS2JlSnNZekZCX0JfMUoyM1ZEWTN0dE1sdUQxc0VqcWZkZXhFYjdMNWtkVDBoRzNNOERIdjJlakl4MXBRdW5vZDFCMm5uWmd0QW1lMlJnaUZBLWNn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb1FRdmpHYlNDQUJuWkt3M2hwV0tXQTFXTVk3Tmc3T25IdEpXSmlyS3hzbzJpMjhaOExqcFZIdXdRZU91dHBhcTEzX2hldEFoTzJpMHcxVTNlN1hNV1dHUnl4RVlWa2pPeUtudlJxdUxXYXE3QmZqU2V2VE54NnJ2a1g3MmVOTllibXROZ3ktS2JlSnNZekZCX0JfMUoyM1ZEWTN0dE1sdUQxc0VqcWZkZXhFYjdMNWtkVDBoRzNNOERIdjJlakl4MXBRdW5vZDFCMm5uWmd0QW1lMlJnaUZBLWNn",
+      "id": "66dc828ea23ea1c1",
+      "source": "Search Engine Land",
+      "headline": "Google Ads is removing language targeting from Search campaigns - Search Engine Land",
+      "summary": "Google Ads is removing language targeting from Search campaigns Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz",
       "image": "",
-      "published": "Thu, 13 Aug 2026 15:10:22 GMT",
+      "published": "Thu, 13 Aug 2026 21:30:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -926,16 +907,16 @@
       "appearances": 1
     },
     {
-      "id": "66dc828ea23ea1c1",
-      "source": "Search Engine Land",
-      "headline": "Google Ads is removing language targeting from Search campaigns - Search Engine Land",
-      "summary": "Google Ads is removing language targeting from Search campaigns Search Engine Land",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz",
+      "id": "4d0ab1833b4f2563",
+      "source": "Good News Network",
+      "headline": "Good News in History, August 14",
+      "summary": "85 years ago today, US President Franklin Roosevelt and British Prime Minister Winston Churchill issued the joint declaration of peace and progress that later became known as the Atlantic Charter. The statement was issued months before the US officially entered World War II, yet it set out the goals for after it was won. READ",
+      "url": "https://www.goodnewsnetwork.org/events060814/",
+      "canonical_url": "https://www.goodnewsnetwork.org/events060814",
       "image": "",
-      "published": "Thu, 13 Aug 2026 21:30:00 GMT",
+      "published": "Fri, 14 Aug 2026 07:00:00 +0000",
       "sections": [
-        "work-marketing"
+        "wonderful"
       ],
       "report_dates": [
         "2026-08-14"
@@ -1000,6 +981,26 @@
       "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
       "appearances": 1
+    },
+    {
+      "id": "b983a349b858206e",
+      "source": "BBC Health",
+      "headline": "England set to be one of the first countries to eliminate hepatitis C",
+      "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
+      "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c75gk620r22o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "Tue, 11 Aug 2026 08:54:57 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-14",
+        "2026-08-11"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-14",
+      "appearances": 2
     },
     {
       "id": "884db6e1237f186d",
@@ -1097,25 +1098,6 @@
       "appearances": 1
     },
     {
-      "id": "87287616984fde94",
-      "source": "B2B Marketing Ops",
-      "headline": "Decision Counsel Launches Revenue Activation Practice, Names Amanda Sussan Head of Revenue Activation - StreetInsider",
-      "summary": "Decision Counsel Launches Revenue Activation Practice, Names Amanda Sussan Head of Revenue Activation StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUx5Y2pLMmFkUmxlZlRiUjVGNENJbnY2ejJGTHpuNUlDM2M3LWcwU193RE1wbloxbHpyUElVNFZUUEkxMmh2b2c4Y29UVThaU1lRelhkc3NVTkxYeXBEUU9xSzdpV1dCLVZaOGxHc3dLbDlsVmJPUGpvMUlUdWtHUUdtclJla0g2LXBYY1JCOTNOb1RaMGhhZmhONVVOeE1UQzJJWnJ4WGJOLWZkUFZ3eWVlNDFMdEFhZ2xjbHlNaVFQWXotM21UTC1jNWNoSkxaZjFONHgydEtrbUk1b0psN2FBUVc1T3poVHRTS0RRUkI2UHhx?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUx5Y2pLMmFkUmxlZlRiUjVGNENJbnY2ejJGTHpuNUlDM2M3LWcwU193RE1wbloxbHpyUElVNFZUUEkxMmh2b2c4Y29UVThaU1lRelhkc3NVTkxYeXBEUU9xSzdpV1dCLVZaOGxHc3dLbDlsVmJPUGpvMUlUdWtHUUdtclJla0g2LXBYY1JCOTNOb1RaMGhhZmhONVVOeE1UQzJJWnJ4WGJOLWZkUFZ3eWVlNDFMdEFhZ2xjbHlNaVFQWXotM21UTC1jNWNoSkxaZjFONHgydEtrbUk1b0psN2FBUVc1T3poVHRTS0RRUkI2UHhx",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 18:28:42 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-14"
-      ],
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "appearances": 1
-    },
-    {
       "id": "5720eae6536c7c91",
       "source": "Variety",
       "headline": "COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)",
@@ -1163,7 +1145,7 @@
       "image": "",
       "published": "Thu, 13 Aug 2026 18:20:37 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-14"
@@ -1273,14 +1255,14 @@
     {
       "id": "90becef6abfb7338",
       "source": "Animals",
-      "headline": "Anderson animal shelter successfully evacuates all animals, thanks community for rallying around them - WTHR",
-      "summary": "Anderson animal shelter successfully evacuates all animals, thanks community for rallying around them WTHR",
+      "headline": "Anderson animal shelter successfully evacuates all animals, thanks community for rallying around them - wthr.com",
+      "summary": "Anderson animal shelter successfully evacuates all animals, thanks community for rallying around them wthr.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNXFJUnEzUm50Z2UzZGcya0t4ZVhQVFl2Y01Fc1E2NGt2eG9reU9HanpMZlFSNDg1X3RIQ25QdlMzdGdjRW9NcWhCUVhRZ2NYejZPT05RWHNiOFdXMDd4OTUwSWlKVWQ4amN4N0pSRnZBZndlWXhCdHBVMVQwdjVYdkxkdXdldnhlVVRYRng0Qk5rRUpmVzU1dzdpbTFqekNxbWpSaG91OFVIdEpmRFFKUHkzalBHX0I5MmZWelk3bjRobnBuYXJMTmVsT0x4aXU4RnFqRmRSa1owSTRsZnJqcGRZb05xSkxCR0hlN3JlcmxsT0U?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNXFJUnEzUm50Z2UzZGcya0t4ZVhQVFl2Y01Fc1E2NGt2eG9reU9HanpMZlFSNDg1X3RIQ25QdlMzdGdjRW9NcWhCUVhRZ2NYejZPT05RWHNiOFdXMDd4OTUwSWlKVWQ4amN4N0pSRnZBZndlWXhCdHBVMVQwdjVYdkxkdXdldnhlVVRYRng0Qk5rRUpmVzU1dzdpbTFqekNxbWpSaG91OFVIdEpmRFFKUHkzalBHX0I5MmZWelk3bjRobnBuYXJMTmVsT0x4aXU4RnFqRmRSa1owSTRsZnJqcGRZb05xSkxCR0hlN3JlcmxsT0U",
       "image": "",
       "published": "Thu, 13 Aug 2026 19:06:00 GMT",
       "sections": [
-        "animals"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-14"
@@ -1357,6 +1339,25 @@
       "published": "Fri, 14 Aug 2026 06:00:30 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-08-14"
+      ],
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "appearances": 1
+    },
+    {
+      "id": "9acbaca5320f1b73",
+      "source": "Animals",
+      "headline": "\"Every animal gets a golden ticket\" - Dog is my CoPilot celebrates saving 50,000 animals - Central Oregon Daily",
+      "summary": "\"Every animal gets a golden ticket\" - Dog is my CoPilot celebrates saving 50,000 animals Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlZVdF9uWlVqUnhGd3VSX3IwdVltU1liZW9ZcHNFcmNrbWZhcFAwbl9RVEEwckpzN0ZidnpSRXhBQlJwdkdkRjI1ZjRRdF9MenFKelNEWUphdkZaNEdVTnZZSlU3c0JTNFBRV29HOWo5M3Y0ZkdxZkVlVHVHVTZCNVFnMVZPQ2VkTUJFSFZVc1pLc0VRVVBUc3AzWFhIeFAzRW1LZnFndUtib3F4aE5uUTNxbWtBWW0xS0YtSGFlUFlvSHpKbjFNUEtLVmxVbFFUWmZKa3RWcUs3ZEhKcWxoVnB3cG5RV0xG?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlZVdF9uWlVqUnhGd3VSX3IwdVltU1liZW9ZcHNFcmNrbWZhcFAwbl9RVEEwckpzN0ZidnpSRXhBQlJwdkdkRjI1ZjRRdF9MenFKelNEWUphdkZaNEdVTnZZSlU3c0JTNFBRV29HOWo5M3Y0ZkdxZkVlVHVHVTZCNVFnMVZPQ2VkTUJFSFZVc1pLc0VRVVBUc3AzWFhIeFAzRW1LZnFndUtib3F4aE5uUTNxbWtBWW0xS0YtSGFlUFlvSHpKbjFNUEtLVmxVbFFUWmZKa3RWcUs3ZEhKcWxoVnB3cG5RV0xG",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 23:52:00 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-08-14"
@@ -1661,6 +1662,25 @@
       "published": "Wed, 12 Aug 2026 22:58:45 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
+      "id": "a4c329b58fde2a04",
+      "source": "BBC World",
+      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx2r179e232o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg",
+      "published": "Thu, 13 Aug 2026 01:19:23 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-08-13"
@@ -2024,6 +2044,25 @@
       "published": "Wed, 12 Aug 2026 20:30:00 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
+      "id": "8f0a0619b1abdf28",
+      "source": "BBC US & Canada",
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "Wed, 12 Aug 2026 23:19:57 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-08-13"
@@ -2575,6 +2614,25 @@
       "published": "Wed, 12 Aug 2026 12:27:00 +0000",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-13"
+      ],
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "appearances": 1
+    },
+    {
+      "id": "347c99bf1af3c8e1",
+      "source": "BBC US & Canada",
+      "headline": "'If you're not conservative, don't come here': The town making missiles for Trump",
+      "summary": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a229/live/1eb9ff30-96e1-11f1-870d-5d08c49babb2.jpg",
+      "published": "Wed, 12 Aug 2026 23:26:21 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-08-13"
@@ -4173,26 +4231,6 @@
       "appearances": 1
     },
     {
-      "id": "f1d25b06624d8e15",
-      "source": "HubSpot Marketing",
-      "headline": "What is enterprise marketing automation? Features, platforms, and best practices",
-      "summary": "Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers everything you need to make a confident decision.",
-      "url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
-      "canonical_url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/Over%2080%25%20of%20customers%20report%20that%20receiving%20value%20during%20a%20service%20experience%20makes%20them%20more%20likely%20to%20repurchase%2c%20even%20when%20given%20the%20option%20to%20switch%20to%20a%20competitor.%20(1).png",
-      "published": "Fri, 07 Aug 2026 11:00:02 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-11",
-        "2026-08-08"
-      ],
-      "first_seen": "2026-08-08",
-      "last_seen": "2026-08-11",
-      "appearances": 2
-    },
-    {
       "id": "f16c3dd059785c3b",
       "source": "BBC Science",
       "headline": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
@@ -4241,25 +4279,6 @@
       "published": "Tue, 11 Aug 2026 08:44:52 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-08-11"
-      ],
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "appearances": 1
-    },
-    {
-      "id": "f2bc2e282b8bccfa",
-      "source": "Good News Network",
-      "headline": "Voyager 2 was Running Low on Power Until NASA Engineered a ‘Big Bang’ to Buy Another Year",
-      "summary": "NASA engineers found a way to free up power aboard Voyager 2, helping the nearly 50-year-old spacecraft continue its scientific work. The Jet Propulsion Laboratory team decided to simultaneously shut down certain powered components and replaced them with options that use less energy—while also making sure Voyager 2 stayed warm enough to function properly. Decaying",
-      "url": "https://www.goodnewsnetwork.org/voyager-2-was-running-low-on-power-until-nasa-engineered-big-bang-to-buy-another-year/",
-      "canonical_url": "https://www.goodnewsnetwork.org/voyager-2-was-running-low-on-power-until-nasa-engineered-big-bang-to-buy-another-year",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 21:42:21 +0000",
-      "sections": [
-        "wonderful"
       ],
       "report_dates": [
         "2026-08-11"
@@ -4382,25 +4401,6 @@
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-11",
       "appearances": 2
-    },
-    {
-      "id": "f4db3b7149f7ca29",
-      "source": "HubSpot Marketing",
-      "headline": "The simple way to make your marketing claims 42.9% more believable",
-      "summary": "A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal Geographical Society declared Mount Everest’s elevation to be 29,002 feet. It’s one of those facts that seems fake, but there’s good evidence that it’s true.",
-      "url": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
-      "canonical_url": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/precision-1-20260730-4914936.webp",
-      "published": "Mon, 10 Aug 2026 13:00:04 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-11"
-      ],
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "appearances": 1
     },
     {
       "id": "c55e803931df33cc",
@@ -4546,25 +4546,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOME5SX1pxVVhEbXQ1WmozRFU0VlhWaUR1NnJqQjdFRmplbHJJS3FHVFc0dXpWWDlMcUhnaGdGMVNkS21jTnhhbTE2TTk0VVhJbnV4Y1p5QjE4U1E0bExvT0lYMWpCYVA4QWNOaTZyZEEwczZYcVhWUGJ1b3YzMEh6TzhEWUpHQ2tWb0FHbHB2LXNEeGRCNDZlNVVWY0RBVG5reE1JWnVGdEFaRDB2MkM1cmkzSHBZSUpJSVMtZ0Y4ODJWNEdYbDRpOTJJZTB5VG9WWC00Y2lCUQ",
       "image": "",
       "published": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-08-11"
-      ],
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "appearances": 1
-    },
-    {
-      "id": "8d0e34f3cea16ce7",
-      "source": "BBC Health",
-      "headline": "New weight-loss pill approved for use in UK",
-      "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
-      "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f7b/live/8cac1af0-94ca-11f1-8dc4-8907761852f3.png",
-      "published": "Mon, 10 Aug 2026 15:25:07 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -4856,25 +4837,6 @@
       "published": "Mon, 10 Aug 2026 21:46:47 +0000",
       "sections": [
         "animals"
-      ],
-      "report_dates": [
-        "2026-08-11"
-      ],
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "appearances": 1
-    },
-    {
-      "id": "b983a349b858206e",
-      "source": "BBC Health",
-      "headline": "England set to eliminate hepatitis C",
-      "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
-      "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c75gk620r22o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "Tue, 11 Aug 2026 08:54:57 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-08-11"
