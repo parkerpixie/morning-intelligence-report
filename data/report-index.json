@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-13.json",
-  "report_date": "2026-08-13",
-  "generated_at": "2026-08-13T09:32:08.231795+00:00",
-  "edition_count": 29,
+  "latest": "data/archive/2026-08-14.json",
+  "report_date": "2026-08-14",
+  "generated_at": "2026-08-14T08:49:02.531277+00:00",
+  "edition_count": 30,
   "editions": [
+    {
+      "report_date": "2026-08-14",
+      "generated_at": "2026-08-14T08:49:02.531277+00:00",
+      "path": "data/archive/2026-08-14.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+        "summary": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump's administration failed to prove an ongoing violation of federal civil rights laws.",
+        "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-13",
       "generated_at": "2026-08-13T09:32:08.231795+00:00",
