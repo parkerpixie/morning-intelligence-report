@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-14.json",
-  "report_date": "2026-08-14",
-  "generated_at": "2026-08-14T09:19:03.652729+00:00",
-  "edition_count": 30,
+  "latest": "data/archive/2026-08-15.json",
+  "report_date": "2026-08-15",
+  "generated_at": "2026-08-15T08:01:47.655146+00:00",
+  "edition_count": 31,
   "editions": [
+    {
+      "report_date": "2026-08-15",
+      "generated_at": "2026-08-15T08:01:47.655146+00:00",
+      "path": "data/archive/2026-08-15.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Trump asks US Supreme Court to allow ballroom work to continue",
+        "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/f1f95720-97e9-11f1-a76b-f1c27c51f3da.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-14",
       "generated_at": "2026-08-14T09:19:03.652729+00:00",
