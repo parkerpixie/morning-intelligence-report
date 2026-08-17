@@ -26,8 +26,17 @@
     document.head.appendChild(script);
   };
 
+  const loadReportRefresh = () => {
+    if (document.querySelector('script[src^="report-refresh.js"]')) return;
+    const script = document.createElement('script');
+    script.src = 'report-refresh.js?v=20260816-1';
+    script.defer = true;
+    document.head.appendChild(script);
+  };
+
   loadPersonalizedFeatures();
   loadWeatherEnhancements();
+  loadReportRefresh();
   if (!nav) return;
 
   const capybaraLink = nav.querySelector('[data-nav="capybara"]');
