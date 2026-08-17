@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T08:27:31.818064+00:00",
+  "generated_at": "2026-08-17T09:00:36.125784+00:00",
   "edition_count": 33,
   "story_count": 2046,
   "stories": [
@@ -47,8 +47,8 @@
     {
       "id": "ae5594f3e41a1fd3",
       "source": "Customer Data",
-      "headline": "Zeotap's composable CDP now runs entirely inside a customer's Snowflake account, eliminating data copies - marketscale.com",
-      "summary": "Zeotap's composable CDP now runs entirely inside a customer's Snowflake account, eliminating data copies marketscale.com",
+      "headline": "Zeotap's composable CDP now runs entirely inside a customer's Snowflake account, eliminating data copies - MarketScale",
+      "summary": "Zeotap's composable CDP now runs entirely inside a customer's Snowflake account, eliminating data copies MarketScale",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEh0VjU1RWEyWDJDNlVWUFh1TzgzYlJ1aW0yazRRTEg1VDRMUU81b1cyYVlXcHBhd2JidVQ0eEJjR1ZFYzV6T2ZYSnZDR3VwU3Q4SG1yTWFFT0tJVzZSZUh2NEZUcndWVGxRSG1GT0t1YWdLRWNBUGVUdEFNeUFYOExtMkkxbHdxdHlYX19RRndNeElJZ0tKbmJtTFhoX0x6aHFOV2VtSWwwMDViUWpxNmt5SmNjQUpDazc1cjRhTHBwOEI4NkRaaU9qNGZYeVVvelpkSEpwT3hJWkVfMVV0TEdBWVVJM0FRdTZV?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEh0VjU1RWEyWDJDNlVWUFh1TzgzYlJ1aW0yazRRTEg1VDRMUU81b1cyYVlXcHBhd2JidVQ0eEJjR1ZFYzV6T2ZYSnZDR3VwU3Q4SG1yTWFFT0tJVzZSZUh2NEZUcndWVGxRSG1GT0t1YWdLRWNBUGVUdEFNeUFYOExtMkkxbHdxdHlYX19RRndNeElJZ0tKbmJtTFhoX0x6aHFOV2VtSWwwMDViUWpxNmt5SmNjQUpDazc1cjRhTHBwOEI4NkRaaU9qNGZYeVVvelpkSEpwT3hJWkVfMVV0TEdBWVVJM0FRdTZV",
       "image": "",
@@ -203,8 +203,27 @@
       "appearances": 1
     },
     {
+      "id": "f07dd1c36d8f59aa",
+      "source": "Medical Xpress",
+      "headline": "Wearable smart patch could automatically deliver aid during a fentanyl overdose - Medical Xpress",
+      "summary": "Wearable smart patch could automatically deliver aid during a fentanyl overdose Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWdOX0l1dE1yUkdsQlc2VHNNZDEtcllWU1hrcWFpdG13TEM2dThKaVBYUXpOcnl2X2w0cWNMNURxMXVockQtdmRuM1hYbmpHZXhOSHpuWkZTczR3MDBISXBMZnNFMEJRd1AxTFRkSTg1V2xmaHl4T1lxRjIxcnhHanhTS1BqQjJXaVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWdOX0l1dE1yUkdsQlc2VHNNZDEtcllWU1hrcWFpdG13TEM2dThKaVBYUXpOcnl2X2w0cWNMNURxMXVockQtdmRuM1hYbmpHZXhOSHpuWkZTczR3MDBISXBMZnNFMEJRd1AxTFRkSTg1V2xmaHl4T1lxRjIxcnhHanhTS1BqQjJXaVE",
+      "image": "",
+      "published": "Sun, 16 Aug 2026 12:40:02 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-17"
+      ],
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "appearances": 1
+    },
+    {
       "id": "180fa05d0380c627",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "US commander says mental health a 'priority' on USS Lincoln",
       "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
       "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
@@ -286,7 +305,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "Mon, 17 Aug 2026 04:50:56 GMT",
+      "published": "Mon, 17 Aug 2026 08:43:12 GMT",
       "sections": [
         "big-story"
       ],
@@ -416,25 +435,6 @@
       "appearances": 1
     },
     {
-      "id": "f270351777d7e913",
-      "source": "BBC US & Canada",
-      "headline": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c0l5583903yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "Sun, 16 Aug 2026 19:00:23 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-08-17"
-      ],
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "appearances": 1
-    },
-    {
       "id": "4ebcbe5706028d78",
       "source": "Taylor Fashion",
       "headline": "Taylor Swift Wows in Tulle Wedding Guest Dress and 10-Carat Diamond Ring - instyle.com",
@@ -513,8 +513,8 @@
     {
       "id": "59205289dd727d3b",
       "source": "ScienceDaily Neuroscience",
-      "headline": "Scientists tracked kids for 8 years — the screen time result was unexpected - sciencedaily.com",
-      "summary": "Scientists tracked kids for 8 years — the screen time result was unexpected sciencedaily.com",
+      "headline": "Scientists tracked kids for 8 years — the screen time result was unexpected - ScienceDaily",
+      "summary": "Scientists tracked kids for 8 years — the screen time result was unexpected ScienceDaily",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zN0xrUW9fRjE4T0VlV2t5c3dlV2JqdXdnaDkxMlJGLUcxaVV5eVIwbXlBYmdXN2l2cFJwTUVUa1ZGWUFHZTNxd0ZybjFHd3dGMUI2ckR5d1lxMmU0WXpoazJaOUttNTdNbkRObVNrSQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zN0xrUW9fRjE4T0VlV2t5c3dlV2JqdXdnaDkxMlJGLUcxaVV5eVIwbXlBYmdXN2l2cFJwTUVUa1ZGWUFHZTNxd0ZybjFHd3dGMUI2ckR5d1lxMmU0WXpoazJaOUttNTdNbkRObVNrSQ",
       "image": "",
@@ -596,7 +596,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXpFZXRRNWNOV294dkxzM0JOZUIzWWp0Ym5EN0hwWGh1d1ZvbWhmVXVRRF9OalYwNGNnQ0dZb3ZRZ2ZHUHBQSW53cVE1eVViZVhDaFhSdlllMEVWUk5yV3pXNXBkb2s0NFFqeG9jdkhyZTlUV2dNdHdqSzhuek82NW0td1RWZkVjOUo4dGRMRnQ4Tld2UXhOQ2s1cEs3MW8?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXpFZXRRNWNOV294dkxzM0JOZUIzWWp0Ym5EN0hwWGh1d1ZvbWhmVXVRRF9OalYwNGNnQ0dZb3ZRZ2ZHUHBQSW53cVE1eVViZVhDaFhSdlllMEVWUk5yV3pXNXBkb2s0NFFqeG9jdkhyZTlUV2dNdHdqSzhuek82NW0td1RWZkVjOUo4dGRMRnQ4Tld2UXhOQ2s1cEs3MW8",
       "image": "",
-      "published": "Mon, 17 Aug 2026 07:24:26 GMT",
+      "published": "Mon, 17 Aug 2026 08:28:09 GMT",
       "sections": [
         "must-know"
       ],
@@ -628,6 +628,25 @@
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-17",
       "appearances": 3
+    },
+    {
+      "id": "1dc716e982fca9dc",
+      "source": "Wisconsin News",
+      "headline": "Pleasant today, storms tomorrow in southeast Wisconsin - WISN",
+      "summary": "Pleasant today, storms tomorrow in southeast Wisconsin WISN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2JOUUQ0M0gwc1JaYmdYSm1HWHloZU1qeWJjTTNaSm1lNDlkTm82c1lJeDBhYVhTb3BHY204T0JxVmtZbWw3dVNBMmVfMFBZM3V0Wk14TFUwVkdGQ3B2RlFUdzg5YkVNZGR2WU9kYlRGa2xaQ040ZFFUd0lWaENaM2pwZVVjSzhRTDJuZ24zd1UwSGxx?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2JOUUQ0M0gwc1JaYmdYSm1HWHloZU1qeWJjTTNaSm1lNDlkTm82c1lJeDBhYVhTb3BHY204T0JxVmtZbWw3dVNBMmVfMFBZM3V0Wk14TFUwVkdGQ3B2RlFUdzg5YkVNZGR2WU9kYlRGa2xaQ040ZFFUd0lWaENaM2pwZVVjSzhRTDJuZ24zd1UwSGxx",
+      "image": "",
+      "published": "Mon, 17 Aug 2026 08:48:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-08-17"
+      ],
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "appearances": 1
     },
     {
       "id": "6e608114c5cae692",
@@ -709,25 +728,6 @@
       "appearances": 1
     },
     {
-      "id": "4cfad0a49d9a7d7f",
-      "source": "Wisconsin News",
-      "headline": "Nine Wisconsin Rapids area offensive standouts to watch in 2026 - Daily Tribune Media",
-      "summary": "Nine Wisconsin Rapids area offensive standouts to watch in 2026 Daily Tribune Media",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0Y3OGFBLXUxcTJmNzFtN28tWkM4OTEwY1M4SGlvTjVoTXlIc3JEMjkya3dOQlBHcHVuSVBGUmRsalhDa3pndk50Mi1uZnRyNWt6NUxxT0FwTThZN2NHRUxlWkw0VGRSbzl0M1ZtVkJLbUZpUlc4OFNraERIQm1zWnlnYVhjbUtNY2poYlJub3V5dlRvMGttU2dQSVlRUFhWbDZyZjcwbkh0OHBXZXZXaUc2eUN2UzQ5STVTQ1NnbHc4cTJtSnZVRExvVjBlc3NuMzZ6bko5Yw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0Y3OGFBLXUxcTJmNzFtN28tWkM4OTEwY1M4SGlvTjVoTXlIc3JEMjkya3dOQlBHcHVuSVBGUmRsalhDa3pndk50Mi1uZnRyNWt6NUxxT0FwTThZN2NHRUxlWkw0VGRSbzl0M1ZtVkJLbUZpUlc4OFNraERIQm1zWnlnYVhjbUtNY2poYlJub3V5dlRvMGttU2dQSVlRUFhWbDZyZjcwbkh0OHBXZXZXaUc2eUN2UzQ5STVTQ1NnbHc4cTJtSnZVRExvVjBlc3NuMzZ6bko5Yw",
-      "image": "",
-      "published": "Mon, 17 Aug 2026 08:04:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-08-17"
-      ],
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "appearances": 1
-    },
-    {
       "id": "fb37a56aa8cc5bb0",
       "source": "NPR",
       "headline": "Multiple people dead as flooding continues in Indiana",
@@ -747,14 +747,14 @@
       "appearances": 1
     },
     {
-      "id": "aaf46fda789bfd4d",
+      "id": "3ad10c5c0a2ad4f7",
       "source": "Wisconsin News",
-      "headline": "Measles outbreak grows in southwest Wisconsin - - Iron Mountain Daily News",
-      "summary": "Measles outbreak grows in southwest Wisconsin - Iron Mountain Daily News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3hqZjBvc0I0S2V0bGxrV3FDdk5aVk9DYndTU1ZTVVROSUpOUWZLQTJvRkotM1pEOFRjUEMtdklKSjEzT2lCMVh0UG1PbzNBc3ZaSUlKdkJjQzh6N0hpXzN4Tjc2Wnd6dG1iMWs5dXUtX1ByQ0JfYloweDQzZ1Q4c1hwZzVlLS1hN1dpMmY2VUtNdFF6dmttVUhDVno1UTRSM0pUdXZOMHZ6c3dy?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3hqZjBvc0I0S2V0bGxrV3FDdk5aVk9DYndTU1ZTVVROSUpOUWZLQTJvRkotM1pEOFRjUEMtdklKSjEzT2lCMVh0UG1PbzNBc3ZaSUlKdkJjQzh6N0hpXzN4Tjc2Wnd6dG1iMWs5dXUtX1ByQ0JfYloweDQzZ1Q4c1hwZzVlLS1hN1dpMmY2VUtNdFF6dmttVUhDVno1UTRSM0pUdXZOMHZ6c3dy",
+      "headline": "Multiple fights, officer punched on final night of Wisconsin State Fair - WKOW",
+      "summary": "Multiple fights, officer punched on final night of Wisconsin State Fair WKOW",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOGhQUTgxWk1tLTl6emliLXA3ZGFiSG5oVklueFVYX1l5cUdDRktjMlByYVVpUnBsSmZxYjNMR0lSd2xlRnVYLXpPWGNDOTJxX044TFFVRDdzcHhXMGxON0pSN1ZydXZvMXJZV0R0b3dxTjY5b3BFdG44bjZaWVdzZEVxQUl5bGRRWUV5NkgtTDBoV0tyMHdiVVV5VHBBM1F1M1FPUDRBZ3hwLWtoUXp0M1F5c24yNlF6UEFSTVBlTHpuRjZXUVZQcWY2YW1sWW55U2Y2RjlNa3RBYk02cG9j?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOGhQUTgxWk1tLTl6emliLXA3ZGFiSG5oVklueFVYX1l5cUdDRktjMlByYVVpUnBsSmZxYjNMR0lSd2xlRnVYLXpPWGNDOTJxX044TFFVRDdzcHhXMGxON0pSN1ZydXZvMXJZV0R0b3dxTjY5b3BFdG44bjZaWVdzZEVxQUl5bGRRWUV5NkgtTDBoV0tyMHdiVVV5VHBBM1F1M1FPUDRBZ3hwLWtoUXp0M1F5c24yNlF6UEFSTVBlTHpuRjZXUVZQcWY2YW1sWW55U2Y2RjlNa3RBYk02cG9j",
       "image": "",
-      "published": "Mon, 17 Aug 2026 05:57:55 GMT",
+      "published": "Mon, 17 Aug 2026 08:32:00 GMT",
       "sections": [
         "local"
       ],
@@ -1072,16 +1072,35 @@
       "appearances": 2
     },
     {
-      "id": "15822a8c57782dd6",
+      "id": "3dda52535beb81c2",
       "source": "Wisconsin News",
-      "headline": "Four standout freshmen in Wisconsin's fall camp - 247Sports",
-      "summary": "Four standout freshmen in Wisconsin's fall camp 247Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZW5BWkVqX2JMUXlUZ1NtSXZ4TmJ2VVNKTGFYVnNSaXl6UmJTQlItQU1YZ1BQWDB1VVJ2LXE1eGttUjlHOFdjX0ttOU5sbm55MTJHNXVyRlpmLVBaeXIyY3lGOVh3eGpCLUVNMDJIVF9JdkhkbkpoWUVZQ3M4ZElGYkM3NlZwZDRKVG14Vk4wS0VOS0VCUUt6M29ZM2k5QjFhQ1JhdVUxV2VGb0EzamVxNE8ybUZHUTgyLWp0T0VxV29GVWUwTVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZW5BWkVqX2JMUXlUZ1NtSXZ4TmJ2VVNKTGFYVnNSaXl6UmJTQlItQU1YZ1BQWDB1VVJ2LXE1eGttUjlHOFdjX0ttOU5sbm55MTJHNXVyRlpmLVBaeXIyY3lGOVh3eGpCLUVNMDJIVF9JdkhkbkpoWUVZQ3M4ZElGYkM3NlZwZDRKVG14Vk4wS0VOS0VCUUt6M29ZM2k5QjFhQ1JhdVUxV2VGb0EzamVxNE8ybUZHUTgyLWp0T0VxV29GVWUwTVE",
+      "headline": "From left, U.S. Rep. Ilhan Omar, Twitch streamer Hasan Piker and Wisconsin gubernatorial candidate Francesca Hong campaign together on Aug. 2, 2026, in South Milwaukee. - The Lufkin Daily…",
+      "summary": "From left, U.S. Rep. Ilhan Omar, Twitch streamer Hasan Piker and Wisconsin gubernatorial candidate Francesca Hong campaign together on Aug. 2, 2026, in South Milwaukee. The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeElqay0ySHRNcFNpYnlwakhIZkFzSFJkZElpb0pRRzdfZlhvLVRROTQ3THZJSUdSTEw0dHlzVDhTSTMtb3hZUmNObkFVRnU5c3UwZ01pZkdLSWFta1ktWENXNVphSm0yVk1fUm15c2JjLW93Nl9weEMwbkRkNW5PbTdzc2wxY0dkSmNpWU15c2tBMEx0Y19PV1R5SWF0ODd5SHd1MUswVmhZaHI2UGlOR1EzdlEyWjVoMXhLM3ItZlhGN0VWOTdrMjZhdG1pc2o0eHZSSkN0UjdtWURqNEdNR0FlUmZCRjB1NGgtYnVFTE9USlNYaXBfZXA5bVFfdkpIODF4SmpvMUt2bjdRakttR2xVR2xCb25UVmFJcA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeElqay0ySHRNcFNpYnlwakhIZkFzSFJkZElpb0pRRzdfZlhvLVRROTQ3THZJSUdSTEw0dHlzVDhTSTMtb3hZUmNObkFVRnU5c3UwZ01pZkdLSWFta1ktWENXNVphSm0yVk1fUm15c2JjLW93Nl9weEMwbkRkNW5PbTdzc2wxY0dkSmNpWU15c2tBMEx0Y19PV1R5SWF0ODd5SHd1MUswVmhZaHI2UGlOR1EzdlEyWjVoMXhLM3ItZlhGN0VWOTdrMjZhdG1pc2o0eHZSSkN0UjdtWURqNEdNR0FlUmZCRjB1NGgtYnVFTE9USlNYaXBfZXA5bVFfdkpIODF4SmpvMUt2bjdRakttR2xVR2xCb25UVmFJcA",
       "image": "",
-      "published": "Mon, 17 Aug 2026 05:13:35 GMT",
+      "published": "Mon, 17 Aug 2026 08:04:58 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-08-17"
+      ],
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "appearances": 1
+    },
+    {
+      "id": "4c93b2a7ddaea826",
+      "source": "Reuters",
+      "headline": "FILE PHOTO: Myanmar President Min Aung Hlaing visits Thailand - The Lufkin Daily News",
+      "summary": "FILE PHOTO: Myanmar President Min Aung Hlaing visits Thailand The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR2ItV0EwUG85SlNITFlzRmEyWktvTEVyTEdidDNudlJOSXFqNExhS2dXdVhTdnZsN0FzZlVtb3ZQdXdFSGVsYXBfTnNyVHBaWmxpdEVZN1RKZUwxdC1wQU9MeHkyTW9FSDR2RU5JU2ltRVJxeGRLNWh6ZjZ5N2g3ZE1uRWRjSEZ3Z1lxZnFpRTk0dmdvNUVydW1QbV91aDhxM3pDQmhseUhrbmxsUzBEdDc1X3Q0WlNDV1owV0tZNV96SHBpc2VIUnRrQTl5bGRySlY1MUdTVVVNWS1SR0pVbmZFZFU2ekdaWGFwNmRhNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR2ItV0EwUG85SlNITFlzRmEyWktvTEVyTEdidDNudlJOSXFqNExhS2dXdVhTdnZsN0FzZlVtb3ZQdXdFSGVsYXBfTnNyVHBaWmxpdEVZN1RKZUwxdC1wQU9MeHkyTW9FSDR2RU5JU2ltRVJxeGRLNWh6ZjZ5N2g3ZE1uRWRjSEZ3Z1lxZnFpRTk0dmdvNUVydW1QbV91aDhxM3pDQmhseUhrbmxsUzBEdDc1X3Q0WlNDV1owV0tZNV96SHBpc2VIUnRrQTl5bGRySlY1MUdTVVVNWS1SR0pVbmZFZFU2ekdaWGFwNmRhNA",
+      "image": "",
+      "published": "Mon, 17 Aug 2026 06:42:43 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-08-17"
@@ -1112,8 +1131,8 @@
     {
       "id": "4684e9987fdbc9a9",
       "source": "Animals",
-      "headline": "Dog euthanized after hit-and-run in Tagbilaran - newsinfo.inquirer.net",
-      "summary": "Dog euthanized after hit-and-run in Tagbilaran newsinfo.inquirer.net",
+      "headline": "Dog euthanized after hit-and-run in Tagbilaran - Inquirer.net",
+      "summary": "Dog euthanized after hit-and-run in Tagbilaran Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDlKdzNqWDZ0dGpvZ2tLbmNuQkRsOTRvYmpBQTRBb3hhRXlXWGlteFJuS0Fna2IxVTdXR3BTX28zSnB1ZkVaMW9sUWpHMGt3N3hEVGVHc2czOFJ1V1lYT25KemlPUXRDektvVWlRVWVGeU95S2sycnYtU3ptNEhBTnlFdGd5SkF4WXJIbtIBkgFBVV95cUxQZjZFSzRLS01PQnpYellYVWhWYi1GT2RrX1F2ODlEUmQ3NXBlSFRQLWg1emhrVjh2eEd1R2hmRi1feXE5RHhldnpsNnNfbm5GLTg1WFpNcHVIMHEtUk80S2pJNVVXT3RfN1JXZXFXalNTdVdWTWlHc2lFYzZFcFJ5YmRmdkdmNC1ZLWw5LXBwSm9JQQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDlKdzNqWDZ0dGpvZ2tLbmNuQkRsOTRvYmpBQTRBb3hhRXlXWGlteFJuS0Fna2IxVTdXR3BTX28zSnB1ZkVaMW9sUWpHMGt3N3hEVGVHc2czOFJ1V1lYT25KemlPUXRDektvVWlRVWVGeU95S2sycnYtU3ptNEhBTnlFdGd5SkF4WXJIbtIBkgFBVV95cUxQZjZFSzRLS01PQnpYellYVWhWYi1GT2RrX1F2ODlEUmQ3NXBlSFRQLWg1emhrVjh2eEd1R2hmRi1feXE5RHhldnpsNnNfbm5GLTg1WFpNcHVIMHEtUk80S2pJNVVXT3RfN1JXZXFXalNTdVdWTWlHc2lFYzZFcFJ5YmRmdkdmNC1ZLWw5LXBwSm9JQQ",
       "image": "",
@@ -1288,8 +1307,8 @@
     {
       "id": "8722ee5f884908df",
       "source": "ScienceDaily Neuroscience",
-      "headline": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it - sciencedaily.com",
-      "summary": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it sciencedaily.com",
+      "headline": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it - ScienceDaily",
+      "summary": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it ScienceDaily",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ybmVtcFp2N2FDR1NDeThHb1lvY1dadnFpNHloVEhRYnc0RlZvUU1PTXRaRnk3YkZmWVIyTEN4T2YtYm5RNXhBWEJ5eDQwMmpCQThLeV91SG5VM2g5RTNRUGc5cElKeUNLOXQ3UTFOOA?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ybmVtcFp2N2FDR1NDeThHb1lvY1dadnFpNHloVEhRYnc0RlZvUU1PTXRaRnk3YkZmWVIyTEN4T2YtYm5RNXhBWEJ5eDQwMmpCQThLeV91SG5VM2g5RTNRUGc5cElKeUNLOXQ3UTFOOA",
       "image": "",
@@ -1334,25 +1353,6 @@
       "published": "Mon, 17 Aug 2026 07:10:13 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-17"
-      ],
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "appearances": 1
-    },
-    {
-      "id": "7fb5dca93b106a33",
-      "source": "Madison Local",
-      "headline": "1 dead, 2 flown to hospital in motorcycle crash in Sauk County - WKOW",
-      "summary": "1 dead, 2 flown to hospital in motorcycle crash in Sauk County WKOW",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON1BwMXZYZVJxNl9BaEE5c29xclRIVk8zMDF2ZnpSRlRMUGpMSXU3Z19rUWt4OXJESERCWnA1NkNrTUJfbXdGNy10Y0I2LUFkMV9MbWcyajRPVVR3c0JyZzRMcjI1andzckJEM2FIX05EcXlXZ0hGb3lYYUkzd2Y3MGVjakV0RUVGU2FtcndOVkI1RVdtQTZjM2NSQmc4TU9hc0ZBYUo1b2gxLTFSSmkwZ3ZaTmE5VkFLYU9UbWdScDFSejl3UmU0WTFaS2dfQUUtODJQdjRZVDNsNU1SUnRwNDI3Zw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON1BwMXZYZVJxNl9BaEE5c29xclRIVk8zMDF2ZnpSRlRMUGpMSXU3Z19rUWt4OXJESERCWnA1NkNrTUJfbXdGNy10Y0I2LUFkMV9MbWcyajRPVVR3c0JyZzRMcjI1andzckJEM2FIX05EcXlXZ0hGb3lYYUkzd2Y3MGVjakV0RUVGU2FtcndOVkI1RVdtQTZjM2NSQmc4TU9hc0ZBYUo1b2gxLTFSSmkwZ3ZaTmE5VkFLYU9UbWdScDFSejl3UmU0WTFaS2dfQUUtODJQdjRZVDNsNU1SUnRwNDI3Zw",
-      "image": "",
-      "published": "Sun, 16 Aug 2026 12:12:00 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-08-17"
