@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A private feelings wheel, DBT practice space, mood calendar, and journal inside the Morning Intelligence Report.">
+  <meta name="theme-color" content="#58364f">
+  <title>Feelings & DBT | Morning Intelligence Report</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="feelings.css?v=20260817-1">
+  <script src="nav-state.js?v=20260817-2" defer></script>
+  <script src="feelings.js?v=20260817-1" defer></script>
+</head>
+<body class="feelings-page" data-page="feelings">
+  <a class="skip-link" href="#main-content">Skip to feelings practice</a>
+
+  <header class="site-header feelings-site-header" id="top">
+    <div class="header-inner">
+      <a class="site-brand" href="index.html">
+        <span class="brand-eyebrow">Your daily field guide</span>
+        <span class="brand-name">Morning Intelligence Report</span>
+      </a>
+      <div class="header-meta">
+        <p class="greeting" id="feelings-greeting">DBT practice space</p>
+        <time class="report-date" id="feelings-date">Today</time>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Report sections">
+    <div class="section-nav-inner">
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="big-story.html" data-nav="big-story">Big Story</a>
+      <a href="quick-scan.html" data-nav="quick-scan">Quick Scan</a>
+      <a href="local.html" data-nav="local">Local</a>
+      <a href="must-know.html" data-nav="must-know">Must Know</a>
+      <a href="ai-tech.html" data-nav="ai-tech">AI &amp; Tech</a>
+      <a href="work-marketing.html" data-nav="work-marketing">Work</a>
+      <a href="wellbeing.html" data-nav="wellbeing">Wellbeing</a>
+      <a href="entertainment.html" data-nav="entertainment">Culture</a>
+      <a href="animals.html" data-nav="animals">Animals</a>
+      <a href="wonderful.html" data-nav="wonderful">Wonderful</a>
+      <a href="capybara.html" data-nav="capybara">Capybara</a>
+      <a href="feelings.html" data-nav="feelings">Feelings</a>
+      <a href="archive.html" data-nav="archive">Archive</a>
+    </div>
+  </nav>
+
+  <main id="main-content" class="feelings-main">
+    <section class="feelings-hero" aria-labelledby="feelings-title">
+      <div class="feelings-hero-copy">
+        <p class="section-kicker">Notice • name • choose</p>
+        <h1 id="feelings-title">Your feelings are data.<br><span>They are not the boss.</span></h1>
+        <p class="feelings-hero-lede">Start broad, move outward until the word actually fits, then decide what the moment is asking for. The goal is not to get rid of the feeling. The goal is to respond on purpose.</p>
+        <div class="feelings-hero-pills" aria-label="What this space includes">
+          <span>3-layer feelings wheel</span>
+          <span>DBT decision point</span>
+          <span>mood calendar</span>
+          <span>journal</span>
+        </div>
+      </div>
+      <div class="feelings-hero-orbit" aria-hidden="true">
+        <div class="orbit-ring orbit-ring-one"></div>
+        <div class="orbit-ring orbit-ring-two"></div>
+        <div class="orbit-moon">☾</div>
+        <span class="orbit-star star-one">✦</span>
+        <span class="orbit-star star-two">✧</span>
+        <span class="orbit-star star-three">✦</span>
+      </div>
+    </section>
+
+    <section class="dbt-dashboard" aria-label="Feelings and DBT tools">
+      <div class="dbt-tabs" role="tablist" aria-label="Feelings tools">
+        <button class="dbt-tab is-active" type="button" role="tab" aria-selected="true" data-tab="checkin">Check-in</button>
+        <button class="dbt-tab" type="button" role="tab" aria-selected="false" data-tab="calendar">Calendar</button>
+        <button class="dbt-tab" type="button" role="tab" aria-selected="false" data-tab="journal">Journal</button>
+        <button class="dbt-tab" type="button" role="tab" aria-selected="false" data-tab="skills">DBT Skills</button>
+      </div>
+
+      <section class="dbt-view is-active" id="view-checkin" data-view="checkin" role="tabpanel">
+        <div class="checkin-progress" aria-label="Check-in progress">
+          <span class="progress-step is-active" data-progress="1">1 <small>Family</small></span>
+          <span class="progress-line"></span>
+          <span class="progress-step" data-progress="2">2 <small>Middle</small></span>
+          <span class="progress-line"></span>
+          <span class="progress-step" data-progress="3">3 <small>Specific</small></span>
+          <span class="progress-line"></span>
+          <span class="progress-step" data-progress="4">4 <small>Choose</small></span>
+        </div>
+
+        <div class="checkin-card family-step" id="family-step">
+          <div class="checkin-heading">
+            <div>
+              <p class="section-kicker">Step 1</p>
+              <h2>Start in the middle.</h2>
+              <p>Which broad family is closest? It does not have to be perfect yet.</p>
+            </div>
+            <button class="text-button" type="button" id="reset-checkin">Start over</button>
+          </div>
+
+          <div class="emotion-wheel-shell">
+            <div class="emotion-wheel" id="emotion-wheel" aria-label="Core feeling families">
+              <div class="emotion-wheel-center">
+                <span id="wheel-center-label">How are you<br>feeling?</span>
+              </div>
+              <div id="family-buttons"></div>
+            </div>
+          </div>
+          <p class="wheel-instruction">Tap a family. The next layer will open underneath it.</p>
+        </div>
+
+        <div class="checkin-card reveal-card" id="middle-step" hidden>
+          <div class="checkin-heading">
+            <div>
+              <p class="section-kicker">Step 2</p>
+              <h2 id="middle-heading">Get more specific.</h2>
+              <p id="middle-copy">Pick the middle-ring word that gets closer.</p>
+            </div>
+          </div>
+          <div class="selection-path" id="selection-path-middle"></div>
+          <div class="middle-grid" id="middle-options"></div>
+        </div>
+
+        <div class="checkin-card reveal-card" id="outer-step" hidden>
+          <div class="checkin-heading">
+            <div>
+              <p class="section-kicker">Step 3</p>
+              <h2 id="outer-heading">Name what is actually here.</h2>
+              <p>You can choose more than one outer-ring feeling. The specific words are what get saved.</p>
+            </div>
+          </div>
+          <div class="selection-path" id="selection-path-outer"></div>
+          <div class="outer-grid" id="outer-options"></div>
+          <button class="primary-action" id="continue-to-context" type="button" disabled>Continue to DBT decision point</button>
+        </div>
+
+        <div class="checkin-card reveal-card" id="context-step" hidden>
+          <div class="checkin-heading">
+            <div>
+              <p class="section-kicker">Step 4</p>
+              <h2>What job does this moment need you to do?</h2>
+              <p>This is the DBT fork in the road. Choose what is most true right now, not what sounds nicest.</p>
+            </div>
+          </div>
+
+          <div class="chosen-feelings-summary" id="chosen-feelings-summary"></div>
+
+          <div class="context-block">
+            <div class="context-title-row">
+              <h3>Intensity</h3>
+              <output id="intensity-output" for="intensity">5 / 10</output>
+            </div>
+            <input id="intensity" class="intensity-slider" type="range" min="1" max="10" value="5">
+            <div class="range-labels"><span>present</span><span>very loud</span></div>
+          </div>
+
+          <div class="context-block">
+            <h3>What is the real task?</h3>
+            <div class="decision-grid" id="decision-options">
+              <button type="button" data-decision="impulse"><strong>I might react impulsively.</strong><span>I need a pause before I make this worse.</span></button>
+              <button type="button" data-decision="body"><strong>My body is in full alarm.</strong><span>Thinking can wait. Regulation first.</span></button>
+              <button type="button" data-decision="facts"><strong>I may be treating a thought like a fact.</strong><span>I need to get back to wise mind before acting.</span></button>
+              <button type="button" data-decision="urge"><strong>My emotion is pushing an unhelpful urge.</strong><span>I know what I want to do, and I suspect the opposite may work better.</span></button>
+              <button type="button" data-decision="change"><strong>There is an actual problem I can change.</strong><span>I need a plan, not more rumination.</span></button>
+              <button type="button" data-decision="accept"><strong>I cannot change what already happened.</strong><span>The fight with reality is adding suffering.</span></button>
+              <button type="button" data-decision="ask"><strong>I need to ask, say no, or set a boundary.</strong><span>The objective of the conversation matters.</span></button>
+              <button type="button" data-decision="respect"><strong>I need to keep my self-respect.</strong><span>I know what I value and do not want to abandon myself to keep the peace.</span></button>
+            </div>
+          </div>
+
+          <div class="context-block optional-context">
+            <div class="context-title-row">
+              <h3>Body / hormone context <span>optional</span></h3>
+              <span class="local-only">Saved only on this device</span>
+            </div>
+            <div class="context-chip-grid" id="body-context-options">
+              <button type="button" data-body="period">Period</button>
+              <button type="button" data-body="hormonal-shift">Possible hormonal shift</button>
+              <button type="button" data-body="sleep">Poor sleep</button>
+              <button type="button" data-body="pain">Pain / physical discomfort</button>
+              <button type="button" data-body="hot-flash">Hot flash / night sweats</button>
+              <button type="button" data-body="overstimulated">Overstimulated</button>
+              <button type="button" data-body="unsure">Not sure</button>
+            </div>
+          </div>
+
+          <div class="context-block">
+            <label for="checkin-note"><strong>What happened?</strong> <span class="label-soft">Optional. One sentence is enough.</span></label>
+            <textarea id="checkin-note" rows="4" placeholder="Prompting event, the story my brain is telling, or whatever I want future-me to remember..."></textarea>
+          </div>
+
+          <button class="primary-action" id="recommend-skill" type="button" disabled>Recommend a DBT skill</button>
+        </div>
+
+        <div class="checkin-card skill-result" id="skill-result" hidden>
+          <div class="skill-result-copy">
+            <p class="section-kicker">Best fit right now</p>
+            <h2 id="recommended-skill-name">DBT Skill</h2>
+            <p id="recommended-skill-why"></p>
+            <div class="right-now-box">
+              <span>Use it right now</span>
+              <p id="recommended-skill-now"></p>
+            </div>
+            <div class="skill-result-actions">
+              <button class="primary-action" id="open-recommended-card" type="button">Open the full skill reminder</button>
+              <button class="secondary-action" id="save-checkin" type="button">Save this check-in</button>
+            </div>
+            <p class="save-status" id="save-status" role="status"></p>
+          </div>
+          <button class="skill-result-image" id="recommended-image-button" type="button" aria-label="Open full skill reminder">
+            <img id="recommended-skill-image" alt="">
+          </button>
+        </div>
+      </section>
+
+      <section class="dbt-view" id="view-calendar" data-view="calendar" role="tabpanel" hidden>
+        <div class="calendar-header-card">
+          <div>
+            <p class="section-kicker">Pattern view</p>
+            <h2>Your feelings calendar</h2>
+            <p>Days take on the color of the emotion family you logged. Multiple check-ins stack as small color marks.</p>
+          </div>
+          <div class="calendar-stats" id="calendar-stats"></div>
+        </div>
+        <div class="mood-calendar-card">
+          <div class="calendar-controls">
+            <button type="button" id="calendar-prev" aria-label="Previous month">‹</button>
+            <h3 id="calendar-month-label">Month</h3>
+            <button type="button" id="calendar-next" aria-label="Next month">›</button>
+          </div>
+          <div class="calendar-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+          <div class="mood-calendar-grid" id="mood-calendar-grid"></div>
+        </div>
+        <div class="calendar-day-detail" id="calendar-day-detail">
+          <p class="empty-state">Tap a day with a color mark to see what you logged.</p>
+        </div>
+        <p class="pattern-note">This view is for noticing patterns, not proving causes. Bodies are complicated little ecosystems.</p>
+      </section>
+
+      <section class="dbt-view" id="view-journal" data-view="journal" role="tabpanel" hidden>
+        <div class="journal-toolbar">
+          <div>
+            <p class="section-kicker">Your record</p>
+            <h2>Journal &amp; check-ins</h2>
+            <p>Look back without having to reconstruct the whole emotional crime scene from memory.</p>
+          </div>
+          <select id="journal-filter" aria-label="Filter journal by emotion family">
+            <option value="all">All families</option>
+          </select>
+        </div>
+        <div class="journal-list" id="journal-list"></div>
+      </section>
+
+      <section class="dbt-view" id="view-skills" data-view="skills" role="tabpanel" hidden>
+        <div class="skills-library-header">
+          <div>
+            <p class="section-kicker">DBT library</p>
+            <h2>Eight skills are live. Eight more are on deck.</h2>
+            <p>Tap any finished card to open the full infographic. The library will grow as the remaining cards are added.</p>
+          </div>
+          <div class="skills-count"><strong>8</strong><span>ready now</span></div>
+        </div>
+        <div class="skills-module-group" data-module="Mindfulness">
+          <h3><span class="module-dot mindfulness-dot"></span>Mindfulness</h3>
+          <div class="skill-gallery" id="skills-mindfulness"></div>
+        </div>
+        <div class="skills-module-group" data-module="Distress Tolerance">
+          <h3><span class="module-dot distress-dot"></span>Distress Tolerance</h3>
+          <div class="skill-gallery" id="skills-distress"></div>
+        </div>
+        <div class="skills-module-group" data-module="Emotion Regulation">
+          <h3><span class="module-dot emotion-dot"></span>Emotion Regulation</h3>
+          <div class="skill-gallery" id="skills-emotion"></div>
+        </div>
+        <div class="skills-module-group" data-module="Interpersonal Effectiveness">
+          <h3><span class="module-dot interpersonal-dot"></span>Interpersonal Effectiveness</h3>
+          <div class="skill-gallery" id="skills-interpersonal"></div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div class="skill-modal" id="skill-modal" hidden>
+    <button class="skill-modal-backdrop" id="skill-modal-backdrop" type="button" aria-label="Close skill reminder"></button>
+    <div class="skill-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="skill-modal-title">
+      <div class="skill-modal-topbar">
+        <div>
+          <p id="skill-modal-module">DBT skill</p>
+          <h2 id="skill-modal-title">Skill</h2>
+        </div>
+        <button class="skill-modal-close" id="skill-modal-close" type="button" aria-label="Close">×</button>
+      </div>
+      <div class="skill-modal-scroll">
+        <img id="skill-modal-image" alt="">
+        <div class="skill-modal-practice">
+          <span>Bring it back to this moment</span>
+          <p id="skill-modal-prompt"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><strong>Morning Intelligence Report</strong></p>
+      <p>Your feelings log and journal stay in this browser unless you clear its local data.</p>
+    </div>
+  </footer>
+</body>
+</html>
