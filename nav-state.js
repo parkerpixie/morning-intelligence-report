@@ -36,7 +36,24 @@
     document.head.appendChild(script);
   };
 
-  if (!isFeelingsPage) {
+  const loadFeelingsUiV2 = () => {
+    if (!document.querySelector('link[href^="feelings-ui-v2.css"]')) {
+      const style = document.createElement('link');
+      style.rel = 'stylesheet';
+      style.href = 'feelings-ui-v2.css?v=20260817-2';
+      document.head.appendChild(style);
+    }
+    if (!document.querySelector('script[src^="feelings-ui-v2.js"]')) {
+      const script = document.createElement('script');
+      script.src = 'feelings-ui-v2.js?v=20260817-2';
+      script.defer = true;
+      document.head.appendChild(script);
+    }
+  };
+
+  if (isFeelingsPage) {
+    loadFeelingsUiV2();
+  } else {
     loadPersonalizedFeatures();
     loadWeatherEnhancements();
     loadReportRefresh();
