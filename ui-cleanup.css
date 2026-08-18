@@ -1,0 +1,14 @@
+/* Keep the report header focused on the only refresh information that is reliable:
+   the timestamp of the last completed report. */
+.report-freshness,
+#manual-report-refresh,
+.manual-report-refresh-row {
+  display: none !important;
+}
+
+/* Pollen data has not been reliably available from the current weather endpoint.
+   Hide the dead panel instead of presenting permanent unavailable states. */
+#pollen-panel,
+.pollen-panel {
+  display: none !important;
+}
