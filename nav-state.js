@@ -1,6 +1,8 @@
 (() => {
   const NAV_SCROLL_KEY = 'morning-intelligence-report:section-nav-scroll';
   const nav = document.querySelector('.section-nav-inner');
+  const activePage = document.body.dataset.page;
+  const isFeelingsPage = activePage === 'feelings';
 
   const loadPersonalizedFeatures = () => {
     if (!document.querySelector('link[href^="personalized-morning.css"]')) {
@@ -34,10 +36,24 @@
     document.head.appendChild(script);
   };
 
-  loadPersonalizedFeatures();
-  loadWeatherEnhancements();
-  loadReportRefresh();
+  if (!isFeelingsPage) {
+    loadPersonalizedFeatures();
+    loadWeatherEnhancements();
+    loadReportRefresh();
+  }
+
   if (!nav) return;
+
+  let feelingsLink = nav.querySelector('[data-nav="feelings"]');
+  if (!feelingsLink) {
+    feelingsLink = document.createElement('a');
+    feelingsLink.href = 'feelings.html';
+    feelingsLink.dataset.nav = 'feelings';
+    feelingsLink.textContent = 'Feelings';
+    const archive = nav.querySelector('[data-nav="archive"]');
+    if (archive) archive.before(feelingsLink);
+    else nav.appendChild(feelingsLink);
+  }
 
   const capybaraLink = nav.querySelector('[data-nav="capybara"]');
   const bigStoryLink = nav.querySelector('[data-nav="big-story"]');
@@ -46,7 +62,6 @@
   if (capybaraLink && bigStoryLink) bigStoryLink.after(capybaraLink);
   if (archiveLink) nav.appendChild(archiveLink);
 
-  const activePage = document.body.dataset.page;
   const activeLink = activePage ? nav.querySelector(`[data-nav="${activePage}"]`) : null;
 
   try {
