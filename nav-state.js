@@ -28,14 +28,6 @@
     document.head.appendChild(script);
   };
 
-  const loadReportRefresh = () => {
-    if (document.querySelector('script[src^="report-refresh.js"]')) return;
-    const script = document.createElement('script');
-    script.src = 'report-refresh.js?v=20260816-1';
-    script.defer = true;
-    document.head.appendChild(script);
-  };
-
   const loadFeelingsUiV2 = () => {
     if (!document.querySelector('link[href^="feelings-ui-v2.css"]')) {
       const style = document.createElement('link');
@@ -56,7 +48,6 @@
   } else {
     loadPersonalizedFeatures();
     loadWeatherEnhancements();
-    loadReportRefresh();
   }
 
   if (!nav) return;
