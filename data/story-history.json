@@ -1,371 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-    "headline": "Trump asks US Supreme Court to allow ballroom work to continue",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.wpr.org/news/wisconsins-general-election-ad-war-governor",
-    "headline": "Wisconsin’s general election ad war for governor has begun",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://pbswisconsin.org/news-item/recapping-wisconsins-2026-primary-election-for-governor/",
-    "headline": "Recapping Wisconsin’s 2026 primary election for governor",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRUdBSXFNZkkzRUpUTVNJeXMtSHo3eTBxbEpDOFZmY3BmRm10Mi1XOVZBaGh5U0daa3RQdEhiLUl5VVAta0dqX0dETkJCRmJxa3FjWmpXbGVMRGRMVWVxRjd2NjBmUnhFeXlBU09PWEd5NUpmSzkteVJ0S2xVOExxWFJMWi0xUF9pYWR3Wkx1LTBmS0l3a1dQTkRKVG9nbExUMmZZUno1Mk8yMkJoWDlqSlhtYWpjUjU0bnZEU1dLZEN0bnpQMVQ3M0s1eGFZc00?oc=5",
-    "headline": "Primary election results for Madison, Dane County - captimes.com",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVRVVDdIeXNpOGFBazBrY0lMR2QxRGoyQ0RiNW9ZaVRKUmhIdmNkTHF4M3AyZUpWQ3g3cXJ4TF9wWFh4WVZUTlZYMUU4a1JCU3RVcUlCVWUxdnJlSF8tOFJoVm5uanJNV0o3MTZwS3NLVkItLVNUQTJSY19aZTRBN3lPOC1JdFFnemF6UFZVaTlkLXZkQnRvYmxtWS1Zb0lxMHY1VVJoSmV5N0V0RE5kUEstTWZPLU1xb08tQQ?oc=5",
-    "headline": "Justice Taylor joins Wisconsin Supreme Court - WKOW",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.wpr.org/news/wisconsin-jeffrey-peterson-federal-lawsuit",
-    "headline": "Longtime Wisconsin educator in federal lawsuit claims he was fired for being gay",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMlZTSVpyclg4ZnZyRkdUd2RfSDBJcVd3eEdlSWNuUlZIUXhnaVRlVFRUX01yaXRqYjIwRTdlRmF2V0FiOF9URFF2T2R2NUNqRGp1amlfUHNwZTFfOXB0dUdaT2pVNkVhRktsUjhod1ZSazJLeHVYcWh3eW1kRndRTnNOOVA2Q0VMUDJnS0dFUDRhTzFnOU5JM0h6VUphRktzam14LUlZSDd1ZUpsaTN1d3Iyb3N2SFlkaUl5VXpleFRFWFlqdjE5UllYOW9RbzFu?oc=5",
-    "headline": "Dane County welcomes 20 new law enforcement recruits - Channel 3000",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTBmR0hRM0Z5bmoxOTBSSGt2c2gyTW11NEpYQThQamFfTkUyejdJWldUQUFiR0tJUWFzUnJ3MzE3YWdWSjBCcTZRY3gtTmh5R2xOSGNEdVpoLU5IbmdFc2RpdmkyeVFsQmRjSEduTmpwS1hlQVUtcGhIY2EzWG9yYWtCaWtjNFNTLTVlWVhWTUYyM2dWS3c?oc=5",
-    "headline": "Wisconsin's primary was a warning for Democrats - Isthmus | Madison, Wisconsin",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0lPZXRtMmRTMXVDejdSZWplV21BMUtfXzNZOFdQRTlfYTJwWG40dFlwME9yT09ZZmZBWl81T1AtOXdNR0pQVGJWRlFGQ0VCd0NoTkJ1V1J5WlRDZ2hCR3ZPRkd3Q2xycXYzUWRWY1E4c1N3Zl9nM2Z1UXZjUF96bF96RzZXR0tQa3cyWWREeHhGS0FFUzVDQmY2ajU0NGYzOWJxVllSR0N5U1FncmZwZmZVanNMajZjeGhV0gHPAUFVX3lxTFBJN3JOZzlIb19idEwzcjliam5rekRHYnR5NzVqMTRXckJ5QUVRMHdjM0stNExDNHBRVUJEZTRhVHhVZE1FcF9SYXJNQXVGZUFLdWkxVExtTXp2eUd2aDB1SFctLVMxUndMS0lHRXhseFE0TW9lZG5lbHJZdFJFek5HQUlRbC1FcUFMV1ZZdnVocjlfQTFDeWt3bXVmX2p4UndTYnNZQ0VkbTB6ejJzM016NUJxbi1BOUQ3ZnktVlhYb1NVWVpwNkhxYzZUckxFbw?oc=5",
-    "headline": "E-bike or e-moto? What Wisconsin law says about classes, speeds and where you can ride - WMTV 15 NEWS",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "headline": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-    "headline": "France's top court blocks social media ban for under-15s",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-    "headline": "Dozens injured and thousands evacuated in Croatia wildfire",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/ckg3763gy2ro?at_medium=RSS&at_campaign=rss",
-    "headline": "Luigi Mangione has pleaded guilty. What happens to his other trial?",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-    "headline": "We learned 5 important things about the economy this week",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2tLUGpob21DMTJlb3ZFSUZCNWczU2laSjM1ZWR0R1Jxb0kzeXM4bXlvNk9TcWlQejBWWXE3NDRzYTJxLUVTYm50U1ozeENzaVNINmZiakV3N001S1NxUldwRHpvSFk2RXBFMnhKblhMSzlNbVFaeERqMmkxVm9oNlc1cVNBeHF4cllEbmFEYmZLNVpSVHpyVE5Mb1VDbmJ5TEE?oc=5",
-    "headline": "Trump asks Supreme Court to let White House ballroom construction continue during appeal - AP News",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5",
-    "headline": "Zambia resumes vote counting after election officials attacked - Reuters",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ?oc=5",
-    "headline": "Wall Street slips from its record following the latest weak update on the US economy - AP News",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "headline": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-    "headline": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZXJJY04ySnVxTkUtdkpsQVY1LWNJWDhxWWR4WWloWHAtaFVTT0g2QUtTUFk2TFRHMUxrQjVLLVFsSk5UeGZZWlBlRy1CZFoyR3l6bU16dzN0QlpENGo1QXR2TzBNa2xlRkhLNl80MHVhZmdQVWNPN2xyYUQ3VklsS1hpZFhwbnp1bnIxUkVXVFZrZzNVYzgwWTYzUUszWVdybFdpYkhhTGhuTjVUaF9wVkZncm1RcVdjOXlNdUlmeU9td1h3QkR6d1FCekY1cTJmMWgtNHJiQnYwcElCYzViQ0psVkEybkZFLUdBMVpmcjFzcHk0OElEUWpGdnNRWWp2R2pSM3kwZWZXNnItdk52UVJ5d2I?oc=5",
-    "headline": "Eisman's AI bombshell: \"If OpenAI and Anthropic collapse, we have a problem\" – Price war coming from China - Bankingnews",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUGFuS1p1WmlBTHc5ZlExUjRKMVZWMzNxZDBrU19uNnM3c1cySmQtOVk1R1JVOF93LWY5T0x6NUo0MzRYX1VBaEYtSHNlS1pyNUFMZDFjRXZyT0pxWnhXdVBWYlJFZHhxVUhuYVFOQ1c3RUFTV3I5QWtmTG9RaFd1a2pNM1NvVWdqWHVCN1NxSUZ2cnRJWVl4QVNJMFdSMGk0ZXROajUwVlFRRHFWejF0Q1Z4TDY4WWRRR05INnNLYmtzdTBSQkZ4bko4TmZLekdnY2xEUTVZN3RubFlBS2Q3RThsblA?oc=5",
-    "headline": "Exclusive-Anthropic IPO Valuation Hinges on $190-200 Billion 2028 Revenue Forecast, Sources Say - U.S. News & World Report",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-    "headline": "Lamborghini’s flagship Revuelto levels up with SV trim",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaE9Nc016VURxeDhXOUNWaFhqNnNmZnNyVFU1bFlrT0hlMzRjRENxalZIUDFpdjZpdHN6blhHalQ4bFZqVW1WM3VUTEljMjcwYkx1QkN6N19QQWRIdWhDeHV6WG9qZngxNWlfbTVQYWl1d215T2ZZRkhWWEpGSF84Uw?oc=5",
-    "headline": "AI Watermark: New Obligations on Anthropic, Google, OpenAI - SecNews.gr",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-    "headline": "CMF’s clip earbuds hit the balance between cheap and good",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
-    "headline": "Pardot alternatives: What B2B marketers are choosing now",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/",
-    "headline": "How to decide what’s important when everything is urgent",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/",
-    "headline": "The 2027 CMO planning challenge is bigger than the budget",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/",
-    "headline": "The data trust crisis: Why your customer data is getting worse",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qa0xEa0hKb012eVdfLV9kOUs4X0VsaHBmVFoyZ2FwRm84SWl1UEh0VXMwclBGWGVRdnlpai1WY3VPMkZEQnRQbXc5eDJwamFfbjBzbm5GR1FucFBIcXpqLWQ5c3o?oc=5",
-    "headline": "Abandoned Cart Benchmark Report: Rates & Statistics - Klaviyo",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VUtjUV9nejVjb2dULXZjNHk4d0FmbUt5S2pVWmZhVHpxOC1oS3hrNnM1anp6TDRwN3g1TW1DbXNNMjlzeGJLMlBvQVF3bTd4V1RJMV9xcWRlZDJBZEE?oc=5",
-    "headline": "Abandoned Cart Emails: 12 Best Practices with Examples - Klaviyo",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pVGZPRjd4RVhBSUU2REp0ZE12b085SDZ2ZjNhbFA0ZVQxcjhSMXFuQzAzeDdHUTdiMTdrVEM3N24xSFhjX19YWEhsSU5vRDFhZGdfaTFYUFVKSF9KR2M1NmpQWmxuNTDSAWdBVV95cUxPaVRmT0Y3eEVYQUlFNkRKdGRNdm9POUg2dmYzYWxQNGVUMXI4UjFxbkMwM3g3R1E3YjE3a1RDNzduMUhYY19fWFhIbElOb0QxYWRnX2kxWFBVSkhfSkdjNTZqUFpsbjUw?oc=5",
-    "headline": "Social Media Marketing Tools - Trend Hunter",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjg0dlRTYW1NRTFvTmN1TExSeEI2VTUwTUdlalZqSFpyYllKLWl1aXU5cHVRZFZnaEpXQWs1UmZ5SzF0LXBjclNyalIwajJ0clVWeGRJQ081dTRWMjdFVnNnQjlKQ1h4emszSWxOeHFubmZZYUNtQzM4WENmYmxtaE1HclFMT2JwZWNOeFRVOGwzTEFPTGFhVDRfS0hZLXlyeEJsYWlFbFR5SHhnWVB3ZGswMWd6akk?oc=5",
-    "headline": "New Claims In WPP Whistleblower Suit Allege Sony Probe Found Rebate Fraud - adweek.com",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXltTFM3QVNkVDZaOG13ZFRpYjZnUmFvRmxrOHNSQXNZbnA5TEhodWZfYWszYnctM3dNRmdJTUtjcjZ0S0FHb3VKM0lWZ2J3bFBCN1k5SUFKRHczMFI4bzllelYzdzU1MFZrRTN5alJQSE9kS1RXWGFvLXZiaUU3SENVTnJHeTF4Vk1Jc1EzS1pyUzQ0ZFFRSkVMSWlycDAtNS1yaVhIaHJ5aFdnMW0zbkk1dGdRQ3FQQklGQWZVTWZMQQ?oc=5",
-    "headline": "Idaho Must Allow Abortions to Preserve Women's Health, US Judge Rules - U.S. News & World Report",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTZtWC1nRkx3WkNTeU0zYjctbDZ6c1hqV3ozSkNiQkdmVFNBQTdMYThjTGVXSS11UmhoVFEtUE9GTlliaGFCNGswanpZQWlZcTNEWlYzRGJnWGZOSUVIRWxPNnZLZGhGbXZoVmdoQ2RheXdGYm51OE9JZy14TUhuam8yemhmdFpkVUNr?oc=5",
-    "headline": "Curiosity has its own neural signal: Brain separates valuable information from water rewards in mice - Medical Xpress",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.smithsonianmag.com/smart-news/covid-19-can-reawaken-dormant-viruses-in-the-body-which-might-worsen-symptoms-of-the-respiratory-illness-study-suggests-180989322/",
-    "headline": "Covid-19 Can Reawaken Dormant Viruses in the Body, Which Might Worsen Symptoms of the Respiratory Illness, Study Suggests",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-    "headline": "Immune cells flood into the aging brain, Stanford scientists discover",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-    "headline": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-    "headline": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-    "headline": "U.S. missionary who was kidnapped in Niger is released",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGhURF9kTjVQV3l3OWpRTjJmQURPNmQtVlQtUEdJNmV6LTZaay1VUlQyRTBoT3VlSnpKdFhQR252WVdwRVRzMmlBSk1OMXRiMWdYbnF6Q25Zd1JlaVY3a1ZIdnd0eWItNUtRM19NT29BM2dIbXc2WURBNnI3Wkk0S09SWGdIUVlvYnE1YWdkaFVGQQ?oc=5",
-    "headline": "Editorial: Pathways to Mental Health Resilience in Emergency Personnel: Protective Strategies and Occupational Challenges - Frontiers",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
-    "headline": "I wish I had been a more rebellious teenager, says Bella Ramsey",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-    "headline": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-    "headline": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/",
-    "headline": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
-    "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalRFZHJKLXZQOVBoVWtINFdGOFRVQUZ5WXBUTU5PRk1GbVpITmg5WDJ5ZE9HUFY1ZW1Tbml6X0VLVW5OY2E5VUd5eGxERDBURlU0Wmw3WW05dnlDVWlCYmxUeklXSElLRTFQZFpFcjliS1lrTkVHTXVlcTF2NTM2MEtwYw?oc=5",
-    "headline": "Taylor Swift Makes Her First Post-Wedding Solo Appearance in a Lavender Haze - vogue.com",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss",
-    "headline": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Stephen Bear jailed over sex offender breaches",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa21kUWVvOUlWaDFkekpySmUtdEJGOXRwT2RNWThkZDFOdzdxbUFrY3drTE5CMmFtRGQ2YjVXN1hScGMwNGZNVEVxOE93aFoyMGFkeXhkT3FCbS15ZlBRNi01Rjlud3k2cDUtQzJMSWgtLXUxZkk5TXp4WjJiNTMwMnNSbEVDWVNuVndYdUQ4OGRIS1pjX3MtbXYtVHEya2czM0NnR0JRQXNHMFZHOWUyczQxYTExQ3hP?oc=5",
-    "headline": "Indonesia wildfires threaten orangutans rescued from animal traffickers - The Guardian",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-    "headline": "Cloning could be used to save species—or make human “organ sacks”",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNWUJjQ2NHUzl1WlN1UDJ0ZnUxcFFSOExwZUM1OTU2Z2RKMGo4Y0tRcHRBeHNoTHdtOXpHZGpLUjlOV25LNXFuZHphSnVibDVGZWFVV1ZXYVB1aVFWcG1saU5FdkFvekZJdHk0S0dsaVowYThBcmw0b1ZwNlVzQVpDM3F3emV2NFJwdmJFTGU0ZUNkandfdHFMeHlQejJMblRTeVZlZzdva3FzVDYwOE1abVptQmIyNnBYUDRUeVNIaUFNcFdRajJQZVExNVNlNXVSNGZKY2d2N09HbTEyZXVUWTAtVnJYTk5YcDhVMmZZNElGRlNJWEczcE5PNHVFZ0d4VVJIV0dXa1RPQWpMTkg2ZkhZcVpiOC1TUkZfQzlZSQ?oc=5",
-    "headline": "How X-Rays, Plastic Cups and Spools of String Help National Zoo Researchers Find Wild Box Turtle Nests - Smithsonian Magazine",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGJ2SlRpcnEzeWVMU3NGYVJNUGJMNTRZYmRlMHJ4Xy1XTFNEc29iaTlESVlueDlUX0F4SnNtMEM1X1BObUVBdDhrNjhmY0VDZm84QVZQZVBEMmdUb0tJalhGNVFvQUIzZWJUdk45alMxWmctOGU3TWhVMERwR3FnOGhUa05QYjk2Nllrd1ViZFdJdmJvdllPUy1NVmx1X3V3WW05Q2wzQjJpbzVhZUHSAbMBQVVfeXFMTmJ2aUpFc0tGWnFWMjVyNHFPS2ZWZEF1RXFSemY2TmZlUmd3TTZwTlc0bjRyUUphbXJydU9Ha3cwUUI1S0dhRVJidWswc1NVSEtLZ0ZIQTFlWS1DRUdjcklFdGlBc0pwVjUtbEpjc3draXR5U01wYW5KN0NrUTJWZGhHN2lld1Vlc25wSzVjcjd3TFkyUDByOENkdnJDbHAxMWVtQk54Qlp0elFqcVFQdzQwZU0?oc=5",
-    "headline": "Global marine protected areas fail to safeguard most sharks and rays: Study - news - Mongabay",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQXEwMnVuNjBZTG1VQktyemtjWG51TVM4N0dkZFd3SUF3WGN6eWY1aUtlNWpRdkJKeVdwTjlkdE5idW1MbkEyUTZzZGZwQnB0cTR6Q2JGcTVNZmVQNk9FdVJNVnRBMW5Hdm9aVDVONU9FMDRXT1RrcF9IZzYwa1M2ZmNkZjJBZXdnUG5EcHY5UzNGZXJVWkwwOE9uWGlaRWtyb19jWWRaMkpDS1RGNEh3VUxZZDhPb0FNQnhwVHA1Wl9xVFBWRGMxc1hBcGFXZ2taRnRJY09R?oc=5",
-    "headline": "Two Oceans, One Country and 20 Times the Sharks - Smithsonian Magazine",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVpRc19pU0VsUDM3Njk3TmtZdENpbkpmNXF5T3Q5SllNU3U3WWhsRzJEN1VkalZpMXN3Qjl0d0U0LW1yRi14ellCU0xDUFZEZ3k2OWFmMFhDV29HdlVVbmFkN2pqNUF4S2VDakJHYWxjZHphYTIzb2J6R2ZWSTlkaHR4UVc?oc=5",
-    "headline": "How Collaboration Helped Make SunZia Better for Birds - National Audubon Society",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0oxRGJKd0tDdFBCTENfYmJ5REdqby1EZUVYZ3otVjU3QkR2ejhYWFhkZldhUUtvMTVXLWVnVjNOTXJueE5VLUZvNXVIQTZEQTFRUHJReGRuNGp2bllBdDhPUWt3VEJtYzh4UUxId3FPV3hDWllPeUh2eXA1N2xRT3lORW9PUWFJOWFoRXdnaEFtQnNRMWZCVGlYU1RMcUdVdnloR1NWN0o5dFMyQWVkSDV0cjnSAboBQVVfeXFMTndyMmFYOGs4T19WY3lDa0Nnc2FuMkIwUDJ5SjF1bnNOc2pwcHl4RFZMY1RUVXNLQ296VmNOMTg5RUhncjFkSUhDR3UtWEE1VExIVHdJVzFvcS1LRmRsRS1iX2I1cFVXdkVCS1NhQmdUNkR1MzdFc2FlaUJ6VEVOaEJLOFc2c1Z0ZTVxaVRmMHRqMnVUUnBNMGcwNFdJT0c5cFpyM3l4VUstN3J6ZUE1Qk9aaGo4VFZqQTJR?oc=5",
-    "headline": "How women farmers are helping elephants and forests in a Sumatran national park - news - Mongabay",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/97-year-old-is-overwhelmed-returns-to-med-school-to-attend-great-granddaughters-graduation-60-years-later/",
-    "headline": "97-Year-old is Overwhelmed to Attend Great-Granddaughter’s Graduation From Same Med School He Tackled 60 Years ago",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/new-radiation-free-lung-scan-could-help-doctors-spot-disease-in-children-earlier/",
-    "headline": "New Radiation-Free Lung Scan Can Spot Disease Sooner in Children – And it’s Much Safer",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/rescued-orangutans-released-into-empty-forest-now-raising-babies/",
-    "headline": "Rescued Orangutans Released Into Isolated Forest Are Now Raising Babies, Creating New Wild Population",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
-    "url": "https://www.positive.news/lifestyle/arts/regret-is-a-major-theme-of-my-work-matt-haig/",
-    "headline": "Back on track: Matt Haig on finding acceptance",
-    "seen_at": "2026-08-15T03:44:07.470829-05:00",
-    "seen_date": "2026-08-15"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXZJTTN6NkNETnF1QUtma3dPeVdseUxPS28xcXZUNWx5VkExVzE1OG1uVE1TQm9XMkgzNzNKLTAwWThsVENFNXNPS3JYX0FTZVZHalJZdnFObGtNdmpHVTNNSE5URmp6c2VoMVhnTGc3YUZ3N1NNMXdWREJHMnNnQkd1OTI3RFRUbmJVQ0dFbFk?oc=5",
     "headline": "Kathleen Tessmer Obituary (1935 - 2026) - Madison, WI - Madison.com - Legacy obituary",
     "seen_at": "2026-08-16T03:02:00.423330-05:00",
@@ -1212,68 +846,8 @@
     "seen_date": "2026-08-17"
   },
   {
-    "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
-    "headline": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.wpr.org/news/conservation-easement-approved-1200-acres-northern-wisconsin",
-    "headline": "Nearly $1M conservation easement approved on 1.2K acres in northern Wisconsin",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.wpr.org/news/oracle-drops-wisconsin-suit-financial-requirements-data-centers",
-    "headline": "Oracle drops Wisconsin suit over financial requirements tied to data centers",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-    "headline": "As Wisconsin cities flee Flock, its shared camera network loses value",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ODlxZHY5cE1yVFZYbEZzRDBBSDljOUltTHltVDFXTU5VQVRKU0thMUM4MVNYaVdyM3dOYi1GUHZOUVdPM3kyeGVJQUFXMUdpTVNuY3E4VW9UdEVhR1dpNWlSalQ1YTdwMEZrY3FJTdIBdEFVX3lxTFBEUm5lSWlFWGlUakpNaWc1SG85WF9SVXNmTk5hWVB5N2dXX0NNWG8tWHpRLWx2aDkxcXlHMGY0VUs3MDdpemdBT2MtVW1NQ0s5d21kR3VQRG9Dck9tVncxdjZoTjN6bGROaTVteDVuWVI3Zm5W?oc=5",
-    "headline": "Dane County Week Ahead 8/17/26 - Forward Lookout",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHFFbEVucC1XMGYzOE9JMEZZLWJ2aXIzQUZ3OWFCN1liMEdtNjUySTNxNzJMOGJFbWUwU25nRUZXNnFRWkRSY3hIbVJYRHY4SzNlVXJzYzFtTjFFRC0wYkZTQXdOQlpPRHV2R0M5MFl0bkYtNmRxeGVUQWx4V08yUUFldHhNWl9GUkVQTjFSSThnQQ?oc=5",
-    "headline": "Jim Ripp, Josh Dupont - Isthmus | Madison, Wisconsin",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFNURU5XcHd1VzduWF9IcE5KTFJKal9EeXlTSThFbTFmZERqMHo1TjZHeHlQQTNuQk9LT3NxaDMycE4tUUpRcGxYOFBlT2tjeHlNbmQ3S0V4RDhxRk93YXFzaXFQTkM2eTkzMnZodDFTclVtdXZ3RXg2c202UHJ0bzlIQkJXLVJvSk5EQlZpMnFhdldVa2hpaGJ3NlppN3AzY1Z4eEJ0YTFKemdFM1RKc2tHYVI?oc=5",
-    "headline": "Topgolf opens first Wisconsin location near Madison - Milwaukee Journal Sentinel",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.wpr.org/news/uw-system-freeze-tuition-2-years-wisconsin",
-    "headline": "UW System will freeze tuition for 2 years if state invests $190M",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGZwQlY2VFdjOTdPU0NRNmJNWFNOZWN4X0ZDRFA2M09KQ2dsTDAwQzIwTndFREhWRTBjYW85c0lpZkNFSHVTNWk2YlR1RnBHUXNFNFlucHFIZFpEOElQMUJCSXJ0anV3cktjWV9MMGFBb1VNZURvWkV2WjFZZk9jMDlmRzBFT0xHNkozWWxvU0FrRTFfSjlxSWo2YkJNYzJQb2JQa0VmZmVYc1g2SUhQSUNrRWZ3elF6TjZHUlVlenpUVUxaM3c?oc=5",
     "headline": "Third and one: an action-packed day in Madison for Wisconsin football - 247Sports",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-    "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-    "headline": "Inside secret police warehouse as Germany targets small boats gangs",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
@@ -1284,50 +858,8 @@
     "seen_date": "2026-08-18"
   },
   {
-    "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-    "headline": "Zambia's president wins second term with 60% of the vote",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-    "headline": "China censors public mourning as it holds former premier's funeral",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cqjxkqppz5ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Mangione state murder trial postponed after federal guilty plea in CEO killing",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-    "headline": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHJibjY1QldaZEVHTDd4ZGFRY2lwbVpVeWg1ak1HaWhjZVc1b2ZGaUU1NElzMXYzbXhrRkZiOTQwV2Y4d1hldC1fMXVtanZqeUotMWRkTV9laXBxNEZKdDVkaXJOTW84a01vQ1pEZjctNGM5QWVrcjZzMDZvRHpYdGdqTU1HX016Q25BaWN1eUxiRWZwVWJEeHl1bG9BMUdDX2F5MEFuWDNDZ3ZzcWVV?oc=5",
     "headline": "China eases Iran war aluminium shock, but at a cost - Reuters",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-    "headline": "Former SpaceX engineers are building a robotic factory for making steel parts",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-    "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-    "headline": "Meet the only known trebuchet casualty in history",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
@@ -1344,86 +876,8 @@
     "seen_date": "2026-08-18"
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow?oc=5",
-    "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
-    "headline": "YouTube is changing how it counts views to give the numbers a boost",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGkzZ3ZxZG1sZmJROHE0VEZKMEJIejFTY2VVMHlqUzFCQTQtNU9PWFhqMlVOcVhpTjR0ZEtvLXZTQkVOTlFlSUctUEEya1lWeEVmcWhKR1B5Smp6UFJyMjZMbGRmaE9DcWNqMDhKcXFYQkd0S0lMbnp0WUJNM05QSHlnY1pYQ09FZ3pSNXFqTG1IX2xiWFN1ejl5cGNSeGpUQTk5MXRvMWxuZXptZlByRnVB?oc=5",
-    "headline": "OpenAI Revenue Surges Past $40B, Rivaling Anthropic - StartupHub.ai",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
-    "headline": "CRM for insurance companies: What it does and why it matters",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRy1vVDJCc2tDNWUyWS1zU2NKM25BTUE0UVBJOU9vYW9PeHJiRE9LVnUyZm5BUnUxTTJwUXdrU0xWV1QwRV9sd1NtQ2wzT2dYdlM4VUtrZ1EtR0sxQ1I0bEM5MWk2c1JsY0RSdDN2NFZEM3hkUEcwMG00R194NkdMS2ZkdjQ3Y2Q3c1pIZUdGc0Nra21jbEZwZXRlZ1BrQWFDVFBoazlZSVpWdXpmOTRERQ?oc=5",
-    "headline": "Ticker: 2 Former 60 Minutes Correspondents Recipients of Edward R. Murrow Awards - ADWEEK",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://martech.org/stop-treating-every-customer-touchpoint-the-same/",
     "headline": "Stop treating every customer touchpoint the same",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEQ0d0txZjNjdmM1WVljc05oUXVxVWtuSy1URl9saDJXd0xZMGJKV1h4SFVRM2FGTzh6RV9qcXI5TVlqZDZsYWV1ZkhrVFVzWFpYTW80bFRza0ZnV2VaTHBuZEZjYkZlY0M4SEdDb1ViY0d2Z1ZjWTk2TC03aFppTGFnbGJseU02VDBvS0h6NmtOaFJCWE9kNnBsOFBMNWttMlcwSEV5WGNWV19sdnR0SmhxTjlVcXJXM3hDakxhcnlRSGI4a1NjVHZIU1BpYWJWTWo4SWVuLTl3T0pDZXF1a3lnWQ?oc=5",
-    "headline": "Vereigen Media Hosts Allytics President Dunya Riechelson on New Episode of “From the Source” - markets.businessinsider.com",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
-    "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmpEUlNRNVZaRTdhNWZEbWtkdFlLWEgyVElRU0JiUmpXaWctd3JKS3RvajQ0b3l4Sm9scTdGZnFOREV6dkp2aF9GVGV0SlVaczdLbHF4X01xbEVYbEJja0JVZkFBdmFXd2U3aDlZeEUtZEVfYVBTNWhkRURueW9uaTN6aE1SNjAxQ0g3LVFfZTVsNTU0dUlXZ185Tl9JNGh6dlRQSmloV2hYU0Y2Zy04QjBiUzJ1cDlXVXR2RnNaYm5YdXBDX3p3dFJ1Q0xOcnhfUGk2TXhqNXN3bmtLZjB6cnVMVXA?oc=5",
-    "headline": "CMO tenure hits 4.1 years at S&P 500 companies as the role quietly gets rebranded out of existence - MarketScale",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXFaQlFxYnU2NThzVmE3Uy05MENua0VtckNETXQ5c2dPM1VNMl9kNGtGa0JwQkdtS0NRa3J6TTV1U0d6VjQ0SGY5VkNHOG42V0R6d1FKN1Z5N3YxRFF0b21ac21Zb3FjZkVCR2psY0RENGF2VHZhRGtqbEw5aGdKSnBaSU8tWmtKb3hOT0JvMm1wNEtoWEtKTV9VcGFuUGI5VmlYTjNIMlRCTEFWM1Y4eHEyY0hEamNhbDhRRjNZQnBiRFpBbElyY2s3WjBlVDNYM1hGY19XX2RKaldqb0t6eXZiMkdXUXFGTjdfLVN1Zms?oc=5",
-    "headline": "6sense embeds buyer intelligence into Claude, ChatGPT, Writer, and Agentforce with four new product releases - MarketScale",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
-    "headline": "ChatGPT draws more paid clicks from Google than any other top destination - Search Engine Land",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-    "headline": "Norway's king admitted to hospital and put on sick leave",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Eclipse warning: The key signs you may have damaged your eyes",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-    "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
@@ -1446,86 +900,14 @@
     "seen_date": "2026-08-18"
   },
   {
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-    "headline": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM2N5N0VPTFMtU19RbFA1ODZZOVV6YjNxZW04dEdPZGJOQjhfWG5tczY4ak40YXJ4X2V4alRLSjA5SUptYjdaSW5BRU1WVjdMXzFETXhFOFZTaXpGQkRrQ2t6d010c0xCSGxwZW5nU3JWVXZZc3I5bFllWGx1LUVLUUdwMHpRSnA4S2lrMmhkdTVfZmJJb25jcmMya3ZDN21vUzZMOVczNW5qMUlrbWx6dVhMRXRxZ1FMbzdUVmVVVmVkQ1dCNEtFdEdobENXZTZNMUZwQU9hWEtVQVFlV0xRQVVNQW8zek9oaFNQSUhqX3lnRFBXRTc2Z1IxRWJPZ2RBOHc?oc=5",
-    "headline": "Simplifying the Landscape of NIH Career Development Awards, Including an Opportunity to Provide Feedback - National Institutes of Health (NIH) | (.gov)",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF?oc=5",
-    "headline": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition - Vogue",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
     "headline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
   {
-    "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
-    "headline": "Hayden Panettiere: A life of struggles alongside screen success",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/",
-    "headline": "Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-    "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c86nxj1djgjo?at_medium=RSS&at_campaign=rss",
-    "headline": "Noise concerns over Reading festival's music extension",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
-    "headline": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
-    "headline": "Film commission backs Amazon MGM expansion of studios",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
-    "headline": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFRtV2JpR19sTTNzMkRENnVnU2NucjBicTZma1FsVHU3VjBHVGwxNUR1am9lZ3hKenhabWt5SlNqY0tiMThPVGM1MVBwczkzV3I0eVBvQnhrY3BvM1dIeEl1WF85aWl4MW5jZkpQM19nSDd5SzlUSjRLdVB1RXhqR0lwck1BbzZpMnBvTHNoN2xzUlhMUEpSenY5OFNYUDltR3ZrRXRTVmo2QXRkYjFMVnhNdFNKZU9VZFpER0I0eEdfZw?oc=5",
     "headline": "Hurricane Lala Leaves Severe Flooding and Damage Across Hawaiʻi As Rescuers Help People & Pets - worldanimalnews.com",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-    "headline": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.smithsonianmag.com/smart-news/when-did-animals-start-giving-birth-to-live-young-this-236-million-year-old-fossil-might-rewrite-mammals-evolutionary-history-180989343/",
-    "headline": "When Did Animals Start Giving Birth to Live Young? This 236-Million-Year-Old Fossil Might Rewrite Mammals' Evolutionary History",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
@@ -1542,32 +924,8 @@
     "seen_date": "2026-08-18"
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWRZSWxIWjFvQzdLVGJncGh0T0lEdDQ4MEN2engxLU8wQXJKOVZ3Nm51RW9ieVBXeHE3XzNLLUJtMi1jREpLZHhlc3haLU96SDlyS3I0blYzVlBNbUtPTzhVbWJ6aUxGUWFRelFhZzlOa0QzbUJYMmhJQ0ZqZFY3ZHgtaGxKOUx6aDNjR2I0S1F4a0JObm8tcVhpMG1ST1IzcHFLWm11c25oeGVVQkM2QktEOEU2VDdaMVE?oc=5",
-    "headline": "Birds, Lizards, Murals, and Cottonwood Trees Show How Conservation Is Rooted in Central Valley Communities - National Audubon Society",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkx6N01NdmJ4SlBocHI1cVBlNl9ieW5mdDljZ2xVU0NaTUkycDFGQnVZakVHaVdLSDhrNWh0aUxyNE1xQW1Wd2FtM1lnbFdjS09RR2VvekxxaXV2eTB6YVo0UmJSellST2lnaHRXQktleGFJMHc4ZG5PWUYwOXp0eTFrUU9WS3RGN3VrYzYxZUhNNzZfUHc?oc=5",
     "headline": "On the Wing: An Intern’s Experience in Bird Research and Conservation - National Audubon Society",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/events060818/",
-    "headline": "Good News in History, August 18",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/cement-kilns-could-become-carbon-negative-if-run-on-clean-energy-because-limestone-absorbs-co2/",
-    "headline": "Cement Kilns Could Become Carbon Negative if Run on Clean Energy as Limestone Absorbs CO2",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
-    "seen_date": "2026-08-18"
-  },
-  {
-    "url": "https://www.goodnewsnetwork.org/company-aims-for-moonshot-replacement-for-trees-in-paper-products-with-humble-desert-plant/",
-    "headline": "Company Aims for ‘Moonshot’ Replacement for Trees in Paper Products with Humble Desert Plant",
     "seen_at": "2026-08-18T03:16:07.698531-05:00",
     "seen_date": "2026-08-18"
   },
@@ -1578,15 +936,381 @@
     "seen_date": "2026-08-18"
   },
   {
+    "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.wpr.org/news/conservation-easement-approved-1200-acres-northern-wisconsin",
+    "headline": "Nearly $1M conservation easement approved on 1.2K acres in northern Wisconsin",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.wpr.org/news/oracle-drops-wisconsin-suit-financial-requirements-data-centers",
+    "headline": "Oracle drops Wisconsin suit over financial requirements tied to data centers",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+    "headline": "As Wisconsin cities flee Flock, its shared camera network loses value",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ODlxZHY5cE1yVFZYbEZzRDBBSDljOUltTHltVDFXTU5VQVRKU0thMUM4MVNYaVdyM3dOYi1GUHZOUVdPM3kyeGVJQUFXMUdpTVNuY3E4VW9UdEVhR1dpNWlSalQ1YTdwMEZrY3FJTdIBdEFVX3lxTFBEUm5lSWlFWGlUakpNaWc1SG85WF9SVXNmTk5hWVB5N2dXX0NNWG8tWHpRLWx2aDkxcXlHMGY0VUs3MDdpemdBT2MtVW1NQ0s5d21kR3VQRG9Dck9tVncxdjZoTjN6bGROaTVteDVuWVI3Zm5W?oc=5",
+    "headline": "Dane County Week Ahead 8/17/26 - Forward Lookout",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHFFbEVucC1XMGYzOE9JMEZZLWJ2aXIzQUZ3OWFCN1liMEdtNjUySTNxNzJMOGJFbWUwU25nRUZXNnFRWkRSY3hIbVJYRHY4SzNlVXJzYzFtTjFFRC0wYkZTQXdOQlpPRHV2R0M5MFl0bkYtNmRxeGVUQWx4V08yUUFldHhNWl9GUkVQTjFSSThnQQ?oc=5",
+    "headline": "Jim Ripp, Josh Dupont - Isthmus | Madison, Wisconsin",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFNURU5XcHd1VzduWF9IcE5KTFJKal9EeXlTSThFbTFmZERqMHo1TjZHeHlQQTNuQk9LT3NxaDMycE4tUUpRcGxYOFBlT2tjeHlNbmQ3S0V4RDhxRk93YXFzaXFQTkM2eTkzMnZodDFTclVtdXZ3RXg2c202UHJ0bzlIQkJXLVJvSk5EQlZpMnFhdldVa2hpaGJ3NlppN3AzY1Z4eEJ0YTFKemdFM1RKc2tHYVI?oc=5",
+    "headline": "Topgolf opens first Wisconsin location near Madison - Milwaukee Journal Sentinel",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdThTVVBJN1pxemw5WXFXWjV3XzJLcDBsQ0dKOGF6RHNTaXVvNkNjeng1Z3U3RFhMeU1KU1R4SXJTbzNHeXB4QnpBVjBMNW9PSV9TRVIyRVQ4Q2pBYjdXX3hQTWs1WXpBZmhqQWRtTnJjS3lROHFjSDB4OWJ4bzRwZmlhTWVib2IwajBpajhR?oc=5",
+    "headline": "Access to Care Coordinator - University of Wisconsin–Madison",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.wpr.org/news/uw-system-freeze-tuition-2-years-wisconsin",
+    "headline": "UW System will freeze tuition for 2 years if state invests $190M",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+    "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Inside secret police warehouse as Germany targets small boats gangs",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+    "headline": "Morning news brief",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+    "headline": "Zambia's president wins second term with 60% of the vote",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+    "headline": "China censors public mourning as it holds former premier's funeral",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqjxkqppz5ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Mangione state murder trial postponed after federal guilty plea in CEO killing",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
+    "headline": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDRhUWR1Q0ZVd1BLSUJBLTJIeTFISWdFc1kzclJqM21VZlhHcTNMUWVKTC1kRUlkNXhHRnlPTS1FcHkwQ1cyaFNsLXJYRVVfdmhtVWZiblluSHFBcE9DWFcxY3BpY0VnR253ODd6cFJlZXBtazZRSVBtcXlWSmttY2x1dXRSMW5Zc29NVmZNVXJkY3pkRk1GeG1oSFQ3UTYyN2F3R0JBZkx0eC10YUZZQmpDM1hBUdIBuwFBVV95cUxNSE9tbWxhSHJqaWFkRWlqTGFhZmY2NkF3R3E4dmVaNUJPMlNCanZ1RVhTaXE5QUpQcDFYbkJoMTNLZ1VDX1R6T244NHAwSTY2ZElnV0o3RmozX0tfSHJhbW90LWpzZ1NtLWRjT3hkUlZtUXVWc0hxaU9tb2ZNcmF0V1FMeWtrVFJnQWZkd3lMc29Xa0E1U1BYSFlJZmJCZWVIbmV2VE9jamIxNTF4RHN6dXctQ2IwMUk5WUFJ?oc=5",
+    "headline": "Top Russian economist ousted after warning of growing costs of Ukraine war - Al Jazeera",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+    "headline": "Former SpaceX engineers are building a robotic factory for making steel parts",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+    "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+    "headline": "Meet the only known trebuchet casualty in history",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+    "headline": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow?oc=5",
+    "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+    "headline": "YouTube is changing how it counts views to give the numbers a boost",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGkzZ3ZxZG1sZmJROHE0VEZKMEJIejFTY2VVMHlqUzFCQTQtNU9PWFhqMlVOcVhpTjR0ZEtvLXZTQkVOTlFlSUctUEEya1lWeEVmcWhKR1B5Smp6UFJyMjZMbGRmaE9DcWNqMDhKcXFYQkd0S0lMbnp0WUJNM05QSHlnY1pYQ09FZ3pSNXFqTG1IX2xiWFN1ejl5cGNSeGpUQTk5MXRvMWxuZXptZlByRnVB?oc=5",
+    "headline": "OpenAI Revenue Surges Past $40B, Rivaling Anthropic - StartupHub.ai",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBncnhhVkdyallfamlYWHE0MmxNV09NcWNzeTJ4Y2Q1S3ZSYi13d1ZtOWMybGk5SnIxZFdiYWZqSDE2OXJwYW82ckU2Tm03WDUxVHEzSHlUUk1ncVhE?oc=5",
+    "headline": "BofA Research Report Analysis: Anthropic Leads Frontier AI Race, Token Prices Softening But GPU Rents Remain Firm - techflowpost.com",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
+    "headline": "CRM for insurance companies: What it does and why it matters",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRy1vVDJCc2tDNWUyWS1zU2NKM25BTUE0UVBJOU9vYW9PeHJiRE9LVnUyZm5BUnUxTTJwUXdrU0xWV1QwRV9sd1NtQ2wzT2dYdlM4VUtrZ1EtR0sxQ1I0bEM5MWk2c1JsY0RSdDN2NFZEM3hkUEcwMG00R194NkdMS2ZkdjQ3Y2Q3c1pIZUdGc0Nra21jbEZwZXRlZ1BrQWFDVFBoazlZSVpWdXpmOTRERQ?oc=5",
+    "headline": "Ticker: 2 Former 60 Minutes Correspondents Recipients of Edward R. Murrow Awards - ADWEEK",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEQ0d0txZjNjdmM1WVljc05oUXVxVWtuSy1URl9saDJXd0xZMGJKV1h4SFVRM2FGTzh6RV9qcXI5TVlqZDZsYWV1ZkhrVFVzWFpYTW80bFRza0ZnV2VaTHBuZEZjYkZlY0M4SEdDb1ViY0d2Z1ZjWTk2TC03aFppTGFnbGJseU02VDBvS0h6NmtOaFJCWE9kNnBsOFBMNWttMlcwSEV5WGNWV19sdnR0SmhxTjlVcXJXM3hDakxhcnlRSGI4a1NjVHZIU1BpYWJWTWo4SWVuLTl3T0pDZXF1a3lnWQ?oc=5",
+    "headline": "Vereigen Media Hosts Allytics President Dunya Riechelson on New Episode of “From the Source” - markets.businessinsider.com",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+    "headline": "Pardot alternatives: What B2B marketers are choosing now",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
+    "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmpEUlNRNVZaRTdhNWZEbWtkdFlLWEgyVElRU0JiUmpXaWctd3JKS3RvajQ0b3l4Sm9scTdGZnFOREV6dkp2aF9GVGV0SlVaczdLbHF4X01xbEVYbEJja0JVZkFBdmFXd2U3aDlZeEUtZEVfYVBTNWhkRURueW9uaTN6aE1SNjAxQ0g3LVFfZTVsNTU0dUlXZ185Tl9JNGh6dlRQSmloV2hYU0Y2Zy04QjBiUzJ1cDlXVXR2RnNaYm5YdXBDX3p3dFJ1Q0xOcnhfUGk2TXhqNXN3bmtLZjB6cnVMVXA?oc=5",
+    "headline": "CMO tenure hits 4.1 years at S&P 500 companies as the role quietly gets rebranded out of existence - MarketScale",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXFaQlFxYnU2NThzVmE3Uy05MENua0VtckNETXQ5c2dPM1VNMl9kNGtGa0JwQkdtS0NRa3J6TTV1U0d6VjQ0SGY5VkNHOG42V0R6d1FKN1Z5N3YxRFF0b21ac21Zb3FjZkVCR2psY0RENGF2VHZhRGtqbEw5aGdKSnBaSU8tWmtKb3hOT0JvMm1wNEtoWEtKTV9VcGFuUGI5VmlYTjNIMlRCTEFWM1Y4eHEyY0hEamNhbDhRRjNZQnBiRFpBbElyY2s3WjBlVDNYM1hGY19XX2RKaldqb0t6eXZiMkdXUXFGTjdfLVN1Zms?oc=5",
+    "headline": "6sense embeds buyer intelligence into Claude, ChatGPT, Writer, and Agentforce with four new product releases - MarketScale",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
+    "headline": "ChatGPT draws more paid clicks from Google than any other top destination - Search Engine Land",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+    "headline": "Norway's king admitted to hospital and put on sick leave",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Eclipse warning: The key signs you may have damaged your eyes",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
+    "headline": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says - Reuters",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+    "headline": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
+    "headline": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTZtWC1nRkx3WkNTeU0zYjctbDZ6c1hqV3ozSkNiQkdmVFNBQTdMYThjTGVXSS11UmhoVFEtUE9GTlliaGFCNGswanpZQWlZcTNEWlYzRGJnWGZOSUVIRWxPNnZLZGhGbXZoVmdoQ2RheXdGYm51OE9JZy14TUhuam8yemhmdFpkVUNr?oc=5",
+    "headline": "Curiosity has its own neural signal: Brain separates valuable information from water rewards in mice - Medical Xpress",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM2N5N0VPTFMtU19RbFA1ODZZOVV6YjNxZW04dEdPZGJOQjhfWG5tczY4ak40YXJ4X2V4alRLSjA5SUptYjdaSW5BRU1WVjdMXzFETXhFOFZTaXpGQkRrQ2t6d010c0xCSGxwZW5nU3JWVXZZc3I5bFllWGx1LUVLUUdwMHpRSnA4S2lrMmhkdTVfZmJJb25jcmMya3ZDN21vUzZMOVczNW5qMUlrbWx6dVhMRXRxZ1FMbzdUVmVVVmVkQ1dCNEtFdEdobENXZTZNMUZwQU9hWEtVQVFlV0xRQVVNQW8zek9oaFNQSUhqX3lnRFBXRTc2Z1IxRWJPZ2RBOHc?oc=5",
+    "headline": "Simplifying the Landscape of NIH Career Development Awards, Including an Opportunity to Provide Feedback - National Institutes of Health (NIH) | (.gov)",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fZVpjNlpZR2FYQkxLQ2hRMFRDMllHMUtmVFJxU1B6N1pNZXBMLVBHaF9qMDlTUTJrS1FHbHNKNHNWVUdxbjV1aWVUUkF0bGNFNkk0cVhRbFlHNmxGdFFudXhWbnA2VmJUdTB1dm9n?oc=5",
+    "headline": "A therapy that “rewrites” childhood memories can ease fear of failure - Science Daily",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF?oc=5",
+    "headline": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition - Vogue",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Hayden Panettiere: A life of struggles alongside screen success",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/",
+    "headline": "Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+    "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c86nxj1djgjo?at_medium=RSS&at_campaign=rss",
+    "headline": "Noise concerns over Reading festival's music extension",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
+    "headline": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Film commission backs Amazon MGM expansion of studios",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
+    "headline": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFRtV2JpR19sTTNzMkRENnVnU2NucjBicTZma1FsVHU3VjBHVGwxNUR1am9lZ3hKenhabWt5SlNqY0tiMThPVGM1MVBwczkzV3I0eVBvQnhrY3BvM1dIeEl1WF85aWl4MW5jZkpQM19nSDd5SzlUSjRLdVB1RXhqR0lwck1BbzZpMnBvTHNoN2xzUlhMUEpSenY5OFNYUDltR3ZrRXRTVmo2QXRkYjFMVnhNdFNKZU9VZFpER0I0eEdfZw?oc=5",
+    "headline": "Hurricane Lala Leaves Severe Flooding and Damage Across Hawaiʻi As Rescuers Help People & Pets - World Animal News",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+    "headline": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.smithsonianmag.com/smart-news/when-did-animals-start-giving-birth-to-live-young-this-236-million-year-old-fossil-might-rewrite-mammals-evolutionary-history-180989343/",
+    "headline": "When Did Animals Start Giving Birth to Live Young? This 236-Million-Year-Old Fossil Might Rewrite Mammals' Evolutionary History",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVUh5LTFiTU5NRUpyR0g1aWV0RVZGS3BEckJ5bXhKTndvcy1jMjFWRTNlYk9fclRXQ2FlQ2s5b2k0YllMTEVyVm1uV1VDYllVTWZQbUM2LVdTeGlCdHlxckw4eEpsRU1scUNOc183SUxLVlRmSEtxdjRoX2lFc0x5M0J5WHR5OWc1el91dWZIcDVtTlJ3RDh0UWZpSUktVm1WME10c2ZZekFVancwVGtPaUNOQm5ZWkh5RnNSR1JEOW40aVR1TkJzMnh1TUFsQjRQOVc1MHVNdmtIRlhVTXVSZFdmdU44ZlYybDE1RjhsS2FYenZNRGkweUoySGhxZ3B4aW43ZUhJYnZNQTg?oc=5",
+    "headline": "Animal Rescue Corps brings frontline perspective to push for effective cost-of-care laws for animals seized in cruelty cases - StreetInsider",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUtwaWVtN2pZaFo5QlMzeHVSU2JFeDk3Q3E4OE01UVB0cU9MNnNROVVrMGpFazF6RlRlSDAwRkUtNnE3TnkxUnlZRW41b3JjSWxER2FRZ0NlOW12dXFwQkhoc1ZDdEdhNFlPWWlzU2RVU0NqUHV2Z2R5dTFpZnF3RDVJWlFBTUJPUmxudllQUV94QQ?oc=5",
+    "headline": "Footage from Kenya captures a grueling rescue to free trapped elephants from a tidal creek - The Cool Down",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Stephen Bear jailed over sex offender breaches",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWRZSWxIWjFvQzdLVGJncGh0T0lEdDQ4MEN2engxLU8wQXJKOVZ3Nm51RW9ieVBXeHE3XzNLLUJtMi1jREpLZHhlc3haLU96SDlyS3I0blYzVlBNbUtPTzhVbWJ6aUxGUWFRelFhZzlOa0QzbUJYMmhJQ0ZqZFY3ZHgtaGxKOUx6aDNjR2I0S1F4a0JObm8tcVhpMG1ST1IzcHFLWm11c25oeGVVQkM2QktEOEU2VDdaMVE?oc=5",
+    "headline": "Birds, Lizards, Murals, and Cottonwood Trees Show How Conservation Is Rooted in Central Valley Communities - National Audubon Society",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.goodnewsnetwork.org/events060818/",
+    "headline": "Good News in History, August 18",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
     "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
     "headline": "What went right this week: the good news that matters",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.goodnewsnetwork.org/cement-kilns-could-become-carbon-negative-if-run-on-clean-energy-because-limestone-absorbs-co2/",
+    "headline": "Cement Kilns Could Become Carbon Negative if Run on Clean Energy as Limestone Absorbs CO2",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.goodnewsnetwork.org/company-aims-for-moonshot-replacement-for-trees-in-paper-products-with-humble-desert-plant/",
+    "headline": "Company Aims for ‘Moonshot’ Replacement for Trees in Paper Products with Humble Desert Plant",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
     "seen_date": "2026-08-18"
   },
   {
     "url": "https://www.positive.news/society/bringing-the-thrill-of-live-music-to-deaf-audiences-with-the-help-of-air-guitar/",
     "headline": "Bringing the thrill of live music to deaf audiences – with the help of air guitar",
-    "seen_at": "2026-08-18T03:16:07.698531-05:00",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
+    "seen_date": "2026-08-18"
+  },
+  {
+    "url": "https://www.positive.news/lifestyle/arts/regret-is-a-major-theme-of-my-work-matt-haig/",
+    "headline": "Back on track: Matt Haig on finding acceptance",
+    "seen_at": "2026-08-18T03:51:41.514959-05:00",
     "seen_date": "2026-08-18"
   }
 ]
