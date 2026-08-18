@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-17.json",
-  "report_date": "2026-08-17",
-  "generated_at": "2026-08-17T08:58:55.100856+00:00",
-  "edition_count": 33,
+  "latest": "data/archive/2026-08-18.json",
+  "report_date": "2026-08-18",
+  "generated_at": "2026-08-18T08:16:07.698531+00:00",
+  "edition_count": 34,
   "editions": [
+    {
+      "report_date": "2026-08-18",
+      "generated_at": "2026-08-18T08:16:07.698531+00:00",
+      "path": "data/archive/2026-08-18.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+        "summary": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west.",
+        "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92a/live/9489aaa0-9a4f-11f1-b792-a710e56a11dc.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-17",
       "generated_at": "2026-08-17T08:58:55.100856+00:00",
