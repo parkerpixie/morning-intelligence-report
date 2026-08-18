@@ -4,6 +4,14 @@
   const activePage = document.body.dataset.page;
   const isFeelingsPage = activePage === 'feelings';
 
+  const loadUiCleanup = () => {
+    if (document.querySelector('link[href^="ui-cleanup.css"]')) return;
+    const style = document.createElement('link');
+    style.rel = 'stylesheet';
+    style.href = 'ui-cleanup.css?v=20260818-1';
+    document.head.appendChild(style);
+  };
+
   const loadPersonalizedFeatures = () => {
     if (!document.querySelector('link[href^="personalized-morning.css"]')) {
       const style = document.createElement('link');
@@ -42,6 +50,8 @@
       document.head.appendChild(script);
     }
   };
+
+  loadUiCleanup();
 
   if (isFeelingsPage) {
     loadFeelingsUiV2();
