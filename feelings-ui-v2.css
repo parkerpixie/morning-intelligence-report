@@ -1,0 +1,60 @@
+/* Feelings UI v2: mobile-first interaction fixes */
+
+/* Keep revealed steps from landing under sticky navigation. */
+#family-step,#middle-step,#outer-step,#context-step,#skill-result{scroll-margin-top:7.5rem}
+
+/* Make the wheel feel like an actual picker instead of a static diagram. */
+.emotion-wheel-shell{position:relative}
+.emotion-wheel{--wheel-rotation:0deg;touch-action:none;user-select:none;-webkit-user-select:none;background:conic-gradient(from calc(-25.714deg + var(--wheel-rotation)),var(--happy) 0 51.428deg,var(--surprised) 51.428deg 102.856deg,var(--bad) 102.856deg 154.284deg,var(--fear) 154.284deg 205.712deg,var(--angry) 205.712deg 257.14deg,var(--disgust) 257.14deg 308.568deg,var(--sad) 308.568deg 360deg);transition:background .25s ease,box-shadow .25s ease}
+.emotion-wheel.is-spinning{cursor:grabbing;box-shadow:0 28px 68px #173b4538,inset 0 0 0 1px #173b451a}
+.emotion-wheel-center{pointer-events:none;inset:31%;padding:.75rem;border:1px solid rgba(88,54,79,.12);background:rgba(255,250,243,.94);border-radius:50%;box-shadow:0 14px 32px rgba(23,59,69,.12);font-size:clamp(1rem,3.5vw,1.55rem)}
+.emotion-wheel-center small{display:block;margin-top:.35rem;color:var(--ink-soft);font-family:"Nunito Sans",system-ui,sans-serif;font-size:.62em;font-weight:800;letter-spacing:.03em}
+.wheel-pointer-v2{position:absolute;z-index:12;top:1.75rem;left:50%;width:0;height:0;transform:translateX(-50%);border-left:15px solid transparent;border-right:15px solid transparent;border-top:25px solid var(--plum);filter:drop-shadow(0 3px 2px rgba(23,59,69,.18));pointer-events:none}
+.wheel-spin-hint{display:flex;align-items:center;justify-content:center;gap:.45rem;margin:-.4rem 0 .7rem;color:var(--plum);font-size:.78rem;font-weight:900}
+.wheel-spin-hint:before{content:'↻';display:inline-grid;width:25px;height:25px;place-items:center;border:1px solid rgba(88,54,79,.18);background:#fff;border-radius:50%;font-size:1rem}
+.family-wheel-button{transition:transform .22s ease,background .18s ease,box-shadow .18s ease}
+.family-wheel-button.is-selected{box-shadow:0 9px 24px rgba(23,59,69,.28),0 0 0 4px rgba(255,255,255,.7);transform:rotate(var(--angle)) translateY(-186%) rotate(var(--reverse-angle)) scale(1.07)}
+
+/* Give the user unmistakable feedback when a choice opens the next layer. */
+.reveal-card.v2-arriving,.skill-result.v2-arriving{animation:v2Reveal .38s cubic-bezier(.2,.8,.2,1)}
+@keyframes v2Reveal{from{opacity:.25;transform:translateY(18px) scale(.99)}to{opacity:1;transform:none}}
+.middle-option:active,.outer-option:active,.decision-grid button:active,.family-wheel-button:active{transform:scale(.98)}
+.decision-grid button.is-selected{border-width:2px;box-shadow:0 0 0 4px rgba(88,54,79,.12),0 10px 26px rgba(23,59,69,.08)}
+
+@media(max-width:680px){
+  /* The celestial orbit was decorative but consumed an entire phone screen. */
+  .feelings-hero-orbit{display:none!important}
+  .feelings-hero{padding:1.6rem 0 1.2rem;gap:.8rem}
+  .feelings-hero-pills{margin-top:1rem}
+
+  /* Turn the awkward top tab strip into a proper mobile app dock. */
+  .dbt-dashboard{padding-bottom:6.8rem}
+  .dbt-tabs{position:fixed!important;z-index:950;top:auto!important;right:.7rem;bottom:calc(.65rem + env(safe-area-inset-bottom));left:.7rem;width:auto;margin:0;padding:.42rem;grid-template-columns:repeat(4,1fr);overflow:visible;border-radius:22px;background:rgba(255,253,248,.96);box-shadow:0 16px 48px rgba(23,59,69,.22);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px)}
+  .dbt-tab{min-width:0;min-height:54px;padding:.55rem .2rem;font-size:.72rem;line-height:1.05}
+  .dbt-tab.is-active{box-shadow:0 6px 16px rgba(60,36,55,.24)}
+  .dbt-view{padding-top:.4rem}
+
+  .checkin-progress{margin-top:.8rem;margin-bottom:2.4rem;padding:0 .15rem}
+  #family-step,#middle-step,#outer-step,#context-step,#skill-result{scroll-margin-top:5.8rem}
+
+  /* Bigger wheel, cleaner center, labels positioned as true ring choices. */
+  .emotion-wheel-shell{padding:2.1rem 0 .7rem}
+  .emotion-wheel{width:min(91vw,430px);border-width:7px}
+  .emotion-wheel:before{inset:28%;border-width:6px}
+  .emotion-wheel-center{inset:33%;font-size:clamp(.92rem,4vw,1.22rem)}
+  .family-wheel-button{width:30%;left:35%;top:43%;min-height:48px;padding:.3rem .42rem;font-size:clamp(.62rem,2.7vw,.78rem)}
+  .wheel-pointer-v2{top:1.1rem}
+  .wheel-instruction{display:none}
+  .wheel-spin-hint{margin-top:.1rem}
+
+  /* Decision cards should feel actionable, not like passive paragraphs. */
+  .decision-grid button{position:relative;min-height:0;padding:1.05rem 2.5rem 1.05rem 1rem}
+  .decision-grid button:after{content:'›';position:absolute;right:1rem;top:50%;transform:translateY(-50%);color:var(--plum);font-size:1.7rem;font-weight:800;opacity:.65}
+}
+
+@media(max-width:420px){
+  .emotion-wheel:before{inset:29%}
+  .emotion-wheel-center{inset:34.5%;font-size:.92rem}
+  .family-wheel-button{width:31%;left:34.5%;font-size:.61rem}
+  .dbt-tab{font-size:.68rem}
+}
