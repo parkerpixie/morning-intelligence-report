@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-18.json",
-  "report_date": "2026-08-18",
-  "generated_at": "2026-08-18T08:51:41.514959+00:00",
-  "edition_count": 34,
+  "latest": "data/archive/2026-08-19.json",
+  "report_date": "2026-08-19",
+  "generated_at": "2026-08-19T08:16:57.021715+00:00",
+  "edition_count": 35,
   "editions": [
+    {
+      "report_date": "2026-08-19",
+      "generated_at": "2026-08-19T08:16:57.021715+00:00",
+      "path": "data/archive/2026-08-19.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Sacked Ukrainian defence minister calls for presidential election",
+        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-18",
       "generated_at": "2026-08-18T08:51:41.514959+00:00",
