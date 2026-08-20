@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T08:20:44.916008+00:00",
+  "generated_at": "2026-08-20T08:56:25.444360+00:00",
   "edition_count": 36,
   "story_count": 2242,
   "stories": [
@@ -131,25 +131,6 @@
       "published": "Wed, 19 Aug 2026 13:03:41 -0400",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-08-20"
-      ],
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "appearances": 1
-    },
-    {
-      "id": "ac0f667ddfb8914f",
-      "source": "BBC US & Canada",
-      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
-      "published": "Wed, 19 Aug 2026 23:11:14 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-08-20"
@@ -345,6 +326,25 @@
       "published": "Thu, 20 Aug 2026 00:35:22 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-20"
+      ],
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "appearances": 1
+    },
+    {
+      "id": "3a7d4e8f77c824c0",
+      "source": "Audubon",
+      "headline": "Vancouver Audubon: “The Wildlife Center of the North Coast” with speaker Annie Cahill - National Audubon Society",
+      "summary": "Vancouver Audubon: “The Wildlife Center of the North Coast” with speaker Annie Cahill National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3ZJdUJEckI4RFpwUnVjaGprOTBiT0RvNld0T3dHdDQ2Z1VYNGs2U2FwNzBfU2xOMXc0NTI3N240OUZjNVNtZVVZSGo0UXh3MWFmMzNrdU5jbHh0S3N3MkRuY2Fsd000THJBUFRJSUtNWlVWR1poa0pNbnE4MEZKV3QwU3I3eTVxbzFsdFlBdlRSRVpBWV82akxZZ21HT3lsc1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3ZJdUJEckI4RFpwUnVjaGprOTBiT0RvNld0T3dHdDQ2Z1VYNGs2U2FwNzBfU2xOMXc0NTI3N240OUZjNVNtZVVZSGo0UXh3MWFmMzNrdU5jbHh0S3N3MkRuY2Fsd000THJBUFRJSUtNWlVWR1poa0pNbnE4MEZKV3QwU3I3eTVxbzFsdFlBdlRSRVpBWV82akxZZ21HT3lsc1E",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 06:13:43 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-08-20"
@@ -550,8 +550,8 @@
     {
       "id": "3cbf26590857f02d",
       "source": "Salesforce Marketing",
-      "headline": "Salesforce Named a Leader in IDC MarketScape 2026 Vendor Assessment - Salesforce",
-      "summary": "Salesforce Named a Leader in IDC MarketScape 2026 Vendor Assessment Salesforce",
+      "headline": "Salesforce Named a Leader in IDC MarketScape 2026 Vendor Assessment - salesforce.com",
+      "summary": "Salesforce Named a Leader in IDC MarketScape 2026 Vendor Assessment salesforce.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjFWQTY1dFBGcE1aNjh0TUQ2Sl9CLXRHdjJ3TVNqbTF1Sm9EMzl2Mm5QNFNNemQxN1p1eS1RZ3Nqa0dubjFKSzA2TUptMko3MEs4MG02U0FfczRXeDhPM0E1YWhTZk5ISElLX2VZaWdqSE9aQVVFTFFyYkRlRjMzVUx4NC03bnNDRFBYUGdVdU1xZWx2b3c4?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjFWQTY1dFBGcE1aNjh0TUQ2Sl9CLXRHdjJ3TVNqbTF1Sm9EMzl2Mm5QNFNNemQxN1p1eS1RZ3Nqa0dubjFKSzA2TUptMko3MEs4MG02U0FfczRXeDhPM0E1YWhTZk5ISElLX2VZaWdqSE9aQVVFTFFyYkRlRjMzVUx4NC03bnNDRFBYUGdVdU1xZWx2b3c4",
       "image": "",
@@ -567,29 +567,10 @@
       "appearances": 1
     },
     {
-      "id": "31069cd416ead8bc",
-      "source": "Wisconsin News",
-      "headline": "Right-wing lawsuit seeking Wisconsin voter rolls booted by federal appeals court - Democracy Docket",
-      "summary": "Right-wing lawsuit seeking Wisconsin voter rolls booted by federal appeals court Democracy Docket",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2J1eWlKWFVUSzc2V2tjTmJsejJDRFRmQmEwM3lCbFN1OEVkWkJrV21MMmt3MUlHX2wxa3ZHenNubVhhUHNacHlIM2lYdWlKV3VTcGVTWmpsT2lDVVc5QWY5SDBuaFJHUnVMVUIzck5TN2wwMm1hSVZINW9famFWbzQ2ZnkzRFBkWXpSSE42OVY4bHdVdzNxZ1lzZDBxMkZJTmZldXhZc3lneUVZMlNPc3NNcXRSUE5RaERRdzBIOFRaeTQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2J1eWlKWFVUSzc2V2tjTmJsejJDRFRmQmEwM3lCbFN1OEVkWkJrV21MMmt3MUlHX2wxa3ZHenNubVhhUHNacHlIM2lYdWlKV3VTcGVTWmpsT2lDVVc5QWY5SDBuaFJHUnVMVUIzck5TN2wwMm1hSVZINW9famFWbzQ2ZnkzRFBkWXpSSE42OVY4bHdVdzNxZ1lzZDBxMkZJTmZldXhZc3lneUVZMlNPc3NNcXRSUE5RaERRdzBIOFRaeTQ",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 21:52:25 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-08-20"
-      ],
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "appearances": 1
-    },
-    {
       "id": "5af5722e04a19174",
       "source": "B2B Marketing Ops",
-      "headline": "Revenue Growth Agent pushes first-meeting conversion as a co - marketscale.com",
-      "summary": "Revenue Growth Agent pushes first-meeting conversion as a co marketscale.com",
+      "headline": "Revenue Growth Agent pushes first-meeting conversion as a co - MarketScale",
+      "summary": "Revenue Growth Agent pushes first-meeting conversion as a co MarketScale",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSXNUT2h2WHZxczZJNlNld3JKejJLRnlQLXNubFhUWlluZlZzU3FiN1BITGwzbGNQazJ2NzhfRXprcGFWYXl4NHNZNkVmMk41Ui1RSjE5STY4UVlWWjgtQk9nQXowM3BXVTdaQTRkbWhUSjlzLVo2ampDdmxVZkh5QmxVdkdoY2JrY0tqREdwWTQ0N1FINVZmNEE5NllFTVFnbTRNckNuTVdyZ2VSbHNpLUxnckdyM3ZZRmxsMU1WLTNpZ1ZpRTVmLWhTUGhualM0Zk01NnU1VlVYc0lBcHJXMWlsZ1BVcWY1MVYwemFuQ2pjbjRtOHhMZ0RyM2g4ZVU0RDY3dHhXdzhQeGQ1N1E?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSXNUT2h2WHZxczZJNlNld3JKejJLRnlQLXNubFhUWlluZlZzU3FiN1BITGwzbGNQazJ2NzhfRXprcGFWYXl4NHNZNkVmMk41Ui1RSjE5STY4UVlWWjgtQk9nQXowM3BXVTdaQTRkbWhUSjlzLVo2ampDdmxVZkh5QmxVdkdoY2JrY0tqREdwWTQ0N1FINVZmNEE5NllFTVFnbTRNckNuTVdyZ2VSbHNpLUxnckdyM3ZZRmxsMU1WLTNpZ1ZpRTVmLWhTUGhualM0Zk01NnU1VlVYc0lBcHJXMWlsZ1BVcWY1MVYwemFuQ2pjbjRtOHhMZ0RyM2g4ZVU0RDY3dHhXdzhQeGQ1N1E",
       "image": "",
@@ -624,14 +605,33 @@
       "appearances": 1
     },
     {
-      "id": "bd993088c43fc9df",
-      "source": "Wisconsin News",
-      "headline": "Prediction market firm sues to escape Wisconsin gambling law - Wisconsin Examiner",
-      "summary": "Prediction market firm sues to escape Wisconsin gambling law Wisconsin Examiner",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzkzRDJjMUMzNmFOUGZieTNRaTdrTWtvZTdrTlhwVTFKcFJzRXFwTGxNakczMEVqdE41M2cwejFadGozeE5kRlR6Vk9fbU1tZmpDc2I5QXZZMUdhR0YteFZqbWdtR3cza3lOdlo4TjI1NUZXNlhrc1JaaFFrSHlXVHpDRnd1TDhqN18yOXpCbi1IdDRwWEppY1VTRWFSVXM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzkzRDJjMUMzNmFOUGZieTNRaTdrTWtvZTdrTlhwVTFKcFJzRXFwTGxNakczMEVqdE41M2cwejFadGozeE5kRlR6Vk9fbU1tZmpDc2I5QXZZMUdhR0YteFZqbWdtR3cza3lOdlo4TjI1NUZXNlhrc1JaaFFrSHlXVHpDRnd1TDhqN18yOXpCbi1IdDRwWEppY1VTRWFSVXM",
+      "id": "679027bde9c5dbdf",
+      "source": "AI News",
+      "headline": "Privacy vs safety? OpenAI and Anthropic take different paths - Storyboard18",
+      "summary": "Privacy vs safety? OpenAI and Anthropic take different paths Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmE5N0RFN25fRUZ4QkRmQmtaNHJSV1JUZnBMRVZIWkVlc0dkVGdXcUhCYXJWTDRjMjhadEt5eU81bVJVaEFDWUppaEI1aGp3MW9ldnk5czgzdzg1cS1zLWQyOVhxQ3F5SnRWOVVHbFhEY01LVjJnanlXYzRPeTJBdkQtU1FUWXp1X2tuTTFHV3VaZDlRWWo3NjdZcVlrUEUtUlFOMC1DS19LSFczdzEtOWtQSnVfWDjSAbcBQVVfeXFMT3JhOTdERTduX0VGeEJEZkJrWjRyUldSVGZwTEVWSFpFZXNHZFRnV3FIQmFyVkw0YzI4WnRLeXlPNW1SVWhBQ1lKaWhCNWhqdzFvZXZ5OXM4M3c4NXEtcy1kMjlYcUNxeUp0VjlVR2xYRGNNS1YyZ2p5V2M0T3kyQXZELVNRVFl6dV9rbk0xR1d1WmQ5UVlqNzY3WXFZa1BFLVJRTjAtQ0tfS0hXM3cxLTlrUEp1X1g4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcmE5N0RFN25fRUZ4QkRmQmtaNHJSV1JUZnBMRVZIWkVlc0dkVGdXcUhCYXJWTDRjMjhadEt5eU81bVJVaEFDWUppaEI1aGp3MW9ldnk5czgzdzg1cS1zLWQyOVhxQ3F5SnRWOVVHbFhEY01LVjJnanlXYzRPeTJBdkQtU1FUWXp1X2tuTTFHV3VaZDlRWWo3NjdZcVlrUEUtUlFOMC1DS19LSFczdzEtOWtQSnVfWDjSAbcBQVVfeXFMT3JhOTdERTduX0VGeEJEZkJrWjRyUldSVGZwTEVWSFpFZXNHZFRnV3FIQmFyVkw0YzI4WnRLeXlPNW1SVWhBQ1lKaWhCNWhqdzFvZXZ5OXM4M3c4NXEtcy1kMjlYcUNxeUp0VjlVR2xYRGNNS1YyZ2p5V2M0T3kyQXZELVNRVFl6dV9rbk0xR1d1WmQ5UVlqNzY3WXFZa1BFLVJRTjAtQ0tfS0hXM3cxLTlrUEp1X1g4",
       "image": "",
-      "published": "Thu, 20 Aug 2026 01:00:30 GMT",
+      "published": "Thu, 20 Aug 2026 06:10:54 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-08-20"
+      ],
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "appearances": 1
+    },
+    {
+      "id": "c1743d0ee82b1e0b",
+      "source": "Isthmus",
+      "headline": "Prairie Pages, Sun Prairie - Isthmus | Madison, Wisconsin",
+      "summary": "Prairie Pages, Sun Prairie Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rbFVTZ3I0MkozVGFIc1Vhc1l2eWVpSFhJSHBYMjNGbTVOTmJiSk1TWW9WbXZuVWpmUVAwWkdNOXlhTFBCS2tWRlJYX0ktc2luRWIzYTVLQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rbFVTZ3I0MkozVGFIc1Vhc1l2eWVpSFhJSHBYMjNGbTVOTmJiSk1TWW9WbXZuVWpmUVAwWkdNOXlhTFBCS2tWRlJYX0ktc2luRWIzYTVLQQ",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 20:52:42 GMT",
       "sections": [
         "local"
       ],
@@ -690,7 +690,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
       "published": "Wed, 19 Aug 2026 11:19:12 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-20"
@@ -805,25 +805,6 @@
       "published": "Wed, 19 Aug 2026 16:53:56 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-08-20"
-      ],
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "appearances": 1
-    },
-    {
-      "id": "6090bb5ac8704c99",
-      "source": "Reuters",
-      "headline": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-      "summary": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 23:03:10 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-08-20"
@@ -1137,6 +1118,25 @@
       "appearances": 1
     },
     {
+      "id": "8f94bd362f3f2c71",
+      "source": "Madison Local",
+      "headline": "Engineers pioneer a pacemaker that can power itself - College of Engineering | University of Wisconsin-Madison",
+      "summary": "Engineers pioneer a pacemaker that can power itself College of Engineering | University of Wisconsin-Madison",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXVhUWxoYUhFajVHS0w1MGxtM3piZkI0X0J2cXpfZEdkY3B2a0ZXTk53bFNUQ2pwUXM5SlpZcnExN25DaV9RUnhDQnRpcmdGeHZYZkFxaWZmR1ZOOU9pa3kySVNOTkFXTmMyZTVsYU0ybmJlSlNmU1BVZE5tZjlVTC1qd3JQQ0hUMFBkMFNwaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXVhUWxoYUhFajVHS0w1MGxtM3piZkI0X0J2cXpfZEdkY3B2a0ZXTk53bFNUQ2pwUXM5SlpZcnExN25DaV9RUnhDQnRpcmdGeHZYZkFxaWZmR1ZOOU9pa3kySVNOTkFXTmMyZTVsYU0ybmJlSlNmU1BVZE5tZjlVTC1qd3JQQ0hUMFBkMFNwaw",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 20:46:23 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-08-20"
+      ],
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "appearances": 1
+    },
+    {
       "id": "67e27fd4c4d23032",
       "source": "Wisconsin News",
       "headline": "EF-0 tornado confirmed near Hubertus, brings yearly Wisconsin total to 47 - WTMJ",
@@ -1232,25 +1232,6 @@
       "appearances": 1
     },
     {
-      "id": "d597f84ea1d5e107",
-      "source": "Audubon",
-      "headline": "Bipartisan RANCH Act Offers New Opportunities for Working Lands Conservation - National Audubon Society",
-      "summary": "Bipartisan RANCH Act Offers New Opportunities for Working Lands Conservation National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGViUndpWmhDRVgtcUItN0FCcERDX3UyLVJibVZPekhxWmNiZHR5SzktXzdEMjZ4MGczZDJ5QzhYNE1UTV9kb0o1S1B2VE1ObGZ5OUFOWnlkekpGdVFRemhZSUFISjhTbjZQRjVlbnBUNThRdl93ZzJrZ2t2QVZBQlBEUmpYRjFEZEJCeWNXMF9qVDRGVzJ5blNQSHNRQW00MV9Nc1BXaHBqbU0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGViUndpWmhDRVgtcUItN0FCcERDX3UyLVJibVZPekhxWmNiZHR5SzktXzdEMjZ4MGczZDJ5QzhYNE1UTV9kb0o1S1B2VE1ObGZ5OUFOWnlkekpGdVFRemhZSUFISjhTbjZQRjVlbnBUNThRdl93ZzJrZ2t2QVZBQlBEUmpYRjFEZEJCeWNXMF9qVDRGVzJ5blNQSHNRQW00MV9Nc1BXaHBqbU0",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 21:30:37 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-08-20"
-      ],
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "appearances": 1
-    },
-    {
       "id": "481d49c3d03156f7",
       "source": "BBC World",
       "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -1258,7 +1239,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/b3d19af0-9c6e-11f1-8efc-bf1ca073197a.png",
-      "published": "Thu, 20 Aug 2026 07:59:55 GMT",
+      "published": "Thu, 20 Aug 2026 08:39:26 GMT",
       "sections": [
         "must-know"
       ],
@@ -1280,6 +1261,25 @@
       "published": "Thu, 20 Aug 2026 07:38:05 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-08-20"
+      ],
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "appearances": 1
+    },
+    {
+      "id": "ac0f667ddfb8914f",
+      "source": "BBC US & Canada",
+      "headline": "A constant presence by Trump's side, now Natalie Harp is suddenly in spotlight",
+      "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
+      "published": "Wed, 19 Aug 2026 23:11:14 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-08-20"
