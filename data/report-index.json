@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-19.json",
-  "report_date": "2026-08-19",
-  "generated_at": "2026-08-19T08:52:36.313836+00:00",
-  "edition_count": 35,
+  "latest": "data/archive/2026-08-20.json",
+  "report_date": "2026-08-20",
+  "generated_at": "2026-08-20T08:18:41.633644+00:00",
+  "edition_count": 36,
   "editions": [
+    {
+      "report_date": "2026-08-20",
+      "generated_at": "2026-08-20T08:18:41.633644+00:00",
+      "path": "data/archive/2026-08-20.json",
+      "top_story": {
+        "source": "Ars Technica",
+        "headline": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+        "summary": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
+        "url": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289906305-1152x648.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-19",
       "generated_at": "2026-08-19T08:52:36.313836+00:00",
