@@ -114,11 +114,11 @@
     const types = ['tree', 'grass', 'weed'];
     if (!pollen?.available) {
       panel.classList.add('is-unavailable');
-      byId('pollen-summary').textContent = 'Pollen reading unavailable';
+      byId('pollen-summary').textContent = 'Checking Madison pollen…';
       types.forEach((type) => {
         const meter = panel.querySelector(`[data-pollen="${type}"]`);
         meter?.removeAttribute('data-level');
-        byId(`pollen-${type}-level`).textContent = 'Unavailable';
+        byId(`pollen-${type}-level`).textContent = 'Checking';
         byId(`pollen-${type}-bar`).style.width = '0%';
       });
       return;
@@ -172,7 +172,10 @@
 
     renderHours(weather.next_hours);
     renderAlert(weather.alert);
-    renderPollen(weather.pollen);
+    // Madison pollen comes from the dedicated /api/pollen endpoint loaded by
+    // weather-enhancements.js. Do not render the Open-Meteo pollen payload here:
+    // those variables are not supported for Madison and can look falsely "Low".
+    renderPollen(null);
     setLoading(false);
   };
 

@@ -8,7 +8,7 @@
     if (document.querySelector('link[href^="ui-cleanup.css"]')) return;
     const style = document.createElement('link');
     style.rel = 'stylesheet';
-    style.href = 'ui-cleanup.css?v=20260818-1';
+    style.href = 'ui-cleanup.css?v=20260821-1';
     document.head.appendChild(style);
   };
 
@@ -16,12 +16,12 @@
     if (!document.querySelector('link[href^="personalized-morning.css"]')) {
       const style = document.createElement('link');
       style.rel = 'stylesheet';
-      style.href = 'personalized-morning.css?v=20260723-1';
+      style.href = 'personalized-morning.css?v=20260821-1';
       document.head.appendChild(style);
     }
     if (!document.querySelector('script[src^="personalized-morning.js"]')) {
       const script = document.createElement('script');
-      script.src = 'personalized-morning.js?v=20260723-1';
+      script.src = 'personalized-morning.js?v=20260821-1';
       script.defer = true;
       document.head.appendChild(script);
     }
@@ -73,11 +73,28 @@
     else nav.appendChild(feelingsLink);
   }
 
-  const capybaraLink = nav.querySelector('[data-nav="capybara"]');
+  // Older cached navigation code/markup could leave two Capybara links behind.
+  // Normalize the nav to exactly one canonical Capybara tab on every page.
+  const capybaraLinks = Array.from(nav.querySelectorAll('[data-nav="capybara"], a[href$="capybara.html"]'));
+  let capybaraLink = capybaraLinks.find((link) => link.dataset.nav === 'capybara') || capybaraLinks[0] || null;
+
+  if (!capybaraLink) {
+    capybaraLink = document.createElement('a');
+    nav.appendChild(capybaraLink);
+  }
+
+  capybaraLinks.forEach((link) => {
+    if (link !== capybaraLink) link.remove();
+  });
+
+  capybaraLink.href = 'capybara.html';
+  capybaraLink.dataset.nav = 'capybara';
+  capybaraLink.textContent = 'Capybara';
+
   const bigStoryLink = nav.querySelector('[data-nav="big-story"]');
   const archiveLink = nav.querySelector('[data-nav="archive"]');
 
-  if (capybaraLink && bigStoryLink) bigStoryLink.after(capybaraLink);
+  if (bigStoryLink) bigStoryLink.after(capybaraLink);
   if (archiveLink) nav.appendChild(archiveLink);
 
   const activeLink = activePage ? nav.querySelector(`[data-nav="${activePage}"]`) : null;
