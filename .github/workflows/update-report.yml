@@ -2,9 +2,9 @@ name: Update Morning Intelligence Report
 
 on:
   schedule:
-    # GitHub cron uses UTC and scheduled runs may start late. These run at 2:45 and
-    # 3:15 a.m. Central during daylight time (1:45 and 2:15 a.m. during standard time)
-    # so the report has a generous buffer to publish before 5:15 a.m. Central.
+    # GitHub cron uses UTC and scheduled runs may start late. Keep a primary and
+    # backup window, but scheduled runs now skip if today's report already exists
+    # so the morning edition is not silently rewritten a second time.
     - cron: "45 7 * * *"
     - cron: "15 8 * * *"
   workflow_dispatch:
@@ -33,6 +33,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,19 +42,53 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      - name: Check whether today's scheduled report already exists
+        id: daily-guard
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          TODAY="$(TZ=America/Chicago date +%F)"
+          REPORT_DATE="$(python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('data/report.json')
+          if not path.exists():
+              print('')
+          else:
+              try:
+                  print(json.loads(path.read_text(encoding='utf-8')).get('report_date', ''))
+              except Exception:
+                  print('')
+          PY
+          )"
+
+          if [ "$REPORT_DATE" = "$TODAY" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Today's report already exists for $TODAY. Leaving the completed edition unchanged."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "No completed report found for $TODAY. Generating it now."
+          fi
+
       - name: Install dependencies
+        if: github.event_name != 'schedule' || steps.daily-guard.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Generate personalized report from expanded RSS feeds
+        if: github.event_name != 'schedule' || steps.daily-guard.outputs.skip != 'true'
         run: python scripts/generate_report_v3.py
 
       - name: Normalize report for the website
+        if: github.event_name != 'schedule' || steps.daily-guard.outputs.skip != 'true'
         run: python scripts/normalize_report.py
 
       - name: Validate and archive completed report
+        if: github.event_name != 'schedule' || steps.daily-guard.outputs.skip != 'true'
         run: python scripts/validate_and_archive.py
 
       - name: Commit refreshed report
+        if: github.event_name != 'schedule' || steps.daily-guard.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
