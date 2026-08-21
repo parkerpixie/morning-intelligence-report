@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-08-21T08:21:43.061878+00:00",
+  "generated_at": "2026-08-21T08:57:51.004088+00:00",
   "edition_count": 37,
-  "story_count": 2308,
+  "story_count": 2305,
   "stories": [
     {
       "id": "1ee6956c1934660a",
@@ -36,7 +36,7 @@
       "image": "",
       "published": "Thu, 20 Aug 2026 13:00:30 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-21"
@@ -55,7 +55,7 @@
       "image": "",
       "published": "Thu, 20 Aug 2026 20:31:15 GMT",
       "sections": [
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
         "2026-08-21"
@@ -91,9 +91,9 @@
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
-      "published": "Thu, 20 Aug 2026 23:15:15 GMT",
+      "published": "Fri, 21 Aug 2026 08:38:18 GMT",
       "sections": [
-        "must-know"
+        "big-story"
       ],
       "report_dates": [
         "2026-08-21"
@@ -208,6 +208,25 @@
       "published": "Fri, 21 Aug 2026 03:34:47 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-21"
+      ],
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "appearances": 1
+    },
+    {
+      "id": "1f60c4c8aae250da",
+      "source": "Wisconsin Watch",
+      "headline": "Vet shortage overwhelms clinics, leaves owners to drive hours for emergency care - Wisconsin Watch",
+      "summary": "Vet shortage overwhelms clinics, leaves owners to drive hours for emergency care Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3ZGalYxc3F6dUpjV3BBN2RfaDRnODRoWkZOanpHZ0xRcGNreXVmVG9yWWlySzJoMEpXNGNjdVJ0ZWJxQkxtZnVmbWxmZ0RnOWprVXdvNm80bkhzN2g4UjBkampvRjZocjNHTFNSZWRsT1J6YTFoa05wNFlhVzB1eE5Ib3FWcVVLZ1VUNEQyM2E0TlV2VjVueF9vajRIc0oteThxcUZPVmRPa1BFZXpKOXh6MUVPOUszd2dsQUtn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3ZGalYxc3F6dUpjV3BBN2RfaDRnODRoWkZOanpHZ0xRcGNreXVmVG9yWWlySzJoMEpXNGNjdVJ0ZWJxQkxtZnVmbWxmZ0RnOWprVXdvNm80bkhzN2g4UjBkampvRjZocjNHTFNSZWRsT1J6YTFoa05wNFlhVzB1eE5Ib3FWcVVLZ1VUNEQyM2E0TlV2VjVueF9vajRIc0oteThxcUZPVmRPa1BFZXpKOXh6MUVPOUszd2dsQUtn",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 11:00:00 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-21"
@@ -351,25 +370,6 @@
       "appearances": 1
     },
     {
-      "id": "84d37d09409868c1",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift's London Haunts: The Insider's Guide - Vanity Fair",
-      "summary": "Taylor Swift's London Haunts: The Insider's Guide Vanity Fair",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zaFR2WDNfSFVQRl9rQld6UU5faTl3WnRZTkwwb0hiSkJfeHo5NGFrRDVSMjViMWQ4aXlKY1VISFpLTW9JUndwWnVER1RNakV3eXNXU0I4TWotelJ4S1VkaWh4ZkhVTmhrVjZILXRSdVhjSWRu?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zaFR2WDNfSFVQRl9rQld6UU5faTl3WnRZTkwwb0hiSkJfeHo5NGFrRDVSMjViMWQ4aXlKY1VISFpLTW9JUndwWnVER1RNakV3eXNXU0I4TWotelJ4S1VkaWh4ZkhVTmhrVjZILXRSdVhjSWRu",
-      "image": "",
-      "published": "Sat, 15 Aug 2026 17:05:05 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "appearances": 1
-    },
-    {
       "id": "7c2a6759dabd55d5",
       "source": "Taylor Fashion",
       "headline": "Taylor Swift flashes wedding ring and gold band as she attends Oli Jacobs and Laura Sisk’s star-studded nuptials solo - Page Six",
@@ -386,27 +386,6 @@
         "2026-08-17"
       ],
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-21",
-      "appearances": 2
-    },
-    {
-      "id": "481d49c3d03156f7",
-      "source": "BBC World",
-      "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "published": "Thu, 20 Aug 2026 17:14:55 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-21",
-        "2026-08-20"
-      ],
-      "first_seen": "2026-08-20",
       "last_seen": "2026-08-21",
       "appearances": 2
     },
@@ -468,25 +447,6 @@
       "appearances": 1
     },
     {
-      "id": "54feec60f73ff73d",
-      "source": "Customer Data",
-      "headline": "Queen One Secures $25 Million to Blitz Legacy Martech - MarTech Cube",
-      "summary": "Queen One Secures $25 Million to Blitz Legacy Martech MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelBwTEdBVjkxR0VZcURuSE1fd05XN19jT1Bkb0RxZWhTd0xJSXF3MHhCYV8yZGRYZjZLSGlSMVpGUzJ6cnZncnp4SUxVLXQyS1k0djRNSk15YlNaWGRQS0o4d2YycUMxRUFVYkpoR2UwT053b2phOXF2YTFJLWVKS05oTHV5QWs3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelBwTEdBVjkxR0VZcURuSE1fd05XN19jT1Bkb0RxZWhTd0xJSXF3MHhCYV8yZGRYZjZLSGlSMVpGUzJ6cnZncnp4SUxVLXQyS1k0djRNSk15YlNaWGRQS0o4d2YycUMxRUFVYkpoR2UwT053b2phOXF2YTFJLWVKS05oTHV5QWs3",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 12:39:03 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "appearances": 1
-    },
-    {
       "id": "b43312d7462d5df9",
       "source": "Madison Local",
       "headline": "Prominent UW-Madison professor agrees to resign after investigation - Wisconsin State Journal",
@@ -523,6 +483,28 @@
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-21",
       "appearances": 1
+    },
+    {
+      "id": "25f09e78b9ff1e96",
+      "source": "HubSpot Marketing",
+      "headline": "Pardot alternatives: What B2B marketers are choosing now",
+      "summary": "Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.",
+      "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+      "canonical_url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/pardot-alternatives-1-20260812-1265605.webp",
+      "published": "Fri, 14 Aug 2026 19:30:01 GMT",
+      "sections": [
+        "quick-scan",
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-21",
+        "2026-08-18",
+        "2026-08-15"
+      ],
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-21",
+      "appearances": 3
     },
     {
       "id": "729da7e2f24b2662",
@@ -572,7 +554,7 @@
       "image": "",
       "published": "Thu, 20 Aug 2026 17:10:16 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-08-21"
@@ -677,25 +659,6 @@
       "appearances": 1
     },
     {
-      "id": "7bcfef67fc1b22d4",
-      "source": "Good News Network",
-      "headline": "Man Rescued Alive After Being Trapped in Underwater Cave for 15 Days Without Food or Light",
-      "summary": "A harrowing story of survival and perseverance comes to us from Mexico, where a fisherman was rescued after spending 15 days in a pitch black cave. The man, Erasto Crisanto Valdez, said he trusted in god to deliver him from the situation, which he survived by drinking rainwater and breathing from an air pocket. According",
-      "url": "https://www.goodnewsnetwork.org/man-rescued-alive-after-being-trapped-in-underwater-cave-for-15-days-without-food-or-light/",
-      "canonical_url": "https://www.goodnewsnetwork.org/man-rescued-alive-after-being-trapped-in-underwater-cave-for-15-days-without-food-or-light",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 11:00:04 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "appearances": 1
-    },
-    {
       "id": "eed0a16d9522b01d",
       "source": "Salesforce",
       "headline": "Klaviyo: Tremendous New Product Momentum (NYSE:KVYO) - Seeking Alpha",
@@ -706,6 +669,25 @@
       "published": "Thu, 20 Aug 2026 17:44:22 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-08-21"
+      ],
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "appearances": 1
+    },
+    {
+      "id": "1a229733e234554c",
+      "source": "Variety",
+      "headline": "Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott’s ‘The Dog Stars’ When Asked if He’s Been Auditioning: ‘I’m Here on Holiday’",
+      "summary": "Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott’s latest feature “The Dog Stars.” The actor’s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who",
+      "url": "https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/",
+      "canonical_url": "https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014",
+      "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2291321426.jpg",
+      "published": "Fri, 21 Aug 2026 08:45:26 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-08-21"
@@ -763,25 +745,6 @@
       "published": "Wed, 19 Aug 2026 16:40:09 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "appearances": 1
-    },
-    {
-      "id": "e58c3f85481125be",
-      "source": "Marketing Ops",
-      "headline": "Impartner Launches the First CPQ Built for Partners - Business Wire",
-      "summary": "Impartner Launches the First CPQ Built for Partners Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenduc25rRE1rRnhpM0UyY2Rvc1pmNnM1YXRGdzYzYkM1NkFCYlNUYlk4UTVNT3p2TjJwUjNMM3dVd19VU0hFbTJsdWFRa3k0dU85bkFBZ1dpY292VHJiOU56NElSUmlnZGk0YXM2a2MyLV9jc0dOMS1ZZWFWWFJvSXBhN09GMklvY2ZHTFljRWFFQVUzMVpEVGZodzdjY1ZIRUNELTVqanplcHZ4?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenduc25rRE1rRnhpM0UyY2Rvc1pmNnM1YXRGdzYzYkM1NkFCYlNUYlk4UTVNT3p2TjJwUjNMM3dVd19VU0hFbTJsdWFRa3k0dU85bkFBZ1dpY292VHJiOU56NElSUmlnZGk0YXM2a2MyLV9jc0dOMS1ZZWFWWFJvSXBhN09GMklvY2ZHTFljRWFFQVUzMVpEVGZodzdjY1ZIRUNELTVqanplcHZ4",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 13:00:00 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-08-21"
@@ -905,6 +868,25 @@
       "appearances": 1
     },
     {
+      "id": "f545d4a9365f565b",
+      "source": "Good News Network",
+      "headline": "Good News in History, August 20",
+      "summary": "Happy 91th birthday to the former Congressman from Texas, Dr. Ron Paul. Before serving three terms as representative of the 22nd and 14th Congressional districts, the country doctor delivered an average of 1 baby per day, amounting to over 4,000 little ones because he was the only OB/GYN in Brazoria County. Respected by both sides",
+      "url": "https://www.goodnewsnetwork.org/events060820/",
+      "canonical_url": "https://www.goodnewsnetwork.org/events060820",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 07:00:00 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-08-21"
+      ],
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "appearances": 1
+    },
+    {
       "id": "e8a1ea41781a192b",
       "source": "BBC World",
       "headline": "Five missing after fire in Swiss Alpine town",
@@ -952,7 +934,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc0/live/f9cb93e0-9cb8-11f1-84cf-fd4cfd9d6c84.jpg",
       "published": "Fri, 21 Aug 2026 01:16:43 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-08-21"
@@ -1019,6 +1001,26 @@
       "appearances": 1
     },
     {
+      "id": "988457082043e2f6",
+      "source": "Taylor Fashion",
+      "headline": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition - Vogue",
+      "summary": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition Vogue",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF",
+      "image": "",
+      "published": "Mon, 17 Aug 2026 19:33:21 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-08-21",
+        "2026-08-18"
+      ],
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-21",
+      "appearances": 2
+    },
+    {
       "id": "cba8249548cf347e",
       "source": "BBC World",
       "headline": "El Niño set to be 'strongest in living memory', says Met Office",
@@ -1048,25 +1050,6 @@
       "published": "Thu, 20 Aug 2026 15:42:39 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "appearances": 1
-    },
-    {
-      "id": "94e7e263a8ee6c54",
-      "source": "Variety",
-      "headline": "Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series",
-      "summary": "Dave Bautista is officially taking up the mantle of the “God of War.” Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play",
-      "url": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
-      "canonical_url": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394",
-      "image": "https://variety.com/wp-content/uploads/2026/08/dave-bautista.png",
-      "published": "Thu, 20 Aug 2026 22:00:00 +0000",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-08-21"
@@ -1114,23 +1097,24 @@
       "appearances": 1
     },
     {
-      "id": "fc312f7fc4c38e1e",
-      "source": "UW-Madison Science",
-      "headline": "Contact Us – Wisconsin Center for Education Research – UW–Madison - Wisconsin Center for Education Research",
-      "summary": "Contact Us – Wisconsin Center for Education Research – UW–Madison Wisconsin Center for Education Research",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9rcmstaDB3Zk1FQm5SZ1hqWjJ4X0hWM1IwRkdsR19panNCSVpFVi0zSFl5V1ExQXpvMFFEaGNTSEZpUWZ0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9rcmstaDB3Zk1FQm5SZ1hqWjJ4X0hWM1IwRkdsR19panNCSVpFVi0zSFl5V1ExQXpvMFFEaGNTSEZpUWZ0",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 19:09:13 GMT",
+      "id": "26adda7a84e775b7",
+      "source": "HubSpot Marketing",
+      "headline": "CRM for insurance companies: What it does and why it matters",
+      "summary": "Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships across the policy lifecycle, including follow-up, nurturing, customer service, and renewals.",
+      "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
+      "canonical_url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/crm-for-insurance-companies-1-20260812-7475160.webp",
+      "published": "Mon, 17 Aug 2026 11:00:04 GMT",
       "sections": [
-        "local"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-18"
       ],
-      "first_seen": "2026-08-21",
+      "first_seen": "2026-08-18",
       "last_seen": "2026-08-21",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "080f769f0b7885f3",
@@ -1169,6 +1153,27 @@
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-21",
       "appearances": 1
+    },
+    {
+      "id": "b8fba462117afd99",
+      "source": "AI News",
+      "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
+      "summary": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 23:16:07 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-08-21",
+        "2026-08-18",
+        "2026-08-10"
+      ],
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-21",
+      "appearances": 3
     },
     {
       "id": "8ab1af9f9a3db7d0",
@@ -2539,6 +2544,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
       "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-08-20"
+      ],
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "appearances": 1
+    },
+    {
+      "id": "481d49c3d03156f7",
+      "source": "BBC World",
+      "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/b3d19af0-9c6e-11f1-8efc-bf1ca073197a.png",
+      "published": "Thu, 20 Aug 2026 08:39:26 GMT",
       "sections": [
         "must-know"
       ],
@@ -4456,26 +4480,6 @@
       "appearances": 1
     },
     {
-      "id": "25f09e78b9ff1e96",
-      "source": "HubSpot Marketing",
-      "headline": "Pardot alternatives: What B2B marketers are choosing now",
-      "summary": "Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.",
-      "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
-      "canonical_url": "https://blog.hubspot.com/marketing/pardot-alternatives",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/pardot-alternatives-1-20260812-1265605.webp",
-      "published": "Fri, 14 Aug 2026 19:30:01 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-18",
-        "2026-08-15"
-      ],
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-18",
-      "appearances": 2
-    },
-    {
       "id": "c9111986fb2ab848",
       "source": "Reuters",
       "headline": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says - Reuters",
@@ -4913,25 +4917,6 @@
       "appearances": 1
     },
     {
-      "id": "988457082043e2f6",
-      "source": "Taylor Fashion",
-      "headline": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition - Vogue",
-      "summary": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition Vogue",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF",
-      "image": "",
-      "published": "Mon, 17 Aug 2026 19:33:21 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-08-18"
-      ],
-      "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "appearances": 1
-    },
-    {
       "id": "884db6e1237f186d",
       "source": "BBC Health",
       "headline": "Eclipse warning: The key signs you may have damaged your eyes",
@@ -4989,25 +4974,6 @@
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-18",
       "appearances": 2
-    },
-    {
-      "id": "26adda7a84e775b7",
-      "source": "HubSpot Marketing",
-      "headline": "CRM for insurance companies: What it does and why it matters",
-      "summary": "Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships across the policy lifecycle, including follow-up, nurturing, customer service, and renewals.",
-      "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
-      "canonical_url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/crm-for-insurance-companies-1-20260812-7475160.webp",
-      "published": "Mon, 17 Aug 2026 11:00:04 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-18"
-      ],
-      "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "appearances": 1
     },
     {
       "id": "c181af1aabe94893",
@@ -5103,26 +5069,6 @@
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "appearances": 1
-    },
-    {
-      "id": "b8fba462117afd99",
-      "source": "AI News",
-      "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
-      "summary": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 01:15:40 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-08-18",
-        "2026-08-10"
-      ],
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-18",
-      "appearances": 2
     },
     {
       "id": "1b38fe1ee0f6fcbf",

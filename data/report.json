@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-21T08:20:32.959421+00:00",
-  "generated_at_local": "2026-08-21T03:20:32.959421-05:00",
+  "generated_at": "2026-08-21T08:55:49.153291+00:00",
+  "generated_at_local": "2026-08-21T03:55:49.153291-05:00",
   "report_date": "2026-08-21",
   "top_story": {
     "source": "BBC US & Canada",
-    "headline": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
-    "summary": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
-    "url": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc0/live/f9cb93e0-9cb8-11f1-84cf-fd4cfd9d6c84.jpg",
-    "published": "Fri, 21 Aug 2026 01:16:43 GMT"
+    "headline": "Why the US economy is ringing alarm bells",
+    "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+    "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+    "published": "Fri, 21 Aug 2026 08:38:18 GMT"
   },
   "quick_scan": [
     {
@@ -28,14 +28,6 @@
       "published": "Fri, 21 Aug 2026 07:06:16 GMT"
     },
     {
-      "source": "Wisconsin News",
-      "headline": "Wisconsin tornado count hits second-highest yearly total on record - FOX6 News Milwaukee",
-      "summary": "Wisconsin tornado count hits second-highest yearly total on record FOX6 News Milwaukee",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3g5cDhzTW14YVpXVkxIeGYzNEdkTVhvOHFENWJITnpYbFdITmNJNFUzb254aHAxVDVRSU5sbFRuSjRYcy1ZdW5EalpDMDF2VmFqVGJEZWFLY2QzLV9NbzdvUVYtall6Yno2MGhhWlB1TU5xZEpmTzZmWlBmU0FhSg?oc=5",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 20:31:15 GMT"
-    },
-    {
       "source": "Madison Local",
       "headline": "To Attack or to Mourn? : The Response to the Murder of Corey Ruiz in Madison, Wisconsin - CrimethInc.",
       "summary": "To Attack or to Mourn? : The Response to the Murder of Corey Ruiz in Madison, Wisconsin CrimethInc.",
@@ -52,28 +44,36 @@
       "published": "Fri, 21 Aug 2026 02:03:59 GMT"
     },
     {
-      "source": "Customer Data",
-      "headline": "Queen One Secures $25 Million to Blitz Legacy Martech - MarTech Cube",
-      "summary": "Queen One Secures $25 Million to Blitz Legacy Martech MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelBwTEdBVjkxR0VZcURuSE1fd05XN19jT1Bkb0RxZWhTd0xJSXF3MHhCYV8yZGRYZjZLSGlSMVpGUzJ6cnZncnp4SUxVLXQyS1k0djRNSk15YlNaWGRQS0o4d2YycUMxRUFVYkpoR2UwT053b2phOXF2YTFJLWVKS05oTHV5QWs3?oc=5",
+      "source": "Wisconsin Watch",
+      "headline": "Vet shortage overwhelms clinics, leaves owners to drive hours for emergency care - Wisconsin Watch",
+      "summary": "Vet shortage overwhelms clinics, leaves owners to drive hours for emergency care Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3ZGalYxc3F6dUpjV3BBN2RfaDRnODRoWkZOanpHZ0xRcGNreXVmVG9yWWlySzJoMEpXNGNjdVJ0ZWJxQkxtZnVmbWxmZ0RnOWprVXdvNm80bkhzN2g4UjBkampvRjZocjNHTFNSZWRsT1J6YTFoa05wNFlhVzB1eE5Ib3FWcVVLZ1VUNEQyM2E0TlV2VjVueF9vajRIc0oteThxcUZPVmRPa1BFZXpKOXh6MUVPOUszd2dsQUtn?oc=5",
       "image": "",
-      "published": "Thu, 20 Aug 2026 12:39:03 GMT"
+      "published": "Thu, 20 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "source": "AI News",
+      "headline": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap - BetaNews",
+      "summary": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVjBhQ0FOczY5dDBGeFg5dm9ubklKN2VLMVpLMS1tRWZzOWZieVYybGFXR190eG85MmxveC1yTFYyVXpJcmJTY3lBVjlnMHlkUlhobGwxb2s5V0hydnZ0a0tPdExuVmt3MTBJcDlyNA?oc=5",
+      "image": "",
+      "published": "Thu, 20 Aug 2026 17:10:16 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "headline": "Pardot alternatives: What B2B marketers are choosing now",
+      "summary": "Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.",
+      "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/pardot-alternatives-1-20260812-1265605.webp",
+      "published": "Fri, 14 Aug 2026 19:30:01 GMT"
     },
     {
       "source": "Good News Network",
-      "headline": "Man Rescued Alive After Being Trapped in Underwater Cave for 15 Days Without Food or Light",
-      "summary": "A harrowing story of survival and perseverance comes to us from Mexico, where a fisherman was rescued after spending 15 days in a pitch black cave. The man, Erasto Crisanto Valdez, said he trusted in god to deliver him from the situation, which he survived by drinking rainwater and breathing from an air pocket. According",
-      "url": "https://www.goodnewsnetwork.org/man-rescued-alive-after-being-trapped-in-underwater-cave-for-15-days-without-food-or-light/",
+      "headline": "Woman Gives $1 Million in ‘Life-Changing’ Bonuses to Teachers in Her School District",
+      "summary": "When a local resident found out that her schools in an extremely wealthy Northern California county was at the bottom for state funding, she stepped up to make the difference. Maja Kristin asked the Ross Valley School District to organize a meeting of 100 teachers from their K-8 schools, with the special instruction that they",
+      "url": "https://www.goodnewsnetwork.org/woman-gives-1-million-in-life-changing-bonuses-to-teachers-in-her-school-district/",
       "image": "",
-      "published": "Thu, 20 Aug 2026 11:00:04 +0000"
-    },
-    {
-      "source": "BBC World",
-      "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "published": "Thu, 20 Aug 2026 17:14:55 GMT"
+      "published": "Thu, 20 Aug 2026 13:00:30 +0000"
     }
   ],
   "sections": {
@@ -93,14 +93,6 @@
         "url": "https://www.wpr.org/news/transportation-projects-award-improve-air-quality-wisconsin",
         "image": "",
         "published": "Thu, 20 Aug 2026 16:41:11 +0000"
-      },
-      {
-        "source": "UW-Madison Science",
-        "headline": "Contact Us – Wisconsin Center for Education Research – UW–Madison - Wisconsin Center for Education Research",
-        "summary": "Contact Us – Wisconsin Center for Education Research – UW–Madison Wisconsin Center for Education Research",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9rcmstaDB3Zk1FQm5SZ1hqWjJ4X0hWM1IwRkdsR19panNCSVpFVi0zSFl5V1ExQXpvMFFEaGNTSEZpUWZ0?oc=5",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 19:09:13 GMT"
       },
       {
         "source": "Madison Local",
@@ -141,9 +133,25 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSDREaW9TOFQ2bFZ1d04tWEtqYXBIS3ZWazdzb2J1dHJQaGJDNkNWM3pfS3RJSGFUZlpLRW8takNmZUx3cGpXNmxzR3VOemxEN1BmZjEzWW1qNWk5bV9TYlphTkNaZGpaXzRINE1UbGxyQXQ5VGh0RzlOUTNCdzlKaGF1OEhxWVlUYXNBTUo5SGJhdmUtRVpVRUZyVXFETHN2SGVfV3pGcU5wUXFFVHc4bm9YV25OQTh0TTdqR3JteUU5ODA3M1lFUTN2QXRQV0REQnRkLVM5RjluWTFzYmlFZGtOejc?oc=5",
         "image": "",
         "published": "Thu, 20 Aug 2026 21:50:00 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Wisconsin tornado count hits second-highest yearly total on record - FOX6 News Milwaukee",
+        "summary": "Wisconsin tornado count hits second-highest yearly total on record FOX6 News Milwaukee",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3g5cDhzTW14YVpXVkxIeGYzNEdkTVhvOHFENWJITnpYbFdITmNJNFUzb254aHAxVDVRSU5sbFRuSjRYcy1ZdW5EalpDMDF2VmFqVGJEZWFLY2QzLV9NbzdvUVYtall6Yno2MGhhWlB1TU5xZEpmTzZmWlBmU0FhSg?oc=5",
+        "image": "",
+        "published": "Thu, 20 Aug 2026 20:31:15 GMT"
       }
     ],
     "must-know": [
+      {
+        "source": "BBC US & Canada",
+        "headline": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
+        "summary": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
+        "url": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc0/live/f9cb93e0-9cb8-11f1-84cf-fd4cfd9d6c84.jpg",
+        "published": "Fri, 21 Aug 2026 01:16:43 GMT"
+      },
       {
         "source": "BBC World",
         "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -159,14 +167,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
         "published": "Thu, 20 Aug 2026 23:16:45 GMT"
-      },
-      {
-        "source": "BBC US & Canada",
-        "headline": "Why the US economy is ringing alarm bells",
-        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
-        "published": "Thu, 20 Aug 2026 23:15:15 GMT"
       },
       {
         "source": "BBC US & Canada",
@@ -244,6 +244,14 @@
       },
       {
         "source": "AI News",
+        "headline": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? - Stocktwits",
+        "summary": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order? Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2dyek9lSS1McWhwUVRWT1dVM0JDeG5DVl9pQzRaamxoWnFkclZmdHRsQ0phWVdzZUp6eTFTUDF1R1A2eGc1elVZNVFzenN1QXdkQTNob24wRUdxcEsxMktXLWM3eFcxWl8tLU1UalFwVjd3RVdfUFdsd095RUxWUmNfbkVHNmFLSTZJX19kM2hmdGtxNUtXZDNyOUEtQmNpc0t4SERRdjNVT3NQaUxfNV9KVjJWRkFPWTdoN2w0eUd5ZHZrbW9Zdl9ka09YYlFfNFNRZmtQQnlXZzhWeUlDSzZTQ015Nkow?oc=5",
+        "image": "",
+        "published": "Thu, 20 Aug 2026 23:16:07 GMT"
+      },
+      {
+        "source": "AI News",
         "headline": "Pentagon gives Anthropic ultimatum on AI technology: Sources - ABC News - Breaking News, Latest News and Videos",
         "summary": "Pentagon gives Anthropic ultimatum on AI technology: Sources ABC News - Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmk1c3RRZUVnenpEV3lQRUtudTdTV05mVXo4MWxRVW91UkJCVTB0dmo1dDRfQy13Z2hRSkJ5UXN4NlRscjhaTk5uOEhLcElBckVjd0F4Z0hkUHFYejYwWi1tUjM0Vm9DeE9JdjYxWldSbGVOWjhzcEFTNzMxUDNKNG1ic2VhM2ZDVDVsZE15M0JzNzByUTUzZU1yMEppbWvSAaQBQVVfeXFMUFp0N0lQZWF3MHlhZUlzQXl0Wnp1VWxkMnlHZnh1dUM2RENlSll1QU5MVE9keFNUbzJoczlLT1Z3Z09tdHRyT044MVNwTF90YlNXYkNlVGFsWHdNMmdjSkMxOVNpQ3ZZSTBIWU5KUk5YOXBmcElYdmVHWUhqQXlSX0RWaWdrUV82NmRDN1pYU19GckhjOERTb1FHWkJJalk3ODRDM08?oc=5",
@@ -259,14 +267,6 @@
         "published": "2026-08-20T15:59:09-04:00"
       },
       {
-        "source": "AI News",
-        "headline": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap - BetaNews",
-        "summary": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap BetaNews",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVjBhQ0FOczY5dDBGeFg5dm9ubklKN2VLMVpLMS1tRWZzOWZieVYybGFXR190eG85MmxveC1yTFYyVXpJcmJTY3lBVjlnMHlkUlhobGwxb2s5V0hydnZ0a0tPdExuVmt3MTBJcDlyNA?oc=5",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 17:10:16 GMT"
-      },
-      {
         "source": "Ars Technica",
         "headline": "US distributor of China’s most popular humanoid robots pivots after US ban",
         "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
@@ -276,6 +276,14 @@
       }
     ],
     "work-marketing": [
+      {
+        "source": "HubSpot Marketing",
+        "headline": "CRM for insurance companies: What it does and why it matters",
+        "summary": "Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships across the policy lifecycle, including follow-up, nurturing, customer service, and renewals.",
+        "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
+        "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/crm-for-insurance-companies-1-20260812-7475160.webp",
+        "published": "Mon, 17 Aug 2026 11:00:04 GMT"
+      },
       {
         "source": "HubSpot Marketing",
         "headline": "AEO audit tools — the best options on the market",
@@ -331,14 +339,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjBON2JHVTlhNFF0Njd1MFRqQUJDWHBURWJhZ3dzWXdZS2o4d2FQNzdoMnpYOVJ0dzhTbzZSN3lqRXh4XzhQM2p0SWMtZlltU1ZfaE9UdHM4dUpTMm5hNGxLaEtVTWpoZWMyajZUVE9fNVB3S21XeUxlQ05WYUdURGVzYk9NVlE?oc=5",
         "image": "",
         "published": "Thu, 20 Aug 2026 17:44:22 GMT"
-      },
-      {
-        "source": "Marketing Ops",
-        "headline": "Impartner Launches the First CPQ Built for Partners - Business Wire",
-        "summary": "Impartner Launches the First CPQ Built for Partners Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenduc25rRE1rRnhpM0UyY2Rvc1pmNnM1YXRGdzYzYkM1NkFCYlNUYlk4UTVNT3p2TjJwUjNMM3dVd19VU0hFbTJsdWFRa3k0dU85bkFBZ1dpY292VHJiOU56NElSUmlnZGk0YXM2a2MyLV9jc0dOMS1ZZWFWWFJvSXBhN09GMklvY2ZHTFljRWFFQVUzMVpEVGZodzdjY1ZIRUNELTVqanplcHZ4?oc=5",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 13:00:00 GMT"
       }
     ],
     "wellbeing": [
@@ -409,12 +409,12 @@
     ],
     "entertainment": [
       {
-        "source": "Variety",
-        "headline": "Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series",
-        "summary": "Dave Bautista is officially taking up the mantle of the “God of War.” Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play",
-        "url": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
-        "image": "https://variety.com/wp-content/uploads/2026/08/dave-bautista.png",
-        "published": "Thu, 20 Aug 2026 22:00:00 +0000"
+        "source": "Taylor Fashion",
+        "headline": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition - Vogue",
+        "summary": "Even Taylor Swift Can’t Resist This Newlywed Hair Tradition Vogue",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZGF6ZXc1akJRbXk4dUhHZ0NEWVRTb3pYcndCbzMwNUhTR0tHZENjSmxKV1psYzAxeDdyelVhM3U3eENxYzgzNVRJWmpvX0phN2wxRUV0MFJ4V3lPbjAxdW5oVl9vcVBraERF?oc=5",
+        "image": "",
+        "published": "Mon, 17 Aug 2026 19:33:21 GMT"
       },
       {
         "source": "BBC Entertainment",
@@ -465,12 +465,12 @@
         "published": "Sun, 16 Aug 2026 17:00:00 GMT"
       },
       {
-        "source": "Taylor Fashion",
-        "headline": "Taylor Swift's London Haunts: The Insider's Guide - Vanity Fair",
-        "summary": "Taylor Swift's London Haunts: The Insider's Guide Vanity Fair",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zaFR2WDNfSFVQRl9rQld6UU5faTl3WnRZTkwwb0hiSkJfeHo5NGFrRDVSMjViMWQ4aXlKY1VISFpLTW9JUndwWnVER1RNakV3eXNXU0I4TWotelJ4S1VkaWh4ZkhVTmhrVjZILXRSdVhjSWRu?oc=5",
-        "image": "",
-        "published": "Sat, 15 Aug 2026 17:05:05 GMT"
+        "source": "Variety",
+        "headline": "Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott’s ‘The Dog Stars’ When Asked if He’s Been Auditioning: ‘I’m Here on Holiday’",
+        "summary": "Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott’s latest feature “The Dog Stars.” The actor’s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who",
+        "url": "https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/",
+        "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-2291321426.jpg",
+        "published": "Fri, 21 Aug 2026 08:45:26 +0000"
       }
     ],
     "animals": [
@@ -541,6 +541,30 @@
     ],
     "wonderful": [
       {
+        "source": "Positive News",
+        "headline": "The mobile library bringing books to rural Syria",
+        "summary": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war",
+        "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
+        "image": "",
+        "published": "Thu, 20 Aug 2026 05:00:23 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Good News in History, August 20",
+        "summary": "Happy 91th birthday to the former Congressman from Texas, Dr. Ron Paul. Before serving three terms as representative of the 22nd and 14th Congressional districts, the country doctor delivered an average of 1 baby per day, amounting to over 4,000 little ones because he was the only OB/GYN in Brazoria County. Respected by both sides",
+        "url": "https://www.goodnewsnetwork.org/events060820/",
+        "image": "",
+        "published": "Thu, 20 Aug 2026 07:00:00 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "‘We like breaking the rules’: the radical farm that yields results",
+        "summary": "An Italian farm that plays annoying sounds to pests and leans in to quantum physics is getting surprising results",
+        "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
+        "image": "",
+        "published": "Mon, 17 Aug 2026 07:00:50 +0000"
+      },
+      {
         "source": "Good News Network",
         "headline": "Experimental Drug Generates Immune Response Against Pancreatic Cancer in People at High Risk",
         "summary": "Researchers at Johns Hopkins report that an experimental drug targeting one of the most common genetic drivers of pancreatic cancer was safe in humans, and generated durable immune responses aimed at preventing the cancer in people at high risk. Pancreatic cancer has one of the lowest survival rates of any form, and the developers believe",
@@ -557,46 +581,22 @@
         "published": "Thu, 20 Aug 2026 15:30:32 +0000"
       },
       {
-        "source": "Good News Network",
-        "headline": "Woman Gives $1 Million in ‘Life-Changing’ Bonuses to Teachers in Her School District",
-        "summary": "When a local resident found out that her schools in an extremely wealthy Northern California county was at the bottom for state funding, she stepped up to make the difference. Maja Kristin asked the Ross Valley School District to organize a meeting of 100 teachers from their K-8 schools, with the special instruction that they",
-        "url": "https://www.goodnewsnetwork.org/woman-gives-1-million-in-life-changing-bonuses-to-teachers-in-her-school-district/",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 13:00:30 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "The mobile library bringing books to rural Syria",
-        "summary": "A brightly painted bus is bringing books, puppets and art workshops to children who have grown up with war",
-        "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 05:00:23 +0000"
-      },
-      {
         "source": "Positive News",
         "headline": "What went right this week: the good news that matters",
         "summary": "A ‘pivotal moment’ for cancer treatment, resurgent whales, and the city that made public transport free, plus more",
         "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
         "image": "",
         "published": "Fri, 21 Aug 2026 05:00:44 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "‘We like breaking the rules’: the radical farm that yields results",
-        "summary": "An Italian farm that plays annoying sounds to pests and leans in to quantum physics is getting surprising results",
-        "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
-        "image": "",
-        "published": "Mon, 17 Aug 2026 07:00:50 +0000"
       }
     ]
   },
   "wonderful": {
-    "source": "Good News Network",
-    "headline": "Experimental Drug Generates Immune Response Against Pancreatic Cancer in People at High Risk",
-    "summary": "Researchers at Johns Hopkins report that an experimental drug targeting one of the most common genetic drivers of pancreatic cancer was safe in humans, and generated durable immune responses aimed at preventing the cancer in people at high risk. Pancreatic cancer has one of the lowest survival rates of any form, and the developers believe",
-    "url": "https://www.goodnewsnetwork.org/experimental-drug-generates-immune-response-against-pancreatic-cancer-in-people-at-high-risk/",
+    "source": "Positive News",
+    "headline": "The mobile library bringing books to rural Syria",
+    "summary": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war",
+    "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
     "image": "",
-    "published": "Thu, 20 Aug 2026 18:30:16 +0000"
+    "published": "Thu, 20 Aug 2026 05:00:23 +0000"
   },
   "capybara_message": "If you keep rescuing the process, the process never learns to stop walking into traffic.",
   "personalization": {
