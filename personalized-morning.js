@@ -1,4 +1,10 @@
 (() => {
+  const TIME_ZONE = 'America/Chicago';
+  const ORACLE_MANIFEST_URL = 'assets/oracle/oracle-manifest.json?v=20260821-1';
+  const DAILY_REFLECTION_OVERRIDES = {
+    '2026-07-21': 'beaver'
+  };
+
   const dayIndex = () => {
     const now = new Date();
     const start = new Date(now.getFullYear(), 0, 0);
@@ -6,10 +12,91 @@
   };
   const pick = (items, offset = 0) => items[(dayIndex() + offset) % items.length];
 
+  const localDateKey = () => {
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: TIME_ZONE,
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).formatToParts(new Date());
+    const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+    return `${values.year}-${values.month}-${values.day}`;
+  };
+
+  const hashString = (value) => {
+    let hash = 2166136261;
+    for (let index = 0; index < value.length; index += 1) {
+      hash ^= value.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return hash >>> 0;
+  };
+
+  const dailyChoice = (items, salt) => {
+    if (!items.length) return null;
+    return items[hashString(`${localDateKey()}:${salt}`) % items.length];
+  };
+
   const card = (icon, kicker, title, text) => {
     const article = document.createElement('article');
     article.className = 'morning-feature-card';
     article.innerHTML = `<span class="morning-feature-icon" aria-hidden="true">${icon}</span><div><p class="morning-feature-kicker">${kicker}</p><h2>${title}</h2><p>${text}</p></div>`;
+    return article;
+  };
+
+  const buildDailyReflectionCard = async () => {
+    const article = document.createElement('article');
+    article.className = 'home-reflection-card is-loading';
+    article.setAttribute('aria-busy', 'true');
+    article.innerHTML = `
+      <div class="home-reflection-image-frame" aria-hidden="true">
+        <div class="home-reflection-placeholder">✦</div>
+        <img class="home-reflection-image" src="" alt="" hidden>
+      </div>
+      <div class="home-reflection-copy">
+        <p class="morning-feature-kicker">A reflection for today</p>
+        <h2>Spirit Animal of the Day</h2>
+        <strong class="home-reflection-animal">Consulting the animal council…</strong>
+        <p class="home-reflection-message">Clementine is selecting one thought to carry into the day.</p>
+        <a class="home-reflection-link" href="capybara.html">Open the full reflection in Capybara Corner →</a>
+      </div>`;
+
+    try {
+      const response = await fetch(ORACLE_MANIFEST_URL, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`Reflection manifest returned ${response.status}`);
+      const manifest = await response.json();
+      const oracleIds = new Set(
+        (Array.isArray(manifest?.oracle_cards) ? manifest.oracle_cards : [])
+          .filter((entry) => entry?.id && entry?.front && entry?.back && entry.id !== 'otter')
+          .map((entry) => entry.id)
+      );
+      const reflections = (Array.isArray(manifest?.reflection_cards) ? manifest.reflection_cards : [])
+        .filter((entry) => entry?.id && entry?.animal && entry?.image);
+      const matched = reflections.filter((entry) => entry.oracle_match && oracleIds.has(entry.oracle_match));
+      const pool = matched.length ? matched : reflections;
+      const overrideId = DAILY_REFLECTION_OVERRIDES[localDateKey()];
+      const reflection = pool.find((entry) => entry.id === overrideId)
+        || dailyChoice(pool, 'spirit-animal-reflection');
+      if (!reflection) throw new Error('No reflection cards were available.');
+
+      const image = article.querySelector('.home-reflection-image');
+      image.src = reflection.image;
+      image.alt = `${reflection.animal} Spirit Animal of the Day reflection card`;
+      image.hidden = false;
+      article.querySelector('.home-reflection-placeholder')?.remove();
+      article.querySelector('.home-reflection-animal').textContent = reflection.animal;
+      article.querySelector('.home-reflection-message').textContent = reflection.message || 'A reflection selected for today.';
+      article.classList.remove('is-loading');
+      article.setAttribute('aria-busy', 'false');
+    } catch (error) {
+      console.warn('Daily home reflection could not load.', error);
+      article.querySelector('.home-reflection-animal').textContent = 'Today’s reflection is resting offstage';
+      article.querySelector('.home-reflection-message').textContent = 'Capybara Corner still has the full reflection deck when you are ready for it.';
+      article.classList.remove('is-loading');
+      article.classList.add('is-unavailable');
+      article.setAttribute('aria-busy', 'false');
+    }
+
     return article;
   };
 
@@ -22,20 +109,22 @@
       const response = await fetch('/api/pollen', { cache: 'no-store' });
       if (!response.ok) throw new Error('Pollen unavailable');
       const data = await response.json();
+      if (!data?.available) throw new Error('Pollen source returned no current reading');
       const levels = cardEl.querySelector('.pollen-levels');
       const rows = [
-        ['🌳', 'Tree', data.pollen?.tree],
-        ['🌱', 'Grass', data.pollen?.grass],
-        ['🌿', 'Weed / ragweed', data.pollen?.weed]
+        ['🌳', 'Tree', data.tree],
+        ['🌱', 'Grass', data.grass],
+        ['🌿', 'Weed / ragweed', data.weed]
       ];
-      rows.forEach(([icon, label, value]) => {
+      rows.forEach(([icon, label, reading]) => {
         const item = document.createElement('div');
         item.className = 'pollen-level';
-        item.innerHTML = `<span>${icon} ${label}</span><strong data-level="${String(value || 'Unknown').toLowerCase().replace(/\s+/g, '-')}">${value || 'Unknown'}</strong>`;
+        const value = reading?.label || 'Unknown';
+        const level = String(reading?.level || value).toLowerCase().replace(/\s+/g, '-');
+        item.innerHTML = `<span>${icon} ${label}</span><strong data-level="${level}">${value}</strong>`;
         levels.appendChild(item);
       });
-      const summary = data.overall ? `Overall pollen: ${data.overall}.` : 'Today’s pollen mix is shown below.';
-      cardEl.querySelector('.pollen-status').textContent = summary;
+      cardEl.querySelector('.pollen-status').textContent = data.summary || (data.overall ? `Overall pollen: ${data.overall}.` : 'Today’s pollen mix is shown below.');
     } catch {
       cardEl.querySelector('.pollen-status').textContent = 'Live pollen levels could not load, but the full Madison report is still available below.';
     }
@@ -68,12 +157,12 @@
       'Notice one ordinary object that quietly makes your life easier.'
     ];
     const nature = [
-      'Late-July prairie flowers are feeding bees and butterflies across southern Wisconsin. Hummingbirds are also becoming busier as migration approaches.',
+      'Late-summer prairie flowers are feeding bees and butterflies across southern Wisconsin. Hummingbirds are also becoming busier as migration approaches.',
       'Warm, humid mornings favor dragonflies near ponds and marshes. After rain, woodland paths may produce mushrooms almost overnight.',
       'Monarch activity is building across southern Wisconsin. Milkweed patches may hold eggs, caterpillars, or newly emerged adults.',
       'Dawn and dusk are prime hours for sandhill cranes, rabbits, and deer. Listen near wetlands for crane calls.',
       'Prairie seeds are beginning to form even while summer flowers remain bright. Goldfinches often arrive early to inspect the buffet.',
-      'Fireflies remain active along darker yard edges and meadows, especially after warm, humid days.',
+      'Late-summer insects are loudest in warm grass and meadow edges, turning the evening into a tiny percussion section.',
       'Young birds are everywhere now, often nearly adult-sized while still loudly requesting room service.'
     ];
 
@@ -81,6 +170,7 @@
     section.id = 'morning-personal-features';
     section.className = 'morning-personal-features';
     section.append(
+      await buildDailyReflectionCard(),
       card('✦', 'A small astonishment', 'Today’s Curiosity', pick(curiosities)),
       card('🍃', 'A five-second practice', 'One Thing Worth Noticing', pick(noticing, 2)),
       card('🌼', 'Outside in Madison', 'Wisconsin Nature Forecast', pick(nature, 4)),
