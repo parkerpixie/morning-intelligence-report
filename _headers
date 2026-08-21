@@ -4,6 +4,15 @@
 /nav-state.js
   Cache-Control: no-cache, no-store, must-revalidate
 
+/personalized-morning.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/personalized-morning.css
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/assets/oracle/oracle-manifest.json
+  Cache-Control: no-cache, no-store, must-revalidate
+
 /weather.js
   Cache-Control: no-cache, no-store, must-revalidate
 
