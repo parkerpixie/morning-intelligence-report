@@ -8,7 +8,7 @@
     if (document.querySelector('link[href^="ui-cleanup.css"]')) return;
     const style = document.createElement('link');
     style.rel = 'stylesheet';
-    style.href = 'ui-cleanup.css?v=20260818-1';
+    style.href = 'ui-cleanup.css?v=20260821-1';
     document.head.appendChild(style);
   };
 
