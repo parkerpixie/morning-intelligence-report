@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T08:02:35.516785+00:00",
-  "generated_at_local": "2026-08-22T03:02:35.516785-05:00",
+  "generated_at": "2026-08-22T08:45:34.144263+00:00",
+  "generated_at_local": "2026-08-22T03:45:34.144263-05:00",
   "report_date": "2026-08-22",
   "top_story": {
     "source": "BBC US & Canada",
@@ -20,22 +20,6 @@
       "published": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-      "source": "BBC World",
-      "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-      "published": "Sat, 22 Aug 2026 06:40:30 GMT"
-    },
-    {
-      "source": "Ars Technica",
-      "headline": "Thunder + fiber-optic cabling used for seismic imaging",
-      "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg",
-      "published": "Fri, 21 Aug 2026 20:26:46 +0000"
-    },
-    {
       "source": "Good News Network",
       "headline": "Man Makes 200+ Trips to Remote Villages to Connect Elders with Their Children Working Abroad",
       "summary": "It’s estimated that over 110 million Chinese live and work abroad, which for the family members they leave behind can be heart-wrenching and difficult, above all for the elderly. But thanks to a generous soul born to the mountain paths of Hubei Province, these severed family ties are being reconnected through social media and delivery",
@@ -50,6 +34,14 @@
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c9/live/70745c80-9d4e-11f1-854c-7d636985156c.jpg",
       "published": "Fri, 21 Aug 2026 08:38:18 GMT"
+    },
+    {
+      "source": "BBC World",
+      "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
+      "published": "Fri, 21 Aug 2026 05:47:32 GMT"
     },
     {
       "source": "Madison Local",
@@ -74,6 +66,14 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "image": "",
       "published": "Thu, 20 Aug 2026 15:42:39 +0000"
+    },
+    {
+      "source": "BBC Science",
+      "headline": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
+      "summary": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "published": "Fri, 21 Aug 2026 05:06:39 GMT"
     }
   ],
   "sections": {
@@ -201,12 +201,12 @@
         "published": "Fri, 21 Aug 2026 23:32:00 GMT"
       },
       {
-        "source": "Associated Press",
-        "headline": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election ‘legal battles’ - AP News",
-        "summary": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election ‘legal battles’ AP News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVFzbGlXNTl0aDNoNEtSUFhwYm1KZ0xhd3FyRWVNNEE3MTZScklvdVY4RjR6WHZMWXp0ck4tWmQyam9NODF0OW5uc2JERXBoZG1BcTlMRzZlTmVUWXM4R2cwcFFFanFrWjY1NWlXak00Y2swTmc2ZGVxZXNWZ1VuWDVDdjRjaEx2OTJqd2hLVWVHZ3FzbldXMmpzNG0xbGdKUklWVjlR?oc=5",
-        "image": "",
-        "published": "Fri, 21 Aug 2026 20:33:00 GMT"
+        "source": "BBC World",
+        "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+        "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+        "published": "Sat, 22 Aug 2026 06:40:30 GMT"
       }
     ],
     "ai-tech": [
@@ -368,11 +368,11 @@
       },
       {
         "source": "Mental Health",
-        "headline": "Gryzbek Therapy Services Named Top ADHD Testing Provider in Naperville - StreetInsider",
-        "summary": "Gryzbek Therapy Services Named Top ADHD Testing Provider in Naperville StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamREaGNIRV9DTmxTWjUxYnRrSkpCOUlfY3Q0WS0wQUh4RVQySU42WFp6N01YbHU0MktJSjJiaHJBZ29ZSUlMMXI1RFkwT2tuVXdHYlB2Y1FjNFJfVkpVbDNYc1VwN1I1OW9Wd21uVXZBYnQ2ME5ZNkRrWkUyV3h3R280WjNNTWV1S3FXcjFzcTk3S0VhNVFjaE5yS2MyYmhOX0tmSXJEZlRNdzlOdTNXbTR5SGVqSG5rb0l4RWJnQQ?oc=5",
+        "headline": "Gryzbek Therapy Services Named Top ADHD Testing Provider in Naperville - mykxlg.com",
+        "summary": "Gryzbek Therapy Services Named Top ADHD Testing Provider in Naperville mykxlg.com",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRjk2ZWs0c3A3dW5SbEp4QjZ0ZmlseXhqTHVnS1hjTmdBaE1ldTZTb2FUcHNqRnZQTFBjTTRBYmhoSkVfYXZONFlaNHFCM1QwMWRxYTN5VVZlRjNOdEQxWVc3cHdNc2tXZy1IdjFkbUhENlJwTkFLamtPYTNLMjhSN0FobGhmc2tqbEpvbUtRQnoyYjhKYUozb2djajA5STMzME9xdWc4WFB3UUNyQ0Y1OWdWQktWOV9LSk44YmtreHFRMWdpS3p3bGctRFdUeGFtRnc3blJpOERxM19GbVh5RVFzSWhOZmdSc05sc0dhRmRpMHVia3d1c1B6WWxncGhYV3JnVg?oc=5",
         "image": "",
-        "published": "Sat, 22 Aug 2026 04:56:46 GMT"
+        "published": "Sat, 22 Aug 2026 04:55:02 GMT"
       },
       {
         "source": "NIH News",
@@ -381,14 +381,6 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWZVWkZIWnVxR196YXlvR0E1V2hwTkR2bm1Zc1FJS2l3Rm5zWWhza2hKanZ5Wm5JOXBnOFFobW85WVJ1V0lQZ3hFTTc4aHRFWmYzRGJOLVE4QzRVUHR4c2pQYk4wOGFuQU5MZFZQR250SnZuMERySENjZUJpMlMzak84M2dZRlZmYVR1WUJPYnBtN2Zxakl3Zl9FM1Z1OTFZdlZaYlFsNkpyOUtibGdQdzVRLVUwRGJvMzQ5LUd3?oc=5",
         "image": "",
         "published": "Sat, 22 Aug 2026 04:15:18 GMT"
-      },
-      {
-        "source": "The Verge",
-        "headline": "Why does it seem like food recalls are out of control this year?",
-        "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and smaller grocery stores across the South and Southwest",
-        "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-        "image": "",
-        "published": "2026-08-21T10:45:00-04:00"
       },
       {
         "source": "BBC Health",
@@ -405,6 +397,14 @@
         "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg",
         "published": "Wed, 19 Aug 2026 16:43:56 GMT"
+      },
+      {
+        "source": "MarTech",
+        "headline": "Google gives political email a lane around spam filters",
+        "summary": "New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment.",
+        "url": "https://martech.org/google-gives-political-email-a-lane-around-spam-filters/",
+        "image": "https://martech.org/wp-content/uploads/2026/02/clear-path-through-a-maze--800x450.png",
+        "published": "Wed, 19 Aug 2026 14:30:32 +0000"
       }
     ],
     "entertainment": [
@@ -415,14 +415,6 @@
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BQVJ0Y2huT0JuRUg5N3RweDNiTDdfM2JxeVlBdFRTZlV5WG0zYjBjV29YVGY1cGJNVng5OVVfRnRDMFRHWEVHNVdUQ0g?oc=5",
         "image": "",
         "published": "Fri, 21 Aug 2026 17:59:37 GMT"
-      },
-      {
-        "source": "Taylor Fashion",
-        "headline": "Sun-Kissed Taylor Swift Stuns in Plunging Dress & Velvet Canyon Sunglasses - theFashionSpot",
-        "summary": "Sun-Kissed Taylor Swift Stuns in Plunging Dress & Velvet Canyon Sunglasses theFashionSpot",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU1DOVlRem44YmVwZzJGSDkzOU95c3JJN3RDTEpYWWpKdVFWS0JIc0lEcV92WVh5ZnltOUtLU3F5ajk5SGJyamZ1TWtLWHdqVThDejNoNHZ2a214blF0TGtCbEhob3NFeDhkWmRmVVcyVnFJUC1zRENsMnpHdEZlYy0yVG1YR2VrMmdFVGpyU0JRdDhDMEh0UGlMdXc5QnpvVlZMRDg1a9IBrAFBVV95cUxOdVdYSDhqMzhRVm9DRU9kYXcyUTFZcngtbDBJZUFBX3RKNXBjQk05UkF1TFM5MDk3ZjlfWGxSWDBOc19uU3Y2VG9hT2FTak5tWXAwcDEtbHozQkhreGJLMktHVVVsbk9VemVEUXotVEJiVDhsWFd4WUxQRkxTZmlZWmVRZnczb3VFb01JLThfbGtCMG84c2xqRDNhcElaLUZWQ09KWTBxVjZwcmw1?oc=5",
-        "image": "",
-        "published": "Sat, 22 Aug 2026 06:16:33 GMT"
       },
       {
         "source": "BBC World",
@@ -455,6 +447,14 @@
         "url": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/",
         "image": "https://variety.com/wp-content/uploads/2025/08/2219205177.jpg",
         "published": "Sat, 22 Aug 2026 00:01:32 +0000"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "Rose Discusses Intellectual Property Risks of Taylor Swift-Inspired Bridal Designs - Pryor Cashman LLP",
+        "summary": "Rose Discusses Intellectual Property Risks of Taylor Swift-Inspired Bridal Designs Pryor Cashman LLP",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNENYa2dvOTVuSjNDajhvR0FmWks4LVJCbGxYVFo4MUEtRE5ybl9iUVZmUjB1bEFaV1JvR25HOElzdkdtVlF6ZkZ5bDJtYUZDVnAtS1hyUXFDVmk5cUlaYUxSRjZsT25xTE1jT041MUZwQVllMnEwQmpkSjRzVFZwTWExdzFtbTNvNnRKNXVqQ29jWExLcEI0OXRoWG5QaVRKMWMxY3NUSmI1bTRkM1lfbW9VNjlDUm9yOFg4dm9lWTl5QQ?oc=5",
+        "image": "",
+        "published": "Fri, 21 Aug 2026 15:24:38 GMT"
       },
       {
         "source": "BBC Entertainment",
@@ -524,22 +524,38 @@
       },
       {
         "source": "Animals",
+        "headline": "Animal rescue group mourns gentle pet hotel owner killed in tragic dog attack - The Standard (HK)",
+        "summary": "Animal rescue group mourns gentle pet hotel owner killed in tragic dog attack The Standard (HK)",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSk1NbzQ4RFVnMVZqSW5SaFhESHhFVDJkYm9rWHNjOXR1aXpWZlphRWg0NkhxTG8wYzRkWldqM2lCWmlOY1FYOVNqODQtYnI0STZyMFBvRksyRlJCWFM1MjU0ZTlxbXh2SlNwUUZPeVNpZVNLaDNkcVJfNkM0Y0NsNVZoZnRPZmlyMzFFZG56THdjUUNITF81d1RUcmFrend4a3NvS2p2LVUxbFE3dFFyMVdkM2I1cnYzbmlTNXFjYldVUFpoeXpR?oc=5",
+        "image": "",
+        "published": "Sat, 22 Aug 2026 07:32:50 GMT"
+      },
+      {
+        "source": "Animals",
         "headline": "\"We saw a severely exhausted whale entangled in rope and chain. It was heartbreaking…\" Watch heart wrenching video of an incredibly tense rescue - BBC Wildlife Magazine",
         "summary": "\"We saw a severely exhausted whale entangled in rope and chain. It was heartbreaking…\" Watch heart wrenching video of an incredibly tense rescue BBC Wildlife Magazine",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGl3TGpjNVJoTjQ5dzFsdzBLMEVvYUc3VVdvRlotZE96a3UwSS00YjdSdzJRbVdMbUpiTnBRTHNjYUtXOW11al9NUGM4V1N6ZzNVZEtQakwxQWthNGpYSjNDeUh1Zk8tMjdhU2xzNlM1aVBmZEZPd21mTWRqbjZ1ZWNrdU9rNmVRVlduZVFCVm9qMHR4RW9ERg?oc=5",
         "image": "",
         "published": "Wed, 19 Aug 2026 12:35:31 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "No Live Animal Imports For A Year, Says Vantara, Will Focus on Conserving Species In India and Native Ranges - TheWire.in",
-        "summary": "No Live Animal Imports For A Year, Says Vantara, Will Focus on Conserving Species In India and Native Ranges TheWire.in",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkdyYWVpVENzMUhRNXZLekZmSU1qelJwQWp0bkRCYWg4NDlXOXZDclAwTUZhaEVLTDRjTHA4SHV3VkxGV0FVX2RoSTZLQ2wtTldYcTB3ZXZJaGJUelFoM2tWV3BzeUVBUldLdTV3dUJQaG1jbWxvY1NtdEZDd3ZnYVZ3UUFSTWJPT2RIZDZtOGktSVFZazFPdHdMVG9wVUZnNXdVM1k5UUZrVmN2UUNOMnFZWmRQZWtqMzQyM0Iya1IxXzNWLS0tRXRXY1nSAd8BQVVfeXFMT1ZQWFZXMTc5c1dCMGNEU2FGMXhOdjVOSEhSX3FudmpxVU92OFV3RUNLMjZubHZrRjdPZ2RjYmVtaWRic29jS1kyOV9tTVRUOHZ5d1E0djhlOXNPdEM4MENBemE0Z2pXNEp0TFR6RGF5YUtCVGJwS1ROMU1ud254UHliRTVBNHpzUXkzQ2JMZ1NPTXMyZ2VkQ2VybVJNZEhZUEF1VUw5MzBmcWFIQzJhaUpFNFhndE1QaHNnZ19kaDZnb2cxY2EwWU5yX3RTZldRWWRfSlNrWWptd01qcjJSOA?oc=5",
-        "image": "",
-        "published": "Fri, 21 Aug 2026 16:26:01 GMT"
       }
     ],
     "wonderful": [
+      {
+        "source": "Positive News",
+        "headline": "The mobile library bringing books to rural Syria",
+        "summary": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war",
+        "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
+        "image": "",
+        "published": "Thu, 20 Aug 2026 05:00:23 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "‘We like breaking the rules’: the radical farm that yields results",
+        "summary": "An Italian farm that plays annoying sounds to pests and leans in to quantum physics is getting surprising results",
+        "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
+        "image": "",
+        "published": "Mon, 17 Aug 2026 07:00:50 +0000"
+      },
       {
         "source": "Good News Network",
         "headline": "French Firm Switches On Africa’s Largest Renewable Energy/Storage Plant to Power 200K Houses",
@@ -566,22 +582,6 @@
       },
       {
         "source": "Positive News",
-        "headline": "The mobile library bringing books to rural Syria",
-        "summary": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war",
-        "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
-        "image": "",
-        "published": "Thu, 20 Aug 2026 05:00:23 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "‘We like breaking the rules’: the radical farm that yields results",
-        "summary": "An Italian farm that plays annoying sounds to pests and leans in to quantum physics is getting surprising results",
-        "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
-        "image": "",
-        "published": "Mon, 17 Aug 2026 07:00:50 +0000"
-      },
-      {
-        "source": "Positive News",
         "headline": "What went right this week: the good news that matters",
         "summary": "A ‘pivotal moment’ for cancer treatment, resurgent whales, and the city that made public transport free, plus more",
         "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
@@ -591,12 +591,12 @@
     ]
   },
   "wonderful": {
-    "source": "Good News Network",
-    "headline": "French Firm Switches On Africa’s Largest Renewable Energy/Storage Plant to Power 200K Houses",
-    "summary": "French energy supermajor TotalEnergies recently inaugurated the largest hybrid renewable energy project in Africa that will generate 400 gigawatt-hours of electricity in South Africa. Located in the Northern Cape province the Hydra Project combines a 216-MW solar photovoltaic plant with a 500 MWh battery energy storage system. Developed and built with partners Hydra Storage Holding",
-    "url": "https://www.goodnewsnetwork.org/french-firm-switches-on-africas-largest-renewable-energy-storage-plant-to-power-200k-houses/",
+    "source": "Positive News",
+    "headline": "The mobile library bringing books to rural Syria",
+    "summary": "A converted bus is bringing books, puppets and art workshops to children who have grown up with war",
+    "url": "https://www.positive.news/society/the-mobile-library-bringing-books-to-rural-syria/",
     "image": "",
-    "published": "Fri, 21 Aug 2026 18:30:11 +0000"
+    "published": "Thu, 20 Aug 2026 05:00:23 +0000"
   },
   "capybara_message": "You do not need a better attitude about an unreasonable load. You need less load.",
   "personalization": {
