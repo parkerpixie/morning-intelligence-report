@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-21.json",
-  "report_date": "2026-08-21",
-  "generated_at": "2026-08-21T08:55:49.153291+00:00",
-  "edition_count": 37,
+  "latest": "data/archive/2026-08-22.json",
+  "report_date": "2026-08-22",
+  "generated_at": "2026-08-22T08:02:35.516785+00:00",
+  "edition_count": 38,
   "editions": [
+    {
+      "report_date": "2026-08-22",
+      "generated_at": "2026-08-22T08:02:35.516785+00:00",
+      "path": "data/archive/2026-08-22.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Tornadoes touch down in New York and Delaware",
+        "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+        "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-21",
       "generated_at": "2026-08-21T08:55:49.153291+00:00",
