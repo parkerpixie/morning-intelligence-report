@@ -44,7 +44,26 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate personalized report from expanded RSS feeds
-        run: python scripts/generate_report_v3.py
+        shell: bash
+        run: |
+          set -o pipefail
+          max_attempts=3
+          for attempt in $(seq 1 "$max_attempts"); do
+            echo "Report generation attempt ${attempt}/${max_attempts}"
+            if python scripts/generate_report_v3.py; then
+              echo "Report generation succeeded."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt "$max_attempts" ]; then
+              sleep_seconds=$((attempt * 10))
+              echo "Generation failed, likely because a remote feed/API disconnected. Retrying in ${sleep_seconds}s..."
+              sleep "$sleep_seconds"
+            fi
+          done
+
+          echo "::error::Report generation failed after ${max_attempts} attempts."
+          exit 1
 
       - name: Normalize report for the website
         run: python scripts/normalize_report.py
