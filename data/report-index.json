@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-22.json",
-  "report_date": "2026-08-22",
-  "generated_at": "2026-08-22T08:45:34.144263+00:00",
-  "edition_count": 38,
+  "latest": "data/archive/2026-08-23.json",
+  "report_date": "2026-08-23",
+  "generated_at": "2026-08-23T09:47:43.270747+00:00",
+  "edition_count": 39,
   "editions": [
+    {
+      "report_date": "2026-08-23",
+      "generated_at": "2026-08-23T09:47:43.270747+00:00",
+      "path": "data/archive/2026-08-23.json",
+      "top_story": {
+        "source": "Associated Press",
+        "headline": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+        "summary": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news AP News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-22",
       "generated_at": "2026-08-22T08:45:34.144263+00:00",
