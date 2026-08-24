@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-23.json",
-  "report_date": "2026-08-23",
-  "generated_at": "2026-08-23T09:47:43.270747+00:00",
-  "edition_count": 39,
+  "latest": "data/archive/2026-08-24.json",
+  "report_date": "2026-08-24",
+  "generated_at": "2026-08-24T08:29:04.175580+00:00",
+  "edition_count": 40,
   "editions": [
+    {
+      "report_date": "2026-08-24",
+      "generated_at": "2026-08-24T08:29:04.175580+00:00",
+      "path": "data/archive/2026-08-24.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump waves green flag to start IndyCar race through Washington streets",
+        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-23",
       "generated_at": "2026-08-23T09:47:43.270747+00:00",
