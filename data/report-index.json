@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-08-26.json",
   "report_date": "2026-08-26",
-  "generated_at": "2026-08-26T08:24:21.680331+00:00",
+  "generated_at": "2026-08-26T09:00:30.494302+00:00",
   "edition_count": 42,
   "editions": [
     {
       "report_date": "2026-08-26",
-      "generated_at": "2026-08-26T08:24:21.680331+00:00",
+      "generated_at": "2026-08-26T09:00:30.494302+00:00",
       "path": "data/archive/2026-08-26.json",
       "top_story": {
         "source": "Wisconsin Public Radio",
@@ -15,15 +15,15 @@
         "url": "https://www.wpr.org/news/supreme-court-mail-ballots-wisconsin-early-voting-midterms",
         "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 71,
+      "story_count": 60,
       "section_counts": {
-        "local": 8,
+        "local": 3,
         "must-know": 8,
         "ai-tech": 8,
-        "work-marketing": 8,
+        "work-marketing": 6,
         "wellbeing": 8,
         "entertainment": 8,
-        "animals": 8,
+        "animals": 4,
         "wonderful": 6
       }
     },
