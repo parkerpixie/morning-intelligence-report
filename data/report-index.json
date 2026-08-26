@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-25.json",
-  "report_date": "2026-08-25",
-  "generated_at": "2026-08-25T08:57:39.228238+00:00",
-  "edition_count": 41,
+  "latest": "data/archive/2026-08-26.json",
+  "report_date": "2026-08-26",
+  "generated_at": "2026-08-26T08:24:21.680331+00:00",
+  "edition_count": 42,
   "editions": [
+    {
+      "report_date": "2026-08-26",
+      "generated_at": "2026-08-26T08:24:21.680331+00:00",
+      "path": "data/archive/2026-08-26.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Supreme Court order on mail-in voting won’t immediately affect Wisconsin ballots",
+        "summary": "A U.S. Supreme Court decision allowing President Donald Trump to advance his plan to restrict voting by mail won't be the final word ahead of Wisconsin's November election, Wisconsin election officials say.",
+        "url": "https://www.wpr.org/news/supreme-court-mail-ballots-wisconsin-early-voting-midterms",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-25",
       "generated_at": "2026-08-25T08:57:39.228238+00:00",
