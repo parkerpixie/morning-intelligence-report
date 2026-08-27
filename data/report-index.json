@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-26.json",
-  "report_date": "2026-08-26",
-  "generated_at": "2026-08-26T09:00:30.494302+00:00",
-  "edition_count": 42,
+  "latest": "data/archive/2026-08-27.json",
+  "report_date": "2026-08-27",
+  "generated_at": "2026-08-27T18:24:58.695359+00:00",
+  "edition_count": 43,
   "editions": [
+    {
+      "report_date": "2026-08-27",
+      "generated_at": "2026-08-27T18:24:58.695359+00:00",
+      "path": "data/archive/2026-08-27.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it",
+        "summary": "A lawsuit seeks to block President Trump's name from going back on the center. The center's board warns that if renovation plans don't go forward, it may be demolished.",
+        "url": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-26",
       "generated_at": "2026-08-26T09:00:30.494302+00:00",
