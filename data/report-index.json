@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-27.json",
-  "report_date": "2026-08-27",
-  "generated_at": "2026-08-27T19:03:25.674160+00:00",
-  "edition_count": 43,
+  "latest": "data/archive/2026-08-28.json",
+  "report_date": "2026-08-28",
+  "generated_at": "2026-08-28T19:36:05.227452+00:00",
+  "edition_count": 44,
   "editions": [
+    {
+      "report_date": "2026-08-28",
+      "generated_at": "2026-08-28T19:36:05.227452+00:00",
+      "path": "data/archive/2026-08-28.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-27",
       "generated_at": "2026-08-27T19:03:25.674160+00:00",
