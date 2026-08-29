@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-28.json",
-  "report_date": "2026-08-28",
-  "generated_at": "2026-08-28T20:11:06.865147+00:00",
-  "edition_count": 44,
+  "latest": "data/archive/2026-08-29.json",
+  "report_date": "2026-08-29",
+  "generated_at": "2026-08-29T13:22:38.966834+00:00",
+  "edition_count": 45,
   "editions": [
+    {
+      "report_date": "2026-08-29",
+      "generated_at": "2026-08-29T13:22:38.966834+00:00",
+      "path": "data/archive/2026-08-29.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-28",
       "generated_at": "2026-08-28T20:11:06.865147+00:00",
