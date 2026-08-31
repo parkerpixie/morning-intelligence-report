@@ -1,0 +1,440 @@
+:root {
+  --deck-gold: #f2c15f;
+  --deck-cream: #fff7e6;
+  --deck-violet: #43345f;
+  --deck-deep: #171625;
+  --deck-teal: #173b45;
+}
+
+.card-decks-shell {
+  display: grid;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+.card-decks-intro {
+  max-width: 760px;
+}
+
+.card-decks-intro h2,
+.cards-reflection h2,
+.card-path h2 {
+  margin: 0.35rem 0 0;
+  color: var(--navy-deep);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+}
+
+.card-decks-intro > p:last-child,
+.cards-reflection > p,
+.card-path > p {
+  max-width: 700px;
+  margin: 0.8rem 0 0;
+  color: var(--ink-soft);
+  line-height: 1.65;
+}
+
+.deck-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1.25rem, 3vw, 2rem);
+}
+
+.deck-panel {
+  display: grid;
+  gap: 1rem;
+  padding: clamp(1.2rem, 3vw, 2rem);
+  overflow: hidden;
+  border: 1px solid rgba(23, 59, 69, 0.12);
+  border-radius: 28px;
+  background: rgba(255, 253, 248, 0.9);
+  box-shadow: var(--shadow-md);
+}
+
+.deck-panel--oracle {
+  color: #fff;
+  border-color: rgba(255, 230, 162, 0.18);
+  background:
+    radial-gradient(circle at 85% 4%, rgba(242, 193, 95, 0.16), transparent 17rem),
+    radial-gradient(circle at 10% 95%, rgba(106, 224, 232, 0.1), transparent 16rem),
+    linear-gradient(145deg, #171c31, #34264c 62%, #4b3150);
+}
+
+.deck-panel-header {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.deck-panel .section-kicker {
+  margin: 0;
+}
+
+.deck-panel--oracle .section-kicker {
+  color: var(--deck-gold);
+}
+
+.deck-panel h3 {
+  margin: 0;
+  color: var(--navy-deep);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(1.65rem, 3vw, 2.35rem);
+  font-weight: 600;
+}
+
+.deck-panel--oracle h3 {
+  color: #fff;
+}
+
+.deck-panel-copy {
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+.deck-panel--oracle .deck-panel-copy {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.deck-nameplate {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(23, 59, 69, 0.1);
+  border-radius: 16px;
+  background: rgba(23, 59, 69, 0.04);
+}
+
+.deck-panel--oracle .deck-nameplate {
+  border-color: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.055);
+}
+
+.deck-nameplate span {
+  color: var(--ink-soft);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.deck-panel--oracle .deck-nameplate span {
+  color: var(--deck-gold);
+}
+
+.deck-nameplate strong {
+  color: var(--navy-deep);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+.deck-panel--oracle .deck-nameplate strong {
+  color: #fff;
+}
+
+.deck-stage {
+  position: relative;
+  display: grid;
+  place-items: center;
+  min-height: 360px;
+  padding: 1rem;
+  overflow: hidden;
+  border: 0;
+  border-radius: 24px;
+  background: transparent;
+  cursor: default;
+}
+
+.deck-stage.has-card {
+  cursor: pointer;
+}
+
+.deck-card-back,
+.deck-card-image {
+  display: block;
+  max-width: 100%;
+  border-radius: 22px;
+  box-shadow: 0 24px 55px rgba(17, 22, 28, 0.25);
+}
+
+.deck-card-back {
+  position: relative;
+  width: min(78%, 330px);
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background:
+    radial-gradient(circle at 50% 42%, rgba(255, 230, 162, 0.2), transparent 9rem),
+    linear-gradient(145deg, #203e48, #232038 60%, #4b3150);
+}
+
+.deck-panel--oracle .deck-card-back {
+  background:
+    radial-gradient(circle at 50% 40%, rgba(242, 193, 95, 0.22), transparent 9rem),
+    linear-gradient(145deg, #1a1830, #3a2954 58%, #5a3c5f);
+}
+
+.deck-card-back::before,
+.deck-card-back::after {
+  position: absolute;
+  inset: 12%;
+  border: 1px solid rgba(255, 230, 162, 0.4);
+  border-radius: 50%;
+  content: "";
+}
+
+.deck-card-back::after {
+  inset: 24%;
+  border-style: dashed;
+  opacity: 0.7;
+}
+
+.deck-back-mark {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--deck-cream);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+.deck-card-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.deck-panel--oracle .deck-card-image {
+  width: min(86%, 390px);
+}
+
+.deck-stage.is-drawing {
+  animation: deck-draw 720ms cubic-bezier(0.22, 0.8, 0.25, 1);
+}
+
+.deck-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.deck-button {
+  min-height: 44px;
+  padding: 0.72rem 1rem;
+  border: 1px solid rgba(23, 59, 69, 0.18);
+  border-radius: 999px;
+  color: var(--deck-teal);
+  background: #fff;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 850;
+  cursor: pointer;
+  transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+
+.deck-button:hover,
+.deck-button:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(23, 59, 69, 0.14);
+}
+
+.deck-button--primary {
+  color: #281f3d;
+  border-color: transparent;
+  background: linear-gradient(135deg, #fff0be, var(--deck-gold));
+}
+
+.deck-panel--oracle .deck-button:not(.deck-button--primary) {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.deck-button:disabled {
+  cursor: wait;
+  opacity: 0.5;
+  transform: none;
+}
+
+.deck-status {
+  min-height: 1.3em;
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.deck-panel--oracle .deck-status {
+  color: rgba(255, 255, 255, 0.62);
+}
+
+.cards-reflection,
+.card-path {
+  padding: clamp(1.4rem, 4vw, 2.4rem);
+  border: 1px solid rgba(23, 59, 69, 0.1);
+  border-radius: 28px;
+  background: rgba(255, 253, 248, 0.82);
+  box-shadow: var(--shadow-md);
+}
+
+.cards-reflection-form {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1.25rem;
+}
+
+.cards-reflection textarea {
+  width: 100%;
+  min-height: 130px;
+  resize: vertical;
+  padding: 1rem;
+  border: 1px solid rgba(23, 59, 69, 0.18);
+  border-radius: 16px;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+  line-height: 1.55;
+}
+
+.cards-reflection-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.cards-reflection-status {
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.card-path-list {
+  display: grid;
+  gap: 0.8rem;
+  margin-top: 1.25rem;
+}
+
+.card-path-day {
+  display: grid;
+  grid-template-columns: minmax(150px, 0.35fr) minmax(0, 0.65fr);
+  gap: 0.9rem 1.4rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(23, 59, 69, 0.08);
+  border-radius: 18px;
+  background: #fff;
+}
+
+.card-path-date {
+  display: grid;
+  gap: 0.15rem;
+}
+
+.card-path-date strong {
+  color: var(--navy-deep);
+}
+
+.card-path-date span {
+  color: var(--ink-soft);
+  font-size: 0.76rem;
+}
+
+.card-path-cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.card-path-cards span {
+  padding: 0.45rem 0.7rem;
+  border-radius: 999px;
+  background: rgba(23, 59, 69, 0.06);
+  color: var(--deck-teal);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.card-path-day p {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(23, 59, 69, 0.07);
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+.card-path-empty {
+  margin: 1rem 0 0;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+@keyframes deck-draw {
+  0% { opacity: 0; transform: translateY(26px) rotateZ(2deg) scale(0.94); }
+  58% { opacity: 1; transform: translateY(-5px) rotateZ(-0.7deg) scale(1.01); }
+  100% { opacity: 1; transform: translateY(0) rotateZ(0) scale(1); }
+}
+
+@media (max-width: 900px) {
+  .deck-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .deck-stage {
+    min-height: 320px;
+  }
+}
+
+@media (max-width: 620px) {
+  .card-decks-shell {
+    gap: 1.4rem;
+  }
+
+  .deck-panel,
+  .cards-reflection,
+  .card-path {
+    padding: 1.1rem;
+    border-radius: 22px;
+  }
+
+  .deck-stage {
+    min-height: 280px;
+    padding: 0.45rem;
+  }
+
+  .deck-card-back {
+    width: min(82%, 300px);
+  }
+
+  .deck-panel--oracle .deck-card-image {
+    width: min(92%, 360px);
+  }
+
+  .deck-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .deck-button {
+    width: 100%;
+  }
+
+  .card-path-day {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .deck-stage.is-drawing {
+    animation: none;
+  }
+
+  .deck-button {
+    transition: none;
+  }
+}
