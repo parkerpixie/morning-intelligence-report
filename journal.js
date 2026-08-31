@@ -9,6 +9,7 @@
     cards: { pulls: {}, reflections: {} },
     manifest: null,
     selectedDate: null,
+    selectionReady: false,
     saveTimer: null
   };
 
@@ -211,7 +212,7 @@
   };
 
   const selectDate = (date) => {
-    if (state.selectedDate && el.entry) saveSelectedEntry();
+    if (state.selectionReady && state.selectedDate && el.entry && state.selectedDate !== date) saveSelectedEntry();
     state.selectedDate = date;
     el.dayTitle.textContent = friendlyDate(date, true);
     el.entry.value = state.journal.entries[date]?.text || '';
@@ -220,6 +221,7 @@
     renderDailyReflection();
     renderAi();
     renderHistory();
+    state.selectionReady = true;
   };
 
   const escapeHtml = (value) => String(value || '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
