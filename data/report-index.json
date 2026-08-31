@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-08-30.json",
-  "report_date": "2026-08-30",
-  "generated_at": "2026-08-30T13:46:56.164510+00:00",
-  "edition_count": 46,
+  "latest": "data/archive/2026-08-31.json",
+  "report_date": "2026-08-31",
+  "generated_at": "2026-08-31T14:07:44.217573+00:00",
+  "edition_count": 47,
   "editions": [
+    {
+      "report_date": "2026-08-31",
+      "generated_at": "2026-08-31T14:07:44.217573+00:00",
+      "path": "data/archive/2026-08-31.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+        "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac5/live/b7d598b0-a50e-11f1-89d5-dd5482a9fcc2.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-08-30",
       "generated_at": "2026-08-30T13:46:56.164510+00:00",
