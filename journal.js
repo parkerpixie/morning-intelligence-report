@@ -6,7 +6,7 @@
 
   const state = {
     journal: { version: 1, entries: {} },
-    cards: { pulls: {} },
+    cards: { pulls: {}, reflections: {} },
     manifest: null,
     selectedDate: null,
     saveTimer: null
@@ -56,7 +56,8 @@
       deck,
       title: pull.title || card?.animal || 'Card',
       message: deck === 'animal' ? String(card?.message || '').trim() : '',
-      image: deck === 'animal' ? card?.image : card?.front
+      image: deck === 'animal' ? card?.image : card?.front,
+      readingImageUrl: deck === 'oracle' && card?.back ? new URL(card.back, window.location.href).href : ''
     };
   };
 
@@ -94,10 +95,11 @@
       const entry = state.journal.entries[date];
       const pulls = pullsForDate(date);
       const names = [pulls.animal?.title, pulls.oracle?.title].filter(Boolean).join(' + ');
+      const fallbackLabel = entry?.dailyReflection ? 'Daily reflection' : entry?.text ? 'Journal entry' : 'Card day';
       const button = document.createElement('button');
       button.type = 'button';
       button.classList.toggle('is-active', date === state.selectedDate);
-      button.innerHTML = `<strong>${shortDate(date)}</strong><span>${names || (entry?.text ? 'Journal entry' : 'Card day')}</span>`;
+      button.innerHTML = `<strong>${shortDate(date)}</strong><span>${names || fallbackLabel}</span>`;
       button.addEventListener('click', () => selectDate(date));
       el.history.appendChild(button);
     });
@@ -106,7 +108,8 @@
   const saveSelectedEntry = () => {
     const text = el.entry.value;
     const existing = state.journal.entries[state.selectedDate] || {};
-    if (!text.trim() && !existing.aiReflection) {
+    const hasSavedCardReflection = Boolean(existing.cardReflectionRaw?.trim() || existing.dailyReflection);
+    if (!text.trim() && !existing.aiReflection && !hasSavedCardReflection) {
       delete state.journal.entries[state.selectedDate];
     } else {
       state.journal.entries[state.selectedDate] = {
@@ -126,6 +129,29 @@
     state.saveTimer = window.setTimeout(saveSelectedEntry, 500);
   };
 
+  const renderDailyReflection = () => {
+    const entry = currentEntry() || {};
+    const raw = entry.cardReflectionRaw || state.cards.reflections?.[state.selectedDate] || '';
+    const reflection = entry.dailyReflection || '';
+    const hasAnything = Boolean(raw || reflection);
+
+    el.dailySection.hidden = !hasAnything;
+    if (!hasAnything) return;
+
+    if (reflection) {
+      el.dailyReflection.hidden = false;
+      el.dailyReflection.innerHTML = reflection.split(/\n\n+/).filter(Boolean).map((part) => `<p>${escapeHtml(part)}</p>`).join('');
+      el.dailyStatus.textContent = 'This is the reflection you chose to keep from Card Path.';
+    } else {
+      el.dailyReflection.hidden = true;
+      el.dailyReflection.innerHTML = '';
+      el.dailyStatus.textContent = 'You saved card thoughts on this day, but did not save a shaped reflection yet.';
+    }
+
+    el.dailyRaw.hidden = !raw;
+    el.dailyRawText.textContent = raw;
+  };
+
   const renderAi = () => {
     const reflection = currentEntry()?.aiReflection;
     if (reflection) {
@@ -133,7 +159,7 @@
       el.aiResponse.innerHTML = reflection.split(/\n\n+/).map((part) => `<p>${escapeHtml(part)}</p>`).join('');
     } else {
       el.aiResponse.removeAttribute('data-mode');
-      el.aiResponse.innerHTML = '<p>Your reflection will appear here. The goal is curiosity, not declaring what your cards or feelings “must” mean.</p>';
+      el.aiResponse.innerHTML = '<p>Your deeper reflection will appear here. This is separate from the polished Daily Reflection saved from Card Path.</p>';
     }
   };
 
@@ -154,7 +180,12 @@
       const response = await fetch('/.netlify/functions/journal-reflect', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ date: state.selectedDate, cards: cards.map(({ deck, title, message }) => ({ deck, title, message })), journal: text })
+        body: JSON.stringify({
+          mode: 'reflect',
+          date: state.selectedDate,
+          cards: cards.map(({ deck, title, message, readingImageUrl }) => ({ deck, title, message, readingImageUrl })),
+          journal: text
+        })
       });
       const payload = await response.json().catch(() => ({}));
       if (!response.ok || !payload.reflection) throw new Error(payload.error || 'AI reflection is not configured.');
@@ -168,7 +199,7 @@
       saveJournal();
       renderAi();
       renderHistory();
-      el.aiStatus.textContent = 'AI reflection saved with this journal page.';
+      el.aiStatus.textContent = 'Deeper AI reflection saved with this Journal page.';
     } catch (error) {
       const fallback = localFallbackReflection(cards);
       el.aiResponse.dataset.mode = 'fallback';
@@ -186,6 +217,7 @@
     el.entry.value = state.journal.entries[date]?.text || '';
     el.saveStatus.textContent = state.journal.entries[date] ? 'Saved' : '';
     renderCards();
+    renderDailyReflection();
     renderAi();
     renderHistory();
   };
@@ -202,6 +234,11 @@
       today: document.getElementById('journal-today'),
       cardStatus: document.getElementById('journal-card-status'),
       cardThumbs: document.getElementById('journal-card-thumbs'),
+      dailySection: document.getElementById('journal-daily-reflection'),
+      dailyReflection: document.getElementById('journal-daily-reflection-copy'),
+      dailyStatus: document.getElementById('journal-daily-reflection-status'),
+      dailyRaw: document.getElementById('journal-card-raw'),
+      dailyRawText: document.getElementById('journal-card-raw-text'),
       aiButton: document.getElementById('journal-ai-button'),
       aiResponse: document.getElementById('journal-ai-response'),
       aiStatus: document.getElementById('journal-ai-status')
@@ -209,13 +246,14 @@
 
     state.journal = loadJson(JOURNAL_STORAGE_KEY, { version: 1, entries: {} });
     if (!state.journal.entries) state.journal = { version: 1, entries: {} };
-    state.cards = loadJson(CARD_STORAGE_KEY, { pulls: {} });
+    state.cards = loadJson(CARD_STORAGE_KEY, { pulls: {}, reflections: {} });
     if (!state.cards.pulls) state.cards.pulls = {};
+    if (!state.cards.reflections) state.cards.reflections = {};
     state.selectedDate = localDateKey();
     el.headerDate.textContent = friendlyDate(state.selectedDate);
 
     try {
-      const response = await fetch(MANIFEST_URL, { cache: 'force-cache' });
+      const response = await fetch(MANIFEST_URL, { cache: 'no-store' });
       if (response.ok) state.manifest = await response.json();
     } catch (error) {
       console.warn('Card manifest was unavailable in Journal.', error);
