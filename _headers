@@ -1,6 +1,24 @@
 /script.js
   Cache-Control: no-cache, no-store, must-revalidate
 
+/nav-state.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/today-date.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/report-refresh.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/device-sync.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/card-decks.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/journal.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
 /news-site.css
   Cache-Control: no-cache, no-store, must-revalidate
 
