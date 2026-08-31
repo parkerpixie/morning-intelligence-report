@@ -16,7 +16,16 @@
 /card-decks.js
   Cache-Control: no-cache, no-store, must-revalidate
 
+/card-reflection-ai.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/card-reflection-ai.css
+  Cache-Control: no-cache, no-store, must-revalidate
+
 /journal.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/journal-reflection.css
   Cache-Control: no-cache, no-store, must-revalidate
 
 /news-site.css
