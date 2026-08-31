@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A quiet daily pause with Clementine, a spirit-animal reflection, and an interactive oracle card draw.">
+  <meta name="description" content="A quiet daily pause with Clementine, drawable Animal Wisdom and Golden Oracle decks, and a saved Card Path.">
   <meta name="theme-color" content="#173b45">
   <title>Capybara Corner | Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
   <link rel="stylesheet" href="oracle.css?v=20260724-2">
+  <link rel="stylesheet" href="card-decks.css?v=20260830-1">
   <script src="script.js?v=20260716-2" defer></script>
   <script src="nav-state.js?v=20260722-1" defer></script>
-  <script src="oracle.js?v=20260724-2" defer></script>
+  <script src="card-decks.js?v=20260830-1" defer></script>
 </head>
 <body class="capybara-page" data-page="capybara">
   <a class="skip-link" href="#main-content">Skip to Capybara Corner</a>
@@ -50,7 +51,7 @@
   </nav>
 
   <main id="main-content">
-    <div class="capybara-page-shell oracle-page-shell">
+    <div class="capybara-page-shell oracle-page-shell card-decks-shell">
       <section class="capybara-section" aria-labelledby="clementine-heading">
         <div class="capybara-art">
           <img src="assets/images/Capybara Corner.png" alt="A peaceful celestial capybara in a dreamy botanical night scene">
@@ -65,79 +66,98 @@
         </div>
       </section>
 
-      <section class="daily-reflection" aria-labelledby="reflection-heading">
-        <div class="oracle-section-heading">
-          <p class="section-kicker">A signal to carry with you</p>
-          <h2 id="reflection-heading">Spirit Animal of the Day</h2>
-          <p>One reflection card, selected for today and held steady until tomorrow.</p>
+      <section aria-labelledby="my-decks-heading">
+        <div class="card-decks-intro">
+          <p class="section-kicker">Your morning ritual</p>
+          <h2 id="my-decks-heading">My Decks</h2>
+          <p>Nothing is chosen until you draw it. Your first pull from each deck becomes that deck’s card for today and stays with you when you come back.</p>
         </div>
 
-        <figure class="reflection-card is-loading" id="reflection-card" aria-busy="true">
-          <div class="reflection-image-frame">
-            <img id="reflection-image" src="" alt="" width="1200" height="630" decoding="async">
-          </div>
-          <figcaption>
-            <span class="reflection-date" id="reflection-date">Today’s reflection</span>
-            <strong id="reflection-animal">Consulting the animal council…</strong>
-            <span id="reflection-message">Clementine is shuffling the gold-edged paperwork.</span>
-            <div class="reflection-actions" aria-label="Daily reflection image actions">
-              <button class="reflection-action reflection-action--save" id="reflection-save" type="button" disabled>Save image</button>
-              <button class="reflection-action reflection-action--share" id="reflection-share" type="button" disabled>Share with thoughts</button>
+        <div class="deck-grid">
+          <article class="deck-panel" aria-labelledby="animal-deck-heading">
+            <div class="deck-panel-header">
+              <p class="section-kicker">🐾 A guide from the animal world</p>
+              <h3 id="animal-deck-heading">Animal Wisdom</h3>
+              <p class="deck-panel-copy">Shuffle the reflections and see which animal steps forward for today.</p>
             </div>
-            <span class="reflection-share-status" id="reflection-share-status" role="status" aria-live="polite"></span>
-          </figcaption>
-        </figure>
+
+            <div class="deck-nameplate" aria-live="polite">
+              <span>Today’s card</span>
+              <strong id="animal-name">Not drawn today</strong>
+            </div>
+
+            <button class="deck-stage" id="animal-stage" type="button" aria-label="Animal Wisdom card stage. Draw a card first, then tap the facedown card to reveal it.">
+              <span class="deck-card-back" id="animal-back" aria-hidden="true">
+                <span class="deck-back-mark">🐾</span>
+              </span>
+              <img class="deck-card-image" id="animal-image" src="" alt="" hidden decoding="async">
+            </button>
+
+            <div class="deck-actions" aria-label="Animal Wisdom controls">
+              <button class="deck-button deck-button--primary" id="animal-draw" type="button">Shuffle &amp; Draw</button>
+              <button class="deck-button" id="animal-reveal" type="button" hidden>Reveal my card</button>
+              <button class="deck-button" id="animal-reading" type="button" hidden>Read more</button>
+            </div>
+            <p class="deck-status" id="animal-status" role="status" aria-live="polite">Loading the deck…</p>
+          </article>
+
+          <article class="deck-panel deck-panel--oracle" aria-labelledby="golden-deck-heading">
+            <div class="deck-panel-header">
+              <p class="section-kicker">✨ A little gold-edged perspective</p>
+              <h3 id="golden-deck-heading">Golden Oracle</h3>
+              <p class="deck-panel-copy">Draw one card for the path ahead. Reveal the front first, then open the full reading when you want it.</p>
+            </div>
+
+            <div class="deck-nameplate" aria-live="polite">
+              <span>Today’s card</span>
+              <strong id="golden-name">Not drawn today</strong>
+            </div>
+
+            <button class="deck-stage" id="golden-stage" type="button" aria-label="Golden Oracle card stage. Draw a card first, then tap the facedown card to reveal it.">
+              <span class="deck-card-back" id="golden-back" aria-hidden="true">
+                <span class="deck-back-mark">✦</span>
+              </span>
+              <img class="deck-card-image" id="golden-image" src="" alt="" hidden decoding="async">
+            </button>
+
+            <div class="deck-actions" aria-label="Golden Oracle controls">
+              <button class="deck-button deck-button--primary" id="golden-draw" type="button">Shuffle &amp; Draw</button>
+              <button class="deck-button" id="golden-reveal" type="button" hidden>Reveal my card</button>
+              <button class="deck-button" id="golden-reading" type="button" hidden>Read full message</button>
+            </div>
+            <p class="deck-status" id="golden-status" role="status" aria-live="polite">Loading the deck…</p>
+          </article>
+        </div>
       </section>
 
-      <section class="oracle-draw-section" aria-labelledby="oracle-heading">
-        <div class="oracle-draw-copy">
-          <p class="section-kicker">A card for the path ahead</p>
-          <h2 id="oracle-heading">Your Morning Oracle</h2>
-          <p class="oracle-intro">Today’s card is chosen once for the day. Tap it to turn it over and read the full message, or pull another when your intuition requests a recount.</p>
-
-          <div class="oracle-card-name" aria-live="polite">
-            <span>Your card</span>
-            <strong id="oracle-animal">Preparing the deck…</strong>
+      <section class="cards-reflection" aria-labelledby="cards-reflection-heading">
+        <p class="section-kicker">Let the cards talk to each other</p>
+        <h2 id="cards-reflection-heading">What are your cards saying together?</h2>
+        <p>This is one optional reflection for the day, not homework for every card. Write what feels useful and leave the rest in the forest.</p>
+        <div class="cards-reflection-form">
+          <label class="visually-hidden" for="cards-reflection">Today’s card reflection</label>
+          <textarea id="cards-reflection" placeholder="Today these cards are reminding me…"></textarea>
+          <div class="cards-reflection-actions">
+            <button class="deck-button deck-button--primary" id="cards-reflection-save" type="button">Save today’s reflection</button>
+            <span class="cards-reflection-status" id="cards-reflection-status" role="status" aria-live="polite"></span>
           </div>
-
-          <div class="oracle-controls" aria-label="Oracle card controls">
-            <button class="oracle-button oracle-button--primary" id="oracle-flip" type="button" disabled>Reveal the message</button>
-            <button class="oracle-button" id="oracle-redraw" type="button" disabled>Pull another card</button>
-            <button class="oracle-button oracle-button--quiet" id="oracle-return" type="button" hidden>Return to today’s card</button>
-            <button class="oracle-button oracle-button--quiet" id="oracle-enlarge" type="button" hidden>Open reading larger</button>
-          </div>
-          <p class="oracle-status" id="oracle-status" role="status" aria-live="polite">The deck is gathering itself.</p>
         </div>
+      </section>
 
-        <div class="oracle-stage">
-          <button class="oracle-card is-loading" id="oracle-card" type="button" aria-pressed="false" aria-label="Oracle card. Reveal the message." disabled>
-            <span class="oracle-card-inner">
-              <span class="oracle-card-face oracle-card-front">
-                <img id="oracle-front-image" src="" alt="" width="1050" height="1725" decoding="async">
-              </span>
-              <span class="oracle-card-face oracle-card-back" aria-hidden="true">
-                <img id="oracle-back-image" src="" alt="" width="1050" height="1725" decoding="async">
-              </span>
-            </span>
-          </button>
-          <p class="oracle-card-hint" id="oracle-card-hint">Tap the card to reveal its message.</p>
-        </div>
+      <section class="card-path" aria-labelledby="card-path-heading">
+        <p class="section-kicker">A trail worth remembering</p>
+        <h2 id="card-path-heading">My Card Path</h2>
+        <p>Your original daily pulls live here so patterns can emerge from what actually happened, not what hindsight wishes happened.</p>
+        <div class="card-path-list" id="card-path-list"></div>
+        <p class="card-path-empty" id="card-path-empty">Your path begins with your first draw.</p>
       </section>
     </div>
   </main>
 
-  <dialog class="oracle-dialog" id="oracle-dialog" aria-labelledby="oracle-dialog-title">
-    <div class="oracle-dialog-header">
-      <h2 id="oracle-dialog-title">Oracle reading</h2>
-      <button class="oracle-dialog-close" id="oracle-dialog-close" type="button" aria-label="Close full-size oracle reading">Close</button>
-    </div>
-    <img id="oracle-dialog-image" src="" alt="" width="1050" height="1725">
-  </dialog>
-
   <footer class="site-footer">
     <div class="footer-inner">
       <p><strong>Morning Intelligence Report</strong></p>
-      <p>The machinery may resume after one properly supervised pause and one statistically unlicensed oracle draw.</p>
+      <p>The machinery may resume after one properly supervised pause and a card or two chosen on purpose.</p>
     </div>
   </footer>
 </body>
