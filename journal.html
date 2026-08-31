@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A private daily journal connected to Parker's Morning Intelligence card pulls.">
+  <meta name="description" content="A private daily journal connected to Parker's Morning Intelligence card pulls and saved daily reflections.">
   <meta name="theme-color" content="#58364f">
   <title>Journal | Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
   <link rel="stylesheet" href="journal.css?v=20260830-1">
-  <script src="nav-state.js?v=20260830-3" defer></script>
+  <link rel="stylesheet" href="journal-reflection.css?v=20260831-1">
+  <script src="nav-state.js?v=20260831-1" defer></script>
   <script src="device-sync.js?v=20260831-1" defer></script>
-  <script src="journal.js?v=20260830-1" defer></script>
+  <script src="journal.js?v=20260831-1" defer></script>
 </head>
 <body class="journal-page" data-page="journal">
   <a class="skip-link" href="#main-content">Skip to journal</a>
@@ -29,7 +30,7 @@
     <section class="journal-hero" aria-labelledby="journal-title">
       <p class="section-kicker">The part that belongs only to you</p>
       <h1 id="journal-title">Journal</h1>
-      <p>This is the unpolished version. Your cards can sit beside the day, AI can help you reflect, and your own words get the final say.</p>
+      <p>Your cards, the thoughts they stirred up, the reflection you chose to keep, and whatever else the day becomes can live together here.</p>
       <span class="journal-local-note">Entries are encrypted in your browser and can sync across your paired devices.</span>
     </section>
 
@@ -50,14 +51,30 @@
             <div class="journal-card-thumbs" id="journal-card-thumbs"></div>
           </div>
 
-          <label class="journal-prompt" for="journal-entry">What is actually on my mind?</label>
+          <section class="journal-daily-reflection" id="journal-daily-reflection" aria-labelledby="journal-daily-reflection-title" hidden>
+            <div class="journal-daily-reflection-heading">
+              <div>
+                <p class="section-kicker">From Card Path</p>
+                <h3 id="journal-daily-reflection-title">Daily Reflection</h3>
+              </div>
+              <a href="capybara.html">Open Card Path ↗</a>
+            </div>
+            <p class="journal-daily-reflection-status" id="journal-daily-reflection-status"></p>
+            <div class="journal-daily-reflection-copy" id="journal-daily-reflection-copy"></div>
+            <details class="journal-card-raw" id="journal-card-raw">
+              <summary>My original card thoughts</summary>
+              <p id="journal-card-raw-text"></p>
+            </details>
+          </section>
+
+          <label class="journal-prompt" for="journal-entry">What else is actually on my mind?</label>
           <textarea id="journal-entry" placeholder="Write the version you do not need to make tidy, reasonable, shareable, or easy for anyone else to understand..."></textarea>
           <p class="journal-autosave-note">Autosaves while you write.</p>
         </section>
 
         <section class="journal-ai-card" aria-labelledby="journal-ai-title">
-          <div class="journal-ai-heading"><div><p class="section-kicker">A second set of eyes</p><h2 id="journal-ai-title">Reflect with AI</h2><p>Uses today’s card names, available card wisdom, and only the journal text you choose to send in this moment.</p></div><button class="journal-ai-button" id="journal-ai-button" type="button">Reflect on this page</button></div>
-          <div class="journal-ai-response" id="journal-ai-response"><p>Your reflection will appear here. The goal is curiosity, not declaring what your cards or feelings “must” mean.</p></div>
+          <div class="journal-ai-heading"><div><p class="section-kicker">A second set of eyes</p><h2 id="journal-ai-title">Explore this page with AI</h2><p>This is different from the polished Daily Reflection above. Use it when you want AI to notice connections, tensions or questions in what you wrote here.</p></div><button class="journal-ai-button" id="journal-ai-button" type="button">Reflect on this page</button></div>
+          <div class="journal-ai-response" id="journal-ai-response"><p>Your deeper reflection will appear here. This is separate from the Daily Reflection you save from Card Path.</p></div>
           <p class="journal-ai-status" id="journal-ai-status" role="status" aria-live="polite"></p>
         </section>
       </div>
