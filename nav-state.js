@@ -3,21 +3,19 @@
   const activePage = document.body.dataset.page;
   const isFeelingsPage = activePage === 'feelings';
 
-  const loadUiCleanup = () => {
-    if (document.querySelector('link[href^="ui-cleanup.css"]')) return;
+  const ensureStylesheet = (href) => {
+    if (document.querySelector(`link[href^="${href.split('?')[0]}"]`)) return;
     const style = document.createElement('link');
     style.rel = 'stylesheet';
-    style.href = 'ui-cleanup.css?v=20260818-1';
+    style.href = href;
     document.head.appendChild(style);
   };
 
+  const loadUiCleanup = () => ensureStylesheet('ui-cleanup.css?v=20260818-1');
+  const loadAppNav = () => ensureStylesheet('app-nav.css?v=20260830-1');
+
   const loadPersonalizedFeatures = () => {
-    if (!document.querySelector('link[href^="personalized-morning.css"]')) {
-      const style = document.createElement('link');
-      style.rel = 'stylesheet';
-      style.href = 'personalized-morning.css?v=20260723-1';
-      document.head.appendChild(style);
-    }
+    ensureStylesheet('personalized-morning.css?v=20260723-1');
     if (!document.querySelector('script[src^="personalized-morning.js"]')) {
       const script = document.createElement('script');
       script.src = 'personalized-morning.js?v=20260723-1';
@@ -36,12 +34,7 @@
   };
 
   const loadFeelingsUiV2 = () => {
-    if (!document.querySelector('link[href^="feelings-ui-v2.css"]')) {
-      const style = document.createElement('link');
-      style.rel = 'stylesheet';
-      style.href = 'feelings-ui-v2.css?v=20260817-2';
-      document.head.appendChild(style);
-    }
+    ensureStylesheet('feelings-ui-v2.css?v=20260817-2');
     if (!document.querySelector('script[src^="feelings-ui-v2.js"]')) {
       const script = document.createElement('script');
       script.src = 'feelings-ui-v2.js?v=20260817-2';
@@ -51,6 +44,7 @@
   };
 
   loadUiCleanup();
+  loadAppNav();
   if (isFeelingsPage) loadFeelingsUiV2();
   else {
     loadPersonalizedFeatures();
