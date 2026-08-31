@@ -3,18 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A quiet daily pause with Clementine, drawable Animal Wisdom and Golden Oracle decks, a saved Card Path, and sharing tools.">
+  <meta name="description" content="A quiet daily pause with Clementine, drawable Animal Wisdom and Golden Oracle decks, a saved Card Path, and a private daily reflection ritual.">
   <meta name="theme-color" content="#173b45">
   <title>Capybara Corner | Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
   <link rel="stylesheet" href="oracle.css?v=20260724-2">
-  <link rel="stylesheet" href="card-decks.css?v=20260830-2">
+  <link rel="stylesheet" href="card-decks.css?v=20260831-1">
   <link rel="stylesheet" href="card-intelligence.css?v=20260830-1">
   <script src="script.js?v=20260716-2" defer></script>
-  <script src="nav-state.js?v=20260722-1" defer></script>
+  <script src="nav-state.js?v=20260831-1" defer></script>
   <script src="device-sync.js?v=20260831-1" defer></script>
   <script src="card-decks.js?v=20260830-2" defer></script>
+  <script src="card-reflection-ai.js?v=20260831-1" defer></script>
 </head>
 <body class="capybara-page" data-page="capybara">
   <a class="skip-link" href="#main-content">Skip to Capybara Corner</a>
@@ -135,16 +136,37 @@
       </section>
 
       <section class="cards-reflection" aria-labelledby="cards-reflection-heading">
-        <p class="section-kicker">Let the cards talk to each other</p>
-        <h2 id="cards-reflection-heading">What are your cards saying together?</h2>
-        <p>This is one optional reflection for the day, not homework for every card. Write what feels useful and leave the rest in the forest.</p>
+        <p class="section-kicker">Make meaning, not content</p>
+        <h2 id="cards-reflection-heading">What are these cards bringing up for you today?</h2>
+        <p>Start with the version you would normally tell me. Messy sentences, contradictions, irritation, connections, half-formed thoughts and all. You do not need to make it sound wise before you write it.</p>
         <div class="cards-reflection-form">
-          <label class="visually-hidden" for="cards-reflection">Today’s card reflection</label>
-          <textarea id="cards-reflection" placeholder="Today these cards are reminding me…"></textarea>
+          <label class="visually-hidden" for="cards-reflection">Your raw thoughts about today’s cards</label>
+          <textarea id="cards-reflection" placeholder="This is making me think about…"></textarea>
           <div class="cards-reflection-actions">
-            <button class="deck-button deck-button--primary" id="cards-reflection-save" type="button">Save today’s reflection</button>
+            <button class="deck-button" id="cards-reflection-save" type="button">Save my thoughts</button>
+            <button class="deck-button deck-button--primary" id="cards-reflection-ai" type="button">Help me shape this ✨</button>
             <span class="cards-reflection-status" id="cards-reflection-status" role="status" aria-live="polite"></span>
           </div>
+          <p class="cards-reflection-privacy">Your typing stays on your device. Only when you press <strong>Help me shape this</strong> are today’s two cards and these words sent to the AI reflection function.</p>
+        </div>
+
+        <div class="cards-ai-workspace" id="cards-ai-workspace" hidden>
+          <div class="cards-ai-heading">
+            <div>
+              <p class="section-kicker">Your meaning, with the wrinkles smoothed</p>
+              <h3>Your shaped reflection</h3>
+            </div>
+            <span>Draft</span>
+          </div>
+          <p>Read it before you save it. Change a sentence, put the swear word back, soften something, sharpen something. Your voice gets the final say.</p>
+          <label class="visually-hidden" for="cards-ai-reflection">AI-shaped daily reflection</label>
+          <textarea id="cards-ai-reflection" placeholder="Your shaped reflection will appear here…"></textarea>
+          <div class="cards-reflection-actions">
+            <button class="deck-button deck-button--primary" id="cards-ai-save" type="button">Save to Journal</button>
+            <button class="deck-button" id="cards-ai-retry" type="button">Try again</button>
+            <a class="deck-button cards-open-journal" id="cards-open-journal" href="journal.html" hidden>Open Journal ↗</a>
+          </div>
+          <p class="cards-ai-status" id="cards-ai-status" role="status" aria-live="polite"></p>
         </div>
       </section>
 
@@ -159,14 +181,14 @@
       <section class="card-path" aria-labelledby="card-path-heading">
         <p class="section-kicker">A trail worth remembering</p>
         <h2 id="card-path-heading">My Card Path</h2>
-        <p>Your original daily pulls live here so patterns can emerge from what actually happened, not what hindsight wishes happened.</p>
+        <p>Your original daily pulls, your first thoughts and the reflection you chose to keep can live together here. A year from now, this is where the trail gets interesting.</p>
         <div class="card-path-list" id="card-path-list"></div>
         <p class="card-path-empty" id="card-path-empty">Your path begins with your first draw.</p>
       </section>
     </div>
   </main>
 
-  <dialog class="share-card-dialog" id="share-card-dialog" aria-labelledby="share-card-title">
+  <dialog class="share-card-dialog share-card-dialog--retired" id="share-card-dialog" aria-labelledby="share-card-title" aria-hidden="true">
     <div class="share-card-dialog-inner">
       <div class="share-card-header">
         <div>
@@ -176,26 +198,13 @@
         </div>
         <button class="share-card-close" id="share-card-close" type="button" aria-label="Close sharing workspace">Close</button>
       </div>
-
-      <div class="share-card-preview">
-        <img id="share-card-image" src="" alt="">
-        <div>
-          <span id="share-card-deck">Deck</span>
-          <strong id="share-card-name">Card</strong>
-        </div>
-      </div>
-
+      <div class="share-card-preview"><img id="share-card-image" src="" alt=""><div><span id="share-card-deck">Deck</span><strong id="share-card-name">Card</strong></div></div>
       <div class="share-card-form">
-        <label for="share-opening">
-          <strong>Opening reflection</strong>
-          <span>Starts with “I” and stays at 15 words or fewer.</span>
-        </label>
+        <label for="share-opening"><strong>Opening reflection</strong><span>Starts with “I” and stays at 15 words or fewer.</span></label>
         <textarea id="share-opening" rows="2" placeholder="I…"></textarea>
         <div class="share-field-meta"><span id="share-opening-count">0 / 15 words</span><span id="share-opening-error" role="status"></span></div>
-
         <fieldset class="share-bullets-fieldset">
-          <legend>Five pieces of wisdom</legend>
-          <p>Keep each point to 10 words or fewer.</p>
+          <legend>Five pieces of wisdom</legend><p>Keep each point to 10 words or fewer.</p>
           <label><span>1</span><input class="share-bullet" data-bullet="0" type="text" placeholder="A short piece of wisdom"></label>
           <label><span>2</span><input class="share-bullet" data-bullet="1" type="text" placeholder="A short piece of wisdom"></label>
           <label><span>3</span><input class="share-bullet" data-bullet="2" type="text" placeholder="A short piece of wisdom"></label>
@@ -203,7 +212,6 @@
           <label><span>5</span><input class="share-bullet" data-bullet="4" type="text" placeholder="A short piece of wisdom"></label>
           <p class="share-bullets-status" id="share-bullets-status" role="status"></p>
         </fieldset>
-
         <div class="share-card-actions">
           <button class="deck-button deck-button--primary" id="share-draft-save" type="button">Save draft</button>
           <button class="deck-button" id="share-copy" type="button">Copy caption</button>
