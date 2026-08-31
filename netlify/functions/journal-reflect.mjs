@@ -120,7 +120,7 @@ ${journal || '(The journal entry is blank. Reflect only on the card context and 
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        model: Netlify.env.get('OPENAI_JOURNAL_MODEL') || 'gpt-5-mini',
+        model: Netlify.env.get('OPENAI_JOURNAL_MODEL') || 'gpt-5.6-terra',
         input: [{ role: 'user', content }],
         max_output_tokens: mode === 'shape' ? 700 : 500
       })
