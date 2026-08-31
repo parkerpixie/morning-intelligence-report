@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A quiet daily pause with Clementine, drawable Animal Wisdom and Golden Oracle decks, and a saved Card Path.">
+  <meta name="description" content="A quiet daily pause with Clementine, drawable Animal Wisdom and Golden Oracle decks, a saved Card Path, and sharing tools.">
   <meta name="theme-color" content="#173b45">
   <title>Capybara Corner | Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
   <link rel="stylesheet" href="oracle.css?v=20260724-2">
-  <link rel="stylesheet" href="card-decks.css?v=20260830-1">
+  <link rel="stylesheet" href="card-decks.css?v=20260830-2">
   <script src="script.js?v=20260716-2" defer></script>
   <script src="nav-state.js?v=20260722-1" defer></script>
-  <script src="card-decks.js?v=20260830-1" defer></script>
+  <script src="card-decks.js?v=20260830-2" defer></script>
 </head>
 <body class="capybara-page" data-page="capybara">
   <a class="skip-link" href="#main-content">Skip to Capybara Corner</a>
@@ -97,6 +97,7 @@
               <button class="deck-button deck-button--primary" id="animal-draw" type="button">Shuffle &amp; Draw</button>
               <button class="deck-button" id="animal-reveal" type="button" hidden>Reveal my card</button>
               <button class="deck-button" id="animal-reading" type="button" hidden>Read more</button>
+              <button class="deck-button deck-button--share" id="animal-share" type="button" hidden>Prepare to Share</button>
             </div>
             <p class="deck-status" id="animal-status" role="status" aria-live="polite">Loading the deck…</p>
           </article>
@@ -124,6 +125,7 @@
               <button class="deck-button deck-button--primary" id="golden-draw" type="button">Shuffle &amp; Draw</button>
               <button class="deck-button" id="golden-reveal" type="button" hidden>Reveal my card</button>
               <button class="deck-button" id="golden-reading" type="button" hidden>Read full message</button>
+              <button class="deck-button deck-button--share" id="golden-share" type="button" hidden>Prepare to Share</button>
             </div>
             <p class="deck-status" id="golden-status" role="status" aria-live="polite">Loading the deck…</p>
           </article>
@@ -144,6 +146,14 @@
         </div>
       </section>
 
+      <section class="card-patterns" aria-labelledby="card-patterns-heading">
+        <p class="section-kicker">Only what the record actually shows</p>
+        <h2 id="card-patterns-heading">Patterns Along the Path</h2>
+        <p>These are simple observations from your saved pulls. No prophecy, no diagnosis, and no woodland committee making claims your data cannot support.</p>
+        <div class="card-patterns-list" id="card-patterns-list"></div>
+        <p class="card-patterns-empty" id="card-patterns-empty">A few more card days are needed before a pattern is worth naming.</p>
+      </section>
+
       <section class="card-path" aria-labelledby="card-path-heading">
         <p class="section-kicker">A trail worth remembering</p>
         <h2 id="card-path-heading">My Card Path</h2>
@@ -153,6 +163,54 @@
       </section>
     </div>
   </main>
+
+  <dialog class="share-card-dialog" id="share-card-dialog" aria-labelledby="share-card-title">
+    <div class="share-card-dialog-inner">
+      <div class="share-card-header">
+        <div>
+          <p class="section-kicker">Facebook reflection workspace</p>
+          <h2 id="share-card-title">Prepare to Share</h2>
+          <p id="share-card-subtitle">Shape the words around today’s card.</p>
+        </div>
+        <button class="share-card-close" id="share-card-close" type="button" aria-label="Close sharing workspace">Close</button>
+      </div>
+
+      <div class="share-card-preview">
+        <img id="share-card-image" src="" alt="">
+        <div>
+          <span id="share-card-deck">Deck</span>
+          <strong id="share-card-name">Card</strong>
+        </div>
+      </div>
+
+      <div class="share-card-form">
+        <label for="share-opening">
+          <strong>Opening reflection</strong>
+          <span>Starts with “I” and stays at 15 words or fewer.</span>
+        </label>
+        <textarea id="share-opening" rows="2" placeholder="I…"></textarea>
+        <div class="share-field-meta"><span id="share-opening-count">0 / 15 words</span><span id="share-opening-error" role="status"></span></div>
+
+        <fieldset class="share-bullets-fieldset">
+          <legend>Five pieces of wisdom</legend>
+          <p>Keep each point to 10 words or fewer.</p>
+          <label><span>1</span><input class="share-bullet" data-bullet="0" type="text" placeholder="A short piece of wisdom"></label>
+          <label><span>2</span><input class="share-bullet" data-bullet="1" type="text" placeholder="A short piece of wisdom"></label>
+          <label><span>3</span><input class="share-bullet" data-bullet="2" type="text" placeholder="A short piece of wisdom"></label>
+          <label><span>4</span><input class="share-bullet" data-bullet="3" type="text" placeholder="A short piece of wisdom"></label>
+          <label><span>5</span><input class="share-bullet" data-bullet="4" type="text" placeholder="A short piece of wisdom"></label>
+          <p class="share-bullets-status" id="share-bullets-status" role="status"></p>
+        </fieldset>
+
+        <div class="share-card-actions">
+          <button class="deck-button deck-button--primary" id="share-draft-save" type="button">Save draft</button>
+          <button class="deck-button" id="share-copy" type="button">Copy caption</button>
+          <button class="deck-button" id="share-save-image" type="button">Save card image</button>
+        </div>
+        <p class="share-card-status" id="share-card-status" role="status" aria-live="polite"></p>
+      </div>
+    </div>
+  </dialog>
 
   <footer class="site-footer">
     <div class="footer-inner">
