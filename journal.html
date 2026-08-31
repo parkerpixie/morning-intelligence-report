@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A private daily journal connected to Parker's Morning Intelligence card pulls.">
+  <meta name="theme-color" content="#58364f">
+  <title>Journal | Morning Intelligence Report</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="news-site.css?v=20260716-1">
+  <link rel="stylesheet" href="journal.css?v=20260830-1">
+  <script src="nav-state.js?v=20260830-3" defer></script>
+  <script src="journal.js?v=20260830-1" defer></script>
+</head>
+<body class="journal-page" data-page="journal">
+  <a class="skip-link" href="#main-content">Skip to journal</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="index.html"><span class="brand-eyebrow">Your daily field guide</span><span class="brand-name">Morning Intelligence Report</span></a>
+      <div class="header-meta"><p class="greeting">Private Journal</p><time class="report-date" id="journal-header-date">Today</time></div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="Morning Intelligence app"><div class="section-nav-inner"></div></nav>
+
+  <main id="main-content" class="journal-shell">
+    <section class="journal-hero" aria-labelledby="journal-title">
+      <p class="section-kicker">The part that belongs only to you</p>
+      <h1 id="journal-title">Journal</h1>
+      <p>This is the unpolished version. Your cards can sit beside the day, AI can help you reflect, and your own words get the final say.</p>
+      <span class="journal-local-note">Entries are stored on this device.</span>
+    </section>
+
+    <div class="journal-layout">
+      <aside class="journal-sidebar" aria-label="Journal history">
+        <div class="journal-sidebar-heading"><p class="section-kicker">Look back</p><h2>My entries</h2></div>
+        <button class="journal-today-button" id="journal-today" type="button">Today</button>
+        <div class="journal-history" id="journal-history"></div>
+        <a class="journal-feelings-link" href="feelings.html"><strong>Feelings &amp; DBT</strong><span>Your existing check-ins, mood calendar, journal and skills are still here.</span></a>
+      </aside>
+
+      <div class="journal-workspace">
+        <section class="journal-day-card" aria-labelledby="journal-day-title">
+          <div class="journal-day-heading"><div><p class="section-kicker">Today’s page</p><h2 id="journal-day-title">Today</h2></div><span id="journal-save-status" role="status" aria-live="polite"></span></div>
+
+          <div class="journal-card-context" id="journal-card-context">
+            <div class="journal-card-context-copy"><strong>Today’s cards</strong><span id="journal-card-status">Checking your Card Path…</span></div>
+            <div class="journal-card-thumbs" id="journal-card-thumbs"></div>
+          </div>
+
+          <label class="journal-prompt" for="journal-entry">What is actually on my mind?</label>
+          <textarea id="journal-entry" placeholder="Write the version you do not need to make tidy, reasonable, shareable, or easy for anyone else to understand..."></textarea>
+          <p class="journal-autosave-note">Autosaves while you write.</p>
+        </section>
+
+        <section class="journal-ai-card" aria-labelledby="journal-ai-title">
+          <div class="journal-ai-heading"><div><p class="section-kicker">A second set of eyes</p><h2 id="journal-ai-title">Reflect with AI</h2><p>Uses today’s card names, available card wisdom, and only the journal text you choose to send in this moment.</p></div><button class="journal-ai-button" id="journal-ai-button" type="button">Reflect on this page</button></div>
+          <div class="journal-ai-response" id="journal-ai-response"><p>Your reflection will appear here. The goal is curiosity, not declaring what your cards or feelings “must” mean.</p></div>
+          <p class="journal-ai-status" id="journal-ai-status" role="status" aria-live="polite"></p>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer"><div class="footer-inner"><p><strong>Morning Intelligence Report</strong></p><p>News outside. Wisdom nearby. Your own voice gets a room with a door.</p></div></footer>
+</body>
+</html>

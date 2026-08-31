@@ -1,0 +1,17 @@
+.news-hub-page main { width: min(calc(100% - 2rem), 1180px); margin-inline: auto; padding-bottom: 4rem; }
+.newsroom-hero { padding: clamp(2rem, 6vw, 4.5rem) 0 1.5rem; border-bottom: 1px solid rgba(23,59,69,.1); }
+.newsroom-hero h1 { margin:.35rem 0 0; color:var(--navy-deep); font-family:"Fraunces",Georgia,serif; font-size:clamp(2.6rem,7vw,5rem); line-height:1; letter-spacing:-.045em; }
+.newsroom-hero > p:last-of-type { max-width:760px; margin:.85rem 0 0; color:var(--ink-soft); font-size:1.05rem; line-height:1.65; }
+.newsroom-sections { position:sticky; top:0; z-index:6; display:flex; gap:.5rem; margin-top:1.4rem; padding:.7rem 0; overflow-x:auto; background:rgba(251,247,239,.94); backdrop-filter:blur(14px); scrollbar-width:none; }
+.newsroom-sections::-webkit-scrollbar { display:none; }
+.newsroom-sections a { flex:0 0 auto; padding:.55rem .8rem; color:var(--navy); border:1px solid rgba(23,59,69,.12); border-radius:999px; background:#fff; font-size:.78rem; font-weight:850; text-decoration:none; }
+.newsroom-lead,.newsroom-block { padding:clamp(2rem,5vw,3.6rem) 0; border-bottom:1px solid rgba(23,59,69,.1); scroll-margin-top:5rem; }
+.newsroom-section-heading { display:flex; justify-content:space-between; align-items:flex-end; gap:1.5rem; margin-bottom:1.2rem; }
+.newsroom-section-heading h2 { margin:.25rem 0 0; color:var(--navy-deep); font-family:"Fraunces",Georgia,serif; font-size:clamp(1.9rem,4vw,3rem); line-height:1.05; }
+.newsroom-section-heading p { max-width:700px; margin:.45rem 0 0; color:var(--ink-soft); line-height:1.5; }
+.newsroom-section-heading > a { flex:0 0 auto; color:var(--teal); font-size:.78rem; font-weight:850; text-decoration:none; }
+.newsroom-block .story-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.newsroom-wonderful { border-bottom:0; }
+.newsroom-wonderful .story-card:first-child { box-shadow:0 18px 45px rgba(212,173,98,.18); }
+@media (max-width:900px){ .newsroom-block .story-grid{grid-template-columns:repeat(2,minmax(0,1fr));} }
+@media (max-width:650px){ .news-hub-page main{width:min(calc(100% - 1.25rem),1180px);} .newsroom-hero{padding-top:1.6rem;} .newsroom-section-heading{display:grid;gap:.55rem;} .newsroom-section-heading>a{justify-self:start;} .newsroom-block .story-grid{grid-template-columns:1fr;} .newsroom-sections{margin-inline:-.625rem;padding-inline:.625rem;} }
