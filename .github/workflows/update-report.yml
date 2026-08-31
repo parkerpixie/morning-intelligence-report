@@ -2,11 +2,15 @@ name: Update Morning Intelligence Report
 
 on:
   schedule:
-    # GitHub cron uses UTC and scheduled runs may start late. These run at 2:45 and
-    # 3:15 a.m. Central during daylight time (1:45 and 2:15 a.m. during standard time)
-    # so the report has a generous buffer to publish before 5:15 a.m. Central.
-    - cron: "45 7 * * *"
-    - cron: "15 8 * * *"
+    # GitHub scheduled workflows can start substantially late. Stagger several
+    # overnight attempts so at least one lands before the morning report is used.
+    # UTC times below correspond to 12:20, 1:50, 3:20, and 5:20 a.m. Central
+    # during daylight time. If GitHub delays a run by several hours, an earlier
+    # attempt still gives the report a chance to land during the early morning.
+    - cron: "20 5 * * *"
+    - cron: "50 6 * * *"
+    - cron: "20 8 * * *"
+    - cron: "20 10 * * *"
   workflow_dispatch:
   push:
     branches:
