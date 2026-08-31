@@ -1,0 +1,98 @@
+.journal-daily-reflection {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.2rem 0 1.35rem;
+  padding: clamp(1rem, 3vw, 1.4rem);
+  border: 1px solid rgba(88, 54, 79, 0.14);
+  border-radius: 20px;
+  background:
+    radial-gradient(circle at 92% 0%, rgba(212, 173, 98, 0.15), transparent 12rem),
+    linear-gradient(145deg, rgba(255, 253, 248, 0.98), rgba(239, 228, 211, 0.62));
+}
+
+.journal-daily-reflection[hidden] {
+  display: none;
+}
+
+.journal-daily-reflection-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.journal-daily-reflection-heading h3 {
+  margin: 0.2rem 0 0;
+  color: var(--navy-deep);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(1.45rem, 3vw, 2rem);
+  font-weight: 600;
+}
+
+.journal-daily-reflection-heading a {
+  flex: 0 0 auto;
+  color: var(--plum);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.journal-daily-reflection-status {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+}
+
+.journal-daily-reflection-copy {
+  padding: 1rem 1.05rem;
+  border-radius: 16px;
+  background: #fff;
+  color: var(--ink);
+  line-height: 1.7;
+}
+
+.journal-daily-reflection-copy[hidden] {
+  display: none;
+}
+
+.journal-daily-reflection-copy p {
+  margin: 0;
+}
+
+.journal-daily-reflection-copy p + p {
+  margin-top: 0.8rem;
+}
+
+.journal-card-raw {
+  padding: 0.75rem 0.85rem;
+  border-radius: 14px;
+  background: rgba(88, 54, 79, 0.05);
+}
+
+.journal-card-raw[hidden] {
+  display: none;
+}
+
+.journal-card-raw summary {
+  color: var(--plum);
+  font-size: 0.78rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.journal-card-raw p {
+  margin: 0.7rem 0 0;
+  white-space: pre-wrap;
+  color: var(--ink-soft);
+  line-height: 1.62;
+}
+
+@media (max-width: 560px) {
+  .journal-daily-reflection-heading {
+    display: grid;
+  }
+
+  .journal-daily-reflection-heading a {
+    justify-self: start;
+  }
+}
