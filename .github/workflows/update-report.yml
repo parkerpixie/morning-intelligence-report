@@ -4,13 +4,13 @@ on:
   schedule:
     # GitHub scheduled workflows can start substantially late. Stagger several
     # overnight attempts so at least one lands before the morning report is used.
-    # UTC times below correspond to 12:20, 1:50, 3:20, and 5:20 a.m. Central
-    # during daylight time. If GitHub delays a run by several hours, an earlier
-    # attempt still gives the report a chance to land during the early morning.
-    - cron: "20 5 * * *"
-    - cron: "50 6 * * *"
-    - cron: "20 8 * * *"
-    - cron: "20 10 * * *"
+    # These UTC windows are all after midnight in America/Chicago year-round:
+    # 1:20/12:20, 2:50/1:50, 4:20/3:20, and 6:20/5:20 in CDT/CST.
+    # Earlier attempts also provide cover when GitHub delays scheduled jobs.
+    - cron: "20 6 * * *"
+    - cron: "50 7 * * *"
+    - cron: "20 9 * * *"
+    - cron: "20 11 * * *"
   workflow_dispatch:
   push:
     branches:
