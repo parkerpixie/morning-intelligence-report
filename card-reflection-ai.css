@@ -1,0 +1,134 @@
+.deck-button--share,
+.share-card-dialog--retired {
+  display: none !important;
+}
+
+.cards-reflection-privacy {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.cards-ai-workspace {
+  display: grid;
+  gap: 0.9rem;
+  margin-top: 1.35rem;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  border: 1px solid rgba(88, 54, 79, 0.14);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 92% 6%, rgba(212, 173, 98, 0.16), transparent 12rem),
+    linear-gradient(145deg, rgba(255, 253, 248, 0.98), rgba(239, 228, 211, 0.58));
+}
+
+.cards-ai-workspace[hidden] {
+  display: none;
+}
+
+.cards-ai-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.cards-ai-heading h3 {
+  margin: 0.2rem 0 0;
+  color: var(--navy-deep);
+  font-family: "Fraunces", Georgia, serif;
+  font-size: clamp(1.6rem, 3vw, 2.25rem);
+  font-weight: 600;
+}
+
+.cards-ai-heading > span {
+  flex: 0 0 auto;
+  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(88, 54, 79, 0.08);
+  color: var(--plum);
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.cards-ai-workspace > p {
+  max-width: 760px;
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+#cards-ai-reflection {
+  width: 100%;
+  min-height: 230px;
+  resize: vertical;
+  padding: 1rem;
+  border: 1px solid rgba(23, 59, 69, 0.16);
+  border-radius: 16px;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.cards-open-journal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.cards-open-journal[hidden] {
+  display: none;
+}
+
+.cards-ai-status {
+  min-height: 1.2em;
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.card-path-daily-reflection {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: 0.55rem;
+  margin-top: 0.1rem;
+  padding: 0.9rem 1rem;
+  border-radius: 15px;
+  background: linear-gradient(145deg, rgba(88, 54, 79, 0.055), rgba(212, 173, 98, 0.08));
+}
+
+.card-path-daily-reflection strong {
+  color: var(--plum);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.card-path-daily-reflection p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: var(--ink);
+  line-height: 1.62;
+}
+
+.card-path-daily-reflection p + p {
+  margin-top: 0.35rem;
+}
+
+@media (max-width: 620px) {
+  .cards-ai-heading {
+    display: grid;
+  }
+
+  .cards-ai-heading > span {
+    justify-self: start;
+  }
+}
