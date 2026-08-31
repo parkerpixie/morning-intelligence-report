@@ -61,7 +61,10 @@ export default async (request) => {
       return json({ error: 'AI reflection could not be generated right now.', code: 'AI_FAILED' }, 502);
     }
 
-    const reflection = clean(data?.output_text || data?.output?.flatMap?.((item) => item.content || []).find?.((item) => item.type === 'output_text')?.text, 6000);
+    const outputText = Array.isArray(data?.output)
+      ? data.output.flatMap((item) => Array.isArray(item?.content) ? item.content : []).find((item) => item?.type === 'output_text')?.text
+      : '';
+    const reflection = clean(data?.output_text || outputText, 6000);
     if (!reflection) return json({ error: 'AI returned an empty reflection.', code: 'EMPTY_AI' }, 502);
     return json({ reflection });
   } catch (error) {
@@ -69,5 +72,3 @@ export default async (request) => {
     return json({ error: 'AI reflection could not be reached right now.', code: 'AI_UNAVAILABLE' }, 502);
   }
 };
-
-export const config = { path: '/.netlify/functions/journal-reflect' };
