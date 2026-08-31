@@ -11,40 +11,41 @@
     document.head.appendChild(style);
   };
 
+  const ensureScript = (src) => {
+    const base = src.split('?')[0];
+    if (document.querySelector(`script[src^="${base}"]`)) return;
+    const script = document.createElement('script');
+    script.src = src;
+    script.defer = true;
+    document.head.appendChild(script);
+  };
+
   const loadUiCleanup = () => ensureStylesheet('ui-cleanup.css?v=20260818-1');
   const loadAppNav = () => ensureStylesheet('app-nav.css?v=20260830-1');
 
   const loadPersonalizedFeatures = () => {
     ensureStylesheet('personalized-morning.css?v=20260723-1');
-    if (!document.querySelector('script[src^="personalized-morning.js"]')) {
-      const script = document.createElement('script');
-      script.src = 'personalized-morning.js?v=20260723-1';
-      script.defer = true;
-      document.head.appendChild(script);
-    }
+    ensureScript('personalized-morning.js?v=20260723-1');
   };
 
   const loadWeatherEnhancements = () => {
     if (!document.getElementById('weather-strip')) return;
-    if (document.querySelector('script[src^="weather-enhancements.js"]')) return;
-    const script = document.createElement('script');
-    script.src = 'weather-enhancements.js?v=20260811-1';
-    script.defer = true;
-    document.head.appendChild(script);
+    ensureScript('weather-enhancements.js?v=20260811-1');
   };
 
   const loadFeelingsUiV2 = () => {
     ensureStylesheet('feelings-ui-v2.css?v=20260817-2');
-    if (!document.querySelector('script[src^="feelings-ui-v2.js"]')) {
-      const script = document.createElement('script');
-      script.src = 'feelings-ui-v2.js?v=20260817-2';
-      script.defer = true;
-      document.head.appendChild(script);
-    }
+    ensureScript('feelings-ui-v2.js?v=20260817-2');
+  };
+
+  const loadDateAndRefreshHelpers = () => {
+    ensureScript('today-date.js?v=20260831-1');
+    if (document.getElementById('report-updated')) ensureScript('report-refresh.js?v=20260831-1');
   };
 
   loadUiCleanup();
   loadAppNav();
+  loadDateAndRefreshHelpers();
   if (isFeelingsPage) loadFeelingsUiV2();
   else {
     loadPersonalizedFeatures();
