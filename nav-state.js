@@ -59,14 +59,13 @@
     ? 'news'
     : activePage === 'archive'
       ? 'library'
-      : activePage === 'feelings'
-        ? 'journal'
-        : activePage;
+      : activePage;
 
   const items = [
     ['home', 'index.html', 'Home'],
     ['news', 'news.html', 'News'],
     ['capybara', 'capybara.html', 'Capybara'],
+    ['feelings', 'feelings.html', 'Feelings'],
     ['journal', 'journal.html', 'Journal'],
     ['library', 'archive.html', 'Library']
   ];
