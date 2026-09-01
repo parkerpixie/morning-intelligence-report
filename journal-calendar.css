@@ -1,0 +1,102 @@
+.journal-intelligence{
+  margin:28px 0 34px;
+  display:grid;
+  grid-template-columns:minmax(0,1.55fr) minmax(300px,.85fr);
+  gap:22px;
+}
+.journal-calendar-panel,.journal-story-panel,.journal-patterns-panel{
+  background:rgba(255,255,255,.78);
+  border:1px solid rgba(88,54,79,.14);
+  border-radius:24px;
+  box-shadow:0 18px 50px rgba(68,42,62,.08);
+}
+.journal-calendar-panel{padding:22px}
+.journal-story-panel{padding:22px;align-self:start;position:sticky;top:92px}
+.journal-patterns-panel{grid-column:1/-1;padding:22px}
+.calendar-panel-heading,.story-panel-heading,.patterns-panel-heading{
+  display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:16px
+}
+.calendar-panel-heading h2,.story-panel-heading h2,.patterns-panel-heading h2{margin:.2rem 0 0;color:#3e2938}
+.calendar-panel-heading p,.story-panel-heading p,.patterns-panel-heading p{margin:.25rem 0 0;color:#725f6d}
+.journal-calendar-controls{display:flex;align-items:center;gap:10px}
+.journal-calendar-controls button{
+  border:1px solid rgba(88,54,79,.18);background:#fff;color:#58364f;border-radius:999px;
+  min-width:38px;height:38px;padding:0 12px;font:inherit;font-weight:700;cursor:pointer
+}
+.journal-calendar-controls button:hover{background:#f7eff4}
+#journal-calendar-month{min-width:150px;text-align:center;font-size:1.05rem;margin:0;color:#4d3346}
+.journal-calendar-filters{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.journal-calendar-filters button{
+  border:1px solid rgba(88,54,79,.15);background:#fff;color:#6f5668;border-radius:999px;padding:8px 12px;
+  font:inherit;font-size:.83rem;font-weight:700;cursor:pointer
+}
+.journal-calendar-filters button.is-active{background:#58364f;color:#fff;border-color:#58364f}
+.journal-calendar-weekdays,.journal-calendar-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:7px}
+.journal-calendar-weekdays{margin-bottom:7px;color:#8d7886;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;text-align:center}
+.intelligence-day{
+  min-height:84px;border:1px solid rgba(88,54,79,.1);background:rgba(255,255,255,.92);border-radius:14px;padding:8px;
+  display:flex;flex-direction:column;align-items:stretch;gap:7px;text-align:left;cursor:pointer;transition:.15s ease
+}
+.intelligence-day:hover{transform:translateY(-1px);border-color:rgba(88,54,79,.28);box-shadow:0 8px 20px rgba(88,54,79,.08)}
+.intelligence-day.is-outside{opacity:.35}
+.intelligence-day.is-today{box-shadow:inset 0 0 0 2px #b88aa9}
+.intelligence-day.is-selected{background:#f5eaf1;border-color:#8d5f80;box-shadow:inset 0 0 0 2px #8d5f80}
+.intelligence-day.is-filtered.has-activity{opacity:.28}
+.intelligence-day-number{font-weight:850;color:#4c3444;font-size:.9rem}
+.intelligence-day-activity{display:flex;gap:4px;min-height:18px;flex-wrap:wrap}
+.day-activity,.legend-badge{
+  width:18px;height:18px;border-radius:6px;display:inline-grid;place-items:center;font-size:.62rem;font-weight:900;line-height:1
+}
+.day-activity--reflection,.legend-badge--reflection{background:#e8d8a9;color:#5b4918}
+.day-activity--journal,.legend-badge--journal{background:#d8c3d2;color:#593a51}
+.day-activity--dbt,.legend-badge--dbt{background:#c9ddd1;color:#335a43}
+.day-activity--cards{background:#d8d4e9;color:#4b4770}
+.intelligence-day-feelings{margin-top:auto;display:flex;align-items:center;gap:4px;min-height:12px;flex-wrap:wrap}
+.day-feeling-dot,.legend-feeling{width:9px;height:9px;border-radius:999px;background:var(--feeling,#8c8993);display:inline-block;box-shadow:0 0 0 2px rgba(255,255,255,.8)}
+.legend-feeling{--feeling:#9386bd}
+.day-feeling-more{font-size:.63rem;color:#7a6875;font-weight:800}
+.journal-calendar-legend{display:flex;flex-wrap:wrap;gap:12px;margin-top:14px;color:#786672;font-size:.75rem}
+.journal-calendar-legend span{display:inline-flex;align-items:center;gap:5px}
+.journal-month-summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:14px}
+.journal-month-summary div{background:#f7f1f5;border-radius:12px;padding:10px;text-align:center}
+.journal-month-summary strong{display:block;color:#4b3044;font-size:1.15rem}
+.journal-month-summary span{display:block;color:#826f7b;font-size:.68rem;line-height:1.2}
+.story-summary{font-size:.82rem;color:#7a6875;margin:.35rem 0 0}
+.story-shift{background:#f4ecf2;border:1px solid rgba(88,54,79,.12);padding:10px 12px;border-radius:12px;margin:0 0 14px;color:#5b4554;font-size:.83rem}
+.day-story{display:grid;gap:0}
+.day-story-item{display:grid;grid-template-columns:18px 1fr;gap:10px;--story-color:#b48aa8}
+.day-story-rail{position:relative;display:flex;justify-content:center}
+.day-story-rail:before{content:"";position:absolute;top:0;bottom:0;width:2px;background:#eadfe7}
+.day-story-rail span{position:relative;margin-top:11px;width:10px;height:10px;border-radius:50%;background:var(--story-color);box-shadow:0 0 0 3px #fff}
+.day-story-copy{padding:0 0 18px}
+.day-story-top{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.day-story-type{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;font-weight:900;color:#8a7082}
+.day-story-top time{font-size:.7rem;color:#9b8794}
+.day-story-copy h4{margin:.2rem 0;color:#442f3e;font-size:.98rem}
+.day-story-copy p{margin:.3rem 0 0;color:#67525f;font-size:.82rem;line-height:1.45;white-space:pre-line}
+.day-story-copy .day-story-meta{font-size:.72rem;color:#927d8a}
+.calendar-empty{color:#85727e;font-size:.85rem;font-style:italic}
+.journal-patterns-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.pattern-card{background:#f7f1f5;border:1px solid rgba(88,54,79,.09);border-radius:16px;padding:14px}
+.pattern-card--wide{grid-column:span 2}
+.pattern-card strong{display:block;color:#4b3044;font-size:1.3rem}
+.pattern-card span{display:block;color:#806d79;font-size:.75rem;margin-top:3px}
+.patterns-note{margin:12px 0 0;color:#8b7784;font-size:.78rem}
+@media(max-width:900px){
+  .journal-intelligence{grid-template-columns:1fr}
+  .journal-story-panel{position:static}
+  .journal-patterns-panel{grid-column:auto}
+}
+@media(max-width:640px){
+  .journal-calendar-panel,.journal-story-panel,.journal-patterns-panel{padding:16px;border-radius:18px}
+  .calendar-panel-heading{display:block}
+  .journal-calendar-controls{margin-top:12px;justify-content:space-between}
+  #journal-calendar-month{min-width:0;flex:1}
+  .journal-calendar-weekdays,.journal-calendar-grid{gap:4px}
+  .intelligence-day{min-height:68px;padding:6px;border-radius:11px}
+  .day-activity,.legend-badge{width:16px;height:16px;font-size:.55rem}
+  .day-feeling-dot{width:7px;height:7px}
+  .journal-month-summary{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .journal-patterns-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .pattern-card--wide{grid-column:span 2}
+}
