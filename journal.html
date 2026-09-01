@@ -3,16 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A private daily journal connected to Parker's Morning Intelligence card pulls and saved daily reflections.">
+  <meta name="description" content="A private daily journal, calendar and personal pattern view connected to Morning Intelligence card pulls, reflections and feelings check-ins.">
   <meta name="theme-color" content="#58364f">
-  <title>Journal | Morning Intelligence Report</title>
+  <title>Journal & My Days | Morning Intelligence Report</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="news-site.css?v=20260716-1">
   <link rel="stylesheet" href="journal.css?v=20260830-1">
   <link rel="stylesheet" href="journal-reflection.css?v=20260831-1">
+  <link rel="stylesheet" href="journal-calendar.css?v=20260831-1">
   <script src="nav-state.js?v=20260831-1" defer></script>
   <script src="device-sync.js?v=20260831-1" defer></script>
   <script src="journal.js?v=20260831-1" defer></script>
+  <script src="journal-calendar.js?v=20260831-1" defer></script>
 </head>
 <body class="journal-page" data-page="journal">
   <a class="skip-link" href="#main-content">Skip to journal</a>
@@ -28,18 +30,73 @@
 
   <main id="main-content" class="journal-shell">
     <section class="journal-hero" aria-labelledby="journal-title">
-      <p class="section-kicker">The part that belongs only to you</p>
-      <h1 id="journal-title">Journal</h1>
-      <p>Your cards, the thoughts they stirred up, the reflection you chose to keep, and whatever else the day becomes can live together here.</p>
-      <span class="journal-local-note">Entries are encrypted in your browser and can sync across your paired devices.</span>
+      <p class="section-kicker">Phase 2B · My Days</p>
+      <h1 id="journal-title">Journal, Calendar &amp; Personal Patterns</h1>
+      <p>Your cards, morning reflections, journal pages, feelings and DBT check-ins can finally tell one story together without flattening a whole day into one colored dot.</p>
+      <span class="journal-local-note">Your existing Journal, Card Path and Feelings histories stay intact. My Days reads them together instead of replacing them.</span>
+    </section>
+
+    <section class="journal-intelligence" aria-label="My Days calendar and personal patterns">
+      <section class="journal-calendar-panel" aria-labelledby="journal-calendar-title">
+        <div class="calendar-panel-heading">
+          <div>
+            <p class="section-kicker">Look back without guessing</p>
+            <h2 id="journal-calendar-title">My Days</h2>
+            <p>Activity markers tell you what you did. Feeling marks show every check-in, not one fake mood for the whole day.</p>
+          </div>
+          <div class="journal-calendar-controls">
+            <button type="button" id="journal-calendar-prev" aria-label="Previous month">‹</button>
+            <h3 id="journal-calendar-month">Month</h3>
+            <button type="button" id="journal-calendar-next" aria-label="Next month">›</button>
+            <button type="button" id="journal-calendar-today">Today</button>
+          </div>
+        </div>
+
+        <div class="journal-calendar-filters" aria-label="Filter calendar activity">
+          <button type="button" class="is-active" data-calendar-filter="all">All</button>
+          <button type="button" data-calendar-filter="reflections">Reflections</button>
+          <button type="button" data-calendar-filter="journal">Journal</button>
+          <button type="button" data-calendar-filter="feelings">Feelings</button>
+          <button type="button" data-calendar-filter="dbt">DBT</button>
+        </div>
+
+        <div class="journal-calendar-weekdays" aria-hidden="true"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+        <div class="journal-calendar-grid" id="journal-calendar-grid"></div>
+        <div class="journal-calendar-legend" id="journal-calendar-legend"></div>
+        <div class="journal-month-summary" id="journal-month-summary" aria-label="Selected month totals"></div>
+      </section>
+
+      <aside class="journal-story-panel" aria-labelledby="journal-story-title">
+        <div class="story-panel-heading">
+          <div>
+            <p class="section-kicker">The day, not just the dot</p>
+            <h2 id="journal-story-title">Today</h2>
+            <p class="story-summary" id="journal-story-summary"></p>
+          </div>
+        </div>
+        <div class="story-shift" id="journal-story-shift" hidden></div>
+        <div class="day-story" id="journal-day-story"></div>
+      </aside>
+
+      <section class="journal-patterns-panel" aria-labelledby="journal-patterns-title">
+        <div class="patterns-panel-heading">
+          <div>
+            <p class="section-kicker">Facts before theories</p>
+            <h2 id="journal-patterns-title">What the last few weeks actually contain</h2>
+            <p>These are simple observations from what you logged. They are not diagnoses and they do not invent causes.</p>
+          </div>
+        </div>
+        <div class="journal-patterns-grid" id="journal-patterns-grid"></div>
+        <p class="patterns-note">As your history grows, this layer can become smarter about time-of-day patterns, emotional shifts after skills, recurring feelings and On This Day memories.</p>
+      </section>
     </section>
 
     <div class="journal-layout">
-      <aside class="journal-sidebar" aria-label="Journal history">
-        <div class="journal-sidebar-heading"><p class="section-kicker">Look back</p><h2>My entries</h2></div>
+      <aside class="journal-sidebar" aria-label="Journal entry history">
+        <div class="journal-sidebar-heading"><p class="section-kicker">Pages with words</p><h2>Journal entries</h2></div>
         <button class="journal-today-button" id="journal-today" type="button">Today</button>
         <div class="journal-history" id="journal-history"></div>
-        <a class="journal-feelings-link" href="feelings.html"><strong>Feelings &amp; DBT</strong><span>Your existing check-ins, mood calendar, journal and skills are still here.</span></a>
+        <a class="journal-feelings-link" href="feelings.html"><strong>Feelings &amp; DBT</strong><span>Use the full feelings wheel, save another check-in or open the DBT skill library.</span></a>
       </aside>
 
       <div class="journal-workspace">
