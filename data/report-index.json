@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-01.json",
-  "report_date": "2026-09-01",
-  "generated_at": "2026-09-01T15:28:39.977863+00:00",
-  "edition_count": 48,
+  "latest": "data/archive/2026-09-02.json",
+  "report_date": "2026-09-02",
+  "generated_at": "2026-09-02T11:24:09.100631+00:00",
+  "edition_count": 49,
   "editions": [
+    {
+      "report_date": "2026-09-02",
+      "generated_at": "2026-09-02T11:24:09.100631+00:00",
+      "path": "data/archive/2026-09-02.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Guinea-Bissau referendum approves new constitution that expands president's powers",
+        "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
+        "url": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feed/live/51a8ed10-a691-11f1-838c-adcb616e029d.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-01",
       "generated_at": "2026-09-01T15:28:39.977863+00:00",
