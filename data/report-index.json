@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-02.json",
-  "report_date": "2026-09-02",
-  "generated_at": "2026-09-02T15:08:02.259062+00:00",
-  "edition_count": 49,
+  "latest": "data/archive/2026-09-03.json",
+  "report_date": "2026-09-03",
+  "generated_at": "2026-09-03T11:20:45.390072+00:00",
+  "edition_count": 50,
   "editions": [
+    {
+      "report_date": "2026-09-03",
+      "generated_at": "2026-09-03T11:20:45.390072+00:00",
+      "path": "data/archive/2026-09-03.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+        "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-02",
       "generated_at": "2026-09-02T15:08:02.259062+00:00",
