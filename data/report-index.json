@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-09-03.json",
   "report_date": "2026-09-03",
-  "generated_at": "2026-09-03T11:20:45.390072+00:00",
+  "generated_at": "2026-09-03T12:15:29.744524+00:00",
   "edition_count": 50,
   "editions": [
     {
       "report_date": "2026-09-03",
-      "generated_at": "2026-09-03T11:20:45.390072+00:00",
+      "generated_at": "2026-09-03T12:15:29.744524+00:00",
       "path": "data/archive/2026-09-03.json",
       "top_story": {
         "source": "NPR",
@@ -15,15 +15,15 @@
         "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
         "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 71,
+      "story_count": 63,
       "section_counts": {
-        "local": 8,
+        "local": 4,
         "must-know": 8,
         "ai-tech": 8,
-        "work-marketing": 8,
+        "work-marketing": 5,
         "wellbeing": 8,
         "entertainment": 8,
-        "animals": 8,
+        "animals": 7,
         "wonderful": 6
       }
     },
