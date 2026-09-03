@@ -38,6 +38,17 @@
     ensureScript('feelings-ui-v2.js?v=20260817-2');
   };
 
+  const loadPersonalHistory = () => {
+    if (!['capybara','feelings','journal'].includes(activePage)) return;
+    ensureScript('feelings-core.js?v=20260903-1');
+    ensureScript('wellbeing-sync.js?v=20260903-1');
+    if (activePage === 'capybara') {
+      ensureStylesheet('morning-feelings.css?v=20260903-1');
+      ensureScript('morning-feelings.js?v=20260903-1');
+    }
+    if (activePage === 'feelings') ensureScript('feelings-practice.js?v=20260903-1');
+  };
+
   const loadDateAndRefreshHelpers = () => {
     ensureScript('today-date.js?v=20260831-1');
     if (document.getElementById('report-updated')) ensureScript('report-refresh.js?v=20260831-1');
@@ -46,6 +57,7 @@
   loadUiCleanup();
   loadAppNav();
   loadDateAndRefreshHelpers();
+  loadPersonalHistory();
   if (isFeelingsPage) loadFeelingsUiV2();
   else {
     loadPersonalizedFeatures();
