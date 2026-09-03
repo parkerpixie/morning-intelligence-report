@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T12:22:58.242777+00:00",
+  "generated_at": "2026-09-03T13:44:19.652864+00:00",
   "edition_count": 50,
-  "story_count": 3074,
+  "story_count": 3076,
   "stories": [
     {
       "id": "822155c7ba84b4dc",
@@ -30,10 +30,10 @@
       "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
       "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
       "canonical_url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-      "image": "assets/images/clementine-madison-morning.webp",
+      "image": "",
       "published": "Thu, 03 Sep 2026 03:04:25 -0400",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-03"
@@ -140,7 +140,7 @@
     {
       "id": "1e39ce9158fae968",
       "source": "Positive News",
-      "headline": "What went right this week: the good news that matters",
+      "headline": "What went right this week: an ‘historic’ fall in violent crime, plus more",
       "summary": "A ‘historic’ fall in US violent crime, Europe’s right to repair law, and a conservation triumph for Kazakhstan, plus more",
       "url": "https://www.positive.news/society/good-news-stories-from-week-35-of-2026/",
       "canonical_url": "https://www.positive.news/society/good-news-stories-from-week-35-of-2026",
@@ -240,6 +240,25 @@
       "appearances": 1
     },
     {
+      "id": "a0019046ee19d9d2",
+      "source": "BBC World",
+      "headline": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "summary": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965d/live/4e6fd280-a78b-11f1-9bb7-af8e8fd3d806.jpg",
+      "published": "Thu, 03 Sep 2026 13:07:02 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
+    },
+    {
       "id": "f698b61de60495ea",
       "source": "BBC World",
       "headline": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -250,25 +269,6 @@
       "published": "Thu, 03 Sep 2026 06:01:54 GMT",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-03"
-      ],
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "appearances": 1
-    },
-    {
-      "id": "f74a5786f2fdfb22",
-      "source": "BBC Technology",
-      "headline": "Uber to cut over 3,000 jobs in major global restructuring",
-      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
-      "published": "Wed, 02 Sep 2026 16:51:49 GMT",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-09-03"
@@ -364,7 +364,7 @@
       "image": "",
       "published": "2026-09-03T07:55:00-04:00",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-03"
@@ -412,25 +412,6 @@
       "appearances": 1
     },
     {
-      "id": "e6bb0c3a16fb91b2",
-      "source": "Good News Network",
-      "headline": "Stray Cat Nursed Back to Health by Train Staff, Climbs the Ranks to Become Stationmaster",
-      "summary": "Japan is nothing if not a servant to tradition; even if the tradition is a little strange. Admittedly a little less strange than the annual Kanamara Matsuri festival in Kawasaki (parental guidance suggested) the custom of railway lines promoting cats to the rank of stationmaster certainly raises eyebrows, but also spirits, it must be said.",
-      "url": "https://www.goodnewsnetwork.org/stray-cat-nursed-back-to-health-by-train-staff-climbs-the-ranks-to-become-stationmaster/",
-      "canonical_url": "https://www.goodnewsnetwork.org/stray-cat-nursed-back-to-health-by-train-staff-climbs-the-ranks-to-become-stationmaster",
-      "image": "",
-      "published": "Wed, 02 Sep 2026 15:30:59 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-03"
-      ],
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "appearances": 1
-    },
-    {
       "id": "73533089ab1ce412",
       "source": "MarTech",
       "headline": "Stop treating lead quality and volume as opposites",
@@ -449,6 +430,25 @@
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-03",
       "appearances": 2
+    },
+    {
+      "id": "c2b41975cc9fbbbd",
+      "source": "Variety",
+      "headline": "Steve Doocy, Brian Kilmeade Will Commemorate 9/11 on Fox News After Covering it 25 Years Ago",
+      "summary": "Steve Doocy and Brian Kilmeade are preparing for a reunion of sorts that neither is eager to remember. On September 11, 2001, both Fox News Channel personalities were working on air as news organizations throughout the New York area were trying to cover devastating attacks by terrorists on the two massive skyscrapers at the World",
+      "url": "https://variety.com/2026/tv/news/steve-doocy-brian-kilmeade-9-11-fox-news-coverage-1236850198/",
+      "canonical_url": "https://variety.com/2026/tv/news/steve-doocy-brian-kilmeade-9-11-fox-news-coverage-1236850198",
+      "image": "https://variety.com/wp-content/uploads/2026/09/cbf21853-0769-40a1-9647-82731b0d4803.png",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
     },
     {
       "id": "2853d935c7f0c1c7",
@@ -605,6 +605,25 @@
       "appearances": 2
     },
     {
+      "id": "29b71c51f8aeb440",
+      "source": "ScienceDaily Mind & Brain",
+      "headline": "One immune switch may help drive aging across the body",
+      "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles, and memory remain remarkably youthful.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 06:29:04 EDT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
+    },
+    {
       "id": "0d43cb01db70fe6a",
       "source": "Pitchfork",
       "headline": "Neil Peart Documentary No One’s Disciple Gets First Trailer",
@@ -701,27 +720,6 @@
       "appearances": 1
     },
     {
-      "id": "ca938019d3f23e18",
-      "source": "BBC Technology",
-      "headline": "Lords call for AI 'kill switch' powers in UK",
-      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
-      "published": "Wed, 02 Sep 2026 14:41:52 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-03",
-        "2026-09-02"
-      ],
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
-      "appearances": 2
-    },
-    {
       "id": "ed34266a4b38168c",
       "source": "BBC World",
       "headline": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
@@ -732,6 +730,25 @@
       "published": "Thu, 03 Sep 2026 11:30:38 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
+    },
+    {
+      "id": "b3eb882bbe905770",
+      "source": "Variety",
+      "headline": "Lesley Manville Takes on Cold War Poland in ‘Winter of the Crow’ Trailer as Cohen Sets Thriller’s U.S. Release Date (EXCLUSIVE)",
+      "summary": "Lesley Manville battles snow and spies in the trailer for upcoming Cold War thriller “Winter of the Crow,” from director Kasia Adamik and set against the turmoil of 1981 Warsaw. Alongside releasing the official trailer, Cohen Media Group has also announced that the film will release theatrically nationwide on Oct 9. Inspired by Nobel Prize-winning",
+      "url": "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247/",
+      "canonical_url": "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247",
+      "image": "https://variety.com/wp-content/uploads/2025/09/ssiff50044_Winter_of_the_Crow_La_conspiracion_del_cuervo_-1.jpg",
+      "published": "Thu, 03 Sep 2026 12:36:59 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-03"
@@ -920,8 +937,8 @@
       "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8816/live/a45454a0-a76d-11f1-993c-a325009c1935.jpg",
-      "published": "Thu, 03 Sep 2026 09:30:26 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg",
+      "published": "Thu, 03 Sep 2026 12:18:07 GMT",
       "sections": [
         "must-know"
       ],
@@ -933,16 +950,16 @@
       "appearances": 1
     },
     {
-      "id": "7b828d93a26e9eff",
-      "source": "NPR",
-      "headline": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.",
-      "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
-      "canonical_url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
+      "id": "42aebfde14f2262c",
+      "source": "The Verge",
+      "headline": "DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
+      "summary": "DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles. But more importantly for DJI, a new local-only data mode should go some way to reassuring anyone concerned by the first Romo's serious security flaws. There are",
+      "url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
+      "canonical_url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
       "image": "",
-      "published": "Thu, 03 Sep 2026 07:17:01 -0400",
+      "published": "2026-09-03T09:06:10-04:00",
       "sections": [
-        "must-know"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-03"
@@ -981,25 +998,6 @@
       "published": "Thu, 03 Sep 2026 11:00:22 +0000",
       "sections": [
         "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-03"
-      ],
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "appearances": 1
-    },
-    {
-      "id": "24d855eaf1070c19",
-      "source": "Variety",
-      "headline": "Colman Domingo to Emcee Kering’s Caring for Women Dinner",
-      "summary": "Colman Domingo will emcee the fifth annual Caring for Women Dinner on Sept. 10 at The Pool in New York City. Paris Hilton will DJ at the after-party. Domingo is an actor, writer, director and producer, earning two Academy Award nominations, as well as co-chairing the 2025 Met Gala, which raised funds for The Costume Institute.",
-      "url": "https://variety.com/2026/awards/news/colman-domingo-to-emcee-caring-for-women-dinner-1236849772/",
-      "canonical_url": "https://variety.com/2026/awards/news/colman-domingo-to-emcee-caring-for-women-dinner-1236849772",
-      "image": "https://variety.com/wp-content/uploads/2026/02/P103MG7S.jpg",
-      "published": "Thu, 03 Sep 2026 12:00:00 +0000",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-09-03"
@@ -1086,25 +1084,6 @@
       "appearances": 1
     },
     {
-      "id": "10cbfb4a88a49a8d",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "Alzheimer’s may leave a mark on the brain long before plaques appear",
-      "summary": "Brain changes associated with Alzheimer’s may begin at least seven years before amyloid plaques become detectable with current PET scans. Researchers uncovered the signal by tracking healthy older adults with repeated brain imaging over nearly 20 years. The discovery could help scientists identify Alzheimer’s earlier and suggests that important disease processes may start before visible plaque buildup.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
-      "image": "",
-      "published": "Wed, 02 Sep 2026 09:33:57 EDT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-03"
-      ],
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "appearances": 1
-    },
-    {
       "id": "1f8243b83a23c659",
       "source": "Smithsonian",
       "headline": "Allergic to Dogs? These Gene-Edited Beagles Could Pave the Way to Your Dream Canine Companion That Won't Trigger Sniffles",
@@ -1135,6 +1114,25 @@
       "published": "Thu, 03 Sep 2026 10:40:04 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
+    },
+    {
+      "id": "6249115b5db1fcf3",
+      "source": "Variety",
+      "headline": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion",
+      "summary": "Nvidia co-founder and CEO Jensen Huang is making a big new bet on an open-source AI future. On Thursday, Huang announced that Nvidia, a major supplier of hardware to power AI applications, reached a deal to acquire Hugging Face — which operates a platform for building AI open-source models — for $12.93 billion. “Together, we",
+      "url": "https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/",
+      "canonical_url": "https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349",
+      "image": "https://variety.com/wp-content/uploads/2025/03/Nvidia-CEO-Jensen-Huang.jpg",
+      "published": "Thu, 03 Sep 2026 12:59:29 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-03"
@@ -1192,6 +1190,25 @@
       "published": "Wed, 02 Sep 2026 21:50:53 +0000",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-03"
+      ],
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "appearances": 1
+    },
+    {
+      "id": "7fac695945e659ec",
+      "source": "Good News Network",
+      "headline": "3 Million Oysters Eaten by New Yorkers Are Rebuilding the City’s Reefs",
+      "summary": "On Governor’s Island in New York City, a nonprofit is turning wasted oyster shells into new oyster reefs that filter pollutants from the harbor, absorb wave energy, and supply the city’s restaurant industry. Called the Billion Oyster Project, the objective is to restore some 100 acres of lost, historic oyster reefs using the waste streams",
+      "url": "https://www.goodnewsnetwork.org/3-million-oysters-eaten-by-new-yorkers-are-rebuilding-the-citys-reefs/",
+      "canonical_url": "https://www.goodnewsnetwork.org/3-million-oysters-eaten-by-new-yorkers-are-rebuilding-the-citys-reefs",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 13:00:37 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-09-03"
@@ -1896,6 +1913,25 @@
       "published": "Wed, 02 Sep 2026 09:00:00 +0000",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-02"
+      ],
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "appearances": 1
+    },
+    {
+      "id": "ca938019d3f23e18",
+      "source": "BBC Technology",
+      "headline": "Lords call for AI 'kill switch' powers in UK",
+      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
+      "published": "Wed, 02 Sep 2026 14:41:52 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-02"
