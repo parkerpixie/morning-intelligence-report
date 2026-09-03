@@ -1,7 +1,7 @@
 import { getStore } from '@netlify/blobs';
 
 const STORE_NAME = 'morning-report-personal-sync';
-const NAMESPACES = new Set(['cards', 'journal']);
+const NAMESPACES = new Set(['cards', 'journal', 'wellbeing']);
 const SYNC_ID_RE = /^[a-f0-9]{64}$/;
 const MAX_CIPHERTEXT_LENGTH = 2_000_000;
 
