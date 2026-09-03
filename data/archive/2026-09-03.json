@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:36:44.142211+00:00",
-  "generated_at_local": "2026-09-03T08:36:44.142211-05:00",
+  "generated_at": "2026-09-03T15:01:23.912758+00:00",
+  "generated_at_local": "2026-09-03T10:01:23.912758-05:00",
   "report_date": "2026-09-03",
   "top_story": {
     "source": "BBC World",
@@ -68,12 +68,12 @@
       "published": "Wed, 02 Sep 2026 21:50:53 +0000"
     },
     {
-      "source": "The Verge",
-      "headline": "These new robot lawnmowers trim your edges",
-      "summary": "Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your driveway and flowerbeds. The dual-blade mower offers vSLAM navigation that uses built-in cameras to build a 3D map of your",
-      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-      "image": "",
-      "published": "2026-09-03T07:55:00-04:00"
+      "source": "BBC Technology",
+      "headline": "Uber to cut over 3,000 jobs in major global restructuring",
+      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+      "published": "Wed, 02 Sep 2026 16:51:49 GMT"
     }
   ],
   "sections": {
@@ -179,14 +179,6 @@
     ],
     "ai-tech": [
       {
-        "source": "Variety",
-        "headline": "AI Giant Nvidia to Buy Hugging Face for $12.9 Billion",
-        "summary": "Nvidia co-founder and CEO Jensen Huang is making a big new bet on an open-source AI future. On Thursday, Huang announced that Nvidia, a major supplier of hardware to power AI applications, reached a deal to acquire Hugging Face — which operates a platform for building AI open-source models — for $12.93 billion. “Together, we",
-        "url": "https://variety.com/2026/digital/news/nvidia-acquires-hugging-face-12-9-billion-1236850349/",
-        "image": "https://variety.com/wp-content/uploads/2025/03/Nvidia-CEO-Jensen-Huang.jpg",
-        "published": "Thu, 03 Sep 2026 12:59:29 +0000"
-      },
-      {
         "source": "Ars Technica",
         "headline": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
         "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
@@ -241,9 +233,25 @@
         "url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
         "image": "",
         "published": "2026-09-03T09:06:10-04:00"
+      },
+      {
+        "source": "The Verge",
+        "headline": "These new robot lawnmowers trim your edges",
+        "summary": "Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your driveway and flowerbeds. The dual-blade mower offers vSLAM navigation that uses built-in cameras to build a 3D map of your",
+        "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+        "image": "",
+        "published": "2026-09-03T07:55:00-04:00"
       }
     ],
     "work-marketing": [
+      {
+        "source": "MarTech",
+        "headline": "Google loses the ad monopoly case, but keeps the monopoly",
+        "summary": "A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them.",
+        "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
+        "image": "https://martech.org/wp-content/uploads/2024/09/google-antitrust-800x450.jpg",
+        "published": "Thu, 03 Sep 2026 14:50:24 +0000"
+      },
       {
         "source": "Wisconsin Public Radio",
         "headline": "Fall events planned to support businesses through Blatnik Bridge closure",
@@ -267,14 +275,6 @@
         "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
         "image": "https://martech.org/wp-content/uploads/2026/09/martech-measurement-800x450.png",
         "published": "Wed, 02 Sep 2026 12:50:00 +0000"
-      },
-      {
-        "source": "MarTech",
-        "headline": "Stop treating lead quality and volume as opposites",
-        "summary": "Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first.",
-        "url": "https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/",
-        "image": "https://martech.org/wp-content/uploads/2026/01/arguing-strategy-800x447.png",
-        "published": "Tue, 01 Sep 2026 13:44:02 +0000"
       },
       {
         "source": "HubSpot Marketing",
@@ -354,7 +354,7 @@
     "entertainment": [
       {
         "source": "BBC World",
-        "headline": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+        "headline": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
         "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
         "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
@@ -370,11 +370,11 @@
       },
       {
         "source": "Variety",
-        "headline": "Lesley Manville Takes on Cold War Poland in ‘Winter of the Crow’ Trailer as Cohen Sets Thriller’s U.S. Release Date (EXCLUSIVE)",
-        "summary": "Lesley Manville battles snow and spies in the trailer for upcoming Cold War thriller “Winter of the Crow,” from director Kasia Adamik and set against the turmoil of 1981 Warsaw. Alongside releasing the official trailer, Cohen Media Group has also announced that the film will release theatrically nationwide on Oct 9. Inspired by Nobel Prize-winning",
-        "url": "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247/",
-        "image": "https://variety.com/wp-content/uploads/2025/09/ssiff50044_Winter_of_the_Crow_La_conspiracion_del_cuervo_-1.jpg",
-        "published": "Thu, 03 Sep 2026 12:36:59 +0000"
+        "headline": "Dave Bautista Shows Off Body Transformation to Play Kratos in ‘God of War’ Series: ‘Two More Months to Get to Where I Need to Be’",
+        "summary": "Dave Bautista is back in the gym and showing off his muscle gains to play the super-strong Greek hero Kratos in the upcoming adaptation of the “God of War” video game. The actor shared a video of himself flexing in the gym and revealed that he’s three weeks into his weight training regime, with two",
+        "url": "https://variety.com/2026/tv/news/dave-bautista-god-of-war-kratos-body-transformation-1236850444/",
+        "image": "https://variety.com/wp-content/uploads/2026/09/MixCollage-03-Sep-2026-09-56-AM-295.jpg",
+        "published": "Thu, 03 Sep 2026 14:08:45 +0000"
       },
       {
         "source": "BBC Entertainment",
@@ -431,16 +431,8 @@
         "headline": "These 20 Breathtaking Bird Images From the Audubon Photography Awards Capture the Wonder of the Winged World",
         "summary": "The winners of the 17th annual contest reveal the beauty of birds, the splendor of their migratory journeys and the risks they face",
         "url": "https://www.smithsonianmag.com/smart-news/these-20-breathtaking-bird-images-from-the-audubon-photography-awards-capture-the-wonder-of-the-winged-world-180989436/",
-        "image": "https://th-thumbnailer.cdn-si-edu.com/45A110Jqxf9W_2JNu7K8Kw8J6V4=/420x240/filters:focal(3008x2020:3009x2021)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/41/0b41ec61-4273-4ef2-99b1-29a1cb91e9a3/aves_sin_fronteras_01_winner_aud_apa-la-2026_black-browed-alba-084504f33f946a37c701ef10cf21da27.jpg",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/x2WEc3vBqXU1RtBYtBwBHXEjE1o=/420x240/filters:focal(3008x2034:3009x2035)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/41/0b41ec61-4273-4ef2-99b1-29a1cb91e9a3/aves_sin_fronteras_01_winner_aud_apa-la-2026_black-browed-alba-084504f33f946a37c701ef10cf21da27.jpg",
         "published": "Wed, 02 Sep 2026 19:48:46 +0000"
-      },
-      {
-        "source": "Variety",
-        "headline": "Steve Doocy, Brian Kilmeade Will Commemorate 9/11 on Fox News After Covering it 25 Years Ago",
-        "summary": "Steve Doocy and Brian Kilmeade are preparing for a reunion of sorts that neither is eager to remember. On September 11, 2001, both Fox News Channel personalities were working on air as news organizations throughout the New York area were trying to cover devastating attacks by terrorists on the two massive skyscrapers at the World",
-        "url": "https://variety.com/2026/tv/news/steve-doocy-brian-kilmeade-9-11-fox-news-coverage-1236850198/",
-        "image": "https://variety.com/wp-content/uploads/2026/09/cbf21853-0769-40a1-9647-82731b0d4803.png",
-        "published": "Thu, 03 Sep 2026 13:00:00 +0000"
       },
       {
         "source": "Smithsonian",

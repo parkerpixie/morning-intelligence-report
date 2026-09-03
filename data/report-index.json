@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-09-03.json",
   "report_date": "2026-09-03",
-  "generated_at": "2026-09-03T13:36:44.142211+00:00",
+  "generated_at": "2026-09-03T15:01:23.912758+00:00",
   "edition_count": 50,
   "editions": [
     {
       "report_date": "2026-09-03",
-      "generated_at": "2026-09-03T13:36:44.142211+00:00",
+      "generated_at": "2026-09-03T15:01:23.912758+00:00",
       "path": "data/archive/2026-09-03.json",
       "top_story": {
         "source": "BBC World",
@@ -15,7 +15,7 @@
         "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965d/live/4e6fd280-a78b-11f1-9bb7-af8e8fd3d806.jpg"
       },
-      "story_count": 64,
+      "story_count": 63,
       "section_counts": {
         "local": 4,
         "must-know": 8,
@@ -23,7 +23,7 @@
         "work-marketing": 5,
         "wellbeing": 8,
         "entertainment": 8,
-        "animals": 8,
+        "animals": 7,
         "wonderful": 6
       }
     },
