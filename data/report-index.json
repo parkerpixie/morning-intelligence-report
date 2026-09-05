@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-04.json",
-  "report_date": "2026-09-04",
-  "generated_at": "2026-09-04T14:59:11.623559+00:00",
-  "edition_count": 51,
+  "latest": "data/archive/2026-09-05.json",
+  "report_date": "2026-09-05",
+  "generated_at": "2026-09-05T10:40:20.345316+00:00",
+  "edition_count": 52,
   "editions": [
+    {
+      "report_date": "2026-09-05",
+      "generated_at": "2026-09-05T10:40:20.345316+00:00",
+      "path": "data/archive/2026-09-05.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "Trump calls for interest rate cut after jobs figures raise hike bets",
+        "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-04",
       "generated_at": "2026-09-04T14:59:11.623559+00:00",
