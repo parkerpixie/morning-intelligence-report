@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-06.json",
-  "report_date": "2026-09-06",
-  "generated_at": "2026-09-06T14:13:18.998650+00:00",
-  "edition_count": 53,
+  "latest": "data/archive/2026-09-07.json",
+  "report_date": "2026-09-07",
+  "generated_at": "2026-09-07T12:41:02.174260+00:00",
+  "edition_count": 54,
   "editions": [
+    {
+      "report_date": "2026-09-07",
+      "generated_at": "2026-09-07T12:41:02.174260+00:00",
+      "path": "data/archive/2026-09-07.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Democrats fire up western Wisconsin voters as November election nears",
+        "summary": "The annual corn roast event was first started by former Congressman Ron Kind's campaign back in 2003. Now, it's become a chance for Democrats to fire up their base in a part of the state seen as critical to winning the governor's mansion and in the state Legislature.",
+        "url": "https://www.wpr.org/news/democrats-western-wisconsin-voters-corn-roast",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-06",
       "generated_at": "2026-09-06T14:13:18.998650+00:00",
