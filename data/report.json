@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T13:41:50.124055+00:00",
-  "generated_at_local": "2026-09-07T08:41:50.124055-05:00",
+  "generated_at": "2026-09-07T15:04:40.303786+00:00",
+  "generated_at_local": "2026-09-07T10:04:40.303786-05:00",
   "report_date": "2026-09-07",
   "top_story": {
     "source": "Wisconsin Public Radio",
@@ -11,14 +11,6 @@
     "published": "Mon, 07 Sep 2026 10:00:00 +0000"
   },
   "quick_scan": [
-    {
-      "source": "BBC World",
-      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
-      "published": "Mon, 07 Sep 2026 12:22:39 GMT"
-    },
     {
       "source": "BBC World",
       "headline": "Nepal observes national day of mourning for victims of flash flood disaster",
@@ -36,44 +28,52 @@
       "published": "Mon, 07 Sep 2026 02:26:12 GMT"
     },
     {
+      "source": "BBC World",
+      "headline": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
+      "published": "Sun, 06 Sep 2026 23:13:29 GMT"
+    },
+    {
       "source": "AI News",
-      "headline": "AI Existential Risk: UN Chief Warns Against Tech Giants' Power - The Cryptonomist",
-      "summary": "AI Existential Risk: UN Chief Warns Against Tech Giants' Power The Cryptonomist",
+      "headline": "AI Existential Risk: UN Chief Warns Against Tech Giants' Power - en.cryptonomist.ch",
+      "summary": "AI Existential Risk: UN Chief Warns Against Tech Giants' Power en.cryptonomist.ch",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tSzVDYjZGMEVtUGU5VFFtNVA0N2VSUmI1SkN0SU5FazZ3OUNQUUVMVHpmNTdrOXB4TUllWjVrS2lFZ3R6bnR4TG1tSVZ1OFotZnR5SVBGRnFwdmlVNDVDYTFWLVQwVEkySFZrUnRUems2bWJaVmc?oc=5",
       "image": "",
       "published": "Mon, 07 Sep 2026 10:15:47 GMT"
     },
     {
       "source": "Good News Network",
-      "headline": "Astronomers Create Gallery of 16 ‘Cosmic Gems’ to Show Variety of Shapes a Galaxy Can Be",
-      "summary": "Space scientists have put together a photo gallery of ‘cosmic gems’ to showcase the variety of sizes, shapes, and high-energy features of distant galaxies. Astronomers put galaxies into three main categories: spirals like our own Milky Way with arms emanating from their cores, ellipticals that are older and likely the results of mergers, and irregulars",
-      "url": "https://www.goodnewsnetwork.org/astronomers-new-gallery-of-16-cosmic-gems/",
+      "headline": "Chance Encounter Between 2 Indiana Graduates Rescues Former College Ball Star from Homelessness",
+      "summary": "See that red backpack there? Sampson James used it to carry around his meager possessions during a stint of homelessness. Little did James know at the time this photo was taken, however, that it was also carrying around his salvation. This remarkable story of fraternity—philosophical and literal—comes from Steve Hartman’s “On the Road” segment at",
+      "url": "https://www.goodnewsnetwork.org/chance-encounter-between-2-indiana-graduates-rescues-former-college-ball-star-from-homelessness/",
       "image": "",
-      "published": "Sun, 06 Sep 2026 18:14:37 +0000"
+      "published": "Mon, 07 Sep 2026 11:00:20 +0000"
     },
     {
-      "source": "BBC US & Canada",
-      "headline": "Trump signs order to remove endangered species protection for grey wolves",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
-      "published": "Sat, 05 Sep 2026 09:12:48 GMT"
+      "source": "MarTech",
+      "headline": "Google loses the ad monopoly case, but keeps the monopoly",
+      "summary": "A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them.",
+      "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
+      "image": "https://martech.org/wp-content/uploads/2024/09/google-antitrust-800x450.jpg",
+      "published": "Thu, 03 Sep 2026 14:50:24 +0000"
     },
     {
-      "source": "Madison Local",
-      "headline": "UW-Madison officer reprimanded for student interactions - Wisconsin State Journal",
-      "summary": "UW-Madison officer reprimanded for student interactions Wisconsin State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObG51ZE9FclF5WFpUWk54WlNkV0JGZEN5RmVkWDBiRF85bmpyYmRUTXdMN0xvYU1nbVpyUnE5MGtGSjFGdEkySGV2ZHJLR1JrU3RCdFV2dnk4aHdvWGd0RkJWbkRoQXpuTG1aenlKNWxnY0dfZDJMR25WV3ZmTmNlLXRoNXl1dDVlalZVUkVNbkNJS21hdkhJSU1yUVdFa08wWGww?oc=5",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 14:25:00 GMT"
+      "source": "MarTech",
+      "headline": "What’s next in content operations? Agents (what else?)",
+      "summary": "Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems.",
+      "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
+      "image": "https://www.youtube.com/embed/hhZcMybJTwA",
+      "published": "Wed, 02 Sep 2026 20:47:46 +0000"
     },
     {
-      "source": "Ars Technica",
-      "headline": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-      "published": "Fri, 04 Sep 2026 17:35:02 +0000"
+      "source": "MarTech",
+      "headline": "Marketers are media measurement’s biggest problem",
+      "summary": "Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead.",
+      "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
+      "image": "https://martech.org/wp-content/uploads/2026/09/martech-measurement-800x450.png",
+      "published": "Wed, 02 Sep 2026 12:50:00 +0000"
     }
   ],
   "sections": {
@@ -111,14 +111,6 @@
         "published": "Mon, 07 Sep 2026 11:00:29 GMT"
       },
       {
-        "source": "Isthmus",
-        "headline": "What to do in Madison this week: Sept. 7-10, 2026 - Isthmus | Madison, Wisconsin",
-        "summary": "What to do in Madison this week: Sept. 7-10, 2026 Isthmus | Madison, Wisconsin",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTExnYzJVQTNTREpISU42azNMeHBxdGFqdHBMYXU5bE5uWkxKNXZuT3NaM1RVajFfMEdCcEVzYjQ5YlIxWmZtaWdJdmxaTktQVUhKeld4UzFUOHNRVFlpN21iZk8yOHZSUU1BdG0tWS1VM28?oc=5",
-        "image": "",
-        "published": "Mon, 07 Sep 2026 10:09:35 GMT"
-      },
-      {
         "source": "Madison Local",
         "headline": "Thousands of UW-Madison alumni gather for Badger Huddle ahead of season opener - WBAY",
         "summary": "Thousands of UW-Madison alumni gather for Badger Huddle ahead of season opener WBAY",
@@ -127,12 +119,12 @@
         "published": "Mon, 07 Sep 2026 03:54:00 GMT"
       },
       {
-        "source": "Channel 3000",
-        "headline": "Empty shelves in stores as Kauai residents prepare for Hurricane Lowell - channel3000.com",
-        "summary": "Empty shelves in stores as Kauai residents prepare for Hurricane Lowell channel3000.com",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSTZzVnc0Zk5uM1RubmxianRJR3RBZGZYZktVb1R4Sy1ua1NIUExfRFhQRmtvdmtxUXR0M0RtR2o1cDF6bGlQNTZucWk2ZXNiVFlnT3RpLVA2Q3lhYWpOQUVvQkxXcHZfYUI5OTJjUXR1LUxFaUg4cEdhLUJuOG1KbGhna3VLYkh2NHBVR2RFd0xzRnVMOUV3elh3X3VYYnZGLXRLM2RGOW1TNklCVE5uUEpxWmMtS0ZsbXB1c01yWUVKRDZucjNNOUFaanpvSjNmVndWdTd3Zy12aFpNMlBfMnU3YzZFVFRkXzVPNk5xdlFIZGUzVTRyenVjckhPS2VmOGw3VUFsRC1xQQ?oc=5",
+        "source": "Animals",
+        "headline": "135 more beagles released from Wisconsin research facility - ABC News - Breaking News, Latest News and Videos",
+        "summary": "135 more beagles released from Wisconsin research facility ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnV2LUlTckNjWjVUV25KSFZEWjJXRC1RVndXc1JxOVRIQkhYRXlPUVFzcXhBTnVzZ1hDY3ByUnE5VDg2c2w1T1dsX2Z5UTMxeUppOGRUZ2FnUWdobHAyM1MyR01LX0lxYXVZaEMyMFVLMzJsVncwc3B1QU1fdmhLNDJEVzI3aGRaU3hTUGI0ZzlGUHkt0gGaAUFVX3lxTE0wZng4UVc4OVctMXhUVWRvMHhCZGNrZGNlblV4X1VaY05kMloxMkpVdm1sbkFuVHBvM2dTa2tiZ05UNDFCNFNVT1NCTUJxTjlQVHJpczMtdXUzMkNkbFNNVjRITGc4UlVKcnFPeW5sa0MtMFMtOEw3aGkxVy1xNkwtOWFwS0JseDRWTnR2aW1IN3MwUnd3bjZka3c?oc=5",
         "image": "",
-        "published": "Mon, 07 Sep 2026 10:46:59 GMT"
+        "published": "Mon, 07 Sep 2026 03:27:25 GMT"
       },
       {
         "source": "Channel 3000",
@@ -141,6 +133,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRXNpR2N6NmxXMy1LNnhPYUNITlVTVGMxbU9vRzJGekVMUnV5VkhLYUNXQkphbXhORmt3cGRTZUhzZ193UjlYVEZ4ZXNscndHclZFX2xkOW9CX1NzMzMyVF9VYzFQU0hJSy1yZGxYZTR0anNOTXRTbEd4c1g0ZjhPU3VyemFPbzU1LXJlUnRrcmdlaVhibG9lT1dSNGtnTmR4UEJONlRkTmg1ZnU0LW1oWmJCMVpyaXdlaHdzU1huQllXX2diV1l3bmdzWU5GY005enh4aVVjTkxLZzBDQ1lCb0hkX0lOdUtERU40ZDk1eW5PT2VSWC1BQXpBSjNXQnUyTWFPV0prRkxlNjFNcmtFcEtBaEpDWVhQSV9HN1NDQ1IxNXZkbXlaejEwTQ?oc=5",
         "image": "",
         "published": "Mon, 07 Sep 2026 10:41:59 GMT"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "Why Wisconsin Farmers Should Plan Now for Winter Feed - Madison's Country Q106",
+        "summary": "Why Wisconsin Farmers Should Plan Now for Winter Feed Madison's Country Q106",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGVybmsxWmRtekUzRkFsa1FjekZlaDlISXMxbndEQkVzNzNXNVotNmZHS0JrSTk1a1dZYVFTRzltQTQyUndOYThfZndDTExPUmVBaW11dkY3NGxncUhvSGpneC02Wm1qTl95ZERRckNsVE1UT0Y3OGU1ejU1T1dCYmVlYU01X1Z1bktlUEI4OA?oc=5",
+        "image": "",
+        "published": "Sun, 06 Sep 2026 22:24:47 GMT"
       }
     ],
     "must-know": [
@@ -158,7 +158,7 @@
         "summary": "Far-right Alternative for Germany party wins big in regional election but falls short of majority ABC News - Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVRIZlJBaThOQ1JoZXZ2aWdQLUJraUlzX3hlZTlvdXFsYURvbHhxY0Ftd2FYUU9IVVA1N3Q0aTZaNjBMbm5jSVM4dHVkdjRlVnJEX0ZwU3Q3dmFMcXhrQVlCUTdiaHp5R0JBbWc5UGQ0OWNTRXZEd3Z0eDRzTjFkNnpUZ1kxN3ZfaVRwb2pQdjFPZ01wVDF2cmFFMWVSUllrcFpuRmY1MGdnTmdXb1JmWdIBtgFBVV95cUxQakRyMUx4U3NDQzFUbXdSLVV1ZFZfMkk2c2c1aW5td2hEOXlSbUMxQnI5aXhaa2pEOUdGWWJJWk5wTWRfRXJMNEVlbWlXRjEtNTQzTkR2cjc0NFJ2OUlVYTh4YldRT20tZTZwem9hcVNYb1BzS05ZRlp4eERWTG93T3BtWUFjeWw0QTVMVWNpRldTbXNDdXBlaGVBZHZkcGxMUi1XNmpqWDFJVVcyN1l0YXdVakVzUQ?oc=5",
         "image": "",
-        "published": "Mon, 07 Sep 2026 10:30:00 GMT"
+        "published": "Mon, 07 Sep 2026 10:41:37 GMT"
       },
       {
         "source": "Reuters",
@@ -170,19 +170,19 @@
       },
       {
         "source": "BBC World",
+        "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
+        "published": "Mon, 07 Sep 2026 14:04:01 GMT"
+      },
+      {
+        "source": "BBC World",
         "headline": "Israeli strikes in southern Lebanese village kill 12",
         "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
         "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
         "published": "Mon, 07 Sep 2026 13:39:23 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "Kenya minister warns foreigners against 'misusing' visas to trade",
-        "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-        "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595e/live/2d170d80-aaa4-11f1-9eba-7de947fa7cd1.jpg",
-        "published": "Mon, 07 Sep 2026 13:06:04 GMT"
       },
       {
         "source": "BBC US & Canada",
@@ -194,19 +194,19 @@
       },
       {
         "source": "Reuters",
+        "headline": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint - Reuters",
+        "summary": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1pPNkdJdEFkeWVzaVNnQlh2STA1STItVXpwZWl4VkdwVERRcU9qaHVOOW16VjVibUNTelhMeHd6WXNxQmZRTTU1MU9zRFBXam5pOFJ6MGpqZ1h0QVhpWGM2RnBUbXl3czFndEpkbmxGcDlLUGxpRnQtQkZzbTJfaUVyTUNjTUxVakVJUV9RWDJhazd5cXowS3FMbmxYSzg1dXZBVVRveVN2ZFd1U2lJSnU3MmhuWVhNMy1uVjJpWlQ4RXNqUlFycA?oc=5",
+        "image": "",
+        "published": "Mon, 07 Sep 2026 13:41:28 GMT"
+      },
+      {
+        "source": "Reuters",
         "headline": "Saxony-Anhalt state elections in Magdeburg - The Lufkin Daily News",
         "summary": "Saxony-Anhalt state elections in Magdeburg The Lufkin Daily News",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM3hEUXY3NXNYMXJLNWYtTDJNXy16Tld4Ym5xVGUwdUY1bUJFMHU2Ump1ZFBQWVlkaGZEc2tHT0trcldneHJESHNkZWhFTDI4TXBhM25jUWlTVnBFLUZ4RDZId200MWRTODhwalU4M2lUejR1c3M5dGlkMUlJenJpMG1BMEtJTGlSY0pReXB0ZU0ydTZ3N0w1LTY5dG9HZGtGQVZiNEp5X3U1ZFZyeGkxRHY2VFNudzJqT2lQbWhPOTlQTjZ6V3Qzc0pPQUo4Mk00NHVLZU9jbw?oc=5",
         "image": "",
         "published": "Mon, 07 Sep 2026 11:29:27 GMT"
-      },
-      {
-        "source": "Associated Press",
-        "headline": "German chancellor faces pressure after far-right AfD party wins a landslide in a state election - abc27.com",
-        "summary": "German chancellor faces pressure after far-right AfD party wins a landslide in a state election abc27.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSjl1ZUx4TkJPVEREVUcwcEZOWXZ4a0RpSUc3dWg5TTV4b0pkWEtEekVUX05ENDdCTTRKSjFQTUR0MmJBMklzRlh5N0NCVmRHZHFPZ0tQZkNONlpMZlhNQTNfTllyaFU1QXIxU0s0X2xBYkZXMEN6X0h5T3cxR0tyM0g0eUxTZVVNS2R3Zzl3UXIwbjgyS2piQm5Scnl3bzk5OUhpU0dleTcwUXhPUGViMjNscG9JOTByUWN2QUtKM01RU1UxVWYxWTZvNzB6aW52dGItctIB2gFBVV95cUxOYVVxaEJkQkotQ09xM3FwcGtWcFVhc2FwdUY2YXJsazZfYlZ6TGpHX3d2bkZqMjZzd0tjU3hpUzZGWDVrUEw3YXFHbTh3dG1XZkZ3aXZWZ21hLVhuQ29XdktMMnhtR0Jod3NZQy1WVnBERGZxMTIwQ3hwLUUyaXFhVndoSGRRY3lYYVF3SkNRYl9PLTNVU0laYTJmWTRFVDNxbE9hT096TkJ3dUJfQ0owVkJLdW9Wb1JxcFN3WUVYUmMxWDd5Skx6ZjBoXzJFTHUxUE9FWjJLc1k3Zw?oc=5",
-        "image": "",
-        "published": "Mon, 07 Sep 2026 09:59:53 GMT"
       }
     ],
     "ai-tech": [
@@ -220,7 +220,7 @@
       },
       {
         "source": "BBC Technology",
-        "headline": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+        "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
         "summary": "Open the original source for the full details.",
         "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
@@ -277,6 +277,14 @@
     ],
     "work-marketing": [
       {
+        "source": "Search Engine Land",
+        "headline": "The SEO warning signs before organic traffic falls - Search Engine Land",
+        "summary": "The SEO warning signs before organic traffic falls Search Engine Land",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWtJS3JiSVVCb0pRSm1hNFJZUjVQS09BaDJ6dkdtUTVZTW5QNkJIS1hrTlFrSFI2V0RldmJ2eXZWYWRmY2RDSjJ3QXJORENTTC1HaTN3Q2pERVBGZlJaTWUyWHItMmUxWk83TW9mMzkxZ2ZrSC1FMWNPV09lZXJQZGxveWVqdC1Ia3c?oc=5",
+        "image": "",
+        "published": "Thu, 03 Sep 2026 15:00:00 GMT"
+      },
+      {
         "source": "Customer Data",
         "headline": "The Quiet Rise of Composable Marketing Architecture - MarTech Cube",
         "summary": "The Quiet Rise of Composable Marketing Architecture MarTech Cube",
@@ -294,27 +302,27 @@
       },
       {
         "source": "MarTech",
-        "headline": "Google loses the ad monopoly case, but keeps the monopoly",
-        "summary": "A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them.",
-        "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
-        "image": "https://martech.org/wp-content/uploads/2024/09/google-antitrust-800x450.jpg",
-        "published": "Thu, 03 Sep 2026 14:50:24 +0000"
+        "headline": "Marketing without signals: How to perform when the data disappears",
+        "summary": "Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own.",
+        "url": "https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/",
+        "image": "https://martech.org/wp-content/uploads/2026/08/MIssing-signals-post-event-800x450.png",
+        "published": "Fri, 04 Sep 2026 14:02:44 +0000"
       },
       {
         "source": "MarTech",
-        "headline": "What’s next in content operations? Agents (what else?)",
-        "summary": "Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems.",
-        "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
-        "image": "https://www.youtube.com/embed/hhZcMybJTwA",
-        "published": "Wed, 02 Sep 2026 20:47:46 +0000"
+        "headline": "10 Salesforce Winter ’27 updates marketers need to know",
+        "summary": "From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams.",
+        "url": "https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/",
+        "image": "https://www.youtube.com/embed/6A06YforX5Q",
+        "published": "Fri, 04 Sep 2026 12:53:00 +0000"
       },
       {
         "source": "MarTech",
-        "headline": "Marketers are media measurement’s biggest problem",
-        "summary": "Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead.",
-        "url": "https://martech.org/marketers-are-media-measurements-biggest-problem/",
-        "image": "https://martech.org/wp-content/uploads/2026/09/martech-measurement-800x450.png",
-        "published": "Wed, 02 Sep 2026 12:50:00 +0000"
+        "headline": "The next CDP decision goes beyond the CDP",
+        "summary": "As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live.",
+        "url": "https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/",
+        "image": "https://martech.org/wp-content/uploads/2025/10/confused-marketers-800x450.png",
+        "published": "Fri, 04 Sep 2026 12:04:00 +0000"
       },
       {
         "source": "HubSpot Marketing",
@@ -325,20 +333,12 @@
         "published": "Tue, 01 Sep 2026 12:00:06 GMT"
       },
       {
-        "source": "Marketing Ops",
-        "headline": "iQor Insights iQ Outcomes: What 1.4 Million Calls Actually Prove - CX Today",
-        "summary": "iQor Insights iQ Outcomes: What 1.4 Million Calls Actually Prove CX Today",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PVG5mVHMwQ1daUzZBZ2dpeFJMbVBIdlpZcDRXVUw3VG9MU0FZS0JjQVJpc254OUZKSEV4d3lqNTVTTjhnTmlSUTU4aUR3YUpReFhnY29lTmdOd1ZrajlYTGpKY2M1WDdtRDVodG5iNWx6QXlnaUhYV3pWT1BEZw?oc=5",
+        "source": "B2B Marketing Ops",
+        "headline": "EprofileTech Launches Advanced B2B Data Quality & Verification Architecture to Solve Escalating Sales List Decay - The National Law Review",
+        "summary": "EprofileTech Launches Advanced B2B Data Quality & Verification Architecture to Solve Escalating Sales List Decay The National Law Review",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHhuamxaUzBpbFN4TVRZSy1iVURTV00yWDU0MVdlWm0yZTQ4OVhrNmllaEM4S3NDSXp1MlRDZ3pOYXVsbGRDUW02N29IVHRzaHo3bkw0UTBxYkJZcF8wUTBVb2dmMVF0VTRvWFZxazh5OGNzajVtRHl4bnl2QVkyeFNzaFFmaEd3SE9FY2ZUbEhHSmY3Y0YxZU5ZbkYxRE05X21DUU5zcGRFOVBhZm00VndWQQ?oc=5",
         "image": "",
-        "published": "Sun, 06 Sep 2026 16:34:03 GMT"
-      },
-      {
-        "source": "Salesforce",
-        "headline": "Salesforce (CRM) Q4 2026 Earnings Call Transcript - Fortune",
-        "summary": "Salesforce (CRM) Q4 2026 Earnings Call Transcript Fortune",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdVRiVnNPeTRFeW4zOTNyTHo1OXVnZUhKNWZmWWpaWERpNTg4MEk0RE4wVmJTYlJhaGljUHBPWGs5VDh3UWwwVUJBTzlGUllEbEgxOW9yMGFQa29wZXBWQ2tabGpBSktvcUJjRQ?oc=5",
-        "image": "",
-        "published": "Sat, 05 Sep 2026 14:58:49 GMT"
+        "published": "Fri, 04 Sep 2026 13:59:13 GMT"
       }
     ],
     "wellbeing": [
@@ -352,11 +352,11 @@
       },
       {
         "source": "Associated Press",
-        "headline": "Husband of Tanzania’s president dies while undergoing treatment - AP News",
-        "summary": "Husband of Tanzania’s president dies while undergoing treatment AP News",
+        "headline": "Husband of Tanzania’s president dies while undergoing hospital treatment - AP News",
+        "summary": "Husband of Tanzania’s president dies while undergoing hospital treatment AP News",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRuNS1fMUhPZXFOWmZHTlhTa1lrVktQeGRFMjBNalkzLVdNSG9DVEpYWFR6bm5FcUdINWZ3cmNFVnE0VVFQYnd4Qy0yM2JfQXJjZHRIbjU5R1N5aTVHcUFOODZERGQ4T3R5aWlhYkx6LTI2NUt5cXFDSGNBc3p6Yi1JSjl3VEctb2xvSVNPT0xtMnFZZ1RWcGxWaw?oc=5",
         "image": "",
-        "published": "Mon, 07 Sep 2026 10:19:00 GMT"
+        "published": "Mon, 07 Sep 2026 12:12:00 GMT"
       },
       {
         "source": "BBC Health",
@@ -383,12 +383,20 @@
         "published": "2026-09-07T07:00:00-04:00"
       },
       {
-        "source": "Mental Health",
-        "headline": "Pseudo-professional mechanism of collaborative mental health support in low-resource county-level contexts in China - frontiersin.org",
-        "summary": "Pseudo-professional mechanism of collaborative mental health support in low-resource county-level contexts in China frontiersin.org",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlMmJ5SHFTb3gzSmMyancwbkFXcG9LQ3Budm5fMmFZMHNmWTN4cDhISjNNR0FhYVlNN29HVHFSOTZoQjZqRlVhd1N2U3BpV0VxN05rRW9CeVplcUw5OVNJbVpXUWZUWHZqbnZtOGtRY0g?oc=5",
+        "source": "ScienceDaily Mind & Brain",
+        "headline": "A longer exhale may push your brain toward bolder decisions",
+        "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
         "image": "",
-        "published": "Mon, 07 Sep 2026 08:35:41 GMT"
+        "published": "Fri, 04 Sep 2026 07:33:12 EDT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "Transplanted pig kidney works in US man's body for record 271 days",
+        "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg",
+        "published": "Thu, 03 Sep 2026 22:31:23 GMT"
       },
       {
         "source": "BBC Health",
@@ -397,14 +405,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8147/live/bbd91c60-a77b-11f1-b109-879e35c24276.jpg",
         "published": "Thu, 03 Sep 2026 00:41:27 GMT"
-      },
-      {
-        "source": "ScienceDaily Mind & Brain",
-        "headline": "Popular brain supplement linked to shorter lifespan in men",
-        "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for…",
-        "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-        "image": "",
-        "published": "Sun, 06 Sep 2026 17:21:25 EDT"
       }
     ],
     "entertainment": [
@@ -417,20 +417,28 @@
         "published": "Mon, 07 Sep 2026 11:30:27 GMT"
       },
       {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift and Travis Kelce’s $5.3M Mansion Is Reportedly This Tiny Village’s Most Expensive Home Ever Sold - instyle.com",
+        "summary": "Taylor Swift and Travis Kelce’s $5.3M Mansion Is Reportedly This Tiny Village’s Most Expensive Home Ever Sold instyle.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEotV21GREhiWjB6OEJqQm1nenlwUUNRTC1yU2M0YjhBazdfT3VfM3ducFUzeTlBWVhHTmYwUFR2U0ZKa2ZWYy1ORzNUeUlBcFlJWGhHWm5iQ3lDTTdmQ2RWY0xGRzdodlFLU1YwYTV5TFcwZ3BiT1BtQVdSLVM1YWNXXzJ0TVRRdEU2Q3BPbzVaTjVxbGc?oc=5",
+        "image": "",
+        "published": "Fri, 04 Sep 2026 16:28:01 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "BBC News Anchor Maryam Moshiri Reveals Blood Cancer Diagnosis",
+        "summary": "BBC News anchor Maryam Moshiri has revealed she has been diagnosed with incurable blood cancer. The anchor, who joined the BBC in 2003, has covered events ranging from the Pope’s funeral to the Iran war since being diagnosed with Polycythaemia vera (PV) two years ago. Moshiri went public with her diagnosis Monday in an interview",
+        "url": "https://variety.com/2026/tv/global/bbc-news-maryam-moshiri-blood-cancer-1236854086/",
+        "image": "https://variety.com/wp-content/uploads/2026/09/Maryam-Moshiri-.jpg",
+        "published": "Mon, 07 Sep 2026 14:42:43 +0000"
+      },
+      {
         "source": "Variety",
         "headline": "Belgian Royalty Series ‘King of Hearts’ Secures Key VRT Backing (EXCLUSIVE)",
         "summary": "Enterprising Flemish broadcaster VRT has boarded the historical coming-of-age drama series ‘King of Hearts’ from Giles Coulier, whose company, De Wereldvrede, is behind such hits as 2019 series “War of the Worlds” and Prix Europa winner, “Albatros.” As continental royalty series hit ratins and sales – think “Maxima” – “King of Hearts,” currently in development,",
         "url": "https://variety.com/2026/film/global/flemish-broadcaster-vrt-historical-series-king-of-hearts-1236852181/",
         "image": "https://variety.com/wp-content/uploads/2026/09/KOH_Iberseries-image.jpg",
         "published": "Mon, 07 Sep 2026 11:46:41 +0000"
-      },
-      {
-        "source": "Variety",
-        "headline": "‘SNL U.K.’ Adds Freddie Meredith to Cast",
-        "summary": "“Saturday Night Live U.K.” has added a new castmember for its second season with Freddie Meredith joining the gang. The comedian has previously starred in “Such Brave Girls” and “Big Boys.” Meredith, who recently won an award for best newcomer at the Edinburgh Fringe for his show “Need a Light?”, joins returning castmembers Hammed Animashaun,",
-        "url": "https://variety.com/2026/tv/global/snl-uk-freddie-meredith-adds-cast-1236853962/",
-        "image": "https://variety.com/wp-content/uploads/2026/09/Freddie-Meredith-SNL-UK.jpg",
-        "published": "Mon, 07 Sep 2026 10:50:57 +0000"
       },
       {
         "source": "BBC Entertainment",
@@ -450,11 +458,11 @@
       },
       {
         "source": "Taylor Alert",
-        "headline": "Brazil Introduces “Taylor Swift Law” Three Years After Fan Died of Extreme Heat at Singer’s Concert - Consequence of Sound",
-        "summary": "Brazil Introduces “Taylor Swift Law” Three Years After Fan Died of Extreme Heat at Singer’s Concert Consequence of Sound",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ybXpnekhwYU5WWVZ5Ums4eEkzTHBnb3lhNjMzQU9EUVpwbnI2QWFENEpYTTVEc0Jha3QtQWpZaU9NZzE4U2FDMXNIR0g4cXpHZE03VTloTnVXemtrSlh1dzdVUFhaTV9MclVSeFpuOS1YMWwteEE?oc=5",
+        "headline": "Taylor Swift expands real estate portfolio with Kelce home purchase - NewsNation",
+        "summary": "Taylor Swift expands real estate portfolio with Kelce home purchase NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXFLQU1VMGVVbnlCMENPVGpPWUJvbEVBaVZFbGxlTlBjTjc3MGxFRWVELTMxb0U2cno5c04tNkRHTE9fVW1tYmx5QnhpLUF4MUc2XzdFMklIWE13eGUzbHZEcU80VmRUc281Xzd5MnhDZVMwX3VOVV9ZdVRVMDROWG9NSHpsYkl1U2dJVEt2T185V1NoVE5wWXY0cE5OUU1MLUVHeEM4VTcxZ9IBrwFBVV95cUxOSlB1UjNhVnVWdWRsOXhLSzdQemRINFhXYjZ6QjJWRDRKMFZMekVUSlZVTWhvSHNCR0Vob1cyN2tYNXVZVk0xQlRrVmlGbTZBeVJNQVpRSTgyaFdWYk5fZG5xWW1nZWN1YklNaWVad2tJSDZETkd1NXVpUmdIWExKNDFkS1F4c216RjhRZXRDQWNOd2NkbTNRQ2cteTY4bVZMYWdUYlBQaTIydXE1S1A0?oc=5",
         "image": "",
-        "published": "Wed, 02 Sep 2026 14:00:45 GMT"
+        "published": "Mon, 07 Sep 2026 12:56:46 GMT"
       },
       {
         "source": "Taylor Fashion",
@@ -463,14 +471,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTA2Y0dfVldtWENVZ1dIU0ZOaUx2Mlp5UENJY1RZTk83ZFZWUkpOLTI4dktHTFdjeExMUG11VTE3bjVnZjFIcjRJTjVMYW81ZkI0dTFFZDVtcjBvZmo5QThGYU9ZTUVDUkJja1NHRXVQdXNFYVJ0Q1VPeU9hNjhSdm5pZnJUazhHSmc?oc=5",
         "image": "",
         "published": "Wed, 02 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "source": "Taylor Fashion",
-        "headline": "Travis Kelce and Taylor Swift's Adorable New Dog Makes Debut in Ad - Billboard",
-        "summary": "Travis Kelce and Taylor Swift's Adorable New Dog Makes Debut in Ad Billboard",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMl9Tc3hmVXhUX1M1MjRsWFJNdTNHME9wZ1IwbGlSNFNIQkpRTzd5b256X2RPNXktcXpxajY2YXdBaEhqaFdxdk1BY1lGRFYtMGlXdUJaYjQ4WU5ZSFhZQ0hSRXozcGRKdkZTOElHbnR5TDRXSlpPQkpPX3phLTEzZUR2R3dhYzFfd3ExVlBnajlFTmVNOU54Z0FidmoxVWVxaW9fUkRfOFpCWlN6X0lsY0daTkc?oc=5",
-        "image": "",
-        "published": "Tue, 01 Sep 2026 12:36:09 GMT"
       }
     ],
     "animals": [
@@ -491,6 +491,38 @@
         "published": "Mon, 07 Sep 2026 05:12:34 GMT"
       },
       {
+        "source": "Channel 3000",
+        "headline": "Man describes animal attack caught in viral video - channel3000.com",
+        "summary": "Man describes animal attack caught in viral video channel3000.com",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMmdLaXN0UUJSZFFIb0FOb0VqdHY4UnRCWUhuOGVNcTcyNGsxQW8tTVpEVUxGRm45aDMzc1ZFU1pWVmt4Z2NhSlpWbkg0LU1MRVpka2h4R0FyOW5IZnVXa0JnbHJjLWxXSnVIT0xXWkx5YkhDVUk3Vkw1eTRQcC1aSHBRZ29HbXhPZi05T0I3M0hHeXNueGNGLWhGZnlhdWJNbGluOXBDTGlyeEdvUlpsRUIwMEJfeHBtaXZseWp4NXc2S3AxTE9oY0ZTM2tLbDNBWVk0SG5aM1J3Ylh4U25mWGg1M3dqVDI3UVhKSw?oc=5",
+        "image": "",
+        "published": "Mon, 07 Sep 2026 14:07:04 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "Animal Microchip Transponders Market 7.9% CAGR to 2035 on Mandatory Livestock ID - News and Statistics - IndexBox",
+        "summary": "Animal Microchip Transponders Market 7.9% CAGR to 2035 on Mandatory Livestock ID - News and Statistics IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzk1UXNiOUFPdkl4WGhEdEJlcDlOeG1lNHg4LVN6WXhNWTNIOUZ6emU4eTRxN1JJa0lvOTRKZE5HeFpjVkt2S0RaWlV4b3hlUjZ5YXdMSV9pNzhvbUZlb3dNUXBzckxsRzA3ZW5WcnFwNW42V1FGWmZlTjRGWmV6SldtdUEzRDVaNGdENXk5anA3bmlROThOcWdvek56aXVVLVZSeHVHNVZMdDNfQ2pnVzRTRVVWR1U?oc=5",
+        "image": "",
+        "published": "Mon, 07 Sep 2026 12:36:21 GMT"
+      },
+      {
+        "source": "BBC Science",
+        "headline": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+        "summary": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+        "url": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg",
+        "published": "Fri, 04 Sep 2026 05:13:54 GMT"
+      },
+      {
+        "source": "BBC Science",
+        "headline": "From 'dog fruit' to darling: India's avocado boom",
+        "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg",
+        "published": "Fri, 04 Sep 2026 05:09:02 GMT"
+      },
+      {
         "source": "Audubon",
         "headline": "Where Birds Are Showing the Way - National Audubon Society",
         "summary": "Where Birds Are Showing the Way National Audubon Society",
@@ -505,38 +537,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObS1CdlFQeVNiNlMzRy01RjUwLXNseEpJaTRxN2NUT2dqbUxBM2tUNmpKcmtUUk1WU1l1UEhNZEY2SUFscGc4YWhGWGhvMUVYajZHTXBocmkweGRZTDRLVndtc1NJRGxVOER4b1N2Z013RXBOOG1VS3ozekI0UTc3cjhRZG9TelNIZWNKbHF2TDN5V0l4Zkp1R3ozeFlORjVobmZ5M3Z6RTVEZ9IBrwFBVV95cUxNXzhaY29jQ1RpWkRKUnlmRG9OajdCSm1ETno2dERQTnBLNnZtaFJ0YnlDWGdsYkVXYXJDMExUcXlFZXdPRVd0aGtQanltdU9SS3BoZEw2ak5sOTVUcEhQczB1Mk9hbC0zYWw3STJ5ODFSUE1SWUY2UWIzRnFlRGNJVVZCREkzR3hUeUZnM0VTRzN3WHIzcU0tYVMxRDNLdmdfVHRyTmh1ZlZkaE4xM1Fn?oc=5",
         "image": "",
         "published": "Sun, 06 Sep 2026 12:50:20 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "Montana State supports wildlife conservation through multi-year partnership with ZooMontana - Montana State University",
-        "summary": "Montana State supports wildlife conservation through multi-year partnership with ZooMontana Montana State University",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWd4YWtmNE5rTDBZOFUzbUFqVlpUNWF1VnVFUU5aVTBsZHpuOC0xUmVPVDB5d0pnN2l5YlVJQ1F5Z1ZzWVlOalRPcG14a21aQ1FFaDBONUVOY1BuemFiUjdheW40ZXE5NGlPaHlSXy1qRWRQai1OMFpadDY2WWFrRWN1aFl0Vnl5U0o4YkFNR1pJS2JBQWdscGg2OHZxWVFmQWRUVUMwcmlaRGNjZEo4R0puYWJWQllBTVdtaWdWV0FTbHlX?oc=5",
-        "image": "",
-        "published": "Sun, 06 Sep 2026 07:45:19 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "Colombia quake survivor says dog woke her seconds before bedroom wall crashed onto bed - The Cool Down",
-        "summary": "Colombia quake survivor says dog woke her seconds before bedroom wall crashed onto bed The Cool Down",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeS0wZDJXU0pGeWdSNTJ0ZXlqUENoZzU2ZjZVZU1GY3hxTWJmNy1fb3FlSHlRT0Q1OWxMYU91UGl2RlFxTXZ1bWJmUDV5Mmw1c2UzaThMXzdyS2hFT090UGF6bzVtNEVlTmVDOVBLZHZzdExpV2w2cWRTOFdNcFZUcm5PdmhxTHcyNHB3bWxpdlg?oc=5",
-        "image": "",
-        "published": "Sat, 05 Sep 2026 06:37:00 GMT"
-      },
-      {
-        "source": "Mongabay",
-        "headline": "Key tree species boost Amazon forest restoration, new study shows - news - Mongabay",
-        "summary": "Key tree species boost Amazon forest restoration, new study shows news - Mongabay",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEtreGtJUU9mY3NyTVdNUHNXR19VRTJ2bWo2LU1GdDJYZF9maHliQzE2QVZUTTVWWnpfS1UyWTdJNGdxczVJRVpRTjU0NE1mNFdGdXBtdzBCcXVjbmt5LXFJUXlOY2pqQ1JpQ0ZLVXFET21KbWZxZk1DVkxZYmhPcDhqeDE2TmJfSC1qVG83MjRMUVVXR192OWozN2xiTzY30gGmAUFVX3lxTE4wWENTRlRKcUpqbExDMlN6XzdjcV9jUTVuNkU1ZTUzbmF5Z3A5THU4S0FBdWpoTzc4N2hySHpFeE44RTdHUC1OS2tkZ3JjNEtkOHhaVTlSdEhuUU53dHROM0JSWklDUjN4UEtzRjViZTFRWXg4TG1HeG1sN2Y0QWVPMVdhekpJMWJ3LXJWYVN0UFZYYlJIdHBsSU5IRVU2NEhIQXRMQ1E?oc=5",
-        "image": "",
-        "published": "Thu, 03 Sep 2026 18:59:07 GMT"
-      },
-      {
-        "source": "Mongabay",
-        "headline": "From seizure to sentence: Weak prosecution leaves tigers vulnerable to trafficking in Southeast Asia: Report - news - Mongabay",
-        "summary": "From seizure to sentence: Weak prosecution leaves tigers vulnerable to trafficking in Southeast Asia: Report news - Mongabay",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkt0SlczaW01Qi00ek5UU3oxWllzUWNXQzJrZXY4OVh6c09NZ0JpUUYwU216c1N2Rnpnay0wZ3F2R0xYQ0hudVNmaE1ZYmdia3JadkJrNW95NFliWDUtLTFIOGFhNlZKT2VUSnE0ZzRZMm1Fa3BCZ3EtSC1MOHVSUVd5MXY2UkJhWmZzVGE1U1VieVdjS0N3NG5zUGt6bFFQMGM3T1RoN0VBTUxKUHpxX3ZSTndCVjdxbVFlNEVtZVI2M2xuSnA5djRmX0RiTmJjcmluVjROdnnSAd4BQVVfeXFMTU9Kby1aTTNWSkowUXJfNlJTT0pkTU1YbE93Sm1oZnYxSDUtRUxEamU2dDBqMHFKU3Aya3VIS3VjV1hybEtZQWhxOElEM1pKelp3ZzRvSTV2TDJ2MGFESFA0dDR3eWRPekZGRzNqZzI1Sjk3TTI3NHpfbDJha3ZaSDM2V2pLaEJJQTc5bWdOTFNxUmNOeTV1M0E0ZWJEcl9QSGdpTkdIY0RKT1lHeWpNR09tUnctQzZWTzI2Q3JVSlZyR2tHQlJENlVibHFJTlVEOGFyZ1lkZWw5djVQcXdB?oc=5",
-        "image": "",
-        "published": "Thu, 03 Sep 2026 13:17:29 GMT"
       }
     ],
     "wonderful": [
@@ -550,19 +550,19 @@
       },
       {
         "source": "Good News Network",
+        "headline": "A Terrier Rescued After Spending 2 Days Underground Lost in a Badger Warren",
+        "summary": "A very English story of peril and rescue comes to us now from Nottinghamshire, where a man’s terrier was stuck underground for 2 days after getting lost in a badger warren. Cello is a 6-year-old parson Russell terrier, and he was out walking with his owner Stephen Smith, the BBC reports, when he decided, as",
+        "url": "https://www.goodnewsnetwork.org/a-terrier-rescued-after-spending-2-days-underground-lost-in-a-badger-warren/",
+        "image": "",
+        "published": "Fri, 04 Sep 2026 13:00:44 +0000"
+      },
+      {
+        "source": "Good News Network",
         "headline": "Fitted with a Berlin Heart, Little Macs Is ‘Absolutely Thriving’ While He Waits for a Heart Transplant",
         "summary": "From the UK comes the story of a baby called Macs, who seemed poised for final-stage heart failure, but who has been saved by a device called a Berlin Heart. The only device of its kind available for babies and children with severe heart failure, the Berlin Heart takes over pumping of the heart while",
         "url": "https://www.goodnewsnetwork.org/fitted-with-a-berlin-heart-little-macs-is-absolutely-thriving-while-he-waits-for-a-heart-transplant/",
         "image": "",
         "published": "Mon, 07 Sep 2026 13:00:58 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "Chance Encounter Between 2 Indiana Graduates Rescues Former College Ball Star from Homelessness",
-        "summary": "See that red backpack there? Sampson James used it to carry around his meager possessions during a stint of homelessness. Little did James know at the time this photo was taken, however, that it was also carrying around his salvation. This remarkable story of fraternity—philosophical and literal—comes from Steve Hartman’s “On the Road” segment at",
-        "url": "https://www.goodnewsnetwork.org/chance-encounter-between-2-indiana-graduates-rescues-former-college-ball-star-from-homelessness/",
-        "image": "",
-        "published": "Mon, 07 Sep 2026 11:00:20 +0000"
       },
       {
         "source": "Positive News",
