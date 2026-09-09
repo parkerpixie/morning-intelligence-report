@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-08.json",
-  "report_date": "2026-09-08",
-  "generated_at": "2026-09-08T15:09:23.979428+00:00",
-  "edition_count": 55,
+  "latest": "data/archive/2026-09-09.json",
+  "report_date": "2026-09-09",
+  "generated_at": "2026-09-09T11:29:36.686633+00:00",
+  "edition_count": 56,
   "editions": [
+    {
+      "report_date": "2026-09-09",
+      "generated_at": "2026-09-09T11:29:36.686633+00:00",
+      "path": "data/archive/2026-09-09.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Absentee ballots on their way to Wisconsin voters, as Supreme Court considers Trump’s restrictions",
+        "summary": "Absentee ballots are on their way to some Wisconsin voters, even as President Donald Trump’s executive order on mail-in voting is in the courts.",
+        "url": "https://www.wpr.org/news/absentee-voting-latest-trump-order-injunction-wisconsin-madison",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-08",
       "generated_at": "2026-09-08T15:09:23.979428+00:00",
