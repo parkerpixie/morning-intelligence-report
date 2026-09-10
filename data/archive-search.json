@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T13:39:37.714592+00:00",
+  "generated_at": "2026-09-10T15:01:57.231782+00:00",
   "edition_count": 57,
-  "story_count": 3507,
+  "story_count": 3506,
   "stories": [
     {
       "id": "73e589752a20b2d1",
@@ -27,8 +27,8 @@
     {
       "id": "72525c77e4558ac5",
       "source": "Customer Data",
-      "headline": "Your marketing agent is working. Can you see what informs its recommendations? - martech.org",
-      "summary": "Your marketing agent is working. Can you see what informs its recommendations? martech.org",
+      "headline": "Your marketing agent is working. Can you see what informs its recommendations? - MarTech",
+      "summary": "Your marketing agent is working. Can you see what informs its recommendations? MarTech",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3pVajIwYWZ3MmdnYmNoZVBETGxkb0xvdzAyTzk0eUhoZk9LZnRxd3JpbTdZOEJKMmdHTTRwdFRFaUpuc3BxdzNsUFNFQUM1WHlxdjhzYjB3ekpDMnNxVDVqdG5LX19XZGFQVDA0STYtRGN1Y3BZMlJTLWlpVE5GYVpOVXJwcUhxY1VSSTNjTkpBcnZZY2pjMERuaTRNdw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3pVajIwYWZ3MmdnYmNoZVBETGxkb0xvdzAyTzk0eUhoZk9LZnRxd3JpbTdZOEJKMmdHTTRwdFRFaUpuc3BxdzNsUFNFQUM1WHlxdjhzYjB3ekpDMnNxVDVqdG5LX19XZGFQVDA0STYtRGN1Y3BZMlJTLWlpVE5GYVpOVXJwcUhxY1VSSTNjTkpBcnZZY2pjMERuaTRNdw",
       "image": "",
@@ -83,6 +83,25 @@
       "appearances": 2
     },
     {
+      "id": "81e9f498894332a8",
+      "source": "The Verge",
+      "headline": "Why the current tech backlash feels different",
+      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is",
+      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "canonical_url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "image": "",
+      "published": "2026-09-10T10:00:00-04:00",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
       "id": "892fa2e0c518bf31",
       "source": "BBC World",
       "headline": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -102,25 +121,6 @@
       "appearances": 1
     },
     {
-      "id": "b86ba02d2afa9f26",
-      "source": "The Verge",
-      "headline": "Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI",
-      "summary": "Today, Volvo said it was canceling the entry-level electric EX40 in the US, while also giving its aging hybrid XC40 a new look. When it arrives at dealerships early next year, the new XC40 will have updated exterior styling, a gut-renovated interior featuring Google's Gemini AI assistant, enlarged infotainment screen, and a new sensor-and-software safety",
-      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "canonical_url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "image": "",
-      "published": "2026-09-10T03:00:00-04:00",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
       "id": "80328dbc25e4ab90",
       "source": "Wisconsin Public Radio",
       "headline": "Van Orden focuses on healthcare, Trump at Republican midterm convention in Texas",
@@ -131,6 +131,25 @@
       "published": "Thu, 10 Sep 2026 10:00:00 +0000",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "32a2a96e3acc9645",
+      "source": "Associated Press",
+      "headline": "US Supreme Court throws out Missouri congressional maps backed by President Donald Trump - KMOV",
+      "summary": "US Supreme Court throws out Missouri congressional maps backed by President Donald Trump KMOV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUFIS1VoQXRQOTF6UVhOSkZLemw5RnhBc0I0Vjl5R2NBRWRBN2k4MjQ3cGJ4aHpuUnljcUxER1FDV0pvdlRUd3R5SndHVHJ2LVYwWjRUZVBjTjY5Nl9Ga1FSSU1zX2doRlZGMzBIeUt6d2RtSTY2VHdPRlducVk4RVlLZ1l0MTNfekNuY182X01ZZ09GVjFMeWEtUXNlYmNIY00wbzRYOGFva0tON0RnQTZXVVBXLWxCaE90V1M1S2U3YUdUb0FV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUFIS1VoQXRQOTF6UVhOSkZLemw5RnhBc0I0Vjl5R2NBRWRBN2k4MjQ3cGJ4aHpuUnljcUxER1FDV0pvdlRUd3R5SndHVHJ2LVYwWjRUZVBjTjY5Nl9Ga1FSSU1zX2doRlZGMzBIeUt6d2RtSTY2VHdPRlducVk4RVlLZ1l0MTNfekNuY182X01ZZ09GVjFMeWEtUXNlYmNIY00wbzRYOGFva0tON0RnQTZXVVBXLWxCaE90V1M1S2U3YUdUb0FV",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 14:32:00 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-09-10"
@@ -178,16 +197,16 @@
       "appearances": 1
     },
     {
-      "id": "e685305529325373",
-      "source": "NPR",
-      "headline": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-      "summary": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk's death.",
-      "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-      "canonical_url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 07:27:14 -0400",
+      "id": "ff4634808ad909c3",
+      "source": "Variety",
+      "headline": "Toronto Platform Pick ‘Angh,’ With ‘Shetland’ Star Douglas Henshall, Boards Jungle Book Studio for World Sales, Unveils Clip (EXCLUSIVE)",
+      "summary": "Jungle Book Studio has taken international sales rights to “Angh,” the debut feature from Nagaland filmmaker Theja Rio. The film is world premiering at the Toronto Film Festival. The film is the sole Indian entry in TIFF’s Platform competition. Set in the remote hills of Nagaland in the early 1960s, it centers on a Konyak",
+      "url": "https://variety.com/2026/film/festivals/angh-douglas-henshall-jungle-book-studio-toronto-platform-1236855800/",
+      "canonical_url": "https://variety.com/2026/film/festivals/angh-douglas-henshall-jungle-book-studio-toronto-platform-1236855800",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Angh1.jpg",
+      "published": "Thu, 10 Sep 2026 14:00:00 +0000",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-10"
@@ -242,7 +261,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2JCYjl4bFJaWmotNXFGOHpKMkx3VjA0eTM3S1oxVFYwcVMtdE1QVTE0Wk5Kc3RhTVI0SW1wQlVpY2VsM25NWC00QS0wUWsyWHRDaW41QjNTblZMbEFCakZ6bTFKOXM3R1ZfUllqYmxPcV9ueEhJc3ZnVkZRQjZ0WGI2SjBPS0puTDhNWllWT2xQRWgzM01R?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2JCYjl4bFJaWmotNXFGOHpKMkx3VjA0eTM3S1oxVFYwcVMtdE1QVTE0Wk5Kc3RhTVI0SW1wQlVpY2VsM25NWC00QS0wUWsyWHRDaW41QjNTblZMbEFCakZ6bTFKOXM3R1ZfUllqYmxPcV9ueEhJc3ZnVkZRQjZ0WGI2SjBPS0puTDhNWllWT2xQRWgzM01R",
       "image": "",
-      "published": "Thu, 10 Sep 2026 11:03:48 GMT",
+      "published": "Thu, 10 Sep 2026 14:37:30 GMT",
       "sections": [
         "animals"
       ],
@@ -275,16 +294,54 @@
       "appearances": 3
     },
     {
-      "id": "17be22a318c41df2",
-      "source": "Associated Press",
-      "headline": "The Latest: Trump makes dubious pledge to give every US adult $5,000 if GOP wins midterm elections - mypanhandle.com",
-      "summary": "The Latest: Trump makes dubious pledge to give every US adult $5,000 if GOP wins midterm elections mypanhandle.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjZNSVFGbTBNdld6NHFWbGNHcjBmRU5oZV8tVDQ3dGNRM3ZFRjVhQnFvRDctVkthdGgyZWcyVkZWQXZOcUdfanBiYXdpNTBGZVF0Y2MyZUlHMjR1dzY1cVNKWjNaMVNKYlluOV83THhmRUFWR3k2M1BWM3ZZRnNrWGllNzc4WVdtTzJZcmliZ05uRlVURUJKYnRNWVN3c3hvRlVyNHo5OVJxNFUyVllGZkVsQXhXRk1HZU1FWEJKc1o0bVZjZFMwWE9nelbSAdIBQVVfeXFMTjB5Z1ZMelRoQUVCWUZDcVlFT3lmQUN2Y3FUNXhJcjkwckhxcnZaVzFHZjlLM1c2X3FLbjBkQUpWcmF2amtiT285T2xuNXFmczMwT3FKMks1akw3S2pYcDdtNW9vS3hVOTJWeXhhVkZ2N0x3ZzNUMTVRTUtYcHRkUG0yMTU4WWMxdXR0NU9TcUk1LXhYZGFMRVhoY3hDY2RPdjI5TzJ4ZVBYZWFuOGNnWDIwbVd1MF9DSDRrVnplYmRTQy15VURKWE5Tekp5TXc2QkZ3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjZNSVFGbTBNdld6NHFWbGNHcjBmRU5oZV8tVDQ3dGNRM3ZFRjVhQnFvRDctVkthdGgyZWcyVkZWQXZOcUdfanBiYXdpNTBGZVF0Y2MyZUlHMjR1dzY1cVNKWjNaMVNKYlluOV83THhmRUFWR3k2M1BWM3ZZRnNrWGllNzc4WVdtTzJZcmliZ05uRlVURUJKYnRNWVN3c3hvRlVyNHo5OVJxNFUyVllGZkVsQXhXRk1HZU1FWEJKc1o0bVZjZFMwWE9nelbSAdIBQVVfeXFMTjB5Z1ZMelRoQUVCWUZDcVlFT3lmQUN2Y3FUNXhJcjkwckhxcnZaVzFHZjlLM1c2X3FLbjBkQUpWcmF2amtiT285T2xuNXFmczMwT3FKMks1akw3S2pYcDdtNW9vS3hVOTJWeXhhVkZ2N0x3ZzNUMTVRTUtYcHRkUG0yMTU4WWMxdXR0NU9TcUk1LXhYZGFMRVhoY3hDY2RPdjI5TzJ4ZVBYZWFuOGNnWDIwbVd1MF9DSDRrVnplYmRTQy15VURKWE5Tekp5TXc2QkZ3",
+      "id": "78995871e84f66f4",
+      "source": "The Verge",
+      "headline": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
+      "summary": "With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with a level of software polish that makes a lot of them feel new again. It's those software flourishes that have me excited",
+      "url": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
+      "canonical_url": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
       "image": "",
-      "published": "Thu, 10 Sep 2026 12:16:27 GMT",
+      "published": "2026-09-10T10:21:38-04:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "93aad02eed4a3d6e",
+      "source": "Reuters",
+      "headline": "The evangelical Supreme Court justice shaping Brazil’s election - Reuters",
+      "summary": "The evangelical Supreme Court justice shaping Brazil’s election Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2VCYVFXdFVHR0dtOGg0TDBFZkxfc1FFSzd6T0xXNGxPMEV3aXFDaDl5bmNJbjc4VmU5N0VGakhGaFNOQXdqS0NFOUsyb3pNdWQtMzVxbmI5VVJPNUFzS04tRWVkS2dCdzk1VGtGZ3hiRkVZc2YzTEdIYnlJWGgzdllQOFNiOGstUFRibkZBaWp2VTdDS01scmx1OTlVcHgzWFI3LTBCZ1ZaOXVsUFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2VCYVFXdFVHR0dtOGg0TDBFZkxfc1FFSzd6T0xXNGxPMEV3aXFDaDl5bmNJbjc4VmU5N0VGakhGaFNOQXdqS0NFOUsyb3pNdWQtMzVxbmI5VVJPNUFzS04tRWVkS2dCdzk1VGtGZ3hiRkVZc2YzTEdIYnlJWGgzdllQOFNiOGstUFRibkZBaWp2VTdDS01scmx1OTlVcHgzWFI3LTBCZ1ZaOXVsUFE",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 12:33:43 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "7aff7cf439ac4b23",
+      "source": "Customer Data",
+      "headline": "The answer to your martech problem depends on the problem - MarTech",
+      "summary": "The answer to your martech problem depends on the problem MarTech",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXVEQ0ZvN2RaNkRCNTFYS3FhZkRwV1ZWYk52THkxTGxmeTlTN0NTQmpndlVnLTg5QmhOMDNuelFSQzhVLXJrUmlxZkU0OUY5eDBCM2MtbnBlUlZFLUxDNWZ0OXc3am94Nmk2bGljZnRxNy0wMFBMYjdGeVhXUWpOWnNkcUM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXVEQ0ZvN2RaNkRCNTFYS3FhZkRwV1ZWYk52THkxTGxmeTlTN0NTQmpndlVnLTg5QmhOMDNuelFSQzhVLXJrUmlxZkU0OUY5eDBCM2MtbnBlUlZFLUxDNWZ0OXc3am94Nmk2bGljZnRxNy0wMFBMYjdGeVhXUWpOWnNkcUM",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 13:43:03 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -370,16 +427,16 @@
       "appearances": 1
     },
     {
-      "id": "f39b22a6fe951392",
-      "source": "BBC World",
-      "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+      "id": "6e35437a7be99aad",
+      "source": "Madison Local",
+      "headline": "Report: Madison-based 115th Fighter Wing to deploy to Middle East - Wisconsin State Journal",
+      "summary": "Report: Madison-based 115th Fighter Wing to deploy to Middle East Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHMxZG1GSDZUbW9oWlZFQ2xKMUxZLXY5RDVGaXBRSHFxUnJTc29CZDU2THlNcC1XaFJYaGFzSF84MDJaUU9IUjhkenBaTjJIY1RlUjhfMDRrVmlHM0JHZlBhOHVxWjJUejJIN1dDNFk3djFFYUY4UFFhUTRUbFNyOE9CUGk3dDg3SGRmOFlYMnlaRU5FenczUnVRWVhVUGJwVXlGbGlkZWNmUkdaZWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHMxZG1GSDZUbW9oWlZFQ2xKMUxZLXY5RDVGaXBRSHFxUnJTc29CZDU2THlNcC1XaFJYaGFzSF84MDJaUU9IUjhkenBaTjJIY1RlUjhfMDRrVmlHM0JHZlBhOHVxWjJUejJIN1dDNFk3djFFYUY4UFFhUTRUbFNyOE9CUGk3dDg3SGRmOFlYMnlaRU5FenczUnVRWVhVUGJwVXlGbGlkZWNmUkdaZWc",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 12:00:00 GMT",
       "sections": [
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
         "2026-09-10"
@@ -391,14 +448,14 @@
     {
       "id": "a02ad8d7b1911ae8",
       "source": "Associated Press",
-      "headline": "President Trump promises $5K payouts if Republicans keep control of Congress - FOX 8 News",
-      "summary": "President Trump promises $5K payouts if Republicans keep control of Congress FOX 8 News",
+      "headline": "President Trump promises $5K payouts if Republicans keep control of Congress - fox8.com",
+      "summary": "President Trump promises $5K payouts if Republicans keep control of Congress fox8.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWgzYmRWOWRTbElKUWVOaTNWWGpibzNBbGEtOUtoenJpLWtMbzNFR1NuQnlEbzdtMjFnb0Zva0E5aXlKaFRTbFpYenlqNlNEaGdtMWZFWXhDWndhVmNGV1d0TnoxOFVJclQyNHRBYVZQS0JKaDkyU3J6R0R0UVdWZ3NxT2M4WXRpTW9Bc3Bac1NIWmU5MlJFcnB3Vm5sSGVoU283Nm1QNXRfWlhRQThhSDJPU256VlU3OWNrNHVaek1pa3hWUl91OGVpZ2w4dWpIRWhaT9IB2gFBVV95cUxNb0NUS1doeGE4cG5XZXF0VWZfczhoM1JJbkwwQ2NqOU5tWUtZWTNMQmJhTlpIZUl3S19ZU2hDNmQxeDdaQnAzb24xSTRYcWRtTWJuRUxMdnZyU2gwdjg4MFhvRERyU1BmeFNwYWkwS3dhbVdRc0hlZXBfUFFwcURqTkxTN3NWN21GSlBLOExBTW1QbkQyc0MtYmY5d1MxcVh6MV9iYmtfWE95N0pDeThMYU4zWTQ0RlNITnRjVnA5S0VtOTJKSTNWVXplSjNFa0FzSHoySFVzaHM4Zw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWgzYmRWOWRTbElKUWVOaTNWWGpibzNBbGEtOUtoenJpLWtMbzNFR1NuQnlEbzdtMjFnb0Zva0E5aXlKaFRTbFpYenlqNlNEaGdtMWZFWXhDWndhVmNGV1d0TnoxOFVJclQyNHRBYVZQS0JKaDkyU3J6R0R0UVdWZ3NxT2M4WXRpTW9Bc3Bac1NIWmU5MlJFcnB3Vm5sSGVoU283Nm1QNXRfWlhRQThhSDJPU256VlU3OWNrNHVaek1pa3hWUl91OGVpZ2w4dWpIRWhaT9IB2gFBVV95cUxNb0NUS1doeGE4cG5XZXF0VWZfczhoM1JJbkwwQ2NqOU5tWUtZWTNMQmJhTlpIZUl3S19ZU2hDNmQxeDdaQnAzb24xSTRYcWRtTWJuRUxMdnZyU2gwdjg4MFhvRERyU1BmeFNwYWkwS3dhbVdRc0hlZXBfUFFwcURqTkxTN3NWN21GSlBLOExBTW1QbkQyc0MtYmY5d1MxcVh6MV9iYmtfWE95N0pDeThMYU4zWTQ0RlNITnRjVnA5S0VtOTJKSTNWVXplSjNFa0FzSHoySFVzaHM4Zw",
       "image": "",
       "published": "Thu, 10 Sep 2026 11:39:56 GMT",
       "sections": [
-        "animals"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-10"
@@ -455,7 +512,7 @@
       "image": "",
       "published": "Thu, 10 Sep 2026 02:05:41 GMT",
       "sections": [
-        "quick-scan"
+        "animals"
       ],
       "report_dates": [
         "2026-09-10"
@@ -512,7 +569,26 @@
       "image": "",
       "published": "2026-09-10T05:07:00-04:00",
       "sections": [
-        "ai-tech"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "ae7a588de6b5b434",
+      "source": "The Verge",
+      "headline": "New standards for masculinity are stacked against men’s health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Whenever the algorithm serves up a steaming pile of looksmaxxing, I flash back to an old sketch from That Mitchell",
+      "url": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+      "canonical_url": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+      "image": "",
+      "published": "2026-09-10T10:00:00-04:00",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -531,7 +607,7 @@
       "image": "",
       "published": "Thu, 10 Sep 2026 13:20:11 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-10"
@@ -617,23 +693,24 @@
       "appearances": 1
     },
     {
-      "id": "d9f2f30d0b71f8e3",
-      "source": "Pitchfork",
-      "headline": "Max Richter Announces New Album While the Flood Rages",
-      "summary": "The project was adapted from his score of MaddAddam, a ballet inspired by a trio of post-apocalyptic Margaret Atwood novels",
-      "url": "https://pitchfork.com/story/max-richter-announces-new-album-while-the-flood-rages/",
-      "canonical_url": "https://pitchfork.com/story/max-richter-announces-new-album-while-the-flood-rages",
-      "image": "https://media.pitchfork.com/photos/6aa16acc205ad51717eb2b37/master/pass/Max%20Richter%202026%20%5BCredit%20-%20Rory%20Van%20Millingen%5D.jpg",
-      "published": "Wed, 09 Sep 2026 15:59:35 +0000",
+      "id": "0e2c6803804efaaa",
+      "source": "Medical Xpress",
+      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
+      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 14:20:21 GMT",
       "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-08"
       ],
-      "first_seen": "2026-09-10",
+      "first_seen": "2026-09-08",
       "last_seen": "2026-09-10",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "6be9484307df7749",
@@ -646,25 +723,6 @@
       "published": "2026-09-10T07:00:57-04:00",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "3e9c9a4f484e119c",
-      "source": "Salesforce",
-      "headline": "LeanData Named in Salesforce 2027 Partner of the Year Awards - MarTech Cube",
-      "summary": "LeanData Named in Salesforce 2027 Partner of the Year Awards MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFJERnZYZHNuczRYTFdrN1dxWDJYZkRpTzRxVzljOW5pZnFnNURGblpyLWUxRXlUVGY5bkFVMVVGcHRoWl9tYjdORWlHUVI5WmFpVlV4WWZEOWpCZFF2ZHR1YXVwLUdIR002T0F4ZkVXRTl5Z0poNHgxYWpaWDc3YUFBUTFFMDdIT1JXcGc2bEV6dHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFJERnZYZHNuczRYTFdrN1dxWDJYZkRpTzRxVzljOW5pZnFnNURGblpyLWUxRXlUVGY5bkFVMVVGcHRoWl9tYjdORWlHUVI5WmFpVlV4WWZEOWpCZFF2ZHR1YXVwLUdIR002T0F4ZkVXRTl5Z0poNHgxYWpaWDc3YUFBUTFFMDdIT1JXcGc2bEV6dHc",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 13:31:08 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -693,6 +751,25 @@
       "appearances": 1
     },
     {
+      "id": "ad633906ebece294",
+      "source": "Variety",
+      "headline": "K2 Media Capital Launches at Toronto Market With a Slate of Cross-Border IP Projects (EXCLUSIVE)",
+      "summary": "Gayathiri Guliani and Uzair Merchant are unveiling K2 Media Capital, a new entertainment investment and production venture, at the Toronto Film Festival market. The company aims to identify, finance and produce high-value intellectual property that crosses borders and formats. Guliani, a media industry veteran, and Merchant, an award-winning filmmaker and writer, created K2 to meet",
+      "url": "https://variety.com/2026/film/markets-festivals/k2-media-capital-toronto-market-cross-border-ip-projects-1236855881/",
+      "canonical_url": "https://variety.com/2026/film/markets-festivals/k2-media-capital-toronto-market-cross-border-ip-projects-1236855881",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Gayathiri-Guliani-and-Uzair-Merchant.jpg",
+      "published": "Thu, 10 Sep 2026 14:00:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
       "id": "4986d517d7306826",
       "source": "Wisconsin Public Radio",
       "headline": "Josh Kaul on running for Wisconsin Attorney General in 2026",
@@ -703,25 +780,6 @@
       "published": "Wed, 09 Sep 2026 21:04:16 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "eebd06af57a1f474",
-      "source": "Variety",
-      "headline": "Jack Quaid Jokes He’s a Supermodel After Starring in New Bonobos Campaign: ‘I Guess I Can Add That to My Resume’",
-      "summary": "Jack Quaid isn’t giving up his acting career, but the “Boys” star jokes he’s on his way to becoming a supermodel now that he stars in the Fall 2026 campaign for menswear brand Bonobos. “I guess I can add that to the résumé,” he cracks. The campaign is an episodic video series featuring Quaid in",
-      "url": "https://variety.com/2026/film/columns/jack-quaid-menswear-bonobos-campaign-1236854864/",
-      "canonical_url": "https://variety.com/2026/film/columns/jack-quaid-menswear-bonobos-campaign-1236854864",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Bonobos_Weekday-Warrior-Campaign_Jack-Quaid-4-1.jpg",
-      "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -769,25 +827,6 @@
       "appearances": 1
     },
     {
-      "id": "c143019e256dcdba",
-      "source": "Isthmus",
-      "headline": "Insurgence, Wifflin, Andrew Moody - Isthmus | Madison, Wisconsin",
-      "summary": "Insurgence, Wifflin, Andrew Moody Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KcTNDQnRJV1hIdmFneGIzd3BfQWpLcEF3V3doNzFyaXlWSVViU0hOZ0E4eXpCU3lCVXFBN1plQmNvWTEyQkxPNENNa0stRzFMaXVCTlFlTEp0RFlucVpqX3Q5cE9aeHVBWThJ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KcTNDQnRJV1hIdmFneGIzd3BfQWpLcEF3V3doNzFyaXlWSVViU0hOZ0E4eXpCU3lCVXFBN1plQmNvWTEyQkxPNENNa0stRzFMaXVCTlFlTEp0RFlucVpqX3Q5cE9aeHVBWThJ",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 10:07:37 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
       "id": "2d6ed2d6df2d1e69",
       "source": "Good News Network",
       "headline": "Indie Comic Creator Sells Out Thanks to Viral Visit from Reviewer Who Stopped When Others Didn’t",
@@ -798,6 +837,25 @@
       "published": "Thu, 10 Sep 2026 11:30:04 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "890dbccc10df2fcc",
+      "source": "The Verge",
+      "headline": "How the iPhone Duo compares to other folding phones",
+      "summary": "Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy Z Fold 8. While its hardware bears",
+      "url": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+      "canonical_url": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+      "image": "",
+      "published": "2026-09-10T10:00:00-04:00",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-10"
@@ -847,8 +905,8 @@
     {
       "id": "b7fdd8df94bb5724",
       "source": "Search Engine Land",
-      "headline": "Google’s top ranking factors, according to 131 SEO professionals - Search Engine Land",
-      "summary": "Google’s top ranking factors, according to 131 SEO professionals Search Engine Land",
+      "headline": "Google’s top ranking factors, according to 131 SEO professionals - searchengineland.com",
+      "summary": "Google’s top ranking factors, according to 131 SEO professionals searchengineland.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc",
       "image": "",
@@ -921,35 +979,16 @@
       "appearances": 1
     },
     {
-      "id": "583820f0aa5ac162",
-      "source": "Variety",
-      "headline": "Ella Langley Leads 2026 CMA Awards Nominations With Nine, as Miranda Lambert, Kacey Musgraves Also Score Big Tallies",
-      "summary": "In perhaps the least surprising development in recent CMA Awards history, Ella Langley emerged at the front of the pack when nominations for the 2026 telecast were announced Thursday morning, scoring nine in all, just one shy of the all-time single-year record set by Alan Jackson in 2002. Miranda Lambert has this year second-most nominations,",
-      "url": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514/",
-      "canonical_url": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514",
-      "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2247560030.jpg",
-      "published": "Thu, 10 Sep 2026 13:29:12 +0000",
+      "id": "c24c043479d2c1a2",
+      "source": "Reuters",
+      "headline": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks - Reuters",
+      "summary": "EXCLUSIVE: Major Novartis shareholder calls for board shake-up after drug trial setbacks Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXkycUxwWU1iSXF2SUJuVWxOTHZ6ZDVlYW5aZS1wdlhDUzBlSHNqZkQtbFlvZ1dhYkRkNmpobW9pT0NPeE82MmJfdVFnaUlNZ1J3emlGc3dDdHhpUTBGTFhTdFg1R0hnRTR5a3FnUjI5Wnh5d2d0R0llaUNoNHJfMXpUSmVsc2VlM0swd1lpQU91T0pGanZGZ1gxSTBpY3B3NVpoSlppVk1Ob1ZqODRXNExtT01RQQ",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 13:42:48 GMT",
       "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "b50103dc2e47a038",
-      "source": "Variety",
-      "headline": "Dreamkite Chief Yoko Higuchi-Zitzmann on AI Opportunities and Industry Concerns: ‘AI Production Will Create a Lot of New Human Jobs’",
-      "summary": "Earlier today, Variety announced that international media executive and producer Yoko Higuchi-Zitzmann and AI filmmaker Mark Wachholz have launched Dreamkite Studios, an AI production company. We spoke to Higuchi-Zitzmann about the venture. Are the projects on your slate short-form or will you also be working on feature-length films and series?We’d like to start with short-form",
-      "url": "https://variety.com/2026/film/global/dreamkite-yoko-higuchi-zitzmann-ai-opportunities-concerns-1236857194/",
-      "canonical_url": "https://variety.com/2026/film/global/dreamkite-yoko-higuchi-zitzmann-ai-opportunities-concerns-1236857194",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Higuchi_Zitzmann_Wacholz.jpg",
-      "published": "Thu, 10 Sep 2026 13:38:09 +0000",
-      "sections": [
-        "ai-tech"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -989,25 +1028,6 @@
       "published": "Thu, 10 Sep 2026 10:00:00 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "eea4b5f51b2017b6",
-      "source": "Reuters",
-      "headline": "COMMENTARY: Morning Bid: Forever war? - Reuters",
-      "summary": "COMMENTARY: Morning Bid: Forever war? Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT01hdkt1ZTdRak9oZy1PVk4yNnFKc3NTejJ4Z0lNT3lNY0Z6RHdJazhFRjdqVUtuMDdYUHZVRTNRdFZvWWl6WXpUVERCUU5QakJMVFVGZGNJV3dFVkNBdEJRWWZCTllqYTV1RThzWW5mc0tjLVRDSWZRWGRKVXEyTDBpN0NHQXdGNG12Wks3U0oyMTA5amNJ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT01hdkt1ZTdRak9oZy1PVk4yNnFKc3NTejJ4Z0lNT3lNY0Z6RHdJazhFRjdqVUtuMDdYUHZVRTNRdFZvWWl6WXpUVERCUU5QakJMVFVGZGNJV3dFVkNBdEJRWWZCTllqYTV1RThzWW5mc0tjLVRDSWZRWGRKVXEyTDBpN0NHQXdGNG12Wks3U0oyMTA5amNJ",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 10:46:08 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-10"
@@ -1065,25 +1085,6 @@
       "published": "Wed, 09 Sep 2026 23:09:29 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "db4e45b6a988413a",
-      "source": "Behavioral Health",
-      "headline": "Behavioral Health EHR Market Size, Growth & Trends 2034 - Fortune Business Insights",
-      "summary": "Behavioral Health EHR Market Size, Growth & Trends 2034 Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlNrTmZsU3dqZDBzdVFJN1JmZl94M09jSXdHR2puODRYeDQ3VmRXaWdqV3NtaUFoNURuMEZrRW1NRVJFV2c3dmRoWThVdVItYUs5NUZjUF93Zk5ZY0VRZ0tVOXFaMEpObjdXTFcydDhRVkdkSm9RM2doSV9VeWJWaQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlNrTmZsU3dqZDBzdVFJN1JmZl94M09jSXdHR2puODRYeDQ3VmRXaWdqV3NtaUFoNURuMEZrRW1NRVJFV2c3dmRoWThVdVItYUs5NUZjUF93Zk5ZY0VRZ0tVOXFaMEpObjdXTFcydDhRVkdkSm9RM2doSV9VeWJWaQ",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 10:01:55 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -1227,14 +1228,14 @@
       "appearances": 1
     },
     {
-      "id": "604d7091f979d84b",
+      "id": "bd69277ade77d0d0",
       "source": "Variety",
-      "headline": "Alpha Violet Picks Up Naëmi Ada’s ‘Body of Glass’ Ahead of San Sebastián (EXCLUSIVE)",
-      "summary": "Paris-based sales boutique Alpha Violet has acquired international sales rights to “Body of Glass,” German filmmaker Naëmi Ada’s feature debut, ahead of its world premiere in San Sebastián’s New Directors competition. A Germany-France co-production from Soilfilms and Soldats Features, the psychological drama stars Soma Pysall (HBO Max’s “Para – We Are King,” Disney+’s “City of",
-      "url": "https://variety.com/2026/film/global/alpha-violet-body-of-glass-naemi-ada-san-sebastian-1236856533/",
-      "canonical_url": "https://variety.com/2026/film/global/alpha-violet-body-of-glass-naemi-ada-san-sebastian-1236856533",
-      "image": "https://variety.com/wp-content/uploads/2026/09/BODY-OF-GLASS-1.jpg",
-      "published": "Thu, 10 Sep 2026 12:46:27 +0000",
+      "headline": "Anna Biller on ‘The Love Witch’ Follow-Up ‘The Face of Horror’ and Her Issues With ‘Obsession’: ‘The Male Point of View Is Always Going to Sell Better’ (EXCLUSIVE)",
+      "summary": "“Joan of Arc versus Jesus.” That is how Anna Biller, the auteur behind “The Love Witch,” describes the climax of her arresting new film “The Face of Horror” — a Medieval tale of a chauvinist knight, Edward (Jonah Hauer-King), desiring to leave his hopelessly devoted wife, Eleanor (Kristine Froseth), for Isabel (Bella Heathcote), a glamorous",
+      "url": "https://variety.com/2026/film/features/anna-biller-the-face-of-horror-obsession-the-love-witch-1236856742/",
+      "canonical_url": "https://variety.com/2026/film/features/anna-biller-the-face-of-horror-obsession-the-love-witch-1236856742",
+      "image": "https://variety.com/wp-content/uploads/2026/09/split-2-split-1000x667-3.jpg",
+      "published": "Thu, 10 Sep 2026 14:00:00 +0000",
       "sections": [
         "entertainment"
       ],
@@ -1275,6 +1276,25 @@
       "published": "Wed, 09 Sep 2026 19:00:20 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "f28535122a0d7969",
+      "source": "Audubon",
+      "headline": "A Plan to Repeal the Roadless Rule Threatens Prime Habitat in National Forests - National Audubon Society",
+      "summary": "A Plan to Repeal the Roadless Rule Threatens Prime Habitat in National Forests National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjJJZWw5NHBMY1RvTzMwbUg2NlZwVk4zanJJZk5VdFZINzNjbXNTWTFfWjBQajB0S3pudGRMOFlqUllUSnB4Z0xPYnEtUHJjQzVSZXpjQVFPUER5SmNoaHhBVTVIRmNjMDllVW1aMThVcm9JNnA0VDk1c2JnckpRblcxY242TjZsdG82UGtEdjMtdXc1by0wZHJ3dzUtWklE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjJJZWw5NHBMY1RvTzMwbUg2NlZwVk4zanJJZk5VdFZINzNjbXNTWTFfWjBQajB0S3pudGRMOFlqUllUSnB4Z0xPYnEtUHJjQzVSZXpjQVFPUER5SmNoaHhBVTVIRmNjMDllVW1aMThVcm9JNnA0VDk1c2JnckpRblcxY242TjZsdG82UGtEdjMtdXc1by0wZHJ3dzUtWklE",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 18:54:19 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-10"
@@ -1332,25 +1352,6 @@
       "published": "Thu, 10 Sep 2026 09:31:16 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "appearances": 1
-    },
-    {
-      "id": "36c701c9ec0a3fd8",
-      "source": "Medical Xpress",
-      "headline": "'Feature interference,' and why your brain struggles with uncertain tasks - Medical Xpress",
-      "summary": "'Feature interference,' and why your brain struggles with uncertain tasks Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTW9VSFB6YS05WlBLNzFZNGotdC15MGZieTZPem92Q3FCZ01SNkE0dHdmemRxWkROR2FYV3lsZ3lIS0FfN3RxQ3BlaDM2Y1NZTy1wWGQ1ZnpzN213cHNlYnB6dV9CLTZtOTNrbEhiMkgxVzRseW15NE9icGFZYzQzcm5HX0Jnbkt0c01R?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTW9VSFB6YS05WlBLNzFZNGotdC15MGZieTZPem92Q3FCZ01SNkE0dHdmemRxWkROR2FYV3lsZ3lIS0FfN3RxQ3BlaDM2Y1NZTy1wWGQ1ZnpzN213cHNlYnB6dV9CLTZtOTNrbEhiMkgxVzRseW15NE9icGFZYzQzcm5HX0Jnbkt0c01R",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 09:00:01 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-09-10"
@@ -3390,25 +3391,6 @@
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-08",
       "appearances": 2
-    },
-    {
-      "id": "0e2c6803804efaaa",
-      "source": "Medical Xpress",
-      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
-      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
-      "image": "",
-      "published": "Tue, 08 Sep 2026 14:40:40 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-08"
-      ],
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
-      "appearances": 1
     },
     {
       "id": "ac2e49f833593c5b",
