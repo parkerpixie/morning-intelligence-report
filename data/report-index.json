@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-10.json",
-  "report_date": "2026-09-10",
-  "generated_at": "2026-09-10T15:00:00.352321+00:00",
-  "edition_count": 57,
+  "latest": "data/archive/2026-09-11.json",
+  "report_date": "2026-09-11",
+  "generated_at": "2026-09-11T11:28:02.664612+00:00",
+  "edition_count": 58,
   "editions": [
+    {
+      "report_date": "2026-09-11",
+      "generated_at": "2026-09-11T11:28:02.664612+00:00",
+      "path": "data/archive/2026-09-11.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+        "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
+        "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-10",
       "generated_at": "2026-09-10T15:00:00.352321+00:00",
