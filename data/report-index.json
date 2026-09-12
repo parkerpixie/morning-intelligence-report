@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-11.json",
-  "report_date": "2026-09-11",
-  "generated_at": "2026-09-11T15:03:22.637524+00:00",
-  "edition_count": 58,
+  "latest": "data/archive/2026-09-12.json",
+  "report_date": "2026-09-12",
+  "generated_at": "2026-09-12T10:52:37.413285+00:00",
+  "edition_count": 59,
   "editions": [
+    {
+      "report_date": "2026-09-12",
+      "generated_at": "2026-09-12T10:52:37.413285+00:00",
+      "path": "data/archive/2026-09-12.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+        "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
+        "url": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-11",
       "generated_at": "2026-09-11T15:03:22.637524+00:00",
