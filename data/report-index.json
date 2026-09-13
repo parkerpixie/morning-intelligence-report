@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-12.json",
-  "report_date": "2026-09-12",
-  "generated_at": "2026-09-12T14:11:29.288376+00:00",
-  "edition_count": 59,
+  "latest": "data/archive/2026-09-13.json",
+  "report_date": "2026-09-13",
+  "generated_at": "2026-09-13T11:58:05.935375+00:00",
+  "edition_count": 60,
   "editions": [
+    {
+      "report_date": "2026-09-13",
+      "generated_at": "2026-09-13T11:58:05.935375+00:00",
+      "path": "data/archive/2026-09-13.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Iran war reshapes Brics ties but also exposes divisions",
+        "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-12",
       "generated_at": "2026-09-12T14:11:29.288376+00:00",
