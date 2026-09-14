@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-13.json",
-  "report_date": "2026-09-13",
-  "generated_at": "2026-09-13T14:55:50.986649+00:00",
-  "edition_count": 60,
+  "latest": "data/archive/2026-09-14.json",
+  "report_date": "2026-09-14",
+  "generated_at": "2026-09-14T12:55:42.527365+00:00",
+  "edition_count": 61,
   "editions": [
+    {
+      "report_date": "2026-09-14",
+      "generated_at": "2026-09-14T12:55:42.527365+00:00",
+      "path": "data/archive/2026-09-14.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Wisconsin Supreme Court to hear congressional map arguments",
+        "summary": "State Supreme Court justices will hear arguments this week in two lawsuits claiming Wisconsin's eight U.S. House districts are gerrymandered and must be redrawn.",
+        "url": "https://www.wpr.org/news/wisconsin-supreme-court-congressional-map-arguments",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-09-13",
       "generated_at": "2026-09-13T14:55:50.986649+00:00",
