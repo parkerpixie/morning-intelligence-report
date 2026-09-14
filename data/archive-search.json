@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T14:26:14.530677+00:00",
+  "generated_at": "2026-09-14T15:56:29.973384+00:00",
   "edition_count": 61,
-  "story_count": 3763,
+  "story_count": 3765,
   "stories": [
     {
       "id": "17974878f10cd42e",
@@ -48,25 +48,6 @@
       "appearances": 6
     },
     {
-      "id": "cad3afe8cd64ce15",
-      "source": "Variety",
-      "headline": "‘Brother’s Keeper’ Director Ferit Karahan’s ‘Djinn Wedding’ Asks: ‘Can a Person Who Refuses to Acknowledge Their Own Darkness Ever Truly Change Their Fate?’",
-      "summary": "“Djinn Wedding” (“Cinlerin Düğünü”), written and directed by Ferit Karahan (“Brother’s Keeper,” “The Fall From Heaven”), will have its world premiere at Toronto as part of the TIFF Platform competition. This is Karahan’s follow-up feature to “Brother’s Keeper,” which won the Berlin Film Festival’s Fipresci Award in the Panorama section. A magic realism story about",
-      "url": "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368/",
-      "canonical_url": "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
-      "image": "https://variety.com/wp-content/uploads/2026/09/DjinnWedding_Still_02_BrideField.tif70.jpg",
-      "published": "Mon, 14 Sep 2026 12:33:32 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
       "id": "21dc493b5ae4e5e0",
       "source": "BBC World",
       "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
@@ -77,6 +58,25 @@
       "published": "Mon, 14 Sep 2026 11:35:08 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "f5d917a843c37934",
+      "source": "Wisconsin Public Radio",
+      "headline": "WPR Music Library picks: Vol. 4",
+      "summary": "It’s just about halfway through September, which means I get to talk about fun music I find in WPR’s Music Library! Let’s get into it. ‘Every Day is a New",
+      "url": "https://www.wpr.org/music/wpr-music-library-picks-vol-4",
+      "canonical_url": "https://www.wpr.org/music/wpr-music-library-picks-vol-4",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 15:22:37 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-14"
@@ -132,25 +132,6 @@
       "canonical_url": "https://www.wpr.org/news/wisconsin-students-senior-housing-marquette-university-st-camillus",
       "image": "",
       "published": "Mon, 14 Sep 2026 10:05:00 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "798f80989ced1061",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin leaders, groups react after Rep. Tom Tiffany’s emergency plane landing - TMJ4 News",
-      "summary": "Wisconsin leaders, groups react after Rep. Tom Tiffany’s emergency plane landing TMJ4 News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ2tBRG4wbE5DMVltQzNfTmNZUUlBTnFGVG5OVWUyLVlxNmhCdlZTSTdCZUVjbS03X0hFSlRCVFBjQVVnZDhpVlh2MjJ1TVhxMDNKUkNCZjhNVmNYU1p6bFZOYlY4aVFrSDRFWFRyXzlDd211UXc0eWdrNjdxa2loMmhUd0psdF80VWcxZ0RTSWQwaVI4MjRudC1Ja2lOd2x2aTcxYk9PWGFMMTc4T1VNUEI0R0JSb3RRLUV3MlR0OXVVdXNHWUxvanUzcUdqejJlV1NQR2tnWkhKRDE2aGY5RkNfSQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ2tBRG4wbE5DMVltQzNfTmNZUUlBTnFGVG5OVWUyLVlxNmhCdlZTSTdCZUVjbS03X0hFSlRCVFBjQVVnZDhpVlh2MjJ1TVhxMDNKUkNCZjhNVmNYU1p6bFZOYlY4aVFrSDRFWFRyXzlDd211UXc0eWdrNjdxa2loMmhUd0psdF80VWcxZ0RTSWQwaVI4MjRudC1Ja2lOd2x2aTcxYk9PWGFMMTc4T1VNUEI0R0JSb3RRLUV3MlR0OXVVdXNHWUxvanUzcUdqejJlV1NQR2tnWkhKRDE2aGY5RkNfSQ",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 09:53:51 GMT",
       "sections": [
         "local"
       ],
@@ -276,25 +257,42 @@
       "appearances": 1
     },
     {
-      "id": "75d8375ac9fe0796",
-      "source": "BBC World",
-      "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cpve191wy47o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Sun, 13 Sep 2026 14:25:56 GMT",
+      "id": "7555bd4f59d96097",
+      "source": "Marketing Ops",
+      "headline": "ULAB’s Idea Hunters 5.0 reaches final stage with 12 teams - The Business Standard",
+      "summary": "ULAB’s Idea Hunters 5.0 reaches final stage with 12 teams The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JtRVRlbnZTV1J1MDlnVE5EU0Y1UXY2eFFZd0JhbXV5VFJEVFlibDM2eWlCNHZ1cEd5ZjRtOGtFNzB2NlJwWWVpRzFFd2xfOS1EeHhrY19zWGVuMFdJcTZHVUt0bnJybm14ZXJJRkxtTmZMMVNwNG1UaVZ3d2otYndtZjNNSGI3NUlrekFMMVE0LVdLNFNYOHU0U2phdGl6Vl84?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JtRVRlbnZTV1J1MDlnVE5EU0Y1UXY2eFFZd0JhbXV5VFJEVFlibDM2eWlCNHZ1cEd5ZjRtOGtFNzB2NlJwWWVpRzFFd2xfOS1EeHhrY19zWGVuMFdJcTZHVUt0bnJybm14ZXJJRkxtTmZMMVNwNG1UaVZ3d2otYndtZjNNSGI3NUlrekFMMVE0LVdLNFNYOHU0U2phdGl6Vl84",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 13:05:00 GMT",
       "sections": [
-        "big-story",
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-09-14",
-        "2026-09-13"
+        "2026-09-14"
       ],
-      "first_seen": "2026-09-13",
+      "first_seen": "2026-09-14",
       "last_seen": "2026-09-14",
-      "appearances": 2
+      "appearances": 1
+    },
+    {
+      "id": "c4caccf12c6a6fc8",
+      "source": "Variety",
+      "headline": "Trump Says He’s the Only AI ‘Guardrail’ Needed and Mocks Anthropic CEO’s Call for AI Slowdown: ‘Pretending to Be a Perfect Little Angel’",
+      "summary": "After the CEOs of AI giants Anthropic and OpenAI this weekend issued calls for the industry to slow development over safety concerns, President Donald Trump weighed in the topic — downplaying the need for any protections in AI tech development other than himself. “The only control or ‘guardrails’ that AI needs is a STRONG AND",
+      "url": "https://variety.com/2026/digital/news/trump-ai-guardrails-mocks-anthropic-ceo-development-slowdown-1236861231/",
+      "canonical_url": "https://variety.com/2026/digital/news/trump-ai-guardrails-mocks-anthropic-ceo-development-slowdown-1236861231",
+      "image": "https://variety.com/wp-content/uploads/2026/03/2266314484.jpg",
+      "published": "Mon, 14 Sep 2026 15:17:59 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
     },
     {
       "id": "85bf9f1418425c5d",
@@ -316,33 +314,14 @@
       "appearances": 1
     },
     {
-      "id": "625e8e845eec0b23",
-      "source": "BBC World",
-      "headline": "Thousands demand end to violence in Mexican cartel hotspot",
-      "summary": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906a/live/e4f3e460-b02a-11f1-a8a9-13be82d23441.jpg",
-      "published": "Mon, 14 Sep 2026 11:28:36 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "c7d9d5e252b80457",
-      "source": "BBC Entertainment",
-      "headline": "This is what women in sport look like - Hunt",
-      "summary": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
+      "id": "c45a1a22fa7772b9",
+      "source": "Taylor Alert",
+      "headline": "Travis Kelce to kick off 1st Chiefs season since marrying Taylor Swift - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Travis Kelce to kick off 1st Chiefs season since marrying Taylor Swift ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEtzZ2RRLXFibzF3Si1MYlpPYnkyNTVFQ1JqWnVkRDN0bGlOX3hRcEM1RGdlb1BWZlpoSmhhbmV4UFRlVFZ4bUhzRTg2RDhiY1Jkc190TERIOWxKdDl1VXdYQWMya1IyS215UUxaeHh5b25tRklhWTIwMFNMZjdhbW1GMEdQT1QzN3k0MXRYNEpoaVNfc0RMbEtlX2FyS043UURmOW1OWlDSAa4BQVVfeXFMT3dCSkZyLW13NGsxNjNOaTIzMDJUR2h3Mm5GODI0YUhodF9Tb0J5UFMwdG94M1JpYnFoQzVFOUJuMTQwYUY3VmowMXpGM0xSc1NNNXE3bmdLeDNjbDlOT29SMkN0aWNtTi1mVGI0OTc2SHpqTTV4MjMtV0ZzSkRLeEN4WHNHNFdsR004b1BndWFSWnpqRUZXbXFRTlJ4UUFLZDhtQjhkc1M5WXdYNWR3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEtzZ2RRLXFibzF3Si1MYlpPYnkyNTVFQ1JqWnVkRDN0bGlOX3hRcEM1RGdlb1BWZlpoSmhhbmV4UFRlVFZ4bUhzRTg2RDhiY1Jkc190TERIOWxKdDl1VXdYQWMya1IyS215UUxaeHh5b25tRklhWTIwMFNMZjdhbW1GMEdQT1QzN3k0MXRYNEpoaVNfc0RMbEtlX2FyS043UURmOW1OWlDSAa4BQVVfeXFMT3dCSkZyLW13NGsxNjNOaTIzMDJUR2h3Mm5GODI0YUhodF9Tb0J5UFMwdG94M1JpYnFoQzVFOUJuMTQwYUY3VmowMXpGM0xSc1NNNXE3bmdLeDNjbDlOT29SMkN0aWNtTi1mVGI0OTc2SHpqTTV4MjMtV0ZzSkRLeEN4WHNHNFdsR004b1BndWFSWnpqRUZXbXFRTlJ4UUFLZDhtQjhkc1M5WXdYNWR3",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 09:30:40 GMT",
       "sections": [
         "entertainment"
       ],
@@ -392,25 +371,6 @@
       "appearances": 1
     },
     {
-      "id": "e09d98d514546be9",
-      "source": "Search Engine Land",
-      "headline": "The future of content isn't writing. It's thinking. - Search Engine Land",
-      "summary": "The future of content isn't writing. It's thinking. Search Engine Land",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6c0VJX0otckR3ZDZra0tNV25md294UW1jNFZkZnI2X1BTOXRiVTVselNNZ2dQZlhhQjZOdDNQUkItaWF2UFFyX3hFS2JfTDVpN3RrdWQyU0lYMkktajJreUp0Q2NHWWtQVUww?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6c0VJX0otckR3ZDZra0tNV25md294UW1jNFZkZnI2X1BTOXRiVTVselNNZ2dQZlhhQjZOdDNQUkItaWF2UFFyX3hFS2JfTDVpN3RrdWQyU0lYMkktajJreUp0Q2NHWWtQVUww",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 13:00:00 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
       "id": "9174a92acc134ebe",
       "source": "The Verge",
       "headline": "The four-hour-long Elon Musk documentary might be preaching to the choir",
@@ -419,25 +379,6 @@
       "canonical_url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
       "image": "",
       "published": "2026-09-14T09:50:00-04:00",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "2285020f5079761a",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift's Eras Tour dancers at her wedding: 14 of 15 have shared their looks so far - Yahoo Creators",
-      "summary": "Taylor Swift's Eras Tour dancers at her wedding: 14 of 15 have shared their looks so far Yahoo Creators",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3FLVUJNVVo2SmhwTl9ZUFBOR1BpSTdOejI5MUdmRnVxSHY0aU5VcXFyZWVrMm5nZXNRbW9qSThfeU9Sa1NPMl93OWJiUmN4U2tjeVgyRUV6NGJsMHl5OHJLYVdWX3ZyN09rdzZYNmtIeThfSGRJek1zRTVmZHVLeXJGRjUwaUpHMHdDNWhUR3ZJRFcxdFg5QlRjYVZkWU5PUm43amQwOW9qb1pLSF9TRTc1dFdGZEg1ZG1fTHdnN1lFdjhYVGdzaFd1U1ZtaEFJU0pEV2tHMWVPLVRN?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3FLVUJNVVo2SmhwTl9ZUFBOR1BpSTdOejI5MUdmRnVxSHY0aU5VcXFyZWVrMm5nZXNRbW9qSThfeU9Sa1NPMl93OWJiUmN4U2tjeVgyRUV6NGJsMHl5OHJLYVdWX3ZyN09rdzZYNmtIeThfSGRJek1zRTVmZHVLeXJGRjUwaUpHMHdDNWhUR3ZJRFcxdFg5QlRjYVZkWU5PUm43amQwOW9qb1pLSF9TRTc1dFdGZEg1ZG1fTHdnN1lFdjhYVGdzaFd1U1ZtaEFJU0pEV2tHMWVPLVRN",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 08:29:06 GMT",
       "sections": [
         "entertainment"
       ],
@@ -468,16 +409,16 @@
       "appearances": 1
     },
     {
-      "id": "3f8c71b2814cf165",
-      "source": "Good News Network",
-      "headline": "She ‘Asked for a Sign’ and Suddenly a Kingfisher Darts Up and Sits in Her Hand for 10 Minutes",
-      "summary": "A woman in England had just “asked for a sign” when a kingfisher streaked in, and even landed on her hand—staying there for ten minutes. “I had just asked for a sign, then just moments later this happened,” Laura O’Brien told SWNS news. The 24-year-old says she was “amazed” because the Eurasian Kingfisher (also known",
-      "url": "https://www.goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand/",
-      "canonical_url": "https://www.goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 18:26:53 +0000",
+      "id": "16289217e4e8eca7",
+      "source": "BBC Health",
+      "headline": "Staff slept while patient killed at NHS mental health unit",
+      "summary": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
+      "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1403/live/c0463800-b022-11f1-95e6-93ee8a80cb38.jpg",
+      "published": "Mon, 14 Sep 2026 15:19:26 GMT",
       "sections": [
-        "quick-scan"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-14"
@@ -487,16 +428,54 @@
       "appearances": 1
     },
     {
-      "id": "bb3d9b0d313a1621",
-      "source": "Salesforce",
-      "headline": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE - Salesforce",
-      "summary": "Salesforce’s Agentforce 360 Powers the Future of Chess with FIDE Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlZTU085NjU1MWoxTnBPYmsySDVBWUF5ejBMaXB3b0VWQnlBMzFaUEZsMVJCbEllRG9La2gyNHMzM2F1cjlXelJiZzdjSm0wTUV0QTVmNl8zZUMzTHRNZlo5S3l2VHBNbFlaR1paczlueVE1OVRtOThIYk5MVGtDbjEtR2tvV2RlN1ZDSUowZlZsOVluMjVCOEpkUEppNEY1MkJoX1lENHNYSVJEZHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlZTU085NjU1MWoxTnBPYmsySDVBWUF5ejBMaXB3b0VWQnlBMzFaUEZsMVJCbEllRG9La2gyNHMzM2F1cjlXelJiZzdjSm0wTUV0QTVmNl8zZUMzTHRNZlo5S3l2VHBNbFlaR1paczlueVE1OVRtOThIYk5MVGtDbjEtR2tvV2RlN1ZDSUowZlZsOVluMjVCOEpkUEppNEY1MkJoX1lENHNYSVJEZHc",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 13:32:48 GMT",
+      "id": "cf41711de5b62f20",
+      "source": "Variety",
+      "headline": "SkyShowtime Could Be Shut Down, Warns Board of Comcast-Paramount Joint Venture",
+      "summary": "SkyShowtime, the European streaming service co-owned by Comcast and Paramount Skydance, could be shuttered. This was the warning in a letter from the board of the joint venture to SkyShowtime CEO Monty Sarhan, which said a “review of strategic options for the business” had begun. Sarhan subsequently shared the letter — which has been seen by",
+      "url": "https://variety.com/2026/tv/global/skyshowtime-could-be-shut-down-warn-paramount-comcast-1236861228/",
+      "canonical_url": "https://variety.com/2026/tv/global/skyshowtime-could-be-shut-down-warn-paramount-comcast-1236861228",
+      "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-1470815994.jpg",
+      "published": "Mon, 14 Sep 2026 15:28:38 +0000",
       "sections": [
-        "quick-scan"
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "68c0edd963d62288",
+      "source": "Salesforce Marketing",
+      "headline": "Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era - Salesforce",
+      "summary": "Salesforce Launches Missionforce Military Fellowship to Help Service Members Build Careers in the Agentic Era Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN25LdDI5UWIzMGZ4TWlWZkFXUHJJSUxVc2Q3bXVKUUtlWEJJQUlhNXVUcEVrdHltUFhkaW04MHd2cUNYaGlrVmcyeHgzYVMxdDAyWGZra0kxcEtCR05YUVdqaTkwYk5CblJpVE1NZHVCWmtaNkpLRkQtS0hBTEJGeGhyR1dzRVUxRUlOOVJCMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN25LdDI5UWIzMGZ4TWlWZkFXUHJJSUxVc2Q3bXVKUUtlWEJJQUlhNXVUcEVrdHltUFhkaW04MHd2cUNYaGlrVmcyeHgzYVMxdDAyWGZra0kxcEtCR05YUVdqaTkwYk5CblJpVE1NZHVCWmtaNkpLRkQtS0hBTEJGeGhyR1dzRVUxRUlOOVJCMA",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 12:57:29 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "41dbf3ff36885b57",
+      "source": "Customer Data",
+      "headline": "Sales Cloud Is Back on the Price List. That Isn’t a Retreat From Agentforce. - salesforcedevops.net",
+      "summary": "Sales Cloud Is Back on the Price List. That Isn’t a Retreat From Agentforce. salesforcedevops.net",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEF0REoyeXBQYUM0VFY3Y19JWjZvSnVoVDRuemJCMEpPSEtvOGsxSTVNR3pyR3dfbWExbUxidXdZaXpUQnBmZ29iYzloQ2NjQXRnYlZjYnlnVm55TjZpNVIydmhTSEt1X0pORHhxcEk1N3hYMTBKTzNKMG1YeG13LTFTY3BDQXloR2JydXV3b1F3eGwtcXdXWl9R?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEF0REoyeXBQYUM0VFY3Y19JWjZvSnVoVDRuemJCMEpPSEtvOGsxSTVNR3pyR3dfbWExbUxidXdZaXpUQnBmZ29iYzloQ2NjQXRnYlZjYnlnVm55TjZpNVIydmhTSEt1X0pORHhxcEk1N3hYMTBKTzNKMG1YeG13LTFTY3BDQXloR2JydXV3b1F3eGwtcXdXWl9R",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 15:31:47 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-14"
@@ -563,14 +542,71 @@
       "appearances": 1
     },
     {
-      "id": "1975854e30d13789",
-      "source": "Behavioral Health",
-      "headline": "Neuronetics Links NeuroStar TMS With AdvancedMD Platform - MyChesCo",
-      "summary": "Neuronetics Links NeuroStar TMS With AdvancedMD Platform MyChesCo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRm1odjFvSFB6czBDa2E5SDFZa1dwZTdiSXJkQ0VmaVpVY3AwY1B5Ml9HSEZ5Slh1eWdjRzZMQkhGTFNsRkF5c1laOEFjc1h4VGpFaEdPbGgyNWgzYVRheV8zX3ptQWY1SkxBUUlnMWxvWVdNMDg0cHRDaVhKclJsaGs4OTg2MVpVNGwwd0NJTFJCejA0Y2pXbUFLU3FpLTNwU3Q2Zm1nZ0t0ZmRkbHhscEJ1eXFaYVdxMHpfNjBn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRm1odjFvSFB6czBDa2E5SDFZa1dwZTdiSXJkQ0VmaVpVY3AwY1B5Ml9HSEZ5Slh1eWdjRzZMQkhGTFNsRkF5c1laOEFjc1h4VGpFaEdPbGgyNWgzYVRheV8zX3ptQWY1SkxBUUlnMWxvWVdNMDg0cHRDaVhKclJsaGs4OTg2MVpVNGwwd0NJTFJCejA0Y2pXbUFLU3FpLTNwU3Q2Zm1nZ0t0ZmRkbHhscEJ1eXFaYVdxMHpfNjBn",
+      "id": "fec050f62bcd66d1",
+      "source": "Animals",
+      "headline": "Rescuers Spend Months Preparing One Turtle for the Goodbye That Makes Them Cry - The Animal Rescue Site",
+      "summary": "Rescuers Spend Months Preparing One Turtle for the Goodbye That Makes Them Cry The Animal Rescue Site",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnRuSVdZZzAzYi12cWtTOHU0TTVqMVlyZ2VkMzhIYXpDeExXSnY4bnJONGZ6bFJNNUpaUy1nZjA3eldqVnJJU1NaamJZWVZCdG9Yal9SOTVMaExJWkplTDJfOFBIdFJUcVk2cmVUdVJFTWdzZkY2MlB5WEE3SjI3YkJ1ejhxcXFZcnhXRGxZT1JHM1BwVGdoRFZTOEJhaVB0QXR0amhRYUdKOHFZSWs2Yi13?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnRuSVdZZzAzYi12cWtTOHU0TTVqMVlyZ2VkMzhIYXpDeExXSnY4bnJONGZ6bFJNNUpaUy1nZjA3eldqVnJJU1NaamJZWVZCdG9Yal9SOTVMaExJWkplTDJfOFBIdFJUcVk2cmVUdVJFTWdzZkY2MlB5WEE3SjI3YkJ1ejhxcXFZcnhXRGxZT1JHM1BwVGdoRFZTOEJhaVB0QXR0amhRYUdKOHFZSWs2Yi13",
       "image": "",
-      "published": "Mon, 14 Sep 2026 12:02:12 GMT",
+      "published": "Mon, 14 Sep 2026 12:21:36 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "da53e7b6136a02e7",
+      "source": "BBC Entertainment",
+      "headline": "Oasis 2027: Knebworth return confirmed as well as Manchester and Glasgow gigs",
+      "summary": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
+      "url": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq89455dlw2o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f285/live/5ada9660-9280-11f1-9985-cdf6a137096d.jpg",
+      "published": "Mon, 14 Sep 2026 15:04:22 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "d0a3bf88f72cb6b4",
+      "source": "NIH News",
+      "headline": "NIH launches $21 million initiative to improve understanding of sex-specific hormonal biology - National Institutes of Health (NIH) | (.gov)",
+      "summary": "NIH launches $21 million initiative to improve understanding of sex-specific hormonal biology National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWG05U1FQd3UxV2ViNVhZZmx3Sk5rREkyb0Vlc1NSYl9KME80d3ZLYmlyLTl1VWpOQVVVcnhrYlpXRkxDX2V2TnFycjV5TVBFZUFySVZ4c05ZYXpqZHVXdUVTbHZkQzlCUWtfaWtjRHd3QXF5QWJIQ3ZTMHo1ZF9UMXNHNWEzZ05hOC1WWkw3WUlqLW1QTHo2Y1plUl9QYVJ5ZnZMelNUcVFrVXFNaGNUXzdYRVVveXN4cTZqZ3hzcHFGREJEcFppS0djd0g?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWG05U1FQd3UxV2ViNVhZZmx3Sk5rREkyb0Vlc1NSYl9KME80d3ZLYmlyLTl1VWpOQVVVcnhrYlpXRkxDX2V2TnFycjV5TVBFZUFySVZ4c05ZYXpqZHVXdUVTbHZkQzlCUWtfaWtjRHd3QXF5QWJIQ3ZTMHo1ZF9UMXNHNWEzZ05hOC1WWkw3WUlqLW1QTHo2Y1plUl9QYVJ5ZnZMelNUcVFrVXFNaGNUXzdYRVVveXN4cTZqZ3hzcHFGREJEcFppS0djd0g",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 15:11:55 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "f960cbdc6fbdf485",
+      "source": "NIH News",
+      "headline": "Neuroprosthesis for paralysis enables simultaneous speech and body language - National Institutes of Health (NIH) | (.gov)",
+      "summary": "Neuroprosthesis for paralysis enables simultaneous speech and body language National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmZRZ3hfT1NUZjFYVUhaQ1hDXzRsbF84NkNQZ0Y0dEZ6S1VVQnc1bUtqNFUtdUU5dHBoYmJRRzltTkpOeWRsQUVYLTJmMFhjcHc1YkIza2lUbjF4M2Y3M2xWNGhURk9Vc3lnU2lOVVMxVS1YTHFfTV9xXzVSQ2xHYUFac2daaWdpZnIyTTBhb0hzckRUU09LSHFJbXl5Q1pZblNTeVZMazhTOGduSkR0cVRaOA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmZRZ3hfT1NUZjFYVUhaQ1hDXzRsbF84NkNQZ0Y0dEZ6S1VVQnc1bUtqNFUtdUU5dHBoYmJRRzltTkpOeWRsQUVYLTJmMFhjcHc1YkIza2lUbjF4M2Y3M2xWNGhURk9Vc3lnU2lOVVMxVS1YTHFfTV9xXzVSQ2xHYUFac2daaWdpZnIyTTBhb0hzckRUU09LSHFJbXl5Q1pZblNTeVZMazhTOGduSkR0cVRaOA",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 15:11:55 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -599,26 +635,6 @@
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-14",
       "appearances": 1
-    },
-    {
-      "id": "fd93dacf3e7bee74",
-      "source": "BBC Health",
-      "headline": "Migraines and acne among five more conditions pharmacists can treat",
-      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/cda17b80-ace0-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-14",
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-14",
-      "appearances": 2
     },
     {
       "id": "4057d675f57a2bd7",
@@ -659,16 +675,57 @@
       "appearances": 1
     },
     {
-      "id": "388075c345339d42",
-      "source": "NPR Music",
-      "headline": "Masego digs deep in new album 'Fix Your Face'",
-      "summary": "Singer Masego's latest album, 'Fix Your Face,' is his first release since losing his home in 2025 due to a wildfire.",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5885037/masego-digs-deep-in-new-album-fix-your-face",
-      "canonical_url": "https://www.npr.org/2026/09/13/nx-s1-5885037/masego-digs-deep-in-new-album-fix-your-face",
+      "id": "bafd0a1afbe841cd",
+      "source": "Good News Network",
+      "headline": "Luxurious Bath Complex Used by Roman Emperor Found in Serbia",
+      "summary": "From Serbia comes the story of a technically-impressive and luxurious Roman bath complex discovered for the first time. Containing three different bathing pools and a sauna, it was designed for Emperor Maximinus Daza, who briefly held the throne before dying in a civil war. The bath complex, known in Latin as a balneum, was found",
+      "url": "https://www.goodnewsnetwork.org/luxurious-bath-complex-used-by-roman-emperor-found-in-serbia/",
+      "canonical_url": "https://www.goodnewsnetwork.org/luxurious-bath-complex-used-by-roman-emperor-found-in-serbia",
       "image": "",
-      "published": "Sun, 13 Sep 2026 17:03:09 -0400",
+      "published": "Fri, 11 Sep 2026 13:00:55 +0000",
       "sections": [
-        "entertainment"
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-14",
+        "2026-09-11"
+      ],
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-14",
+      "appearances": 2
+    },
+    {
+      "id": "664280fb07a0bc06",
+      "source": "MarTech",
+      "headline": "Lost in translation: Why content and data teams can’t speak the same language",
+      "summary": "Cross-team miscommunication halts campaign execution. On Sept. 2, learn how content and data teams can align signals, build shared context, and drive outcomes.",
+      "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
+      "canonical_url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language",
+      "image": "https://martech.org/wp-content/uploads/2026/08/lost-in-translation-no-text-800x450.png",
+      "published": "Fri, 11 Sep 2026 14:27:40 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-14",
+        "2026-09-11",
+        "2026-08-27"
+      ],
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-09-14",
+      "appearances": 3
+    },
+    {
+      "id": "3f21107c23c78f92",
+      "source": "NPR",
+      "headline": "Lawmakers home in on midterm messages as Congress returns to session",
+      "summary": "Congress returns for a short last session ahead of the midterm election with a full plate as lawmakers look for messaging bills they can take back to voters.",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
+      "canonical_url": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 04:43:06 -0400",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-09-14"
@@ -777,6 +834,44 @@
       "appearances": 1
     },
     {
+      "id": "4004a1c4b9fae013",
+      "source": "Variety",
+      "headline": "How to Watch the 2026 Emmys Live Online",
+      "summary": "TV’s biggest night is here. The 78th annual Emmy Awards take place Monday, Sept. 14, bringing together the casts and creators behind the year’s biggest shows — from “The Pitt” and “Hacks” to “Pluribus,” “Widow’s Bay” and “Beef.” The ceremony airs live coast-to-coast from the Peacock Theater in Los Angeles beginning at 8 p.m. ET/5",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-the-2026-emmys-ceremony-live-online-streaming-1236861183/",
+      "canonical_url": "https://variety.com/2026/shopping/news/how-to-watch-the-2026-emmys-ceremony-live-online-streaming-1236861183",
+      "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294548865.jpg",
+      "published": "Mon, 14 Sep 2026 15:00:42 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "392e2da499af72db",
+      "source": "ScienceDaily Mind & Brain",
+      "headline": "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
+      "summary": "Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age. Healthier connections just beneath the brain’s surface were linked to better language skills and appeared to weaken the impact of gray matter loss.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260913081921.htm",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260913081921.htm",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 10:23:40 EDT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
       "id": "457ba729ab690752",
       "source": "AI News",
       "headline": "Google, OpenAI and Anthropic Float Idea of AI Standards Body - PYMNTS.com",
@@ -824,7 +919,7 @@
       "image": "",
       "published": "Mon, 14 Sep 2026 11:00:59 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-14"
@@ -862,7 +957,26 @@
       "image": "",
       "published": "Mon, 14 Sep 2026 13:00:37 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "e3ebb95c6e9da46d",
+      "source": "Mental Health",
+      "headline": "Five personality traits that can be influenced by genes before birth - Gazeta Express",
+      "summary": "Five personality traits that can be influenced by genes before birth Gazeta Express",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEJiZ0hnblkxZmF6RjE0RGYyQUsxZ281dXZ3eDhjTWNwaUNLYmttbVNTWU9WSWtobGJSZnhzUGZtYTdoa2xnM3NjNFU4VlF5MnJRaEZsaUJjVU5GRjVseHlxclZFUnBKTjkxTEJFWXV1eHFSOFpzSFlzT2FURjFWUXE2OGpFZFJyc3UxeENsdE43RUN0TWNySkZNd1FWUFJLOFNfYg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEJiZ0hnblkxZmF6RjE0RGYyQUsxZ281dXZ3eDhjTWNwaUNLYmttbVNTWU9WSWtobGJSZnhzUGZtYTdoa2xnM3NjNFU4VlF5MnJRaEZsaUJjVU5GRjVseHlxclZFUnBKTjkxTEJFWXV1eHFSOFpzSFlzT2FURjFWUXE2OGpFZFJyc3UxeENsdE43RUN0TWNySkZNd1FWUFJLOFNfYg",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 13:14:00 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-14"
@@ -891,6 +1005,25 @@
       "appearances": 1
     },
     {
+      "id": "b9681ceb00465c88",
+      "source": "Good News Network",
+      "headline": "Feather Preserved in Dinosaur Dung Could Explain Why Birds Survived Mass Extinction",
+      "summary": "A feather preserved inside dinosaur dung could help explain why birds survived the mass extinction that wiped out most life on Earth. Specifically, it could explain whether it prepared a certain lineage of birds to weather the unnatural winter that followed in the wake of the asteroid impact. Scientists at the Field Museum of Chicago",
+      "url": "https://www.goodnewsnetwork.org/feather-preserved-in-dinosaur-dung-could-explain-why-birds-survived-mass-extinction/",
+      "canonical_url": "https://www.goodnewsnetwork.org/feather-preserved-in-dinosaur-dung-could-explain-why-birds-survived-mass-extinction",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 15:30:42 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
       "id": "edc0f0448dad62d6",
       "source": "BBC US & Canada",
       "headline": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
@@ -901,25 +1034,6 @@
       "published": "Sun, 13 Sep 2026 23:21:00 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "dd4d2c4407dd4479",
-      "source": "Mental Health",
-      "headline": "Edge Hill University to lead near million pound study on how gambling-style gaming features effect children - Lancashire Evening Post",
-      "summary": "Edge Hill University to lead near million pound study on how gambling-style gaming features effect children Lancashire Evening Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1cybTNiMEoxZGNVRjN3dkhyYldlUjh6eWZHNGlLQjdsZE5USUI5OXNUcU5QYlRiQU9Denk5TU5pZTFzbDc1dGhaRkIyVVpzWE9EMUtIbTZuUE52UWYwNktid0tUU2FXUDBQLW9yUGFFYlh4OG82YjNJbS13MmRyZ3ZKeXpaYnp1dGhpYUltQU56NkI4ZVNGM2dLdzZZSnNOUF9uazRmWlpyTVI0akVZ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1cybTNiMEoxZGNVRjN3dkhyYldlUjh6eWZHNGlLQjdsZE5USUI5OXNUcU5QYlRiQU9Denk5TU5pZTFzbDc1dGhaRkIyVVpzWE9EMUtIbTZuUE52UWYwNktid0tUU2FXUDBQLW9yUGFFYlh4OG82YjNJbS13MmRyZ3ZKeXpaYnp1dGhpYUltQU56NkI4ZVNGM2dLdzZZSnNOUF9uazRmWlpyTVI0akVZ",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 09:59:00 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-14"
@@ -986,25 +1100,6 @@
       "appearances": 1
     },
     {
-      "id": "5939d77cec1680c4",
-      "source": "Pitchfork",
-      "headline": "Coachella Organizers’ Ocean Way Festival Canceled Due to Hurricane Marie",
-      "summary": "The Killers and Olivia Dean had been slated to headline the Santa Monica fest’s inaugural edition",
-      "url": "https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie/",
-      "canonical_url": "https://pitchfork.com/story/coachella-organizers-ocean-way-festival-canceled-due-to-hurricane-marie",
-      "image": "https://media.pitchfork.com/photos/6aa7fa15597e7c44c043bbd4/master/pass/ocean-way-festival-canceled.jpg",
-      "published": "Mon, 14 Sep 2026 13:45:42 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
       "id": "62a99082243ace06",
       "source": "Reuters",
       "headline": "China State Newspaper Blasts Anthropic's Calls to Slow AI as 'Cold War' Tactic - usnews.com",
@@ -1034,25 +1129,6 @@
       "published": "Mon, 14 Sep 2026 11:31:39 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "978d827048c9f8e4",
-      "source": "Reuters",
-      "headline": "Carney, Locked in US Trade War, Pitches Canada to Global Investment Titans - usnews.com",
-      "summary": "Carney, Locked in US Trade War, Pitches Canada to Global Investment Titans usnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGFrbThYbHFFVnNxYk9SSlh2TTVHZFFTMFNzdlY4aG9VR0stUGxsTGx0ZXRmN0xiZjhIWVhfd0VUcldsSllENWladF94ZXZ0aUdac080TXBOc1FMS3UyM1F0dG9jVXRreDRaQk10OGlpZ2dZTS1KNHVmM09pMUJ6TWw3SWQ4dGs3SG0tdVd1Yi15QWxKT2ZWOE5idDFUa2duQ2wzLW1vam1HWEFQQ1NtY1Vrc0ZCNE5MQTZDM2ZnSE0tY2VTWHF1ZA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGFrbThYbHFFVnNxYk9SSlh2TTVHZFFTMFNzdlY4aG9VR0stUGxsTGx0ZXRmN0xiZjhIWVhfd0VUcldsSllENWladF94ZXZ0aUdac080TXBOc1FMS3UyM1F0dG9jVXRreDRaQk10OGlpZ2dZTS1KNHVmM09pMUJ6TWw3SWQ4dGs3SG0tdVd1Yi15QWxKT2ZWOE5idDFUa2duQ2wzLW1vam1HWEFQQ1NtY1Vrc0ZCNE5MQTZDM2ZnSE0tY2VTWHF1ZA",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 10:03:00 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-14"
@@ -1119,6 +1195,25 @@
       "appearances": 1
     },
     {
+      "id": "61ea5a9505054f7b",
+      "source": "BBC World",
+      "headline": "Body of missing runner found in South Africa: 'It is very scary'",
+      "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cf/live/3f757700-b049-11f1-89e4-0bbff5cb7e23.jpg",
+      "published": "Mon, 14 Sep 2026 14:58:48 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
       "id": "cf2e610c785a155e",
       "source": "Associated Press",
       "headline": "Big Ten blues? Week 2 stunners as Ohio State and Oregon collapse give the SEC a boost - ABC News - Breaking News, Latest News and Videos",
@@ -1157,62 +1252,24 @@
       "appearances": 1
     },
     {
-      "id": "5e71a240c1e18a22",
-      "source": "Marketing Ops",
-      "headline": "Bank Asia organises ‘Your Guide to Income Tax Return Filing’ training for employees - The Business Standard",
-      "summary": "Bank Asia organises ‘Your Guide to Income Tax Return Filing’ training for employees The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUZWcVlQTHdSWjlfbVpKVUxhVTV1UEg4UDF0RzkxVU1UNzhaRncteVE3VTcwZGV4VlVCT1NkNnFseGdCc29jOWMzbzVxazhnN21PbmtfLTBvdXE1S0VybXg2WEdvUHluTDlPYmxPWV93T1NzekZiaGVPQzNHNFQ0YUxBeTRUUVlRdWZWa0kzNXdQVWVuTXdqc3lBejdzYU9vWnFuVW02aTl1a1pWYUJuNXdfY0pHcjZT?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUZWcVlQTHdSWjlfbVpKVUxhVTV1UEg4UDF0RzkxVU1UNzhaRncteVE3VTcwZGV4VlVCT1NkNnFseGdCc29jOWMzbzVxazhnN21PbmtfLTBvdXE1S0VybXg2WEdvUHluTDlPYmxPWV93T1NzekZiaGVPQzNHNFQ0YUxBeTRUUVlRdWZWa0kzNXdQVWVuTXdqc3lBejdzYU9vWnFuVW02aTl1a1pWYUJuNXdfY0pHcjZT",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 13:10:00 GMT",
+      "id": "451118a3df917d7b",
+      "source": "BBC Health",
+      "headline": "Assisted dying: How laws differ around the world",
+      "summary": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b750/live/d8a224a0-adb7-11ef-bdf5-b7cb2fa86e10.jpg",
+      "published": "Fri, 11 Sep 2026 13:46:48 GMT",
       "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "ec1691a576c12e4c",
-      "source": "Smithsonian",
-      "headline": "Archaeologists Excavating a Roman-Era Cemetery in Poland Were Surprised to Stumble Upon a 5,000-Year-Old Necklace Made of 42 Teeth",
-      "summary": "Crafted from the teeth of large mammals, such as wolves, deer, bears and perhaps even humans, the jewelry was found in a grave in southern Poland that may belong to an important patriarch of the Corded Ware culture",
-      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/BYLadOrwvcHGmBGul_DynGA72aM=/420x240/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/74/58744720-be88-40a9-a2a1-a4fec11a6f2a/792508615_2953780694972800_6084568669239326733_n.jpeg",
-      "published": "Wed, 09 Sep 2026 21:05:23 +0000",
-      "sections": [
-        "animals"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-14",
-        "2026-09-10"
+        "2026-09-11"
       ],
-      "first_seen": "2026-09-10",
+      "first_seen": "2026-09-11",
       "last_seen": "2026-09-14",
       "appearances": 2
-    },
-    {
-      "id": "8b6c5a92da638f26",
-      "source": "The Verge",
-      "headline": "Apple is reportedly working on iPhone game controllers",
-      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party",
-      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "canonical_url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "image": "",
-      "published": "2026-09-13T14:30:16-04:00",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
     },
     {
       "id": "1ce141363ff8435d",
@@ -1253,55 +1310,16 @@
       "appearances": 1
     },
     {
-      "id": "f26e0cf2a77872bc",
-      "source": "BBC Entertainment",
-      "headline": "Alan Carr holds back tears on special night at National Television Awards",
-      "summary": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6481/live/d9867910-ac17-11f1-a291-b542ee92de7c.png",
-      "published": "Wed, 09 Sep 2026 01:28:19 GMT",
+      "id": "12cee0f9cf847885",
+      "source": "Variety",
+      "headline": "Amanda Brocato Promoted to President of Rosenfield Media Group",
+      "summary": "Amanda Brocato has been promoted to president of Rosenfield Media Group, where she helps lead the corporate communications practice and drives business development and strategy for the independent PR firm. Based in Austin, Texas, Brocato has been with Rosenfield Media Group since 2020, when the current incarnation of the company was established under CEO Zach",
+      "url": "https://variety.com/2026/biz/news/amanda-brocato-rosenfield-media-group-president-1236860841/",
+      "canonical_url": "https://variety.com/2026/biz/news/amanda-brocato-rosenfield-media-group-president-1236860841",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Amanda-Headhsot-Dealdine-36-e1789348708385.png",
+      "published": "Mon, 14 Sep 2026 15:30:00 +0000",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-14",
-        "2026-09-09"
-      ],
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-14",
-      "appearances": 2
-    },
-    {
-      "id": "8c86a07cfdd08e4f",
-      "source": "AI News",
-      "headline": "AI CEO Warns It Could Kill Everyone.! OpenAI, Anthropic, Google & xAI Suddenly Wants to Slow Down - OFFGRID Survival",
-      "summary": "AI CEO Warns It Could Kill Everyone.! OpenAI, Anthropic, Google & xAI Suddenly Wants to Slow Down OFFGRID Survival",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3BYdFRhNDMycFJwT1U4Vzl6bjBmS1ZwYXBWUkpvMmdlQ2szZGdhaTVpRmV3N1ozRkV0WUo4TmxRX1AyeW4wbWNyQzdoV0JuRUhyenR5NE5xUGFBZHRfWFNZaE84ZVFJeWZ5ZkU0LWU2NkVRbFN0dTFlcFFMTGtWZkJzT0NZc2p5Y2llY3VjemkzcXVzVDczZlFZSjMxc2o5MDR4R3Z4MllIVXF1b1dQZjF1UFFCWXNqM1l1cg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3BYdFRhNDMycFJwT1U4Vzl6bjBmS1ZwYXBWUkpvMmdlQ2szZGdhaTVpRmV3N1ozRkV0WUo4TmxRX1AyeW4wbWNyQzdoV0JuRUhyenR5NE5xUGFBZHRfWFNZaE84ZVFJeWZ5ZkU0LWU2NkVRbFN0dTFlcFFMTGtWZkJzT0NZc2p5Y2llY3VjemkzcXVzVDczZlFZSjMxc2o5MDR4R3Z4MllIVXF1b1dQZjF1UFFCWXNqM1l1cg",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 23:25:45 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "appearances": 1
-    },
-    {
-      "id": "febe3ba7b440f8d9",
-      "source": "Marketing Ops",
-      "headline": "Accenture Digital Consulting Model for Business Growth - blog.kirnanitechnologies.com",
-      "summary": "Accenture Digital Consulting Model for Business Growth blog.kirnanitechnologies.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFM3TGQ4NXVBUFYwT0liam00OEFyV1BTVzBjOUxCYkYybEdTTVFKUDJsemNtM0xMa050ejJ4aGlwYTVBbDNjQ1dqcUMwbE5UWHR3cnlHNnRycmVHZURuaWliSjJKeTI2M3N2ZmxwbzhIZXJkd2E3MF9jMkRCV0VhWTJWNXB2dVJXQkIyNmFxZllkNjRReHY0c21Ya3Rqdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFM3TGQ4NXVBUFYwT0liam00OEFyV1BTVzBjOUxCYkYybEdTTVFKUDJsemNtM0xMa050ejJ4aGlwYTVBbDNjQ1dqcUMwbE5UWHR3cnlHNnRycmVHZURuaWliSjJKeTI2M3N2ZmxwbzhIZXJkd2E3MF9jMkRCV0VhWTJWNXB2dVJXQkIyNmFxZllkNjRReHY0c21Ya3Rqdw",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 07:30:00 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-09-14"
@@ -1318,9 +1336,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWZpUGpTVTVlZDBIZ0VGc2VQTjJjNnczSFRJczZlVkM4SUxZRFhuUlBiZ3IxTm51WTFodWItOFNOZF9GcVJBYVY1Q2ZqYzdHa3o1aWFYSFpjVFM0ZmVOWUF0NllBeFo1enBVazZKN0RGNjUtZTAxNzJqVzJlOGF3dFVZX1pXS3RyZFMwYUdBaVpqRnl5NnBtQ0c3VHA3ZWJPdDFYVVliMmRZSkk5Z3ZhTGlB?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWZpUGpTVTVlZDBIZ0VGc2VQTjJjNnczSFRJczZlVkM4SUxZRFhuUlBiZ3IxTm51WTFodWItOFNOZF9GcVJBYVY1Q2ZqYzdHa3o1aWFYSFpjVFM0ZmVOWUF0NllBeFo1enBVazZKN0RGNjUtZTAxNzJqVzJlOGF3dFVZX1pXS3RyZFMwYUdBaVpqRnl5NnBtQ0c3VHA3ZWJPdDFYVVliMmRZSkk5Z3ZhTGlB",
       "image": "",
-      "published": "Mon, 14 Sep 2026 14:22:06 GMT",
+      "published": "Mon, 14 Sep 2026 14:21:14 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-14"
@@ -1339,7 +1357,7 @@
       "image": "",
       "published": "Mon, 14 Sep 2026 10:02:00 GMT",
       "sections": [
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
         "2026-09-14"
@@ -1351,8 +1369,8 @@
     {
       "id": "a8c9438c1547e74f",
       "source": "Madison365",
-      "headline": "5 Questions: Madison Morris - madison365.com",
-      "summary": "5 Questions: Madison Morris madison365.com",
+      "headline": "5 Questions: Madison Morris - Madison365",
+      "summary": "5 Questions: Madison Morris Madison365",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83R3hsOTRSeVBqUHduN1hRZi1DMElUWDZkdUZMU0hmbTIwUGlvemZUdzdLR2haQzJyNXBEeXo2YWhJLVYwQXBHRF80TDZUQTZyVm1Nck55Q3NnYmVYa29N?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83R3hsOTRSeVBqUHduN1hRZi1DMElUWDZkdUZMU0hmbTIwUGlvemZUdzdLR2haQzJyNXBEeXo2YWhJLVYwQXBHRF80TDZUQTZyVm1Nck55Q3NnYmVYa29N",
       "image": "",
@@ -1366,26 +1384,6 @@
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-14",
       "appearances": 1
-    },
-    {
-      "id": "819ba6baec266de3",
-      "source": "BBC Health",
-      "headline": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-      "summary": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
-      "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg",
-      "published": "Thu, 10 Sep 2026 09:31:16 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-14",
-        "2026-09-10"
-      ],
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-14",
-      "appearances": 2
     },
     {
       "id": "d21fff12d93be748",
@@ -1573,6 +1571,25 @@
       "published": "Thu, 10 Sep 2026 00:00:55 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-09-13"
+      ],
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "appearances": 1
+    },
+    {
+      "id": "75d8375ac9fe0796",
+      "source": "BBC World",
+      "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cpve191wy47o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Sun, 13 Sep 2026 14:25:56 GMT",
+      "sections": [
+        "big-story"
       ],
       "report_dates": [
         "2026-09-13"
@@ -4529,45 +4546,6 @@
       "appearances": 1
     },
     {
-      "id": "bafd0a1afbe841cd",
-      "source": "Good News Network",
-      "headline": "Luxurious Bath Complex Used by Roman Emperor Found in Serbia",
-      "summary": "From Serbia comes the story of a technically-impressive and luxurious Roman bath complex discovered for the first time. Containing three different bathing pools and a sauna, it was designed for Emperor Maximinus Daza, who briefly held the throne before dying in a civil war. The bath complex, known in Latin as a balneum, was found",
-      "url": "https://www.goodnewsnetwork.org/luxurious-bath-complex-used-by-roman-emperor-found-in-serbia/",
-      "canonical_url": "https://www.goodnewsnetwork.org/luxurious-bath-complex-used-by-roman-emperor-found-in-serbia",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 13:00:55 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-11"
-      ],
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "appearances": 1
-    },
-    {
-      "id": "664280fb07a0bc06",
-      "source": "MarTech",
-      "headline": "Lost in translation: Why content and data teams can’t speak the same language",
-      "summary": "Cross-team miscommunication halts campaign execution. On Sept. 2, learn how content and data teams can align signals, build shared context, and drive outcomes.",
-      "url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/",
-      "canonical_url": "https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language",
-      "image": "https://martech.org/wp-content/uploads/2026/08/lost-in-translation-no-text-800x450.png",
-      "published": "Fri, 11 Sep 2026 14:27:40 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-11",
-        "2026-08-27"
-      ],
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-09-11",
-      "appearances": 2
-    },
-    {
       "id": "550c49c6e24b9c5c",
       "source": "Ars Technica",
       "headline": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
@@ -5073,25 +5051,6 @@
       "published": "Thu, 10 Sep 2026 18:00:37 +0000",
       "sections": [
         "animals"
-      ],
-      "report_dates": [
-        "2026-09-11"
-      ],
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "appearances": 1
-    },
-    {
-      "id": "451118a3df917d7b",
-      "source": "BBC Health",
-      "headline": "Assisted dying: How laws differ around the world",
-      "summary": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
-      "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b750/live/d8a224a0-adb7-11ef-bdf5-b7cb2fa86e10.jpg",
-      "published": "Fri, 11 Sep 2026 13:46:48 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-11"
@@ -5843,6 +5802,25 @@
       "appearances": 1
     },
     {
+      "id": "fd93dacf3e7bee74",
+      "source": "BBC Health",
+      "headline": "Migraines and acne among five more conditions pharmacists can treat",
+      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/cda17b80-ace0-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
       "id": "36d9dfc64ece82ad",
       "source": "BBC Health",
       "headline": "Menstrual fitness: Why some women are 'cycle-syncing' their workouts",
@@ -6321,6 +6299,25 @@
       "appearances": 1
     },
     {
+      "id": "ec1691a576c12e4c",
+      "source": "Smithsonian",
+      "headline": "Archaeologists Excavating a Roman-Era Cemetery in Poland Were Surprised to Stumble Upon a 5,000-Year-Old Necklace Made of 42 Teeth",
+      "summary": "Crafted from the teeth of large mammals, such as wolves, deer, bears and perhaps even humans, the jewelry was found in a grave in southern Poland that may belong to an important patriarch of the Corded Ware culture",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/BYLadOrwvcHGmBGul_DynGA72aM=/420x240/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/74/58744720-be88-40a9-a2a1-a4fec11a6f2a/792508615_2953780694972800_6084568669239326733_n.jpeg",
+      "published": "Wed, 09 Sep 2026 21:05:23 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
       "id": "c3225c583b5c5447",
       "source": "Ars Technica",
       "headline": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
@@ -6464,6 +6461,25 @@
       "published": "Wed, 09 Sep 2026 19:47:43 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-10"
+      ],
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "appearances": 1
+    },
+    {
+      "id": "819ba6baec266de3",
+      "source": "BBC Health",
+      "headline": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
+      "summary": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
+      "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg",
+      "published": "Thu, 10 Sep 2026 09:31:16 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-10"
@@ -7560,6 +7576,25 @@
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-09",
       "appearances": 2
+    },
+    {
+      "id": "f26e0cf2a77872bc",
+      "source": "BBC Entertainment",
+      "headline": "Alan Carr holds back tears on special night at National Television Awards",
+      "summary": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6481/live/d9867910-ac17-11f1-a291-b542ee92de7c.png",
+      "published": "Wed, 09 Sep 2026 01:28:19 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-09"
+      ],
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "appearances": 1
     },
     {
       "id": "a0f0843758934f07",
