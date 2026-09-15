@@ -1,18 +1,18 @@
 {
   "latest": "data/archive/2026-09-15.json",
   "report_date": "2026-09-15",
-  "generated_at": "2026-09-15T12:54:03.021220+00:00",
+  "generated_at": "2026-09-15T14:20:57.476974+00:00",
   "edition_count": 62,
   "editions": [
     {
       "report_date": "2026-09-15",
-      "generated_at": "2026-09-15T12:54:03.021220+00:00",
+      "generated_at": "2026-09-15T14:20:57.476974+00:00",
       "path": "data/archive/2026-09-15.json",
       "top_story": {
-        "source": "NPR",
-        "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-        "summary": "The Supreme Court has rejected President Trump's push for new mail-in voting restrictions for the midterm election.",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+        "source": "The Verge",
+        "headline": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based",
+        "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
         "image": "assets/images/clementine-madison-morning.webp"
       },
       "story_count": 72,
