@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T11:51:51.120474+00:00",
+  "generated_at": "2026-09-15T12:56:05.053105+00:00",
   "edition_count": 62,
-  "story_count": 3822,
+  "story_count": 3823,
   "stories": [
     {
       "id": "c55f79be4a90de18",
@@ -104,6 +104,25 @@
       "appearances": 2
     },
     {
+      "id": "627b356245fedaf8",
+      "source": "MarTech",
+      "headline": "Why marketing keeps redrawing its org chart",
+      "summary": "Every marketing org structure solves a different problem. The challenge is knowing when your current model has stopped solving yours.",
+      "url": "https://martech.org/why-marketing-keeps-redrawing-its-org-chart/",
+      "canonical_url": "https://martech.org/why-marketing-keeps-redrawing-its-org-chart",
+      "image": "https://martech.org/wp-content/uploads/2017/08/orgchart-800x450.png",
+      "published": "Tue, 15 Sep 2026 12:03:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "f813ae1355364f03",
       "source": "Positive News",
       "headline": "What went right this week: the good news that matters",
@@ -200,35 +219,16 @@
       "appearances": 1
     },
     {
-      "id": "3d8d8ab1a989d5bf",
-      "source": "Madison Local",
-      "headline": "UW-Madison details hazing investigation that led to frat’s suspension - Wisconsin State Journal",
-      "summary": "UW-Madison details hazing investigation that led to frat’s suspension Wisconsin State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWdES0NEY2FhYUVHbFFMVFR2NTgwdXpHbl90NXN1NEpOUEhMUHpTVUFBZWE3YkVDaWtIeU44LXZMUW1OWk9XdWEtMW1RS3NGeFFFUjlTSTBIcTRqOU1mNlpQLThNbEg3V05mZEJGVVRvdV9tOU5SODl5d1MzVHE0bUdkWHRqS1NKUXY0Mm93ODZJSzVRcG1xalAwT0xhMDVsLTFv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWdES0NEY2FhYUVHbFFMVFR2NTgwdXpHbl90NXN1NEpOUEhMUHpTVUFBZWE3YkVDaWtIeU44LXZMUW1OWk9XdWEtMW1RS3NGeFFFUjlTSTBIcTRqOU1mNlpQLThNbEg3V05mZEJGVVRvdV9tOU5SODl5d1MzVHE0bUdkWHRqS1NKUXY0Mm93ODZJSzVRcG1xalAwT0xhMDVsLTFv",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 11:10:00 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
       "id": "4a7f1beb89086fb2",
       "source": "Wisconsin News",
-      "headline": "US Supreme Court rejects Trump mail-in ballot restrictions ahead of the 2026 midterms - PBS Wisconsin",
-      "summary": "US Supreme Court rejects Trump mail-in ballot restrictions ahead of the 2026 midterms PBS Wisconsin",
+      "headline": "US Supreme Court rejects Trump mail-in ballot restrictions ahead of the 2026 midterms - pbswisconsin.org",
+      "summary": "US Supreme Court rejects Trump mail-in ballot restrictions ahead of the 2026 midterms pbswisconsin.org",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3J0Q3hkOEpweWJ0bHoxcDg1VExZWEJJQW52SUc5RENFOHlxamdYYl9jc294QVpTSW05SDJrb0JBQWQwc3pOWXpMZmpMVDN1eGlBZ0JDeXVFNE1DWUZieWpETFQ1OHlia1JqQWkyb05ELVRkRW5ORVN4eHhlcjRFUWtjM2UzN1VQTjhWVER0MUFXTExxQzJQSmM2MzJ5YzF6Y214NXhjT2plLWRsN2FnOWZfejdaNG5SeFd5WDdn?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3J0Q3hkOEpweWJ0bHoxcDg1VExZWEJJQW52SUc5RENFOHlxamdYYl9jc294QVpTSW05SDJrb0JBQWQwc3pOWXpMZmpMVDN1eGlBZ0JDeXVFNE1DWUZieWpETFQ1OHlia1JqQWkyb05ELVRkRW5ORVN4eHhlcjRFUWtjM2UzN1VQTjhWVER0MUFXTExxQzJQSmM2MzJ5YzF6Y214NXhjT2plLWRsN2FnOWZfejdaNG5SeFd5WDdn",
       "image": "",
       "published": "Tue, 15 Sep 2026 02:31:09 GMT",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-15"
@@ -244,7 +244,7 @@
       "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38af/live/0a4981c0-b0fd-11f1-b1d1-571ed4d7ff2c.jpg",
       "published": "Tue, 15 Sep 2026 08:49:31 GMT",
       "sections": [
         "ai-tech"
@@ -278,44 +278,6 @@
       "appearances": 2
     },
     {
-      "id": "3811abf3c7691a87",
-      "source": "Customer Data",
-      "headline": "The measurable future of audio is already here in Brazil - roastbrief.us",
-      "summary": "The measurable future of audio is already here in Brazil roastbrief.us",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV8ySE9ENzFpVDlyT1U0d1JPMnhLelBPQmxpcGQwN2xjTTlvRHFPOFlqMUVickJFOU5sRzRhVmx3RVFYU1hWaVpHdXhoRXVqcmJ6aHpoSF9Ra3lvak85cjFwRmZ3bHY2bXFZQV9lYWVWSzRIdHItLU9DZUJjNEJhdTliSHRPZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV8ySE9ENzFpVDlyT1U0d1JPMnhLelBPQmxpcGQwN2xjTTlvRHFPOFlqMUVickJFOU5sRzRhVmx3RVFYU1hWaVpHdXhoRXVqcmJ6aHpoSF9Ra3lvak85cjFwRmZ3bHY2bXFZQV9lYWVWSzRIdHItLU9DZUJjNEJhdTliSHRPZw",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 20:42:22 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
-      "id": "16be3bc3d0e3398e",
-      "source": "B2B Marketing Ops",
-      "headline": "The Center for Sales Strategy Brings Real-World Sales Training to the College Classroom at SUNY Brockport - EIN News",
-      "summary": "The Center for Sales Strategy Brings Real-World Sales Training to the College Classroom at SUNY Brockport EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQem9oOHQwaWdQWUVIcjlZQTlRZ1cza094OGhYUTlGenRWVWNfZHVyWGRZXy12TEVUU1hZRDktcW5JRXRMM2NIZERrc3NPdXdOeGRvZzVBSGczVGJld0hqVlEtT0oxRXlIakMwV0pYYnlKMV9MaHd6eUtmbk9wLWViQ3ZnaG1uZHZUVGdkcS1rN1hwdWpCQTJVcWw1UXJodXlmVG4wckhpd1hqY0VuNFJhQnN0enRKclVMdms5T0RmZlVRTWg0dmR5al9sTVBLSVpMN1hfWXUxSmlRWUpDb2FUaw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQem9oOHQwaWdQWUVIcjlZQTlRZ1cza094OGhYUTlGenRWVWNfZHVyWGRZXy12TEVUU1hZRDktcW5JRXRMM2NIZERrc3NPdXdOeGRvZzVBSGczVGJld0hqVlEtT0oxRXlIakMwV0pYYnlKMV9MaHd6eUtmbk9wLWViQ3ZnaG1uZHZUVGdkcS1rN1hwdWpCQTJVcWw1UXJodXlmVG4wckhpd1hqY0VuNFJhQnN0enRKclVMdms5T0RmZlVRTWg0dmR5al9sTVBLSVpMN1hfWXUxSmlRWUpDb2FUaw",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 20:15:00 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
       "id": "b5cfc34c3be3dbe6",
       "source": "Taylor Fashion",
       "headline": "Taylor Swift cheers on Travis Kelce in red checked polo dress at Chiefs vs. Broncos game - Page Six",
@@ -335,16 +297,16 @@
       "appearances": 1
     },
     {
-      "id": "27875360fb9d682c",
+      "id": "a3c9359a0cdedcab",
       "source": "Taylor Alert",
-      "headline": "Taylor Swift and Her Cat, Olivia Benson, Meet 'Law & Order' Olivia Benson in Clue-Filled Emmys Sketch - Rolling Stone",
-      "summary": "Taylor Swift and Her Cat, Olivia Benson, Meet 'Law & Order' Olivia Benson in Clue-Filled Emmys Sketch Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEwyWWgyR0hLV01zNFRfdXRnNUN3WElIMTJXUlExRGl6WFNXVE8xWlY4VFFXWk5RWjdZc2JuUUtsN2l5a0hFUG9MdXVjenM2WU53NVUteFQ3QjkwTXZTMmIzNldYZGUzVXU2TmY2Zm9HUjNCWXZNVXI2X0hJUUJlQmhCdGdJbXRILUlfTDRRWkdTbnZidUNZSFBfc0FmS1JIdVNzbkNTSXZzQXR1YVJ1WDgxR2Y5el84THI5REhjME5mUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEwyWWgyR0hLV01zNFRfdXRnNUN3WElIMTJXUlExRGl6WFNXVE8xWlY4VFFXWk5RWjdZc2JuUUtsN2l5a0hFUG9MdXVjenM2WU53NVUteFQ3QjkwTXZTMmIzNldYZGUzVXU2TmY2Zm9HUjNCWXZNVXI2X0hJUUJlQmhCdGdJbXRILUlfTDRRWkdTbnZidUNZSFBfc0FmS1JIdVNzbkNTSXZzQXR1YVJ1WDgxR2Y5el84THI5REhjME5mUQ",
+      "headline": "Taylor Swift (and Cat Olivia Benson) Crash Emmys’ Law & Order SVU Sketch: Watch - Consequence of Sound",
+      "summary": "Taylor Swift (and Cat Olivia Benson) Crash Emmys’ Law & Order SVU Sketch: Watch Consequence of Sound",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGRhLTVvY3hCNm0xd21hWm9DOTMxQVNWQ1pZMTYtNzVwMkR0VVhCT3p6WUREWEZuaDZPSU9FWC1qVDZsaGc3c1YwcF8zTU92QlFZVjJ3VkVmLW8zWnNKZGc4QjNuZl85VlduaW5uNjJyc0swVjVERUhB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGRhLTVvY3hCNm0xd21hWm9DOTMxQVNWQ1pZMTYtNzVwMkR0VVhCT3p6WUREWEZuaDZPSU9FWC1qVDZsaGc3c1YwcF8zTU92QlFZVjJ3VkVmLW8zWnNKZGc4QjNuZl85VlduaW5uNjJyc0swVjVERUhB",
       "image": "",
-      "published": "Tue, 15 Sep 2026 01:34:57 GMT",
+      "published": "Tue, 15 Sep 2026 01:31:00 GMT",
       "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-15"
@@ -364,6 +326,25 @@
       "published": "Tue, 15 Sep 2026 06:46:50 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
+      "id": "0e6895af1eb925b1",
+      "source": "Associated Press",
+      "headline": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTcwU3V1SjNHY3NYTWtoRm1ON2NuQW9ydWhxakJtM1VjODhoMXZoaVYyeDFod0t3eWg3NndxNDZUVEEzMXpSdG0wQ2NqZm1sNGdMek1XeWlCVVZmOERsbl90SjFUT1h0XzFNcWg0Q1hTZUtpOHY0dzlVdXJNam1KU3lPRExhN3NqLTJnR3dXVjlCRjItU1otamg5R2tKbnNZUURGcHhnS1d3d29r0gGyAUFVX3lxTE8xeDVWWnpITzRDZTVZWm9lSUFPbGxmMHVlTUd2RGNjdnUwYVc0RVUtRXlHb21DQVJIQWZFSlZnUmY1eC0wV2xfSUxHNldUb3llczZrMjlmNjVaU1VOcEpaZlVubTVHR2ZkM1dyYjU1anhmSzBJQlBQa2lCYlFyMC1DN3AzdWs3OWdQT0ZpTVVfLVRSZ0xHNmV4bDVRWGlhY29VaDNlVlYxZXFtRDZuUEVDT1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTcwU3V1SjNHY3NYTWtoRm1ON2NuQW9ydWhxakJtM1VjODhoMXZoaVYyeDFod0t3eWg3NndxNDZUVEEzMXpSdG0wQ2NqZm1sNGdMek1XeWlCVVZmOERsbl90SjFUT1h0XzFNcWg0Q1hTZUtpOHY0dzlVdXJNam1KU3lPRExhN3NqLTJnR3dXVjlCRjItU1otamg5R2tKbnNZUURGcHhnS1d3d29r0gGyAUFVX3lxTE8xeDVWWnpITzRDZTVZWm9lSUFPbGxmMHVlTUd2RGNjdnUwYVc0RVUtRXlHb21DQVJIQWZFSlZnUmY1eC0wV2xfSUxHNldUb3llczZrMjlmNjVaU1VOcEpaZlVubTVHR2ZkM1dyYjU1anhmSzBJQlBQa2lCYlFyMC1DN3AzdWs3OWdQT0ZpTVVfLVRSZ0xHNmV4bDVRWGlhY29VaDNlVlYxZXFtRDZuUEVDT1E",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 07:09:19 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-15"
@@ -440,25 +421,6 @@
       "published": "Mon, 14 Sep 2026 17:00:07 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
-      "id": "b720f41df35af81c",
-      "source": "Search Engine Land",
-      "headline": "SEOquake: How to use the free Chrome extension for fast on-page SEO audits - Search Engine Land",
-      "summary": "SEOquake: How to use the free Chrome extension for fast on-page SEO audits Search Engine Land",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUXpRMlo2dWtPWDB0WWRSRlBNX0FuVEhKbVQxeEs3WGlYaVZmMkNac2FqRXNUZVdqRXRoY3FDOVhoU2xIUVRtRk0waE9VRlpwV2NlRjR3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUXpRMlo2dWtPWDB0WWRSRlBNX0FuVEhKbVQxeEs3WGlYaVZmMkNac2FqRXNUZVdqRXRoY3FDOVhoU2xIUVRtRk0waE9VRlpwV2NlRjR3",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 21:33:00 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-09-15"
@@ -582,6 +544,25 @@
       "appearances": 1
     },
     {
+      "id": "40ccb0e1c8871f90",
+      "source": "Reuters",
+      "headline": "Panic buttons at the ready as election officials brace for Trump’s midterm push - Reuters",
+      "summary": "Panic buttons at the ready as election officials brace for Trump’s midterm push Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 11:01:44 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "5180d1759b19c37e",
       "source": "Mongabay",
       "headline": "Panama looks to science, fishers, and the law to protect its sharks and rays - news - Mongabay",
@@ -630,25 +611,6 @@
       "published": "Mon, 14 Sep 2026 23:31:51 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
-      "id": "db8c98221b21fbc0",
-      "source": "Associated Press",
-      "headline": "Missouri election chief faces whistleblower lawsuit from fired election integrity director - AP News",
-      "summary": "Missouri election chief faces whistleblower lawsuit from fired election integrity director AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVNTYVJseDRYQXMwaUtFVDRMMWRaV19OaUZZcm42eWZTTkdkejRLNUtwc1IyOW0wNjE3T1UxY0docTMydWZyNjVfOUZrQWlrT1hBOTdCM0U5M3FwUmRvNGdrMXJ3SU0tVjNSOUdyV1RWTHMyRVJvai1NZzVIYUhfa3FyY0w4YW9qU2xxbUJQdHhIZi1obU9wUHpnRm91SnJzc1FCck5obFplMGtza2c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVNTYVJseDRYQXMwaUtFVDRMMWRaV19OaUZZcm42eWZTTkdkejRLNUtwc1IyOW0wNjE3T1UxY0docTMydWZyNjVfOUZrQWlrT1hBOTdCM0U5M3FwUmRvNGdrMXJ3SU0tVjNSOUdyV1RWTHMyRVJvai1NZzVIYUhfa3FyY0w4YW9qU2xxbUJQdHhIZi1obU9wUHpnRm91SnJzc1FCck5obFplMGtza2c",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 19:19:00 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-15"
@@ -754,10 +716,29 @@
       "appearances": 1
     },
     {
+      "id": "36b62a13358d3ce8",
+      "source": "B2B Marketing Ops",
+      "headline": "Mandi Ross has been appointed as Vice President of Operations, Sales Max at Dellisart LLC - Hospitality Net",
+      "summary": "Mandi Ross has been appointed as Vice President of Operations, Sales Max at Dellisart LLC Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zSW1BLWFiTTdOS2lfMk9pTlZEdXAtVzNVQlliVmk2M2ljblZYN0cwWFVzOTdOZXJaeEVBc0s3T1c5OHhwSGtiX1pUZk85cFRhTDZnbllwUVpCdkdOTUlVRjFUN0lqek41a0V1dTB5WQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zSW1BLWFiTTdOS2lfMk9pTlZEdXAtVzNVQlliVmk2M2ljblZYN0cwWFVzOTdOZXJaeEVBc0s3T1c5OHhwSGtiX1pUZk85cFRhTDZnbllwUVpCdkdOTUlVRjFUN0lqek41a0V1dTB5WQ",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 12:40:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "48a9d1b16830fbc6",
       "source": "Madison365",
-      "headline": "Madison Black Chamber of Commerce awards $602,281 in grants to 40 local businesses - Madison365",
-      "summary": "Madison Black Chamber of Commerce awards $602,281 in grants to 40 local businesses Madison365",
+      "headline": "Madison Black Chamber of Commerce awards $602,281 in grants to 40 local businesses - madison365.com",
+      "summary": "Madison Black Chamber of Commerce awards $602,281 in grants to 40 local businesses madison365.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1prSnkyNG4tY2hvR1A5TkVLc18yX1RJbEF1UHZiUXprTHlTdldYY1lPb3RBalhUellib3JmTEhiblk0SXlKLTNPYjVscUx0MVFXdDJ3T3hoMjB0T2FWYkltdEtPem9hc1BOQnhVNVhDZzAydllGY0NiVVlHYnJxX2tCc1BwRy02VkxIVVhjMURRandOOUpYRjZZc2hxU1ZFTFVtaWIxaw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1prSnkyNG4tY2hvR1A5TkVLc18yX1RJbEF1UHZiUXprTHlTdldYY1lPb3RBalhUellib3JmTEhiblk0SXlKLTNPYjVscUx0MVFXdDJ3T3hoMjB0T2FWYkltdEtPem9hc1BOQnhVNVhDZzAydllGY0NiVVlHYnJxX2tCc1BwRy02VkxIVVhjMURRandOOUpYRjZZc2hxU1ZFTFVtaWIxaw",
       "image": "",
@@ -792,25 +773,6 @@
       "appearances": 1
     },
     {
-      "id": "6c4ff3a342fe1058",
-      "source": "Animals",
-      "headline": "Land appeal to create new animal sanctuary in rural Northumberland - Hexham Courant",
-      "summary": "Land appeal to create new animal sanctuary in rural Northumberland Hexham Courant",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZpcC1Da3l3dDBmclM2ME91SHVzUTJtYWJHV3pva0R5eGRicE1sekZlM2ZiY3JxdHJ6dDJqWHRwVV9iZkRGZkVLbm1NTjFfTDhRTW5YQXJoaTVDMEtCZE1CUklrMHlvMFdHSGxCMHpSTXRFMzF6YU5JcHlUQ2lUUnBrUlN0cWJ3NzBuQkNheHE5MUVpV2ctOGNNVQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZpcC1Da3l3dDBmclM2ME91SHVzUTJtYWJHV3pva0R5eGRicE1sekZlM2ZiY3JxdHJ6dDJqWHRwVV9iZkRGZkVLbm1NTjFfTDhRTW5YQXJoaTVDMEtCZE1CUklrMHlvMFdHSGxCMHpSTXRFMzF6YU5JcHlUQ2lUUnBrUlN0cWJ3NzBuQkNheHE5MUVpV2ctOGNNVQ",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 04:00:00 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
       "id": "75e46e766fd5fd5c",
       "source": "Wisconsin Public Radio",
       "headline": "Kenosha County DA has law license suspended",
@@ -821,25 +783,6 @@
       "published": "Mon, 14 Sep 2026 19:00:05 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
-      "id": "4a51ae1ed03230a3",
-      "source": "Customer Data",
-      "headline": "Kaiko raises $53M to grow its crypto data platform - SiliconANGLE",
-      "summary": "Kaiko raises $53M to grow its crypto data platform SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSTJrZmFVM0hSenh1SXFIeTNiZ3pkV05Nd0d3ZFdFSDB3TUlieTR4QzdWclFNZ0FOM216bTgwRm1HZkpkUjZNU25lZlpJeFJwZW5ReElMbzljOE9kMm10UlNzUktjWVp5XzVCalMtVFpnNDNDcEs0UHNtaE9rUXl6WXN1M0JuOEQ5WVgzYU1JQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSTJrZmFVM0hSenh1SXFIeTNiZ3pkV05Nd0d3ZFdFSDB3TUlieTR4QzdWclFNZ0FOM216bTgwRm1HZkpkUjZNU25lZlpJeFJwZW5ReElMbzljOE9kMm10UlNzUktjWVp5XzVCalMtVFpnNDNDcEs0UHNtaE9rUXl6WXN1M0JuOEQ5WVgzYU1JQQ",
-      "image": "",
-      "published": "Mon, 14 Sep 2026 20:29:00 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-09-15"
@@ -969,6 +912,25 @@
       "appearances": 2
     },
     {
+      "id": "63d8eea533b0b394",
+      "source": "NPR",
+      "headline": "Geopolitics and grain don't mix, say these Montana farmers",
+      "summary": "Farmers in states bordering Canada say they are reeling from President Trump's trade wars and resulting retaliatory tariffs. And it's just not neighborly.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+      "canonical_url": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 08:33:19 -0400",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "121d26eb7b60a423",
       "source": "MarTech",
       "headline": "FTC puts personalized pricing practices on notice",
@@ -1049,16 +1011,35 @@
       "appearances": 1
     },
     {
-      "id": "ec0bd147e2436860",
-      "source": "NPR",
-      "headline": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says",
-      "summary": "John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department probe into whether former law enforcement and intelligence officials conspired against President Trump.",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
-      "canonical_url": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 02:58:02 -0400",
+      "id": "c09c395f64b2f6b5",
+      "source": "BBC Entertainment",
+      "headline": "Five things you may not know about Emmy history-maker Matthew Rhys",
+      "summary": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+      "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg",
+      "published": "Tue, 15 Sep 2026 12:06:19 GMT",
       "sections": [
-        "must-know"
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
+      "id": "e7c2cb6cc9ed3605",
+      "source": "HubSpot Marketing",
+      "headline": "Enterprise email marketing shortfalls and the upmarket features to avoid them",
+      "summary": "Most email marketing teams know the basics. Authenticate your domain. Clean your list. Write a compelling subject line—test before you send.",
+      "url": "https://blog.hubspot.com/marketing/advanced-email-marketing-challenges",
+      "canonical_url": "https://blog.hubspot.com/marketing/advanced-email-marketing-challenges",
+      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/Copy%20of%20Featured%20Images_Blog%20Title%20Templates%20(6).png",
+      "published": "Tue, 15 Sep 2026 12:00:02 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-15"
@@ -1125,6 +1106,25 @@
       "appearances": 1
     },
     {
+      "id": "f2cde8c251eb2dec",
+      "source": "BBC Science",
+      "headline": "Data centre could threaten rare species, says charity",
+      "summary": "Incredibly rare habitats would be destroyed, the Essex Wildlife Trust warns.",
+      "url": "https://www.bbc.co.uk/news/articles/c24jrm0v8j4o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c24jrm0v8j4o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/a2119b30-adfd-11f1-8169-6fdea7f79791.jpg",
+      "published": "Tue, 15 Sep 2026 12:51:21 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "1ecbd04ed294171d",
       "source": "Dane County",
       "headline": "Dane County Sheriff’s Office warns of bail-out scams - Wisconsin State Journal",
@@ -1165,8 +1165,8 @@
     {
       "id": "b21b41e8d057a42c",
       "source": "Dane County",
-      "headline": "Dane County sheriff warns of scam targeting families of inmates - wkow.com",
-      "summary": "Dane County sheriff warns of scam targeting families of inmates wkow.com",
+      "headline": "Dane County sheriff warns of scam targeting families of inmates - WKOW",
+      "summary": "Dane County sheriff warns of scam targeting families of inmates WKOW",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFlNNTc0cjR6ZTRMZmJoNEk1ZTV5dkJNQjlxWkxiaHA5V2pUalFwMzNHWWRUeUNveFQzSm03T293ZWhCUUFxN213RkFHbmZKQWdsYlpVV0FlYk9sTXktTE9wa0pTTHBBbEFzR1ZmODNhUHJIT0VlZUlfNmJJSUFjbk91OW8wZVN5TjRyRC1NU2NqRWd6djlWQmNJVFpZXzRyUkUzVWh4ZEFyb2YzZzRDSVpyWDFzeXVHTlNPb2xUejQzLUxXc1lVVS1iVHBpWE9DVU5WbEpn?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFlNNTc0cjR6ZTRMZmJoNEk1ZTV5dkJNQjlxWkxiaHA5V2pUalFwMzNHWWRUeUNveFQzSm03T293ZWhCUUFxN213RkFHbmZKQWdsYlpVV0FlYk9sTXktTE9wa0pTTHBBbEFzR1ZmODNhUHJIT0VlZUlfNmJJSUFjbk91OW8wZVN5TjRyRC1NU2NqRWd6djlWQmNJVFpZXzRyUkUzVWh4ZEFyb2YzZzRDSVpyWDFzeXVHTlNPb2xUejQzLUxXc1lVVS1iVHBpWE9DVU5WbEpn",
       "image": "",
@@ -1220,56 +1220,16 @@
       "appearances": 1
     },
     {
-      "id": "e7e8bb1ba32076c7",
-      "source": "Reuters",
-      "headline": "COMMENTARY: Is Big Law paying too much for star partners? - Reuters",
-      "summary": "COMMENTARY: Is Big Law paying too much for star partners? Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pNeWJUbEVFdFhKRjVHVjBaeGM4RzZId0g5dG5pTjMtTGMzVlRxMWtiNVRTY3E5amhMRU9sRWRGZVU3VmVuVTFGOFE3VzhIWlR5S1ZvNGk2dnJkdXhtNjA1am44dElsYjNKZ04yek9YM0ZBVTZTVDU0S0VJSi1oa2tiN0dXMXFfN2VVU1NtV2FSdUgyS1VwZTBVT1c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1pNeWJUbEVFdFhKRjVHVjBaeGM4RzZId0g5dG5pTjMtTGMzVlRxMWtiNVRTY3E5amhMRU9sRWRGZVU3VmVuVTFGOFE3VzhIWlR5S1ZvNGk2dnJkdXhtNjA1am44dElsYjNKZ04yek9YM0ZBVTZTVDU0S0VJSi1oa2tiN0dXMXFfN2VVU1NtV2FSdUgyS1VwZTBVT1c",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 10:09:45 GMT",
+      "id": "a1a45ac3744ebd99",
+      "source": "MarTech",
+      "headline": "ChatGPT Ads are a tactical bet, not a platform strategy",
+      "summary": "Marketers have a short-term opportunity to test inexpensive inventory while keeping most of their resources on Google.",
+      "url": "https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/",
+      "canonical_url": "https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy",
+      "image": "https://martech.org/searchengineland.com/wp-content/seloads/2026/09/Statcounters-browser-market-share-data.png",
+      "published": "Tue, 15 Sep 2026 12:08:00 +0000",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-15"
-      ],
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "appearances": 1
-    },
-    {
-      "id": "b68814720c61ef76",
-      "source": "BBC World",
-      "headline": "China criticises idea it is in 'malicious competition' over AI",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cn8me133119o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
-      "published": "Mon, 14 Sep 2026 11:31:39 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-15",
-        "2026-09-14"
-      ],
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
-      "appearances": 2
-    },
-    {
-      "id": "279c5c818e4ed468",
-      "source": "NPR",
-      "headline": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-      "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI.",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-      "canonical_url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 05:00:00 -0400",
-      "sections": [
-        "ai-tech"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-15"
@@ -1320,8 +1280,8 @@
     {
       "id": "d288b47bb9dd5f29",
       "source": "Customer Data",
-      "headline": "Air India Accelerates Customer Service Transformation with Salesforce Agentforce - salesforce.com",
-      "summary": "Air India Accelerates Customer Service Transformation with Salesforce Agentforce salesforce.com",
+      "headline": "Air India Accelerates Customer Service Transformation with Salesforce Agentforce - Salesforce",
+      "summary": "Air India Accelerates Customer Service Transformation with Salesforce Agentforce Salesforce",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJ6aE9IYUI2dkZRTk5qZWNVcC1mSTUxOUR1VEtwSEdoTFdsQXNnWEYxQnBsQkJ6YlJ4N01mUEUxd3g2c3dzNjVwNy1RS1VUdnpaZEs3eWhxYlNoYzBja3FEM21vbnNaQTBHLWNEajhFNnhQSHMxLUxaQXlUc2ZEYnJuQlFTdmtkb0JUekdLS1cwVnByS1gwdERwRE14YjFGdDlIZHAwNml1MmJGY2NqbG9MLUhNcER4SGZfaWpMZ3NQVjlMMzFoTjI5bw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWJ6aE9IYUI2dkZRTk5qZWNVcC1mSTUxOUR1VEtwSEdoTFdsQXNnWEYxQnBsQkJ6YlJ4N01mUEUxd3g2c3dzNjVwNy1RS1VUdnpaZEs3eWhxYlNoYzBja3FEM21vbnNaQTBHLWNEajhFNnhQSHMxLUxaQXlUc2ZEYnJuQlFTdmtkb0JUekdLS1cwVnByS1gwdERwRE14YjFGdDlIZHAwNml1MmJGY2NqbG9MLUhNcER4SGZfaWpMZ3NQVjlMMzFoTjI5bw",
       "image": "",
@@ -1356,6 +1316,25 @@
       "appearances": 1
     },
     {
+      "id": "f763038980f3100f",
+      "source": "MIT Technology Review",
+      "headline": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "Last year, the clinical trial policy analyst Ruxandra Teslo posted an idea for super-charging medical AI systems: use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—information usually kept hidden as valuable trade secrets. She called these…",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "canonical_url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
       "id": "9f1bce286771a142",
       "source": "Ars Technica",
       "headline": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -1366,6 +1345,25 @@
       "published": "Mon, 14 Sep 2026 21:04:32 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-15"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "appearances": 1
+    },
+    {
+      "id": "709a7d28c34fd224",
+      "source": "Madison Local",
+      "headline": "7 Extra-Cozy Airbnbs in Madison, Wisconsin Where You Can Watch the Leaves Change - TravelAwaits",
+      "summary": "7 Extra-Cozy Airbnbs in Madison, Wisconsin Where You Can Watch the Leaves Change TravelAwaits",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODNDNVdRejVzc25JazJTR1VFVWZuRlNXdldpUlVyajYwSWVydjRXSEIxLV9vaVh6dW9ZSzhvQ3F6UDdLTW44cXZ4MlZYanNIMnBTc3N3TU5uTDRQNkV0TFh2aXEzaVlWM0QtOGJrNWd0ekpTb1JuWkZLMktIT1Y3VUZlS3RJZTVlNnZyMEFkZk9VUy1C?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODNDNVdRejVzc25JazJTR1VFVWZuRlNXdldpUlVyajYwSWVydjRXSEIxLV9vaVh6dW9ZSzhvQ3F6UDdLTW44cXZ4MlZYanNIMnBTc3N3TU5uTDRQNkV0TFh2aXEzaVlWM0QtOGJrNWd0ekpTb1JuWkZLMktIT1Y3VUZlS3RJZTVlNnZyMEFkZk9VUy1C",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 12:53:06 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-09-15"
@@ -2439,6 +2437,25 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmhyZ3c2YVJ2Z2RnTmxEc2REQnIwR2VJWjdfVTdIbmhWMmNqTXc0SjliS3V5OExDM3VyNlRnUW1IT0JMVk1tYmJFa1FWLTRvaEdxWVlzZFVrVzdNWGtZMktYSE5EQlo2OVVGSVJLc1J0WERESGc2eFFGZk9fT3B0RllHa2pCeFhTVFFIM0xhQ25JWnBqV0JWdmMyM1hwNUtmWFU5NDNjaTJUektaWWpJaXY0b2RIZ3p4U0tHSEEtNUkwZ1dyQWVyRnJ3XzA",
       "image": "",
       "published": "Mon, 14 Sep 2026 04:04:00 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-14"
+      ],
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "appearances": 1
+    },
+    {
+      "id": "b68814720c61ef76",
+      "source": "BBC World",
+      "headline": "China criticises idea it is in 'malicious competition' over AI",
+      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cn8me133119o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
+      "published": "Mon, 14 Sep 2026 11:31:39 GMT",
       "sections": [
         "ai-tech"
       ],
