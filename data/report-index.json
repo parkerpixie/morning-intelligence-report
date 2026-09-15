@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-14.json",
-  "report_date": "2026-09-14",
-  "generated_at": "2026-09-14T16:58:20.927386+00:00",
-  "edition_count": 61,
+  "latest": "data/archive/2026-09-15.json",
+  "report_date": "2026-09-15",
+  "generated_at": "2026-09-15T11:50:06.707354+00:00",
+  "edition_count": 62,
   "editions": [
+    {
+      "report_date": "2026-09-15",
+      "generated_at": "2026-09-15T11:50:06.707354+00:00",
+      "path": "data/archive/2026-09-15.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
+        "summary": "The Supreme Court has rejected President Trump's push for new mail-in voting restrictions for the midterm election.",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-09-14",
       "generated_at": "2026-09-14T16:58:20.927386+00:00",
