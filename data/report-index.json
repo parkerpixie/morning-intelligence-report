@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-15.json",
-  "report_date": "2026-09-15",
-  "generated_at": "2026-09-15T15:35:08.151610+00:00",
-  "edition_count": 62,
+  "latest": "data/archive/2026-09-16.json",
+  "report_date": "2026-09-16",
+  "generated_at": "2026-09-16T11:42:49.850833+00:00",
+  "edition_count": 63,
   "editions": [
+    {
+      "report_date": "2026-09-16",
+      "generated_at": "2026-09-16T11:42:49.850833+00:00",
+      "path": "data/archive/2026-09-16.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "After SCOTUS rejects voting changes, feds still eyeing Wisconsin elections",
+        "summary": "The U.S. Supreme Court on Monday rejected an attempt by President Donald Trump to rework absentee mail-in voting requirements. But other federal efforts remain underway to obtain state voter data and investigate some states’ election processes, including Wisconsin’s.",
+        "url": "https://www.wpr.org/news/absentee-ballots-federal-action-wisconsin-voting-data",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-09-15",
       "generated_at": "2026-09-15T15:35:08.151610+00:00",
