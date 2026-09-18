@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T13:39:24.936227+00:00",
+  "generated_at": "2026-09-18T15:03:15.596184+00:00",
   "edition_count": 65,
-  "story_count": 4021,
+  "story_count": 4022,
   "stories": [
     {
       "id": "279a10fed6e3d94b",
@@ -197,28 +197,6 @@
       "appearances": 1
     },
     {
-      "id": "9e0edb8207eaf432",
-      "source": "BBC US & Canada",
-      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-18",
-        "2026-09-17",
-        "2026-09-16"
-      ],
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
-      "appearances": 3
-    },
-    {
       "id": "7b4b065f65e6c3b7",
       "source": "BBC US & Canada",
       "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -257,16 +235,16 @@
       "appearances": 1
     },
     {
-      "id": "1cbadbee8ba06280",
-      "source": "Wisconsin News",
-      "headline": "Trump Administration Agrees with WILL: Dairy Farmers Can’t Be Forced to Pay for ESG - Wisconsin Institute for Law & Liberty",
-      "summary": "Trump Administration Agrees with WILL: Dairy Farmers Can’t Be Forced to Pay for ESG Wisconsin Institute for Law & Liberty",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHpoWloxamtvNW9Tc2t1bDI0WURyQzlnYzJvdE5pcm5tUklCWmxFSXdsdUNER0EtWFFLRVQtcWMwUDlYN2x4ZXFvOTRBYUFURUt3X1AwNlFoUlFMVzIxcHJVYkRwM0pkTktQWHZEeWUxN3ozUkN6UTdNVllINGxuT3F2Nm1hZmdiUDQ4LW52TExTNjFsOTF0X0hEdDROY29RU2lxdXB3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHpoWloxamtvNW9Tc2t1bDI0WURyQzlnYzJvdE5pcm5tUklCWmxFSXdsdUNER0EtWFFLRVQtcWMwUDlYN2x4ZXFvOTRBYUFURUt3X1AwNlFoUlFMVzIxcHJVYkRwM0pkTktQWHZEeWUxN3ozUkN6UTdNVllINGxuT3F2Nm1hZmdiUDQ4LW52TExTNjFsOTF0X0hEdDROY29RU2lxdXB3",
+      "id": "3944fd8d6cd60e24",
+      "source": "Lifecycle Marketing",
+      "headline": "Truesend Helps SaaS Companies Turn Email marketing Into their Growth Engine - openpr.com",
+      "summary": "Truesend Helps SaaS Companies Turn Email marketing Into their Growth Engine openpr.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT21neFY2aVVSVHlTWDUtOUE5ZXBMN2d4bC1sdGZrYmM1QmlWdnBVNEJUQmR2UjI5WTBVT3JaY1BrZ2U2d1g1dUpWS2pyWGRWMXgzclkxSU00eENhcGFmNmxpRHF1UTAwYkxIM1A2cmh5LVZGU1BhMlp5MU1LYW9zYmx3NWxiSDRfWnV1WmVxeTVhTEpyQlQySDg4NHJOUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT21neFY2aVVSVHlTWDUtOUE5ZXBMN2d4bC1sdGZrYmM1QmlWdnBVNEJUQmR2UjI5WTBVT3JaY1BrZ2U2d1g1dUpWS2pyWGRWMXgzclkxSU00eENhcGFmNmxpRHF1UTAwYkxIM1A2cmh5LVZGU1BhMlp5MU1LYW9zYmx3NWxiSDRfWnV1WmVxeTVhTEpyQlQySDg4NHJOUQ",
       "image": "",
-      "published": "Fri, 18 Sep 2026 03:28:45 GMT",
+      "published": "Fri, 18 Sep 2026 08:16:37 GMT",
       "sections": [
-        "local"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-18"
@@ -353,16 +331,16 @@
       "appearances": 1
     },
     {
-      "id": "539c5a96bbf45589",
-      "source": "The Verge",
-      "headline": "The AI Superintelligence Slowdown",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "image": "",
-      "published": "2026-09-17T15:28:24-04:00",
+      "id": "4ebfa690d43aff5a",
+      "source": "BBC Entertainment",
+      "headline": "Tenko and Doc Martin actress Stephanie Cole dies aged 84",
+      "summary": "She was best known for playing the character Dr Beatrice Mason in the 1980s BBC wartime TV drama",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Fri, 18 Sep 2026 14:48:52 GMT",
       "sections": [
-        "ai-tech"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-18"
@@ -420,25 +398,6 @@
       "published": "Thu, 17 Sep 2026 21:44:09 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "83b5493335bb832d",
-      "source": "Reuters",
-      "headline": "Tata's quiet man is staying amid 'all-out war' at Indian conglomerate - Reuters",
-      "summary": "Tata's quiet man is staying amid 'all-out war' at Indian conglomerate Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQncxbDVMX2R3Yzhsbmk5dG1LeUFMR1Z5aklVTHFXTmFMNzllb1FPTjNFdTFwUjM3a0txY0Q3Nzljdjh3djMxeHVpWTlWWmkwN0ZuRG1yOXlqNWo0cEI1LUxMNGxhV1BiVE9Ed21aZjdhTDN2NERud2Q3WFFNYUx0amRKWmlfNnE4dmh0NFkzLW5CcVpGUURYVkNfUWhZNFRjLUlCb1FfQ0Foa1ZzTDNjWVJYWkdtQmhkQ1lj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQncxbDVMX2R3Yzhsbmk5dG1LeUFMR1Z5aklVTHFXTmFMNzllb1FPTjNFdTFwUjM3a0txY0Q3Nzljdjh3djMxeHVpWTlWWmkwN0ZuRG1yOXlqNWo0cEI1LUxMNGxhV1BiVE9Ed21aZjdhTDN2NERud2Q3WFFNYUx0amRKWmlfNnE4dmh0NFkzLW5CcVpGUURYVkNfUWhZNFRjLUlCb1FfQ0Foa1ZzTDNjWVJYWkdtQmhkQ1lj",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 13:19:08 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-18"
@@ -506,6 +465,25 @@
       "appearances": 1
     },
     {
+      "id": "ae4ed53aa72814ae",
+      "source": "Madison Local",
+      "headline": "See inside UW-Madison's new humanities hub: 'It's an energizing place' - The Capital Times",
+      "summary": "See inside UW-Madison's new humanities hub: 'It's an energizing place' The Capital Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm41Yy1QdWFKUGYzdmpCM0FCbzFiSkltZ1lycGdTTnlHemRMZTB5N2ZlTlpfc1E1Y1lNY2ZpcTdWSUo0OW9oZHRFdHZObU1qbEpYV0pMQUVOSXJFS0pZLU15UXAzcXRWWjBYZk1PRG1PNDFlcUkwRWV6WW54NkJHSmNBdGloQXZrTURFRTh1V2FDTllMeHBQT1kwWG1aZk80R2R2V2hkam1hQjlKUlZZYTZEMXBoRFhzX0Y1SzJac25RVVZVSF9HZHlrRjBYa2hIZFhhY08xTms0aDZXQ0dXcno5UmhzQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm41Yy1QdWFKUGYzdmpCM0FCbzFiSkltZ1lycGdTTnlHemRMZTB5N2ZlTlpfc1E1Y1lNY2ZpcTdWSUo0OW9oZHRFdHZObU1qbEpYV0pMQUVOSXJFS0pZLU15UXAzcXRWWjBYZk1PRG1PNDFlcUkwRWV6WW54NkJHSmNBdGloQXZrTURFRTh1V2FDTllMeHBQT1kwWG1aZk80R2R2V2hkam1hQjlKUlZZYTZEMXBoRFhzX0Y1SzJac25RVVZVSF9HZHlrRjBYa2hIZFhhY08xTms0aDZXQ0dXcno5UmhzQQ",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 10:05:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
       "id": "74c12d6d31fed061",
       "source": "Reuters",
       "headline": "Screwworm Infests US Horse Before Port Reopens to Mexican Livestock - U.S. News & World Report",
@@ -547,7 +525,7 @@
       "id": "89b5ac5e9e1c40db",
       "source": "Smithsonian",
       "headline": "Scientists Created Mice With Half-Human Brains. The Hybrid Animals Could Revolutionize Our Understanding of Neurological Disorders",
-      "summary": "Our brains and their associated diseases are notoriously hard to study. So, researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells",
+      "summary": "Our brains and their associated diseases are notoriously hard to study. So researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells",
       "url": "https://www.smithsonianmag.com/smart-news/scientists-created-mice-with-half-human-brains-the-hybrid-animals-could-revolutionize-our-understanding-of-neurological-disorders-180989518/",
       "canonical_url": "https://www.smithsonianmag.com/smart-news/scientists-created-mice-with-half-human-brains-the-hybrid-animals-could-revolutionize-our-understanding-of-neurological-disorders-180989518",
       "image": "https://th-thumbnailer.cdn-si-edu.com/fANTk77GNIecwvj39uxSR7VQnm0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/75/0a75c260-fa9a-425c-bf5e-b90eaf93c0f5/mouse-brain.png",
@@ -570,9 +548,28 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
-      "published": "Fri, 18 Sep 2026 13:00:58 GMT",
+      "published": "Fri, 18 Sep 2026 14:42:01 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "08d42e1c3b3ec379",
+      "source": "Reuters",
+      "headline": "Reuters Health News Summary - Devdiscourse",
+      "summary": "Reuters Health News Summary Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGJXMjZNZExKRDA2Y2VkSkwxTzdHb2FILTl6cThoRVlkM3g5Ty1qNWh0Q2RqbkVFbmoySktDWGN6cXVvMWpXTjEyQnByNURqdmlKQW9XblBqT2RLRnIzMml5ZGgxNjNGakVUOUFqWlJQX1lxdTl1VG1VMHZMWjBLZ1c4NjZVZlNPaWdUNUVlSdIBlAFBVV95cUxNVGI5Z1hzNjNGbURYQUVVLWo4WDVqbXVxVGg3VjJhUHl3ckI4Qk9IQUdqQnJWWEpNZm83N0hmeWJLSTRkM3VwLWVqTGgyZ1VMTVg2bmNnUjNPUDA4eHhHTDZTSWVZTG82Y0h3Z1R2c3VSVl9NdjcxY1N6NUprV1NCWGctR3N1Rk9yUi0zcnBhV1FEeWNt?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGJXMjZNZExKRDA2Y2VkSkwxTzdHb2FILTl6cThoRVlkM3g5Ty1qNWh0Q2RqbkVFbmoySktDWGN6cXVvMWpXTjEyQnByNURqdmlKQW9XblBqT2RLRnIzMml5ZGgxNjNGakVUOUFqWlJQX1lxdTl1VG1VMHZMWjBLZ1c4NjZVZlNPaWdUNUVlSdIBlAFBVV95cUxNVGI5Z1hzNjNGbURYQUVVLWo4WDVqbXVxVGg3VjJhUHl3ckI4Qk9IQUdqQnJWWEpNZm83N0hmeWJLSTRkM3VwLWVqTGgyZ1VMTVg2bmNnUjNPUDA4eHhHTDZTSWVZTG82Y0h3Z1R2c3VSVl9NdjcxY1N6NUprV1NCWGctR3N1Rk9yUi0zcnBhV1FEeWNt",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 12:56:04 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-18"
@@ -630,25 +627,6 @@
       "published": "Thu, 17 Sep 2026 22:12:00 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "ce063dcf8359cd0b",
-      "source": "BBC Entertainment",
-      "headline": "Odyssey painting goes on show at city art gallery",
-      "summary": "The work by Turner is on loan from the National Gallery and forms part of a new exhibition in York.",
-      "url": "https://www.bbc.co.uk/news/articles/c574e3kk818do?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c574e3kk818do",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b7a/live/f72baff0-b296-11f1-9b18-ad61bef6e34f.jpg",
-      "published": "Fri, 18 Sep 2026 05:20:42 GMT",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-09-18"
@@ -744,6 +722,44 @@
       "published": "Thu, 17 Sep 2026 20:10:41 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "c3a5b7792ccba958",
+      "source": "Reuters",
+      "headline": "Mexico's Sheinbaum Says Agreements Reached With Trump, as Washington Races Toward Trade Deal - U.S. News & World Report",
+      "summary": "Mexico's Sheinbaum Says Agreements Reached With Trump, as Washington Races Toward Trade Deal U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdk9yOE1mSmdPY0VEUFFGb2UtcG5TbFJoRnIxdEZTM1gtTTJELVFHQmNKUE5ielZTZXBqeDE4VFFnOHVSNHdpOHZRVXBlNDFySXhIU1l2eEJaX3ZCRVVuSDRfUUYxc3l1ZjltV1lzNDNVc21VS2ZrT256T0RfNFk5eEl2QzEyLTNmQV9WM3Q0Z0Y5Y190TXFnOWVYQkllSGg5ZlN0Wl9SaUY2RUJZOG95UzFpUkFGYzd2eGE5Vy0yQlUxajFwcG5lTUF2aFZsajdDMjV0S0x3dEpRbnZBZFpTQw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdk9yOE1mSmdPY0VEUFFGb2UtcG5TbFJoRnIxdEZTM1gtTTJELVFHQmNKUE5ielZTZXBqeDE4VFFnOHVSNHdpOHZRVXBlNDFySXhIU1l2eEJaX3ZCRVVuSDRfUUYxc3l1ZjltV1lzNDNVc21VS2ZrT256T0RfNFk5eEl2QzEyLTNmQV9WM3Q0Z0Y5Y190TXFnOWVYQkllSGg5ZlN0Wl9SaUY2RUJZOG95UzFpUkFGYzd2eGE5Vy0yQlUxajFwcG5lTUF2aFZsajdDMjV0S0x3dEpRbnZBZFpTQw",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 14:39:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "8c6b8101bc0a54c9",
+      "source": "BBC Entertainment",
+      "headline": "Live forever: Unheard Oasis recordings to be sold",
+      "summary": "The hidden tapes have been in the possession of a former sound engineer's family for 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30gxjwxv1o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6e30gxjwxv1o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c4/live/f284f510-b363-11f1-8f19-bd786ea30d0b.jpg",
+      "published": "Fri, 18 Sep 2026 13:51:45 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-18"
@@ -852,7 +868,7 @@
     {
       "id": "7e48a0c302f2896c",
       "source": "NPR",
-      "headline": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+      "headline": "How Google is drafting AI chatbot laws around the country",
       "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
       "canonical_url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
@@ -871,14 +887,33 @@
     {
       "id": "95808921ff6db06a",
       "source": "Search Engine Land",
-      "headline": "Google Ads’ Smart Bidding update appears to have ended bid suppression - searchengineland.com",
-      "summary": "Google Ads’ Smart Bidding update appears to have ended bid suppression searchengineland.com",
+      "headline": "Google Ads’ Smart Bidding update appears to have ended bid suppression - Search Engine Land",
+      "summary": "Google Ads’ Smart Bidding update appears to have ended bid suppression Search Engine Land",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2pVdHdEYkVkeVFDTEFoU3haS3JDZ3pwMUU3VGo3X3o0T2Y3TURSaTBnSzZhQ0RzQ0FNb0JjcUZ4SS1wMGpNU0s4d2h6QkdSWXpqY1JhUl9tbGpsdGMyeEpYQm14bklLZjhQUzQzdXBzcWF4bldjVVBpcEdrcGFqel9zenlQRzdSelIySUZCcHdObk11Vm54QmxnWmdmeERuWTk3c1FETUs?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2pVdHdEYkVkeVFDTEFoU3haS3JDZ3pwMUU3VGo3X3o0T2Y3TURSaTBnSzZhQ0RzQ0FNb0JjcUZ4SS1wMGpNU0s4d2h6QkdSWXpqY1JhUl9tbGpsdGMyeEpYQm14bklLZjhQUzQzdXBzcWF4bldjVVBpcEdrcGFqel9zenlQRzdSelIySUZCcHdObk11Vm54QmxnWmdmeERuWTk3c1FETUs",
       "image": "",
       "published": "Thu, 17 Sep 2026 19:58:00 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "6ddb31058a78c3f7",
+      "source": "Variety",
+      "headline": "François Arnaud and Paul Anthony Kelly at the Swarovski Party in NYC, Matthew McConaughey’s Family Night at the ‘Brothers’ Premiere in L.A. and More Red Carpet Photos: September 2026",
+      "summary": "As the summer begins to wind down in September, Hollywood is just getting started with a new crop of awards season movies premiering at the Venice Film Festival. Some of the first arrivals for the 83rd annual Italian fest included George Clooney, Laura Dern, Kate Mara, Claire Foy and jury president Maggie Gyllenhaal. At the",
+      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/",
+      "canonical_url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026",
+      "image": "https://variety.com/wp-content/uploads/2026/09/paul-anthony-kelly-fran-ois-arnaud-apple-tv-s-brothers-los-a-1000x667-1.jpg",
+      "published": "Fri, 18 Sep 2026 14:10:04 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-18"
@@ -966,8 +1001,8 @@
     {
       "id": "8c57a0f6836f52c6",
       "source": "Salesforce",
-      "headline": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses - natlawreview.com",
-      "summary": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses natlawreview.com",
+      "headline": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses - The National Law Review",
+      "summary": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGpWdlg1ODNMNUhoOWZxWi05ZW44cGxBeGhPbV9YVWRiQnJoMG1qaXJ2bC0yU05SX1BtNW9fdE5KQVo0T0VwRVp0eEFjRHZwNHp6MHQ5YTEybGhpZGJQTF9Qak5obEpHYnBPNUJBZVEtOWE5UmVoTDBHUVJIbEo3ejBxWFlLQzlidk56SUxqaWNhVmpscEozR1NSMGVlMUJlZW1pemY2cDNxdw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGpWdlg1ODNMNUhoOWZxWi05ZW44cGxBeGhPbV9YVWRiQnJoMG1qaXJ2bC0yU05SX1BtNW9fdE5KQVo0T0VwRVp0eEFjRHZwNHp6MHQ5YTEybGhpZGJQTF9Qak5obEpHYnBPNUJBZVEtOWE5UmVoTDBHUVJIbEo3ejBxWFlLQzlidk56SUxqaWNhVmpscEozR1NSMGVlMUJlZW1pemY2cDNxdw",
       "image": "",
@@ -1012,25 +1047,6 @@
       "published": "Thu, 17 Sep 2026 22:00:52 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "deafa598247a07c9",
-      "source": "BBC Entertainment",
-      "headline": "Costume exhibition celebrates 50 years of city's 'spaceship-like' theatre",
-      "summary": "To mark the anniversary of the seven-sided theatre constructed from tubular steel, some archive costumes go on display.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rejq1wqkko?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm0rejq1wqkko",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f33/live/8668ddd0-b285-11f1-8096-b33a1297275a.jpg",
-      "published": "Fri, 18 Sep 2026 05:23:18 GMT",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-09-18"
@@ -1106,7 +1122,26 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/37ma7Vez4I3OGd6mF1QUem2NRMs=/420x240/filters:focal(1920x1920:1921x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/19/48190f1e-de82-463a-bf2a-7fd3e3155f6d/721f466e35c476988b66e2c10fe999d68acd58e2-4469x4469.png",
       "published": "Thu, 17 Sep 2026 18:02:16 +0000",
       "sections": [
-        "wellbeing"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "a22be4ae885ae2f8",
+      "source": "Variety",
+      "headline": "Bill Hader on Why Young People Hate AI, Voicing Cat in the Hat and the Status of His Jonestown HBO Series",
+      "summary": "Bill Hader offered his thoughts on voice acting and artificial intelligence while teasing his next projects at the Variety Entertainment & Technology Summit presented by EY, held Thursday in Los Angeles. Speaking to executive editor Michael Schneider, Hader was asked about his concerns about AI as a filmmaker. “A new technology comes along and everybody",
+      "url": "https://variety.com/2026/tv/news/bill-hader-ai-cat-in-the-hat-jonestown-1236866530/",
+      "canonical_url": "https://variety.com/2026/tv/news/bill-hader-ai-cat-in-the-hat-jonestown-1236866530",
+      "image": "https://variety.com/wp-content/uploads/2026/09/P108A019-e1789702436180.jpg",
+      "published": "Fri, 18 Sep 2026 14:19:31 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-18"
@@ -1137,8 +1172,8 @@
     {
       "id": "d5f16ade9695bb42",
       "source": "B2B Marketing Ops",
-      "headline": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers - forrester.com",
-      "summary": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers forrester.com",
+      "headline": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers - Forrester",
+      "summary": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers Forrester",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGeXhHLU9QVXA3anpZaDQ1enU0bVp3SHhqQ1hRQjRoVEk5UnUtTFJnZkNPSkh1R1Q1cVI5NTRRNWJEY2RLdHoxRjhQVnhMTElXRDZXZ29FazdmZHlr?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGeXhHLU9QVXA3anpZaDQ1enU0bVp3SHhqQ1hRQjRoVEk5UnUtTFJnZkNPSkh1R1Q1cVI5NTRRNWJEY2RLdHoxRjhQVnhMTElXRDZXZ29FazdmZHlr",
       "image": "",
@@ -1197,25 +1232,6 @@
       "appearances": 1
     },
     {
-      "id": "2adec4748e364960",
-      "source": "Animals",
-      "headline": "As exotic primates reach India, welfare concerns grow - Mongabay India",
-      "summary": "As exotic primates reach India, welfare concerns grow Mongabay India",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0FSYWlBTVZyV25nWnotZDU1dkhfN0xLelRtSWZwVmp6YUYxMGdSb2JLTURHMjNHNE1vQzZlbVl1RGpqOHZlZGRad3VLaUJlcFdaN05TX01Dd3MxWU1tbzRTWElnMTI2OFd3NHh1RWstSDV3X3NVNTNTSUFNOFN1LU1xM01BNldWU2dhdEdkSndfUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0FSYWlBTVZyV25nWnotZDU1dkhfN0xLelRtSWZwVmp6YUYxMGdSb2JLTURHMjNHNE1vQzZlbVl1RGpqOHZlZGRad3VLaUJlcFdaN05TX01Dd3MxWU1tbzRTWElnMTI2OFd3NHh1RWstSDV3X3NVNTNTSUFNOFN1LU1xM01BNldWU2dhdEdkSndfUQ",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 10:32:44 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
       "id": "64a149828b9bcc73",
       "source": "Animals",
       "headline": "Animal Law takes center stage as first Philippine conference calls for stronger protection and accountability - BusinessWorld - BusinessWorld Online",
@@ -1254,35 +1270,16 @@
       "appearances": 1
     },
     {
-      "id": "74ae1cbd673a1b74",
-      "source": "Variety",
-      "headline": "Alfonso Cuaron to Make First Korea Visit at Busan as Festival Also Spotlights European Women+ Filmmakers",
-      "summary": "The 31st Busan International Film Festival (BIFF) has announced the first-ever Korea visit by Alfonso Cuarón, alongside a dedicated spotlight on nine films from European women and genderqueer filmmakers. Cuarón, who has won the Academy Award for best director twice, for “Gravity” (2013) and “Roma” (2018), also holds the Venice Film Festival’s best screenplay prize",
-      "url": "https://variety.com/2026/film/festivals/alfonso-cuaron-busan-film-festival-1236866555/",
-      "canonical_url": "https://variety.com/2026/film/festivals/alfonso-cuaron-busan-film-festival-1236866555",
-      "image": "https://variety.com/wp-content/uploads/2024/09/DSC_8390.jpg",
-      "published": "Fri, 18 Sep 2026 06:43:45 +0000",
+      "id": "c73ed58d1fc01548",
+      "source": "Smithsonian",
+      "headline": "A Humpback Whale Mom Stayed With Her Stillborn Calf, Repeatedly Touching It and Staring Into Its Eyes. Was She Grieving?",
+      "summary": "Observed last year off the coast of Queensland, Australia, this event marks the first documentation of a stillbirth in the species, providing a rare glimpse at how the highly social animals respond to death",
+      "url": "https://www.smithsonianmag.com/smart-news/a-humpback-whale-mom-stayed-with-her-stillborn-calf-repeatedly-touchingi-it-and-staring-into-its-eyes-was-she-grieving-180989516/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/a-humpback-whale-mom-stayed-with-her-stillborn-calf-repeatedly-touchingi-it-and-staring-into-its-eyes-was-she-grieving-180989516",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IpN2zeC4Ek1Eyt2U423LyMgGaHk=/420x240/filters:focal(2560x1707:2561x1708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/2b/6c2b9cb4-4047-4020-8266-b2b2a9ddf278/15194165793_23452f7980_5k.jpg",
+      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
       "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "298e42df1ff73f56",
-      "source": "Customer Data",
-      "headline": "AIQ Announced the Introduction of Astro - MarTech Cube",
-      "summary": "AIQ Announced the Introduction of Astro MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzc2ZrTDZpekVuYmstOEZxdlRRZG5WTVN6d045RGt2QUpfbjJqWm1lazNLQmZ1VklmRzMzLUVsbnpGY2ZXVHhTMWZwZDdjbURjWXE2bnVMZXNTQmxUSFpuQ25jaDhLREdYVlk5aDl5dXNMLVFwRnpj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzc2ZrTDZpekVuYmstOEZxdlRRZG5WTVN6d045RGt2QUpfbjJqWm1lazNLQmZ1VklmRzMzLUVsbnpGY2ZXVHhTMWZwZDdjbURjWXE2bnVMZXNTQmxUSFpuQ25jaDhLREdYVlk5aDl5dXNMLVFwRnpj",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 16:01:16 GMT",
-      "sections": [
-        "work-marketing"
+        "animals"
       ],
       "report_dates": [
         "2026-09-18"
@@ -1616,6 +1613,27 @@
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-17",
       "appearances": 1
+    },
+    {
+      "id": "9e0edb8207eaf432",
+      "source": "BBC World",
+      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-17",
+        "2026-09-16"
+      ],
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
+      "appearances": 2
     },
     {
       "id": "babdcdc8e8377a1e",
