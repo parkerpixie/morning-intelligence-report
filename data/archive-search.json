@@ -1,9 +1,28 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T11:23:55.695786+00:00",
+  "generated_at": "2026-09-18T12:24:24.215238+00:00",
   "edition_count": 65,
-  "story_count": 4019,
+  "story_count": 4020,
   "stories": [
+    {
+      "id": "279a10fed6e3d94b",
+      "source": "MarTech",
+      "headline": "Your marketing automation needs more context",
+      "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
+      "url": "https://martech.org/your-marketing-automation-needs-more-context/",
+      "canonical_url": "https://martech.org/your-marketing-automation-needs-more-context",
+      "image": "https://martech.org/wp-content/uploads/2026/03/man-in-front-of-computer-with-winged-email-icon-flying-away-800x450.png",
+      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
     {
       "id": "0bc325d3f390bff3",
       "source": "Wisconsin News",
@@ -34,6 +53,25 @@
       "published": "Thu, 17 Sep 2026 18:04:07 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "aedac243da6bccd5",
+      "source": "Channel 3000",
+      "headline": "Wisconsin Supreme Court hears challenges to congressional map - Channel 3000",
+      "summary": "Wisconsin Supreme Court hears challenges to congressional map Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGlRNEVnakpEMDVpZHhVTXAya2NNVVdLSXV3Sk9oOWVXYWxpOUN6RUNrSFBtTUdTSE12Qnp0dW9ZVmpRelFVVGNOcG1rcElsR3ZldDN5RXNsQmw4TXlYVjF0NHpwOW1SMkxEVUROT1hLSHhoVUQzVUxtbG1wTExUeXM0TTFscnc0M2Vtb29IUmtReWd1bTBCV1p3TFpESnRGSlZPaGVCUS1MQy1yTDZiV2tHdi02dS1aUXVsWkk2eWxZLTdDSzUtcmVfbGpaYWt0bExwN0NuWE1KY19N?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGlRNEVnakpEMDVpZHhVTXAya2NNVVdLSXV3Sk9oOWVXYWxpOUN6RUNrSFBtTUdTSE12Qnp0dW9ZVmpRelFVVGNOcG1rcElsR3ZldDN5RXNsQmw4TXlYVjF0NHpwOW1SMkxEVUROT1hLSHhoVUQzVUxtbG1wTExUeXM0TTFscnc0M2Vtb29IUmtReWd1bTBCV1p3TFpESnRGSlZPaGVCUS1MQy1yTDZiV2tHdi02dS1aUXVsWkk2eWxZLTdDSzUtcmVfbGpaYWt0bExwN0NuWE1KY19N",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 22:36:00 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-18"
@@ -81,27 +119,6 @@
       "appearances": 1
     },
     {
-      "id": "c423975060d831ad",
-      "source": "BBC US & Canada",
-      "headline": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
-      "summary": "The 0.25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
-      "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abef/live/2985fd10-b22f-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Thu, 17 Sep 2026 00:38:50 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-18",
-        "2026-09-17"
-      ],
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "appearances": 2
-    },
-    {
       "id": "c364e9313911a5cf",
       "source": "Positive News",
       "headline": "What went right this week: the good news that matters",
@@ -142,27 +159,6 @@
       "appearances": 3
     },
     {
-      "id": "0af9116e1a716d1e",
-      "source": "BBC US & Canada",
-      "headline": "Watch: How will higher interest rates impact US consumers?",
-      "summary": "The BBC's Samira Hussain looks at the factors considered in the increase by the Federal Reserve and what it could mean for the US economy.",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1dd/live/a9d5b720-b21c-11f1-a430-4d16ee157c41.jpg",
-      "published": "Wed, 16 Sep 2026 22:26:10 GMT",
-      "sections": [
-        "big-story",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-18",
-        "2026-09-17"
-      ],
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "appearances": 2
-    },
-    {
       "id": "c41e4ce513498c3f",
       "source": "NPR",
       "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
@@ -171,25 +167,6 @@
       "canonical_url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
       "image": "",
       "published": "Fri, 18 Sep 2026 06:58:49 -0400",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "d642d268c3b83595",
-      "source": "BBC US & Canada",
-      "headline": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28eb/live/3741ab90-b2c8-11f1-9830-658a48c7da16.jpg",
-      "published": "Thu, 17 Sep 2026 16:59:43 GMT",
       "sections": [
         "must-know"
       ],
@@ -262,8 +239,8 @@
     {
       "id": "11e9a336ec6bd945",
       "source": "Reuters",
-      "headline": "US Government Website Used AI Search Tool From China That FBI Said Copied Anthropic - usnews.com",
-      "summary": "US Government Website Used AI Search Tool From China That FBI Said Copied Anthropic usnews.com",
+      "headline": "US Government Website Used AI Search Tool From China That FBI Said Copied Anthropic - U.S. News & World Report",
+      "summary": "US Government Website Used AI Search Tool From China That FBI Said Copied Anthropic U.S. News & World Report",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGNZeXBVMlRzSGJzMFVwOFh4eFZXWEJDVktsYnc4b2V2YlVsOGZCdXpJUUw5cFN0R0xSMG0xRXFvZTl3alRXbjRBOExHWDlFZ0hZOUhQQmh3OGpNX21qNUt2VEhGeVUzVmFWRE1XYlF1S1hGNmNOUlRod1FfM0NYZHh4UFVqTEZTaF8wZjlXcDR3WDhnU3FWczRPQXRaN2h6Zl9NV1RLWk5iM2xSeEt4Qm1UUXdMUFhnMzB0UUM5UVlLdUF4VkZENVpNZEZwYVhZRU1DWVotYw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGNZeXBVMlRzSGJzMFVwOFh4eFZXWEJDVktsYnc4b2V2YlVsOGZCdXpJUUw5cFN0R0xSMG0xRXFvZTl3alRXbjRBOExHWDlFZ0hZOUhQQmh3OGpNX21qNUt2VEhGeVUzVmFWRE1XYlF1S1hGNmNOUlRod1FfM0NYZHh4UFVqTEZTaF8wZjlXcDR3WDhnU3FWczRPQXRaN2h6Zl9NV1RLWk5iM2xSeEt4Qm1UUXdMUFhnMzB0UUM5UVlLdUF4VkZENVpNZEZwYVhZRU1DWVotYw",
       "image": "",
@@ -279,23 +256,26 @@
       "appearances": 1
     },
     {
-      "id": "094b55c904ba3d2b",
-      "source": "Variety",
-      "headline": "Universal Still Plans Overseas Release for Alex Gibney’s ‘Musk’ Documentary Despite Mogul’s Legal Threats",
-      "summary": "Contrary to a recent report, Universal is moving forward as planned with the international release of Alex Gibney’s Elon Musk documentary “Musk,” sources familiar with the project told Variety. Though a release date has not yet been set for the overseas rollout, that’s not unusual for a film like “Musk,” a nearly 4-hour long documentary",
-      "url": "https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395/",
-      "canonical_url": "https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Musk.jpg",
-      "published": "Fri, 18 Sep 2026 01:27:40 +0000",
+      "id": "9e0edb8207eaf432",
+      "source": "BBC US & Canada",
+      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
       "sections": [
-        "entertainment"
+        "ai-tech",
+        "quick-scan"
       ],
       "report_dates": [
-        "2026-09-18"
+        "2026-09-18",
+        "2026-09-17",
+        "2026-09-16"
       ],
-      "first_seen": "2026-09-18",
+      "first_seen": "2026-09-16",
       "last_seen": "2026-09-18",
-      "appearances": 1
+      "appearances": 3
     },
     {
       "id": "7b4b065f65e6c3b7",
@@ -432,6 +412,25 @@
       "appearances": 1
     },
     {
+      "id": "c45a1a22fa7772b9",
+      "source": "Taylor Alert",
+      "headline": "Taylor Swift, Tom Cruise attend Travis Kelce's Chiefs home opener - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Taylor Swift, Tom Cruise attend Travis Kelce's Chiefs home opener ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEtzZ2RRLXFibzF3Si1MYlpPYnkyNTVFQ1JqWnVkRDN0bGlOX3hRcEM1RGdlb1BWZlpoSmhhbmV4UFRlVFZ4bUhzRTg2RDhiY1Jkc190TERIOWxKdDl1VXdYQWMya1IyS215UUxaeHh5b25tRklhWTIwMFNMZjdhbW1GMEdQT1QzN3k0MXRYNEpoaVNfc0RMbEtlX2FyS043UURmOW1OWlDSAa4BQVVfeXFMT3dCSkZyLW13NGsxNjNOaTIzMDJUR2h3Mm5GODI0YUhodF9Tb0J5UFMwdG94M1JpYnFoQzVFOUJuMTQwYUY3VmowMXpGM0xSc1NNNXE3bmdLeDNjbDlOT29SMkN0aWNtTi1mVGI0OTc2SHpqTTV4MjMtV0ZzSkRLeEN4WHNHNFdsR004b1BndWFSWnpqRUZXbXFRTlJ4UUFLZDhtQjhkc1M5WXdYNWR3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEtzZ2RRLXFibzF3Si1MYlpPYnkyNTVFQ1JqWnVkRDN0bGlOX3hRcEM1RGdlb1BWZlpoSmhhbmV4UFRlVFZ4bUhzRTg2RDhiY1Jkc190TERIOWxKdDl1VXdYQWMya1IyS215UUxaeHh5b25tRklhWTIwMFNMZjdhbW1GMEdQT1QzN3k0MXRYNEpoaVNfc0RMbEtlX2FyS043UURmOW1OWlDSAa4BQVVfeXFMT3dCSkZyLW13NGsxNjNOaTIzMDJUR2h3Mm5GODI0YUhodF9Tb0J5UFMwdG94M1JpYnFoQzVFOUJuMTQwYUY3VmowMXpGM0xSc1NNNXE3bmdLeDNjbDlOT29SMkN0aWNtTi1mVGI0OTc2SHpqTTV4MjMtV0ZzSkRLeEN4WHNHNFdsR004b1BndWFSWnpqRUZXbXFRTlJ4UUFLZDhtQjhkc1M5WXdYNWR3",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 16:04:10 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
       "id": "6a5c4ebee2f83219",
       "source": "Taylor Fashion",
       "headline": "Taylor Swift Stuns in Surprisingly Affordable LBD for Romantic Travis Kelce Date Night - instyle.com",
@@ -528,16 +527,16 @@
       "appearances": 1
     },
     {
-      "id": "ae4ed53aa72814ae",
-      "source": "Madison Local",
-      "headline": "See inside UW-Madison's new humanities hub: 'It's an energizing place' - The Capital Times",
-      "summary": "See inside UW-Madison's new humanities hub: 'It's an energizing place' The Capital Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm41Yy1QdWFKUGYzdmpCM0FCbzFiSkltZ1lycGdTTnlHemRMZTB5N2ZlTlpfc1E1Y1lNY2ZpcTdWSUo0OW9oZHRFdHZObU1qbEpYV0pMQUVOSXJFS0pZLU15UXAzcXRWWjBYZk1PRG1PNDFlcUkwRWV6WW54NkJHSmNBdGloQXZrTURFRTh1V2FDTllMeHBQT1kwWG1aZk80R2R2V2hkam1hQjlKUlZZYTZEMXBoRFhzX0Y1SzJac25RVVZVSF9HZHlrRjBYa2hIZFhhY08xTms0aDZXQ0dXcno5UmhzQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm41Yy1QdWFKUGYzdmpCM0FCbzFiSkltZ1lycGdTTnlHemRMZTB5N2ZlTlpfc1E1Y1lNY2ZpcTdWSUo0OW9oZHRFdHZObU1qbEpYV0pMQUVOSXJFS0pZLU15UXAzcXRWWjBYZk1PRG1PNDFlcUkwRWV6WW54NkJHSmNBdGloQXZrTURFRTh1V2FDTllMeHBQT1kwWG1aZk80R2R2V2hkam1hQjlKUlZZYTZEMXBoRFhzX0Y1SzJac25RVVZVSF9HZHlrRjBYa2hIZFhhY08xTms0aDZXQ0dXcno5UmhzQQ",
+      "id": "74c12d6d31fed061",
+      "source": "Reuters",
+      "headline": "Screwworm Infests US Horse Before Port Reopens to Mexican Livestock - U.S. News & World Report",
+      "summary": "Screwworm Infests US Horse Before Port Reopens to Mexican Livestock U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEgzMVlOakZaQ3dPVFhhWU9zaktULWlNQkRveXlXS3JUcDliYzRiOEZlVXlOQWpnOVpQTWJDV19Wdi1GZlN6ekk3RFFyVnkydnBvbmVQeW0wWGgyWGRLTk1ycWExM2RDYzhuTzY5bDFGRUdJUTlyT1lndHpUS2ZycGdtTWR4MHB3R3dGdkU1TVZoYnRHSklqN1hnZTVWQ0c4dV9qTVFjell5ejJ1RmxSbDBaWUhfNFYxdHdCdGd3QjJjdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEgzMVlOakZaQ3dPVFhhWU9zaktULWlNQkRveXlXS3JUcDliYzRiOEZlVXlOQWpnOVpQTWJDV19Wdi1GZlN6ekk3RFFyVnkydnBvbmVQeW0wWGgyWGRLTk1ycWExM2RDYzhuTzY5bDFGRUdJUTlyT1lndHpUS2ZycGdtTWR4MHB3R3dGdkU1TVZoYnRHSklqN1hnZTVWQ0c4dV9qTVFjell5ejJ1RmxSbDBaWUhfNFYxdHdCdGd3QjJjdw",
       "image": "",
-      "published": "Fri, 18 Sep 2026 10:05:00 GMT",
+      "published": "Thu, 17 Sep 2026 23:55:00 GMT",
       "sections": [
-        "local"
+        "animals"
       ],
       "report_dates": [
         "2026-09-18"
@@ -623,16 +622,16 @@
       "appearances": 1
     },
     {
-      "id": "4b9e0193f5f486e1",
-      "source": "Salesforce Marketing",
-      "headline": "Page 61 - salesforce.com",
-      "summary": "Page 61 salesforce.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCaHc1ajNxcGEwaFBTV0dJdGtnd0lmZ3c2Uk00YTdIRkh4Z2JDem9xMk8tUkVFNzI4R2hyY1hnYXRYdkdjNlByWXk3S25wd21SVnU1MXpBUEpCejBsdzhyVUxJZF9fTW40RWlXRjB3SXl0Sl93aTRSTzV3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCaHc1ajNxcGEwaFBTV0dJdGtnd0lmZ3c2Uk00YTdIRkh4Z2JDem9xMk8tUkVFNzI4R2hyY1hnYXRYdkdjNlByWXk3S25wd21SVnU1MXpBUEpCejBsdzhyVUxJZF9fTW40RWlXRjB3SXl0Sl93aTRSTzV3",
+      "id": "484158f5e91a37d6",
+      "source": "Associated Press",
+      "headline": "Preparing to leave office, with world beset by problems, UN chief talks of a way forward - WRAL",
+      "summary": "Preparing to leave office, with world beset by problems, UN chief talks of a way forward WRAL",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVBldVV0X3JCRmxWT3UwVU5yelljcXJtTVA4Ylk4V19Ha3dORkVnanhuM0todU5UZkREcjJ3X2RXREtfXzZBQXdVdURHUHZQdU9OWWtTZE1HZ01vZURKOTNvUGg3MjU4Nm9WWENUaFhQMGtZQ0Q1bVRGSUNYVGN3UHp3Yl80NFNyRTd1d3ItaFNVVGZjWUpYRU9kMnlPMTR5ZFFBTWdmYVZTa2hZVXBNZnBIbnVnMHpYU3dMdTJvbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVBldVV0X3JCRmxWT3UwVU5yelljcXJtTVA4Ylk4V19Ha3dORkVnanhuM0todU5UZkREcjJ3X2RXREtfXzZBQXdVdURHUHZQdU9OWWtTZE1HZ01vZURKOTNvUGg3MjU4Nm9WWENUaFhQMGtZQ0Q1bVRGSUNYVGN3UHp3Yl80NFNyRTd1d3ItaFNVVGZjWUpYRU9kMnlPMTR5ZFFBTWdmYVZTa2hZVXBNZnBIbnVnMHpYU3dMdTJvbw",
       "image": "",
-      "published": "Fri, 18 Sep 2026 01:20:47 GMT",
+      "published": "Fri, 18 Sep 2026 01:33:11 GMT",
       "sections": [
-        "work-marketing"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-18"
@@ -705,7 +704,7 @@
       "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a757/live/32801fb0-b327-11f1-a430-4d16ee157c41.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a267/live/b9315260-b357-11f1-b1d1-571ed4d7ff2c.png",
       "published": "Thu, 17 Sep 2026 23:15:55 GMT",
       "sections": [
         "animals"
@@ -756,6 +755,25 @@
       "appearances": 1
     },
     {
+      "id": "fa88837cbdcba4b9",
+      "source": "NPR",
+      "headline": "Morning news brief",
+      "summary": "Trump threatens to tear down the Kennedy Center amid court battle, Trump's other priorities also get pushback this week, Poland's PM warns Russia could strike countries that support Ukraine.",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+      "canonical_url": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 04:46:02 -0400",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
       "id": "a59b8440a154cac6",
       "source": "Ars Technica",
       "headline": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
@@ -766,6 +784,25 @@
       "published": "Thu, 17 Sep 2026 20:10:41 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "c7e0cbe099236a3e",
+      "source": "BBC Health",
+      "headline": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg",
+      "published": "Fri, 18 Sep 2026 11:49:46 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-18"
@@ -853,44 +890,6 @@
       "appearances": 1
     },
     {
-      "id": "9163b213740a0abd",
-      "source": "Mongabay",
-      "headline": "India’s tiger success brings a new challenge: Living alongside the big cats - Mongabay",
-      "summary": "India’s tiger success brings a new challenge: Living alongside the big cats Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVW1tci1uakZHMzBqY3k1OGtfWGxLSFY4RzZBVl9kQ1NkOUJsN2hXSFZXcnpZUDdKaGtBN3FHV2ZOZmZHTjYyRDlTZFdzcHNpOGFLdWFkdktZQzBlSlBFX2FqVWMxbjVqekxwZHlnLUJ6UUlPV3JNZDJCQmdCRS1uR3pfYXNuam9vSzFvZFhnMmdPcktscGxZdzg4cmVZcmh2RnpVa25pYV9DRG1P0gGyAUFVX3lxTFB5TDVmLVRlSEpWb3YzYi13TVF2OXJBcjludTd4RDl5RVdub3BUZTVJd1FDTTB6dUlVUFIxSEdRenFzTGtpeFEyaGtOUnZoMXAwYm9ERzEyR0RnN2Z4TmRPVmpXRTZVRXJxcTB1enAwbEk2cDRSTy1GWm9tbU5wYlkwd0NEbjR5WDdmODBMSENEanA3NC1RRTNybXhlTDg3a0FtOUVpSzNWZTJxUS1MOUtWc0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVW1tci1uakZHMzBqY3k1OGtfWGxLSFY4RzZBVl9kQ1NkOUJsN2hXSFZXcnpZUDdKaGtBN3FHV2ZOZmZHTjYyRDlTZFdzcHNpOGFLdWFkdktZQzBlSlBFX2FqVWMxbjVqekxwZHlnLUJ6UUlPV3JNZDJCQmdCRS1uR3pfYXNuam9vSzFvZFhnMmdPcktscGxZdzg4cmVZcmh2RnpVa25pYV9DRG1P0gGyAUFVX3lxTFB5TDVmLVRlSEpWb3YzYi13TVF2OXJBcjludTd4RDl5RVdub3BUZTVJd1FDTTB6dUlVUFIxSEdRenFzTGtpeFEyaGtOUnZoMXAwYm9ERzEyR0RnN2Z4TmRPVmpXRTZVRXJxcTB1enAwbEk2cDRSTy1GWm9tbU5wYlkwd0NEbjR5WDdmODBMSENEanA3NC1RRTNybXhlTDg3a0FtOUVpSzNWZTJxUS1MOUtWc0E",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 15:01:32 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "bf0eaa9a6c6424a7",
-      "source": "Medical Xpress",
-      "headline": "Human brain is two separate organs, research finds - Medical Xpress",
-      "summary": "Human brain is two separate organs, research finds Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YdFJmZXAwUWxCdmxpaEZ4UGFCVkFLUmdPMkNzUTlCUE1HV28xMVJHaHR5ZmN4endiNUdEalI3WEQxaGluUTUxMEZfV2tCRE5Pd3ZmekltcVg2blV0aWp4SmlrSjJ3Zw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YdFJmZXAwUWxCdmxpaEZ4UGFCVkFLUmdPMkNzUTlCUE1HV28xMVJHaHR5ZmN4endiNUdEalI3WEQxaGluUTUxMEZfV2tCRE5Pd3ZmekltcVg2blV0aWp4SmlrSjJ3Zw",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 09:00:01 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
       "id": "7e48a0c302f2896c",
       "source": "NPR",
       "headline": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
@@ -954,8 +953,8 @@
       "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f036/live/59294000-b305-11f1-a079-0563cfe4edc8.jpg",
-      "published": "Fri, 18 Sep 2026 10:35:59 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f1d/live/2a431460-b354-11f1-b949-71f91f81d1ab.jpg",
+      "published": "Fri, 18 Sep 2026 11:56:16 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -976,26 +975,7 @@
       "image": "",
       "published": "Fri, 18 Sep 2026 03:05:35 GMT",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
-      "id": "c9b7496c26a62c41",
-      "source": "Animals",
-      "headline": "DENR Region XII ensures proper care of its rescued wildlife found in Lutayan, Sultan Kudarat, while the PENRO rescued and released 12 wildlife species in Barangay Sinkatulan, Makilala,…",
-      "summary": "DENR Region XII ensures proper care of its rescued wildlife found in Lutayan, Sultan Kudarat, while the PENRO rescued and released 12 wildlife species in Barangay Sinkatulan, Makilala, Cotabato. The said wildlife in Cotabato were turned over by two reside facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2k4ekxZX3hJNzBoU3B2TUFVdHhPSVJNdUtaRjZUM2ctTnBCbzBqNzh3c1EzTEhRRE5MejJXbkk2ZHVra01sTVd3OUxJOTVabU96SDNjMFpDMzRBaldYSWJGUEdNWW1sYVl5ZHVHTUFxXzhMVlpWVFo0RlQzUVU3OFV0Y2NmTmJfZU55M0Z4dUFXRWhDZ2phMlVXc0tQZnNFZVhreXMyTkd6OEtmWldGdllHVV9BN1FYOHVzR0hhZ2doR2ZvLXk4eDRnUE0tbVNmYTJhTDYtNA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2k4ekxZX3hJNzBoU3B2TUFVdHhPSVJNdUtaRjZUM2ctTnBCbzBqNzh3c1EzTEhRRE5MejJXbkk2ZHVra01sTVd3OUxJOTVabU96SDNjMFpDMzRBaldYSWJGUEdNWW1sYVl5ZHVHTUFxXzhMVlpWVFo0RlQzUVU3OFV0Y2NmTmJfZU55M0Z4dUFXRWhDZ2phMlVXc0tQZnNFZVhreXMyTkd6OEtmWldGdllHVV9BN1FYOHVzR0hhZ2doR2ZvLXk4eDRnUE0tbVNmYTJhTDYtNA",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 07:10:09 GMT",
-      "sections": [
-        "animals"
+        "local"
       ],
       "report_dates": [
         "2026-09-18"
@@ -1007,8 +987,8 @@
     {
       "id": "8c57a0f6836f52c6",
       "source": "Salesforce",
-      "headline": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses - The National Law Review",
-      "summary": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses The National Law Review",
+      "headline": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses - natlawreview.com",
+      "summary": "CRM Frontier Expands Salesforce Implementation Services for Growing U.S. Businesses natlawreview.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGpWdlg1ODNMNUhoOWZxWi05ZW44cGxBeGhPbV9YVWRiQnJoMG1qaXJ2bC0yU05SX1BtNW9fdE5KQVo0T0VwRVp0eEFjRHZwNHp6MHQ5YTEybGhpZGJQTF9Qak5obEpHYnBPNUJBZVEtOWE5UmVoTDBHUVJIbEo3ejBxWFlLQzlidk56SUxqaWNhVmpscEozR1NSMGVlMUJlZW1pemY2cDNxdw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGpWdlg1ODNMNUhoOWZxWi05ZW44cGxBeGhPbV9YVWRiQnJoMG1qaXJ2bC0yU05SX1BtNW9fdE5KQVo0T0VwRVp0eEFjRHZwNHp6MHQ5YTEybGhpZGJQTF9Qak5obEpHYnBPNUJBZVEtOWE5UmVoTDBHUVJIbEo3ejBxWFlLQzlidk56SUxqaWNhVmpscEozR1NSMGVlMUJlZW1pemY2cDNxdw",
       "image": "",
@@ -1140,8 +1120,8 @@
     {
       "id": "d5f16ade9695bb42",
       "source": "B2B Marketing Ops",
-      "headline": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers - forrester.com",
-      "summary": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers forrester.com",
+      "headline": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers - Forrester",
+      "summary": "B2B GTM Strategy: How Go-To-Market Must Change For Today’s Buyers Forrester",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGeXhHLU9QVXA3anpZaDQ1enU0bVp3SHhqQ1hRQjRoVEk5UnUtTFJnZkNPSkh1R1Q1cVI5NTRRNWJEY2RLdHoxRjhQVnhMTElXRDZXZ29FazdmZHlr?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGeXhHLU9QVXA3anpZaDQ1enU0bVp3SHhqQ1hRQjRoVEk5UnUtTFJnZkNPSkh1R1Q1cVI5NTRRNWJEY2RLdHoxRjhQVnhMTElXRDZXZ29FazdmZHlr",
       "image": "",
@@ -1168,6 +1148,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b750/live/d8a224a0-adb7-11ef-bdf5-b7cb2fa86e10.jpg",
       "published": "Tue, 15 Sep 2026 11:29:53 GMT",
       "sections": [
+        "quick-scan",
         "wellbeing"
       ],
       "report_dates": [
@@ -1285,6 +1266,25 @@
       "published": "Thu, 17 Sep 2026 16:01:16 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "appearances": 1
+    },
+    {
+      "id": "df4d2714c8f82b17",
+      "source": "National Geographic Wildlife",
+      "headline": "A Filmmaker on What it Takes to Spend 1,500 Days With Lions - National Geographic",
+      "summary": "A Filmmaker on What it Takes to Spend 1,500 Days With Lions National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc28tVmxiaDFSV1FjOGVnWXA3R0NrRkEwU1pzaFVkbnh4Vk5rX3NlWWFMV0d1MnlSTGdwU0NjTEJMZzRWcUNzM3NJaEZUTXdIeWt6MFZCRndwcGx4VUZSMjNFbFFwenlaT1EyWG9yMTVNa01FWWt0OU9XaDBGeXkwSHUwSFZIZWFOSHluS2JYY3BONG1Z?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc28tVmxiaDFSV1FjOGVnWXA3R0NrRkEwU1pzaFVkbnh4Vk5rX3NlWWFMV0d1MnlSTGdwU0NjTEJMZzRWcUNzM3NJaEZUTXdIeWt6MFZCRndwcGx4VUZSMjNFbFFwenlaT1EyWG9yMTVNa01FWWt0OU9XaDBGeXkwSHUwSFZIZWFOSHluS2JYY3BONG1Z",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 12:09:55 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-09-18"
@@ -1523,6 +1523,25 @@
       "appearances": 1
     },
     {
+      "id": "c423975060d831ad",
+      "source": "BBC US & Canada",
+      "headline": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+      "summary": "The 0.25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
+      "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abef/live/2985fd10-b22f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Thu, 17 Sep 2026 00:38:50 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-17"
+      ],
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "appearances": 1
+    },
+    {
       "id": "b24d2c5c05a302e7",
       "source": "Positive News",
       "headline": "What if giving away a day’s revenue was the best day of your year?",
@@ -1544,6 +1563,25 @@
       "appearances": 3
     },
     {
+      "id": "0af9116e1a716d1e",
+      "source": "BBC US & Canada",
+      "headline": "Watch: How will higher interest rates impact US consumers?",
+      "summary": "The BBC's Samira Hussain looks at the factors considered in the increase by the Federal Reserve and what it could mean for the US economy.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1dd/live/a9d5b720-b21c-11f1-a430-4d16ee157c41.jpg",
+      "published": "Wed, 16 Sep 2026 22:26:10 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-09-17"
+      ],
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "appearances": 1
+    },
+    {
       "id": "1f1d9c50573eed78",
       "source": "Reuters",
       "headline": "US Regulators to Examine Testosterone Therapy as Use by Menopausal Women Rises - U.S. News & World Report",
@@ -1561,27 +1599,6 @@
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-17",
       "appearances": 1
-    },
-    {
-      "id": "9e0edb8207eaf432",
-      "source": "BBC World",
-      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-17",
-        "2026-09-16"
-      ],
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
-      "appearances": 2
     },
     {
       "id": "babdcdc8e8377a1e",
