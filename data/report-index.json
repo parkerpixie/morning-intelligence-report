@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-17.json",
-  "report_date": "2026-09-17",
-  "generated_at": "2026-09-17T15:33:50.771151+00:00",
-  "edition_count": 64,
+  "latest": "data/archive/2026-09-18.json",
+  "report_date": "2026-09-18",
+  "generated_at": "2026-09-18T11:22:16.760510+00:00",
+  "edition_count": 65,
   "editions": [
+    {
+      "report_date": "2026-09-18",
+      "generated_at": "2026-09-18T11:22:16.760510+00:00",
+      "path": "data/archive/2026-09-18.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-17",
       "generated_at": "2026-09-17T15:33:50.771151+00:00",
