@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T11:07:53.540199+00:00",
+  "generated_at": "2026-09-19T12:05:49.202703+00:00",
   "edition_count": 66,
-  "story_count": 4080,
+  "story_count": 4081,
   "stories": [
     {
       "id": "18bc77e812fa8e7c",
@@ -101,25 +101,6 @@
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-19",
       "appearances": 2
-    },
-    {
-      "id": "8d60dd2f59145a8a",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin Supreme Court hears pair of cases - PBS Wisconsin",
-      "summary": "Wisconsin Supreme Court hears pair of cases PBS Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0RaU3NrYTY4MGtrNnExNlFKbHpxUVJWd0hqWmpFSUJ5Rl8xZl9WLWczcWhBQWVaZ1J2OGRIb3JOYUZVSFp0Z1ZsUTA4dGx1Yk12ZGFCTzZNNGRNTmJXVm1TVmdJT3Q0RTdIN0FWb2UyUVVwNVBhYVU1XzlaX1d0Q1NFTE04Zw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0RaU3NrYTY4MGtrNnExNlFKbHpxUVJWd0hqWmpFSUJ5Rl8xZl9WLWczcWhBQWVaZ1J2OGRIb3JOYUZVSFp0Z1ZsUTA4dGx1Yk12ZGFCTzZNNGRNTmJXVm1TVmdJT3Q0RTdIN0FWb2UyUVVwNVBhYVU1XzlaX1d0Q1NFTE04Zw",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 22:53:43 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
     },
     {
       "id": "aedac243da6bccd5",
@@ -281,11 +262,11 @@
       "id": "87a9eed9e3bf7fb6",
       "source": "BBC World",
       "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+      "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
-      "published": "Sat, 19 Sep 2026 11:01:34 GMT",
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
       "sections": [
         "must-know"
       ],
@@ -316,28 +297,6 @@
       "appearances": 1
     },
     {
-      "id": "9e0edb8207eaf432",
-      "source": "BBC Technology",
-      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-19",
-        "2026-09-17",
-        "2026-09-16"
-      ],
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
-      "appearances": 3
-    },
-    {
       "id": "7c5c006179fc8ce6",
       "source": "Reuters",
       "headline": "UK air traffic control outage caused by software defect, says operator - Reuters",
@@ -348,25 +307,6 @@
       "published": "Fri, 18 Sep 2026 19:11:01 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
-    },
-    {
-      "id": "283ab3e3cb6e4c6e",
-      "source": "NPR",
-      "headline": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-      "summary": "President Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-      "canonical_url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 00:44:46 -0400",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-19"
@@ -511,6 +451,25 @@
       "appearances": 1
     },
     {
+      "id": "bdaebf965b87db57",
+      "source": "BBC World",
+      "headline": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/762a/live/cf51bb00-b41c-11f1-a430-4d16ee157c41.jpg",
+      "published": "Sat, 19 Sep 2026 11:50:22 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
       "id": "faa1c5670a9def75",
       "source": "Mental Health",
       "headline": "Screen time isn’t linked to language delays in autistic children, large U.S. study finds - PsyPost",
@@ -627,6 +586,25 @@
       "appearances": 1
     },
     {
+      "id": "409580d7d67cb327",
+      "source": "UW-Madison Science",
+      "headline": "Research Program Coordinator - jobs.wisc.edu",
+      "summary": "Research Program Coordinator jobs.wisc.edu",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWh2cElhQ2JId3BNNGs3UnpILUZFejR6MEZ5ZzFRV1pmUDVPRzNkdk1wUkcxSUFtY3dGWXB3cXNwdkNXWDJGckd2Zl9iX1FEdjFSREpuVHk4VThJQmFyNnAwZXFnWmFSUzUyV1lUVDhvcHdwVFlFNDFYUXJ6M1hoNFJPdGxMNFgycE43cnVuaFlSbExMS1dXY2ZnRW04RnpHaUI5SmY0OWpNM3FDeU1rQVloYkh2Y2djcnlsT2FiY0ZKQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWh2cElhQ2JId3BNNGs3UnpILUZFejR6MEZ5ZzFRV1pmUDVPRzNkdk1wUkcxSUFtY3dGWXB3cXNwdkNXWDJGckd2Zl9iX1FEdjFSREpuVHk4VThJQmFyNnAwZXFnWmFSUzUyV1lUVDhvcHdwVFlFNDFYUXJ6M1hoNFJPdGxMNFgycE43cnVuaFlSbExMS1dXY2ZnRW04RnpHaUI5SmY0OWpNM3FDeU1rQVloYkh2Y2djcnlsT2FiY0ZKQQ",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 19:34:38 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
       "id": "9071422d6bd5b7c5",
       "source": "Wisconsin Public Radio",
       "headline": "Proposed transmission lines unite some Republicans and Democrats in opposition",
@@ -665,6 +643,25 @@
       "appearances": 1
     },
     {
+      "id": "af5d0aff2bb75da2",
+      "source": "AI News",
+      "headline": "OpenAI says working with Anthropic, Google on AI safety - The Edge Malaysia",
+      "summary": "OpenAI says working with Anthropic, Google on AI safety The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90M1dmeTlkSVRPU2NrYmZ5QlJoRUVKQ0J6OFNSYlBXSzNDb0lPNVJMYkFZdHNRQ2loWnVHdmhna0dZX0lXV2ZDMTFmR0RPM1l0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90M1dmeTlkSVRPU2NrYmZ5QlJoRUVKQ0J6OFNSYlBXSzNDb0lPNVJMYkFZdHNRQ2loWnVHdmhna0dZX0lXV2ZDMTFmR0RPM1l0",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 08:50:25 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
       "id": "7456d8000ebfebb2",
       "source": "The Verge",
       "headline": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
@@ -686,8 +683,8 @@
     {
       "id": "7c8141fcd10b1d95",
       "source": "Lifecycle Marketing",
-      "headline": "NoimosAI Launches Customer Engagement Agent to Automate Behavior-Based Customer Marketing - einpresswire.com",
-      "summary": "NoimosAI Launches Customer Engagement Agent to Automate Behavior-Based Customer Marketing einpresswire.com",
+      "headline": "NoimosAI Launches Customer Engagement Agent to Automate Behavior-Based Customer Marketing - EIN Presswire",
+      "summary": "NoimosAI Launches Customer Engagement Agent to Automate Behavior-Based Customer Marketing EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVlVTcEdqSk91MTlJcEJUWHNGRnBDMTVISy1oZ3hJdnhpYVdzYmdBeFZmQmdDVldldHF2aFViZldRbHpCSzRSTmFLYTBmc3dOVkxmSWg5OU10SEhtbXpvM2tHUnA1TnVNdG11UDBkdmpHLVZRN0VabzBTVk9pVDhlM09scTlYNkFCUHVnZk1tc2F3WXZkTU5nRXhUQ3NSSzFENl80N1FsMGdfWnRHSkk3MmpieVYwX1VBM2VwMWEtdFk5TERpSlVfQTFhZmJicVpLNUE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVlVTcEdqSk91MTlJcEJUWHNGRnBDMTVISy1oZ3hJdnhpYVdzYmdBeFZmQmdDVldldHF2aFViZldRbHpCSzRSTmFLYTBmc3dOVkxmSWg5OU10SEhtbXpvM2tHUnA1TnVNdG11UDBkdmpHLVZRN0VabzBTVk9pVDhlM09scTlYNkFCUHVnZk1tc2F3WXZkTU5nRXhUQ3NSSzFENl80N1FsMGdfWnRHSkk3MmpieVYwX1VBM2VwMWEtdFk5TERpSlVfQTFhZmJicVpLNUE",
       "image": "",
@@ -722,16 +719,16 @@
       "appearances": 1
     },
     {
-      "id": "71c70673aa38503f",
-      "source": "Mental Health",
-      "headline": "Live Webinar October 6: Revealing the ADHD-Dysautonomia Link: Why POTS, MCAS, EDS, and Hypermobility Show Up So Often - ADDitude",
-      "summary": "Live Webinar October 6: Revealing the ADHD-Dysautonomia Link: Why POTS, MCAS, EDS, and Hypermobility Show Up So Often ADDitude",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenBBbDFTV0xrX0dBcXZIajJPRlpPUTI4VmVaQU5xUlNuTkZYdEppbFdNbzlxdl9teENwNVh1YnVmdlF0b1gwWk96cmJSdjNWU0ZmSHVsbElHVGdQZS1IMlBuSDFrMTdza3VNTXJXVTZSendnQ0xTUS04QnF1T0VoT29PMEFJWVI5d0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenBBbDFTV0xrX0dBcXZIajJPRlpPUTI4VmVaQU5xUlNuTkZYdEppbFdNbzlxdl9teENwNVh1YnVmdlF0b1gwWk96cmJSdjNWU0ZmSHVsbElHVGdQZS1IMlBuSDFrMTdza3VNTXJXVTZSendnQ0xTUS04QnF1T0VoT29PMEFJWVI5d0E",
+      "id": "f022dcf08312b91d",
+      "source": "Associated Press",
+      "headline": "Moore throws for 4 TD passes as No. 21 Oregon routs Portland State 84-0 - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Moore throws for 4 TD passes as No. 21 Oregon routs Portland State 84-0 ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkZrdTZUR2RzTGh3V0sxXzhLV3c3THdhNVpjSDZ0dkxNRk4yQWFXRHZXMFBjZEp6bDludXllUFJQTnJCOVEzc3dRc0NIYnIta2o0blhnQWF6NE1TYkt3SHFnQU0wTWVxTDVvQmtaZWZGVEozcExmV0pxS2dwQXl0dzBhVG5Nc1B3MTFndnhlam_SAZYBQVVfeXFMUE1GWGMxTGlQZlFBd3FKcktXeGhQSEhXQW9iSGtDSmxpOVFPMVdMd2pIblFLaFVWVnNUOG8wV0dDNWd1b2lwS2J1YVhYbnY1Ulh5bXJuUnFfX2tvXzVCT3BtOG9qYkt1QmxCYmRxZElpV1dQYXdTX1IxUEY1TDZYRDZMcF9ua2Zwa24wRGZrM1dHOUMxSWx3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkZrdTZUR2RzTGh3V0sxXzhLV3c3THdhNVpjSDZ0dkxNRk4yQWFXRHZXMFBjZEp6bDludXllUFJQTnJCOVEzc3dRc0NIYnIta2o0blhnQWF6NE1TYkt3SHFnQU0wTWVxTDVvQmtaZWZGVEozcExmV0pxS2dwQXl0dzBhVG5Nc1B3MTFndnhlam_SAZYBQVVfeXFMUE1GWGMxTGlQZlFBd3FKcktXeGhQSEhXQW9iSGtDSmxpOVFPMVdMd2pIblFLaFVWVnNUOG8wV0dDNWd1b2lwS2J1YVhYbnY1Ulh5bXJuUnFfX2tvXzVCT3BtOG9qYkt1QmxCYmRxZElpV1dQYXdTX1IxUEY1TDZYRDZMcF9ua2Zwa24wRGZrM1dHOUMxSWx3",
       "image": "",
-      "published": "Fri, 18 Sep 2026 18:20:49 GMT",
+      "published": "Sat, 19 Sep 2026 11:49:55 GMT",
       "sections": [
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-19"
@@ -794,6 +791,25 @@
       "published": "Sat, 19 Sep 2026 00:03:53 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
+      "id": "acbbafd79e300055",
+      "source": "Wisconsin News",
+      "headline": "Impact Day: Heavy Rain poses flooding threat for Southeast Wisconsin - WISN",
+      "summary": "Impact Day: Heavy Rain poses flooding threat for Southeast Wisconsin WISN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUk3MGpEUzAwa3JnbTJCbTBGNHlzQmJWdHVLZjZkbEI1R2VHaC1mZkN3R3pUTWR6YnVURFVRMmxIUFFpd2kwSzJzUkI5Wk5jWmQxTl9hZXg2VXNzMG54VEx6ODJkTF8xS08xaV9BYnY1QUthT2hwRjVwTktaeUg2ZjFaMzFYZXdValg3QUdUbmt6aEVZcTJXNk1oUHB2cGM2ZWRjS3NQT1k?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUk3MGpEUzAwa3JnbTJCbTBGNHlzQmJWdHVLZjZkbEI1R2VHaC1mZkN3R3pUTWR6YnVURFVRMmxIUFFpd2kwSzJzUkI5Wk5jWmQxTl9hZXg2VXNzMG54VEx6ODJkTF8xS08xaV9BYnY1QUthT2hwRjVwTktaeUg2ZjFaMzFYZXdValg3QUdUbmt6aEVZcTJXNk1oUHB2cGM2ZWRjS3NQT1k",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 11:15:36 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-09-19"
@@ -918,25 +934,6 @@
       "appearances": 1
     },
     {
-      "id": "a6347cff7ab69738",
-      "source": "AI News",
-      "headline": "Google Gemini AI Agents hack three companies in tests similar to OpenAI, Anthropic and Meta: What the com - The Times of India",
-      "summary": "Google Gemini AI Agents hack three companies in tests similar to OpenAI, Anthropic and Meta: What the com The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNXZfQW1NcGM2WTFyZ2ZINEYtWFpDQkhyc1l0c2w2aHMxY2ZETzB2WWhrc1J5bmlyaGZ2dkhGeFhGeHpYLW41cF96VHd3VnhZanlXNFVpS3UxX2J6RG1GUFEzSTltMDFqZHBWa3ZHZG01ck03eHFYWWFGcktGUHZlcFNLTFNyUkdoWjNpZDRxTDRNMlUzN1RoR3NtR3FNektRWUxmZXJyQnczbFZfRnRWNm5VYXQ3UW1iQ1dmTDFIYV84c1hORmtJRjgxWHR3T08zWnE4aUxieE1XU0tOYThxWi11cWV0dW8tNHhkN3oxdFgxV2YyS3V6TTJuMkNNRGNTZjFjNW1FVkEtTm5mbFJCNE1xSVROZXo3VENZMEFZSkvSAaYCQVVfeXFMTUlHczc5NGc3MVY2Zmkya1ptMlA4VjVXN28tcWxGYjc2bTNJeTk2NEZpVWg2UDBEV1k5WlBqZ3VKTlpwMWdSblVfa18zVDdkLXllWWNrU3c1WVdUTTB5dEJmTFZxTGNDNEpoZGI0d2JTNWJTc3FjaWZIN0dudWt3dHFmR1ZjWHRPa3F1QVNzSzdKV3ZhSHFMQmNlMmUyMzFYQzZvbjJrSkx6UEhJMi1JSW81eFZiOWNqaEVfRTgyYnJQbGVfQjA5cVc4YmpKbDk4OTF5MVljWmpFNjdBNnFSNU03aUd2QktMU210TUJPQnBTcllMYzZwUGF6QzQ2Qzgwc0tiMFg4NjA5NTluaHRzVy16aDdsRzZySGVSN0dRX0JuTnpwZm9n?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNXZfQW1NcGM2WTFyZ2ZINEYtWFpDQkhyc1l0c2w2aHMxY2ZETzB2WWhrc1J5bmlyaGZ2dkhGeFhGeHpYLW41cF96VHd3VnhZanlXNFVpS3UxX2J6RG1GUFEzSTltMDFqZHBWa3ZHZG01ck03eHFYWWFGcktGUHZlcFNLTFNyUkdoWjNpZDRxTDRNMlUzN1RoR3NtR3FNektRWUxmZXJyQnczbFZfRnRWNm5VYXQ3UW1iQ1dmTDFIYV84c1hORmtJRjgxWHR3T08zWnE4aUxieE1XU0tOYThxWi11cWV0dW8tNHhkN3oxdFgxV2YyS3V6TTJuMkNNRGNTZjFjNW1FVkEtTm5mbFJCNE1xSVROZXo3VENZMEFZSkvSAaYCQVVfeXFMTUlHczc5NGc3MVY2Zmkya1ptMlA4VjVXN28tcWxGYjc2bTNJeTk2NEZpVWg2UDBEV1k5WlBqZ3VKTlpwMWdSblVfa18zVDdkLXllWWNrU3c1WVdUTTB5dEJmTFZxTGNDNEpoZGI0d2JTNWJTc3FjaWZIN0dudWt3dHFmR1ZjWHRPa3F1QVNzSzdKV3ZhSHFMQmNlMmUyMzFYQzZvbjJrSkx6UEhJMi1JSW81eFZiOWNqaEVfRTgyYnJQbGVfQjA5cVc4YmpKbDk4OTF5MVljWmpFNjdBNnFSNU03aUd2QktMU210TUJPQnBTcllMYzZwUGF6QzQ2Qzgwc0tiMFg4NjA5NTluaHRzVy16aDdsRzZySGVSN0dRX0JuTnpwZm9n",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 03:25:00 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
-    },
-    {
       "id": "37d3f4b49b5c3d79",
       "source": "BBC US & Canada",
       "headline": "Everything we know about the Ed Sheeran and Macklemore controversy",
@@ -1005,25 +1002,6 @@
       "published": "Fri, 18 Sep 2026 20:22:15 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
-    },
-    {
-      "id": "bdaebf965b87db57",
-      "source": "BBC World",
-      "headline": "Deadly shark attack prompts rare kill order in Western Australia",
-      "summary": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/316642d0-b3f9-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Sat, 19 Sep 2026 09:19:12 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-09-19"
@@ -1204,25 +1182,6 @@
       "appearances": 1
     },
     {
-      "id": "ba70e0a4daeda4e6",
-      "source": "Behavioral Health",
-      "headline": "Before rural providers buy new tools, they should audit the EHR they already have - Health Data Management",
-      "summary": "Before rural providers buy new tools, they should audit the EHR they already have Health Data Management",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWRRZXVIVE5JMFppekpTbURkdTUtaE1od3ZKUVlHTVRCVmJ3dndzRHg3NFlEZU5xeV9wazIxckRwS3UyX3czbGR6YTIwdC1Vckp1SEJPY3hEd0FPcFVQakdhYjluRGJtdjkwV1lIME1OM0xOZDhmTGY5dlZuNTR5dXBsVEpEak40bjBFc2ZIVXhYdm1UWWIzOXpZQ3h4cVhuaENkbUdNN3VEdmM1dWpuM3FNdUJMT2p0MWFjQ1doZnZIYmpJ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWRRZXVIVE5JMFppekpTbURkdTUtaE1od3ZKUVlHTVRCVmJ3dndzRHg3NFlEZU5xeV9wazIxckRwS3UyX3czbGR6YTIwdC1Vckp1SEJPY3hEd0FPcFVQakdhYjluRGJtdjkwV1lIME1OM0xOZDhmTGY5dlZuNTR5dXBsVEpEak40bjBFc2ZIVXhYdm1UWWIzOXpZQ3h4cVhuaENkbUdNN3VEdmM1dWpuM3FNdUJMT2p0MWFjQ1doZnZIYmpJ",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 18:26:33 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
-    },
-    {
       "id": "fc41024e17a66191",
       "source": "NPR",
       "headline": "As Europe warms, Italy sees West Nile virus spread",
@@ -1250,6 +1209,25 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHEwOWtqVG5hRzIxV1NXSjh5RzdQSkw0YXlIRTRObFF0VFFjaEFWa1BmQW51alg4ZXVWbXNfMzdtRzZ2YmlWcWlscWFqa0x0MWUwRkRfUnczRmc2cm8xbGJnNFJlNWxQb2hnclJrc3ZmYWN2ckhqd3lHNG1VNFN3NHhmNm92TXc2bm1LdkdjQ1c4ekJZc01adDUycGNDd0RZRUNfNGZWMDFJOXNhdVdBX1VaeFR6Nk5sbklPTFhZalNLR3BMcmo2U0R4cDA5S2V6S1ZWMGcwVW1ZM1Z3aFBWNVBMa2UzWEU",
       "image": "",
       "published": "Sat, 19 Sep 2026 04:10:00 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
+      "id": "b808874984c66ae9",
+      "source": "AI News",
+      "headline": "Anthropic, OpenAI, Google face antitrust suit over AI slowdown - NewsBytes",
+      "summary": "Anthropic, OpenAI, Google face antitrust suit over AI slowdown NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzY2TjV5cWRIWUhkUmE5VHJFLWJvVEYzSWhlQ1dlelU3alh5SmtWb2lPWTdMcmFhSnBmRkJuZDdoUGQtTnY5TmhaUWM5cjRmUHppNmpCLThVeHFBb1V3VF8yUlo4MzliYTJNcEVhLWVWNjV4OWJhTGpRVXUtV2VDZlo1RjVjUlBIRjZJS0xDM2RkZk9mOVRXTjR3cTJyQ2VyT3k4NklHZ2JoNlF3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzY2TjV5cWRIWUhkUmE5VHJFLWJvVEYzSWhlQ1dlelU3alh5SmtWb2lPWTdMcmFhSnBmRkJuZDdoUGQtTnY5TmhaUWM5cjRmUHppNmpCLThVeHFBb1V3VF8yUlo4MzliYTJNcEVhLWVWNjV4OWJhTGpRVXUtV2VDZlo1RjVjUlBIRjZJS0xDM2RkZk9mOVRXTjR3cTJyQ2VyT3k4NklHZ2JoNlF3",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 09:37:51 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -1299,6 +1277,25 @@
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-19",
       "appearances": 2
+    },
+    {
+      "id": "34681e23f427797d",
+      "source": "NPR",
+      "headline": "Ancient teeth pose a mystery: What made those strange grooves?",
+      "summary": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+      "canonical_url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 07:21:56 -0400",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
     },
     {
       "id": "d04a39ccc35ccb69",
@@ -2811,6 +2808,27 @@
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-17",
       "appearances": 1
+    },
+    {
+      "id": "9e0edb8207eaf432",
+      "source": "BBC World",
+      "headline": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-17",
+        "2026-09-16"
+      ],
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
+      "appearances": 2
     },
     {
       "id": "babdcdc8e8377a1e",
