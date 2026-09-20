@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-19.json",
-  "report_date": "2026-09-19",
-  "generated_at": "2026-09-19T14:28:17.616198+00:00",
-  "edition_count": 66,
+  "latest": "data/archive/2026-09-20.json",
+  "report_date": "2026-09-20",
+  "generated_at": "2026-09-20T11:30:39.332146+00:00",
+  "edition_count": 67,
   "editions": [
+    {
+      "report_date": "2026-09-20",
+      "generated_at": "2026-09-20T11:30:39.332146+00:00",
+      "path": "data/archive/2026-09-20.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+        "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-19",
       "generated_at": "2026-09-19T14:28:17.616198+00:00",
