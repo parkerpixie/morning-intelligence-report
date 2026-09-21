@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T12:56:36.036033+00:00",
+  "generated_at": "2026-09-21T14:34:14.800600+00:00",
   "edition_count": 68,
-  "story_count": 4201,
+  "story_count": 4203,
   "stories": [
     {
       "id": "86050bfc69bb40bb",
@@ -15,6 +15,25 @@
       "published": "Mon, 21 Sep 2026 10:00:00 +0000",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "bd02a48c57f8ea47",
+      "source": "MarTech",
+      "headline": "Your site migration needs a paid search playbook",
+      "summary": "Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates.",
+      "url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook/",
+      "canonical_url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook",
+      "image": "https://martech.org/wp-content/uploads/2026/05/hands-keyboard-connection-data-800x450.png",
+      "published": "Mon, 21 Sep 2026 12:59:00 +0000",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-21"
@@ -81,6 +100,25 @@
       "appearances": 1
     },
     {
+      "id": "05538d6adfad4e3b",
+      "source": "Animals",
+      "headline": "Wildlife Rescue Centre Planned for Cambodia’s Prambei Mom Forest - Cambodianess",
+      "summary": "Wildlife Rescue Centre Planned for Cambodia’s Prambei Mom Forest Cambodianess",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnlFbGN1TlotQ1FON3Q5aWNJQUVyMkhidHBRelhjZHkybXBXOVYxMzFlZVJMV3BRNklMRm1nangwOG91czhoblE1d3J0UG0teERlNGRNR0wyX3lfUWUwemdka3R3ZURQWWZ1ZXhzbzJCdG5oN0RmRHNVYkl3TVdCSmFqY1d4Y1FRRHROY19pWkxWWGVDbW85N0NVamk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnlFbGN1TlotQ1FON3Q5aWNJQUVyMkhidHBRelhjZHkybXBXOVYxMzFlZVJMV3BRNklMRm1nangwOG91czhoblE1d3J0UG0teERlNGRNR0wyX3lfUWUwemdka3R3ZURQWWZ1ZXhzbzJCdG5oN0RmRHNVYkl3TVdCSmFqY1d4Y1FRRHROY19pWkxWWGVDbW85N0NVamk",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 13:15:50 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
       "id": "c364e9313911a5cf",
       "source": "Positive News",
       "headline": "What went right this week: the good news that matters",
@@ -101,25 +139,6 @@
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-21",
       "appearances": 4
-    },
-    {
-      "id": "34d7c7e6fe991a0d",
-      "source": "Madison Local",
-      "headline": "What to do in Madison this week: Sept. 21-24, 2026 - Isthmus | Madison, Wisconsin",
-      "summary": "What to do in Madison this week: Sept. 21-24, 2026 Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vd1piME50RjJZaGdpRkJOLWp4bWxzMmwtcGhXelYyRVFieVJqRkVoT2tYZ0Nkc0cxamNKZ1BrTWRoUDIwWWtCWmdJQ2ZKN0lLNUQwRjE2Q2tQN1UwOHFWWWxOZDVDZF9EQTE1SkQxajQ5S1pV?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vd1piME50RjJZaGdpRkJOLWp4bWxzMmwtcGhXelYyRVFieVJqRkVoT2tYZ0Nkc0cxamNKZ1BrTWRoUDIwWWtCWmdJQ2ZKN0lLNUQwRjE2Q2tQN1UwOHFWWWxOZDVDZF9EQTE1SkQxajQ5S1pV",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 10:15:19 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
     },
     {
       "id": "b24d2c5c05a302e7",
@@ -163,14 +182,14 @@
       "appearances": 1
     },
     {
-      "id": "f088768e3fe0dca8",
-      "source": "Customer Data",
-      "headline": "Westpac Adapt: 285 Systems Unite on Azure [2026] - tech-insider.org",
-      "summary": "Westpac Adapt: 285 Systems Unite on Azure [2026] tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUFJ4MGQ4RHh5c2dpVHY0R3ZpODhJSzlyQk81eWY3bEc1b0NWTGRrRmd1LWhrWXU5aml1S3A3ajZGQ01fWkJhNmdtbFVNTHFfOUtyakVxZDNQLWdpYTgteVp3UnBoX0lud09hd1dWRk1JNWlKU2c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUFJ4MGQ4RHh5c2dpVHY0R3ZpODhJSzlyQk81eWY3bEc1b0NWTGRrRmd1LWhrWXU5aml1S3A3ajZGQ01fWkJhNmdtbFVNTHFfOUtyakVxZDNQLWdpYTgteVp3UnBoX0lud09hd1dWRk1JNWlKU2c",
+      "id": "5e106546418f91bd",
+      "source": "B2B Marketing Ops",
+      "headline": "Vereigen Media Announces, ‘Austin Marketers Connect’ Bringing Together Austin’s B2B Marketing & Growth Leaders - markets.businessinsider.com",
+      "summary": "Vereigen Media Announces, ‘Austin Marketers Connect’ Bringing Together Austin’s B2B Marketing & Growth Leaders markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2RYQzFmVjlBWjJjM05TenY0TGRYS2NEUlowcTJ6V3pnRzNDZ000ZjJCTTY1dzJzMWdCVGtCSHdvaFhaVEExbjJ6Mno0YmEzdEY0Yy13V2NYYVluMTZlV3lGVWxZYkZmTEM3a2ctVkdVSlZOWVkwb3NHREFJY2Z4WmZ5aWxjWVM5c2dZSEo3UkFpZGQyVXRwc3BvZGhWdGNXeUNiQXlJSDEzN3hFVG9JSHJYcHBZbjdNdHhKZ19vbENvblpDNjkzU1R5SnJ0LVZPYmhkRjJaZVl5anZ2bmZmNk1NZzFYTnVUUFYyeThkTzU0dVFEUUw4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2RYQzFmVjlBWjJjM05TenY0TGRYS2NEUlowcTJ6V3pnRzNDZ000ZjJCTTY1dzJzMWdCVGtCSHdvaFhaVEExbjJ6Mno0YmEzdEY0Yy13V2NYYVluMTZlV3lGVWxZYkZmTEM3a2ctVkdVSlZOWVkwb3NHREFJY2Z4WmZ5aWxjWVM5c2dZSEo3UkFpZGQyVXRwc3BvZGhWdGNXeUNiQXlJSDEzN3hFVG9JSHJYcHBZbjdNdHhKZ19vbENvblpDNjkzU1R5SnJ0LVZPYmhkRjJaZVl5anZ2bmZmNk1NZzFYTnVUUFYyeThkTzU0dVFEUUw4",
       "image": "",
-      "published": "Sun, 20 Sep 2026 14:03:34 GMT",
+      "published": "Mon, 21 Sep 2026 13:49:20 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -239,25 +258,6 @@
       "appearances": 1
     },
     {
-      "id": "d038b146ea0d2807",
-      "source": "BBC World",
-      "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
-      "published": "Mon, 21 Sep 2026 05:50:56 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "d3761d9a17daf25f",
       "source": "BBC World",
       "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
@@ -294,27 +294,6 @@
         "2026-09-20"
       ],
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
-      "appearances": 2
-    },
-    {
-      "id": "0475b88152c5f9bc",
-      "source": "Wisconsin Public Radio",
-      "headline": "Tiffany promises more state agency audits if elected governor",
-      "summary": "Citing fraud investigations and findings from the federal government, without mentioning President Donald Trump by name, U.S. Rep. Tom Tiffany, R-Hazelhurst, said Friday that he wants to do the same in Wisconsin. During a Friday press conference at the Eau Claire County Republican Party headquarters, Tiffany announced a \"Taxpayer Accountability Plan.\"",
-      "url": "https://www.wpr.org/news/tiffany-promises-more-state-agency-audits-if-elected-governor",
-      "canonical_url": "https://www.wpr.org/news/tiffany-promises-more-state-agency-audits-if-elected-governor",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 19:45:38 +0000",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-21",
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
       "last_seen": "2026-09-21",
       "appearances": 2
     },
@@ -358,16 +337,16 @@
       "appearances": 1
     },
     {
-      "id": "4e96c2c56a0a3b5e",
-      "source": "HubSpot Marketing",
-      "headline": "The psychology behind why AI shows it's working",
-      "summary": "In 2025, most of the major answer engines made an almost identical update. Claude, ChatGPT, Gemini, and many others started to show what they were thinking.",
-      "url": "https://blog.hubspot.com/marketing/why-ai-shows-loadtime",
-      "canonical_url": "https://blog.hubspot.com/marketing/why-ai-shows-loadtime",
-      "image": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/a-1-20260920-7718814.webp",
-      "published": "Mon, 21 Sep 2026 12:00:03 GMT",
+      "id": "529c69b1e81b7e70",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game - Page Six",
+      "summary": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game Page Six",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 04:10:48 GMT",
       "sections": [
-        "ai-tech"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -377,14 +356,14 @@
       "appearances": 1
     },
     {
-      "id": "529c69b1e81b7e70",
+      "id": "e05c8b1f3453f537",
       "source": "Taylor Fashion",
-      "headline": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game - Page Six",
-      "summary": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game Page Six",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz",
+      "headline": "Taylor Swift Slips Into a Slinky Strapless LBD for a Cozy Date Night With Travis Kelce - instyle.com",
+      "summary": "Taylor Swift Slips Into a Slinky Strapless LBD for a Cozy Date Night With Travis Kelce instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdDNmWWJJNi1iTlg4MDgtT1Bvdzl2cWlQLXlWcWszdDRDenRDQ1kxeGZVV0lVLU01eTdlbTA3aXlwUXVybEtNQVpuY1FTMmZHSWVYdFppSi1MclJ5Sk9jUUFibzNDZy00cmpJa3gtMmg2dGwyQmFUX1UzSEotREZVOEdNMXB6VG1LT0pr?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdDNmWWJJNi1iTlg4MDgtT1Bvdzl2cWlQLXlWcWszdDRDenRDQ1kxeGZVV0lVLU01eTdlbTA3aXlwUXVybEtNQVpuY1FTMmZHSWVYdFppSi1MclJ5Sk9jUUFibzNDZy00cmpJa3gtMmg2dGwyQmFUX1UzSEotREZVOEdNMXB6VG1LT0pr",
       "image": "",
-      "published": "Mon, 21 Sep 2026 04:10:48 GMT",
+      "published": "Sun, 20 Sep 2026 11:42:04 GMT",
       "sections": [
         "entertainment"
       ],
@@ -434,14 +413,14 @@
       "appearances": 1
     },
     {
-      "id": "16d6a03f5d12f5c1",
-      "source": "ScienceDaily Neuroscience",
-      "headline": "Stanford scientists discover the human brain may actually be two separate organs - ScienceDaily",
-      "summary": "Stanford scientists discover the human brain may actually be two separate organs ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaVY2ZDlNbjQtQVpvTnE4Si1UOFFzNnN1d1NtalUxWXpTZ05BYS1nT0d4cVhvVXhiUGM4ZlJPWXY5Y2ZXVVFmcGdxazVGNEQ2OGpTUVd0dnNOaVdrSW5QYU1qaks4QklpNUhnZ2lB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaVY2ZDlNbjQtQVpvTnE4Si1UOFFzNnN1d1NtalUxWXpTZ05BYS1nT0d4cVhvVXhiUGM4ZlJPWXY5Y2ZXVVFmcGdxazVGNEQ2OGpTUVd0dnNOaVdrSW5QYU1qaks4QklpNUhnZ2lB",
+      "id": "636745326a3706d3",
+      "source": "ScienceDaily Mind & Brain",
+      "headline": "Stanford scientists discover the human brain may actually be two separate organs",
+      "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for studying ALS, spinal muscular atrophy, and other brainstem diseases.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
       "image": "",
-      "published": "Mon, 21 Sep 2026 10:18:45 GMT",
+      "published": "Mon, 21 Sep 2026 06:12:51 EDT",
       "sections": [
         "wellbeing"
       ],
@@ -472,31 +451,12 @@
       "appearances": 1
     },
     {
-      "id": "956006428192d93f",
-      "source": "Variety",
-      "headline": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-      "summary": "Blue Finch Films has boarded worldwide sales rights to “The Dark Gets In,” a supernatural thriller directed by Sean Hogan that will premiere at Beyond Fest later this month. The story centers on a documentary crew investigating a young girl’s disappearance, only to find themselves drawn into events far darker and stranger than they anticipated.",
-      "url": "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861/",
-      "canonical_url": "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
-      "image": "https://variety.com/wp-content/uploads/2026/09/The-Dark-gets-In.jpg",
-      "published": "Mon, 21 Sep 2026 09:00:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "48c1b6407e95ddc8",
+      "id": "76aa63ac65830acb",
       "source": "ScienceDaily Neuroscience",
-      "headline": "Scientists create a needle-thin brain implant that can do three jobs at once - ScienceDaily",
-      "summary": "Scientists create a needle-thin brain implant that can do three jobs at once ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTTNXc3pJZDBPM085X0hPbElKWThuNUdLbHBwYXJBTV9QVm1Gc3NEblNIVExWYlpHYVdydVdZTjF0eEY1STM5OFBwaWtXT1NiZV9fNTFYN1hWd3VBNmFFVzA3WTNOX1J2NjJpaTdn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTTNXc3pJZDBPM085X0hPbElKWThuNUdLbHBwYXJBTV9QVm1Gc3NEblNIVExWYlpHYVdydVdZTjF0eEY1STM5OFBwaWtXT1NiZV9fNTFYN1hWd3VBNmFFVzA3WTNOX1J2NjJpaTdn",
+      "headline": "Scientists create a needle-thin brain implant that can do three jobs at once - sciencedaily.com",
+      "summary": "Scientists create a needle-thin brain implant that can do three jobs at once sciencedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00bUtkcUNIZDVtMnc0VDkwSTVpd0pHbHdTV2R2clpidVFFVVNOQnNzVXkxRVhVeDhnLXBtVDhIbUJDeG5RYlJibTdsQzVSLXBsYmRwNVVDTGlHY1hnMEpFUDl5eE1lNTVJRWpmTjJtWQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00bUtkcUNIZDVtMnc0VDkwSTVpd0pHbHdTV2R2clpidVFFVVNOQnNzVXkxRVhVeDhnLXBtVDhIbUJDeG5RYlJibTdsQzVSLXBsYmRwNVVDTGlHY1hnMEpFUDl5eE1lNTVJRWpmTjJtWQ",
       "image": "",
       "published": "Mon, 21 Sep 2026 12:26:59 GMT",
       "sections": [
@@ -567,25 +527,23 @@
       "appearances": 1
     },
     {
-      "id": "9071422d6bd5b7c5",
-      "source": "Wisconsin Public Radio",
-      "headline": "Proposed transmission lines unite some Republicans and Democrats in opposition",
-      "summary": "Proposed transmission line developments through southwestern Wisconsin have made for unlikely political bedfellows this election season.",
-      "url": "https://www.wpr.org/news/proposed-transmission-projects-765-kv-driftless-wisconsin-politics",
-      "canonical_url": "https://www.wpr.org/news/proposed-transmission-projects-765-kv-driftless-wisconsin-politics",
+      "id": "87c776089b3afd7b",
+      "source": "Wisconsin News",
+      "headline": "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin",
+      "summary": "Pressing health care issues should be fodder for Wisconsin candidates Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldhb3htNkRnVXYxWkxQeGJ0bkFnX01fZGJjdUo1N3Vjbk9JMHZHdEZWV1BPOXZNYTVjUDRHRzV3QTNIdDFZdm02VHNkMEtLaVZKQVVERkNfaVlxY0xwMEhrT3dNWnlzYWliaDhxaHA1cVFrcVo1U25fR0tBaEVMQkV4OF9jU19IR3RjeGVJTWQyeEc2aFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldhb3htNkRnVXYxWkxQeGJ0bkFnX01fZGJjdUo1N3Vjbk9JMHZHdEZWV1BPOXZNYTVjUDRHRzV3QTNIdDFZdm02VHNkMEtLaVZKQVVERkNfaVlxY0xwMEhrT3dNWnlzYWliaDhxaHA1cVFrcVo1U25fR0tBaEVMQkV4OF9jU19IR3RjeGVJTWQyeEc2aFE",
       "image": "",
-      "published": "Fri, 18 Sep 2026 19:21:59 +0000",
+      "published": "Mon, 21 Sep 2026 14:01:06 GMT",
       "sections": [
-        "local",
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
-        "2026-09-21",
-        "2026-09-19"
+        "2026-09-21"
       ],
-      "first_seen": "2026-09-19",
+      "first_seen": "2026-09-21",
       "last_seen": "2026-09-21",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "81931fd15311817a",
@@ -683,25 +641,6 @@
       "appearances": 1
     },
     {
-      "id": "32a3dc1883139e32",
-      "source": "The Verge",
-      "headline": "No Dogs in Space is back to feed your need for obsessive music history",
-      "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0.",
-      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "canonical_url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-      "image": "",
-      "published": "2026-09-20T16:51:57-04:00",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "d36d2d782de44de6",
       "source": "Smithsonian",
       "headline": "New Zealand Welcomes a Record 90 Kakapo Chicks, Helping the World's Chunkiest Parrot Species Rebound From the Brink of Extinction",
@@ -743,12 +682,50 @@
     {
       "id": "e0d481d7b043ea70",
       "source": "Marketing Ops",
-      "headline": "Mortgage Document Intelligence Automates 1003 and Servicing - HousingWire",
-      "summary": "Mortgage Document Intelligence Automates 1003 and Servicing HousingWire",
+      "headline": "Mortgage Document Intelligence Automates 1003 and Servicing - housingwire.com",
+      "summary": "Mortgage Document Intelligence Automates 1003 and Servicing housingwire.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYS16cmxBUkk0NjNjdWtGMGJsbWRkWlFhTjZBV09Mc2szV0hzdW9sNDhXWXIwUGFvQk5zblc0MmF1NU5rd25JejJmMFg2amNaTmFJYzYyV1FOWTAzTTZsNkQyZUExUUEzV0JiU0JwYTBiRWNoakE5YjBNQlJ6eU5uMWMxbnZ2b2x6dVNj?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYS16cmxBUkk0NjNjdWtGMGJsbWRkWlFhTjZBV09Mc2szV0hzdW9sNDhXWXIwUGFvQk5zblc0MmF1NU5rd25JejJmMFg2amNaTmFJYzYyV1FOWTAzTTZsNkQyZUExUUEzV0JiU0JwYTBiRWNoakE5YjBNQlJ6eU5uMWMxbnZ2b2x6dVNj",
       "image": "",
-      "published": "Mon, 21 Sep 2026 07:02:26 GMT",
+      "published": "Mon, 21 Sep 2026 07:04:03 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "85ae62c4a8d3d6b7",
+      "source": "BBC World",
+      "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/62c1e770-b5bc-11f1-8d1d-a985658d9d3a.jpg",
+      "published": "Mon, 21 Sep 2026 14:26:29 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "f96bbd2dc8b823f9",
+      "source": "Smithsonian",
+      "headline": "Meet the Adorable and Tiny Tilcayo, the First Brand-New Cat Species Identified in More Than a Century",
+      "summary": "Discovered in a cloud forest in Brazil, the diminutive felines are smaller than a house cat and covered in large, irregularly shaped rosettes",
+      "url": "https://www.smithsonianmag.com/smart-news/meet-the-adorable-and-tiny-tilcayo-the-first-brand-new-cat-species-identified-in-more-than-a-century-180989528/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/meet-the-adorable-and-tiny-tilcayo-the-first-brand-new-cat-species-identified-in-more-than-a-century-180989528",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/lCdghsaIg8Iobhz8wITslCOGbII=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/22/af229ab4-630e-4e98-bb4b-bf07985f9886/02_ngs2026expl_paola_nogales_cr_fernando_faciole_1382.jpg",
+      "published": "Mon, 21 Sep 2026 14:00:00 +0000",
       "sections": [
         "work-marketing"
       ],
@@ -779,6 +756,25 @@
       "appearances": 1
     },
     {
+      "id": "083cbfb4fbe00cd6",
+      "source": "Variety",
+      "headline": "Major TV Networks Suspend White House Pool Coverage of Trump in Protest of His CNN Ban",
+      "summary": "In an unprecedented move, four of the five TV networks that provide White House pool coverage of President Donald Trump — ABC, CBS, NBC and Fox News — have joined in solidarity with CNN, announcing they are suspending coverage of the president because of his ban of CNN. “The public has a vital interest in",
+      "url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070/",
+      "canonical_url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Donald-Trump-1.jpg",
+      "published": "Mon, 21 Sep 2026 14:26:19 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
       "id": "7e6e165242bc5588",
       "source": "B2B Marketing Ops",
       "headline": "LeadSpot | The Gap Nobody Measures And What It's Costing B2B Revenue Teams - MarTech Outlook",
@@ -788,7 +784,26 @@
       "image": "",
       "published": "Mon, 21 Sep 2026 06:28:16 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "0ddd02c8bf2b9e4f",
+      "source": "Good News Network",
+      "headline": "Korean Drone Rescue Program Helps Mozambique Achieve Zero Fatalities During Worst Flood in Decades",
+      "summary": "In January, a community in northern Mozambique experienced one of its worst floods in decades, yet the raging waters failed to claim a single life. This miracle was made possible thanks to a small squadron of drones and their pilots tasked with informing search and rescue efforts in real time. The story, shared by the",
+      "url": "https://www.goodnewsnetwork.org/korean-drone-rescue-program-helps-mozambique-achieve-zero-fatalities-during-worst-flood-in-decades/",
+      "canonical_url": "https://www.goodnewsnetwork.org/korean-drone-rescue-program-helps-mozambique-achieve-zero-fatalities-during-worst-flood-in-decades",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 13:00:32 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-09-21"
@@ -836,16 +851,16 @@
       "appearances": 1
     },
     {
-      "id": "99e7c80678e96406",
-      "source": "Marketing Ops",
-      "headline": "HubSpot for Startups 2026: Growth Guide for New Businesses - Tycoonstory Media",
-      "summary": "HubSpot for Startups 2026: Growth Guide for New Businesses Tycoonstory Media",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMTN4Q2hsM2FiMGkzbkxpSlMxaGlBVEg4V1pydXR4RVlzb05NWnRacDNkSl9OczJUb0wzak9zY0FuRHFzeFRmSXBvOEgwTWZXWG5DcHNWSnVoLVdWaUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMTN4Q2hsM2FiMGkzbkxpSlMxaGlBVEg4V1pydXR4RVlzb05NWnRacDNkSl9OczJUb0wzak9zY0FuRHFzeFRmSXBvOEgwTWZXWG5DcHNWSnVoLVdWaUE",
+      "id": "cc6438358e05f038",
+      "source": "The Verge",
+      "headline": "I got to see Google’s wild ideas about the future of laptops",
+      "summary": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
+      "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+      "canonical_url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
       "image": "",
-      "published": "Mon, 21 Sep 2026 10:38:03 GMT",
+      "published": "2026-09-21T09:00:00-04:00",
       "sections": [
-        "work-marketing"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -876,33 +891,14 @@
     {
       "id": "5846e74d130321e0",
       "source": "Customer Data",
-      "headline": "How Atlassian built a scalable synthetic data engine - Atlassian",
-      "summary": "How Atlassian built a scalable synthetic data engine Atlassian",
+      "headline": "How Atlassian built a scalable synthetic data engine - atlassian.com",
+      "summary": "How Atlassian built a scalable synthetic data engine atlassian.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVERlbldsUm5KVTQ1TnJucEd2ODkyZ0ZjUlNHODlzdUgzNFR4Y1llMDBQYXRSRWJCR1hhQkFCY09JRTNCX3NyR1FpTnh0aFBfeUFTbVJYa0FYMTJ4UXc4a1pncUJtQVVVS1N4S2V5VFpFaGRsRXlYLUVaakF3bm50U1BUX2tLNzhkX0RfMXpRUHFOYzR2RlpXeGRR?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVERlbldsUm5KVTQ1TnJucEd2ODkyZ0ZjUlNHODlzdUgzNFR4Y1llMDBQYXRSRWJCR1hhQkFCY09JRTNCX3NyR1FpTnh0aFBfeUFTbVJYa0FYMTJ4UXc4a1pncUJtQVVVS1N4S2V5VFpFaGRsRXlYLUVaakF3bm50U1BUX2tLNzhkX0RfMXpRUHFOYzR2RlpXeGRR",
       "image": "",
       "published": "Mon, 21 Sep 2026 04:35:03 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "b1e1a6f5eeaa1802",
-      "source": "Wisconsin News",
-      "headline": "Home prices soar as housing costs squeeze families | Election 2026 - Green Bay Press-Gazette",
-      "summary": "Home prices soar as housing costs squeeze families | Election 2026 Green Bay Press-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX0doT1JYbDRSQkk0YklMSTc3azh3SV82VG4taEFYZHNFSVpwTzhhV083aXIyMDZOLThMQ3RhOXd6eUFValpCeFVlVGdXbm13SkxCeG5RNlN6Z2hINE9hQ1lscGdnUnQzdEdpMjB0THhEcUUtNlFlNGZDc1hrS0tEdjAtdmtLOC0tZjJTbEVFcGlONjhuajZYRDdjVk03aHVjbnhTbzBoRExKZ2xNdmNuT1JrMFZJajFVQTFVSWFmZ2tiNE10UllzNGZOSmxkTzY2NlRBSUpLWG8zV1VNeTUzRXJlQnpSQnFhc1l1SjV0UHg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX0doT1JYbDRSQkk0YklMSTc3azh3SV82VG4taEFYZHNFSVpwTzhhV083aXIyMDZOLThMQ3RhOXd6eUFValpCeFVlVGdXbm13SkxCeG5RNlN6Z2hINE9hQ1lscGdnUnQzdEdpMjB0THhEcUUtNlFlNGZDc1hrS0tEdjAtdmtLOC0tZjJTbEVFcGlONjhuajZYRDdjVk03aHVjbnhTbzBoRExKZ2xNdmNuT1JrMFZJajFVQTFVSWFmZ2tiNE10UllzNGZOSmxkTzY2NlRBSUpLWG8zV1VNeTUzRXJlQnpSQnFhc1l1SjV0UHg",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 10:02:00 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-09-21"
@@ -931,16 +927,16 @@
       "appearances": 1
     },
     {
-      "id": "8fb12b0f4cbcea19",
-      "source": "Mongabay",
-      "headline": "H5N1 bird flu jumps to marine mammals and wildlife in Australia - Mongabay",
-      "summary": "H5N1 bird flu jumps to marine mammals and wildlife in Australia Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZRdm5jSzMya0w3NFBJN3FxbWFsRmZFdThCLVVING1ZMEFja216YWxnZkhFYkgyRkd5QVVWTlF5aHByX0JPZm1JUUlMR281cmM2LWxpazNVRk5rclJ3NkM4U0VabWU1LUNJWFV3U3V5RmpBelcwUHZJdmZIeklxaENxQmhkRzAzODhiVjZPNkFnOWJoUmtKS2FBVGViNDZVVDhHOS0ycw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZRdm5jSzMya0w3NFBJN3FxbWFsRmZFdThCLVVING1ZMEFja216YWxnZkhFYkgyRkd5QVVWTlF5aHByX0JPZm1JUUlMR281cmM2LWxpazNVRk5rclJ3NkM4U0VabWU1LUNJWFV3U3V5RmpBelcwUHZJdmZIeklxaENxQmhkRzAzODhiVjZPNkFnOWJoUmtKS2FBVGViNDZVVDhHOS0ycw",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 05:20:27 GMT",
+      "id": "b5ed081379650f81",
+      "source": "Ars Technica",
+      "headline": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "canonical_url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-1152x648.jpg",
+      "published": "Mon, 21 Sep 2026 13:00:11 +0000",
       "sections": [
-        "animals"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -950,14 +946,14 @@
       "appearances": 1
     },
     {
-      "id": "6cbadafd84901c41",
+      "id": "b866890bccadb974",
       "source": "BBC World",
-      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
-      "published": "Mon, 21 Sep 2026 08:56:27 GMT",
+      "headline": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6abe/live/928bf9e0-b5ae-11f1-8d1d-a985658d9d3a.jpg",
+      "published": "Mon, 21 Sep 2026 12:30:54 GMT",
       "sections": [
         "must-know"
       ],
@@ -969,10 +965,48 @@
       "appearances": 1
     },
     {
+      "id": "bd1ac9d7b3849b3f",
+      "source": "NPR",
+      "headline": "German chancellor stands his ground after his party loses in state elections",
+      "summary": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms.",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+      "canonical_url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 05:00:00 -0400",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "9e8dfdfe0f68f903",
+      "source": "Medical Xpress",
+      "headline": "Freeze or flee: Rats show distinct fear strategies when danger is anticipated - Medical Xpress",
+      "summary": "Freeze or flee: Rats show distinct fear strategies when danger is anticipated Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTB4ODdILUd4US1FTmVYVlExc2l2Y05GcjZ6YkNYZVQ4bFdlM3RtMFBDbVZ2NHhEVGd1TUExVkRaZUlvMk1Lb3IxVTF6a0R3V19ReERrM2lZdTY2UlVtakpjRUVoZGIxc3p0NjNuREw5c051NWszNnMwS1FZdE5jYQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTB4ODdILUd4US1FTmVYVlExc2l2Y05GcjZ6YkNYZVQ4bFdlM3RtMFBDbVZ2NHhEVGd1TUExVkRaZUlvMk1Lb3IxVTF6a0R3V19ReERrM2lZdTY2UlVtakpjRUVoZGIxc3p0NjNuREw5c051NWszNnMwS1FZdE5jYQ",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 14:00:06 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
       "id": "a7f2174e03a45825",
       "source": "Reuters",
-      "headline": "Five takeaways from Germany's regional elections - reuters.com",
-      "summary": "Five takeaways from Germany's regional elections reuters.com",
+      "headline": "Five takeaways from Germany's regional elections - Reuters",
+      "summary": "Five takeaways from Germany's regional elections Reuters",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE",
       "image": "",
@@ -1026,16 +1060,16 @@
       "appearances": 1
     },
     {
-      "id": "d7b2023efadbeec9",
-      "source": "MarTech",
-      "headline": "Do you really need so much marketing?",
-      "summary": "Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output.",
-      "url": "https://martech.org/do-you-really-need-so-much-marketing/",
-      "canonical_url": "https://martech.org/do-you-really-need-so-much-marketing",
-      "image": "https://martech.org/wp-content/uploads/2026/09/overwhelmed-by-a-tsunami-of-marketing-800x450.jpg",
-      "published": "Mon, 21 Sep 2026 12:05:00 +0000",
+      "id": "334c30eb291bd573",
+      "source": "Animals",
+      "headline": "Disney Donates $100,000 to Gorilla Conservation Groups to Honor Animal Kingdom Silverback Bakari - WDW News Today",
+      "summary": "Disney Donates $100,000 to Gorilla Conservation Groups to Honor Animal Kingdom Silverback Bakari WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcURweG9pbG9VUEZjOVkxZHNPSkpFSG05SnExWEJ3UGdUbVZOZ0ExNHFxNThxelNsYzU2YkZsVkIxZ3R4MTVJZmdYRGl4UVdlMjBsekNWX3FJeXptNjlucmZVVlF4bzBIeDJib21GRHRnSWJMTU1HVVgyNmJ6X2FtUkgtTWc0b2VCa3VQaTZKeks0N0I3MXFSYkVHVkdRcVVEM18xSDBBYUVPRkhvZmNWZVROLVVxS3dOUTdOaEVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcURweG9pbG9VUEZjOVkxZHNPSkpFSG05SnExWEJ3UGdUbVZOZ0ExNHFxNThxelNsYzU2YkZsVkIxZ3R4MTVJZmdYRGl4UVdlMjBsekNWX3FJeXptNjlucmZVVlF4bzBIeDJib21GRHRnSWJMTU1HVVgyNmJ6X2FtUkgtTWc0b2VCa3VQaTZKeks0N0I3MXFSYkVHVkdRcVVEM18xSDBBYUVPRkhvZmNWZVROLVVxS3dOUTdOaEVn",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 13:34:39 GMT",
       "sections": [
-        "ai-tech"
+        "animals"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1047,8 +1081,8 @@
     {
       "id": "b43164b01ae25750",
       "source": "Dane County",
-      "headline": "Dane County Week Ahead 9/21/26 - forwardlookout.com",
-      "summary": "Dane County Week Ahead 9/21/26 forwardlookout.com",
+      "headline": "Dane County Week Ahead 9/21/26 - Forward Lookout",
+      "summary": "Dane County Week Ahead 9/21/26 Forward Lookout",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45cWhLaDBBVEdSeHA1NG8zU1J6cUJobWY3YXpkcmI2OGItRXVCcGlwNHotb0dBN0lDSEl3NjVKbjhxMEY1SWlWOXlWUHJYeV96OVZIX2xOeDdwQW1hbkRMNS1tMjdZN3AyQ1ZnVnM0QWNYMGJS0gF0QVVfeXFMTjlxaEtoMEFUR1J4cDU0bzNTUnpxQmhtZjdhemRyYjY4Yi1FdUJwaXA0ei1vR0E3SUNISXc2NUpuOHEwRjVJaVY5eVZQclh5X3o5VkhfbE54N3BBbWFuREw1LW0yN1k3cDJDVmdWczRBY1gwYlI?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45cWhLaDBBVEdSeHA1NG8zU1J6cUJobWY3YXpkcmI2OGItRXVCcGlwNHotb0dBN0lDSEl3NjVKbjhxMEY1SWlWOXlWUHJYeV96OVZIX2xOeDdwQW1hbkRMNS1tMjdZN3AyQ1ZnVnM0QWNYMGJS0gF0QVVfeXFMTjlxaEtoMEFUR1J4cDU0bzNTUnpxQmhtZjdhemRyYjY4Yi1FdUJwaXA0ei1vR0E3SUNISXc2NUpuOHEwRjVJaVY5eVZQclh5X3o5VkhfbE54N3BBbWFuREw1LW0yN1k3cDJDVmdWczRBY1gwYlI",
       "image": "",
@@ -1073,7 +1107,7 @@
       "image": "",
       "published": "Sun, 20 Sep 2026 22:48:46 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1086,13 +1120,13 @@
       "id": "42c05d40aae4467a",
       "source": "BBC World",
       "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+      "summary": "Major US networks later announced they would suspend their White House television coverage of Trump as he heads to New York for the UN summit.",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
-      "published": "Mon, 21 Sep 2026 12:21:02 GMT",
+      "published": "Mon, 21 Sep 2026 14:30:38 GMT",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1141,52 +1175,14 @@
       "appearances": 1
     },
     {
-      "id": "f2f49b6e0f0ce91d",
-      "source": "Medical Xpress",
-      "headline": "Cancer care uses biological tests to guide treatment. Why doesn't psychiatry? - Medical Xpress",
-      "summary": "Cancer care uses biological tests to guide treatment. Why doesn't psychiatry? Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVCM0p2aEZ5Z2dZRm8xNk1MbFdxVXBHLUF1NFlZTUxtMERCMkU0SDZLMGdmUDlLelBXZk80RjhrMFhrakRCVEdubDRBMkZxUUtmbnNoWTZiOGdkdnphdmFfRUNaMmZtR2swRGk0ZVlGUlBXdzNCbm92ak1SNmdXMWdZZUpWV01xdlNkWlRUd29FeWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVCM0p2aEZ5Z2dZRm8xNk1MbFdxVXBHLUF1NFlZTUxtMERCMkU0SDZLMGdmUDlLelBXZk80RjhrMFhrakRCVEdubDRBMkZxUUtmbnNoWTZiOGdkdnphdmFfRUNaMmZtR2swRGk0ZVlGUlBXdzNCbm92ak1SNmdXMWdZZUpWV01xdlNkWlRUd29FeWc",
+      "id": "d201b38a61749025",
+      "source": "The Verge",
+      "headline": "Can John Ternus find Apple’s next big thing?",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was",
+      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "canonical_url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "image": "",
-      "published": "Mon, 21 Sep 2026 11:20:02 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "5cdcc45d7af75c90",
-      "source": "BBC Entertainment",
-      "headline": "Calvin Harris recognised for 1.6m world record DJ set crowd",
-      "summary": "An estimated 1.6m people attended the Dumfries DJ's set in Sao Paulo in Brazil earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d5/live/680843d0-b596-11f1-8ac1-4d5f189a56fb.jpg",
-      "published": "Mon, 21 Sep 2026 09:22:25 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "9b621b1d99420f06",
-      "source": "MarTech",
-      "headline": "Building an AI governance framework for marketing",
-      "summary": "Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks.",
-      "url": "https://martech.org/building-an-ai-governance-framework-for-marketing/",
-      "canonical_url": "https://martech.org/building-an-ai-governance-framework-for-marketing",
-      "image": "https://martech.org/wp-content/uploads/2025/11/mtb-explains-it-all-new.png",
-      "published": "Mon, 21 Sep 2026 12:25:00 +0000",
+      "published": "2026-09-21T10:00:00-04:00",
       "sections": [
         "ai-tech"
       ],
@@ -1217,16 +1213,16 @@
       "appearances": 1
     },
     {
-      "id": "9cb525ced5a9f3d4",
-      "source": "Animals",
-      "headline": "Bolivia's tiny tilcayo cat is the first new feline species found in 100+ years - Latin Times",
-      "summary": "Bolivia's tiny tilcayo cat is the first new feline species found in 100+ years Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDNsLVNENW1CVTRqdmlUZjdlWWhvbGdERFluS0k0UDQzYURvU2lhbDd5dFA2bjJndWRCYkt6VHBKSkVfdU5JNElKc28tYmxHeGNubkN3SnpPZ0hTRXdiNHpjb2V6SEJyQWl0N2F5bUVLVmpPNUZOdjFvUzdVdUp6by02SmgwYlBab2lwRlVkT3dYSy03QU16TmtmRjRTX1EzaVF4S2JFTEp0VnFxdEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDNsLVNENW1CVTRqdmlUZjdlWWhvbGdERFluS0k0UDQzYURvU2lhbDd5dFA2bjJndWRCYkt6VHBKSkVfdU5JNElKc28tYmxHeGNubkN3SnpPZ0hTRXdiNHpjb2V6SEJyQWl0N2F5bUVLVmpPNUZOdjFvUzdVdUp6by02SmgwYlBab2lwRlVkT3dYSy03QU16TmtmRjRTX1EzaVF4S2JFTEp0VnFxdEE",
+      "id": "274ba555a854cdb7",
+      "source": "Wisconsin Watch",
+      "headline": "Become a Truth Sleuth: Send us any suspected misinformation this election season - Wisconsin Watch",
+      "summary": "Become a Truth Sleuth: Send us any suspected misinformation this election season Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHMxa0tsRDBVWHdULXB3LURtaFdkRFlwQzhNNW5BbG1kdmtEaWJxNW1pYUNMOC03aTE0dnNzdTVpN2dURkNoalNXcjlpZlFqd3BaTlNlS0RDdldFcUVtNGxsZHhmNjg2LUN3cVRYZGhRREhES1VjeG9MLWFadTJQVkFIQnRmTG9KOW5rVW1sejE5eTlKaVRJMko0MEtMT2gxV3JnWVFBbkFHbHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHMxa0tsRDBVWHdULXB3LURtaFdkRFlwQzhNNW5BbG1kdmtEaWJxNW1pYUNMOC03aTE0dnNzdTVpN2dURkNoalNXcjlpZlFqd3BaTlNlS0RDdldFcUVtNGxsZHhmNjg2LUN3cVRYZGhRREhES1VjeG9MLWFadTJQVkFIQnRmTG9KOW5rVW1sejE5eTlKaVRJMko0MEtMT2gxV3JnWVFBbkFHbHc",
       "image": "",
-      "published": "Mon, 21 Sep 2026 00:42:57 GMT",
+      "published": "Mon, 21 Sep 2026 14:00:00 GMT",
       "sections": [
-        "animals"
+        "local"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1255,14 +1251,14 @@
       "appearances": 1
     },
     {
-      "id": "bed75f11d882fe33",
-      "source": "AI News",
-      "headline": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’…",
-      "summary": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU",
+      "id": "e2947fb0decc971d",
+      "source": "The Verge",
+      "headline": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+      "summary": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in place on the new iPhones, according to Apple's support page, which keeps capacity below the 20Wh limit for single-cell batteries set by international shipping regulations - but this",
+      "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
+      "canonical_url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
       "image": "",
-      "published": "Sun, 20 Sep 2026 14:48:57 GMT",
+      "published": "2026-09-21T08:37:27-04:00",
       "sections": [
         "ai-tech"
       ],
@@ -1274,16 +1270,16 @@
       "appearances": 1
     },
     {
-      "id": "7dae562c5e56055b",
+      "id": "bed75f11d882fe33",
       "source": "AI News",
-      "headline": "AI safety or market control? Anthropic, OpenAI, Google SpaceXAI accused of slowing AI progress - Business Today",
-      "summary": "AI safety or market control? Anthropic, OpenAI, Google SpaceXAI accused of slowing AI progress Business Today",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWmFHWi1vdVVpQmtrdEtiTkxtZFYwRldPOTI3VEN2S2tDRlFENnRlbklRM1ZPWmVzZ3BhdzRkYTFIWHc1MlJLbGdTS0NESGNhVW1odFdMTTQwYmFmWE85WWV1V091T1lfQ3FwSzJsOHN4UF9UeWtDTG0wV3NSNVo3M1BDZmg4aGJKVWpxUzBPRnVfOGxLY2FPNzJJcFhoc1pFZ3FaWGZELWZUWHlhMnloWVlJMEx6NEtwdS04TEhVbC1HY254RU1oaFlpVUJOQW5fSGN1bmZkd1V4blpiRVdHdW9oYWhoZ2NFM0VLeWJVNzZSTWxCcTB3NFhWTFJ5RjdrcnQ4ZElqZTMxbU3SAZACQVVfeXFMTmtLNDBxem5nM3JJeVlxLXdpU2o2d0JnN2VfbXJONUE4Y2FGVDBMa0c1ZEkxci1idFAxNEwwcjF5TWd3RUpkeHZkcjRlaHNhbnhfYXBpaUdFVFQ2NDFKYUh5aThUVXpJc2FuLW1TNENjaXExT1VxWG5rNFJuSUh1V2VIVGMxaWZReGNfczU5M0ozOU5hR0x6NWVXaE1LV3pUWXpjczJOZzNHUTI2RDB2aDhiZnhXVDFXTHJkdGRtZnFiLUQ0RmdTdE5UMXliMlBzX0U0WW5uam1PZ1NVSlNhZzZtcUNxWUx2NTVrNmZQVmFjRlZoSFlUaG5IZW05OWxTUllyWW4xYkE3VWxjS1JIMzk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWmFHWi1vdVVpQmtrdEtiTkxtZFYwRldPOTI3VEN2S2tDRlFENnRlbklRM1ZPWmVzZ3BhdzRkYTFIWHc1MlJLbGdTS0NESGNhVW1odFdMTTQwYmFmWE85WWV1V091T1lfQ3FwSzJsOHN4UF9UeWtDTG0wV3NSNVo3M1BDZmg4aGJKVWpxUzBPRnVfOGxLY2FPNzJJcFhoc1pFZ3FaWGZELWZUWHlhMnloWVlJMEx6NEtwdS04TEhVbC1HY254RU1oaFlpVUJOQW5fSGN1bmZkd1V4blpiRVdHdW9oYWhoZ2NFM0VLeWJVNzZSTWxCcTB3NFhWTFJ5RjdrcnQ4ZElqZTMxbU3SAZACQVVfeXFMTmtLNDBxem5nM3JJeVlxLXdpU2o2d0JnN2VfbXJONUE4Y2FGVDBMa0c1ZEkxci1idFAxNEwwcjF5TWd3RUpkeHZkcjRlaHNhbnhfYXBpaUdFVFQ2NDFKYUh5aThUVXpJc2FuLW1TNENjaXExT1VxWG5rNFJuSUh1V2VIVGMxaWZReGNfczU5M0ozOU5hR0x6NWVXaE1LV3pUWXpjczJOZzNHUTI2RDB2aDhiZnhXVDFXTHJkdGRtZnFiLUQ0RmdTdE5UMXliMlBzX0U0WW5uam1PZ1NVSlNhZzZtcUNxWUx2NTVrNmZQVmFjRlZoSFlUaG5IZW05OWxTUllyWW4xYkE3VWxjS1JIMzk",
+      "headline": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’…",
+      "summary": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU",
       "image": "",
-      "published": "Mon, 21 Sep 2026 05:30:05 GMT",
+      "published": "Sun, 20 Sep 2026 14:48:57 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -2976,6 +2972,25 @@
       "appearances": 1
     },
     {
+      "id": "0475b88152c5f9bc",
+      "source": "Wisconsin Public Radio",
+      "headline": "Tiffany promises more state agency audits if elected governor",
+      "summary": "Citing fraud investigations and findings from the federal government, without mentioning President Donald Trump by name, U.S. Rep. Tom Tiffany, R-Hazelhurst, said Friday that he wants to do the same in Wisconsin. During a Friday press conference at the Eau Claire County Republican Party headquarters, Tiffany announced a \"Taxpayer Accountability Plan.\"",
+      "url": "https://www.wpr.org/news/tiffany-promises-more-state-agency-audits-if-elected-governor",
+      "canonical_url": "https://www.wpr.org/news/tiffany-promises-more-state-agency-audits-if-elected-governor",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 19:45:38 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
       "id": "cbaf7c1df513e923",
       "source": "Customer Data",
       "headline": "The Three Pillars of Customer Intelligence: Context, Governance and Action - CX Today",
@@ -3218,6 +3233,25 @@
       "published": "Thu, 17 Sep 2026 19:34:38 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "appearances": 1
+    },
+    {
+      "id": "9071422d6bd5b7c5",
+      "source": "Wisconsin Public Radio",
+      "headline": "Proposed transmission lines unite some Republicans and Democrats in opposition",
+      "summary": "Proposed transmission line developments through southwestern Wisconsin have made for unlikely political bedfellows this election season.",
+      "url": "https://www.wpr.org/news/proposed-transmission-projects-765-kv-driftless-wisconsin-politics",
+      "canonical_url": "https://www.wpr.org/news/proposed-transmission-projects-765-kv-driftless-wisconsin-politics",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 19:21:59 +0000",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-09-19"
