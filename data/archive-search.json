@@ -1,9 +1,49 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T15:56:24.880870+00:00",
+  "generated_at": "2026-09-21T17:07:36.937578+00:00",
   "edition_count": 68,
-  "story_count": 4204,
+  "story_count": 4202,
   "stories": [
+    {
+      "id": "bd02a48c57f8ea47",
+      "source": "MarTech",
+      "headline": "Your site migration needs a paid search playbook",
+      "summary": "Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates.",
+      "url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook/",
+      "canonical_url": "https://martech.org/your-site-migration-needs-a-paid-search-playbook",
+      "image": "https://martech.org/wp-content/uploads/2026/05/hands-keyboard-connection-data-800x450.png",
+      "published": "Mon, 21 Sep 2026 12:59:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "279a10fed6e3d94b",
+      "source": "MarTech",
+      "headline": "Your marketing automation needs more context",
+      "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
+      "url": "https://martech.org/your-marketing-automation-needs-more-context/",
+      "canonical_url": "https://martech.org/your-marketing-automation-needs-more-context",
+      "image": "https://martech.org/wp-content/uploads/2026/03/man-in-front-of-computer-with-winged-email-icon-flying-away-800x450.png",
+      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "sections": [
+        "quick-scan",
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-21",
+        "2026-09-18"
+      ],
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-21",
+      "appearances": 2
+    },
     {
       "id": "f1201b1b583371bc",
       "source": "BBC Health",
@@ -27,7 +67,7 @@
       "id": "91b6c859822f69a6",
       "source": "BBC World",
       "headline": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
       "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
@@ -182,25 +222,6 @@
       "appearances": 1
     },
     {
-      "id": "6255aff1687c8621",
-      "source": "Wisconsin Public Radio",
-      "headline": "UW-Milwaukee sees highest enrollment in nearly 2 decades despite 20 percent drop in international students",
-      "summary": "The University of Wisconsin-Milwaukee has its highest enrollment in 17 years, with first year student enrollment up nearly 1 percent and transfer enrollment up 4.5 percent.",
-      "url": "https://www.wpr.org/news/uw-milwaukee-sees-highest-enrollmentdespite-drop-in-international-students",
-      "canonical_url": "https://www.wpr.org/news/uw-milwaukee-sees-highest-enrollmentdespite-drop-in-international-students",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "36d9fe7b693a8968",
       "source": "Wisconsin Public Radio",
       "headline": "USDA restricts spending on dairy marketing after lawsuit from Wisconsin producers",
@@ -239,25 +260,6 @@
       "appearances": 1
     },
     {
-      "id": "d038b146ea0d2807",
-      "source": "BBC World",
-      "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
-      "published": "Mon, 21 Sep 2026 05:50:56 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "d3761d9a17daf25f",
       "source": "BBC US & Canada",
       "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
@@ -268,6 +270,25 @@
       "published": "Mon, 21 Sep 2026 04:00:38 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "321b14a0e00e404f",
+      "source": "Ars Technica",
+      "headline": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "summary": "The president offered few details on what his proposed new AI Force would do.",
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "canonical_url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
+      "published": "Mon, 21 Sep 2026 15:37:56 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -354,14 +375,14 @@
       "appearances": 1
     },
     {
-      "id": "529c69b1e81b7e70",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game - Page Six",
-      "summary": "Taylor Swift sports tank top by Erin Andrews at Chiefs vs. Colts game Page Six",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXlSU3VYYldvemVKTkJrQWxkTTdTTnBNekJnVlVKQ3cwdWxqZnRVN3JWZEhJWkk5RHRmX3BHUmRmSktnbE54NVFFSHF0ekJWdnhNaER5bk5HQlZDZklnblN1aHY5R2hST25xWGUzSUhGajdBNjB6LTdta1JURzh1bDYtd0tNai1TSkVzM0dKX1g0WTBYUjFNSDNTNFdPVE43THNLdldLZG9wM2sz",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 04:10:48 GMT",
+      "id": "0c767c06fdd4641f",
+      "source": "Variety",
+      "headline": "Taylor Swift to Be Honored at 2026 MTV VMAs With Inaugural Artist-Director Award",
+      "summary": "Taylor Swift has been pegged to receive a key award at Sunday night’s MTV Video Music Awards. CBS and MTV announced Monday morning that Swift will be the recipient of the inaugural MTV VMA Artist Director Honors, a newly minted award set to go to artists who direct some or all of their own music",
+      "url": "https://variety.com/2026/music/news/taylor-swift-mtv-vmas-2026-inaugural-artist-director-award-1236871205/",
+      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-mtv-vmas-2026-inaugural-artist-director-award-1236871205",
+      "image": "https://variety.com/wp-content/uploads/2022/08/082822_BBedder_PMC_240-e1661741688284.jpg",
+      "published": "Mon, 21 Sep 2026 16:00:10 +0000",
       "sections": [
         "entertainment"
       ],
@@ -420,7 +441,7 @@
       "image": "",
       "published": "Sun, 20 Sep 2026 14:03:06 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -459,6 +480,25 @@
       "published": "Mon, 21 Sep 2026 08:07:00 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "154dd27e874e8324",
+      "source": "Animals",
+      "headline": "Sea Turtle Bowtie Returns to the Ocean After Rescuers Remove Two Fishing Hooks From Her Neck and Throat - GreaterGood",
+      "summary": "Sea Turtle Bowtie Returns to the Ocean After Rescuers Remove Two Fishing Hooks From Her Neck and Throat GreaterGood",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE95Nkl0ZXNBdWc1THBmSTBnY2xzd3JSM0xESlpBeXVZU0t6VE1zYlhlb3B6X3U3ZTZMY19kWXlnRWNudGZKTmpYaXc3b19WbEI5d2ZaMS1uOXFYSFBXajdSV1RxS3RCYnhBVFdpWmtVWW04MmZXTndmVjM2cTF0Q2V3TDNrWVQycVhlNktTcFhoX28xWDVqX0tnOWV5d3NtdWdPb2ZsZXNLcDM1bzdaTA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE95Nkl0ZXNBdWc1THBmSTBnY2xzd3JSM0xESlpBeXVZU0t6VE1zYlhlb3B6X3U3ZTZMY19kWXlnRWNudGZKTmpYaXc3b19WbEI5d2ZaMS1uOXFYSFBXajdSV1RxS3RCYnhBVFdpWmtVWW04MmZXTndmVjM2cTF0Q2V3TDNrWVQycVhlNktTcFhoX28xWDVqX0tnOWV5d3NtdWdPb2ZsZXNLcDM1bzdaTA",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 13:05:00 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-21"
@@ -507,16 +547,16 @@
       "appearances": 1
     },
     {
-      "id": "497e3cd9a91c4b9e",
-      "source": "BBC World",
-      "headline": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acbc/live/b0aa9520-b54b-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Mon, 21 Sep 2026 00:05:11 GMT",
+      "id": "2bc8402fd5deddb7",
+      "source": "Variety",
+      "headline": "SCAD Savannah Film Festival to Open With ‘A Talent for Murder’ and Legend of Entertainment Honor for Helen Mirren",
+      "summary": "The SCAD Savannah Film Festival will open its 29th edition with the Anton Corbijn thriller “A Talent for Murder” and will honor Helen Mirren with its Legend of Entertainment Award. The nation’s largest university-led film festival and one of the biggest of any kind in the Southeast will kick off Saturday, Oct. 24, with the",
+      "url": "https://variety.com/2026/film/awards/helen-mirren-scad-film-festival-talent-for-murder-1236871208/",
+      "canonical_url": "https://variety.com/2026/film/awards/helen-mirren-scad-film-festival-talent-for-murder-1236871208",
+      "image": "https://variety.com/wp-content/uploads/2026/09/A-Talent-for-Murder-01.jpg",
+      "published": "Mon, 21 Sep 2026 17:00:00 +0000",
       "sections": [
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -545,16 +585,16 @@
       "appearances": 1
     },
     {
-      "id": "897a76e8cfa226f0",
-      "source": "Variety",
-      "headline": "Reza Rahadian, Dian Sastrowardoyo Starrer ‘Descendants of the Sun’ Heads to Busan Market as Barunson E&A Launches Sales",
-      "summary": "Barunson E&A will launch international sales for “Descendants of the Sun,” a big-screen version of the landmark Korean series that first aired in 2016, at the Asian Contents & Film Market in Busan, running Oct. 10-13. The Seoul-based company, known for producing Bong Joon Ho’s Academy Award winner “Parasite,” is making the film alongside Dapur",
-      "url": "https://variety.com/2026/film/global/reza-rahadian-dian-sastrowardoyo-descendants-of-the-sun-busan-market-1236870902/",
-      "canonical_url": "https://variety.com/2026/film/global/reza-rahadian-dian-sastrowardoyo-descendants-of-the-sun-busan-market-1236870902",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Descendants-of-the-Sun.jpg",
-      "published": "Mon, 21 Sep 2026 15:00:00 +0000",
+      "id": "5c81d0102631310e",
+      "source": "Medical Xpress",
+      "headline": "Rare genetic variant identified as new cause of neurodevelopmental disorders - Medical Xpress",
+      "summary": "Rare genetic variant identified as new cause of neurodevelopmental disorders Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUNiUl9rdG1aRjE2aHd1X2hucnBZazUtd25ZTVVlR1pPOGdqNHZUeTZWQ3dGc0cwUUVlQUROLXAxYUh1VGZvMXdoOHdNSzNtVnFQQTdaSzBtWHZNS2MxczF5YXB6R19pclVCNzhmQ2wwNGpVUUhkU0RoNVdxeFNycUZhX3lwcnh5NkFQazJXSXExS2Q1TzFBcw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUNiUl9rdG1aRjE2aHd1X2hucnBZazUtd25ZTVVlR1pPOGdqNHZUeTZWQ3dGc0cwUUVlQUROLXAxYUh1VGZvMXdoOHdNSzNtVnFQQTdaSzBtWHZNS2MxczF5YXB6R19pclVCNzhmQ2wwNGpVUUhkU0RoNVdxeFNycUZhX3lwcnh5NkFQazJXSXExS2Q1TzFBcw",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 16:20:05 GMT",
       "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-21"
@@ -584,7 +624,7 @@
     },
     {
       "id": "87c776089b3afd7b",
-      "source": "Wisconsin News",
+      "source": "Madison Local",
       "headline": "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin",
       "summary": "Pressing health care issues should be fodder for Wisconsin candidates Isthmus | Madison, Wisconsin",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldhb3htNkRnVXYxWkxQeGJ0bkFnX01fZGJjdUo1N3Vjbk9JMHZHdEZWV1BPOXZNYTVjUDRHRzV3QTNIdDFZdm02VHNkMEtLaVZKQVVERkNfaVlxY0xwMEhrT3dNWnlzYWliaDhxaHA1cVFrcVo1U25fR0tBaEVMQkV4OF9jU19IR3RjeGVJTWQyeEc2aFE?oc=5",
@@ -621,73 +661,16 @@
       "appearances": 1
     },
     {
-      "id": "597bdcd09365a35c",
+      "id": "70d60cc423a5a122",
       "source": "NPR",
-      "headline": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-      "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-      "canonical_url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+      "headline": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "summary": "Paramount's owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company's bid for its larger Hollywood rival, Warner Bros. Discovery.",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+      "canonical_url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
       "image": "",
-      "published": "Sun, 20 Sep 2026 17:39:24 -0400",
+      "published": "Mon, 21 Sep 2026 12:40:28 -0400",
       "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "43781198028e9dfc",
-      "source": "B2B Marketing Ops",
-      "headline": "Pipedrive’s Sean Evers on How Much Is Sales Admin Really Costing You: The DemandGenReport.com Q&A - Demand Gen Report",
-      "summary": "Pipedrive’s Sean Evers on How Much Is Sales Admin Really Costing You: The DemandGenReport.com Q&A Demand Gen Report",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1dYYWgyaDIxWXRYMFNlYThkd3cxbUFidTA0Wm92OEM2VHotMGRMMHB2a09TSUdsRHhCOXJxNEZtQ0p6cmY4TUlWQmtpVTZuRHFMTUVXYnMwcmduNW5qQW1wUU9rSWtVSElVWmNBR1NmQW5lTC1LeENaZTIzaXV6WWlNOUg0MnNjMUdLZzVzeUYzZkFnUXptd19WVmxWUUtxQXNjcFhQSkgtSG8yWnBHb2xKOVk5X29QcU15RTRWR29uUi1CajQyVFJtM0lIcHh0NTZNd01Rd21aSkJoYVNlQkUtNEtvTjN4Y1Zj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1dYYWgyaDIxWXRYMFNlYThkd3cxbUFidTA0Wm92OEM2VHotMGRMMHB2a09TSUdsRHhCOXJxNEZtQ0p6cmY4TUlWQmtpVTZuRHFMTUVXYnMwcmduNW5qQW1wUU9rSWtVSElVWmNBR1NmQW5lTC1LeENaZTIzaXV6WWlNOUg0MnNjMUdLZzVzeUYzZkFnUXptd19WVmxWUUtxQXNjcFhQSkgtSG8yWnBHb2xKOVk5X29QcU15RTRWR29uUi1CajQyVFJtM0lIcHh0NTZNd01Rd21aSkJoYVNlQkUtNEtvTjN4Y1Zj",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:02:49 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "24504e12871da21c",
-      "source": "Variety",
-      "headline": "Paramount Settles Antitrust Case With State AGs, Removing Obstacle to Warner Bros. Deal",
-      "summary": "Paramount has reached a deal with 12 state attorneys general that removes a major obstacle to closing its acquisition of Warner Bros. Discovery. The deal comes just before the company was to begin accruing a $7 million daily “ticking fee” on Oct. 1, which was seen as an important milestone in the case. Bloomberg was",
-      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-settlement-1236819465/",
-      "canonical_url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-settlement-1236819465",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Paramount-Skydance.jpg",
-      "published": "Mon, 21 Sep 2026 14:56:03 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "48ec63010b5313ec",
-      "source": "AI News",
-      "headline": "OpenAI, Anthropic, Google, xAI Sued Over AI Slowdown Calls - medianama.com",
-      "summary": "OpenAI, Anthropic, Google, xAI Sued Over AI Slowdown Calls medianama.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0IzX2J3b3hPdGhHbUhlYjFpYnc0Q19ud0k3eGFndVJtY3FvQ09KaGVDcGVzMWoyRUZEOHpua3ppZ3lWT2lZVG9nV2NnYzZMNm9KQ2tpdEFFbFBLelgxVXU5eWR5LWNuSzVsdjltVXRhUWFIbzVmNHp6OHJEV1U3dmkzZVF6bERFa1RGVzltSQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0IzX2J3b3hPdGhHbUhlYjFpYnc0Q19ud0k3eGFndVJtY3FvQ09KaGVDcGVzMWoyRUZEOHpua3ppZ3lWT2lZVG9nV2NnYzZMNm9KQ2tpdEFFbFBLelgxVXU5eWR5LWNuSzVsdjltVXRhUWFIbzVmNHp6OHJEV1U3dmkzZVF6bERFa1RGVzltSQ",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 12:07:06 GMT",
-      "sections": [
-        "quick-scan"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-21"
@@ -716,23 +699,24 @@
       "appearances": 1
     },
     {
-      "id": "d3d6726cca76cf76",
-      "source": "NIH News",
-      "headline": "NIH makes major investments to advance human-based research infrastructure and technologies - National Institutes of Health (NIH) | (.gov)",
-      "summary": "NIH makes major investments to advance human-based research infrastructure and technologies National Institutes of Health (NIH) | (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVc1VXZuMWlISDZBZnhsc3AwUTlpZDR4OW5hTUVpYUMwV2dSemJpWV9mQm4yc0dLY3ZtSkl4ZUl5MEVVT0plX0hYZFlVblBNbnhiVTRUQV91QXhXY1NaazF0TmtZT2llQ1lNdDlvNkVZZDc0bW4wMFNnbHY0ejNSTm1iVGRQMnh2dkQ2bnRCaUlDbUNGeXVrQk4wckg0bFpzM0ZTd0xEYmtMenoxRDQ3N1BoSlVUMmZ3emVDdjdzYTB5cU9Dalk5QVdB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVc1VXZuMWlISDZBZnhsc3AwUTlpZDR4OW5hTUVpYUMwV2dSemJpWV9mQm4yc0dLY3ZtSkl4ZUl5MEVVT0plX0hYZFlVblBNbnhiVTRUQV91QXhXY1NaazF0TmtZT2llQ1lNdDlvNkVZZDc0bW4wMFNnbHY0ejNSTm1iVGRQMnh2dkQ2bnRCaUlDbUNGeXVrQk4wckg0bFpzM0ZTd0xEYmtMenoxRDQ3N1BoSlVUMmZ3emVDdjdzYTB5cU9Dalk5QVdB",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 15:28:12 GMT",
+      "id": "d36d2d782de44de6",
+      "source": "Smithsonian",
+      "headline": "New Zealand Welcomes a Record 90 Kakapo Chicks, Helping the World's Chunkiest Parrot Species Rebound From the Brink of Extinction",
+      "summary": "Annual chick counts aren't confirmed until the youngest hatchling reaches 150 days old, a benchmark for independence. The population now stands at 325 birds, up from the 51 individuals that remained in 1995",
+      "url": "https://www.smithsonianmag.com/smart-news/new-zealand-welcomes-a-record-90-kakapo-chicks-helping-the-worlds-chunkiest-parrot-species-rebound-from-the-brink-of-extinction-180989511/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/new-zealand-welcomes-a-record-90-kakapo-chicks-helping-the-worlds-chunkiest-parrot-species-rebound-from-the-brink-of-extinction-180989511",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/GB3IU-4OZjuEW2s6a2AEyMk-0uo=/420x240/filters:focal(1024x575:1025x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/d8/4bd8c063-0d36-4227-b393-be37d591c37f/8528623525_16f8be1b99_k.jpg",
+      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
       "sections": [
-        "quick-scan"
+        "animals"
       ],
       "report_dates": [
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-17"
       ],
-      "first_seen": "2026-09-21",
+      "first_seen": "2026-09-17",
       "last_seen": "2026-09-21",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "e9c7b6ba1c623595",
@@ -755,16 +739,16 @@
       "appearances": 2
     },
     {
-      "id": "e0d481d7b043ea70",
-      "source": "Marketing Ops",
-      "headline": "Mortgage Document Intelligence Automates 1003 and Servicing - HousingWire",
-      "summary": "Mortgage Document Intelligence Automates 1003 and Servicing HousingWire",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYS16cmxBUkk0NjNjdWtGMGJsbWRkWlFhTjZBV09Mc2szV0hzdW9sNDhXWXIwUGFvQk5zblc0MmF1NU5rd25JejJmMFg2amNaTmFJYzYyV1FOWTAzTTZsNkQyZUExUUEzV0JiU0JwYTBiRWNoakE5YjBNQlJ6eU5uMWMxbnZ2b2x6dVNj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYS16cmxBUkk0NjNjdWtGMGJsbWRkWlFhTjZBV09Mc2szV0hzdW9sNDhXWXIwUGFvQk5zblc0MmF1NU5rd25JejJmMFg2amNaTmFJYzYyV1FOWTAzTTZsNkQyZUExUUEzV0JiU0JwYTBiRWNoakE5YjBNQlJ6eU5uMWMxbnZ2b2x6dVNj",
+      "id": "3353a47a343092fc",
+      "source": "B2B Marketing Ops",
+      "headline": "New Apex Martech Matrix Targets a Critical Martech Investment Blind Spot - Demand Gen Report",
+      "summary": "New Apex Martech Matrix Targets a Critical Martech Investment Blind Spot Demand Gen Report",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXUyc282bUxNMmZZRXJOamRCUGlTbW5sZzdUc0dEUVV5dzdlNE5SazRid25mNm1jMEFISnhNRUV3Tmt1Wm9iS1oxQW9ZeWtrSnJHWEZkdlNzY1R0bW5EVTJPMmhBQW9UNU4xMXdDR0h3MEVjSnBmeGpfRHlpN0FGcG1rR3F5X01sLWpPM2JrUjVCdGNTNFVNREY3cU9uMGh2aklxNXVUZkhxX3FnTW1MMHJQV0VBWmZqTDRfbmNhVGZsRlMwckVKMUZkb0Ftdkc4UkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXUyc282bUxNMmZZRXJOamRCUGlTbW5sZzdUc0dEUVV5dzdlNE5SazRid25mNm1jMEFISnhNRUV3Tmt1Wm9iS1oxQW9ZeWtrSnJHWEZkdlNzY1R0bW5EVTJPMmhBQW9UNU4xMXdDR0h3MEVjSnBmeGpfRHlpN0FGcG1rR3F5X01sLWpPM2JrUjVCdGNTNFVNREY3cU9uMGh2aklxNXVUZkhxX3FnTW1MMHJQV0VBWmZqTDRfbmNhVGZsRlMwckVKMUZkb0Ftdkc4UkE",
       "image": "",
-      "published": "Mon, 21 Sep 2026 07:04:03 GMT",
+      "published": "Mon, 21 Sep 2026 16:05:14 GMT",
       "sections": [
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-21"
@@ -780,7 +764,7 @@
       "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
       "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/bc4bd170-b5cb-11f1-bc1f-3f186ca4140c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg",
       "published": "Mon, 21 Sep 2026 14:06:12 GMT",
       "sections": [
         "must-know"
@@ -799,8 +783,8 @@
       "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
       "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/62c1e770-b5bc-11f1-8d1d-a985658d9d3a.jpg",
-      "published": "Mon, 21 Sep 2026 14:26:29 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg",
+      "published": "Mon, 21 Sep 2026 16:54:56 GMT",
       "sections": [
         "must-know"
       ],
@@ -850,14 +834,52 @@
       "appearances": 1
     },
     {
-      "id": "083cbfb4fbe00cd6",
-      "source": "Variety",
-      "headline": "Major TV Networks Suspend White House Pool Coverage of Trump in Protest of His CNN Ban",
-      "summary": "In an unprecedented move, four of the five TV networks that provide White House pool coverage of President Donald Trump — ABC News, CBS News, NBC News and Fox News — have joined in solidarity with CNN, which is the fifth TV pooler, announcing they are suspending coverage of the president because of his ban",
-      "url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070/",
-      "canonical_url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Donald-Trump-1.jpg",
-      "published": "Mon, 21 Sep 2026 14:26:19 +0000",
+      "id": "49c6579eee99b951",
+      "source": "Pitchfork",
+      "headline": "Man Jailed for Selling $3.6 Million in Counterfeit Taylor Swift, Rihanna Vinyl",
+      "summary": "The largest stash of fake records in UK history was sitting in Rehan Ahmed's warehouse",
+      "url": "https://pitchfork.com/story/man-jailed-for-selling-counterfeit-records-taylor-swift-rihanna-records/",
+      "canonical_url": "https://pitchfork.com/story/man-jailed-for-selling-counterfeit-records-taylor-swift-rihanna-records",
+      "image": "https://media.pitchfork.com/photos/6ab151e87fcf853df109cf44/master/pass/GettyImages-652379290.jpg",
+      "published": "Mon, 21 Sep 2026 16:20:49 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "3253793056a84b80",
+      "source": "Madison Local",
+      "headline": "Madison schools’ budget banks on more state aid after fall elections - captimes.com",
+      "summary": "Madison schools’ budget banks on more state aid after fall elections captimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGc2VzdzOFB6aHVMNllCLXEzMmdvdVYxbTVacmRoeENsOXFTYzJvZzF4ZXc3WjZ1aUdCa1pMbkNueWRYbzljMTQweUtzM3lrZFBQdUFWVHQ4NDZvZmZFLWpvbnZScUxYMUNiblBqeXZ1UjBQZVItR3BKdWVQMDV1YjdmX3hhOTdfYTdrZE9DTFZBdGp6ZnJMYXZOeUx6YlFFMHNOclVlaGYtZERoN0ZyQThvcG83cTlqMzVwMEd0LTRWbHhSRjJvNFpwTG5JcFBJOEhQeGxKemFZeTNVd3VtTDRadEFiOW0x?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGc2VzdzOFB6aHVMNllCLXEzMmdvdVYxbTVacmRoeENsOXFTYzJvZzF4ZXc3WjZ1aUdCa1pMbkNueWRYbzljMTQweUtzM3lrZFBQdUFWVHQ4NDZvZmZFLWpvbnZScUxYMUNiblBqeXZ1UjBQZVItR3BKdWVQMDV1YjdmX3hhOTdfYTdrZE9DTFZBdGp6ZnJMYXZOeUx6YlFFMHNOclVlaGYtZERoN0ZyQThvcG83cTlqMzVwMEd0LTRWbHhSRjJvNFpwTG5JcFBJOEhQeGxKemFZeTNVd3VtTDRadEFiOW0x",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "f971d56af75750a5",
+      "source": "BBC Entertainment",
+      "headline": "London Fashion Week 2026: The five trends we'll see in spring",
+      "summary": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/d29c46a0-b5d3-11f1-b1d1-571ed4d7ff2c.png",
+      "published": "Mon, 21 Sep 2026 16:23:25 GMT",
       "sections": [
         "entertainment"
       ],
@@ -879,44 +901,6 @@
       "published": "Mon, 21 Sep 2026 15:02:00 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "7e6e165242bc5588",
-      "source": "B2B Marketing Ops",
-      "headline": "LeadSpot | The Gap Nobody Measures And What It's Costing B2B Revenue Teams - martechoutlook.com",
-      "summary": "LeadSpot | The Gap Nobody Measures And What It's Costing B2B Revenue Teams martechoutlook.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVlhVFFGU0drVE43SUpBbm9zWmpOUkFXUFo4NG1ydjhkV1EzS2h0VkJfUXhhNHdPTVQ0N2lDRTF6cUVmbkNSWklvUlVad1lETjc2N1lNRWJqbTY0bGlVbzZCSzVGY051cGRDelZRbmUySjh6a0xydUNObUlua2g4a2NNT3RrcG4xZC0tcGZrYkYtMU5YRmxaWXZDZEVhTWI5TDRrbnJCYTBDbjdxOVIwcmdvVVd1bDlfckNRS1lEUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVlhVFFGU0drVE43SUpBbm9zWmpOUkFXUFo4NG1ydjhkV1EzS2h0VkJfUXhhNHdPTVQ0N2lDRTF6cUVmbkNSWklvUlVad1lETjc2N1lNRWJqbTY0bGlVbzZCSzVGY051cGRDelZRbmUySjh6a0xydUNObUlua2g4a2NNT3RrcG4xZC0tcGZrYkYtMU5YRmxaWXZDZEVhTWI5TDRrbnJCYTBDbjdxOVIwcmdvVVd1bDlfckNRS1lEUQ",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 06:28:16 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "de91a06c5657c0d0",
-      "source": "AI News",
-      "headline": "Lawsuit Accuses Anthropic, OpenAI, Google, and SpaceXAI of Illegally Coordinating an AI Slowdown - CDO Magazine",
-      "summary": "Lawsuit Accuses Anthropic, OpenAI, Google, and SpaceXAI of Illegally Coordinating an AI Slowdown CDO Magazine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhVRjhFeV9fdFA0V2JXb3JoUnVDOVZ0enF2TGcwclJiTjNSdERWMll3VHlqMFZoOGRUN3pLYzdOUzdRNV94Zm1BbHA5YnpLX2w1ZE9oQzdJcjhKZDdMb1J4bWs2RjNBU0E0Y1NtMkRlOC1LU0lzSjVIeGE0NVdqa21MVnpyUnFuZ08zeXdfYkdPckZhSHVScFpYM3kzZG1iVE96OGlSSk9scE1ZQ3dtUmRXYTRQcEJsWngtdjYzcGttMlVUb1E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhVRjhFeV9fdFA0V2JXb3JoUnVDOVZ0enF2TGcwclJiTjNSdERWMll3VHlqMFZoOGRUN3pLYzdOUzdRNV94Zm1BbHA5YnpLX2w1ZE9oQzdJcjhKZDdMb1J4bWs2RjNBU0E0Y1NtMkRlOC1LU0lzSjVIeGE0NVdqa21MVnpyUnFuZ08zeXdfYkdPckZhSHVScFpYM3kzZG1iVE96OGlSSk9scE1ZQ3dtUmRXYTRQcEJsWngtdjYzcGttMlVUb1E",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 13:17:00 GMT",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -954,7 +938,7 @@
       "image": "",
       "published": "Mon, 21 Sep 2026 12:41:00 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-21"
@@ -973,26 +957,7 @@
       "image": "",
       "published": "2026-09-21T09:00:00-04:00",
       "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
-      "id": "5846e74d130321e0",
-      "source": "Customer Data",
-      "headline": "How Atlassian built a scalable synthetic data engine - Atlassian",
-      "summary": "How Atlassian built a scalable synthetic data engine Atlassian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVERlbldsUm5KVTQ1TnJucEd2ODkyZ0ZjUlNHODlzdUgzNFR4Y1llMDBQYXRSRWJCR1hhQkFCY09JRTNCX3NyR1FpTnh0aFBfeUFTbVJYa0FYMTJ4UXc4a1pncUJtQVVVS1N4S2V5VFpFaGRsRXlYLUVaakF3bm50U1BUX2tLNzhkX0RfMXpRUHFOYzR2RlpXeGRR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVERlbldsUm5KVTQ1TnJucEd2ODkyZ0ZjUlNHODlzdUgzNFR4Y1llMDBQYXRSRWJCR1hhQkFCY09JRTNCX3NyR1FpTnh0aFBfeUFTbVJYa0FYMTJ4UXc4a1pncUJtQVVVS1N4S2V5VFpFaGRsRXlYLUVaakF3bm50U1BUX2tLNzhkX0RfMXpRUHFOYzR2RlpXeGRR",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 04:35:03 GMT",
-      "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1078,25 +1043,6 @@
       "appearances": 1
     },
     {
-      "id": "a7f2174e03a45825",
-      "source": "Reuters",
-      "headline": "Five takeaways from Germany's regional elections - Reuters",
-      "summary": "Five takeaways from Germany's regional elections Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUxkYmlMWkpzRGU5bndEaWJKMGpfbUl2QWk2UDRzb2tnRnFqTGhYQzFEM3FKMnNoWS0zNDZieTIybXByQUdqRGdoV3Q3cVUtRGVseU5DT3NwTy1TV3RqWWRRMnZaa3BoZTJZZTJvYXRZeHRsaWFHamtRQkNiSmdXOTl4SzJ2SWJpdkxfdHdYRDFrbEJrMkE",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 05:07:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "c9a5e0b3b1797378",
       "source": "Animals",
       "headline": "Five Horns, One Crisis: The Battle to Save Every Remaining Rhino Species from Poachers - A-Z Animals",
@@ -1107,6 +1053,25 @@
       "published": "Mon, 21 Sep 2026 14:32:00 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "cd27e3b124d55885",
+      "source": "BBC Entertainment",
+      "headline": "First look at The Other Bennet Sister Christmas special revealed",
+      "summary": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/989b/live/e458c650-b58f-11f1-a430-4d16ee157c41.jpg",
+      "published": "Mon, 21 Sep 2026 17:02:05 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1154,6 +1119,44 @@
       "appearances": 1
     },
     {
+      "id": "1cfba77691f7ad77",
+      "source": "Customer Data",
+      "headline": "CRM’s Great Escape: Salesforce, HubSpot, Zeotap, and Zendesk Redraw the Data Battle - CX Today",
+      "summary": "CRM’s Great Escape: Salesforce, HubSpot, Zeotap, and Zendesk Redraw the Data Battle CX Today",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00YWhhSlBCWmhJRklGbmNYUG9HNUhiQlBCZVdqUnJTa3NJS2FYSjdRR09NUVJqRlhlZDJHbi05S25VdUhhZmdBYng5cDJMSzV0TkxaZUI3aG44LU4wYUZtSUdvTTJOdXRPbDJiVE92TUJ2aC1RalNDSkZhdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00YWhhSlBCWmhJRklGbmNYUG9HNUhiQlBCZVdqUnJTa3NJS2FYSjdRR09NUVJqRlhlZDJHbi05S25VdUhhZmdBYng5cDJMSzV0TkxaZUI3aG44LU4wYUZtSUdvTTJOdXRPbDJiVE92TUJ2aC1RalNDSkZhdw",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 15:53:03 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "23a9586ee4677cad",
+      "source": "Good News Network",
+      "headline": "Couple Fosters 59 Dogs in Retirement: ‘We love to get them out of the kennels’",
+      "summary": "Meet the British couple who spent the last 15 years fostering 59 dogs—with no plans of stopping. While working from home and designing electronics, Nicole and Gary Wordsworth have been taking in pups from the Battersea Dogs Home in Buckinghamshire. Now retired, the two in their 60s opted for part-time pups in a fostering situation,",
+      "url": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+      "canonical_url": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 22:48:46 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
       "id": "e21b885a011bca0b",
       "source": "Wisconsin News",
       "headline": "Colombian woman accused of illegally voting in 2022 Wisconsin election - WQOW",
@@ -1175,12 +1178,12 @@
     {
       "id": "42c05d40aae4467a",
       "source": "BBC US & Canada",
-      "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "headline": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
-      "published": "Mon, 21 Sep 2026 14:30:38 GMT",
+      "published": "Mon, 21 Sep 2026 15:58:53 GMT",
       "sections": [
         "must-know"
       ],
@@ -1230,16 +1233,16 @@
       "appearances": 1
     },
     {
-      "id": "21b5dc9ac7d38e26",
-      "source": "BBC Entertainment",
-      "headline": "British Museum bans visitors from photographing Bayeux Tapestry",
-      "summary": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83bf/live/820f3080-b5ce-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Mon, 21 Sep 2026 12:21:40 GMT",
+      "id": "2501eed235cbba8e",
+      "source": "Ars Technica",
+      "headline": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
+      "published": "Mon, 21 Sep 2026 16:15:26 +0000",
       "sections": [
-        "entertainment"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -1268,25 +1271,6 @@
       "appearances": 1
     },
     {
-      "id": "23cfa41e14b8e94d",
-      "source": "BBC Entertainment",
-      "headline": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
-      "summary": "The corporation said it had included \"the ones that still work today and not the ones that don't.\"",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5d7/live/fa83c740-b599-11f1-abe6-535e7b14de4c.jpg",
-      "published": "Mon, 21 Sep 2026 11:05:13 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "appearances": 1
-    },
-    {
       "id": "bed75f11d882fe33",
       "source": "AI News",
       "headline": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’…",
@@ -1297,6 +1281,25 @@
       "published": "Sun, 20 Sep 2026 14:48:57 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "2f772a4883c07bc2",
+      "source": "Variety",
+      "headline": "Anne Hathaway to Campaign in Supporting Actress for Christopher Nolan’s ‘The Odyssey’ (EXCLUSIVE)",
+      "summary": "Support the Queen of Ithaca! Universal Pictures will campaign Anne Hathaway in the supporting actress category for her turn as Penelope in Christopher Nolan’s billion-dollar sensation “The Odyssey,” Variety has learned exclusively. The decision puts one of the season’s marquee names near the top of the supporting actress conversation, settling a question awards watchers have",
+      "url": "https://variety.com/2026/film/awards/anne-hathaway-the-odyssey-supporting-actress-oscars-campaign-1236867058/",
+      "canonical_url": "https://variety.com/2026/film/awards/anne-hathaway-the-odyssey-supporting-actress-oscars-campaign-1236867058",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Anne-Hathaway-The-Odyssey.jpg",
+      "published": "Mon, 21 Sep 2026 16:45:00 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -3912,25 +3915,6 @@
       "appearances": 1
     },
     {
-      "id": "279a10fed6e3d94b",
-      "source": "MarTech",
-      "headline": "Your marketing automation needs more context",
-      "summary": "When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys.",
-      "url": "https://martech.org/your-marketing-automation-needs-more-context/",
-      "canonical_url": "https://martech.org/your-marketing-automation-needs-more-context",
-      "image": "https://martech.org/wp-content/uploads/2026/03/man-in-front-of-computer-with-winged-email-icon-flying-away-800x450.png",
-      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-18"
-      ],
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "appearances": 1
-    },
-    {
       "id": "0bc325d3f390bff3",
       "source": "Wisconsin News",
       "headline": "Wisconsin Voters Strongly Support Equality Amendment, Lean Toward Ending Governor’s Excessive Partial-Veto Authority - Wisconsin Institute for Law & Liberty",
@@ -5678,25 +5662,6 @@
       "published": "Thu, 17 Sep 2026 00:08:15 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-17"
-      ],
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
-      "appearances": 1
-    },
-    {
-      "id": "d36d2d782de44de6",
-      "source": "Smithsonian",
-      "headline": "New Zealand Welcomes a Record 90 Kakapo Chicks, Helping the World's Chunkiest Parrot Species Rebound From the Brink of Extinction",
-      "summary": "Annual chick counts aren't confirmed until the youngest hatchling reaches 150 days old, a benchmark for independence. The population now stands at 325 birds, up from the 51 individuals that remained in 1995",
-      "url": "https://www.smithsonianmag.com/smart-news/new-zealand-welcomes-a-record-90-kakapo-chicks-helping-the-worlds-chunkiest-parrot-species-rebound-from-the-brink-of-extinction-180989511/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/new-zealand-welcomes-a-record-90-kakapo-chicks-helping-the-worlds-chunkiest-parrot-species-rebound-from-the-brink-of-extinction-180989511",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/GB3IU-4OZjuEW2s6a2AEyMk-0uo=/420x240/filters:focal(1024x575:1025x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/d8/4bd8c063-0d36-4227-b393-be37d591c37f/8528623525_16f8be1b99_k.jpg",
-      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-09-17"
