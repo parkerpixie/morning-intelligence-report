@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-20.json",
-  "report_date": "2026-09-20",
-  "generated_at": "2026-09-20T14:43:02.743358+00:00",
-  "edition_count": 67,
+  "latest": "data/archive/2026-09-21.json",
+  "report_date": "2026-09-21",
+  "generated_at": "2026-09-21T12:55:06.161511+00:00",
+  "edition_count": 68,
   "editions": [
+    {
+      "report_date": "2026-09-21",
+      "generated_at": "2026-09-21T12:55:06.161511+00:00",
+      "path": "data/archive/2026-09-21.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+        "summary": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex.",
+        "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-20",
       "generated_at": "2026-09-20T14:43:02.743358+00:00",
