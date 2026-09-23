@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-09-23.json",
   "report_date": "2026-09-23",
-  "generated_at": "2026-09-23T11:44:19.883544+00:00",
+  "generated_at": "2026-09-23T13:01:10.571635+00:00",
   "edition_count": 70,
   "editions": [
     {
       "report_date": "2026-09-23",
-      "generated_at": "2026-09-23T11:44:19.883544+00:00",
+      "generated_at": "2026-09-23T13:01:10.571635+00:00",
       "path": "data/archive/2026-09-23.json",
       "top_story": {
-        "source": "NPR",
-        "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-        "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+        "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+        "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg"
       },
       "story_count": 71,
       "section_counts": {
