@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T14:17:17.369488+00:00",
+  "generated_at": "2026-09-23T15:29:50.141638+00:00",
   "edition_count": 70,
-  "story_count": 4329,
+  "story_count": 4333,
   "stories": [
-    {
-      "id": "278b8fac391ff3b4",
-      "source": "Animals",
-      "headline": "When ordinary people risk everything to save animals in need - The Daily Star",
-      "summary": "When ordinary people risk everything to save animals in need The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWlEaXAwWmNzYXdLVXBTWjJnRm1LSEF2ZktUVE00VmdoZXB2d1VtV3lKSkcycWhWOVZ0ZzJLXzFSNUt5MEFwOHk4Sks1Tm9QcjJ5WkZGVXZLTHAybkJSUTBwUUtMaGRzekhJcG1NS3Qyb3pxdWF1YWhkc21mVWk4c0VwQmY0ZnFOVVVGTjdwX21rQlQ2Tzh6MmMzMGdvR2NLaTIzYmJGUWhaejFQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWlEaXAwWmNzYXdLVXBTWjJnRm1LSEF2ZktUVE00VmdoZXB2d1VtV3lKSkcycWhWOVZ0ZzJLXzFSNUt5MEFwOHk4Sks1Tm9QcjJ5WkZGVXZLTHAybkJSUTBwUUtMaGRzekhJcG1NS3Qyb3pxdWF1YWhkc21mVWk4c0VwQmY0ZnFOVVVGTjdwX21rQlQ2Tzh6MmMzMGdvR2NLaTIzYmJGUWhaejFQ",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 10:52:37 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
     {
       "id": "c364e9313911a5cf",
       "source": "Positive News",
@@ -48,25 +29,23 @@
       "appearances": 6
     },
     {
-      "id": "f36379943a7759ab",
-      "source": "BBC Health",
-      "headline": "What food items should you stock up on in case of an emergency?",
-      "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
-      "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Sun, 20 Sep 2026 23:02:27 GMT",
+      "id": "2fad3c48003ccb45",
+      "source": "Adweek",
+      "headline": "Week of Sept 7 Evening News Ratings: CBS Grows in the Demo - ADWEEK",
+      "summary": "Week of Sept 7 Evening News Ratings: CBS Grows in the Demo ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1meUtUajVhU0pIVjNRMlJfSWdYZ25fQ2h6R05fMEREbHJXWDlua1VxOEVRcEZablhSb0xreXhqRy1xNWtmb1RZYmRsMDBhLWpUUXI0bUN1WGVKYjJrOXRBZVJyVkR6YWlENkVCX3Bkb2Vmc3ZWUVloT0duZ253UQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1meUtUajVhU0pIVjNRMlJfSWdYZ25fQ2h6R05fMEREbHJXWDlua1VxOEVRcEZablhSb0xreXhqRy1xNWtmb1RZYmRsMDBhLWpUUXI0bUN1WGVKYjJrOXRBZVJyVkR6YWlENkVCX3Bkb2Vmc3ZWUVloT0duZ253UQ",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 17:46:28 GMT",
       "sections": [
-        "quick-scan",
-        "wellbeing"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-09-23",
-        "2026-09-21"
+        "2026-09-23"
       ],
-      "first_seen": "2026-09-21",
+      "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "c16f185c1581f6d7",
@@ -109,6 +88,25 @@
       "appearances": 1
     },
     {
+      "id": "7193e4682d2e8dcd",
+      "source": "BBC Technology",
+      "headline": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
+      "published": "Wed, 23 Sep 2026 01:35:56 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
       "id": "f0b0f7f6f5cdae55",
       "source": "BBC World",
       "headline": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
@@ -128,25 +126,23 @@
       "appearances": 1
     },
     {
-      "id": "db15eafc5a054892",
-      "source": "AI News",
-      "headline": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing - Breakingthenews.net",
-      "summary": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc",
+      "id": "ae63afaa0997b53f",
+      "source": "NPR",
+      "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "canonical_url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
       "image": "",
-      "published": "Tue, 22 Sep 2026 08:27:00 GMT",
+      "published": "Wed, 23 Sep 2026 06:48:47 -0400",
       "sections": [
-        "ai-tech",
-        "quick-scan"
+        "must-know"
       ],
       "report_dates": [
-        "2026-09-23",
-        "2026-09-22"
+        "2026-09-23"
       ],
-      "first_seen": "2026-09-22",
+      "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "e4a7d9b16ae2d05a",
@@ -197,44 +193,6 @@
       "published": "Wed, 23 Sep 2026 09:48:50 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
-      "id": "af559a283617f3d1",
-      "source": "Wisconsin News",
-      "headline": "Tiffany seeks to distance himself from Trump, rising gas prices and the Iran War - Wisconsin Examiner",
-      "summary": "Tiffany seeks to distance himself from Trump, rising gas prices and the Iran War Wisconsin Examiner",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT21iSzZxWGRPUTZLeUZyd0dLVnFsRkZiTGlWaGE3R05XVTVJcTJFSzhUekZkalJYNEp1TE12OG5JTmV5c1JrZW1IdERVSzkwaTBJQk1tczVCUFE4ZEcwdk1uUDVWSGlUTEpIQWhhRjF2RDVKdFdaRmNhUzc5bXNwcU9Xb3p2SkxqTmc1Y3ptSkVNOGo5YjlVT2hLdnQ2OWd6WjJFUHV5ZnpXYVo3T3hmMlQ4LXV4TUhpTFM1dnB3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT21iSzZxWGRPUTZLeUZyd0dLVnFsRkZiTGlWaGE3R05XVTVJcTJFSzhUekZkalJYNEp1TE12OG5JTmV5c1JrZW1IdERVSzkwaTBJQk1tczVCUFE4ZEcwdk1uUDVWSGlUTEpIQWhhRjF2RDVKdFdaRmNhUzc5bXNwcU9Xb3p2SkxqTmc1Y3ptSkVNOGo5YjlVT2hLdnQ2OWd6WjJFUHV5ZnpXYVo3T3hmMlQ4LXV4TUhpTFM1dnB3",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 08:37:45 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
-      "id": "8901397722ffe498",
-      "source": "Medical Xpress",
-      "headline": "Think cannabis reduces stress? New study finds it's complicated - Medical Xpress",
-      "summary": "Think cannabis reduces stress? New study finds it's complicated Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CM2p1TDI1ZGJfX2RDdWZUdW04T1c0QUgtdFp4UW9rX3RvMDNoRDFDdy1XN3FINnNyaGpMeE5XQUU3UDFUSWRKN3pUZmRlVFpiRjBiVWV6aUwwbm1kb1dOY3Z3SzBSTERnTV93emtFM09fUy11YVUxUDRRYw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CM2p1TDI1ZGJfX2RDdWZUdW04T1c0QUgtdFp4UW9rX3RvMDNoRDFDdy1XN3FINnNyaGpMeE5XQUU3UDFUSWRKN3pUZmRlVFpiRjBiVWV6aUwwbm1kb1dOY3Z3SzBSTERnTV93emtFM09fUy11YVUxUDRRYw",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 14:00:08 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-23"
@@ -379,27 +337,6 @@
       "appearances": 1
     },
     {
-      "id": "00cbdebbed7e4f7d",
-      "source": "AI News",
-      "headline": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI - The Indian Express",
-      "summary": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 09:13:00 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-23",
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
-      "appearances": 2
-    },
-    {
       "id": "c5a3a710df742375",
       "source": "BBC World",
       "headline": "South Sudan's president dissolves government ahead of country's first elections",
@@ -440,8 +377,8 @@
     {
       "id": "95e8c1d43219c087",
       "source": "Braze",
-      "headline": "September 2026 Bonfire Marketer of the Month: Juan Florez - Braze",
-      "summary": "September 2026 Bonfire Marketer of the Month: Juan Florez Braze",
+      "headline": "September 2026 Bonfire Marketer of the Month: Juan Florez - braze.com",
+      "summary": "September 2026 Bonfire Marketer of the Month: Juan Florez braze.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjE5alBPWkktZE5YeDFXNGJjcWMxc2dtaFVVWHdwS1M2YVhrUnVBZU4yU3gtc0c4WnlzY2xjREQzcXlyblJmdlhQNmstaURXSnZxX1E5YmF5eVRDMVNqWURQVnl3VFltUFpfQ3hLM3ZLdGx0cmF1MFNVZUtyQnFnVGtHME5Zbjc5UXRjTGF3?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjE5alBPWkktZE5YeDFXNGJjcWMxc2dtaFVVWHdwS1M2YVhrUnVBZU4yU3gtc0c4WnlzY2xjREQzcXlyblJmdlhQNmstaURXSnZxX1E5YmF5eVRDMVNqWURQVnl3VFltUFpfQ3hLM3ZLdGx0cmF1MFNVZUtyQnFnVGtHME5Zbjc5UXRjTGF3",
       "image": "",
@@ -476,16 +413,16 @@
       "appearances": 1
     },
     {
-      "id": "0927ca76284607c0",
-      "source": "MarTech",
-      "headline": "Retail media is evolving. Here is what marketers should value now by DoorDash",
-      "summary": "Navigating fragmented retail media networks is exhausting. Discover how to evaluate key partners, prove incrementality, and build a cohesive commerce strategy.",
-      "url": "https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/",
-      "canonical_url": "https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now",
-      "image": "https://martech.org/wp-content/uploads/2026/09/DoorDash-20260923-retail-media-ads-MT-800x450.png",
-      "published": "Wed, 23 Sep 2026 11:00:00 +0000",
+      "id": "cbbad48cc84f137c",
+      "source": "NIH News",
+      "headline": "Scientists develop high-resolution molecular maps of Alzheimer’s and related brain disorders - National Institutes of Health (NIH) | (.gov)",
+      "summary": "Scientists develop high-resolution molecular maps of Alzheimer’s and related brain disorders National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbG55VVo5d29EOHlEMGFYeXI3Skx4OFRLMXAxQzQ4UFctb2UtcWRleEZuYVRHWnM0UC1xRjNod2lDaXZGYjZZTlNpNzBVNjM0a1Ita2RFaURjbGQyVnY2T2dMMXhWR2FMSnc5aVlUaFU2NVNXeW5pNGotRGQ5SnQtRWFqZEVQd0plMm9BQlczUTBINU1hSTB0OGZURnlOSWpBMWUyYlBuSzA3cVJzbWlOZXRiV3FKUEREMUJLZ0xwaUhlVHAtR1lTdEdB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbG55VVo5d29EOHlEMGFYeXI3Skx4OFRLMXAxQzQ4UFctb2UtcWRleEZuYVRHWnM0UC1xRjNod2lDaXZGYjZZTlNpNzBVNjM0a1Ita2RFaURjbGQyVnY2T2dMMXhWR2FMSnc5aVlUaFU2NVNXeW5pNGotRGQ5SnQtRWFqZEVQd0plMm9BQlczUTBINU1hSTB0OGZURnlOSWpBMWUyYlBuSzA3cVJzbWlOZXRiV3FKUEREMUJLZ0xwaUhlVHAtR1lTdEdB",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 15:06:47 GMT",
       "sections": [
-        "work-marketing"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-23"
@@ -514,14 +451,14 @@
       "appearances": 1
     },
     {
-      "id": "dd01aba81d6ef93c",
-      "source": "Mongabay",
-      "headline": "Reptiles, gold and money: How Australia is cracking down on wildlife trafficking - Mongabay",
-      "summary": "Reptiles, gold and money: How Australia is cracking down on wildlife trafficking Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHRJLTR2MmxkRF9kTS1NeTBQR1BYbnVJZjhkWTV6MEx4VkVwYXlNdktZajRHc2U2bVFVVFpVMFNzTDRROG9nUmhxVUZULV9iMWJYbGhidnJwZXVfV01Ud2VXZ1haV1FHaEY4dEMyeTZ2ZWxyX3NBVDBXSzFrX3RDT0Z6N3ZUemNuMVJUS2RhYzMtajlqRHpyX3lnX3Y3NnZfTjY1T280b3dxWnVuSFBwYWpaVdIBuAFBVV95cUxPNGxFNW5EbGZLWFpGWGdhTVozU0k0WXVhdDJYRnFZMk9fUWtUTnB5LVVuTE9oVFBLT3ctWV9zaE9KamtkelFCa015c1pNQlA1UFVyd1FRZkFkTGp4ZzdLWlA1YWM2ZDZoVEJiZktsMXV3T0FJam9xT3RWb3BSLVhDQng2VkxJWE0xUlFaRmU4WHc4U3N1bkNNN2JtQkFfTUF5ZXY3ME1jVFUzUDhqVzFBek53Y19uNlJ0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHRJLTR2MmxkRF9kTS1NeTBQR1BYbnVJZjhkWTV6MEx4VkVwYXlNdktZajRHc2U2bVFVVFpVMFNzTDRROG9nUmhxVUZULV9iMWJYbGhidnJwZXVfV01Ud2VXZ1haV1FHaEY4dEMyeTZ2ZWxyX3NBVDBXSzFrX3RDT0Z6N3ZUemNuMVJUS2RhYzMtajlqRHpyX3lnX3Y3NnZfTjY1T280b3dxWnVuSFBwYWpaVdIBuAFBVV95cUxPNGxFNW5EbGZLWFpGWGdhTVozU0k0WXVhdDJYRnFZMk9fUWtUTnB5LVVuTE9oVFBLT3ctWV9zaE9KamtkelFCa015c1pNQlA1UFVyd1FRZkFkTGp4ZzdLWlA1YWM2ZDZoVEJiZktsMXV3T0FJam9xT3RWb3BSLVhDQng2VkxJWE0xUlFaRmU4WHc4U3N1bkNNN2JtQkFfTUF5ZXY3ME1jVFUzUDhqVzFBek53Y19uNlJ0",
+      "id": "01980cb9650b2057",
+      "source": "Animals",
+      "headline": "Rainmaker content acquires worldwide Rrights to Australian Obs-Doc The Animal Sanctuary - Prensario Internacional",
+      "summary": "Rainmaker content acquires worldwide Rrights to Australian Obs-Doc The Animal Sanctuary Prensario Internacional",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRLazl5UkstSF80UEtMVmF6ODRSZUotSDJKamM5bE5FNG5qaTZYVGRkSzdLRWprcHAzWHJuZUdOX1JBNVBkLVRoaU1vcU5VY0FaWTUxcEdLOTcwb2JKaXNHdC1xN0lUSFI0OUZDN1VWNU9OQ25UbmNvUzZaVGdIMk5FSGNMRjVnTklza0xzUEowWkhETm16OWw5bzVDRlFoUHgyNXJCRnNCTkdkTVRXVXJlNFR3c05MYVgxWkMtb3hiUlVLM1hTTmxvaEIwUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGRLazl5UkstSF80UEtMVmF6ODRSZUotSDJKamM5bE5FNG5qaTZYVGRkSzdLRWprcHAzWHJuZUdOX1JBNVBkLVRoaU1vcU5VY0FaWTUxcEdLOTcwb2JKaXNHdC1xN0lUSFI0OUZDN1VWNU9OQ25UbmNvUzZaVGdIMk5FSGNMRjVnTklza0xzUEowWkhETm16OWw5bzVDRlFoUHgyNXJCRnNCTkdkTVRXVXJlNFR3c05MYVgxWkMtb3hiUlVLM1hTTmxvaEIwUQ",
       "image": "",
-      "published": "Wed, 23 Sep 2026 01:49:56 GMT",
+      "published": "Wed, 23 Sep 2026 13:14:29 GMT",
       "sections": [
         "animals"
       ],
@@ -533,35 +470,16 @@
       "appearances": 1
     },
     {
-      "id": "c1de1d0c5e0c4ae0",
-      "source": "Mental Health",
-      "headline": "People with similar mental health conditions tend to end up together, raising risk within families - Medical Xpress",
-      "summary": "People with similar mental health conditions tend to end up together, raising risk within families Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHFMWFJMbUwxeUFtNWxtdEVOa1psS1ZOZHRzXzNYSFA3dFlRTGJBSkRPVUd2WGQ0a2EydUFfVkc0Mk9DVGxqajVuQXJ5QXBBZS1pZFZidTNkX0daRW5pSlRxX0NoSDBoZUxHUzdUc2JuUzZheXVCblNmT3ptUjdTdDZaYkcxVUFWa0E4?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHFMWFJMbUwxeUFtNWxtdEVOa1psS1ZOZHRzXzNYSFA3dFlRTGJBSkRPVUd2WGQ0a2EydUFfVkc0Mk9DVGxqajVuQXJ5QXBBZS1pZFZidTNkX0daRW5pSlRxX0NoSDBoZUxHUzdUc2JuUzZheXVCblNmT3ptUjdTdDZaYkcxVUFWa0E4",
+      "id": "9686016a02d364c5",
+      "source": "Animals",
+      "headline": "Orangutans in Odisha signal India is emerging as a destination for illegal primate pet trade - Scroll.in",
+      "summary": "Orangutans in Odisha signal India is emerging as a destination for illegal primate pet trade Scroll.in",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFl3V2dCcUR4OUtvV2xVMGFCMXdyTFh5Rzl3TGtpSEF3SWUzTWdrQWVMeWFkcGIxYnctOWw2S0xQU190VmEzc1o5M0p5U3ZYTXlTSTFuVWJ0cXhmQjFJRUJZWXJYMGRQWGxoSGxnaVBsZHE2MmU0ZzdKbUJvTl9Qdy1lTE9vZ2pNbFVDRlNxbGx3ZDliR3JnZkY1TGN6UGt5V0otbnJ2NkNKNEhMcWtUMkVuZVRLRnpRQzFEeXR5ekpLcmJ4akZQTWJ30gHKAUFVX3lxTE5UWXdXZ0JxRHg5S29XbFUwYUIxd3JMWHlHOXdMa2lIQXdJZTNNZ2tBZUx5YWRwYjFidy05bDZLTFBTX3RWYTNzWjkzSnlTdlhNeVNJMW5VYnRxeGZCMUlFQllZclgwZFBYbGhIbGdpUGxkcTYyZTRnN0ptQm9OX1B3LWVMT29nak1sVUNGU3FsbHdkOWJHcmdmRjVMY3pQa3lXSi1ucnY2Q0o0SExxa1QyRW5lVEtGelFDMUR5dHl6SktyYnhqRlBNYnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFl3V2dCcUR4OUtvV2xVMGFCMXdyTFh5Rzl3TGtpSEF3SWUzTWdrQWVMeWFkcGIxYnctOWw2S0xQU190VmEzc1o5M0p5U3ZYTXlTSTFuVWJ0cXhmQjFJRUJZWXJYMGRQWGxoSGxnaVBsZHE2MmU0ZzdKbUJvTl9Qdy1lTE9vZ2pNbFVDRlNxbGx3ZDliR3JnZkY1TGN6UGt5V0otbnJ2NkNKNEhMcWtUMkVuZVRLRnpRQzFEeXR5ekpLcmJ4akZQTWJ30gHKAUFVX3lxTE5UWXdXZ0JxRHg5S29XbFUwYUIxd3JMWHlHOXdMa2lIQXdJZTNNZ2tBZUx5YWRwYjFidy05bDZLTFBTX3RWYTNzWjkzSnlTdlhNeVNJMW5VYnRxeGZCMUlFQllZclgwZFBYbGhIbGdpUGxkcTYyZTRnN0ptQm9OX1B3LWVMT29nak1sVUNGU3FsbHdkOWJHcmdmRjVMY3pQa3lXSi1ucnY2Q0o0SExxa1QyRW5lVEtGelFDMUR5dHl6SktyYnhqRlBNYnc",
       "image": "",
-      "published": "Wed, 23 Sep 2026 13:30:02 GMT",
+      "published": "Wed, 23 Sep 2026 14:00:00 GMT",
       "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
-      "id": "a30bc2220c429c7b",
-      "source": "The Verge",
-      "headline": "Paramount will need to release way more movies to make this merger work",
-      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in",
-      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "canonical_url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "image": "",
-      "published": "2026-09-22T18:26:07-04:00",
-      "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-23"
@@ -579,25 +497,6 @@
       "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
       "image": "",
       "published": "2026-09-22T20:17:17-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
-      "id": "2c5385f20c281151",
-      "source": "MarTech",
-      "headline": "OpenAI testing third-party-style tracking in ChatGPT ads",
-      "summary": "A persistent identifier could improve ChatGPT ad measurement while creating new questions about consent and the personal data behind it.",
-      "url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/",
-      "canonical_url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads",
-      "image": "https://martech.org/wp-content/uploads/2026/09/ChatGPT-advertising-800x450.jpg",
-      "published": "Wed, 23 Sep 2026 12:37:00 +0000",
       "sections": [
         "ai-tech"
       ],
@@ -799,27 +698,6 @@
       "appearances": 1
     },
     {
-      "id": "2de9696d255c4173",
-      "source": "Madison Local",
-      "headline": "LGBTQ+ Destinations: Madison, Wisconsin - qnotescarolinas.com",
-      "summary": "LGBTQ+ Destinations: Madison, Wisconsin qnotescarolinas.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSjV2R0JMZVotdVZobTM2ZnF1NkIxUDZQRmdwOGh2TXZlamN5T3g5Yno3WEZYYVBKajhhdzgxdXlmTVdXR1pwcmRWcE1meWpubFQ2OFgyeFpjZTViY3dBLTFucnhlSTNNb01qeUVhM2NXWm8?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSjV2R0JMZVotdVZobTM2ZnF1NkIxUDZQRmdwOGh2TXZlamN5T3g5Yno3WEZYYVBKajhhdzgxdXlmTVdXR1pwcmRWcE1meWpubFQ2OFgyeFpjZTViY3dBLTFucnhlSTNNb01qeUVhM2NXWm8",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 22:18:00 GMT",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-23",
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
-      "appearances": 2
-    },
-    {
       "id": "9071faa99f0cda7d",
       "source": "Ars Technica",
       "headline": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
@@ -898,14 +776,52 @@
     {
       "id": "9e7c6170771cf742",
       "source": "Braze",
-      "headline": "How Accounts can work for you - Braze",
-      "summary": "How Accounts can work for you Braze",
+      "headline": "How Accounts can work for you - braze.com",
+      "summary": "How Accounts can work for you braze.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oZU1UemN2eE9aVF9NX0QxVVlDYWhmSXdiQVJPNkZyem04ZThyLURTbXFSLWRWOUJma0tpTGkwXzVMSnQzU0lnYm52c1BobXo1aG5OSUR1TnJpQy1yMkc0VndCYmdLOE5IenptZUxtNnh5OHA5dG1ia3d3ckc?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oZU1UemN2eE9aVF9NX0QxVVlDYWhmSXdiQVJPNkZyem04ZThyLURTbXFSLWRWOUJma0tpTGkwXzVMSnQzU0lnYm52c1BobXo1aG5OSUR1TnJpQy1yMkc0VndCYmdLOE5IenptZUxtNnh5OHA5dG1ia3d3ckc",
       "image": "",
       "published": "Wed, 23 Sep 2026 02:40:23 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "562640a8ce456151",
+      "source": "Search Engine Land",
+      "headline": "Google Ads reframes Smart Bidding learning around 50 conversions - Search Engine Land",
+      "summary": "Google Ads reframes Smart Bidding learning around 50 conversions Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzI4c1JaekpvSUlJSjM0OGZxaXFBT05mYjlrMTFfWU9lNHZMZHh4QkxUSy01QU9NckxQWEtTNFh2WEc1aUp1OXlKSWRJSktjd2xqM1FtSFN3Y2YyMUFESUpLRDlqWmk0SHJGT01qaUxlZDZNZWVwNUtNbXhzWWRCX2d2Y1hYdGZFeXNnMW5xV0ZERnNURjhwbkJBR25RUVA1WFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzI4c1JaekpvSUlJSjM0OGZxaXFBT05mYjlrMTFfWU9lNHZMZHh4QkxUSy01QU9NckxQWEtTNFh2WEc1aUp1OXlKSWRJSktjd2xqM1FtSFN3Y2YyMUFESUpLRDlqWmk0SHJGT01qaUxlZDZNZWVwNUtNbXhzWWRCX2d2Y1hYdGZFeXNnMW5xV0ZERnNURjhwbkJBR25RUVA1WFE",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 17:02:00 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "b128e56e6d22914e",
+      "source": "Good News Network",
+      "headline": "Good News in History September 21",
+      "summary": "45 years ago today, Sandra Day O’Connor was sworn in as the first female Supreme Court Justice. She was approved in the Senate 99-0, with one Montana Senator being absent from who vote, who later sent her a copy of A River Runs Through It, by way of an apology. In her first year on the",
+      "url": "https://www.goodnewsnetwork.org/events060921/",
+      "canonical_url": "https://www.goodnewsnetwork.org/events060921",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 07:00:00 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-09-23"
@@ -943,7 +859,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b216/live/382df5e0-b732-11f1-b1d1-571ed4d7ff2c.jpg",
       "published": "Tue, 22 Sep 2026 23:20:56 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-23"
@@ -974,14 +890,33 @@
     {
       "id": "77846ae7470017e5",
       "source": "National Geographic Wildlife",
-      "headline": "Fighting to Save the World’s Most Wanted Animal - National Geographic",
-      "summary": "Fighting to Save the World’s Most Wanted Animal National Geographic",
+      "headline": "Fighting to Save the Pangolin, the World’s Most Wanted Animal - National Geographic",
+      "summary": "Fighting to Save the Pangolin, the World’s Most Wanted Animal National Geographic",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRqOHRZcTVXUThVWGloMHZ0bW1rNVY5blJfY09SMkV5dnJaOV9lNGVDUzRKUjlKTVFQb1Q5c01PQ3B2cVZOQk9mRnBDMDBXSFBuazdxZ3pnOWtqZ3c2NXpVZnAtYTlpSGc0ZFNhU1Zyemt5ZkpzYWhKZGd2a1pBZDdsRmstSGpMY0lNT0dn?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRqOHRZcTVXUThVWGloMHZ0bW1rNVY5blJfY09SMkV5dnJaOV9lNGVDUzRKUjlKTVFQb1Q5c01PQ3B2cVZOQk9mRnBDMDBXSFBuazdxZ3pnOWtqZ3c2NXpVZnAtYTlpSGc0ZFNhU1Zyemt5ZkpzYWhKZGd2a1pBZDdsRmstSGpMY0lNT0dn",
       "image": "",
       "published": "Wed, 23 Sep 2026 11:06:04 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "f247082078706c67",
+      "source": "Wisconsin Examiner",
+      "headline": "federal voting lawsuit Archives - Wisconsin Examiner",
+      "summary": "federal voting lawsuit Archives Wisconsin Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeTZNR21LVWZ4RlBWd0ZpZEJXbkVvb0RmSXFtTDVvWGFtTGVjM1I2ekF1NW9ONEZBWVVqaUtBOU5tdlpFcmZZa0dOeWI4VGdudlZxcy1BWVRDUWctVklxOFQ4VHIxWFJ2?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeTZNR21LVWZ4RlBWd0ZpZEJXbkVvb0RmSXFtTDVvWGFtTGVjM1I2ekF1NW9ONEZBWVVqaUtBOU5tdlpFcmZZa0dOeWI4VGdudlZxcy1BWVRDUWctVklxOFQ4VHIxWFJ2",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 09:51:17 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-09-23"
@@ -1029,25 +964,6 @@
       "appearances": 1
     },
     {
-      "id": "d48dc4eb5e5a2ba3",
-      "source": "Good News Network",
-      "headline": "Exceptional Detection Rates of Bladder Cancer Recorded in Study of Simple, Yet State-of-the-Art Test",
-      "summary": "An observational study in the UK has just produced substantially positive results for a new, non-invasive, genetic urine test for bladder cancer. Demonstrating extremely high accuracy for negatively diagnosing bladder cancer, it also correctly identified bladder cancer-associated genes in 71 of 77 patients who went on to develop a malignancy. The study authors acknowledged several",
-      "url": "https://www.goodnewsnetwork.org/exceptional-detection-rates-of-bladder-cancer-recorded-in-study-of-simple-yet-state-of-the-art-test/",
-      "canonical_url": "https://www.goodnewsnetwork.org/exceptional-detection-rates-of-bladder-cancer-recorded-in-study-of-simple-yet-state-of-the-art-test",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 18:30:33 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
       "id": "dcc8554137121eb3",
       "source": "BBC World",
       "headline": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
@@ -1055,7 +971,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
-      "published": "Wed, 23 Sep 2026 13:17:11 GMT",
+      "published": "Wed, 23 Sep 2026 14:55:51 GMT",
       "sections": [
         "must-know"
       ],
@@ -1145,16 +1061,16 @@
       "appearances": 2
     },
     {
-      "id": "959abe6ad7c35325",
-      "source": "NPR",
-      "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
-      "summary": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-      "canonical_url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 05:06:47 -0400",
+      "id": "4e5e1a5939097568",
+      "source": "BBC Entertainment",
+      "headline": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68a/live/f463e6c0-b75f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Wed, 23 Sep 2026 12:22:53 GMT",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-23"
@@ -1171,7 +1087,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE90VkU1ZkZiTEdMZlVrbWk4b1c4QVdhdXZmTHFqOTdXbDExTnNENWdybDktdTltLXRJWS1MWXY0VWpEeS1BSXBJUDl1NHU0SVM1MEFkZGFhTWJ1cko5RS1GRG95WXM1b3JSdUFkdnVnQVpjeERmRFphLUcyRUVybXFhYml3dklQZndiZ2l5OEFqdUh6TUF4ZnBVZ2lEZw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE90VkU1ZkZiTEdMZlVrbWk4b1c4QVdhdXZmTHFqOTdXbDExTnNENWdybDktdTltLXRJWS1MWXY0VWpEeS1BSXBJUDl1NHU0SVM1MEFkZGFhTWJ1cko5RS1GRG95WXM1b3JSdUFkdnVnQVpjeERmRFphLUcyRUVybXFhYml3dklQZndiZ2l5OEFqdUh6TUF4ZnBVZ2lEZw",
       "image": "",
-      "published": "Wed, 23 Sep 2026 09:03:01 GMT",
+      "published": "Wed, 23 Sep 2026 09:17:51 GMT",
       "sections": [
         "local"
       ],
@@ -1183,10 +1099,29 @@
       "appearances": 1
     },
     {
+      "id": "9c3e8f10c061d397",
+      "source": "NIH News",
+      "headline": "Clues to what causes multiple sclerosis - National Institutes of Health (NIH) | (.gov)",
+      "summary": "Clues to what causes multiple sclerosis National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmpzeENQeTNXU0FqNTZrLWJQVFNVcmRKWS0wQkFTVVpYWmZpTGVlWGwzUkM3WFZJN0ltbXRjSzhwTUNIT2ZmZUF2NlQ5NzBqMTFLY0xvS2tmY0wweGVYcms2UDF5QlhwT2hTc2dCTHRtaFJYeUx0elNiTkJEZWhleE00cVluQnRNa21vVlFyV2Z6Rlk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmpzeENQeTNXU0FqNTZrLWJQVFNVcmRKWS0wQkFTVVpYWmZpTGVlWGwzUkM3WFZJN0ltbXRjSzhwTUNIT2ZmZUF2NlQ5NzBqMTFLY0xvS2tmY0wweGVYcms2UDF5QlhwT2hTc2dCTHRtaFJYeUx0elNiTkJEZWhleE00cVluQnRNa21vVlFyV2Z6Rlk",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 15:16:48 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
       "id": "7b56a45d501a0d12",
       "source": "Marketing Ops",
-      "headline": "claude for Financial Advisors: Data Automation Plugin - dynamicbusiness.com",
-      "summary": "claude for Financial Advisors: Data Automation Plugin dynamicbusiness.com",
+      "headline": "claude for Financial Advisors: Data Automation Plugin - Dynamic Business",
+      "summary": "claude for Financial Advisors: Data Automation Plugin Dynamic Business",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2h4SVJXNE1DaUtvRE4wN2FHYmIzRzl3MDhkdzdudF9UNkZQZTlmVlV6MzFIZUJEVW12TklxcVNHM2hJRVJGanhYcFNycmRSXzAzcW5YR0RZcVMtcUNoZDlGRTRQT1d6ajRaUFNnc012ZTExWC1fa1VwdnVmTVBRU0xZdjZBWGJNWkZ1STVoTTdXaVNfX0p3UU1R?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2h4SVJXNE1DaUtvRE4wN2FHYmIzRzl3MDhkdzdudF9UNkZQZTlmVlV6MzFIZUJEVW12TklxcVNHM2hJRVJGanhYcFNycmRSXzAzcW5YR0RZcVMtcUNoZDlGRTRQT1d6ajRaUFNnc012ZTExWC1fa1VwdnVmTVBRU0xZdjZBWGJNWkZ1STVoTTdXaVNfX0p3UU1R",
       "image": "",
@@ -1238,27 +1173,6 @@
       "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "appearances": 1
-    },
-    {
-      "id": "f971d56af75750a5",
-      "source": "BBC Entertainment",
-      "headline": "Burberry closes London Fashion Week 2026 with signature check print and celeb-filled front row",
-      "summary": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/2df665e0-b669-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Tue, 22 Sep 2026 09:46:15 GMT",
-      "sections": [
-        "entertainment",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-23",
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
-      "appearances": 2
     },
     {
       "id": "59af3c2c5022ad4d",
@@ -1346,7 +1260,45 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-1152x648-1790170607.jpg",
       "published": "Wed, 23 Sep 2026 13:37:05 +0000",
       "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "76a3338a56a39d4f",
+      "source": "Ars Technica",
+      "headline": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "canonical_url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728-1152x648.jpg",
+      "published": "Wed, 23 Sep 2026 14:20:23 +0000",
+      "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "970a90740b36f19f",
+      "source": "Animals",
+      "headline": "Activist charged after microchipped dog caught in probe into suspected attack - South China Morning Post",
+      "summary": "Activist charged after microchipped dog caught in probe into suspected attack South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVhFSEN1YkVENzdaMzUwazgyUjBHNEpGU0xIUDI2MkcwR1pRNFQwVHhlNWRGV2IxWTFxU083S2hSTWJOcEZhNTVzSjB2dFY0SnNsR2daLXBXOTB5Q05DMFRMWWcyQzVqd1F6VDV4MnNDOWloTHpTMTJEWjZJa1dGM3ZuUS1sTkVlWVh5MzQxcUJPMVB0ZUp2RFFHeTN0LUlDUTJTS1FxSzdERWtBcEotZUEyWk93SHdpLWMxbTF6M1lsZXl2S01SWWJ5dWVBNkh30gHQAUFVX3lxTE9BU3lEemNVdkVOUGJ1dDlYNTRVUG11OUJ5ZXB1aHh6VEdTZUtnTTBFRS02cW9nRzZLSkJvNDc4X2hNSVVkWDBMU3p3aUdzTkhORmNnZXItU3FJX1ZFN0VibVh4ZXV6bFN6V1dzTW40QkFnUlAyaS1kc2RWMmUwaVJFQk1ReVFqcUgtbDUxbmwwclB3S2pMRE9IQVh5ZHc3QjFNQkQwR18xMXcxOE5YaXhCNEZ3a1FDWmxmTk9QdzNUbmNsRGVxYlBLUWRscFZIYm0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVhFSEN1YkVENzdaMzUwazgyUjBHNEpGU0xIUDI2MkcwR1pRNFQwVHhlNWRGV2IxWTFxU083S2hSTWJOcEZhNTVzSjB2dFY0SnNsR2daLXBXOTB5Q05DMFRMWWcyQzVqd1F6VDV4MnNDOWloTHpTMTJEWjZJa1dGM3ZuUS1sTkVlWVh5MzQxcUJPMVB0ZUp2RFFHeTN0LUlDUTJTS1FxSzdERWtBcEotZUEyWk93SHdpLWMxbTF6M1lsZXl2S01SWWJ5dWVBNkh30gHQAUFVX3lxTE9BU3lEemNVdkVOUGJ1dDlYNTRVUG11OUJ5ZXB1aHh6VEdTZUtnTTBFRS02cW9nRzZLSkJvNDc4X2hNSVVkWDBMU3p3aUdzTkhORmNnZXItU3FJX1ZFN0VibVh4ZXV6bFN6V1dzTW40QkFnUlAyaS1kc2RWMmUwaVJFQk1ReVFqcUgtbDUxbmwwclB3S2pMRE9IQVh5ZHc3QjFNQkQwR18xMXcxOE5YaXhCNEZ3a1FDWmxmTk9QdzNUbmNsRGVxYlBLUWRscFZIYm0",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 14:24:53 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-23"
@@ -1373,6 +1325,45 @@
       "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "appearances": 1
+    },
+    {
+      "id": "4545842926366b87",
+      "source": "Animals",
+      "headline": "A Louisiana dog contracted rabies, LDH officials confirm. Here's how to protect your pet. - NOLA.com",
+      "summary": "A Louisiana dog contracted rabies, LDH officials confirm. Here's how to protect your pet. NOLA.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmJSTGltSEVmOHNwanh5R1ZkOVFvWjl4MGFOY1pLbkJDX0FkcGx4QUYyM1N6aHZoazJHOW1lM3NteFB1aUZ2OG1TMHY0cU1BOFVfUVFxT2duM2syWGpwOWxVR0otRGZFTjdrMVdLUzBwNHluSlhyYnozaG5PaTlxNTNRR2hvNVVZb0lvT1p5NkxIUjY4OG50OThEUHlqVmdURTdlWFBnS19CVTNpdjdyNjNMdTF2X3owTW4wTWltVzQ0NU5UMW1xODhVVdIB0AFBVV95cUxOYUJDXzdEaHFQVWc4RzNxcmpqbFJfTUpVY2JOUkFSZnhPZFFWY0sxVVZvU0wtWkgtb1dfa1N4RXU5Q2xUdHYxY0JJakhKQ2g0YS05TmlMbmFvOHVYd3NCVU9sdl9HMkdIYVUtbXIyVkhDdXVDdHBrdGdfV2MyWlJFUWZTdWpkU3duMTdZaTV6amlnLWdLYnE5VmpHQWV4RnQ5eXJRQl9aaF9sR3BpYjc2OHo3d1d4UmR5YkVsNGR1R3ZNbjVqRWtHa05PNWV6akRM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmJSTGltSEVmOHNwanh5R1ZkOVFvWjl4MGFOY1pLbkJDX0FkcGx4QUYyM1N6aHZoazJHOW1lM3NteFB1aUZ2OG1TMHY0cU1BOFVfUVFxT2duM2syWGpwOWxVR0otRGZFTjdrMVdLUzBwNHluSlhyYnozaG5PaTlxNTNRR2hvNVVZb0lvT1p5NkxIUjY4OG50OThEUHlqVmdURTdlWFBnS19CVTNpdjdyNjNMdTF2X3owTW4wTWltVzQ0NU5UMW1xODhVVdIB0AFBVV95cUxOYUJDXzdEaHFQVWc4RzNxcmpqbFJfTUpVY2JOUkFSZnhPZFFWY0sxVVZvU0wtWkgtb1dfa1N4RXU5Q2xUdHYxY0JJakhKQ2g0YS05TmlMbmFvOHVYd3NCVU9sdl9HMkdIYVUtbXIyVkhDdXVDdHBrdGdfV2MyWlJFUWZTdWpkU3duMTdZaTV6amlnLWdLYnE5VmpHQWV4RnQ5eXJRQl9aaF9sR3BpYjc2OHo3d1d4UmR5YkVsNGR1R3ZNbjVqRWtHa05PNWV6akRM",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 15:20:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "46f947e14108d764",
+      "source": "BBC Health",
+      "headline": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
+      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+      "url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55eb/live/fb40eb10-b28b-11f1-8096-b33a1297275a.jpg",
+      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-23",
+        "2026-09-20"
+      ],
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-23",
+      "appearances": 2
     },
     {
       "id": "d1b6903622e2f332",
@@ -1540,6 +1531,25 @@
       "published": "Tue, 22 Sep 2026 11:10:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "appearances": 1
+    },
+    {
+      "id": "db15eafc5a054892",
+      "source": "AI News",
+      "headline": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing - Breakingthenews.net",
+      "summary": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 08:27:00 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-22"
@@ -2095,6 +2105,25 @@
       "published": "Tue, 22 Sep 2026 13:58:42 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "appearances": 1
+    },
+    {
+      "id": "2de9696d255c4173",
+      "source": "Madison Local",
+      "headline": "LGBTQ+ Destinations: Madison, Wisconsin - qnotescarolinas.com",
+      "summary": "LGBTQ+ Destinations: Madison, Wisconsin qnotescarolinas.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSjV2R0JMZVotdVZobTM2ZnF1NkIxUDZQRmdwOGh2TXZlamN5T3g5Yno3WEZYYVBKajhhdzgxdXlmTVdXR1pwcmRWcE1meWpubFQ2OFgyeFpjZTViY3dBLTFucnhlSTNNb01qeUVhM2NXWm8?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSjV2R0JMZVotdVZobTM2ZnF1NkIxUDZQRmdwOGh2TXZlamN5T3g5Yno3WEZYYVBKajhhdzgxdXlmTVdXR1pwcmRWcE1meWpubFQ2OFgyeFpjZTViY3dBLTFucnhlSTNNb01qeUVhM2NXWm8",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 22:18:00 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-09-22"
@@ -2755,6 +2784,25 @@
       "appearances": 4
     },
     {
+      "id": "f36379943a7759ab",
+      "source": "BBC Health",
+      "headline": "What food items should you stock up on in case of an emergency?",
+      "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
+      "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "Sun, 20 Sep 2026 23:02:27 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
       "id": "5e106546418f91bd",
       "source": "B2B Marketing Ops",
       "headline": "Vereigen Media Announces, ‘Austin Marketers Connect’ Bringing Together Austin’s B2B Marketing & Growth Leaders - markets.businessinsider.com",
@@ -2956,6 +3004,25 @@
       "published": "Sun, 20 Sep 2026 17:25:00 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "00cbdebbed7e4f7d",
+      "source": "AI News",
+      "headline": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI - The Indian Express",
+      "summary": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 14:03:06 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-21"
@@ -3377,6 +3444,25 @@
       "published": "Mon, 21 Sep 2026 10:00:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "appearances": 1
+    },
+    {
+      "id": "f971d56af75750a5",
+      "source": "BBC Entertainment",
+      "headline": "London Fashion Week 2026: The five trends we'll see in spring",
+      "summary": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/d29c46a0-b5d3-11f1-b1d1-571ed4d7ff2c.png",
+      "published": "Mon, 21 Sep 2026 16:23:25 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-21"
@@ -5131,25 +5217,6 @@
       "published": "Sun, 20 Sep 2026 14:31:00 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-20"
-      ],
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "appearances": 1
-    },
-    {
-      "id": "46f947e14108d764",
-      "source": "BBC Health",
-      "headline": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
-      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
-      "url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55eb/live/fb40eb10-b28b-11f1-8096-b33a1297275a.jpg",
-      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-20"
