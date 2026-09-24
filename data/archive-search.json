@@ -1,47 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T14:15:50.825843+00:00",
+  "generated_at": "2026-09-24T15:52:08.419649+00:00",
   "edition_count": 71,
-  "story_count": 4399,
+  "story_count": 4400,
   "stories": [
-    {
-      "id": "ee7ea9cc3ba746b8",
-      "source": "Ars Technica",
-      "headline": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
-      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-      "canonical_url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-1152x648.jpg",
-      "published": "Wed, 23 Sep 2026 20:28:42 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "3eb34ae5b8cd0e86",
-      "source": "Wisconsin Public Radio",
-      "headline": "WPR Music Album of the Week: ‘Beethoven and the Italians’",
-      "summary": "The Munich Chamber Orchestra explores the connection between Beethoven's symphonies and the works of his Italian contemporaries.",
-      "url": "https://www.wpr.org/music/wpr-music-album-of-the-week-beethoven-and-the-italians",
-      "canonical_url": "https://www.wpr.org/music/wpr-music-album-of-the-week-beethoven-and-the-italians",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 00:00:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
     {
       "id": "ecdec41a809b6bcd",
       "source": "Wisconsin News",
@@ -64,8 +26,8 @@
     {
       "id": "e2bf7a69b9b30142",
       "source": "Wisconsin News",
-      "headline": "Wisconsin Planned Parenthood files lawsuit, claims abortion restrictions are “medically unjustified” - dailycardinal.com",
-      "summary": "Wisconsin Planned Parenthood files lawsuit, claims abortion restrictions are “medically unjustified” dailycardinal.com",
+      "headline": "Wisconsin Planned Parenthood files lawsuit, claims abortion restrictions are “medically unjustified” - The Daily Cardinal",
+      "summary": "Wisconsin Planned Parenthood files lawsuit, claims abortion restrictions are “medically unjustified” The Daily Cardinal",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXJmR0kzX2pxY2QwYm1NRU1JN0F6ZGZmS0N5blNVYlZXd05ITHUwR1JuSGhHREt5dnVPaVoyR0t2Zy10dVQ0dXM1UEpWaXhfN2ZuaHFnWXNOQno3TDhoZ2l2bTBKaWVQMExfY01ob1lfSmVPZUczbF9zU20tNDNQTm9YRVhFRlZIa0pPTVdteGthczVnd3RzNWoyc053bGdDSHlfY05lQWFtWVdzcnZnZjZsbkFweVRaRUNaYWdDeHFIOEN6bTNMeVZ0ajdCV1M0SVZoeXF3ckI3S3M?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXJmR0kzX2pxY2QwYm1NRU1JN0F6ZGZmS0N5blNVYlZXd05ITHUwR1JuSGhHREt5dnVPaVoyR0t2Zy10dVQ0dXM1UEpWaXhfN2ZuaHFnWXNOQno3TDhoZ2l2bTBKaWVQMExfY01ob1lfSmVPZUczbF9zU20tNDNQTm9YRVhFRlZIa0pPTVdteGthczVnd3RzNWoyc053bGdDSHlfY05lQWFtWVdzcnZnZjZsbkFweVRaRUNaYWdDeHFIOEN6bTNMeVZ0ajdCV1M0SVZoeXF3ckI3S3M",
       "image": "",
@@ -158,7 +120,7 @@
     },
     {
       "id": "2d4fc0e99b28820b",
-      "source": "BBC Technology",
+      "source": "BBC World",
       "headline": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
       "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
       "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
@@ -166,7 +128,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "published": "Thu, 24 Sep 2026 14:08:38 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-24"
@@ -290,46 +252,6 @@
       "appearances": 1
     },
     {
-      "id": "ac648e04af2ccb8d",
-      "source": "BBC US & Canada",
-      "headline": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ee5/live/96d03eb0-b72c-11f1-b6b0-f732836ccdab.jpg",
-      "published": "Wed, 23 Sep 2026 09:48:50 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-24",
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-24",
-      "appearances": 2
-    },
-    {
-      "id": "0b168213f8145596",
-      "source": "Variety",
-      "headline": "Tribeca Festival Opens Submissions for Untold Stories Filmmaker Program With $1.2 Million Prize (EXCLUSIVE)",
-      "summary": "Tribeca Festival and AT&T have opened submissions for the 10th anniversary of AT&T Untold Stories, the filmmaker development program that awards one emerging director $1.2 million to produce a feature film. The production prize, which increased from $1 million to $1.2 million in 2026, is billed by Tribeca and AT&T as the largest unrestricted film",
-      "url": "https://variety.com/2026/film/news/tribeca-festival-untold-stories-submissions-open-2026-1236873975/",
-      "canonical_url": "https://variety.com/2026/film/news/tribeca-festival-untold-stories-submissions-open-2026-1236873975",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Unknown.jpeg",
-      "published": "Thu, 24 Sep 2026 14:00:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
       "id": "b7be0abd6af06159",
       "source": "NPR",
       "headline": "These 6 charts show how NIH research funding has been reshaped under Trump",
@@ -409,6 +331,25 @@
       "appearances": 1
     },
     {
+      "id": "121e69d3736881b6",
+      "source": "Good News Network",
+      "headline": "Teens Set World Record for Most Sports Balls Recycled in One Day, Diverting 2,675 Pounds from Landfills",
+      "summary": "In March, GNN reported on the attempt by teens to set a Guinness World Record for the most racquet sport balls recycled in a single day, and we’re happy to tell you: they pulled it off. It took awhile, but last weekend a group of teen environmentalists from California collected about 22,000 mostly pickle and",
+      "url": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills/",
+      "canonical_url": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 15:30:31 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
       "id": "2a16f66b7f1c42c8",
       "source": "Mental Health",
       "headline": "Supreme Court Seeks Data On Insurance Policies Issued To Persons With Autism, Cerebral Palsy, Multiple... - Live Law",
@@ -428,16 +369,16 @@
       "appearances": 1
     },
     {
-      "id": "35df310b6be27b67",
-      "source": "Audubon",
-      "headline": "So Many Birds, So Little Time (or Bands) - National Audubon Society",
-      "summary": "So Many Birds, So Little Time (or Bands) National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEY1Znc0X05RYUJiRnlubWxXbFAxZy1rNWR3UndpTlM2N1BvZGxGRG53RFJaSU1yZ3hlUFNqOW53bWhaTVpQTFNmRnlySmpUbVY5ZUN4eUhJdTNSc3ZjYWRDSF9MN2EwR2xHNVVhUnJZOVdPSWFlX1Q3emlFRnNxUnlsbWdpUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEY1Znc0X05RYUJiRnlubWxXbFAxZy1rNWR3UndpTlM2N1BvZGxGRG53RFJaSU1yZ3hlUFNqOW53bWhaTVpQTFNmRnlySmpUbVY5ZUN4eUhJdTNSc3ZjYWRDSF9MN2EwR2xHNVVhUnJZOVdPSWFlX1Q3emlFRnNxUnlsbWdpUQ",
+      "id": "3203eaf95c0ddffb",
+      "source": "Wisconsin Public Radio",
+      "headline": "Special bag and size limits approved to aid struggling walleye populations in Wisconsin",
+      "summary": "The Wisconsin Department of Natural Resources can now pursue special bag and size limits to aid struggling walleye populations.",
+      "url": "https://www.wpr.org/news/special-bag-and-size-limits-approved-struggling-walleye-populations-in-wisconsin",
+      "canonical_url": "https://www.wpr.org/news/special-bag-and-size-limits-approved-struggling-walleye-populations-in-wisconsin",
       "image": "",
-      "published": "Wed, 23 Sep 2026 16:31:18 GMT",
+      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
       "sections": [
-        "animals"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-24"
@@ -492,7 +433,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "published": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "published": "Thu, 24 Sep 2026 15:42:07 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -542,6 +483,25 @@
       "appearances": 1
     },
     {
+      "id": "515b439cf4249a30",
+      "source": "Variety",
+      "headline": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing News Outfit at $250 Million",
+      "summary": "Puck, the five-year-old media upstart, has a new owner: RedBird Capital Partners, the investment firm that is a backer of other media companies including Paramount Skydance and its merger bid for Warner Bros. Discovery. RedBird is led by managing partner Gerry Cardinale (pictured above), who sits on the board of Paramount as a director and",
+      "url": "https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335/",
+      "canonical_url": "https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335",
+      "image": "https://variety.com/wp-content/uploads/2025/08/Gerry-Cardinale.jpg",
+      "published": "Thu, 24 Sep 2026 14:46:37 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
       "id": "981219fbf1596edf",
       "source": "Good News Network",
       "headline": "Portuguese Company Turns Cork Wood into Limitless Material, Even to Insulate Spacecraft",
@@ -580,16 +540,16 @@
       "appearances": 1
     },
     {
-      "id": "d03325e7d352a23b",
-      "source": "Variety",
-      "headline": "Paramount to Raise $7.5 Billion More in Debt to Fund Warner Bros. Deal",
-      "summary": "Paramount Skydance said Thursday it is launching a syndication to raise $7.5 billion through a proposed senior secured incremental tranche of term “B” loans. The David Ellison-led company it will use the funds toward its $111 billion Warner Bros. Discovery merger and to pay down certain other debt. In total, Paramount said it now intends",
-      "url": "https://variety.com/2026/film/news/paramount-7-5-billion-more-debt-warner-bros-merger-1236874269/",
-      "canonical_url": "https://variety.com/2026/film/news/paramount-7-5-billion-more-debt-warner-bros-merger-1236874269",
-      "image": "https://variety.com/wp-content/uploads/2026/05/David-Ellison.jpg",
-      "published": "Thu, 24 Sep 2026 13:20:53 +0000",
+      "id": "55cf8a9c1740c442",
+      "source": "Animals",
+      "headline": "Permanently end wild animal imports: Wildlife organisations urge Vantara - Down To Earth",
+      "summary": "Permanently end wild animal imports: Wildlife organisations urge Vantara Down To Earth",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUFsTVc2QjVNU1N5OFNGTzdnU3E4NHh1OGwwZ1JUTjFZT1VJNVE5MHVnWnNpM0pnaWcwMVNETTF2SWZqNEZGUmQxMGFfd2tMUVpCbHhzcjU1am1yYzRTYmpLOXZxSmt0ZHJ1YWpaSndJd2lUcG00MGxxRU9mVmllS3dGbmplbkdSTXh4T3JHLTA1YWhLYlpyVmtyczlpeFJZRFlIX1lIWFcwYnNnSGRtcFBNQ2Y5UG5ZTEgxS0pGMnE0UdIBzwFBVV95cUxNSXpmSGRza2prRXVOeVYtN2Nua1ViWks5ZjBuVVQxQTd4RDhCdjIxU25raE9UZ1hzV2QzV0JpZzRxYm16amdFaVZrTzE1OE1WMjh1NDJpOFJfWm9uMFJ6eHdJbGRESC1yYjk5Wk50M2d4SkJwYVF4UlkzSk9ONXBEYlBzR0tKTFQ5Z0FpOGF5WlljVmhsRWxzbGJTbHNQSDZnM01rVmk0NG1fYS1XU3VwWWI5dGdHX3NBTWY2eFQxem9rc3dQMC1Ea2hOTWg0TzA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUFsTVc2QjVNU1N5OFNGTzdnU3E4NHh1OGwwZ1JUTjFZT1VJNVE5MHVnWnNpM0pnaWcwMVNETTF2SWZqNEZGUmQxMGFfd2tMUVpCbHhzcjU1am1yYzRTYmpLOXZxSmt0ZHJ1YWpaSndJd2lUcG00MGxxRU9mVmllS3dGbmplbkdSTXh4T3JHLTA1YWhLYlpyVmtyczlpeFJZRFlIX1lIWFcwYnNnSGRtcFBNQ2Y5UG5ZTEgxS0pGMnE0UdIBzwFBVV95cUxNSXpmSGRza2prRXVOeVYtN2Nua1ViWks5ZjBuVVQxQTd4RDhCdjIxU25raE9UZ1hzV2QzV0JpZzRxYm16amdFaVZrTzE1OE1WMjh1NDJpOFJfWm9uMFJ6eHdJbGRESC1yYjk5Wk50M2d4SkJwYVF4UlkzSk9ONXBEYlBzR0tKTFQ5Z0FpOGF5WlljVmhsRWxzbGJTbHNQSDZnM01rVmk0NG1fYS1XU3VwWWI5dGdHX3NBTWY2eFQxem9rc3dQMC1Ea2hOTWg0TzA",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 12:49:46 GMT",
       "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-24"
@@ -608,7 +568,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Samsung-Bespoke-AI-3-Door-Refrigerator-AutoView-950x534-1-1152x648-1790182604.jpg",
       "published": "Wed, 23 Sep 2026 17:39:39 +0000",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-24"
@@ -618,16 +578,16 @@
       "appearances": 1
     },
     {
-      "id": "5267a1c1f8d55aa1",
-      "source": "Animals",
-      "headline": "Organisations Urge Vantara to Permanently End Wild Animal Imports - Pro Wildlife",
-      "summary": "Organisations Urge Vantara to Permanently End Wild Animal Imports Pro Wildlife",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnItTVJuemx5U0ptVEFjcEcyTmRILTlBZjBpLWdVdXBfcWNJUkNWN1FoM3p5QlF4Y0lZVWFFWHdsY3BtNFVRNXZPeU13RW1kVGNzSTQtXy1vZHBzWVhsODJnZlhCbjFwN1JEZ2hEajlXZG01dThJVF8xT2w3NkdvajdudHlWVmRxWjl5VVVXQzZ2dTR2OGZPY3oyeFJPUDB6NXRTMUNKTFBscE5CMV9BZzIxM2t6WlB5dWJWUA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnItTVJuemx5U0ptVEFjcEcyTmRILTlBZjBpLWdVdXBfcWNJUkNWN1FoM3p5QlF4Y0lZVWFFWHdsY3BtNFVRNXZPeU13RW1kVGNzSTQtXy1vZHBzWVhsODJnZlhCbjFwN1JEZ2hEajlXZG01dThJVF8xT2w3NkdvajdudHlWVmRxWjl5VVVXQzZ2dTR2OGZPY3oyeFJPUDB6NXRTMUNKTFBscE5CMV9BZzIxM2t6WlB5dWJWUA",
+      "id": "5b0a74a73c1cb866",
+      "source": "AI News",
+      "headline": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News - Breaking News, Latest News and Videos",
+      "summary": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUc4amlnMXBwLUNfZ0MxQnRyeDV4dmt5dVFJdU13TXhIRFBmT2tpalJ0U2VqXzlBZUo2UmljOThwRS0wQUNwQk9oelN0MkpHQkkySUVSTXF0WEJYV0dsWUJOLVJtaXNaa2UzMUppM1FpM20wdnBEMzlqVTF1UFBjX1c0eFo0eTUwWGktMVBCdXdMcHBIMnoxNGZhbC1KZ1YzeUdpTllUVVRfQVHSAbABQVVfeXFMUE9GX3JBVGRfd3hhQVFsMXBqRHVvLUVRd2t6S0Q0cXhxbF9jVWtsS1JRS1JCZk05Q0o0aFJKRklIRnd2cFhTb2xfWWxIdV9hRjNGN0poQzk4Q1ZlR0c4U1lzZU45RHFhR3g1NGFud3dKZm85OWp3XzBFZEk4d0lBNkFFNzduNVBfMzB1ajIyRHRmQWZHQkR0ZnVQOGlpTFRSQXZ5dVR1TE02cVNNNGhNOVI?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUc4amlnMXBwLUNfZ0MxQnRyeDV4dmt5dVFJdU13TXhIRFBmT2tpalJ0U2VqXzlBZUo2UmljOThwRS0wQUNwQk9oelN0MkpHQkkySUVSTXF0WEJYV0dsWUJOLVJtaXNaa2UzMUppM1FpM20wdnBEMzlqVTF1UFBjX1c0eFo0eTUwWGktMVBCdXdMcHBIMnoxNGZhbC1KZ1YzeUdpTllUVVRfQVHSAbABQVVfeXFMUE9GX3JBVGRfd3hhQVFsMXBqRHVvLUVRd2t6S0Q0cXhxbF9jVWtsS1JRS1JCZk05Q0o0aFJKRklIRnd2cFhTb2xfWWxIdV9hRjNGN0poQzk4Q1ZlR0c4U1lzZU45RHFhR3g1NGFud3dKZm85OWp3XzBFZEk4d0lBNkFFNzduNVBfMzB1ajIyRHRmQWZHQkR0ZnVQOGlpTFRSQXZ5dVR1TE02cVNNNGhNOVI",
       "image": "",
-      "published": "Thu, 24 Sep 2026 08:05:51 GMT",
+      "published": "Wed, 23 Sep 2026 22:45:11 GMT",
       "sections": [
-        "animals"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-24"
@@ -645,25 +605,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVSaWJHSVkybmpSWmhPN3NuLUNYWGM3ZDBvQ1E1R2NkLS0tWWVTeFVTTTNiZFdHZWdkQ0pibXlQd0FIZUktQUtqUElXT0E5NV9wUGd2V2RoZ2hJMWFjaTRaSV9fbjdUVmt2VEpWWFFmVlJCbjBheXF4NTA5QW5qVWt4blpCbTdiQWRkRER6SElabkl0WTRmYnVyaEFtVjVVSVVlU3l0Rk5QYjBUVGo0WGFvT3ZkV3F6anYxdVN2ZkZDYWpv",
       "image": "",
       "published": "Thu, 24 Sep 2026 10:07:42 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "7230613e317e42f3",
-      "source": "The Verge",
-      "headline": "OpenAI agents hacked an Australian government website in search for data",
-      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "image": "",
-      "published": "2026-09-24T07:52:32-04:00",
       "sections": [
         "ai-tech"
       ],
@@ -694,14 +635,14 @@
       "appearances": 1
     },
     {
-      "id": "441d9c7ae1708e6a",
-      "source": "Ars Technica",
-      "headline": "Netflix releases trailer for Brad Bird's Ray Gunn",
-      "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
-      "url": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
-      "canonical_url": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/raygunn1-1152x648.jpg",
-      "published": "Wed, 23 Sep 2026 18:26:50 +0000",
+      "id": "35df57c7fe3d3abb",
+      "source": "Variety",
+      "headline": "Music Industry Moves: Chvrches Sign With Futures Music Group; MSG Entertainment Names Josephine Vaccarello President",
+      "summary": "Scottish pop trio Chvrches have signed with Futures Music Group and alongside that announcement have released their first single in three years, “Roses.” The group will play two shows in the U.K. next month, in London and their hometown of Glasgow; the release follows singer Lauren Mayberry’s solo album on Island last year. Futures Music",
+      "url": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505/",
+      "canonical_url": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505",
+      "image": "https://variety.com/wp-content/uploads/2026/09/CHVRCHES-lead-press-photo-Jody-Evans.jpg",
+      "published": "Thu, 24 Sep 2026 15:38:01 +0000",
       "sections": [
         "entertainment"
       ],
@@ -732,14 +673,33 @@
       "appearances": 1
     },
     {
-      "id": "d99022c7dbdd7d46",
-      "source": "MarTech",
-      "headline": "Martech category labels don’t mean anything anymore",
-      "summary": "Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product.",
-      "url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore/",
-      "canonical_url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore",
-      "image": "https://martech.org/wp-content/uploads/2026/06/questions-trust-skeptic-800x450.png",
-      "published": "Thu, 24 Sep 2026 12:16:00 +0000",
+      "id": "8e04346f758497d2",
+      "source": "Variety",
+      "headline": "Meta Unveils VR Glasses for $1,299, Promises 3D Films From Lionsgate, James Cameron and Enhanced Versions of ‘Avengers’ and ‘Star Wars’",
+      "summary": "Meta’s given its glasses a virtual-reality upgrade. Meta unveiled its new $1,299 VR glasses at its annual Meta Connect event on Wednesday, an upgraded version of its Quest headset line. The product, the company promises, will usher in “a new era for virtual reality” by providing “a cinema, courtside seat, workspace, and console” for users at home. “We",
+      "url": "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/",
+      "canonical_url": "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307",
+      "image": "https://variety.com/wp-content/uploads/2026/09/image-2.png",
+      "published": "Thu, 24 Sep 2026 14:26:03 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "6432a9cb13bd5c3b",
+      "source": "Salesforce",
+      "headline": "Marketo Co-Founder Jon Miller Unveils Phave to Take on Marketo - CMSWire",
+      "summary": "Marketo Co-Founder Jon Miller Unveils Phave to Take on Marketo CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzRGMXR1YldPZ0xNTHYzVE83UWc5aWltYWEtYTFTU1BZRjBQc2tqNWZhbkZjNEllek9GRU9tVy1ralp6VkN3YW1UQTE2UFFtR044T01GYmhhNS01bzE3Ql80ZktDWXcyUHYxVDFobzZYR2hpU2R6bmpqN3c2NWpkWjBZV2xvdTc4SWVMTmUweUVYcjBfeWxPQVFWVlhNeFN5TDEyT0RGSmVKaDF4bDVucVpTYkhRTVlOa0xrTVh3OWJWV21lX2YzbDgtSjYtbUx2MmM2T2c4Nm1tcXlq?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzRGMXR1YldPZ0xNTHYzVE83UWc5aWltYWEtYTFTU1BZRjBQc2tqNWZhbkZjNEllek9GRU9tVy1ralp6VkN3YW1UQTE2UFFtR044T01GYmhhNS01bzE3Ql80ZktDWXcyUHYxVDFobzZYR2hpU2R6bmpqN3c2NWpkWjBZV2xvdTc4SWVMTmUweUVYcjBfeWxPQVFWVlhNeFN5TDEyT0RGSmVKaDF4bDVucVpTYkhRTVlOa0xrTVh3OWJWV21lX2YzbDgtSjYtbUx2MmM2T2c4Nm1tcXlq",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 15:42:03 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -944,25 +904,6 @@
       "appearances": 1
     },
     {
-      "id": "1a6f929006cdabd3",
-      "source": "MarTech",
-      "headline": "How to build cross-sell email flows that drive repeat purchases",
-      "summary": "The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys.",
-      "url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/",
-      "canonical_url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases",
-      "image": "https://martech.org/wp-content/uploads/2026/05/AB-email-testing-800x450.png",
-      "published": "Thu, 24 Sep 2026 12:07:00 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
       "id": "9ef4e11e1cd75911",
       "source": "Wisconsin Public Radio",
       "headline": "Housing planned for site of closed UW-Milwaukee campus in Waukesha",
@@ -973,25 +914,6 @@
       "published": "Wed, 23 Sep 2026 20:37:44 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "2b3c939b3de5ca61",
-      "source": "Animals",
-      "headline": "Hamilton runners and dogs will race for a good cause in November - Canadian Running Magazine",
-      "summary": "Hamilton runners and dogs will race for a good cause in November Canadian Running Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWR0SzhVc1pEaFV6WTZVN0dBQi1xVU5scDlZRXJVanI4WkF1enNWMlFGdjNoVVBhWEVHT1dVOVBFOFpkOFlGaTQ2bzJyRDB6M0ZVREFHSnBYb1U3VzRGZkE1RU5qY19QRzhTaHFnb2NJLUVWMVJUUlk3ejlEWVZNZnoyaWVoU0k4OG9YNWZUSkpGdXo4RldTTjNXOTF5UWh5Q3RPejZ2WmVSZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWR0SzhVc1pEaFV6WTZVN0dBQi1xVU5scDlZRXJVanI4WkF1enNWMlFGdjNoVVBhWEVHT1dVOVBFOFpkOFlGaTQ2bzJyRDB6M0ZVREFHSnBYb1U3VzRGZkE1RU5qY19QRzhTaHFnb2NJLUVWMVJUUlk3ejlEWVZNZnoyaWVoU0k4OG9YNWZUSkpGdXo4RldTTjNXOTF5UWh5Q3RPejZ2WmVSZw",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 19:02:57 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1047,7 +969,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Thu, 24 Sep 2026 12:49:32 GMT",
+      "published": "Thu, 24 Sep 2026 15:37:45 GMT",
       "sections": [
         "big-story"
       ],
@@ -1069,6 +991,25 @@
       "published": "Thu, 24 Sep 2026 10:00:00 +0000",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "62a464a85c697360",
+      "source": "Animals",
+      "headline": "Endangered Bobcat Gets Trapped Inside Chicken Coop Until Animal Control Officer Comes to Its Rescue - The Animal Rescue Site",
+      "summary": "Endangered Bobcat Gets Trapped Inside Chicken Coop Until Animal Control Officer Comes to Its Rescue The Animal Rescue Site",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWdFWW0ycGxyTjYzWml6dmRsb1dnT0JGNnRLZU8wX2lEaXljb0VJQkVVV2h3VzJxcVlCYVZwZUQ5Ukx6V2NqSVFxcnF0Uy1PdFhVMTUzOXFEaDdUMWlYVVdOeEJDX3RPQnItZTczNkotSEhpUkVnM0pFMUlzRzdzZ3ZHa28yR3ktd0FUM1ZDZnNISE5FaUxlNHNhTXpxOU5Wc3JEWkVzUlBMLVZWdjZRdWp0cw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWdFWW0ycGxyTjYzWml6dmRsb1dnT0JGNnRLZU8wX2lEaXljb0VJQkVVV2h3VzJxcVlCYVZwZUQ5Ukx6V2NqSVFxcnF0Uy1PdFhVMTUzOXFEaDdUMWlYVVdOeEJDX3RPQnItZTczNkotSEhpUkVnM0pFMUlzRzdzZ3ZHa28yR3ktd0FUM1ZDZnNISE5FaUxlNHNhTXpxOU5Wc3JEWkVzUlBMLVZWdjZRdWp0cw",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 12:58:59 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1107,6 +1048,25 @@
       "published": "Thu, 24 Sep 2026 00:43:53 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "cbf52216315618ee",
+      "source": "Taylor Fashion",
+      "headline": "Does Taylor Swift's 'Patient Zero' Top Look Familiar? That's Because She Wore It Before - Marie Claire",
+      "summary": "Does Taylor Swift's 'Patient Zero' Top Look Familiar? That's Because She Wore It Before Marie Claire",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVyNmJfalgtZFRNQ2V0ekRnZGVPenBKNkxVaHdHZmswRF9uMVhRY05MbFY0aXExeHdqaWtXaGowOVNPeDkxQTVzM252M0xyaVo3UGZDdEhjQWpJODczMFR0WjAxZTBlSEdjLW5lVWN1U0hXLUNlTV93V2hKUkJuZWgwMTlTelVNemI0MnJnMnJYRkpxNXV0ZUxSdmsxRVU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVyNmJfalgtZFRNQ2V0ekRnZGVPenBKNkxVaHdHZmswRF9uMVhRY05MbFY0aXExeHdqaWtXaGowOVNPeDkxQTVzM252M0xyaVo3UGZDdEhjQWpJODczMFR0WjAxZTBlSEdjLW5lVWN1U0hXLUNlTV93V2hKUkJuZWgwMTlTelVNemI0MnJnMnJYRkpxNXV0ZUxSdmsxRVU",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 14:56:00 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1192,16 +1152,16 @@
       "appearances": 1
     },
     {
-      "id": "b03b0550b4771523",
-      "source": "Wisconsin News",
-      "headline": "BSD YouTube Show: Wisconsin Preview (And Koby Howard Is Hurt) - Yahoo Sports",
-      "summary": "BSD YouTube Show: Wisconsin Preview (And Koby Howard Is Hurt) Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUV83bHhtUjRxdVZuRGZ1azc2WDNrWkJKSXpPeUVPazkxR1Rkek1DcUI3dFBLR19zcEJIMGZZQ3UyRkFHbjlEdVJvLU9jOHRCeVUxbTRNaHYxcnJfb29lUTBMRVplRGd2UXZVUVNzRXhuV2pjOVlnLTd5WWpleGtQSzd3YnJhX3JEMjZR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUV83bHhtUjRxdVZuRGZ1azc2WDNrWkJKSXpPeUVPazkxR1Rkek1DcUI3dFBLR19zcEJIMGZZQ3UyRkFHbjlEdVJvLU9jOHRCeVUxbTRNaHYxcnJfb29lUTBMRVplRGd2UXZVUVNzRXhuV2pjOVlnLTd5WWpleGtQSzd3YnJhX3JEMjZR",
+      "id": "8fc78b7f6d2fd5d7",
+      "source": "Salesforce",
+      "headline": "Can Salesforce’s New AIforce Layer Deepen Its Ecosystem Moat and Monetization Story for CRM? - Yahoo Finance",
+      "summary": "Can Salesforce’s New AIforce Layer Deepen Its Ecosystem Moat and Monetization Story for CRM? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTl3cHNLNHRnendxYlpBRXktU2oyQXc5NVhiN0dadXNTQi1VVEM4OHdVQmhocmtRbm1Ec296WmFUUEVTOEU0bWNsM0FQTnZPTGVUUE5jRm9zUnBnUGJPQXo3anRvc3BqaUFLTDI0TE4wYUFJTFhsdElEWjd2MElpcVAzeFUyS1FNU3oyeVpSNExnZkRjUTYwREJJR2VMajV0b2hFZVk4MzU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTl3cHNLNHRnendxYlpBRXktU2oyQXc5NVhiN0dadXNTQi1VVEM4OHdVQmhocmtRbm1Ec296WmFUUEVTOEU0bWNsM0FQTnZPTGVUUE5jRm9zUnBnUGJPQXo3anRvc3BqaUFLTDI0TE4wYUFJTFhsdElEWjd2MElpcVAzeFUyS1FNU3oyeVpSNExnZkRjUTYwREJJR2VMajV0b2hFZVk4MzU",
       "image": "",
-      "published": "Thu, 24 Sep 2026 13:00:00 GMT",
+      "published": "Thu, 24 Sep 2026 09:14:52 GMT",
       "sections": [
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1221,25 +1181,6 @@
       "published": "Thu, 24 Sep 2026 07:10:19 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "7618a78ce61739b8",
-      "source": "Good News Network",
-      "headline": "Bikes Outnumbered Cars on Scottish Rush Hour Route for the First Time Ever",
-      "summary": "A combination of e-bike rentals and segregated bike lanes has boosted cycling in the Scottish capital to the point that bikes outnumbered cars during a May morning rush hour for the first time in history. The data, analyzed by the Scottish cycling charity Cycling Scotland, identified other areas where bike traffic is growing, including multiple",
-      "url": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-      "canonical_url": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 18:30:11 +0000",
-      "sections": [
-        "wonderful"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1287,6 +1228,25 @@
       "appearances": 1
     },
     {
+      "id": "c059707a2439b91a",
+      "source": "Animals",
+      "headline": "An Injured Turtle Leaves Rescuers Eleven Eggs Before Her Final Goodbye - The Animal Rescue Site",
+      "summary": "An Injured Turtle Leaves Rescuers Eleven Eggs Before Her Final Goodbye The Animal Rescue Site",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRS1qamRoSzFER0poaF9MRUdTZDVyUVRNdWlqeloyVl9SSnJITGh5QnBydHk3ekFLOHBSZWFiOFltNFRqMnRnSDdDVXhFRnBGUUNOTDUwSTE1R1lsRmNtN0J5cmF1OXhjMlZfYlVjQXcxc0tFaWltalNpdFN2LWhNdEc0dkxCbExQY3NiNE5rTEpaVkZySVFHc2ZQYTlYZ0JJSFZlUUExVXJZSms?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRS1qamRoSzFER0poaF9MRUdTZDVyUVRNdWlqeloyVl9SSnJITGh5QnBydHk3ekFLOHBSZWFiOFltNFRqMnRnSDdDVXhFRnBGUUNOTDUwSTE1R1lsRmNtN0J5cmF1OXhjMlZfYlVjQXcxc0tFaWltalNpdFN2LWhNdEc0dkxCbExQY3NiNE5rTEpaVkZySVFHc2ZQYTlYZ0JJSFZlUUExVXJZSms",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 12:59:19 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
       "id": "bbd202c1c51c975b",
       "source": "MIT Technology Review",
       "headline": "AI is dominating the conversation at Climate Week",
@@ -1314,6 +1274,44 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnpZZFdZTTgtekdzekVUZEVpRnk5RGdlMlFPNVBzbkFOSGRQejVkdk1uVU44dU9XazhOQ3ZVMVp2Nm9ZNElyai1VNTJTUUwtWGlYQlJlRFJkQTRzU0s3NUVFeWd3dXVIZ1A2bFhSZVFWSWd0NHNNVFFGMGFOSnpDTXE5MkNzaEZ0OTFKcXpaeFF4cFVmMGxpVHdqSVgxMlZMUFhDZndRZw",
       "image": "",
       "published": "Wed, 23 Sep 2026 23:00:12 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "f5783b029d18e9bf",
+      "source": "Animals",
+      "headline": "AAMW, other Texas animal groups join forces for better care - Amarillo Globe-News",
+      "summary": "AAMW, other Texas animal groups join forces for better care Amarillo Globe-News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0tYT2h4anJtTDlQUVplSXdGbVAzVnVBV3JxaWN5X3lXNkp3SWRIdzhFMVBqeXVjZ3pNUWgzRC1ZTnpBTDZweGhCQlRsdnNaMC1PZlpmbkczWFRITFFEV1NTSVFVeDgyZHdiSnRGdXNDUnBEbnI3aDdTOU5hT3RmaU1UdGtQQ09KRnoyU1cybjhCSkhNVkM5VElTNXJOUjhOMW8tVVpKRE9PNVNUajJjYy1kcTVCUEg3ZjNXRU5Ed0g3SFpVOHFtSWRMQTVSWVdUQ0NOcWxIUzFxai16UFY1UmZUaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0tYT2h4anJtTDlQUVplSXdGbVAzVnVBV3JxaWN5X3lXNkp3SWRIdzhFMVBqeXVjZ3pNUWgzRC1ZTnpBTDZweGhCQlRsdnNaMC1PZlpmbkczWFRITFFEV1NTSVFVeDgyZHdiSnRGdXNDUnBEbnI3aDdTOU5hT3RmaU1UdGtQQ09KRnoyU1cybjhCSkhNVkM5VElTNXJOUjhOMW8tVVpKRE9PNVNUajJjYy1kcTVCUEg3ZjNXRU5Ed0g3SFpVOHFtSWRMQTVSWVdUQ0NOcWxIUzFxai16UFY1UmZUaw",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 14:44:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "f80b9d164efd3e8a",
+      "source": "National Geographic Wildlife",
+      "headline": "A Filmmaker on What it Takes to Spend Four Years With Lions - National Geographic",
+      "summary": "A Filmmaker on What it Takes to Spend Four Years With Lions National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlprd2J6blZhak05VnhxbjJDanZCVnI0a1hCdTEwcURpQmlTSVlLUzI4WHpERkpyeWVWMmUyakxZWGJ1Vmo0VFBadVBYbTZ4Rl9ZZTZNcWpwZGhIRHlqR09UWElTeExiakxmX21KTGZYODAwXzJJVC0zdXVmS2ZicXVjblFZLVZ2YWQ4anU3Wlg4WUNmUW9yV1F0Njh2V1ozZTFEWWY4UXM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlprd2J6blZhak05VnhxbjJDanZCVnI0a1hCdTEwcURpQmlTSVlLUzI4WHpERkpyeWVWMmUyakxZWGJ1Vmo0VFBadVBYbTZ4Rl9ZZTZNcWpwZGhIRHlqR09UWElTeExiakxmX21KTGZYODAwXzJJVC0zdXVmS2ZicXVjblFZLVZ2YWQ4anU3Wlg4WUNmUW9yV1F0Njh2V1ozZTFEWWY4UXM",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 14:45:34 GMT",
       "sections": [
         "animals"
       ],
@@ -1532,6 +1530,25 @@
       "published": "Wed, 23 Sep 2026 13:51:20 +0000",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "appearances": 1
+    },
+    {
+      "id": "ac648e04af2ccb8d",
+      "source": "BBC World",
+      "headline": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ee5/live/96d03eb0-b72c-11f1-b6b0-f732836ccdab.jpg",
+      "published": "Wed, 23 Sep 2026 09:48:50 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-09-23"
