@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-09-24.json",
   "report_date": "2026-09-24",
-  "generated_at": "2026-09-24T11:52:58.562192+00:00",
+  "generated_at": "2026-09-24T12:54:15.893061+00:00",
   "edition_count": 71,
   "editions": [
     {
       "report_date": "2026-09-24",
-      "generated_at": "2026-09-24T11:52:58.562192+00:00",
+      "generated_at": "2026-09-24T12:54:15.893061+00:00",
       "path": "data/archive/2026-09-24.json",
       "top_story": {
-        "source": "NPR",
-        "headline": "Venezuela's acting leader promises elections at the 'right moment'",
-        "summary": "Venezuela's acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation's people will determine the \"right moment.\"",
-        "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg"
       },
       "story_count": 71,
       "section_counts": {

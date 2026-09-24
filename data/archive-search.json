@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T11:55:09.558280+00:00",
+  "generated_at": "2026-09-24T12:55:26.813735+00:00",
   "edition_count": 71,
-  "story_count": 4399,
+  "story_count": 4398,
   "stories": [
-    {
-      "id": "d093ade291b20251",
-      "source": "Variety",
-      "headline": "‘Nightborn,’ ‘The Danish Woman’ Win at Inaugural Edition of Nordic Film and TV Awards, Also Known as the Freyas",
-      "summary": "Hanna Bergholm’s Finnish horror film “Nightborn,” starring “Compartment No. 6” lead Seidi Haarla and Rupert Grint, won best film at the inaugural edition of the Freyas, also known as the Nordic Film and TV Awards. Accepting the award at the gala ceremony at Helsinki’s iconic Finlandia Hall, Bergholm said, “The most important thing is how",
-      "url": "https://variety.com/2026/film/global/nightborn-the-danish-woman-nordic-film-tv-awards-the-freyas-1236874094/",
-      "canonical_url": "https://variety.com/2026/film/global/nightborn-the-danish-woman-nordic-film-tv-awards-the-freyas-1236874094",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Trine-Dyrholm.jpg",
-      "published": "Thu, 24 Sep 2026 09:41:15 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
     {
       "id": "ee7ea9cc3ba746b8",
       "source": "Ars Technica",
@@ -34,6 +15,25 @@
       "published": "Wed, 23 Sep 2026 20:28:42 +0000",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "7e96f4fefb4e3bcd",
+      "source": "Animals",
+      "headline": "World Rhino Day: The Conservation Story Behind a Rhino Many Travellers Remember - ATTA Travel",
+      "summary": "World Rhino Day: The Conservation Story Behind a Rhino Many Travellers Remember ATTA Travel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHlPNFBnNGJvYlJNRmp5a21SYlBKdmFheEl4VW1FZnBOM3hYSjRRUlpmcnY5bzR0WnpaTUhGWENZa0R6NV91bEJmempyN1VzUmFDZjBlaENxV3Z2UkZVb2lwX0VWUmYwd3UyRGpmYjctbE5nRW84VVR1eThuaXlQVGRBaGlld2hldkZ4cG5OUjdPaUx6OTJQTGtYZ0ZHVXVmTFJlVzBSdmlSTEVGUFNwMWdoNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHlPNFBnNGJvYlJNRmp5a21SYlBKdmFheEl4VW1FZnBOM3hYSjRRUlpmcnY5bzR0WnpaTUhGWENZa0R6NV91bEJmempyN1VzUmFDZjBlaENxV3Z2UkZVb2lwX0VWUmYwd3UyRGpmYjctbE5nRW84VVR1eThuaXlQVGRBaGlld2hldkZ4cG5OUjdPaUx6OTJQTGtYZ0ZHVXVmTFJlVzBSdmlSTEVGUFNwMWdoNA",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 15:47:39 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-09-24"
@@ -201,10 +201,10 @@
       "summary": "Venezuela's acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation's people will determine the \"right moment.\"",
       "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
       "canonical_url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-      "image": "assets/images/clementine-madison-morning.webp",
+      "image": "",
       "published": "Thu, 24 Sep 2026 01:40:49 -0400",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-24"
@@ -224,25 +224,6 @@
       "published": "Wed, 23 Sep 2026 22:35:14 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "b7be0abd6af06159",
-      "source": "NPR",
-      "headline": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
-      "summary": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-      "canonical_url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-24"
@@ -272,13 +253,32 @@
     },
     {
       "id": "91825c0adef39119",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "Trump offers warm welcome as China's Xi arrives for US visit",
       "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/7d0fe1c0-b7c1-11f1-a430-4d16ee157c41.jpg",
       "published": "Thu, 24 Sep 2026 03:52:21 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "b7be0abd6af06159",
+      "source": "NPR",
+      "headline": "These 6 charts show how NIH research funding has been reshaped under Trump",
+      "summary": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+      "canonical_url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 05:00:00 -0400",
       "sections": [
         "must-know"
       ],
@@ -333,8 +333,8 @@
     {
       "id": "14b5c41991549ccb",
       "source": "Marketing Ops",
-      "headline": "The Best Logistics Consulting Firms for Automation-Ready Supply Chains - roboticsandautomationnews.com",
-      "summary": "The Best Logistics Consulting Firms for Automation-Ready Supply Chains roboticsandautomationnews.com",
+      "headline": "The Best Logistics Consulting Firms for Automation-Ready Supply Chains - Robotics & Automation News",
+      "summary": "The Best Logistics Consulting Firms for Automation-Ready Supply Chains Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTNjQWNSWW9lWF81M0dMVkNPZVl0c1Jld1N2UHdJeXAwcFhxOXZVeER1NVBRcldGVEI3Z056VWJIU0Z6QktmMi1ULWNZVlMyeHVCaWVZMWlkRVFjTDduT1NWVHEtaDdJdGlvWkJBT0tzZXhITERvQ1FvdC1wSzlmTUprQW93RUdpLU9DbWR2OVZyelFaNk02UFB1M3JSeWg0b2ZIMGMyX19KSEFpb3FsdjZkVnBwTDZEcy1FQ3V0eWsyalViWUE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTNjQWNSWW9lWF81M0dMVkNPZVl0c1Jld1N2UHdJeXAwcFhxOXZVeER1NVBRcldGVEI3Z056VWJIU0Z6QktmMi1ULWNZVlMyeHVCaWVZMWlkRVFjTDduT1NWVHEtaDdJdGlvWkJBT0tzZXhITERvQ1FvdC1wSzlmTUprQW93RUdpLU9DbWR2OVZyelFaNk02UFB1M3JSeWg0b2ZIMGMyX19KSEFpb3FsdjZkVnBwTDZEcy1FQ3V0eWsyalViWUE",
       "image": "",
@@ -369,16 +369,16 @@
       "appearances": 1
     },
     {
-      "id": "3203eaf95c0ddffb",
-      "source": "Wisconsin Public Radio",
-      "headline": "Special bag and size limits approved to aid struggling walleye populations in Wisconsin",
-      "summary": "The Wisconsin Department of Natural Resources can now pursue special bag and size limits to aid struggling walleye populations.",
-      "url": "https://www.wpr.org/news/special-bag-and-size-limits-approved-struggling-walleye-populations-in-wisconsin",
-      "canonical_url": "https://www.wpr.org/news/special-bag-and-size-limits-approved-struggling-walleye-populations-in-wisconsin",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "id": "d65925ab67f90f89",
+      "source": "Variety",
+      "headline": "Taylor Swift’s ‘Patient Zero’ Music Video, Starring Dakota Johnson and Colin Farrell, to Debut at VMAs",
+      "summary": "Taylor Swift has recruited a couple of A-listers for her “Patient Zero” music video. Dakota Johnson and Colin Farrell will star alongside Swift in the video for the new song, which releases on Friday alongside her “Life of a Showgirl: The Encore” album. Swift directed the video, which will world premiere at the MTV VMAs",
+      "url": "https://variety.com/2026/music/news/taylor-swift-patient-zero-music-video-dakota-johnson-colin-farrell-1236874206/",
+      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-patient-zero-music-video-dakota-johnson-colin-farrell-1236874206",
+      "image": "https://variety.com/wp-content/uploads/2026/09/taylor-patient-zero.jpg",
+      "published": "Thu, 24 Sep 2026 12:18:08 +0000",
       "sections": [
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-24"
@@ -426,25 +426,6 @@
       "appearances": 1
     },
     {
-      "id": "dab355363ad1b256",
-      "source": "Salesforce",
-      "headline": "ServiceNow vs. Salesforce for IT Partners: Key Differences - Channel Insider",
-      "summary": "ServiceNow vs. Salesforce for IT Partners: Key Differences Channel Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRl9aRGNUek9yc3djSFdaU01fejFERWdydngzamFhckdqQUxueFhLMnpvWlNFOWhnZUhHR0ZOZ1k2aXNmQWY2UUhET3VFNk9pMnI3ajZKdkh4ajNZTk92ck9zdl9EMjh1ZjkyZnl2U0VGU1Myd2RrelVqTXhHeXlIS3JHakZEWWxuV0xuWXZLLTRudTdCeFFDUFdxU0t1WG10LVdsWEN3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRl9aRGNUek9yc3djSFdaU01fejFERWdydngzamFhckdqQUxueFhLMnpvWlNFOWhnZUhHR0ZOZ1k2aXNmQWY2UUhET3VFNk9pMnI3ajZKdkh4ajNZTk92ck9zdl9EMjh1ZjkyZnl2U0VGU1Myd2RrelVqTXhHeXlIS3JHakZEWWxuV0xuWXZLLTRudTdCeFFDUFdxU0t1WG10LVdsWEN3",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 12:09:15 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
       "id": "faaa23279b118268",
       "source": "BBC World",
       "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -483,25 +464,6 @@
       "appearances": 1
     },
     {
-      "id": "d213646ae34dbc2e",
-      "source": "Variety",
-      "headline": "Ranbir Kapoor Bears a Bullet Wound in New Image From Sanjay Leela Bhansali’s ‘Love & War’ (EXCLUSIVE)",
-      "summary": "Top Bollywood star Ranbir Kapoor carries a bullet wound in a new image from Sanjay Leela Bhansali’s upcoming feature “Love & War,” in which he stars alongside Alia Bhatt and Vicky Kaushal. The image places Kapoor at the wheel of a vintage turquoise convertible. He wears sunglasses and a white short-sleeved knit shirt, his hair",
-      "url": "https://variety.com/2026/film/news/ranbir-kapoor-first-look-sanjay-leela-bhansali-love-war-1236873834/",
-      "canonical_url": "https://variety.com/2026/film/news/ranbir-kapoor-first-look-sanjay-leela-bhansali-love-war-1236873834",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Ranbir-Kapoor-Love-War.jpg",
-      "published": "Thu, 24 Sep 2026 09:27:00 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
       "id": "981219fbf1596edf",
       "source": "Good News Network",
       "headline": "Portuguese Company Turns Cork Wood into Limitless Material, Even to Insulate Spacecraft",
@@ -528,9 +490,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
-      "published": "Thu, 24 Sep 2026 11:16:29 GMT",
+      "published": "Thu, 24 Sep 2026 11:59:23 GMT",
       "sections": [
-        "must-know"
+        "big-story"
       ],
       "report_dates": [
         "2026-09-24"
@@ -568,7 +530,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Samsung-Bespoke-AI-3-Door-Refrigerator-AutoView-950x534-1-1152x648-1790182604.jpg",
       "published": "Wed, 23 Sep 2026 17:39:39 +0000",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-24"
@@ -586,25 +548,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVSaWJHSVkybmpSWmhPN3NuLUNYWGM3ZDBvQ1E1R2NkLS0tWWVTeFVTTTNiZFdHZWdkQ0pibXlQd0FIZUktQUtqUElXT0E5NV9wUGd2V2RoZ2hJMWFjaTRaSV9fbjdUVmt2VEpWWFFmVlJCbjBheXF4NTA5QW5qVWt4blpCbTdiQWRkRER6SElabkl0WTRmYnVyaEFtVjVVSVVlU3l0Rk5QYjBUVGo0WGFvT3ZkV3F6anYxdVN2ZkZDYWpv",
       "image": "",
       "published": "Thu, 24 Sep 2026 10:07:42 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
-      "id": "f2814b9b5ff5aea3",
-      "source": "NPR",
-      "headline": "OpenAI's breach of Australian health department website prompts rebuke",
-      "summary": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
-      "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-      "canonical_url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 01:14:11 -0400",
       "sections": [
         "ai-tech"
       ],
@@ -673,10 +616,48 @@
       "appearances": 1
     },
     {
+      "id": "d6e7c5e619be1a5e",
+      "source": "Wisconsin News",
+      "headline": "Meet candidates for Wisconsin Assembly District 53 in Nov. 3 election - Oshkosh Northwestern",
+      "summary": "Meet candidates for Wisconsin Assembly District 53 in Nov. 3 election Oshkosh Northwestern",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd3IyRlRyeWk5NHpjTzZLUFE0djVXWEpBTnVqajdhSzREZExqWl8xazl0Nm5tVURmbmxkZnRZOGRaSjdUS1FjY0w1T0J6MktXamoyRnhpRjVKc0E1NFIzSUx3MEFjVW8xYXg1UEFkNm9oWEtxdHRTeF9mYmhDRTQ5VE1EejhHV180QVo3OU5XTklKZXNHRjdxQWJrWUNYUGJBcDFUQVA0UU50cDFPZENCMGNzSW9fSWhFenE0REd1a3NDVFJDemFaZG1WOFU0U1h6THNoemxtOHFSQ1pDRkhSeHRQcUJwRW9ZMU9GdDh5MHNENW1YMm9Tb2gtY1Q?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd3IyRlRyeWk5NHpjTzZLUFE0djVXWEpBTnVqajdhSzREZExqWl8xazl0Nm5tVURmbmxkZnRZOGRaSjdUS1FjY0w1T0J6MktXamoyRnhpRjVKc0E1NFIzSUx3MEFjVW8xYXg1UEFkNm9oWEtxdHRTeF9mYmhDRTQ5VE1EejhHV180QVo3OU5XTklKZXNHRjdxQWJrWUNYUGJBcDFUQVA0UU50cDFPZENCMGNzSW9fSWhFenE0REd1a3NDVFJDemFaZG1WOFU0U1h6THNoemxtOHFSQ1pDRkhSeHRQcUJwRW9ZMU9GdDh5MHNENW1YMm9Tb2gtY1Q",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 09:59:00 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
+      "id": "d99022c7dbdd7d46",
+      "source": "MarTech",
+      "headline": "Martech category labels don’t mean anything anymore",
+      "summary": "Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product.",
+      "url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore/",
+      "canonical_url": "https://martech.org/martech-category-labels-dont-mean-anything-anymore",
+      "image": "https://martech.org/wp-content/uploads/2026/06/questions-trust-skeptic-800x450.png",
+      "published": "Thu, 24 Sep 2026 12:16:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
       "id": "9f65a38ea82906b2",
       "source": "Madison365",
-      "headline": "LOUD celebrates 5th anniversary with expansion of Latino arts and cultural programming across Wisconsin - Madison365",
-      "summary": "LOUD celebrates 5th anniversary with expansion of Latino arts and cultural programming across Wisconsin Madison365",
+      "headline": "LOUD celebrates 5th anniversary with expansion of Latino arts and cultural programming across Wisconsin - madison365.com",
+      "summary": "LOUD celebrates 5th anniversary with expansion of Latino arts and cultural programming across Wisconsin madison365.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmpaX1NvRnZ2VlNwSTVEM28yckpkbXZKcFhabTVWenVvTFhva0sta2NlaVEtVW9YWmZVQkVtNU5GZWttWkRQQ0tyR3FXaG5KMHFENGI5Y21lOUJyeVNrV1Y1MlRTWUhUVDhJSVVXMnJEcWlzUTZCSVpScTk3RzBfN1hNU1RkRktKT1dsNUs5U2tSM0lQdWxfTXVhSFJNbkdnQngzNGVFX0lEX2g3Q3lTVXpyc3JDZHRjWG1ENkpiS1NUMDBQQXc?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmpaX1NvRnZ2VlNwSTVEM28yckpkbXZKcFhabTVWenVvTFhva0sta2NlaVEtVW9YWmZVQkVtNU5GZWttWkRQQ0tyR3FXaG5KMHFENGI5Y21lOUJyeVNrV1Y1MlRTWUhUVDhJSVVXMnJEcWlzUTZCSVpScTk3RzBfN1hNU1RkRktKT1dsNUs5U2tSM0lQdWxfTXVhSFJNbkdnQngzNGVFX0lEX2g3Q3lTVXpyc3JDZHRjWG1ENkpiS1NUMDBQQXc",
       "image": "",
@@ -733,8 +714,8 @@
     {
       "id": "544dff40bb861dd3",
       "source": "AI News",
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - scrippsnews.com",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown scrippsnews.com",
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Scripps News",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown Scripps News",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTV9KTnQwRURTYi1RQWJJdmxjTUI5YkZYUmJtRjRKcGRrSjFDV3dxc2ZRNm1lRVVNbjRFOVZKS2NNcUlfWktuMFBCemRhZXMzdXhEdjNqNXY5OXd4WW5uM0xLVUNIZ2hoOTJWYkZ0YnlvRXZlejhZay1WQWxveXhNWWNsOXMwQ3ZFd3N3VGJHamQwMi02TzJPR2tCeHVaZjFObVJ0aVZ5RzB6YTlZSFZsSGZ0eVl3dE9zdnpuQ2JON3k0U190M2Z2aTc4Tjk0NXJJSEhhc2FHdmhjMFFmSmxxS0JSb1ZweVU4emlUag?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTV9KTnQwRURTYi1RQWJJdmxjTUI5YkZYUmJtRjRKcGRrSjFDV3dxc2ZRNm1lRVVNbjRFOVZKS2NNcUlfWktuMFBCemRhZXMzdXhEdjNqNXY5OXd4WW5uM0xLVUNIZ2hoOTJWYkZ0YnlvRXZlejhZay1WQWxveXhNWWNsOXMwQ3ZFd3N3VGJHamQwMi02TzJPR2tCeHVaZjFObVJ0aVZ5RzB6YTlZSFZsSGZ0eVl3dE9zdnpuQ2JON3k0U190M2Z2aTc4Tjk0NXJJSEhhc2FHdmhjMFFmSmxxS0JSb1ZweVU4emlUag",
       "image": "",
@@ -797,7 +778,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
       "published": "Wed, 23 Sep 2026 18:15:31 GMT",
       "sections": [
-        "quick-scan"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-24"
@@ -809,8 +790,8 @@
     {
       "id": "1f3086e07b3d8ab0",
       "source": "B2B Marketing Ops",
-      "headline": "Integrate Acquires CaliberMind - Demand Gen Report",
-      "summary": "Integrate Acquires CaliberMind Demand Gen Report",
+      "headline": "Integrate Acquires CaliberMind - demandgenreport.com",
+      "summary": "Integrate Acquires CaliberMind demandgenreport.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFFKeXlEZ2gtWmE5OF9XcjNTTEdGSVZaRTZYVlphN0JqRE5sR0laMm1IOG9iLWctU0lZelIxeDJkRFkwX3NuWWZKTE4ySFFES25PTTduQU5IYWtobVhBRHFTWW9hcUZLN2o1b1pnZkZLRlBQWENKZFFtMUVYYlp3SkoyMkRaVFdoYTYtSno3OEJhSF9tc1Ruc0xB?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFFKeXlEZ2gtWmE5OF9XcjNTTEdGSVZaRTZYVlphN0JqRE5sR0laMm1IOG9iLWctU0lZelIxeDJkRFkwX3NuWWZKTE4ySFFES25PTTduQU5IYWtobVhBRHFTWW9hcUZLN2o1b1pnZkZLRlBQWENKZFFtMUVYYlp3SkoyMkRaVFdoYTYtSno3OEJhSF9tc1Ruc0xB",
       "image": "",
@@ -868,8 +849,8 @@
     {
       "id": "9d15b4f1e37763af",
       "source": "Wisconsin Watch",
-      "headline": "Hundreds of immigrants, refugees await English education as Literacy Green Bay weathers federal cuts - Wisconsin Watch",
-      "summary": "Hundreds of immigrants, refugees await English education as Literacy Green Bay weathers federal cuts Wisconsin Watch",
+      "headline": "Hundreds of immigrants, refugees await English education as Literacy Green Bay weathers federal cuts - wisconsinwatch.org",
+      "summary": "Hundreds of immigrants, refugees await English education as Literacy Green Bay weathers federal cuts wisconsinwatch.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTNDYml3Umh0SjFVenMyRTJoTHNDV2twWVVzdlZ2c3Q5Y1lBRGQzdjM5cEdVMnMyUDYycnUzRU1hcktreW9lTWFXQ2hDbTBUSVhaeGdqLXlEbVJrbjlhUUY0bXpRQjNkLUMzMlM1ZFFMYzVRU0pkbUM4aThSQ3Jod2hIMkpPbjdyUzlKNHAtaXZVV08ybTFDT3hDenk1ZHFJVEk4bmJTeGlTcVFNdXFucS1oRkMtQQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTNDYml3Umh0SjFVenMyRTJoTHNDV2twWVVzdlZ2c3Q5Y1lBRGQzdjM5cEdVMnMyUDYycnUzRU1hcktreW9lTWFXQ2hDbTBUSVhaeGdqLXlEbVJrbjlhUUY0bXpRQjNkLUMzMlM1ZFFMYzVRU0pkbUM4aThSQ3Jod2hIMkpPbjdyUzlKNHAtaXZVV08ybTFDT3hDenk1ZHFJVEk4bmJTeGlTcVFNdXFucS1oRkMtQQ",
       "image": "",
@@ -904,6 +885,25 @@
       "appearances": 1
     },
     {
+      "id": "1a6f929006cdabd3",
+      "source": "MarTech",
+      "headline": "How to build cross-sell email flows that drive repeat purchases",
+      "summary": "The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys.",
+      "url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/",
+      "canonical_url": "https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases",
+      "image": "https://martech.org/wp-content/uploads/2026/05/AB-email-testing-800x450.png",
+      "published": "Thu, 24 Sep 2026 12:07:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-24"
+      ],
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "appearances": 1
+    },
+    {
       "id": "9ef4e11e1cd75911",
       "source": "Wisconsin Public Radio",
       "headline": "Housing planned for site of closed UW-Milwaukee campus in Waukesha",
@@ -923,25 +923,6 @@
       "appearances": 1
     },
     {
-      "id": "22f26a8c25971c58",
-      "source": "BBC Entertainment",
-      "headline": "Harry Potter play producer says cost of living made two-part show 'impossible'",
-      "summary": "The London production, which has been running for 10 years, will reopen next month as a one-part show.",
-      "url": "https://www.bbc.co.uk/news/articles/cr15819w3vllo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cr15819w3vllo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9bc/live/e76df9c0-b7f9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Thu, 24 Sep 2026 06:45:25 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-24"
-      ],
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "appearances": 1
-    },
-    {
       "id": "0781c0229bb2427a",
       "source": "Search Engine Land",
       "headline": "Google expands its list of local advertising codes - Search Engine Land",
@@ -951,7 +932,7 @@
       "image": "",
       "published": "Wed, 23 Sep 2026 14:54:00 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-24"
@@ -982,7 +963,7 @@
     },
     {
       "id": "9df52d826eeadabb",
-      "source": "BBC US & Canada",
+      "source": "BBC Entertainment",
       "headline": "Federal judge delays ruling on White House media ban",
       "summary": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
       "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
@@ -990,7 +971,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg",
       "published": "Wed, 23 Sep 2026 21:53:38 GMT",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-24"
@@ -1078,6 +1059,28 @@
       "appearances": 1
     },
     {
+      "id": "4c16a55043f0ace6",
+      "source": "MIT Technology Review",
+      "headline": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "canonical_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-24",
+        "2026-09-23",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
+      "appearances": 3
+    },
+    {
       "id": "8dc1886a97930491",
       "source": "Ars Technica",
       "headline": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
@@ -1160,7 +1163,7 @@
       "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
       "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a27d/live/9290f960-b813-11f1-a430-4d16ee157c41.jpg",
       "published": "Thu, 24 Sep 2026 07:10:19 GMT",
       "sections": [
         "wellbeing"
@@ -1175,7 +1178,7 @@
     {
       "id": "894acc2491887158",
       "source": "Variety",
-      "headline": "Block the Merger Coalition File Legal Request to Oppose Paramount-Warner Bros. Deal",
+      "headline": "Block the Merger Coalition Files Legal Request to Oppose Paramount-Warner Bros. Deal",
       "summary": "A coalition of groups working under the Block the Merger banner have filed an emergency request to oppose Paramount’s acquisition of Warner Bros. Discovery ahead of a court hearing in California this morning pertaining to the deal. The motion for an amicus brief – enabling interested parties to present legal arguments relating to a case",
       "url": "https://variety.com/2026/film/global/block-the-merger-emergency-motion-paramount-warner-bros-1236874138/",
       "canonical_url": "https://variety.com/2026/film/global/block-the-merger-emergency-motion-paramount-warner-bros-1236874138",
@@ -1308,8 +1311,8 @@
     {
       "id": "db2feb4a141173ce",
       "source": "B2B Marketing Ops",
-      "headline": "A 2,700-patient deployment contrasts with doubts about Amesite (AMST)'s ability to stay in business. - Stock Titan",
-      "summary": "A 2,700-patient deployment contrasts with doubts about Amesite (AMST)'s ability to stay in business. Stock Titan",
+      "headline": "A 2,700-patient deployment contrasts with doubts about Amesite (AMST)'s ability to stay in business. - stocktitan.net",
+      "summary": "A 2,700-patient deployment contrasts with doubts about Amesite (AMST)'s ability to stay in business. stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONk9od3JEbmQyaGIwdVJMMG1XcTZfWVVRVWhhcGY4VDIxbHl0MzNlaHpwekNOSWp3Q0xRX3JLNE9lOVBZR21xcXJFclI4d09SYkw3b0R6bXFxcWR3VmNnT0pYZFI2T2tsYjQ5SVUzUkpqT3hXcVMwODREYnpfdGdLTHVVY2hTcE9DZGNQYzRPVGQ0ZEw5ZVE3ZUF6X1dhaHM?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONk9od3JEbmQyaGIwdVJMMG1XcTZfWVVRVWhhcGY4VDIxbHl0MzNlaHpwekNOSWp3Q0xRX3JLNE9lOVBZR21xcXJFclI4d09SYkw3b0R6bXFxcWR3VmNnT0pYZFI2T2tsYjQ5SVUzUkpqT3hXcVMwODREYnpfdGdLTHVVY2hTcE9DZGNQYzRPVGQ0ZEw5ZVE3ZUF6X1dhaHM",
       "image": "",
@@ -2318,27 +2321,6 @@
       "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "appearances": 1
-    },
-    {
-      "id": "4c16a55043f0ace6",
-      "source": "MIT Technology Review",
-      "headline": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "canonical_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 11:04:51 +0000",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-23",
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
-      "appearances": 2
     },
     {
       "id": "4e5e1a5939097568",
