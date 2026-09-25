@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-24.json",
-  "report_date": "2026-09-24",
-  "generated_at": "2026-09-24T15:50:02.993493+00:00",
-  "edition_count": 71,
+  "latest": "data/archive/2026-09-25.json",
+  "report_date": "2026-09-25",
+  "generated_at": "2026-09-25T11:56:08.115239+00:00",
+  "edition_count": 72,
   "editions": [
+    {
+      "report_date": "2026-09-25",
+      "generated_at": "2026-09-25T11:56:08.115239+00:00",
+      "path": "data/archive/2026-09-25.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-09-24",
       "generated_at": "2026-09-24T15:50:02.993493+00:00",
