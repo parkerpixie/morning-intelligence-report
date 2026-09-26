@@ -1,9 +1,1324 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T15:51:33.222107+00:00",
-  "edition_count": 72,
-  "story_count": 4467,
+  "generated_at": "2026-09-26T11:32:19.800476+00:00",
+  "edition_count": 73,
+  "story_count": 4523,
   "stories": [
+    {
+      "id": "6c74cd0c8d048984",
+      "source": "Wisconsin Public Radio",
+      "headline": "‘This may just be the end’: Wisconsin farmers struggle to afford diesel during harvest season",
+      "summary": "In the last month, the average price of diesel in Wisconsin has climbed from around $5.30 per gallon to more than $6.50 per gallon.",
+      "url": "https://www.wpr.org/news/wisconsin-farmers-struggle-afford-diesel-harvest-season",
+      "canonical_url": "https://www.wpr.org/news/wisconsin-farmers-struggle-afford-diesel-harvest-season",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 20:51:36 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9c4b0dc2f6e9c3ef",
+      "source": "Variety",
+      "headline": "‘Love Hypothesis’ Director Claire Scanlon Breaks Down the Biggest ‘Star Wars’ Easter Eggs, From Gracie Abrams’ Song to Color-Coded Wardrobes",
+      "summary": "“Star Wars” has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy “Love Hypothesis” premiered on Amazon Prime on Sept. 23, featuring Lili Reinhart and Tom Bateman as romantic interests who get caught in a fake-dating-turned-real-love trope. On the surface, there",
+      "url": "https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/",
+      "canonical_url": "https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151",
+      "image": "https://variety.com/wp-content/uploads/2026/09/MCDLOHY_ZU001.jpg",
+      "published": "Sat, 26 Sep 2026 01:09:17 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "b60b3e972913059e",
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin’s first certified forest bathing trail helps residents reset and find balance",
+      "summary": "This summer, Wisconsin opened its first certified forest bathing trail in Vilas County. Forest bathing is the practice of getting immersed in nature to improve well-being, and one group took in the trail's restorative effects last month.",
+      "url": "https://www.wpr.org/culture/wisconsins-first-certified-forest-bathing-trail-helps-residents-reset-find-balance",
+      "canonical_url": "https://www.wpr.org/culture/wisconsins-first-certified-forest-bathing-trail-helps-residents-reset-find-balance",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 10:00:00 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9db724e02bb68444",
+      "source": "Madison365",
+      "headline": "Wisconsin immigrants can keep using clinics, Head Start and adult education, judge rules - Madison365",
+      "summary": "Wisconsin immigrants can keep using clinics, Head Start and adult education, judge rules Madison365",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGpjaGFvRjM0RjNyTW91bS0xaGpRbFNubi1lbUY2R2JfTjZFVEw4RFJnWFJIVlFIWEt4Rnp0M0ZvSm5kdXFYQVRLamZncDY4dWVCMzlDT0ZBSVBSdS0tcHVsOURaclNhVWRJbGVSR2wxaUdfUldPTjJsNTFVZzZDWTRtMnkyQU10bDBESW5VenhOSFMwTmE4SHZQbm5CMDZSS1M4eGR6VVJkeUZKUHc0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGpjaGFvRjM0RjNyTW91bS0xaGpRbFNubi1lbUY2R2JfTjZFVEw4RFJnWFJIVlFIWEt4Rnp0M0ZvSm5kdXFYQVRLamZncDY4dWVCMzlDT0ZBSVBSdS0tcHVsOURaclNhVWRJbGVSR2wxaUdfUldPTjJsNTFVZzZDWTRtMnkyQU10bDBESW5VenhOSFMwTmE4SHZQbm5CMDZSS1M4eGR6VVJkeUZKUHc0",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 18:04:45 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "e47275bcf951ad6d",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin farmers look to Congress for farm bill certainty - wisfarmer.com",
+      "summary": "Wisconsin farmers look to Congress for farm bill certainty wisfarmer.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhWbHBTWk1VamxOeUw2NHlOcy1zcE5Yb0ExcWNBb2FSdWVfRlJGWnhQa3BLc0trSnROMnJ0aE1aSHppT3hORWVvRDBxZkloZnE5VDRvZXpDaVVibVdXU3JUSE0wOF9rMnN2aDB4NTF6MWFyRFhzdV85LTZiTmhpWVZqTEMzeGlIXzhScDJNeUlRZlFHYXNMYWI5RkZ6MURYMGZpTm1ac081TmJHZ0JYU242S2hyX3NoN1RoUzh3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhWbHBTWk1VamxOeUw2NHlOcy1zcE5Yb0ExcWNBb2FSdWVfRlJGWnhQa3BLc0trSnROMnJ0aE1aSHppT3hORWVvRDBxZkloZnE5VDRvZXpDaVVibVdXU3JUSE0wOF9rMnN2aDB4NTF6MWFyRFhzdV85LTZiTmhpWVZqTEMzeGlIXzhScDJNeUlRZlFHYXNMYWI5RkZ6MURYMGZpTm1ac081TmJHZ0JYU242S2hyX3NoN1RoUzh3",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 10:04:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "66aa00a64984f600",
+      "source": "BBC US & Canada",
+      "headline": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b80/live/1170daa0-b910-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "Fri, 25 Sep 2026 18:41:13 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "cd79bcdfd9b7826e",
+      "source": "BBC World",
+      "headline": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cxq633770y16o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Sat, 26 Sep 2026 05:09:09 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "21777b4cbc53ccf0",
+      "source": "Positive News",
+      "headline": "What went right this week: the good news that matters",
+      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+      "canonical_url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 05:11:56 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-25"
+      ],
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "8d2ac94a72906b87",
+      "source": "Reuters",
+      "headline": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field - ABC News - Breaking News, Latest News and Videos",
+      "summary": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkVkZW56VkUyRW5LU2ZWZnlDMVBfb1FVZ2NBbDF0a0RZQUttbkhTbTFVbkxOSzE4M0pjRHJjd1piR2xIODFNTWdmZkJhOENWTkpGWDlZSWVfd013cjIwZG9CelE1TzhVeFdUX3dUaUFIanlONlZ1QjNqcWVxY0V2UWdWYjNmNkVORDY0N21rSndtYjQ1TzMzMUI3LTF4ZUhOSjVPb3BGY9IBrAFBVV95cUxNZFRWMHVLWGFtcXk5R0owbHNxWEQxRGNJa28tckhnVzVvTlRZT0ZFbDR1UldTT2g5ejNGdE0tZndVdEV0Ni04ZDBNQlpDRTVPWVFZVjJtVmZPTjdoRHhEQVRiQjFDRkExYlpXc3psbE9hR0tEdnlOMzA5MEVybnZjVVc5UHZuLTlCZzZKM2xRYzVnZ3JhRjYzYnBLby0zR2VTZ3gtMjhmQmlpQURS?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkVkZW56VkUyRW5LU2ZWZnlDMVBfb1FVZ2NBbDF0a0RZQUttbkhTbTFVbkxOSzE4M0pjRHJjd1piR2xIODFNTWdmZkJhOENWTkpGWDlZSWVfd013cjIwZG9CelE1TzhVeFdUX3dUaUFIanlONlZ1QjNqcWVxY0V2UWdWYjNmNkVORDY0N21rSndtYjQ1TzMzMUI3LTF4ZUhOSjVPb3BGY9IBrAFBVV95cUxNZFRWMHVLWGFtcXk5R0owbHNxWEQxRGNJa28tckhnVzVvTlRZT0ZFbDR1UldTT2g5ejNGdE0tZndVdEV0Ni04ZDBNQlpDRTVPWVFZVjJtVmZPTjdoRHhEQVRiQjFDRkExYlpXc3psbE9hR0tEdnlOMzA5MEVybnZjVVc5UHZuLTlCZzZKM2xRYzVnZ3JhRjYzYnBLby0zR2VTZ3gtMjhmQmlpQURS",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 09:29:27 GMT",
+      "sections": [
+        "must-know",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-06",
+        "2026-08-21"
+      ],
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-09-26",
+      "appearances": 3
+    },
+    {
+      "id": "57411433077c3b33",
+      "source": "Salesforce",
+      "headline": "What Are the Biggest CRM Trends 2026 Buyers Can’t Ignore If They Want Faster Growth? - CX Today",
+      "summary": "What Are the Biggest CRM Trends 2026 Buyers Can’t Ignore If They Want Faster Growth? CX Today",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGNVJEZ2x4VHVCazZiVTk4X0FNYmliYTl3YmVUNVdDMGtuald5SjV2azIzTkJKZjFVWndJZk14QXpYUUdkSnROMHB3UFliNzhKUndmX202bjd4a1ZiUXcwZXVsWQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGNVJEZ2x4VHVCazZiVTk4X0FNYmliYTl3YmVUNVdDMGtuald5SjV2azIzTkJKZjFVWndJZk14QXpYUUdkSnROMHB3UFliNzhKUndmX202bjd4a1ZiUXcwZXVsWQ",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 17:35:27 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "51522eb10b9de5b8",
+      "source": "Wisconsin Public Radio",
+      "headline": "Watertown Superintendent blocks ‘Flashdance’ musical calling production ‘X-rated’",
+      "summary": "The Watertown Unified School District gained national attention this spring when it banned an instrumental piece of music tied to LGBTQ+ history. Now the district has decided to replace the 2027 spring musical.",
+      "url": "https://www.wpr.org/news/watertown-superintendent-blocks-flashdance-musical-calling-production-x-rated",
+      "canonical_url": "https://www.wpr.org/news/watertown-superintendent-blocks-flashdance-musical-calling-production-x-rated",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:45:50 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "b7aac5e5c53fca33",
+      "source": "BBC Entertainment",
+      "headline": "U2 celebrate 50th anniversary at the school where they formed",
+      "summary": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2979/live/e02ac9d0-b90d-11f1-a1d6-67b64207c464.jpg",
+      "published": "Fri, 25 Sep 2026 16:52:10 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "7edbdfb024c3ac63",
+      "source": "Smithsonian",
+      "headline": "Two New Stick Insect Species Have Been Discovered in Australia—and Another One Was Hiding in Plain Sight",
+      "summary": "The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations",
+      "url": "https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/jPCib-s7FZd7gQJP35seTjiOVEI=/420x240/filters:focal(992x661:993x662)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/e9/50e99089-da9f-4a3d-896e-28f2bd58ca21/aen70096-fig-0001-m.jpg",
+      "published": "Fri, 25 Sep 2026 19:03:30 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "2c94bde94b2f7fa6",
+      "source": "Associated Press",
+      "headline": "Trump lobs insults at political opponents, press during rescheduled White House correspondents' dinner - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Trump lobs insults at political opponents, press during rescheduled White House correspondents' dinner ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2lybEIzTjRZaURsdlg4M1lZZjBJVkpSbHFhNkRYM2o3dFRpa1VZMEFGWHpSYjZwdFAwQk01Zms0MEVBYVplUXR5cVRWb2xwUzhSb013VHQwTjA4LXp0dUlvdDNVZFpmSGhWTGFuTG10Wnd3ZWdZT1FjOGpJMDl5Xzl5TWVrREJNQTkzbWVLa3I2cy1ld0FmTnh2UjM4d1NDS0xET05mS19SVWNlR3E0akY1SdIBuAFBVV95cUxNVGNuY051UlQxY2JMSjZISHB5aEF3ZmM1c2FITFgwZy1CU3ZScnpXZUdyNXp5dnJNUTdkNWRadVl3Ul8zWnN6TG14SlR1TF82dVJOajBCWnN1ZHc0MzVLU0M4SmkzNk1VQVdfc0lGRUluQnk1M1RYcElLakRUanZsYnZzQkxOdzh2alAxZUV6Um5DdzFlTEtkcWpNcHkwbmZ1TG5LMmlqQXdZdkRYc09hUkN6QWpTaDYz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2lybEIzTjRZaURsdlg4M1lZZjBJVkpSbHFhNkRYM2o3dFRpa1VZMEFGWHpSYjZwdFAwQk01Zms0MEVBYVplUXR5cVRWb2xwUzhSb013VHQwTjA4LXp0dUlvdDNVZFpmSGhWTGFuTG10Wnd3ZWdZT1FjOGpJMDl5Xzl5TWVrREJNQTkzbWVLa3I2cy1ld0FmTnh2UjM4d1NDS0xET05mS19SVWNlR3E0akY1SdIBuAFBVV95cUxNVGNuY051UlQxY2JMSjZISHB5aEF3ZmM1c2FITFgwZy1CU3ZScnpXZUdyNXp5dnJNUTdkNWRadVl3Ul8zWnN6TG14SlR1TF82dVJOajBCWnN1ZHc0MzVLU0M4SmkzNk1VQVdfc0lGRUluQnk1M1RYcElLakRUanZsYnZzQkxOdzh2alAxZUV6Um5DdzFlTEtkcWpNcHkwbmZ1TG5LMmlqQXdZdkRYc09hUkN6QWpTaDYz",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 08:46:12 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "785a3c09008506e3",
+      "source": "Lifecycle Marketing",
+      "headline": "Top Growth Marketing Announces Availability of Email Marketing Agency Selection Guide for DTC Brands - FinancialContent",
+      "summary": "Top Growth Marketing Announces Availability of Email Marketing Agency Selection Guide for DTC Brands FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYzQyM0FmRWJFSlVaeDFxYjlnVzFqVlpCaUFvTzRkckN0eE4yc2hmbVB1cWNQVGVsVXZ2Z0JhZzIxdFR1YnlfNVV4aFpWS1VjSXFtT1hoaW4teXY4bEJqdWNlUW5LUFYxampBUzJPZVRLZDNxc0FkSjJHaFJJOGFBQjJzblN4dks5aTFhSjc2V3BBQUs2ZUFfV1ZfZjZnRGlmdTRtcEZZNWF1MWV2NVNMc21LMFJpUmZLNnphOHUxbS1UREFSdmNPWVFKZXQ2SWlYdTdNLXFRTWh2aFV0QmRUMXE5Zm1BU0UtbGxBTFhRdXB3dw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYzQyM0FmRWJFSlVaeDFxYjlnVzFqVlpCaUFvTzRkckN0eE4yc2hmbVB1cWNQVGVsVXZ2Z0JhZzIxdFR1YnlfNVV4aFpWS1VjSXFtT1hoaW4teXY4bEJqdWNlUW5LUFYxampBUzJPZVRLZDNxc0FkSjJHaFJJOGFBQjJzblN4dks5aTFhSjc2V3BBQUs2ZUFfV1ZfZjZnRGlmdTRtcEZZNWF1MWV2NVNMc21LMFJpUmZLNnphOHUxbS1UREFSdmNPWVFKZXQ2SWlYdTdNLXFRTWh2aFV0QmRUMXE5Zm1BU0UtbGxBTFhRdXB3dw",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 22:26:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "67c60e82113ce2b9",
+      "source": "Pitchfork",
+      "headline": "Todd Rundgren: Taylor Swift Ruined Music",
+      "summary": "In a recent interview, the rock legend said Swift “doesn’t do anything particularly great except grow hair. She’s not a great singer. She’s not a great songwriter. She’s not a great dancer.”",
+      "url": "https://pitchfork.com/story/todd-rundgren-taylor-swift-ruined-music/",
+      "canonical_url": "https://pitchfork.com/story/todd-rundgren-taylor-swift-ruined-music",
+      "image": "https://media.pitchfork.com/photos/6ab699f03e0766e51cb65e0e/master/pass/MixCollage-25-Sep-2026-11-56-AM-9137.jpg",
+      "published": "Fri, 25 Sep 2026 16:27:36 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "6a790322d90795a4",
+      "source": "Audubon",
+      "headline": "Thousands of Handmade Birds Spotlight a Deadly Migration Toll in Chicago - National Audubon Society",
+      "summary": "Thousands of Handmade Birds Spotlight a Deadly Migration Toll in Chicago National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclNKT2FVeV8wZ3c2MEctSk54OGZGcVRMcDI0dlJSZ3JLS1RwN19IUW1vTU1IRUczbzk4bEFObHU0ajBNLTlaOVZCdWlxYTJZVjFzQ1doOEVLYklWNHdHWDc2SDd4YklTM1BTNlFUNktkUlg4Rjd6UnZjZm42UU1aT2VnbUhZb2o3WlpscWdua2NEdTBTVHNjUVhJMHYzRkk5SlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclNKT2FVeV8wZ3c2MEctSk54OGZGcVRMcDI0dlJSZ3JLS1RwN19IUW1vTU1IRUczbzk4bEFObHU0ajBNLTlaOVZCdWlxYTJZVjFzQ1doOEVLYklWNHdHWDc2SDd4YklTM1BTNlFUNktkUlg4Rjd6UnZjZm42UU1aT2VnbUhZb2o3WlpscWdua2NEdTBTVHNjUVhJMHYzRkk5SlE",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:42:54 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "296e0f57f2ce6535",
+      "source": "NPR",
+      "headline": "The U.S. has more thalidomide survivors than the government admits",
+      "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+      "canonical_url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 05:00:00 -0400",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "6aaada1279965e0a",
+      "source": "BBC Health",
+      "headline": "The simple skincare routine for teens that actually works - and five expert tips",
+      "summary": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4110/live/55f79c50-b66c-11f1-a430-4d16ee157c41.jpg",
+      "published": "Mon, 21 Sep 2026 23:28:26 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "6a9edaa4595c2654",
+      "source": "Positive News",
+      "headline": "The race to get more young people in the UK into work, education or training",
+      "summary": "The UK has one of the highest NEET rates for young adults in Europe. New figures offer some encouragement",
+      "url": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
+      "canonical_url": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 09:39:04 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-25",
+        "2026-09-24",
+        "2026-09-23",
+        "2026-09-22",
+        "2026-09-21"
+      ],
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-26",
+      "appearances": 6
+    },
+    {
+      "id": "b98d6b64385b3598",
+      "source": "Variety",
+      "headline": "Taylor Swift Breaks Two Spotify Records for 2026, Including Most-Streamed Female Artist in a Day",
+      "summary": "Taylor Swift has broken two Spotify records for 2026, including most-streamed female artist in a day. Swift broke the records following the midnight release of “The Life of a Showgirl: Encore,” which featured four new songs, including lead single “Patient Zero.” That song broke the record for the most-streamed song by a female artist in",
+      "url": "https://variety.com/2026/music/news/taylor-swift-breaks-spotify-records-most-streamed-female-1236876086/",
+      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-breaks-spotify-records-most-streamed-female-1236876086",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-10.03.48-PM.jpeg",
+      "published": "Fri, 25 Sep 2026 23:43:56 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "49e2b13417aeb0fa",
+      "source": "NPR",
+      "headline": "Supreme Court blocks Trump-backed Missouri congressional map",
+      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterms for control of the House. It means voters will face a different map than the one used in the primaries.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+      "canonical_url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 18:06:16 -0400",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "a25c3a9948a9237e",
+      "source": "BBC World",
+      "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
+      "published": "Fri, 25 Sep 2026 19:13:35 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "706759721ffd238c",
+      "source": "The Verge",
+      "headline": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "image": "",
+      "published": "2026-09-25T11:51:56-04:00",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "c6e3e81e0474a661",
+      "source": "BBC Health",
+      "headline": "Scientists discover why Kent meningitis outbreak was so severe",
+      "summary": "The bacteria responsible picked up some new genetic material, say experts.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8901/live/48fac930-b650-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Tue, 22 Sep 2026 13:35:38 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "af32f70e36353a03",
+      "source": "Salesforce",
+      "headline": "Salesforce Acquires Fin to Revolutionize Customer Service Automation - Small Business Trends",
+      "summary": "Salesforce Acquires Fin to Revolutionize Customer Service Automation Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE51MFI2TDBwbjd1azBYQXlEdk1TOHZ5Y0d3OFNhWmhzQ0p6TUxqdUVrRDdnMl9fRG1MRGg5Wm9IMlFJWm4zamJMb1k5Nm10VHVVdmNfYzFGN25fdHRUWWVjRmF5dmdpakszbWpOTWZEVk5GeXZSRUJyR0k5OXpSdU82TzBjcnc5ek5wUXJaSzgtaTJhaG43ckN2Z2I?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE51MFI2TDBwbjd1azBYQXlEdk1TOHZ5Y0d3OFNhWmhzQ0p6TUxqdUVrRDdnMl9fRG1MRGg5Wm9IMlFJWm4zamJMb1k5Nm10VHVVdmNfYzFGN25fdHRUWWVjRmF5dmdpakszbWpOTWZEVk5GeXZSRUJyR0k5OXpSdU82TzBjcnc5ek5wUXJaSzgtaTJhaG43ckN2Z2I",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:11:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9399511677129236",
+      "source": "BBC World",
+      "headline": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
+      "published": "Fri, 25 Sep 2026 20:47:49 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "e0bebba13a8d2372",
+      "source": "Medical Xpress",
+      "headline": "Researchers highlight how brain economy principles could transform clinical care - Medical Xpress",
+      "summary": "Researchers highlight how brain economy principles could transform clinical care Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHMzaDFnbHBqX2EwQ2g3MS1zNExoNWJwNTRJRjdFUHFLa0NOcnRILVU1ckFSMU9WZktYNk1KSzBJYWxIRXdRT1FFYnlqMUp0R2tYdFRwVjZ2ZkVoQl8xMFl6cWZHQ0dCVlIzUGRiZlFGMHRIbUVaZ25lQWFXNHJicC1lbUVlVDBfeEdrYnRoTWQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHMzaDFnbHBqX2EwQ2g3MS1zNExoNWJwNTRJRjdFUHFLa0NOcnRILVU1ckFSMU9WZktYNk1KSzBJYWxIRXdRT1FFYnlqMUp0R2tYdFRwVjZ2ZkVoQl8xMFl6cWZHQ0dCVlIzUGRiZlFGMHRIbUVaZ25lQWFXNHJicC1lbUVlVDBfeEdrYnRoTWQ",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 11:20:01 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "f5af4f42e8bc52a6",
+      "source": "Isthmus",
+      "headline": "Question. Answer. Repeat. - Isthmus | Madison, Wisconsin",
+      "summary": "Question. Answer. Repeat. Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydnhnNnhsdGlPRkdMU3A4ODlXS1hGNk01cXlKaWJ5MGZHTXFlZDIzR3VvMVgwZkRMWHg4d1VRbU44RXJhQU9mbExNUEZjUHRFQmVhM1J0Y0xfQmFhekxJ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydnhnNnhsdGlPRkdMU3A4ODlXS1hGNk01cXlKaWJ5MGZHTXFlZDIzR3VvMVgwZkRMWHg4d1VRbU44RXJhQU9mbExNUEZjUHRFQmVhM1J0Y0xfQmFhekxJ",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 20:26:15 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "b4f64d2dc6eb9c25",
+      "source": "Klaviyo",
+      "headline": "Post-purchase email guide: examples + expert advice - Klaviyo",
+      "summary": "Post-purchase email guide: examples + expert advice Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tc0RVN0NrdnJrbnE4LTRMdnowajNteUFsd2Fhc2xxa0kxYkhMR2l0V25MUnE0Y3JEekxYWXVURU1TbDM4bFdrY0FCZ3J3clpSLTdOMnVNM3paRmxvMHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tc0RVN0NrdnJrbnE4LTRMdnowajNteUFsd2Fhc2xxa0kxYkhMR2l0V25MUnE0Y3JEekxYWXVURU1TbDM4bFdrY0FCZ3J3clpSLTdOMnVNM3paRmxvMHc",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 23:17:08 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "cd28012b247ae26a",
+      "source": "NPR",
+      "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+      "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+      "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "canonical_url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 02:59:45 -0400",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9f4726680317ab6d",
+      "source": "Madison Local",
+      "headline": "Police investigating for hazing after men covered in food found in Wisconsin fraternity - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Police investigating for hazing after men covered in food found in Wisconsin fraternity ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaThkU1liREs4NVVZUGFPUmtDaGxzSGtKLUhJVXJ6eEkyeHpGNkM3WkZ6SC1oNkotRGpNbnJnaEo5cjRsLUtnNzdCaTFFMHVwaGdFd1k5U3Y5bjBUT3hGUng0WEhldVpXWU1uSl9Pci1Mci1aejJmY3RMcVRidWdFYkNtTF9NbFlTSkFPVkVkdGRLVWdpVklNcnNZaDVaNjJj0gGmAUFVX3lxTE9VdWNxZVFhV0Z5MmtPblBzbzlqOHJ5YlRnYWR3cG42SFV1bWI2YmNDTGd6Wk01QmgwWFBQc0lJX1lIbDRYSElGR1ZWeG1RZE1lSG5xaDU0djU4QzBWSmxSZFo2TzQ1Wk44RU9pdU9RVDB0U1hvN1BQdVQ1d2ZjN1g0aHpNMnFvdDhUYW5XMFFmN3RXME5wdzZTWG8zZXhoa2pQQ09pdkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaThkU1liREs4NVVZUGFPUmtDaGxzSGtKLUhJVXJ6eEkyeHpGNkM3WkZ6SC1oNkotRGpNbnJnaEo5cjRsLUtnNzdCaTFFMHVwaGdFd1k5U3Y5bjBUT3hGUng0WEhldVpXWU1uSl9Pci1Mci1aejJmY3RMcVRidWdFYkNtTF9NbFlTSkFPVkVkdGRLVWdpVklNcnNZaDVaNjJj0gGmAUFVX3lxTE9VdWNxZVFhV0Z5MmtPblBzbzlqOHJ5YlRnYWR3cG42SFV1bWI2YmNDTGd6Wk01QmgwWFBQc0lJX1lIbDRYSElGR1ZWeG1RZE1lSG5xaDU0djU4QzBWSmxSZFo2TzQ1Wk44RU9pdU9RVDB0U1hvN1BQdVQ1d2ZjN1g0aHpNMnFvdDhUYW5XMFFmN3RXME5wdzZTWG8zZXhoa2pQQ09pdkE",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 18:50:28 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "98c0a13c828740a9",
+      "source": "Reuters",
+      "headline": "OpenAI's Models Accessed Public US Census, SEC Data, Bloomberg News Reports - U.S. News & World Report",
+      "summary": "OpenAI's Models Accessed Public US Census, SEC Data, Bloomberg News Reports U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG1ldVlTYWZQalRZWFJCY0xjODB3Q0NuU2dVa19fdXVjNE9ncVRpNWNUcXdPYUh0YS11T2V6Tzh6RFcxT1lJaGFBaGd6Z09XQ1ZoX0gtRHEwX3NUa0M4cWYzTFUwbkltOGdneFZtRlJyV1ZoZUIwM1NDdG9XTWQ3RkhzeEVxNi15T1lOUWI5VmlBc1hCWEJIVXJ3TUJYcEI4WExCZ2ZqTzJvX29LdERGd240MzFPMThzb1dDdk1FNnctejdDRFZOWA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG1ldVlTYWZQalRZWFJCY0xjODB3Q0NuU2dVa19fdXVjNE9ncVRpNWNUcXdPYUh0YS11T2V6Tzh6RFcxT1lJaGFBaGd6Z09XQ1ZoX0gtRHEwX3NUa0M4cWYzTFUwbkltOGdneFZtRlJyV1ZoZUIwM1NDdG9XTWQ3RkhzeEVxNi15T1lOUWI5VmlBc1hCWEJIVXJ3TUJYcEI4WExCZ2ZqTzJvX29LdERGd240MzFPMThzb1dDdk1FNnctejdDRFZOWA",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 00:29:00 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "6c7096ff6fb555b1",
+      "source": "BBC World",
+      "headline": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "0cbbe1ca97fa538d",
+      "source": "Taylor Alert",
+      "headline": "On Four New Songs, Taylor Swift Shares an Overdue Apology—But Not for Her MSG Wedding - Vanity Fair",
+      "summary": "On Four New Songs, Taylor Swift Shares an Overdue Apology—But Not for Her MSG Wedding Vanity Fair",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0R4bkZlcXczbWdNSTRLM0taR21YU3RnaHpyeVZHbUlEMkItQTg1RHpuNmNlS0FzcTYzcTZrZGs0d0w4SDJHc0RjNFZUTHJTWXZaTmNlQzl0bEZSMlAxLU9odlVyRmIzY3dQMlk3Y2FCME9TaUY3T3NQVkF6dG5yM3BEaHQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0R4bkZlcXczbWdNSTRLM0taR21YU3RnaHpyeVZHbUlEMkItQTg1RHpuNmNlS0FzcTYzcTZrZGs0d0w4SDJHc0RjNFZUTHJTWXZaTmNlQzl0bEZSMlAxLU9odlVyRmIzY3dQMlk3Y2FCME9TaUY3T3NQVkF6dG5yM3BEaHQ",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 17:46:54 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "31f37fceab628766",
+      "source": "Mongabay",
+      "headline": "NGOs call on Vantara to end all wild animal imports permanently - news.mongabay.com",
+      "summary": "NGOs call on Vantara to end all wild animal imports permanently news.mongabay.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkkxZVJMVkRQejFDMjcwT3AwOUwxNjV6NkZjYnIyeWRSY0xpT0dlMjRQUVBYek1KNlYzNG1HTzdtbFBZbTRaRC1nVmF3MDVnLUNtQ3RnWndheU1LVVVjTWxkcm9WODNnRGRBRnpLSkZVOE9qTjlYVkNZbkNjcTRpQ2FmOW1pcGR5ejFJamFnaW9uQ3hhdVJBaGxPSExyaDjSAaQBQVVfeXFMTVd6VFlPYTY3MHpqNl9DbTNzODItMVJfQ2xvSE5qRVhvM3IyVzcwSjA0ZTYyWTJfNzdyMnJKZVRDX0Y0TzFhbExUbkc5Nk41YlpuLVhJZXVJLW1wdFpZdGZqdU9JOFhYc252QzR4RXJlSXFLRnhyYjU0aGJYYVpLeWdVeEV6TWw2MWN2MmtNbTBqdkdLVXFWZ0s3WmtJby1Ecnp6LTU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkkxZVJMVkRQejFDMjcwT3AwOUwxNjV6NkZjYnIyeWRSY0xpT0dlMjRQUVBYek1KNlYzNG1HTzdtbFBZbTRaRC1nVmF3MDVnLUNtQ3RnWndheU1LVVVjTWxkcm9WODNnRGRBRnpLSkZVOE9qTjlYVkNZbkNjcTRpQ2FmOW1pcGR5ejFJamFnaW9uQ3hhdVJBaGxPSExyaDjSAaQBQVVfeXFMTVd6VFlPYTY3MHpqNl9DbTNzODItMVJfQ2xvSE5qRVhvM3IyVzcwSjA0ZTYyWTJfNzdyMnJKZVRDX0Y0TzFhbExUbkc5Nk41YlpuLVhJZXVJLW1wdFpZdGZqdU9JOFhYc252QzR4RXJlSXFLRnhyYjU0aGJYYVpLeWdVeEV6TWw2MWN2MmtNbTBqdkdLVXFWZ0s3WmtJby1Ecnp6LTU",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 18:27:11 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "1217f48bf2161389",
+      "source": "NPR",
+      "headline": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+      "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+      "canonical_url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 05:00:00 -0400",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "59ebdddb1e5ae849",
+      "source": "BBC Health",
+      "headline": "Martha's Rule rolled out at every A&E department in England",
+      "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
+      "published": "Tue, 22 Sep 2026 15:49:52 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "3f4ddf5b9135870d",
+      "source": "Salesforce",
+      "headline": "Marketing Cloud: Real-Time Features - Salesforce",
+      "summary": "Marketing Cloud: Real-Time Features Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YOTJQMjdwN3B4YjV2R0ZveU45ZHFEbWdfd1gzenE2dGx2LWt5dGdWNDR4M3YxYTl6eXhaaU1Fd2Nmd0hraDljTDRTeFo5Nzkycm43ZTl2b2h4MkFTbTR4T2ZDQ0k1MHotRG1ZX2RGZWFycnJq?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YOTJQMjdwN3B4YjV2R0ZveU45ZHFEbWdfd1gzenE2dGx2LWt5dGdWNDR4M3YxYTl6eXhaaU1Fd2Nmd0hraDljTDRTeFo5Nzkycm43ZTl2b2h4MkFTbTR4T2ZDQ0k1MHotRG1ZX2RGZWFycnJq",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 04:32:16 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "05dac6a83b9b30d1",
+      "source": "Wisconsin Public Radio",
+      "headline": "Madison art museum debuts new exhibition using generative AI amidst pushback",
+      "summary": "A new exhibition in the Madison Museum of Contemporary Art uses generative artificial intelligence to allow viewers to manipulate digital artwork. More than 900 people have signed an open letter calling to shut down the project due to the project’s AI use.",
+      "url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
+      "canonical_url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 21:06:00 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "fda262423ca6584c",
+      "source": "The Verge",
+      "headline": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered",
+      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "canonical_url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "image": "",
+      "published": "2026-09-25T12:22:05-04:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "de895e80d6a42593",
+      "source": "BBC World",
+      "headline": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg",
+      "published": "Fri, 25 Sep 2026 23:05:40 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "51fa38c51fbb90ec",
+      "source": "Customer Data",
+      "headline": "Inside the Data-to-Decision Pipeline Powering Modern Martech - martechcube.com",
+      "summary": "Inside the Data-to-Decision Pipeline Powering Modern Martech martechcube.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRTZDeHdpeG9UYXFlb0o1ZGZYdXlwbXZrQ01hQ2FDM2Rqb1F0aVdEYXJBWGczeDdBV3FaWVh1SkhUWUc4OEFMRWpZNFpvakt0V2k1R05iZmNCbGdtQUZWUWk4WEg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRTZDeHdpeG9UYXFlb0o1ZGZYdXlwbXZrQ01hQ2FDM2Rqb1F0aVdEYXJBWGczeDdBV3FaWVh1SkhUWUc4OEFMRWpZNFpvakt0V2k1R05iZmNCbGdtQUZWUWk4WEg",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:14:08 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "f2cc0ed016e01699",
+      "source": "Smithsonian",
+      "headline": "In a First, Sea Turtles Were Spotted Nesting on the U.S. West Coast. Scientists Say the 'Super' El Niño Could Have Brought Them There",
+      "summary": "Two olive ridley turtles were found laying eggs on beaches in Southern California in September. In the Pacific Ocean, these reptiles normally nest farther south, often in Mexico, Nicaragua, Costa Rica and Panama",
+      "url": "https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/D-Npq0DIiuKirQjyPOCwOFVtZQQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/a2/37a2a3e3-0258-4b23-87cf-13af4e698411/smithsonian_feature_images_24.png",
+      "published": "Fri, 25 Sep 2026 20:24:20 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "d97e2b3571aeccd4",
+      "source": "Associated Press",
+      "headline": "Hurricanes in the Pacific threaten Hawaii and Mexico with floods and high surf - ABC30 Fresno",
+      "summary": "Hurricanes in the Pacific threaten Hawaii and Mexico with floods and high surf ABC30 Fresno",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUFlRjM1WnZ1UkJlWWlncWc3RVhFWGpITG95MlFIQkNpN1BtUlFWVU44cjF3LVBUdTZzWmVyWlY5WjVkV21pQnQzY1ppeTUwM2I3UWJNS1RoOHBsNmRRRDE5Uks4MVJCRFY2Wm1ncTFkNXVOaGhHWDhfRHhueUFjemp3emZEX0FKMmNEWU5JcnZsMnk3OFF3cTZMVlRaZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUFlRjM1WnZ1UkJlWWlncWc3RVhFWGpITG95MlFIQkNpN1BtUlFWVU44cjF3LVBUdTZzWmVyWlY5WjVkV21pQnQzY1ppeTUwM2I3UWJNS1RoOHBsNmRRRDE5Uks4MVJCRFY2Wm1ncTFkNXVOaGhHWDhfRHhueUFjemp3emZEX0FKMmNEWU5JcnZsMnk3OFF3cTZMVlRaZw",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 00:00:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "c419b26429890a9e",
+      "source": "Wisconsin Public Radio",
+      "headline": "Hazing investigation ongoing into unaffiliated frat at UW-Madison",
+      "summary": "Police have arrested at least two men amid an investigation into alleged hazing in the basement of an unrecognized fraternity near the University of Wisconsin-Madison campus.",
+      "url": "https://www.wpr.org/news/hazing-investigation-ongoing-unaffiliated-frat-uw-madison",
+      "canonical_url": "https://www.wpr.org/news/hazing-investigation-ongoing-unaffiliated-frat-uw-madison",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:01:44 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "c9b134e2dfb2843d",
+      "source": "AI News",
+      "headline": "Google, OpenAI, Anthropic plan independent AI safety body - TechGig",
+      "summary": "Google, OpenAI, Anthropic plan independent AI safety body TechGig",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVRpeVZyR05wZjlJTFJuNHUwTDZxTVVTcEpORlk4bEg4bEhXNGNrSDE1Z1RpTlBvaTk1enVoQUNWV0VxQzM4QmdDYXVjYW9vRmR5aWFpMXBucVVkZkZ4NTRPMHdqNDlKZUswM3NfdDJsdEptejdLZ2RmRFFYLTFxb0ZTMy1QdHpNbS0xX25CSnVlNkJ3M0Y0Nm5XdnlnYkIwcVRtaVlSOXVBYTg50gGyAUFVX3lxTE1GY3BZVmpMaDJwQVZxYzJYdU5oMzg4X0RPVV95eWV5R0V1aHdzVUxRMDJHRkRZZW5fMlp1RVVFUnFYU2NRbXVLalp2RWFBb3VlRXo3Z3ZrejliVnVTckRmZ2h2UFNwR3BRLVdFQmdWUWpNTjNWb2s5aGVPcE1RT3luLXVZUTMyaEE5WGFlVkN3T2o3NHpNT3gxSXBGUk92MS02Q08wcEhaVjR1VGRnckdWQ3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVRpeVZyR05wZjlJTFJuNHUwTDZxTVVTcEpORlk4bEg4bEhXNGNrSDE1Z1RpTlBvaTk1enVoQUNWV0VxQzM4QmdDYXVjYW9vRmR5aWFpMXBucVVkZkZ4NTRPMHdqNDlKZUswM3NfdDJsdEptejdLZ2RmRFFYLTFxb0ZTMy1QdHpNbS0xX25CSnVlNkJ3M0Y0Nm5XdnlnYkIwcVRtaVlSOXVBYTg50gGyAUFVX3lxTE1GY3BZVmpMaDJwQVZxYzJYdU5oMzg4X0RPVV95eWV5R0V1aHdzVUxRMDJHRkRZZW5fMlp1RVVFUnFYU2NRbXVLalp2RWFBb3VlRXo3Z3ZrejliVnVTckRmZ2h2UFNwR3BRLVdFQmdWUWpNTjNWb2s5aGVPcE1RT3luLXVZUTMyaEE5WGFlVkN3T2o3NHpNT3gxSXBGUk92MS02Q08wcEhaVjR1VGRnckdWQ3c",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 00:49:03 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "284f86973169ce7f",
+      "source": "AI News",
+      "headline": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body - BankInfoSecurity",
+      "summary": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3hSbWFhUmJuLUtWR29rWjZrWklxcUNJVWprZVpueTJGTTRKQXlzbGtXemV2dzJHM3p5blhUVzE1YWJkSWhyZU9Fc0kyXy1qYVVxVWxOZkNWaTNnTzBpWExpeU1iSmVzX1JsMTQwNVBSbGxpYndKeUxsZ0VUMnNrTzJDaWVjQnpLQk9DZ0I0bEdFSEdBdFFGX0FSdXI?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3hSbWFhUmJuLUtWR29rWjZrWklxcUNJVWprZVpueTJGTTRKQXlzbGtXemV2dzJHM3p5blhUVzE1YWJkSWhyZU9Fc0kyXy1qYVVxVWxOZkNWaTNnTzBpWExpeU1iSmVzX1JsMTQwNVBSbGxpYndKeUxsZ0VUMnNrTzJDaWVjQnpLQk9DZ0I0bEdFSEdBdFFGX0FSdXI",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 09:36:58 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "c4bdd162d369f8e8",
+      "source": "AI News",
+      "headline": "Google, OpenAI, Anthropic plan AI standards agency, court Krishnan, report says - Pasquale Pillitteri",
+      "summary": "Google, OpenAI, Anthropic plan AI standards agency, court Krishnan, report says Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFZNWkhmNk5yMmdlTXZETXVfWUxnZUZDYk9OY0lZd25KdTAxUW1UTnM5ZmxiNWJ4R3MtTzgxMGg4cVR2V28yckhQYU81Uy04a0tzU2ZNWXpKX1dUaVpQN191bUU1RG9VWHk1V1hkbzAwTWRNalJGLTZYMUdKN1FXYm1ZZXh2UENYWWlyRW1mRU1NT0lGZjVJd3dEUkc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFZNWkhmNk5yMmdlTXZETXVfWUxnZUZDYk9OY0lZd25KdTAxUW1UTnM5ZmxiNWJ4R3MtTzgxMGg4cVR2V28yckhQYU81Uy04a0tzU2ZNWXpKX1dUaVpQN191bUU1RG9VWHk1V1hkbzAwTWRNalJGLTZYMUdKN1FXYm1ZZXh2UENYWWlyRW1mRU1NT0lGZjVJd3dEUkc",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 08:21:44 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "b98da1c0a676d9c3",
+      "source": "Positive News",
+      "headline": "Gallery: winning pictures from Bird Photographer of the Year",
+      "summary": "A striking shot of a gannet flying through the water is among the winners of this year’s award",
+      "url": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
+      "canonical_url": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 07:00:14 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-09-25",
+        "2026-09-24",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-26",
+      "appearances": 4
+    },
+    {
+      "id": "1b3c53517400d7a9",
+      "source": "Mental Health",
+      "headline": "Financial Awareness for Autistic Individuals: A Practical Guide to Safer Digital Participation - Autism Spectrum News",
+      "summary": "Financial Awareness for Autistic Individuals: A Practical Guide to Safer Digital Participation Autism Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkVnZnFNNGNZelVsNDlhVDBDQTdPa1c4MDZyaXN5d3BvNEo0SjJURGlSUGI0SHViYm9NcW90NDVkTHQ1UzczQUpaR3VFc09fNXRORURwblMxdHBMTWNBT2hibi1TQThPeURKYUV6MzhqSU5kYkhsa2g2dVBPR3UyazdrVF9xUUd1U1VLS0VGNWl0dDVzQUZYWl9HMEF2UWdtS0diOVNBbEV6UGdDUXFvVGEwamsxUGFmc3RvRG52Nlo5SUU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkVnZnFNNGNZelVsNDlhVDBDQTdPa1c4MDZyaXN5d3BvNEo0SjJURGlSUGI0SHViYm9NcW90NDVkTHQ1UzczQUpaR3VFc09fNXRORURwblMxdHBMTWNBT2hibi1TQThPeURKYUV6MzhqSU5kYkhsa2g2dVBPR3UyazdrVF9xUUd1U1VLS0VGNWl0dDVzQUZYWl9HMEF2UWdtS0diOVNBbEV6UGdDUXFvVGEwamsxUGFmc3RvRG52Nlo5SUU",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 18:49:31 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "d077e972fe991d19",
+      "source": "BBC Entertainment",
+      "headline": "Ex-GTA developer's studio faces closure after debut game flopped",
+      "summary": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ab/live/1b2465e0-ac40-11f0-ba75-093eca1ac29b.png",
+      "published": "Fri, 25 Sep 2026 16:17:20 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "a3caeb4900e4a3b8",
+      "source": "Klaviyo",
+      "headline": "Email Subject Line Best Practices & Examples to Boost Open Rates - Klaviyo",
+      "summary": "Email Subject Line Best Practices & Examples to Boost Open Rates Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMTRxRnhyQl9STml6cGJXYndmZUJVOFM1V0ZndHAwLU1nRl83REZ5UFl3UXZ6MVQwU2tRT0V3czF3aVoxdlBENXRQTXBHZ2JmRUMzV1pad3ZzVFBqM0dMaUJRTkFTMlpP?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMTRxRnhyQl9STml6cGJXYndmZUJVOFM1V0ZndHAwLU1nRl83REZ5UFl3UXZ6MVQwU2tRT0V3czF3aVoxdlBENXRQTXBHZ2JmRUMzV1pad3ZzVFBqM0dMaUJRTkFTMlpP",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 21:58:29 GMT",
+      "sections": [
+        "quick-scan",
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-08-05"
+      ],
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "7897f0f68ff2df95",
+      "source": "Klaviyo",
+      "headline": "Email design inspiration for 2026, plus brand examples - Klaviyo",
+      "summary": "Email design inspiration for 2026, plus brand examples Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MZFN4Y2FOYzFDSGZOQWszQnVNVVhzTGxsZnZvN1E0SnRRVlJXQk1HUFoxZXYwZ3h6dmVxck5qdWhfSk5SMkx3LW0xMXNnRWQ5dFVLQVVPc1FaVXZzcjlR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MZFN4Y2FOYzFDSGZOQWszQnVNVVhzTGxsZnZvN1E0SnRRVlJXQk1HUFoxZXYwZ3h6dmVxck5qdWhfSk5SMkx3LW0xMXNnRWQ5dFVLQVVPc1FaVXZzcjlR",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 07:54:39 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "dd8d7d02ea4ea012",
+      "source": "Mongabay",
+      "headline": "Earth life support systems are flashing red, warns 2026 Planetary Health Check - news.mongabay.com",
+      "summary": "Earth life support systems are flashing red, warns 2026 Planetary Health Check news.mongabay.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3J1cnVMTVdlUFdJbFRPeldCNE5UZkpnOFZ4MmhqWVZLbEhsc2hEclVEYm0zZHVVRC1EZE9xeXB3d3lOUkg0ZUJvZ2ZwOERlbnZoUkVBYlgwbTNBNVdBU0VZZVRPTVhMZlF3RGNDN2dCYXVIVlVWeUE5bVZ5bENlbGc1ek00SEF1bklqdzZSRFAzd3Q4VXV1cEFoVlZRTEkxU2M3eElNWElXV2ZMa0tKaWdB0gG3AUFVX3lxTE5mcS1DeFNqRDFSZmhzYXVXSFBYTWhvVnlhSFpxb2VUbkh2bjdUVmFaV0xxbU1iekVDUnFhcEQwRlpzbzR5YnFkZnNoZGpNNnptcTZJdFExeHRqVW1GeTFJQVNid3luaE4ydjlvQ0VnS3dRaDdUajk3TklfcDZjS1RfSGNyVFZBZUxJVjFpNHpibmhfT3oyX0VOZlJIM2MtdXFhTHJJdWlWcVQwYW1HVlZrMTdSUEl0TQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3J1cnVMTVdlUFdJbFRPeldCNE5UZkpnOFZ4MmhqWVZLbEhsc2hEclVEYm0zZHVVRC1EZE9xeXB3d3lOUkg0ZUJvZ2ZwOERlbnZoUkVBYlgwbTNBNVdBU0VZZVRPTVhMZlF3RGNDN2dCYXVIVlVWeUE5bVZ5bENlbGc1ek00SEF1bklqdzZSRFAzd3Q4VXV1cEFoVlZRTEkxU2M3eElNWElXV2ZMa0tKaWdB0gG3AUFVX3lxTE5mcS1DeFNqRDFSZmhzYXVXSFBYTWhvVnlhSFpxb2VUbkh2bjdUVmFaV0xxbU1iekVDUnFhcEQwRlpzbzR5YnFkZnNoZGpNNnptcTZJdFExeHRqVW1GeTFJQVNid3luaE4ydjlvQ0VnS3dRaDdUajk3TklfcDZjS1RfSGNyVFZBZUxJVjFpNHpibmhfT3oyX0VOZlJIM2MtdXFhTHJJdWlWcVQwYW1HVlZrMTdSUEl0TQ",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 14:06:58 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "c604c111746fb502",
+      "source": "Animals",
+      "headline": "Dong Nai wildlife centre rehabilitates thousands for return to the wild - Vietnam+ (VietnamPlus)",
+      "summary": "Dong Nai wildlife centre rehabilitates thousands for return to the wild Vietnam+ (VietnamPlus)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbEY0OTlQTUNxR0tfdGxlanpwUVFlSExGN1JNODhla1Z6SFd0aW9uUW1qSm5xVkFraWNpRnNicjhlSG9kQnM3R2Z0cVhPYUNjQWM2Q0M4Z1hFUHE1dDlfTlBFODd4THFlWDl3dl9vbVJDVGIyR1A4TjRZWUNIUEhUaDZkaTdxQTB0c0lOT3ZsSlJRZjVIbVVpVHQ0S2xkOVVNdUdVLUZBOXNpX0dReFlEM1Jn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbEY0OTlQTUNxR0tfdGxlanpwUVFlSExGN1JNODhla1Z6SFd0aW9uUW1qSm5xVkFraWNpRnNicjhlSG9kQnM3R2Z0cVhPYUNjQWM2Q0M4Z1hFUHE1dDlfTlBFODd4THFlWDl3dl9vbVJDVGIyR1A4TjRZWUNIUEhUaDZkaTdxQTB0c0lOT3ZsSlJRZjVIbVVpVHQ0S2xkOVVNdUdVLUZBOXNpX0dReFlEM1Jn",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 06:55:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "3911f8777dee8c46",
+      "source": "Dane County",
+      "headline": "Dane County DA reviewing Wisconsin DOJ’s findings in the investigation of Corey Ruiz’s death - WMTV 15 NEWS",
+      "summary": "Dane County DA reviewing Wisconsin DOJ’s findings in the investigation of Corey Ruiz’s death WMTV 15 NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0UzUVVneHJhY0J2Zl9GS2ZRVVUwV1VEM3hPaDZ1R2lhcll0N2s0SUpaWXJEcDMzb0phYXNuNFpWQXBFWWFRQkhDU2lzRTludlZzczVvcFJ3aExUTEd6bkV3STh6TlZFMlEyRU9FQkM2QWdOVmtJQ1NrMTdFS0E4OTRQM19XSlp0SlBzd3FpNFFRUEJ6VktjTGtHdVJOZVR1U1NoMExQZ2hjLWl3MmlFNDZYem9jb21uZjI0TDN4U2dfOVlZUVBKSDY3SWN4MzhqNzdwSWUycw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0UzUVVneHJhY0J2Zl9GS2ZRVVUwV1VEM3hPaDZ1R2lhcll0N2s0SUpaWXJEcDMzb0phYXNuNFpWQXBFWWFRQkhDU2lzRTludlZzczVvcFJ3aExUTEd6bkV3STh6TlZFMlEyRU9FQkM2QWdOVmtJQ1NrMTdFS0E4OTRQM19XSlp0SlBzd3FpNFFRUEJ6VktjTGtHdVJOZVR1U1NoMExQZ2hjLWl3MmlFNDZYem9jb21uZjI0TDN4U2dfOVlZUVBKSDY3SWN4MzhqNzdwSWUycw",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 21:30:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "26c3af8439861c7f",
+      "source": "Ars Technica",
+      "headline": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "published": "Fri, 25 Sep 2026 21:36:20 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "266dc41c49dc06ec",
+      "source": "Ars Technica",
+      "headline": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+      "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+      "canonical_url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "published": "Fri, 25 Sep 2026 23:00:26 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "21dc9a9a8ec05589",
+      "source": "BBC Science",
+      "headline": "Butterfly populations 'could crash' due to weather",
+      "summary": "More than 77,000 butterflies were recorded in Devon while 47,000 were spotted in Cornwall this July.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d322y7y15o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cw8d322y7y15o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba2/live/d63255a0-b747-11f1-8846-e70401199dae.png",
+      "published": "Sat, 26 Sep 2026 11:05:36 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "5f91db2c2be3fb73",
+      "source": "BBC World",
+      "headline": "Brazil's Lula bans online gambling ahead of presidential election",
+      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg",
+      "published": "Sat, 26 Sep 2026 03:22:17 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "7c54ce64364a3e28",
+      "source": "BBC World",
+      "headline": "Bangkok roads submerged as flood disaster declared",
+      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
+      "published": "Sat, 26 Sep 2026 07:21:30 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "6c5027df4e037d2c",
+      "source": "BBC World",
+      "headline": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/65e845d0-b80e-11f1-b205-219f899eccc7.jpg",
+      "published": "Fri, 25 Sep 2026 23:08:02 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "2c78f15778c5f69b",
+      "source": "Animals",
+      "headline": "Animal Activists Found Guilty of Stealing Lambs from King Charles’ Sandringham Estate - People.com",
+      "summary": "Animal Activists Found Guilty of Stealing Lambs from King Charles’ Sandringham Estate People.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFVBUmNxajkzX3phT282dkRyZmpzZjZyZHhHRDl5NTVqRnJqRkktYk9FVV96dWhld2syTUZXQU96eG85YXNRNTdKeEJHcVRZV2xXYXp4RHBzNEtqdDV5V3dxcEREZWlEQ1Y4NXRnazdsU29xamphWTlhMGJQelc0MmtiUXVUMHUxUTdJRHFXZVZTMXBxYW51eWxjRDV4QUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFVBUmNxajkzX3phT282dkRyZmpzZjZyZHhHRDl5NTVqRnJqRkktYk9FVV96dWhld2syTUZXQU96eG85YXNRNTdKeEJHcVRZV2xXYXp4RHBzNEtqdDV5V3dxcEREZWlEQ1Y4NXRnazdsU29xamphWTlhMGJQelc0MmtiUXVUMHUxUTdJRHFXZVZTMXBxYW51eWxjRDV4QUE",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 19:30:43 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9a7f12d5df4d7acf",
+      "source": "Ars Technica",
+      "headline": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+      "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "canonical_url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-1152x648.png",
+      "published": "Fri, 25 Sep 2026 15:35:23 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "a4e42e9f0bda084d",
+      "source": "Klaviyo",
+      "headline": "Abandoned Cart Emails: 12 Best Practices with Examples - Klaviyo",
+      "summary": "Abandoned Cart Emails: 12 Best Practices with Examples Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VUtjUV9nejVjb2dULXZjNHk4d0FmbUt5S2pVWmZhVHpxOC1oS3hrNnM1anp6TDRwN3g1TW1DbXNNMjlzeGJLMlBvQVF3bTd4V1RJMV9xcWRlZDJBZEE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VUtjUV9nejVjb2dULXZjNHk4d0FmbUt5S2pVWmZhVHpxOC1oS3hrNnM1anp6TDRwN3g1TW1DbXNNMjlzeGJLMlBvQVF3bTd4V1RJMV9xcWRlZDJBZEE",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 07:32:21 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-08-15",
+        "2026-08-05"
+      ],
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-09-26",
+      "appearances": 3
+    },
+    {
+      "id": "7fc8f2babc435ccb",
+      "source": "Klaviyo",
+      "headline": "Abandoned Cart Benchmark Report: Rates & Statistics - Klaviyo",
+      "summary": "Abandoned Cart Benchmark Report: Rates & Statistics Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qa0xEa0hKb012eVdfLV9kOUs4X0VsaHBmVFoyZ2FwRm84SWl1UEh0VXMwclBGWGVRdnlpai1WY3VPMkZEQnRQbXc5eDJwamFfbjBzbm5GR1FucFBIcXpqLWQ5c3o?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qa0xEa0hKb012eVdfLV9kOUs4X0VsaHBmVFoyZ2FwRm84SWl1UEh0VXMwclBGWGVRdnlpai1WY3VPMkZEQnRQbXc5eDJwamFfbjBzbm5GR1FucFBIcXpqLWQ5c3o",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 23:41:48 GMT",
+      "sections": [
+        "quick-scan",
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-08-15"
+      ],
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
+    {
+      "id": "c4d5a15677c6db7a",
+      "source": "Klaviyo",
+      "headline": "8 email marketing metrics & KPIs to improve engagement - Klaviyo",
+      "summary": "8 email marketing metrics & KPIs to improve engagement Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbVN0RmRiQTA1LXBBVEZXUFhkcHNwcVJNcGwyeW1HSnBhanNMTndOTERYYkwzWU9GZUhTc2l3d2FTYUtmaUVVUWxKVG5GT3ZSaXpCWTQ1SWtXcWpoLU9KTnlR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbVN0RmRiQTA1LXBBVEZXUFhkcHNwcVJNcGwyeW1HSnBhanNMTndOTERYYkwzWU9GZUhTc2l3d2FTYUtmaUVVUWxKVG5GT3ZSaXpCWTQ1SWtXcWpoLU9KTnlR",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 07:14:02 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26",
+        "2026-08-05"
+      ],
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-09-26",
+      "appearances": 2
+    },
     {
       "id": "6211710b51034627",
       "source": "Good News Network",
@@ -129,25 +1444,6 @@
       "published": "Thu, 24 Sep 2026 17:46:00 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-25"
-      ],
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
-      "appearances": 1
-    },
-    {
-      "id": "21777b4cbc53ccf0",
-      "source": "Positive News",
-      "headline": "What went right this week: the good news that matters",
-      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
-      "canonical_url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 05:11:56 +0000",
-      "sections": [
-        "wonderful"
       ],
       "report_dates": [
         "2026-09-25"
@@ -326,29 +1622,6 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
       "appearances": 1
-    },
-    {
-      "id": "6a9edaa4595c2654",
-      "source": "Positive News",
-      "headline": "The race to get more young people in the UK into work, education or training",
-      "summary": "The UK has one of the highest NEET rates for young adults in Europe. New figures offer some encouragement",
-      "url": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
-      "canonical_url": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 09:39:04 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-25",
-        "2026-09-24",
-        "2026-09-23",
-        "2026-09-22",
-        "2026-09-21"
-      ],
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-25",
-      "appearances": 5
     },
     {
       "id": "4ac8a0ec7ac9d841",
@@ -1014,27 +2287,6 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
       "appearances": 1
-    },
-    {
-      "id": "b98da1c0a676d9c3",
-      "source": "Positive News",
-      "headline": "Gallery: winning pictures from Bird Photographer of the Year",
-      "summary": "A striking shot of a gannet flying through the water is among the winners of this year’s award",
-      "url": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
-      "canonical_url": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 07:00:14 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-09-25",
-        "2026-09-24",
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-25",
-      "appearances": 3
     },
     {
       "id": "338e565fd383f00f",
@@ -4249,25 +5501,6 @@
       "appearances": 1
     },
     {
-      "id": "6aaada1279965e0a",
-      "source": "BBC Health",
-      "headline": "The simple skincare routine for teens that actually works - and five expert tips",
-      "summary": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
-      "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4110/live/55f79c50-b66c-11f1-a430-4d16ee157c41.jpg",
-      "published": "Mon, 21 Sep 2026 23:28:26 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "appearances": 1
-    },
-    {
       "id": "0ad390726e3b74b5",
       "source": "Smithsonian",
       "headline": "The Ancient DNA of a Deadly Animal Virus Has Been Lurking in Medieval Manuscripts for Centuries, Researchers Find",
@@ -4384,25 +5617,6 @@
       "appearances": 1
     },
     {
-      "id": "c6e3e81e0474a661",
-      "source": "BBC Health",
-      "headline": "Scientists discover why Kent meningitis outbreak was so severe",
-      "summary": "The bacteria responsible picked up some new genetic material, say experts.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8901/live/48fac930-b650-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Tue, 22 Sep 2026 13:35:38 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "appearances": 1
-    },
-    {
       "id": "1d2b2455f0633620",
       "source": "Customer Data",
       "headline": "Salesforce’s Real Moat Behind Koa Is Its CRM Training Data - The Futurum Group",
@@ -4432,25 +5646,6 @@
       "published": "Tue, 22 Sep 2026 13:42:05 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "appearances": 1
-    },
-    {
-      "id": "e0bebba13a8d2372",
-      "source": "Medical Xpress",
-      "headline": "Researchers highlight how brain economy principles could transform clinical care - Medical Xpress",
-      "summary": "Researchers highlight how brain economy principles could transform clinical care Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHMzaDFnbHBqX2EwQ2g3MS1zNExoNWJwNTRJRjdFUHFLa0NOcnRILVU1ckFSMU9WZktYNk1KSzBJYWxIRXdRT1FFYnlqMUp0R2tYdFRwVjZ2ZkVoQl8xMFl6cWZHQ0dCVlIzUGRiZlFGMHRIbUVaZ25lQWFXNHJicC1lbUVlVDBfeEdrYnRoTWQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHMzaDFnbHBqX2EwQ2g3MS1zNExoNWJwNTRJRjdFUHFLa0NOcnRILVU1ckFSMU9WZktYNk1KSzBJYWxIRXdRT1FFYnlqMUp0R2tYdFRwVjZ2ZkVoQl8xMFl6cWZHQ0dCVlIzUGRiZlFGMHRIbUVaZ25lQWFXNHJicC1lbUVlVDBfeEdrYnRoTWQ",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 11:20:01 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-22"
@@ -4565,25 +5760,6 @@
       "published": "Tue, 22 Sep 2026 14:42:00 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "appearances": 1
-    },
-    {
-      "id": "59ebdddb1e5ae849",
-      "source": "BBC Health",
-      "headline": "Martha's Rule rolled out at every A&E department in England",
-      "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
-      "published": "Tue, 22 Sep 2026 08:32:32 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-22"
@@ -23796,27 +24972,6 @@
       "first_seen": "2026-09-06",
       "last_seen": "2026-09-06",
       "appearances": 1
-    },
-    {
-      "id": "8d2ac94a72906b87",
-      "source": "Reuters",
-      "headline": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field - ABC News - Breaking News, Latest News and Videos",
-      "summary": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkVkZW56VkUyRW5LU2ZWZnlDMVBfb1FVZ2NBbDF0a0RZQUttbkhTbTFVbkxOSzE4M0pjRHJjd1piR2xIODFNTWdmZkJhOENWTkpGWDlZSWVfd013cjIwZG9CelE1TzhVeFdUX3dUaUFIanlONlZ1QjNqcWVxY0V2UWdWYjNmNkVORDY0N21rSndtYjQ1TzMzMUI3LTF4ZUhOSjVPb3BGY9IBrAFBVV95cUxNZFRWMHVLWGFtcXk5R0owbHNxWEQxRGNJa28tckhnVzVvTlRZT0ZFbDR1UldTT2g5ejNGdE0tZndVdEV0Ni04ZDBNQlpDRTVPWVFZVjJtVmZPTjdoRHhEQVRiQjFDRkExYlpXc3psbE9hR0tEdnlOMzA5MEVybnZjVVc5UHZuLTlCZzZKM2xRYzVnZ3JhRjYzYnBLby0zR2VTZ3gtMjhmQmlpQURS?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkVkZW56VkUyRW5LU2ZWZnlDMVBfb1FVZ2NBbDF0a0RZQUttbkhTbTFVbkxOSzE4M0pjRHJjd1piR2xIODFNTWdmZkJhOENWTkpGWDlZSWVfd013cjIwZG9CelE1TzhVeFdUX3dUaUFIanlONlZ1QjNqcWVxY0V2UWdWYjNmNkVORDY0N21rSndtYjQ1TzMzMUI3LTF4ZUhOSjVPb3BGY9IBrAFBVV95cUxNZFRWMHVLWGFtcXk5R0owbHNxWEQxRGNJa28tckhnVzVvTlRZT0ZFbDR1UldTT2g5ejNGdE0tZndVdEV0Ni04ZDBNQlpDRTVPWVFZVjJtVmZPTjdoRHhEQVRiQjFDRkExYlpXc3psbE9hR0tEdnlOMzA5MEVybnZjVVc5UHZuLTlCZzZKM2xRYzVnZ3JhRjYzYnBLby0zR2VTZ3gtMjhmQmlpQURS",
-      "image": "",
-      "published": "Sun, 06 Sep 2026 10:18:56 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-06",
-        "2026-08-21"
-      ],
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-09-06",
-      "appearances": 2
     },
     {
       "id": "cb742bce4cc0e6e6",
@@ -50264,45 +51419,6 @@
       "appearances": 1
     },
     {
-      "id": "a4e42e9f0bda084d",
-      "source": "Klaviyo",
-      "headline": "Abandoned Cart Emails: 12 Best Practices with Examples - Klaviyo",
-      "summary": "Abandoned Cart Emails: 12 Best Practices with Examples Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VUtjUV9nejVjb2dULXZjNHk4d0FmbUt5S2pVWmZhVHpxOC1oS3hrNnM1anp6TDRwN3g1TW1DbXNNMjlzeGJLMlBvQVF3bTd4V1RJMV9xcWRlZDJBZEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VUtjUV9nejVjb2dULXZjNHk4d0FmbUt5S2pVWmZhVHpxOC1oS3hrNnM1anp6TDRwN3g1TW1DbXNNMjlzeGJLMlBvQVF3bTd4V1RJMV9xcWRlZDJBZEE",
-      "image": "",
-      "published": "Sat, 15 Aug 2026 02:08:34 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-15",
-        "2026-08-05"
-      ],
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-15",
-      "appearances": 2
-    },
-    {
-      "id": "7fc8f2babc435ccb",
-      "source": "Klaviyo",
-      "headline": "Abandoned Cart Benchmark Report: Rates & Statistics - Klaviyo",
-      "summary": "Abandoned Cart Benchmark Report: Rates & Statistics Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qa0xEa0hKb012eVdfLV9kOUs4X0VsaHBmVFoyZ2FwRm84SWl1UEh0VXMwclBGWGVRdnlpai1WY3VPMkZEQnRQbXc5eDJwamFfbjBzbm5GR1FucFBIcXpqLWQ5c3o?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qa0xEa0hKb012eVdfLV9kOUs4X0VsaHBmVFoyZ2FwRm84SWl1UEh0VXMwclBGWGVRdnlpai1WY3VPMkZEQnRQbXc5eDJwamFfbjBzbm5GR1FucFBIcXpqLWQ5c3o",
-      "image": "",
-      "published": "Sat, 15 Aug 2026 03:03:15 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-15"
-      ],
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "appearances": 1
-    },
-    {
       "id": "b76682935694d66d",
       "source": "Good News Network",
       "headline": "97-Year-old is Overwhelmed to Attend Great-Granddaughter’s Graduation From Same Med School He Tackled 60 Years ago",
@@ -61915,25 +63031,6 @@
       "appearances": 1
     },
     {
-      "id": "a3caeb4900e4a3b8",
-      "source": "Klaviyo",
-      "headline": "Email Subject Line Best Practices & Examples to Boost Open Rates - Klaviyo",
-      "summary": "Email Subject Line Best Practices & Examples to Boost Open Rates Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMTRxRnhyQl9STml6cGJXYndmZUJVOFM1V0ZndHAwLU1nRl83REZ5UFl3UXZ6MVQwU2tRT0V3czF3aVoxdlBENXRQTXBHZ2JmRUMzV1pad3ZzVFBqM0dMaUJRTkFTMlpP?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMTRxRnhyQl9STml6cGJXYndmZUJVOFM1V0ZndHAwLU1nRl83REZ5UFl3UXZ6MVQwU2tRT0V3czF3aVoxdlBENXRQTXBHZ2JmRUMzV1pad3ZzVFBqM0dMaUJRTkFTMlpP",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 23:25:31 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-05"
-      ],
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
-      "appearances": 1
-    },
-    {
       "id": "a37045533fed83df",
       "source": "The Verge",
       "headline": "Don’t screw this up, Marvel",
@@ -62127,25 +63224,6 @@
       "first_seen": "2026-08-04",
       "last_seen": "2026-08-05",
       "appearances": 2
-    },
-    {
-      "id": "c4d5a15677c6db7a",
-      "source": "Klaviyo",
-      "headline": "8 email marketing metrics & KPIs to improve engagement - Klaviyo",
-      "summary": "8 email marketing metrics & KPIs to improve engagement Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbVN0RmRiQTA1LXBBVEZXUFhkcHNwcVJNcGwyeW1HSnBhanNMTndOTERYYkwzWU9GZUhTc2l3d2FTYUtmaUVVUWxKVG5GT3ZSaXpCWTQ1SWtXcWpoLU9KTnlR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbVN0RmRiQTA1LXBBVEZXUFhkcHNwcVJNcGwyeW1HSnBhanNMTndOTERYYkwzWU9GZUhTc2l3d2FTYUtmaUVVUWxKVG5GT3ZSaXpCWTQ1SWtXcWpoLU9KTnlR",
-      "image": "",
-      "published": "Wed, 05 Aug 2026 05:24:35 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-08-05"
-      ],
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
-      "appearances": 1
     },
     {
       "id": "f2a5b7870dd9a5de",
