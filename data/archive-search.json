@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T13:27:18.574555+00:00",
+  "generated_at": "2026-09-27T14:44:04.664737+00:00",
   "edition_count": 74,
-  "story_count": 4566,
+  "story_count": 4571,
   "stories": [
-    {
-      "id": "6c74cd0c8d048984",
-      "source": "Wisconsin Public Radio",
-      "headline": "‘This may just be the end’: Wisconsin farmers struggle to afford diesel during harvest season",
-      "summary": "In the last month, the average price of diesel in Wisconsin has climbed from around $5.30 per gallon to more than $6.50 per gallon.",
-      "url": "https://www.wpr.org/news/wisconsin-farmers-struggle-afford-diesel-harvest-season",
-      "canonical_url": "https://www.wpr.org/news/wisconsin-farmers-struggle-afford-diesel-harvest-season",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 20:51:36 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
     {
       "id": "1cc8e4f2b4ef4f93",
       "source": "Variety",
@@ -62,16 +43,16 @@
       "appearances": 1
     },
     {
-      "id": "b25ee381fa3139d4",
-      "source": "Ars Technica",
-      "headline": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "summary": "Ads appearing all over the Internet are trying to scam people.",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "canonical_url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
-      "published": "Fri, 25 Sep 2026 19:38:59 +0000",
+      "id": "011d091b17968a13",
+      "source": "Wisconsin News",
+      "headline": "Woman rescued from Wisconsin River in downtown Wausau - Wausau Pilot & Review",
+      "summary": "Woman rescued from Wisconsin River in downtown Wausau Wausau Pilot & Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnBEZURwTXhiRExqVWlab3hnWkZSbHpiNk1oSWJHWmNLamJHRmc0aXY3dS1VQ1pCREphRDFoN2VZckRpOFN3MS1MVmhoQjV4bFI1SHpNWW9lbWoyclNIRE4xd0l0V1E3OTVZeWR2Z18tclp3Q19ucDEtQzdWWGRMZVRjekhzREQ0SFZFazhBVTYyRkJYTk9NN0tieFJkWDg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnBEZURwTXhiRExqVWlab3hnWkZSbHpiNk1oSWJHWmNLamJHRmc0aXY3dS1VQ1pCREphRDFoN2VZckRpOFN3MS1MVmhoQjV4bFI1SHpNWW9lbWoyclNIRE4xd0l0V1E3OTVZeWR2Z18tclp3Q19ucDEtQzdWWGRMZVRjekhzREQ0SFZFazhBVTYyRkJYTk9NN0tieFJkWDg",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 11:30:31 GMT",
       "sections": [
-        "ai-tech"
+        "local"
       ],
       "report_dates": [
         "2026-09-27"
@@ -101,16 +82,16 @@
       "appearances": 2
     },
     {
-      "id": "ee699c5560ed8399",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "When what you see doesn’t make sense, your brain does something remarkable",
-      "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+      "id": "e3ec7ed3f8e1de04",
+      "source": "B2B Marketing Ops",
+      "headline": "Why measuring B2B marketing by leads fails - The Next Web",
+      "summary": "Why measuring B2B marketing by leads fails The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3lWYm94WW9UOXN4Skg1YjItaEdPV0lvRWNtamUwV0YxZC1CQ0h5Ym5zUTd5TDQzdFhFTFh4ejhhTXVWUlFZLTNNLS10NWdVQTB5Q0x2TEZWQ1lBNHBneWdTd1MzN0xqeHloYmFSNzJ0b01GRUFtWlgxMFAzUXNVdzdn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3lWYm94WW9UOXN4Skg1YjItaEdPV0lvRWNtamUwV0YxZC1CQ0h5Ym5zUTd5TDQzdFhFTFh4ejhhTXVWUlFZLTNNLS10NWdVQTB5Q0x2TEZWQ1lBNHBneWdTd1MzN0xqeHloYmFSNzJ0b01GRUFtWlgxMFAzUXNVdzdn",
       "image": "",
-      "published": "Thu, 24 Sep 2026 09:28:15 EDT",
+      "published": "Sun, 27 Sep 2026 14:23:55 GMT",
       "sections": [
-        "wellbeing"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-09-27"
@@ -118,6 +99,27 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-09-27",
       "appearances": 1
+    },
+    {
+      "id": "cd79bcdfd9b7826e",
+      "source": "BBC World",
+      "headline": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cxq633770y16o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "Sat, 26 Sep 2026 19:16:14 GMT",
+      "sections": [
+        "must-know",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
+      "appearances": 2
     },
     {
       "id": "21777b4cbc53ccf0",
@@ -141,6 +143,25 @@
       "appearances": 3
     },
     {
+      "id": "fd08a703613b0eaa",
+      "source": "UW-Madison Science",
+      "headline": "UW-Madison information related to Sept. 23 Langdon St. incident - UW–Madison News",
+      "summary": "UW-Madison information related to Sept. 23 Langdon St. incident UW–Madison News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTZuTDljS2Q1QlZ6SlZzZ2NDYVVwajdiT1phR09ZT2c2SC1pcTYtZTVhZmN4SGVCQzk0Z0REZWw5dUlfS09EWnJIMV9qRVB5QVpuay1WV0poZUQ1VURxSUdKYVQxZkh5WDBZTzRZc0JnQTNMaHU1XzRQd1hQemd1WldmZ2lyVmo5Y3JDbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTZuTDljS2Q1QlZ6SlZzZ2NDYVVwajdiT1phR09ZT2c2SC1pcTYtZTVhZmN4SGVCQzk0Z0REZWw5dUlfS09EWnJIMV9qRVB5QVpuay1WV0poZUQ1VURxSUdKYVQxZkh5WDBZTzRZc0JnQTNMaHU1XzRQd1hQemd1WldmZ2lyVmo5Y3JDbw",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 19:00:14 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
       "id": "a25c3a9948a9237e",
       "source": "BBC US & Canada",
       "headline": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
@@ -160,6 +181,46 @@
       "first_seen": "2026-09-26",
       "last_seen": "2026-09-27",
       "appearances": 2
+    },
+    {
+      "id": "5bbada5920f98eb3",
+      "source": "Reuters",
+      "headline": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 20:16:19 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-20",
+        "2026-09-07"
+      ],
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-27",
+      "appearances": 3
+    },
+    {
+      "id": "506501a7213f3085",
+      "source": "Reuters",
+      "headline": "UK police arrest several under explosives act in 'major incident' near US air base - ABC News - Breaking News, Latest News and Videos",
+      "summary": "UK police arrest several under explosives act in 'major incident' near US air base ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0RGX0JaUzFKcFVqbGFQZjg0VkZQVEpISF9wNXVIMGtCSUZuTjUzeUk5QmhsbXRYdjhXdzA4SEJQbmRjeUdDWjBER29fRHRTVDFWTVRDaDdpX0ctdXhKemItWFM4TUo2Nnl0ZU1XME12N3I4T0ZOa09BMVdOU0dyelhtOUFkc3V6b0JETXdmOFZZLXF2aGd4SUF4R2pZb29IYTRCcdIBqgFBVV95cUxPWmNLTHJ5Z0JUYlpPbkZkNGVlWVRSdWNQWXRXOUdFb1J1Y1NVNFhBS3Y3U2JuTkRGZ2U1NHdnSWoyamphVVhVTXMzdnNYVVdoRkhNSHh1X0lDSWZjNFIySXdXU0VkemVqczRVdEJ3ODJyLUJCWFJGUkxuU3dpelB5VUh5Vjlxc3BVYldHMXZ6dUJGRWtvSmJiMWNGekhXWEpoVGd1Z3YzZ0dxZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0RGX0JaUzFKcFVqbGFQZjg0VkZQVEpISF9wNXVIMGtCSUZuTjUzeUk5QmhsbXRYdjhXdzA4SEJQbmRjeUdDWjBER29fRHRTVDFWTVRDaDdpX0ctdXhKemItWFM4TUo2Nnl0ZU1XME12N3I4T0ZOa09BMVdOU0dyelhtOUFkc3V6b0JETXdmOFZZLXF2aGd4SUF4R2pZb29IYTRCcdIBqgFBVV95cUxPWmNLTHJ5Z0JUYlpPbkZkNGVlWVRSdWNQWXRXOUdFb1J1Y1NVNFhBS3Y3U2JuTkRGZ2U1NHdnSWoyamphVVhVTXMzdnNYVVdoRkhNSHh1X0lDSWZjNFIySXdXU0VkemVqczRVdEJ3ODJyLUJCWFJGUkxuU3dpelB5VUh5Vjlxc3BVYldHMXZ6dUJGRWtvSmJiMWNGekhXWEpoVGd1Z3YzZ0dxZw",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 11:39:04 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
     },
     {
       "id": "7edbdfb024c3ac63",
@@ -182,16 +243,54 @@
       "appearances": 2
     },
     {
-      "id": "4d8333746a059e19",
-      "source": "BBC Entertainment",
-      "headline": "Turner Prize gallery 'centre of creative universe'",
-      "summary": "Work by four artists nominated for the prize will go on display from 26 September.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4e/live/f66bd390-b842-11f1-aeab-cbd1b7662429.jpg",
-      "published": "Fri, 25 Sep 2026 05:12:36 GMT",
+      "id": "36bcb469a22c4b3b",
+      "source": "Dane County",
+      "headline": "Two arrested in UW-Madison hazing investigation involving unrecognized fraternity - WTMJ",
+      "summary": "Two arrested in UW-Madison hazing investigation involving unrecognized fraternity WTMJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWThNckJMN3F6QzRlWlIwTnE1aXZPcTZSWkdXUy1tUl9XT280WkJCNU1jVVUwekFsMXBvUDUyWDRvTFlTU0lZeHI1ZVY1Yk5JM1pEb25HMTI0UmVHcjIteVVZWEJJSG13dUlOMlFOWVBOMThLd042S1RFVnozcEVKb09xUVdEdFpCZm1tLWZDWmFDVjh1MGtiQTZ2T0dHV1U4RFZLXzV3VEVweXZoQmFYOFZ1ckIwdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWThNckJMN3F6QzRlWlIwTnE1aXZPcTZSWkdXUy1tUl9XT280WkJCNU1jVVUwekFsMXBvUDUyWDRvTFlTU0lZeHI1ZVY1Yk5JM1pEb25HMTI0UmVHcjIteVVZWEJJSG13dUlOMlFOWVBOMThLd042S1RFVnozcEVKb09xUVdEdFpCZm1tLWZDWmFDVjh1MGtiQTZ2T0dHV1U4RFZLXzV3VEVweXZoQmFYOFZ1ckIwdw",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 20:04:18 GMT",
       "sections": [
-        "entertainment"
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "a058ef9c40fd70e8",
+      "source": "Animals",
+      "headline": "TTD to upgrade goshalas to global standards with focus on animal welfare - The Hindu",
+      "summary": "TTD to upgrade goshalas to global standards with focus on animal welfare The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWY2c18xVVpCWERkdmc0eV9KRndRWEN2YU5UM3FtV1k4dDJ2RExfSmNuTUFTd1VKb2gtVDZ6SzZod3dfcFJhc2c0ZFlDdE1kSklJNlpMZFctZEtpdkJXTWROMVRkeG9abE1OS19LTWFhOGFTckhUaEZUeElhSXEzY1Z3MWFhbVN5aHg4RENXYkUzR09EYy1RZUlUSmt5Rk95dGY4UUx5VHRwaTYyUHNkTWNrR25hQmhPbnRBbkpVMlBfQUV4aG5QR1QyM3lyVmlwWWlsVDQwQUVOaDU3X0RV0gHmAUFVX3lxTFBKMmZpYTB4ZXkzckxTS2lwVzFfUGRXWU43R0tXeUtfT0FmNzdmTVlKV3o2R3U2UkxHLUphZXExQ2djMVNqcHQ2YWc1Qk9iQWU1UDY2S1FSNDRyeE00TThmQTFUYnBYOGlRTHZ5ZDhBdWFCc0l2U3l2WXVMc1ZoRUZqcDhQMWFlaUtpT1poSGwzUy10bDdYd0VYREJXV0dZdnVtYnl4eWN1OFFpQjR0OXF1c2Nwd0F5M0JOeVpxc1R0dC1TcDFZZTZmSWloRHZKa2k4UlZnWjFvRV9GaHJEVVkzcmtOa1RB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWY2c18xVVpCWERkdmc0eV9KRndRWEN2YU5UM3FtV1k4dDJ2RExfSmNuTUFTd1VKb2gtVDZ6SzZod3dfcFJhc2c0ZFlDdE1kSklJNlpMZFctZEtpdkJXTWROMVRkeG9abE1OS19LTWFhOGFTckhUaEZUeElhSXEzY1Z3MWFhbVN5aHg4RENXYkUzR09EYy1RZUlUSmt5Rk95dGY4UUx5VHRwaTYyUHNkTWNrR25hQmhPbnRBbkpVMlBfQUV4aG5QR1QyM3lyVmlwWWlsVDQwQUVOaDU3X0RV0gHmAUFVX3lxTFBKMmZpYTB4ZXkzckxTS2lwVzFfUGRXWU43R0tXeUtfT0FmNzdmTVlKV3o2R3U2UkxHLUphZXExQ2djMVNqcHQ2YWc1Qk9iQWU1UDY2S1FSNDRyeE00TThmQTFUYnBYOGlRTHZ5ZDhBdWFCc0l2U3l2WXVMc1ZoRUZqcDhQMWFlaUtpT1poSGwzUy10bDdYd0VYREJXV0dZdnVtYnl4eWN1OFFpQjR0OXF1c2Nwd0F5M0JOeVpxc1R0dC1TcDFZZTZmSWloRHZKa2k4UlZnWjFvRV9GaHJEVVkzcmtOa1RB",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 15:04:43 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "2e43c7ebc4bc0447",
+      "source": "Reuters",
+      "headline": "Trump-Xi takeaways: White House touts progress on artificial intelligence, Iran and exports - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Trump-Xi takeaways: White House touts progress on artificial intelligence, Iran and exports ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmZRUlBnVV9UZkQ0Y3Zwd0xUd1Y1WHRsMGpwdi1mN2xXVlNBelJ4TTRhR0ZCR0NNVGY3WV9rR09RVG1KTko3ZTY5Y29rYzAxWkl0cm8wTmZ3aVNpM3cteFBLNjZFbGZKMmVUVW9sRW5lb3F1STk3YlZzSnNWTU9LWTQzRVNLa05uNmM2TXpta242SEFnbXfSAZsBQVVfeXFMUEhOSUVHSG1XRXhfcjFBQUNNNjV3clA5OVhlRFJQRHJ6emZtdWVVcXpGSlpkUU1BT3pWRUIxRVVLdUNSS2lleXRqS3pSYXV3aGZTeXZuSW9sWFRCeVE1dmM1TEV6T2tISlQ5WXBTYVhXZE5tSU5QSGdVNXVMcXVDTGJKaG1LUXd1TWItb19ReVB3aXhSNTJ3MEFtUTQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmZRUlBnVV9UZkQ0Y3Zwd0xUd1Y1WHRsMGpwdi1mN2xXVlNBelJ4TTRhR0ZCR0NNVGY3WV9rR09RVG1KTko3ZTY5Y29rYzAxWkl0cm8wTmZ3aVNpM3cteFBLNjZFbGZKMmVUVW9sRW5lb3F1STk3YlZzSnNWTU9LWTQzRVNLa05uNmM2TXpta242SEFnbXfSAZsBQVVfeXFMUEhOSUVHSG1XRXhfcjFBQUNNNjV3clA5OVhlRFJQRHJ6emZtdWVVcXpGSlpkUU1BT3pWRUIxRVVLdUNSS2lleXRqS3pSYXV3aGZTeXZuSW9sWFRCeVE1dmM1TEV6T2tISlQ5WXBTYVhXZE5tSU5QSGdVNXVMcXVDTGJKaG1LUXd1TWItb19ReVB3aXhSNTJ3MEFtUTQ",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 17:27:15 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-27"
@@ -226,10 +325,10 @@
       "summary": "It's rare for Democrats to make religion a centerpiece of their campaigns. But this midterm election cycle, a number of candidates for Congress are doing just that.",
       "url": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
       "canonical_url": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
-      "image": "",
+      "image": "assets/images/clementine-madison-morning.webp",
       "published": "Sun, 27 Sep 2026 06:00:00 -0400",
       "sections": [
-        "must-know"
+        "big-story"
       ],
       "report_dates": [
         "2026-09-27"
@@ -283,63 +382,6 @@
       "appearances": 7
     },
     {
-      "id": "391cdb68232bd6e0",
-      "source": "MIT Technology Review",
-      "headline": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "canonical_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
-      "id": "e2adda6bbee7ba5f",
-      "source": "Ars Technica",
-      "headline": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-      "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-      "canonical_url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-      "published": "Sat, 26 Sep 2026 10:45:09 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
-      "id": "be11f7d1d629dcf0",
-      "source": "Ars Technica",
-      "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "canonical_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
-      "published": "Fri, 25 Sep 2026 21:10:51 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
       "id": "97a8c19e1bf53221",
       "source": "BBC Health",
       "headline": "Ten NHS staff removed over Noah Woods data breach",
@@ -347,7 +389,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0867/live/18be96e0-ba36-11f1-a238-613d75ce6f97.jpg",
-      "published": "Sun, 27 Sep 2026 11:08:10 GMT",
+      "published": "Sun, 27 Sep 2026 13:25:27 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -359,16 +401,16 @@
       "appearances": 1
     },
     {
-      "id": "bc90d30a382340ab",
-      "source": "BBC US & Canada",
-      "headline": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "summary": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c708/live/4e426b20-b9b9-11f1-8b0a-2d37feea76dc.png",
-      "published": "Sat, 26 Sep 2026 15:12:25 GMT",
+      "id": "62f22d27c0d5ed1f",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift’s ‘Patient Zero’ cover art includes this perfect date-night top - Page Six",
+      "summary": "Taylor Swift’s ‘Patient Zero’ cover art includes this perfect date-night top Page Six",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEpYbFU2dmR1VFRPb1hZanNPZzFGb2lXNXBXUkJxM05Ya3psbGtXZlhrNzZidmkzaWpmS0RITXpvOGt6STF5TEZ0VE1wNXhLMGc1MDJJd2FFRjF1aDJkR3IxSUo3LXRmeDlEcTRUcEhrV0V3Q0lpcTg1S1o1bThYZGg5ZXowSHVGMlhwUloweFo0TURoTFZFbjY4aHA1b1lXeHpWM0sza3ZVUks3WHBj?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEpYbFU2dmR1VFRPb1hZanNPZzFGb2lXNXBXUkJxM05Ya3psbGtXZlhrNzZidmkzaWpmS0RITXpvOGt6STF5TEZ0VE1wNXhLMGc1MDJJd2FFRjF1aDJkR3IxSUo3LXRmeDlEcTRUcEhrV0V3Q0lpcTg1S1o1bThYZGg5ZXowSHVGMlhwUloweFo0TURoTFZFbjY4aHA1b1lXeHpWM0sza3ZVUks3WHBj",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 21:17:00 GMT",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-09-27"
@@ -376,6 +418,123 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-09-27",
       "appearances": 1
+    },
+    {
+      "id": "9824c4a1217261fc",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift sells out $40 Kansas City Chiefs tank top in less than 24 hours - FOX4KC.com",
+      "summary": "Taylor Swift sells out $40 Kansas City Chiefs tank top in less than 24 hours FOX4KC.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnA2UGtIMmNFY1V0VlBSQTBiMUtHWVVacGtTN3M5SE9vOHNvNkxiLUk2Mk5RaFp2cmg1NENRbVpEWVdzTXJndUpna01BZWRCUVlSZ19pTmFDSHE0ZllJdXZkYUZmS3NiYTNaWXlCNC1Fc2VHS3l0LTJJRlpkZGpnSExadFo3VVlrVUUtSjkzQ2NNbDdvUGc2d3VCaDF6MFZUWmZFVdIBqgFBVV95cUxPSENsajhCaFRfdFhqejFWNnJGa0xxbFl5SDlFWW4xdXY2aFUxeGpGVzlIWWh0LWRkYUxkOThMbUxYajBYNVZRcEw1QUV6eExUT1loWGF0LWdXUjhlR3M4WEhFOUVsRmJhVGhQaEEwSXdZMWZJclowLWc1U2xHQWthSUNuV28xcVRsWHU5YVB5RjdmeVN0SFZCMjVxWUtobFJTTTg4WmNlUVZUZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnA2UGtIMmNFY1V0VlBSQTBiMUtHWVVacGtTN3M5SE9vOHNvNkxiLUk2Mk5RaFp2cmg1NENRbVpEWVdzTXJndUpna01BZWRCUVlSZ19pTmFDSHE0ZllJdXZkYUZmS3NiYTNaWXlCNC1Fc2VHS3l0LTJJRlpkZGpnSExadFo3VVlrVUUtSjkzQ2NNbDdvUGc2d3VCaDF6MFZUWmZFVdIBqgFBVV95cUxPSENsajhCaFRfdFhqejFWNnJGa0xxbFl5SDlFWW4xdXY2aFUxeGpGVzlIWWh0LWRkYUxkOThMbUxYajBYNVZRcEw1QUV6eExUT1loWGF0LWdXUjhlR3M4WEhFOUVsRmJhVGhQaEEwSXdZMWZJclowLWc1U2xHQWthSUNuV28xcVRsWHU5YVB5RjdmeVN0SFZCMjVxWUtobFJTTTg4WmNlUVZUZw",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 14:39:06 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-22"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-27",
+      "appearances": 2
+    },
+    {
+      "id": "426392a42fd912e4",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift References Her and Travis Kelce’s Wedding on New Song ‘Cleveland!’: ‘Now I’m Wearing White’ - People.com",
+      "summary": "Taylor Swift References Her and Travis Kelce’s Wedding on New Song ‘Cleveland!’: ‘Now I’m Wearing White’ People.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0hfR3hCNTdyZEYxcUFCNUJIVmhRSEMxVHVyeU16U0daOU9MZkR1MzgteHBSOWQ4V3ItVHVFVHFCc19iMXRBUzF1ZzRtR0VfYmVabWthcGxIRUVYZ2FOYjRFN25ZaWppS1pzNDV2cTdOTkJ4NzdjWGJyZkZuczlXbFhYaV9RaEZCNWp3dFNhRXBvTDRkRk9hOVBid1kzVVZEcVRha0Z3d3pDSDV0VW1IMlFGNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0hfR3hCNTdyZEYxcUFCNUJIVmhRSEMxVHVyeU16U0daOU9MZkR1MzgteHBSOWQ4V3ItVHVFVHFCc19iMXRBUzF1ZzRtR0VfYmVabWthcGxIRUVYZ2FOYjRFN25ZaWppS1pzNDV2cTdOTkJ4NzdjWGJyZkZuczlXbFhYaV9RaEZCNWp3dFNhRXBvTDRkRk9hOVBid1kzVVZEcVRha0Z3d3pDSDV0VW1IMlFGNA",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 09:42:03 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "ca5f676e5f09d8a2",
+      "source": "Wisconsin News",
+      "headline": "Takeaways from Wisconsin football's improbable comeback vs. Penn State - Badgers Wire",
+      "summary": "Takeaways from Wisconsin football's improbable comeback vs. Penn State Badgers Wire",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXBKV3hSakxHLUhwLTViMnd3NE1uUGFoQmZvaXMwSkJEeVlCM1RibHY1azZZbFlNTUZiMlBiMy14OVI2RUx2VTZSZVV0czZvZVZCWjRsd2Nwckp5N0x6WmJiTU04NHJIbHZvdkd0eGFES0VZcUZlYUJjcTRMNGU3WHgzbTViOUtRd3pQREVtZW13SmpZM3EtanlybXBmYUNsOGU1ZlRINm5QM0lCZEZVR2RCbnUxRjBpQjlrTkpFX0Rmc1U?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXBKV3hSakxHLUhwLTViMnd3NE1uUGFoQmZvaXMwSkJEeVlCM1RibHY1azZZbFlNTUZiMlBiMy14OVI2RUx2VTZSZVV0czZvZVZCWjRsd2Nwckp5N0x6WmJiTU04NHJIbHZvdkd0eGFES0VZcUZlYUJjcTRMNGU3WHgzbTViOUtRd3pQREVtZW13SmpZM3EtanlybXBmYUNsOGU1ZlRINm5QM0lCZEZVR2RCbnUxRjBpQjlrTkpFX0Rmc1U",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 11:02:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "67f0be9451e4e23a",
+      "source": "Wisconsin News",
+      "headline": "State of mental health in Wisconsin - Spectrum News",
+      "summary": "State of mental health in Wisconsin Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRE9Gb0NNOWdWc1g4bm42TldSdXNNT2ZZOTExWUlsNEhiZ3RUN250Q0xPNmRiLTRwb3l1TnVnN0Q3NThSX2t2VDN2a0YwbmhocWFjT25lbEZ1R05TLUdZX3FLbEo3c2tKc1Vpd09GLXJFcGc1REtud1E2ZnBnQkxfWnhiNXI2clFOdVR1RGJjQzYyR01ZOVoyUWRtYmlOUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRE9Gb0NNOWdWc1g4bm42TldSdXNNT2ZZOTExWUlsNEhiZ3RUN250Q0xPNmRiLTRwb3l1TnVnN0Q3NThSX2t2VDN2a0YwbmhocWFjT25lbEZ1R05TLUdZX3FLbEo3c2tKc1Vpd09GLXJFcGc1REtud1E2ZnBnQkxfWnhiNXI2clFOdVR1RGJjQzYyR01ZOVoyUWRtYmlOUQ",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "2d8633d9c0368c96",
+      "source": "Audubon",
+      "headline": "Smoke from Wildfires Is a Growing Health Threat to Both People and Birds - National Audubon Society",
+      "summary": "Smoke from Wildfires Is a Growing Health Threat to Both People and Birds National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGNvXzh3OGJBQk93eUpUQXR4eFVPRGh4cFVHU3FoOEZRdFBmaTQ5Q1ZQR19EQ0NfVXNIaGhTbjB3VEpJVUY3SndObUpEbzNfX2Vvejg3TUJqT2JkdGk2bWRxT1BxYlNxMHlJandjaVV4cm5WWnRmLXFJRnd3MUZkY01Fb1U5cmg3VU9WcExTZGJaMnhSbmMw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGNvXzh3OGJBQk93eUpUQXR4eFVPRGh4cFVHU3FoOEZRdFBmaTQ5Q1ZQR19EQ0NfVXNIaGhTbjB3VEpJVUY3SndObUpEbzNfX2Vvejg3TUJqT2JkdGk2bWRxT1BxYlNxMHlJandjaVV4cm5WWnRmLXFJRnd3MUZkY01Fb1U5cmg3VU9WcExTZGJaMnhSbmMw",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 17:06:24 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-19"
+      ],
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-27",
+      "appearances": 2
+    },
+    {
+      "id": "ae6e23a15dc2efbd",
+      "source": "Marketing Ops",
+      "headline": "ServiceTitan Data Breach Lawsuit Investigation - Claim Depot",
+      "summary": "ServiceTitan Data Breach Lawsuit Investigation Claim Depot",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YXBjd3lUUXdRTUVGeTNKaUpZMnZVY1lWVkJJd1NldVA1N01pRlVNa3l3N1RLOVVNdzY2bU9DWGFoTnh5SUlteDdDdVI2X2EzbWU2elltT2xHWG45RmpQUlBSTFdjaGZ0LTdHSFZfQ1lub0pJcHEyRk96cw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YXBjd3lUUXdRTUVGeTNKaUpZMnZVY1lWVkJJd1NldVA1N01pRlVNa3l3N1RLOVVNdzY2bU9DWGFoTnh5SUlteDdDdVI2X2EzbWU2elltT2xHWG45RmpQUlBSTFdjaGZ0LTdHSFZfQ1lub0pJcHEyRk96cw",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 19:58:26 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-23"
+      ],
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-27",
+      "appearances": 2
     },
     {
       "id": "1a1ebc025f5608e8",
@@ -398,36 +557,16 @@
       "appearances": 2
     },
     {
-      "id": "9399511677129236",
-      "source": "BBC World",
-      "headline": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
-      "published": "Fri, 25 Sep 2026 20:47:49 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-27",
-        "2026-09-26"
-      ],
-      "first_seen": "2026-09-26",
-      "last_seen": "2026-09-27",
-      "appearances": 2
-    },
-    {
-      "id": "a5aac17aa304c12c",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "Rare pregnancy infections may triple the risk of autism",
-      "summary": "A major Swedish study of 3.7 million people has found that rare TORCH infections passed from a pregnant woman to the fetus are linked to much higher risks of autism and intellectual disability later in life. Children with a congenital TORCH infection were about three times more likely to be diagnosed with autism, more than seven times more likely to have an intellectual disability, and up to 30 times more likely to have…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
+      "id": "535015e50a57380e",
+      "source": "Associated Press",
+      "headline": "Russia's top diplomat rejects German calls to ease off its `dangerous' escalation toward the country - AP News",
+      "summary": "Russia's top diplomat rejects German calls to ease off its `dangerous' escalation toward the country AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU14aTYxS3I5YTNMLVhSTEljNmc1cExlcmhSZ3hVa2NmQ0JlVkRCbEo2NFJ4QTlBXzhqU181WjBrUEFyYzc4dnpOamZDOTRNRGdDbnBCZV9xaWE0YUJBUkJQRHVxMHlHbk9aRmd1bG9LRTlxSWtRZlBOSkhtUDdOR29EVGQ3bXBPbWFjZ3pXYzhXaEl5cDkwejlOX3dpSzAyd3pPV01OMUNuQVM4RGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU14aTYxS3I5YTNMLVhSTEljNmc1cExlcmhSZ3hVa2NmQ0JlVkRCbEo2NFJ4QTlBXzhqU181WjBrUEFyYzc4dnpOamZDOTRNRGdDbnBCZV9xaWE0YUJBUkJQRHVxMHlHbk9aRmd1bG9LRTlxSWtRZlBOSkhtUDdOR29EVGQ3bXBPbWFjZ3pXYzhXaEl5cDkwejlOX3dpSzAyd3pPV01OMUNuQVM4RGc",
       "image": "",
-      "published": "Wed, 23 Sep 2026 09:11:59 EDT",
+      "published": "Sun, 27 Sep 2026 02:14:00 GMT",
       "sections": [
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
         "2026-09-27"
@@ -456,16 +595,16 @@
       "appearances": 1
     },
     {
-      "id": "9f14608cc2882b51",
-      "source": "NPR Music",
-      "headline": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "summary": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
-      "canonical_url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+      "id": "f0798ef3d6ce19ad",
+      "source": "Dane County",
+      "headline": "Police in­ves­tigate 'un­rec­og­nized' UW-Madison fra­ternity Alpha Epsilon Pi for hazing - Spectrum News",
+      "summary": "Police in­ves­tigate 'un­rec­og­nized' UW-Madison fra­ternity Alpha Epsilon Pi for hazing Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm11SUdvNHRVRGRyV0xadG1leWtSSFBreG9xanR2N0NtMExzYzZscHhTQVh5bElnZkFZaGtMUWJWVVFyUURhREl2Tm1mVjB0QVYyaEdlcEZkTU54OXhmYjVQemVudDZJSEdJZFdzOURDWnFEUmJ0WGJtNnNSSnNmYXVwa2QxYXAxdFczam9qdTR4MnpxamV3YTFSSjNmWE12LUFv?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm11SUdvNHRVRGRyV0xadG1leWtSSFBreG9xanR2N0NtMExzYzZscHhTQVh5bElnZkFZaGtMUWJWVVFyUURhREl2Tm1mVjB0QVYyaEdlcEZkTU54OXhmYjVQemVudDZJSEdJZFdzOURDWnFEUmJ0WGJtNnNSSnNmYXVwa2QxYXAxdFczam9qdTR4MnpxamV3YTFSSjNmWE12LUFv",
       "image": "",
-      "published": "Sun, 27 Sep 2026 08:00:00 -0400",
+      "published": "Thu, 24 Sep 2026 19:13:00 GMT",
       "sections": [
-        "entertainment"
+        "local"
       ],
       "report_dates": [
         "2026-09-27"
@@ -475,16 +614,16 @@
       "appearances": 1
     },
     {
-      "id": "3d515067f5a3c1ad",
-      "source": "NPR",
-      "headline": "Photos: These shepherds climb down a mountain to go to night school",
-      "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
-      "url": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-      "canonical_url": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+      "id": "ce4bb191809124de",
+      "source": "Madison Local",
+      "headline": "Police investigate alleged hazing at frat house near the University of Wisconsin-Madison - WTHR",
+      "summary": "Police investigate alleged hazing at frat house near the University of Wisconsin-Madison WTHR",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVlRoRG5NZy1fLVdOZHlFakVSeDlTS2VZUGlOZjVsN0FVQjhfWTM5T1VGZC1fZ24wem1wdzFjb01wMGozandRRXRraHljOF9pWG5mU0JWUjF3WF9fYURxd2F6VzZaUk95X0JYSmwwV3JIbnNQdGsxS2VMV3dOVi1MVEFNVlY5OUliclhFV0ZaeTNUNzMxNVg1akpMT0Nqb19VV3JzaEtLZEZ6NFFqVHR4TkVfWkJGTXd5VTNINHlqTmtYTjVldElva2JBUzhkTjZHUmxudm1xejZDczZ6OVMtWWN2eFNMa2IyZmx3ZWgwM3BLb0FwVWNhLW80LVk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVlRoRG5NZy1fLVdOZHlFakVSeDlTS2VZUGlOZjVsN0FVQjhfWTM5T1VGZC1fZ24wem1wdzFjb01wMGozandRRXRraHljOF9pWG5mU0JWUjF3WF9fYURxd2F6VzZaUk95X0JYSmwwV3JIbnNQdGsxS2VMV3dOVi1MVEFNVlY5OUliclhFV0ZaeTNUNzMxNVg1akpMT0Nqb19VV3JzaEtLZEZ6NFFqVHR4TkVfWkJGTXd5VTNINHlqTmtYTjVldElva2JBUzhkTjZHUmxudm1xejZDczZ6OVMtWWN2eFNMa2IyZmx3ZWgwM3BLb0FwVWNhLW80LVk",
       "image": "",
-      "published": "Sun, 27 Sep 2026 07:53:42 -0400",
+      "published": "Sun, 27 Sep 2026 14:37:00 GMT",
       "sections": [
-        "must-know"
+        "local"
       ],
       "report_dates": [
         "2026-09-27"
@@ -494,16 +633,16 @@
       "appearances": 1
     },
     {
-      "id": "96c7d053ceec40a5",
-      "source": "NPR",
-      "headline": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
-      "canonical_url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "id": "b87d0b2fc127bc7a",
+      "source": "Associated Press",
+      "headline": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - AP News",
+      "summary": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ",
       "image": "",
-      "published": "Sat, 26 Sep 2026 13:10:04 -0400",
+      "published": "Sat, 26 Sep 2026 23:18:00 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-27"
@@ -552,16 +691,16 @@
       "appearances": 2
     },
     {
-      "id": "77daa2329f11d000",
-      "source": "BBC World",
-      "headline": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Sun, 27 Sep 2026 12:34:26 GMT",
+      "id": "5c7c30026dd7af16",
+      "source": "NPR",
+      "headline": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "canonical_url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 08:06:23 -0400",
       "sections": [
-        "big-story"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-27"
@@ -609,25 +748,6 @@
       "appearances": 1
     },
     {
-      "id": "4fbfa5e112ce49e5",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "More REM sleep linked to lower risk of 83 diseases",
-      "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower risks of conditions such as type 2 diabetes and major depression.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 23:58:30 EDT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
       "id": "e1bdc71ee5b7c143",
       "source": "Smithsonian",
       "headline": "Meet Bubbles, a Dolphin in Australia Who Chases Fish Until They Barf—Then Eats Their Upchucked Meals",
@@ -646,25 +766,6 @@
       "first_seen": "2026-09-23",
       "last_seen": "2026-09-27",
       "appearances": 2
-    },
-    {
-      "id": "9c4336ede5220d55",
-      "source": "Variety",
-      "headline": "Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’",
-      "summary": "Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or",
-      "url": "https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/",
-      "canonical_url": "https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MixCollage-27-Sep-2026-08-13-AM-6313.jpg",
-      "published": "Sun, 27 Sep 2026 11:54:24 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
     },
     {
       "id": "d99022c7dbdd7d46",
@@ -686,9 +787,49 @@
       "appearances": 1
     },
     {
+      "id": "05dac6a83b9b30d1",
+      "source": "Wisconsin Public Radio",
+      "headline": "Madison art museum debuts new exhibition using generative AI amidst pushback",
+      "summary": "A new exhibition in the Madison Museum of Contemporary Art uses generative artificial intelligence to allow viewers to manipulate digital artwork. More than 900 people have signed an open letter calling to shut down the project due to the project’s AI use.",
+      "url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
+      "canonical_url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 21:06:00 +0000",
+      "sections": [
+        "local",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-27",
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
+      "appearances": 2
+    },
+    {
+      "id": "b2fb8ba2c9148daa",
+      "source": "AI News",
+      "headline": "Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development - The North State Journal",
+      "summary": "Lawsuit alleges Anthropic, OpenAI, SpaceXAI, Google colluded to slow AI development The North State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmhyWWM2OUlRY1BrQUtQcjU1NW55Z0NXcUtqWUJnV1NUNDRSSTRIN2tJOFRXci1JYjg0RHJxa052QzRKYUtPR1ZKeVh6VXFaLWxVZndwUkVxV3pra0g2Tkd1NjEtbFI0Y2RmVDJsTTJPWWo1S1d2Q0h5b3dwamZkSjlhUHppUXNlQm1oemJ6Smp2REdRRFFpNjhGNERGbzhWc0pNelRaVk1jTDJMNXBndlhEblV3MXZKMmpv?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmhyWWM2OUlRY1BrQUtQcjU1NW55Z0NXcUtqWUJnV1NUNDRSSTRIN2tJOFRXci1JYjg0RHJxa052QzRKYUtPR1ZKeVh6VXFaLWxVZndwUkVxV3pra0g2Tkd1NjEtbFI0Y2RmVDJsTTJPWWo1S1d2Q0h5b3dwamZkSjlhUHppUXNlQm1oemJ6Smp2REdRRFFpNjhGNERGbzhWc0pNelRaVk1jTDJMNXBndlhEblV3MXZKMmpv",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 19:25:59 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
       "id": "bf91dce95af609fb",
       "source": "BBC World",
-      "headline": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+      "headline": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
       "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo",
@@ -864,25 +1005,42 @@
       "appearances": 1
     },
     {
-      "id": "15a216059ddcae4e",
-      "source": "Wisconsin Public Radio",
-      "headline": "Enbridge estimates gas leak on Line 5 in northern Wisconsin will cost $15M",
-      "summary": "A report filed with federal regulators estimates an August gas leak on Enbridge’s Line 5 oil and gas pipeline in northern Wisconsin will cost at least $15.1 million.",
-      "url": "https://www.wpr.org/news/enbridge-estimates-gas-leak-on-line-5-in-northern-wisconsin-will-cost-15m",
-      "canonical_url": "https://www.wpr.org/news/enbridge-estimates-gas-leak-on-line-5-in-northern-wisconsin-will-cost-15m",
+      "id": "e8173d50ae960245",
+      "source": "Customer Data",
+      "headline": "Explaining data enrichment - PPC Land",
+      "summary": "Explaining data enrichment PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VZVpFZGdFMTQxa19pYy1vTXNNNmg4ak9sQWhURHFkZ2d0VzBwVE5BWTl0b1R1TEtTekE2bUpIWm5CS2hlenRfZA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VZVpFZGdFMTQxa19pYy1vTXNNNmg4ak9sQWhURHFkZ2d0VzBwVE5BWTl0b1R1TEtTekE2bUpIWm5CS2hlenRfZA",
       "image": "",
-      "published": "Fri, 25 Sep 2026 14:56:13 +0000",
+      "published": "Sat, 26 Sep 2026 16:02:36 GMT",
       "sections": [
-        "local",
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-09-27",
-        "2026-09-25"
+        "2026-09-27"
       ],
-      "first_seen": "2026-09-25",
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27",
-      "appearances": 2
+      "appearances": 1
+    },
+    {
+      "id": "5c04e02ffd5bce20",
+      "source": "Wisconsin Watch",
+      "headline": "Enbridge estimates northern Wisconsin Line 5 gas leak will cost $15M - Wisconsin Watch",
+      "summary": "Enbridge estimates northern Wisconsin Line 5 gas leak will cost $15M Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1JQWHBmRnR1d2pfN1ZyaE5scmV2a3RDQnZFU0hucmFYd1ZjSWJ2NGNZQlVPTWVQWmdLcHFjVUNxdEZRWmh2cmp0R3dDRGFPalVJNkNYSGlrOVZZSjNtVEh5RDBTa2t5QlRsbzh6NXJSSE4tZUQwMER5VV9ZWVZhaVB6TlNkZDVtWmhwdnZuVE5Nck9BV0dDVUxpRi1CdFhyYThRNXRn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1JQWHBmRnR1d2pfN1ZyaE5scmV2a3RDQnZFU0hucmFYd1ZjSWJ2NGNZQlVPTWVQWmdLcHFjVUNxdEZRWmh2cmp0R3dDRGFPalVJNkNYSGlrOVZZSjNtVEh5RDBTa2t5QlRsbzh6NXJSSE4tZUQwMER5VV9ZWVZhaVB6TlNkZDVtWmhwdnZuVE5Nck9BV0dDVUxpRi1CdFhyYThRNXRn",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 11:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
     },
     {
       "id": "082a02adf03a34dd",
@@ -905,42 +1063,24 @@
       "appearances": 2
     },
     {
-      "id": "c5ccd9b5dfb014cd",
-      "source": "Wisconsin Public Radio",
-      "headline": "Doors Open Milwaukee invites visitors to explore local history hidden in plain sight",
-      "summary": "This year’s event takes place Saturday and Sunday, Sept. 26-27, at nearly 200 locations around the city.",
-      "url": "https://www.wpr.org/news/doors-open-milwaukee-history-hidden-plain-sight",
-      "canonical_url": "https://www.wpr.org/news/doors-open-milwaukee-history-hidden-plain-sight",
+      "id": "3976d4d4b030711f",
+      "source": "Salesforce",
+      "headline": "CRM Stock Quote Price and Forecast - CNN",
+      "summary": "CRM Stock Quote Price and Forecast CNN",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ3VtN25Fc01jR3E3SlVKdWU1Zlh2bV9IRzBMdGQwTnlGbGo4Mmw4QVFuUGhuTEdoRXNnNHphY0FoYVFZSFlSVWVIVjUzNXM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ3VtN25Fc01jR3E3SlVKdWU1Zlh2bV9IRzBMdGQwTnlGbGo4Mmw4QVFuUGhuTEdoRXNnNHphY0FoYVFZSFlSVWVIVjUzNXM",
       "image": "",
-      "published": "Fri, 25 Sep 2026 20:58:55 +0000",
+      "published": "Fri, 25 Sep 2026 20:16:57 GMT",
       "sections": [
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-09-27"
+        "2026-09-27",
+        "2026-09-20"
       ],
-      "first_seen": "2026-09-27",
+      "first_seen": "2026-09-20",
       "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
-      "id": "da584ee6237381d0",
-      "source": "Wisconsin Public Radio",
-      "headline": "Democrats hope data center opposition will help flip Assembly district held by GOP since 1970s",
-      "summary": "Democrats trying to flip a Wisconsin Assembly seat long held by Republicans are hoping anti-data center sentiment will help them oust a GOP incumbent they call the \"architect\" of tax breaks spurring a data center building boom in Wisconsin.",
-      "url": "https://www.wpr.org/news/democrats-hope-data-center-opposition-will-help-flip-assembly-district-held-by-gop-since-1970s",
-      "canonical_url": "https://www.wpr.org/news/democrats-hope-data-center-opposition-will-help-flip-assembly-district-held-by-gop-since-1970s",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 19:15:32 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "11e0c86f4bf67b55",
@@ -1062,16 +1202,35 @@
       "appearances": 2
     },
     {
-      "id": "dbf9cc7c78e29a4a",
-      "source": "BBC US & Canada",
-      "headline": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1485/live/6664e170-b922-11f1-b685-519146636d7f.jpg",
-      "published": "Sat, 26 Sep 2026 01:24:31 GMT",
+      "id": "6cb4ea70ad9a3904",
+      "source": "Reuters",
+      "headline": "Boeing Flags 737 MAX Software Glitch Affecting Landing Navigation Feature, WSJ Reports - U.S. News & World Report",
+      "summary": "Boeing Flags 737 MAX Software Glitch Affecting Landing Navigation Feature, WSJ Reports U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmJDUFA0d3NZaWc5VGZHMkdhVVJBOExsa2ZraXBHWWFJMno5MFhuUVFhMzluUHowOXlzVXdkbmtpeEVWS2J0dUZtSEFKN0ZmUHNNcXMwNEdmai1KSUl0R3JQeDFoRHM2M1RVeFpmY1Zjc0hrZUd2MXFCc1VOZFlXQldBRFkzNWVfUHJ4dGpEVWl5TUM1am03VExXUTE4VUlFQUpvY1Q1aTZrZTVNNzJNTXRCQnFYci1lcHBWNEc1NlNYV2MwdWZNd2RYaXFoTV9HV1pCUHJHNkYyUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmJDUFA0d3NZaWc5VGZHMkdhVVJBOExsa2ZraXBHWWFJMno5MFhuUVFhMzluUHowOXlzVXdkbmtpeEVWS2J0dUZtSEFKN0ZmUHNNcXMwNEdmai1KSUl0R3JQeDFoRHM2M1RVeFpmY1Zjc0hrZUd2MXFCc1VOZFlXQldBRFkzNWVfUHJ4dGpEVWl5TUM1am03VExXUTE4VUlFQUpvY1Q1aTZrZTVNNzJNTXRCQnFYci1lcHBWNEc1NlNYV2MwdWZNd2RYaXFoTV9HV1pCUHJHNkYyUQ",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 18:37:00 GMT",
       "sections": [
-        "must-know"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "aa83af017ffcf271",
+      "source": "Medical Xpress",
+      "headline": "Beyond movement, the cerebellum may contribute to the anticipation of rewards - Medical Xpress",
+      "summary": "Beyond movement, the cerebellum may contribute to the anticipation of rewards Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlpuUGFybjF3aXhRT2czbUxqdEFBNnVjd2loRVdfNlVDaWFoTXB1b0R2TVFvODdxR0pkWk9aWnpuejM0VVJBN1N6Nk5iaHFBdi1jcHhGbE1kcDVOMDhUMUlfRHBaZFFVR2pYSVNCQUlVejl6bkcxQlhXWnRZWHV0dEdKcFMxX2E1NlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlpuUGFybjF3aXhRT2czbUxqdEFBNnVjd2loRVdfNlVDaWFoTXB1b0R2TVFvODdxR0pkWk9aWnpuejM0VVJBN1N6Nk5iaHFBdi1jcHhGbE1kcDVOMDhUMUlfRHBaZFFVR2pYSVNCQUlVejl6bkcxQlhXWnRZWHV0dEdKcFMxX2E1NlE",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 16:20:01 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-27"
@@ -1102,6 +1261,25 @@
       "appearances": 2
     },
     {
+      "id": "9f5583646ba80ef9",
+      "source": "B2B Marketing Ops",
+      "headline": "B2B sales teams estimate 32% of their CRM data is flawed, Firmable finds - PPC Land",
+      "summary": "B2B sales teams estimate 32% of their CRM data is flawed, Firmable finds PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmk2dmpVajFaSUxUbVliYXQtMTYtR2h0MXM2Ti1nVllqZ3JOb1pxUjh5d2cxcnlZUzhGakVNQlZ1Nld4dVRhR2w0cVpNRWw4NzB0aEVXdTZ4TGtwZ0owcndJVFBsMGNRVUpYRVU5cXZWSC1fVkQ5N20yYjNVczRrVncxblQtN1IzTEx0cTNVLWwyQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmk2dmpVajFaSUxUbVliYXQtMTYtR2h0MXM2Ti1nVllqZ3JOb1pxUjh5d2cxcnlZUzhGakVNQlZ1Nld4dVRhR2w0cVpNRWw4NzB0aEVXdTZ4TGtwZ0owcndJVFBsMGNRVUpYRVU5cXZWSC1fVkQ5N20yYjNVczRrVncxblQtN1IzTEx0cTNVLWwyQQ",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 15:02:36 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
       "id": "7597176acd00265f",
       "source": "The Verge",
       "headline": "Apple hit with $5.7 billion in damages over haptic patents",
@@ -1121,16 +1299,54 @@
       "appearances": 1
     },
     {
-      "id": "224e92aa3435a01a",
-      "source": "NPR Music",
-      "headline": "Angela Autumn brings a new sound to her Appalachian roots",
-      "summary": "Singer songwriter Angela Autumn's music starts with her Appalachian roots and then takes some surprising turns. She talks about the experiences that inspired the songs on her new album, 'Believer'.",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5978944/angela-autumn-brings-a-new-sound-to-her-appalachian-roots",
-      "canonical_url": "https://www.npr.org/2026/09/26/nx-s1-5978944/angela-autumn-brings-a-new-sound-to-her-appalachian-roots",
+      "id": "5cd3dff444865fc1",
+      "source": "AI News",
+      "headline": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled - Bozeman Daily Chronicle",
+      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLTlhR1ppWDcxYTh3dnZDYVpfZGhMeDZIVldJV0xYYWI5ZEc0NTNSaEFoLU8yTHJVWk1sOExmMExkOExNalNKcnZJODYxOE51TDc1dXJYa0pjd0RpcWFuclh4dkE2TEhxa1lzcHNoVDNFc2xpQWMzbXRRUFprVk9WcHdGNUI2M0ZTbFl4dGJBeWlQZzJhYVFfTFdoRlVNUEdLQnNrYUxNN0podWdyWjV4SWxYV2MzMEtGVjN4a3p0cHVwMnJ1SmYtajl0MkVXRktEb3BtWXBhTjhjWlhlRVFHQWxtdlFSQk5QenNMNGZsMkVERUExb201OS1WOWJvT01vRzFRd19mRXU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLTlhR1ppWDcxYTh3dnZDYVpfZGhMeDZIVldJV0xYYWI5ZEc0NTNSaEFoLU8yTHJVWk1sOExmMExkOExNalNKcnZJODYxOE51TDc1dXJYa0pjd0RpcWFuclh4dkE2TEhxa1lzcHNoVDNFc2xpQWMzbXRRUFprVk9WcHdGNUI2M0ZTbFl4dGJBeWlQZzJhYVFfTFdoRlVNUEdLQnNrYUxNN0podWdyWjV4SWxYV2MzMEtGVjN4a3p0cHVwMnJ1SmYtajl0MkVXRktEb3BtWXBhTjhjWlhlRVFHQWxtdlFSQk5QenNMNGZsMkVERUExb201OS1WOWJvT01vRzFRd19mRXU",
       "image": "",
-      "published": "Sat, 26 Sep 2026 17:13:50 -0400",
+      "published": "Sun, 27 Sep 2026 11:23:28 GMT",
       "sections": [
-        "entertainment"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "ab13087964b487df",
+      "source": "Reuters",
+      "headline": "Americans are down on the economy and concerned about costs: Polls - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Americans are down on the economy and concerned about costs: Polls ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 19:44:52 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "appearances": 1
+    },
+    {
+      "id": "bd821ef22bbf0bc1",
+      "source": "AI News",
+      "headline": "AI out of control: Federal system breaches, OpenAI and Anthropic halt training - bankingnews.gr",
+      "summary": "AI out of control: Federal system breaches, OpenAI and Anthropic halt training bankingnews.gr",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlNqcDlyTzdoQ0Zpd2g1RFJZZzJnWlNENEVQRThSNUpMcmRqQUNWak1NYlJoaUR4cHVSamFfV1ZCdlpGd2VVY010d1ZSQXRfRlhRaVhqTnEwZVJmM2hfU25KZ0dDV2FIekRJS2c2c1RSSmdJbnpwZjZLeGpRMllXRFBaZmxLWVlpRnhIaF8ycU9odzB0VDd2X3RPZ0hnNEh5RlhhXzdCZXVnWkUzbDc1blpoYUVVaGw4RXJyR3p6RmlXMWkwT0o4Y2t5LWdyTVhTMEE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlNqcDlyTzdoQ0Zpd2g1RFJZZzJnWlNENEVQRThSNUpMcmRqQUNWak1NYlJoaUR4cHVSamFfV1ZCdlpGd2VVY010d1ZSQXRfRlhRaVhqTnEwZVJmM2hfU25KZ0dDV2FIekRJS2c2c1RSSmdJbnpwZjZLeGpRMllXRFBaZmxLWVlpRnhIaF8ycU9odzB0VDd2X3RPZ0hnNEh5RlhhXzdCZXVnWkUzbDc1blpoYUVVaGw4RXJyR3p6RmlXMWkwT0o4Y2t5LWdyTVhTMEE",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 14:16:42 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-09-27"
@@ -1158,25 +1374,6 @@
       "first_seen": "2026-09-26",
       "last_seen": "2026-09-27",
       "appearances": 2
-    },
-    {
-      "id": "86eb69712a3a7911",
-      "source": "Wisconsin Public Radio",
-      "headline": "4 chicks from Wisconsin join the eastern migratory whooping crane population",
-      "summary": "Whooping cranes --- creeping back from the brink of extinction through intensive conservation efforts --- only produce one to two eggs per year.",
-      "url": "https://www.wpr.org/news/chicks-from-wisconsin-join-the-eastern-migratory-whooping-crane-population",
-      "canonical_url": "https://www.wpr.org/news/chicks-from-wisconsin-join-the-eastern-migratory-whooping-crane-population",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 10:00:00 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
     },
     {
       "id": "0ba51b2255bc0fdf",
@@ -1282,25 +1479,6 @@
       "canonical_url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b80/live/1170daa0-b910-11f1-bc1f-3f186ca4140c.jpg",
       "published": "Fri, 25 Sep 2026 18:41:13 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-09-26"
-      ],
-      "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26",
-      "appearances": 1
-    },
-    {
-      "id": "cd79bcdfd9b7826e",
-      "source": "BBC World",
-      "headline": "White House bars CNN from travelling with Trump on Air Force One",
-      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cxq633770y16o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Sat, 26 Sep 2026 05:09:09 GMT",
       "sections": [
         "must-know"
       ],
@@ -1552,6 +1730,25 @@
       "published": "Fri, 25 Sep 2026 16:11:00 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-26"
+      ],
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "appearances": 1
+    },
+    {
+      "id": "9399511677129236",
+      "source": "BBC World",
+      "headline": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
+      "published": "Fri, 25 Sep 2026 20:47:49 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-26"
@@ -1864,25 +2061,6 @@
       "first_seen": "2026-09-22",
       "last_seen": "2026-09-26",
       "appearances": 2
-    },
-    {
-      "id": "05dac6a83b9b30d1",
-      "source": "Wisconsin Public Radio",
-      "headline": "Madison art museum debuts new exhibition using generative AI amidst pushback",
-      "summary": "A new exhibition in the Madison Museum of Contemporary Art uses generative artificial intelligence to allow viewers to manipulate digital artwork. More than 900 people have signed an open letter calling to shut down the project due to the project’s AI use.",
-      "url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
-      "canonical_url": "https://www.wpr.org/news/madison-art-museum-new-exhibition-generative-ai-pushback",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 21:06:00 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-09-26"
-      ],
-      "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26",
-      "appearances": 1
     },
     {
       "id": "de895e80d6a42593",
@@ -3349,6 +3527,25 @@
       "published": "Fri, 25 Sep 2026 14:38:00 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-25"
+      ],
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "appearances": 1
+    },
+    {
+      "id": "15a216059ddcae4e",
+      "source": "Wisconsin Public Radio",
+      "headline": "Enbridge estimates gas leak on Line 5 in northern Wisconsin will cost $15M",
+      "summary": "A report filed with federal regulators estimates an August gas leak on Enbridge’s Line 5 oil and gas pipeline in northern Wisconsin will cost at least $15.1 million.",
+      "url": "https://www.wpr.org/news/enbridge-estimates-gas-leak-on-line-5-in-northern-wisconsin-will-cost-15m",
+      "canonical_url": "https://www.wpr.org/news/enbridge-estimates-gas-leak-on-line-5-in-northern-wisconsin-will-cost-15m",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 14:56:13 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-09-25"
@@ -5098,25 +5295,6 @@
       "appearances": 1
     },
     {
-      "id": "ae6e23a15dc2efbd",
-      "source": "Marketing Ops",
-      "headline": "ServiceTitan Data Breach Lawsuit Investigation - Claim Depot",
-      "summary": "ServiceTitan Data Breach Lawsuit Investigation Claim Depot",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YXBjd3lUUXdRTUVGeTNKaUpZMnZVY1lWVkJJd1NldVA1N01pRlVNa3l3N1RLOVVNdzY2bU9DWGFoTnh5SUlteDdDdVI2X2EzbWU2elltT2xHWG45RmpQUlBSTFdjaGZ0LTdHSFZfQ1lub0pJcHEyRk96cw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YXBjd3lUUXdRTUVGeTNKaUpZMnZVY1lWVkJJd1NldVA1N01pRlVNa3l3N1RLOVVNdzY2bU9DWGFoTnh5SUlteDdDdVI2X2EzbWU2elltT2xHWG45RmpQUlBSTFdjaGZ0LTdHSFZfQ1lub0pJcHEyRk96cw",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 19:58:26 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-23"
-      ],
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "appearances": 1
-    },
-    {
       "id": "95e8c1d43219c087",
       "source": "Braze",
       "headline": "September 2026 Bonfire Marketer of the Month: Juan Florez - braze.com",
@@ -6284,25 +6462,6 @@
       "first_seen": "2026-09-19",
       "last_seen": "2026-09-22",
       "appearances": 2
-    },
-    {
-      "id": "9824c4a1217261fc",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift sells out $40 Kansas City Chiefs tank top in less than 24 hours - FOX4KC.com",
-      "summary": "Taylor Swift sells out $40 Kansas City Chiefs tank top in less than 24 hours FOX4KC.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnA2UGtIMmNFY1V0VlBSQTBiMUtHWVVacGtTN3M5SE9vOHNvNkxiLUk2Mk5RaFp2cmg1NENRbVpEWVdzTXJndUpna01BZWRCUVlSZ19pTmFDSHE0ZllJdXZkYUZmS3NiYTNaWXlCNC1Fc2VHS3l0LTJJRlpkZGpnSExadFo3VVlrVUUtSjkzQ2NNbDdvUGc2d3VCaDF6MFZUWmZFVdIBqgFBVV95cUxPSENsajhCaFRfdFhqejFWNnJGa0xxbFl5SDlFWW4xdXY2aFUxeGpGVzlIWWh0LWRkYUxkOThMbUxYajBYNVZRcEw1QUV6eExUT1loWGF0LWdXUjhlR3M4WEhFOUVsRmJhVGhQaEEwSXdZMWZJclowLWc1U2xHQWthSUNuV28xcVRsWHU5YVB5RjdmeVN0SFZCMjVxWUtobFJTTTg4WmNlUVZUZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnA2UGtIMmNFY1V0VlBSQTBiMUtHWVVacGtTN3M5SE9vOHNvNkxiLUk2Mk5RaFp2cmg1NENRbVpEWVdzTXJndUpna01BZWRCUVlSZ19pTmFDSHE0ZllJdXZkYUZmS3NiYTNaWXlCNC1Fc2VHS3l0LTJJRlpkZGpnSExadFo3VVlrVUUtSjkzQ2NNbDdvUGc2d3VCaDF6MFZUWmZFVdIBqgFBVV95cUxPSENsajhCaFRfdFhqejFWNnJGa0xxbFl5SDlFWW4xdXY2aFUxeGpGVzlIWWh0LWRkYUxkOThMbUxYajBYNVZRcEw1QUV6eExUT1loWGF0LWdXUjhlR3M4WEhFOUVsRmJhVGhQaEEwSXdZMWZJclowLWc1U2xHQWthSUNuV28xcVRsWHU5YVB5RjdmeVN0SFZCMjVxWUtobFJTTTg4WmNlUVZUZw",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 14:39:06 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-22"
-      ],
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "appearances": 1
     },
     {
       "id": "4d27604ffc6e54d9",
@@ -8737,26 +8896,6 @@
       "appearances": 1
     },
     {
-      "id": "5bbada5920f98eb3",
-      "source": "Reuters",
-      "headline": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdvZHNQTkx1QWcyXzJicW9TMXA1aXJ0d2FGblJ5RTVCNUdDSmlicTNMVWk5MTR1dkxfZmdnbFQtN0N5UlVoTllwaXoxZ25OVHJGS0oxcGoxQkpMM0EwbE9TU25QY2pGdktkY1BZT0VDaEg5STdqeU9KVFN2UTBlNS16MEpNZGNFdVFrWURnZlZRYnUyemRkQ1lQZlJqQlpYZWFSZXdDY9IBrAFBVV95cUxOeDNvQUhTNGpnbFQzR1ZONi1kcGJ5VDJGV0tEVWpHUFFDSDJHcUwwejRHSG5JUnMxOGw2X3VEWFdqUUhpLVEyeENvR3VvNkdfbUJVcFpiM0puT19PbmNkSEVaalUwUGpkT0VpRUJIdkY3NWdDVU1kZGJVaXpTOFB6UTdvWXZFLTNqa3JPcy1KeDRZZTBoMXgtR204Q2phSlBESm94SFRXZ2xJbG9I",
-      "image": "",
-      "published": "Sun, 20 Sep 2026 07:47:05 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-09-20",
-        "2026-09-07"
-      ],
-      "first_seen": "2026-09-07",
-      "last_seen": "2026-09-20",
-      "appearances": 2
-    },
-    {
       "id": "899afd7f8b6e49bf",
       "source": "Reuters",
       "headline": "Trump Seeks to Bring Health-Research Funding Under His Control, Politico Reports - U.S. News & World Report",
@@ -9487,25 +9626,6 @@
       "appearances": 1
     },
     {
-      "id": "3976d4d4b030711f",
-      "source": "Salesforce",
-      "headline": "CRM Stock Quote Price and Forecast - CNN",
-      "summary": "CRM Stock Quote Price and Forecast CNN",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ3VtN25Fc01jR3E3SlVKdWU1Zlh2bV9IRzBMdGQwTnlGbGo4Mmw4QVFuUGhuTEdoRXNnNHphY0FoYVFZSFlSVWVIVjUzNXM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ3VtN25Fc01jR3E3SlVKdWU1Zlh2bV9IRzBMdGQwTnlGbGo4Mmw4QVFuUGhuTEdoRXNnNHphY0FoYVFZSFlSVWVIVjUzNXM",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 20:17:15 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-09-20"
-      ],
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "appearances": 1
-    },
-    {
       "id": "25acb0f3b830b2bd",
       "source": "BBC World",
       "headline": "Converse pulls 'deeply upsetting' advert after backlash",
@@ -10156,25 +10276,6 @@
       "published": "Fri, 18 Sep 2026 17:46:00 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-19"
-      ],
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "appearances": 1
-    },
-    {
-      "id": "2d8633d9c0368c96",
-      "source": "Audubon",
-      "headline": "Smoke from Wildfires Is a Growing Health Threat to Both People and Birds - National Audubon Society",
-      "summary": "Smoke from Wildfires Is a Growing Health Threat to Both People and Birds National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGNvXzh3OGJBQk93eUpUQXR4eFVPRGh4cFVHU3FoOEZRdFBmaTQ5Q1ZQR19EQ0NfVXNIaGhTbjB3VEpJVUY3SndObUpEbzNfX2Vvejg3TUJqT2JkdGk2bWRxT1BxYlNxMHlJandjaVV4cm5WWnRmLXFJRnd3MUZkY01Fb1U5cmg3VU9WcExTZGJaMnhSbmMw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGNvXzh3OGJBQk93eUpUQXR4eFVPRGh4cFVHU3FoOEZRdFBmaTQ5Q1ZQR19EQ0NfVXNIaGhTbjB3VEpJVUY3SndObUpEbzNfX2Vvejg3TUJqT2JkdGk2bWRxT1BxYlNxMHlJandjaVV4cm5WWnRmLXFJRnd3MUZkY01Fb1U5cmg3VU9WcExTZGJaMnhSbmMw",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 13:42:08 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-09-19"

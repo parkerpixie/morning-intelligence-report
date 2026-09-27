@@ -1,26 +1,26 @@
 {
   "latest": "data/archive/2026-09-27.json",
   "report_date": "2026-09-27",
-  "generated_at": "2026-09-27T13:19:32.314143+00:00",
+  "generated_at": "2026-09-27T14:42:41.475576+00:00",
   "edition_count": 74,
   "editions": [
     {
       "report_date": "2026-09-27",
-      "generated_at": "2026-09-27T13:19:32.314143+00:00",
+      "generated_at": "2026-09-27T14:42:41.475576+00:00",
       "path": "data/archive/2026-09-27.json",
       "top_story": {
-        "source": "BBC World",
-        "headline": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-        "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg"
+        "source": "NPR",
+        "headline": "These Democrats are running for Congress on Christian faith. Will it pay off?",
+        "summary": "It's rare for Democrats to make religion a centerpiece of their campaigns. But this midterm election cycle, a number of candidates for Congress are doing just that.",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
+        "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 61,
+      "story_count": 71,
       "section_counts": {
-        "local": 3,
+        "local": 8,
         "must-know": 8,
         "ai-tech": 8,
-        "work-marketing": 3,
+        "work-marketing": 8,
         "wellbeing": 8,
         "entertainment": 8,
         "animals": 8,
