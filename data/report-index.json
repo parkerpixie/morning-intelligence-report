@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-27.json",
-  "report_date": "2026-09-27",
-  "generated_at": "2026-09-27T15:40:29.999341+00:00",
-  "edition_count": 74,
+  "latest": "data/archive/2026-09-28.json",
+  "report_date": "2026-09-28",
+  "generated_at": "2026-09-28T14:03:42.433606+00:00",
+  "edition_count": 75,
   "editions": [
+    {
+      "report_date": "2026-09-28",
+      "generated_at": "2026-09-28T14:03:42.433606+00:00",
+      "path": "data/archive/2026-09-28.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Embattled Serbian president resigns, paving way for early elections",
+        "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-27",
       "generated_at": "2026-09-27T15:40:29.999341+00:00",
