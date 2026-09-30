@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-29.json",
-  "report_date": "2026-09-29",
-  "generated_at": "2026-09-29T16:54:17.067020+00:00",
-  "edition_count": 76,
+  "latest": "data/archive/2026-09-30.json",
+  "report_date": "2026-09-30",
+  "generated_at": "2026-09-30T12:41:35.922584+00:00",
+  "edition_count": 77,
   "editions": [
+    {
+      "report_date": "2026-09-30",
+      "generated_at": "2026-09-30T12:41:35.922584+00:00",
+      "path": "data/archive/2026-09-30.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+        "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+        "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-09-29",
       "generated_at": "2026-09-29T16:54:17.067020+00:00",
