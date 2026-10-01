@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-09-30.json",
-  "report_date": "2026-09-30",
-  "generated_at": "2026-09-30T16:50:22.383419+00:00",
-  "edition_count": 77,
+  "latest": "data/archive/2026-10-01.json",
+  "report_date": "2026-10-01",
+  "generated_at": "2026-10-01T13:24:59.382582+00:00",
+  "edition_count": 78,
   "editions": [
+    {
+      "report_date": "2026-10-01",
+      "generated_at": "2026-10-01T13:24:59.382582+00:00",
+      "path": "data/archive/2026-10-01.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-09-30",
       "generated_at": "2026-09-30T16:50:22.383419+00:00",
