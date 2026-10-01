@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-10-01.json",
   "report_date": "2026-10-01",
-  "generated_at": "2026-10-01T14:46:44.262376+00:00",
+  "generated_at": "2026-10-01T16:28:19.992747+00:00",
   "edition_count": 78,
   "editions": [
     {
       "report_date": "2026-10-01",
-      "generated_at": "2026-10-01T14:46:44.262376+00:00",
+      "generated_at": "2026-10-01T16:28:19.992747+00:00",
       "path": "data/archive/2026-10-01.json",
       "top_story": {
-        "source": "Wisconsin Public Radio",
-        "headline": "Trade ministers gather in Milwaukee ahead of G20 summit",
-        "summary": "Hosted by U.S. Trade Representative Jamieson Greer, the ministerial comes at a time when President Donald Trump's tariffs, a trade war with Canada and high fuel prices sparked by the war in Iran have left Americans uneasy about the economy.",
-        "url": "https://www.wpr.org/news/trade-ministers-gather-in-milwaukee-ahead-of-g20-summit",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC US & Canada",
+        "headline": "Trump says 'some' munitions are low as Iran war grinds on",
+        "summary": "He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d7/live/baeb2400-bda2-11f1-8373-27235719cf2a.jpg"
       },
       "story_count": 72,
       "section_counts": {
