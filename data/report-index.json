@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-10-01.json",
   "report_date": "2026-10-01",
-  "generated_at": "2026-10-01T13:24:59.382582+00:00",
+  "generated_at": "2026-10-01T14:46:44.262376+00:00",
   "edition_count": 78,
   "editions": [
     {
       "report_date": "2026-10-01",
-      "generated_at": "2026-10-01T13:24:59.382582+00:00",
+      "generated_at": "2026-10-01T14:46:44.262376+00:00",
       "path": "data/archive/2026-10-01.json",
       "top_story": {
-        "source": "BBC World",
-        "headline": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg"
+        "source": "Wisconsin Public Radio",
+        "headline": "Trade ministers gather in Milwaukee ahead of G20 summit",
+        "summary": "Hosted by U.S. Trade Representative Jamieson Greer, the ministerial comes at a time when President Donald Trump's tariffs, a trade war with Canada and high fuel prices sparked by the war in Iran have left Americans uneasy about the economy.",
+        "url": "https://www.wpr.org/news/trade-ministers-gather-in-milwaukee-ahead-of-g20-summit",
+        "image": "assets/images/clementine-madison-morning.webp"
       },
       "story_count": 72,
       "section_counts": {
