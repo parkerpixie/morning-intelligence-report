@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T14:11:05.186265+00:00",
+  "generated_at": "2026-10-02T15:53:03.466677+00:00",
   "edition_count": 79,
-  "story_count": 4893,
+  "story_count": 4895,
   "stories": [
     {
       "id": "f1b169a0b80c88e5",
@@ -25,6 +25,25 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-02",
       "appearances": 4
+    },
+    {
+      "id": "9f8a99978eb33851",
+      "source": "Variety",
+      "headline": "‘Spring Awakening’ Revival Cast, Whitney Leavitt, Mason Alexander Park Among Variety’s 10 Broadway Stars to Watch for 2026",
+      "summary": "Variety is proud to announce the 2026 edition of its annual 10 Broadway Stars to Watch. These actors, composers, librettists, and playwrights — working on shows including “Purple Rain,” “Warriors,” “Spring Awakening,” “10 Things I Hate About You” and “Wanted” — represent the future of theater. This year’s roster of standouts will be honored at",
+      "url": "https://variety.com/lists/10-broadway-stars-to-watch-spring-awakening-whitney-leavitt/",
+      "canonical_url": "https://variety.com/lists/10-broadway-stars-to-watch-spring-awakening-whitney-leavitt",
+      "image": "https://variety.com/wp-content/uploads/2026/09/10-Broadway-Stars-Featured-Image.jpg",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
     },
     {
       "id": "baeb4f678cbd8578",
@@ -70,6 +89,25 @@
       "appearances": 5
     },
     {
+      "id": "380a44115e09b388",
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin theater groups are making shows more accessible for people with disabilities",
+      "summary": "Audio devices, captioning and sensory kits are helping more people with disabilities enjoy Wisconsin theater performances.",
+      "url": "https://www.wpr.org/news/wisconsin-theater-groups-accessibility",
+      "canonical_url": "https://www.wpr.org/news/wisconsin-theater-groups-accessibility",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 15:31:45 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
       "id": "d8eaabb2b10063bc",
       "source": "Wisconsin Public Radio",
       "headline": "Wisconsin governor candidates offer opposing plans to address rising healthcare costs",
@@ -89,14 +127,33 @@
       "appearances": 1
     },
     {
-      "id": "2d59d67edc145ef2",
+      "id": "b9a024203f7d9fb2",
       "source": "Wisconsin News",
-      "headline": "Wisconsin Elections Commission meets ahead of midterms - Civic Media",
-      "summary": "Wisconsin Elections Commission meets ahead of midterms Civic Media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1R5U3dsWFNKdXp5dDZjUFY4TVJkN2pWa1JSMzBNZkRGd0w1N3h2WmpkZzk3YzZJYllCLWRWbElIdThyM0ZEdkIwMHVDRHFkSGVfdVczLWZTQko4MXlmMkdtbmU0WGZ0LWowanV1VVBvMVpTU3liVzl0aWRrYkN0TFdwOFNQYjdoSkI5bjJBMnYyd0gyMDZ3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1R5U3dsWFNKdXp5dDZjUFY4TVJkN2pWa1JSMzBNZkRGd0w1N3h2WmpkZzk3YzZJYllCLWRWbElIdThyM0ZEdkIwMHVDRHFkSGVfdVczLWZTQko4MXlmMkdtbmU0WGZ0LWowanV1VVBvMVpTU3liVzl0aWRrYkN0TFdwOFNQYjdoSkI5bjJBMnYyd0gyMDZ3",
+      "headline": "Wisconsin election officials 'strong and ready' for Nov. 3 election - WKOW",
+      "summary": "Wisconsin election officials 'strong and ready' for Nov. 3 election WKOW",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2RGM3dBNU1DNFVicnlyY1VFRHVMNjBkRy1yLUE4blFrYU9yX0tTMkw3QzlBRTREakM2cUZWd0Mxc2FDck1LMkhaeDhyOEtXaU5vaDNmdmdwMmcxeEVnVVItNlkzRUtrOXhYMm9wbnFlLTZOQTdyMEpEMHduRkc1eW80M280VnVLZ0VjVldNbnVRMTExSTRqWkN1RF93NWtrUVFZcGs3bDBqSFpqNGZyVVowTzVMeEFaYjM0SkhCUWRUMy1remU1Y25OSkFrQWhXSVVPbzQ0TQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2RGM3dBNU1DNFVicnlyY1VFRHVMNjBkRy1yLUE4blFrYU9yX0tTMkw3QzlBRTREakM2cUZWd0Mxc2FDck1LMkhaeDhyOEtXaU5vaDNmdmdwMmcxeEVnVVItNlkzRUtrOXhYMm9wbnFlLTZOQTdyMEpEMHduRkc1eW80M280VnVLZ0VjVldNbnVRMTExSTRqWkN1RF93NWtrUVFZcGs3bDBqSFpqNGZyVVowTzVMeEFaYjM0SkhCUWRUMy1remU1Y25OSkFrQWhXSVVPbzQ0TQ",
       "image": "",
-      "published": "Fri, 02 Oct 2026 01:44:00 GMT",
+      "published": "Fri, 02 Oct 2026 04:51:29 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "d92f5c70936b4c99",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Could Miss Out on Hundreds of Millions in Federal Scholarship Support - Wisconsin Institute for Law & Liberty",
+      "summary": "Wisconsin Could Miss Out on Hundreds of Millions in Federal Scholarship Support Wisconsin Institute for Law & Liberty",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWi1wTkk3V2piN082MWpDUWFyOXQ0UXdEdEs1a1Z4by1QNHNGUVBpX2NnenNaUkR5YndqbnNGS0hVV2NuaVdJeUY5ZkVQOGdFNGpvbUtyN3BCR2tlbkNsU2ZfZEZBT0ExQlZ1dnFUX0FEMEowRjJzcmktZnYtXzJtMWo1ajc5STY2RGttam5uaGduQnU1QUs1STQtbE9RS3ZQR0JV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWi1wTkk3V2piN082MWpDUWFyOXQ0UXdEdEs1a1Z4by1QNHNGUVBpX2NnenNaUkR5YndqbnNGS0hVV2NuaVdJeUY5ZkVQOGdFNGpvbUtyN3BCR2tlbkNsU2ZfZEZBT0ExQlZ1dnFUX0FEMEowRjJzcmktZnYtXzJtMWo1ajc5STY2RGttam5uaGduQnU1QUs1STQtbE9RS3ZQR0JV",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 15:22:30 GMT",
       "sections": [
         "local"
       ],
@@ -110,8 +167,8 @@
     {
       "id": "243d9fc5ec9fa1b2",
       "source": "Customer Data",
-      "headline": "Why Martech ROI Is Becoming Harder to Prove - MarTech Cube",
-      "summary": "Why Martech ROI Is Becoming Harder to Prove MarTech Cube",
+      "headline": "Why Martech ROI Is Becoming Harder to Prove - martechcube.com",
+      "summary": "Why Martech ROI Is Becoming Harder to Prove martechcube.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91Yk9jLTYyRXBNeFh4ZHpONEt2Tnc5c3FweXFLUF9jZTE0U1owRng0U0ptd3F3NU05R29STS1USkhUc0RhUmVFTURQRmZaWGlkbVE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91Yk9jLTYyRXBNeFh4ZHpONEt2Tnc5c3FweXFLUF9jZTE0U1owRng0U0ptd3F3NU05R29STS1USkhUc0RhUmVFTURQRmZaWGlkbVE",
       "image": "",
@@ -225,12 +282,12 @@
     {
       "id": "8580320203abe582",
       "source": "BBC US & Canada",
-      "headline": "US jobs market sees sharp slowdown in September",
+      "headline": "US jobs market sees sharp slowdown ahead of midterm elections",
       "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
-      "published": "Fri, 02 Oct 2026 13:56:36 GMT",
+      "published": "Fri, 02 Oct 2026 14:30:48 GMT",
       "sections": [
         "must-know"
       ],
@@ -242,25 +299,23 @@
       "appearances": 1
     },
     {
-      "id": "84df70c5eea2fc66",
-      "source": "BBC World",
-      "headline": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "id": "e8da9b48e2fcf4cf",
+      "source": "Good News Network",
+      "headline": "UK’s National Museums to Continue 25-Year Policy of Free Entry for Foreign Visitors",
+      "summary": "After months of discussions between UK ministries, the tourism sector, and London’s museums, the government has decided that the country’s national museums will remain free to international visitors. These 14 institutions include such renowned museums as the National Gallery, the British Museum, and the Natural History Museum among others, which together attract tens of millions",
+      "url": "https://www.goodnewsnetwork.org/uks-national-museums-to-continue-25-year-policy-of-free-entry-for-foreign-visitors/",
+      "canonical_url": "https://www.goodnewsnetwork.org/uks-national-museums-to-continue-25-year-policy-of-free-entry-for-foreign-visitors",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 15:30:56 +0000",
       "sections": [
-        "ai-tech",
-        "quick-scan"
+        "wonderful"
       ],
       "report_dates": [
-        "2026-10-02",
-        "2026-10-01"
+        "2026-10-02"
       ],
-      "first_seen": "2026-10-01",
+      "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "4a6e311d4aceab62",
@@ -303,16 +358,16 @@
       "appearances": 1
     },
     {
-      "id": "31baa0200704faa9",
-      "source": "Madison Local",
-      "headline": "The power of youth - Isthmus | Madison, Wisconsin",
-      "summary": "The power of youth Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94SlRNckc5WDQ0TDF4U3JxNllwdGd0WnBjME9wQUp6YVZmeTc1TWRfbEV4clNrcHFERUh5N2RxQlBMcTRIYnNrNEFzel9Bb1I0ZE9zWU1fOTdUN3NOSnc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94SlRNckc5WDQ0TDF4U3JxNllwdGd0WnBjME9wQUp6YVZmeTc1TWRfbEV4clNrcHFERUh5N2RxQlBMcTRIYnNrNEFzel9Bb1I0ZE9zWU1fOTdUN3NOSnc",
+      "id": "14f0bb14794b213a",
+      "source": "AI News",
+      "headline": "Top AI tech executives promise to ‘self-police’ AI development — Nvidia, Anthropic, OpenAI, and more pledge AI labs will take steps ‘to build a positive future’ - Tom's Hardware",
+      "summary": "Top AI tech executives promise to ‘self-police’ AI development — Nvidia, Anthropic, OpenAI, and more pledge AI labs will take steps ‘to build a positive future’ Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVExJOEpQMFU2NURJSFZpWWNDOHh5T2NadGpEc3ViMFJocG1FQm1Hd3V3dzJ5d1Bqc19WQkI1NXVGdk1NbVlWUTg4WTYyTzAyR2RvR3RVenpLdl9RSVduZU9aakVycUFFMUlpNVFubWJ3cmJWTDlFbW5VMkxqemhTZlM1NGhZaFZJNERDbjNTV3pYWVBBMFJqRUZBeTA5cUdBdTdEaE95Uy1yOEFYV1RnQnJ4eEx1X0VQYnpzdTBaZjlTRkpJSVNPTE1Yb05oZXNTYVpXNlJBSlRxVkhDSkFxMXFkNXp5cXJrZUQtODk4OTZMbFEtRUxVc0NCc2tMMGwtNG9KcktSU0hSbms1bTZRNDYzNmJkWHRWVi1IQnZQUDF0SmRaSWc0NA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVExJOEpQMFU2NURJSFZpWWNDOHh5T2NadGpEc3ViMFJocG1FQm1Hd3V3dzJ5d1Bqc19WQkI1NXVGdk1NbVlWUTg4WTYyTzAyR2RvR3RVenpLdl9RSVduZU9aakVycUFFMUlpNVFubWJ3cmJWTDlFbW5VMkxqemhTZlM1NGhZaFZJNERDbjNTV3pYWVBBMFJqRUZBeTA5cUdBdTdEaE95Uy1yOEFYV1RnQnJ4eEx1X0VQYnpzdTBaZjlTRkpJSVNPTE1Yb05oZXNTYVpXNlJBSlRxVkhDSkFxMXFkNXp5cXJrZUQtODk4OTZMbFEtRUxVc0NCc2tMMGwtNG9KcktSU0hSbms1bTZRNDYzNmJkWHRWVi1IQnZQUDF0SmRaSWc0NA",
       "image": "",
-      "published": "Fri, 02 Oct 2026 14:05:24 GMT",
+      "published": "Wed, 30 Sep 2026 17:27:37 GMT",
       "sections": [
-        "local"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-02"
@@ -322,16 +377,35 @@
       "appearances": 1
     },
     {
-      "id": "53dff5f74e6128b7",
-      "source": "Associated Press",
-      "headline": "The Latest: Trump will campaign in Alabama ahead of the midterm elections - ABC27",
-      "summary": "The Latest: Trump will campaign in Alabama ahead of the midterm elections ABC27",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmJPXy03VWpfbEtsS0FfZTVXUU9JWXFhZVhuZmtNc0hvRFdKRWRGbHR6RlhnYlJUVU5lcm9PbVhranBQazQ5TjA4TGdxdkQtd1Vvdk9rUTcyX3lEdlljYkV5Nk95VWM3QWZxa0ZneDUtYURNRUJUX25lSElOODd4NnNsUnFIUGl3eURSaThIcDhmS19IUHB5VndPUzBnYkFhMlE5NU1QckJnT2NIS2wwSjRnMTc0UHRrbTdPR19ta1o0MVRJUE5tdHAySXXSAdIBQVVfeXFMT3lzZkswRGYzU29kS2NqRFg3UE9NTV9LWTlEM1VOaWxuUmFLWjFqc1JjQURLb0k3Vjd0Rk9fTk41a0F4bkpVSnR1TEFzN0xRLTRySnQydU1CTC1aeklHR1RNYjRhbllSS0pWZFRyMVBxcG5vbXhxQ3g2MXJZbU9wcDBqNm5LX1Vtc053Snp4VE1XeGd5Yl8xMENxSC1TX1JPN0dBXzd4eXVGNHF5aUExUV9mRElJWDBXSDhKWnRadmNfZzhLdkFxdWFoZ0tOLXFPaXJn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmJPXy03VWpfbEtsS0FfZTVXUU9JWXFhZVhuZmtNc0hvRFdKRWRGbHR6RlhnYlJUVU5lcm9PbVhranBQazQ5TjA4TGdxdkQtd1Vvdk9rUTcyX3lEdlljYkV5Nk95VWM3QWZxa0ZneDUtYURNRUJUX25lSElOODd4NnNsUnFIUGl3eURSaThIcDhmS19IUHB5VndPUzBnYkFhMlE5NU1QckJnT2NIS2wwSjRnMTc0UHRrbTdPR19ta1o0MVRJUE5tdHAySXXSAdIBQVVfeXFMT3lzZkswRGYzU29kS2NqRFg3UE9NTV9LWTlEM1VOaWxuUmFLWjFqc1JjQURLb0k3Vjd0Rk9fTk41a0F4bkpVSnR1TEFzN0xRLTRySnQydU1CTC1aeklHR1RNYjRhbllSS0pWZFRyMVBxcG5vbXhxQ3g2MXJZbU9wcDBqNm5LX1Vtc053Snp4VE1XeGd5Yl8xMENxSC1TX1JPN0dBXzd4eXVGNHF5aUExUV9mRElJWDBXSDhKWnRadmNfZzhLdkFxdWFoZ0tOLXFPaXJn",
+      "id": "93cb0458304296b0",
+      "source": "Smithsonian Animals",
+      "headline": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately - Smithsonian Magazine",
+      "summary": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately Smithsonian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1RYakZCaUVPRTQzLVBJMml3Q2pRS09vX1kwR1Uzcm10Z3QtaFZyd0FqVGpBT3ZGdmg5RzdHM3pSb2EzdnhPYjdITFk0S3JZMzFWS3hxRGsxa0otaFk5NDQyS2dOUnlxTmZySXJaMVFZWFFhaUlRUlQ2YVJKdlBHRloxYUpwbFFBRTBXRGEySS1hb09mTmNXeWFicmg0Slp3Q2ZJM0xUc25XdjJvVWs1bUJLbUhEeWhSSFQ2ZlJ4cXFtX09leHVSQTV2V2VjNmItTDhWSkxn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1RYakZCaUVPRTQzLVBJMml3Q2pRS09vX1kwR1Uzcm10Z3QtaFZyd0FqVGpBT3ZGdmg5RzdHM3pSb2EzdnhPYjdITFk0S3JZMzFWS3hxRGsxa0otaFk5NDQyS2dOUnlxTmZySXJaMVFZWFFhaUlRUlQ2YVJKdlBHRloxYUpwbFFBRTBXRGEySS1hb09mTmNXeWFicmg0Slp3Q2ZJM0xUc25XdjJvVWs1bUJLbUhEeWhSSFQ2ZlJ4cXFtX09leHVSQTV2V2VjNmItTDhWSkxn",
       "image": "",
-      "published": "Fri, 02 Oct 2026 12:36:23 GMT",
+      "published": "Fri, 02 Oct 2026 15:21:12 GMT",
       "sections": [
-        "must-know"
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "d3c3ceff6dfa8b0a",
+      "source": "Mental Health",
+      "headline": "The Need for More Awareness During ADHD Awareness Month - Psychology Today",
+      "summary": "The Need for More Awareness During ADHD Awareness Month Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDF5ei1nVVZBSnFnWUJxX0FtalJQc2pjZG03MDlMYm10YzY4aExfREc2WDFDWmhybGxZbUJ2TGw0SGhzZ3VRZEZqWV9DQ01ZY2psRFJiNXRsQ0gyT1dxV1RhX0I2X2Itb3NoUlQwY1AwTThSTDJKb25aNVBaajNFMkpXZllPSjN2SktDQnU4SXEwWmJKSmxFWGtlVzFWYk1jekd0UzJsNU9TZjRfM0lPeENqRUk5M2dLOTkxSGRLWHVUT0ZTanc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDF5ei1nVVZBSnFnWUJxX0FtalJQc2pjZG03MDlMYm10YzY4aExfREc2WDFDWmhybGxZbUJ2TGw0SGhzZ3VRZEZqWV9DQ01ZY2psRFJiNXRsQ0gyT1dxV1RhX0I2X2Itb3NoUlQwY1AwTThSTDJKb25aNVBaajNFMkpXZllPSjN2SktDQnU4SXEwWmJKSmxFWGtlVzFWYk1jekd0UzJsNU9TZjRfM0lPeENqRUk5M2dLOTkxSGRLWHVUT0ZTanc",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 19:57:21 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-02"
@@ -360,16 +434,16 @@
       "appearances": 1
     },
     {
-      "id": "b3b106b1833a0879",
-      "source": "B2B Marketing Ops",
-      "headline": "Tech Moves: Amazon GM departs for Scala; Flyhomes appoints 3 leaders; Heinz Marketing names COO - GeekWire",
-      "summary": "Tech Moves: Amazon GM departs for Scala; Flyhomes appoints 3 leaders; Heinz Marketing names COO GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0NxU0s1S001eDlVUFFJc0tHTmFZSFExLWJPOVlYUXkyeU95VlVkMFNNd3FRUEMtYW90SldMc3pmTFFDbl9yT01tYW1ETUNjZElfcHNQZjd3ZlJtbGZnaUVMYmhOblBzUzZwUWRmVjBZVFpqZzBjUzNzREhjYzVqQ1M0dUZyYkxITzhsUU92MGNpNkRIRVFrNkVPcXFIM1dMMmVlMWNxZURnUDdjTXhWQ2s4cHFZcW5TZ251QW9jWlo?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0NxU0s1S001eDlVUFFJc0tHTmFZSFExLWJPOVlYUXkyeU95VlVkMFNNd3FRUEMtYW90SldMc3pmTFFDbl9yT01tYW1ETUNjZElfcHNQZjd3ZlJtbGZnaUVMYmhOblBzUzZwUWRmVjBZVFpqZzBjUzNzREhjYzVqQ1M0dUZyYkxITzhsUU92MGNpNkRIRVFrNkVPcXFIM1dMMmVlMWNxZURnUDdjTXhWQ2s4cHFZcW5TZ251QW9jWlo",
+      "id": "98b147f52386475d",
+      "source": "The Verge",
+      "headline": "Tesla will now let you drive off mid-charge if there’s an emergency",
+      "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. When a Tesla vehicle is charging, the plug is locked to the charging port and driving is disabled.",
+      "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+      "canonical_url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
       "image": "",
-      "published": "Thu, 01 Oct 2026 17:25:13 GMT",
+      "published": "2026-10-02T10:34:14-04:00",
       "sections": [
-        "work-marketing"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-02"
@@ -590,27 +664,6 @@
       "appearances": 1
     },
     {
-      "id": "7a989c41c08a158b",
-      "source": "BBC World",
-      "headline": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab74/live/d5507da0-bd88-11f1-a2ad-3160f44bb180.jpg",
-      "published": "Thu, 01 Oct 2026 14:05:55 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-02",
-        "2026-10-01"
-      ],
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
-      "appearances": 2
-    },
-    {
       "id": "a3175c8b76932d27",
       "source": "B2B Marketing Ops",
       "headline": "REVOPS INFLUENCER FOR HIRE: REVENUE OPERATIONS KEYNOTE SPEAKER & THOUGHT LEADER - futuristsspeakers.com",
@@ -628,27 +681,6 @@
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
       "appearances": 1
-    },
-    {
-      "id": "b9c3043f96b97634",
-      "source": "Ars Technica",
-      "headline": "Returning from vacation? The government can search your phone without a warrant.",
-      "summary": "Reminder: The \"border exemption\" to your rights is real.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg",
-      "published": "Wed, 30 Sep 2026 21:19:56 +0000",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-02",
-        "2026-10-01"
-      ],
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
-      "appearances": 2
     },
     {
       "id": "3adf11f0938cdbfa",
@@ -680,25 +712,6 @@
       "published": "Fri, 02 Oct 2026 05:00:00 -0400",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
-      "id": "fe398ce24e9da145",
-      "source": "The Verge",
-      "headline": "Paramount’s Warner Bros. megamerger will just be called Skydance",
-      "summary": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wanted a name that would give the combined company an identity of its own while allowing Paramount and",
-      "url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
-      "canonical_url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
-      "image": "",
-      "published": "2026-10-02T09:42:36-04:00",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-10-02"
@@ -766,25 +779,6 @@
       "appearances": 2
     },
     {
-      "id": "081e96201cb094db",
-      "source": "Variety",
-      "headline": "Luca Guadagnino Is ‘Not Afraid’ of Sam Altman Backlash to ‘Artificial’: ‘People That Have a Lot of Power’ Should Be ‘Aware That You Must Be Responsible’",
-      "summary": "Luca Guadagnino’s “Artificial” takes on some of the most powerful leaders in artificial intelligence, including OpenAI CEO Sam Altman — but he’s “not afraid” of any potential backlash. Premiering at New York Film Festival on Monday, Guadagnino’s timely movie stars Andrew Garfield as Altman and centers on the time in 2023 when he was ousted",
-      "url": "https://variety.com/2026/film/global/luca-guadagnino-not-afraid-sam-altman-backlash-artificial-1236897470/",
-      "canonical_url": "https://variety.com/2026/film/global/luca-guadagnino-not-afraid-sam-altman-backlash-artificial-1236897470",
-      "image": "https://variety.com/wp-content/uploads/2026/10/luca-sam.jpg",
-      "published": "Fri, 02 Oct 2026 13:37:24 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
       "id": "833918a50bd797ae",
       "source": "Animals",
       "headline": "Kon Ka Kinh National Park releases 31 endangered wild animals to natural habitat - Vietnam+ (VietnamPlus)",
@@ -833,6 +827,63 @@
       "published": "Thu, 01 Oct 2026 20:11:55 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "50cadb2630dde466",
+      "source": "BBC World",
+      "headline": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2f/live/1f543100-be6d-11f1-b36c-81ad410b221e.png",
+      "published": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "4e9c0c1b8479f1ad",
+      "source": "Channel 3000",
+      "headline": "In the 608: Why a flock of pink flamingos is taking over UW-Madison's Bascom Hill - Channel 3000",
+      "summary": "In the 608: Why a flock of pink flamingos is taking over UW-Madison's Bascom Hill Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDdVa3dqYktQWmhOQzg3bENCcWRMcE9ydmdXZm9qTmRHYWNFZk14UHlVZERjQjV5RDhvSG5IcEEyZEs3SHNoYTM3d3JCb0dCUmM4T2xDWS1HT1RHVV9YdFptNzBqNWZFc3RxaEU5WE9hb1ZKUTlocWU3MWFKZDFUQlBpWGNFbnBPVEV4eVpabW5GOUhlZFBDSERFZ2tSMEFqMm5qeWVPWVFZR1pjRi14S2oxdjFKY19MVFNHcTZmWHJCM1hzampXUmszcE9laEdiU2huVlVVeUNuZzdqVURMOHZwbzN6WjR4NmhGSk01SmcwWnM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDdVa3dqYktQWmhOQzg3bENCcWRMcE9ydmdXZm9qTmRHYWNFZk14UHlVZERjQjV5RDhvSG5IcEEyZEs3SHNoYTM3d3JCb0dCUmM4T2xDWS1HT1RHVV9YdFptNzBqNWZFc3RxaEU5WE9hb1ZKUTlocWU3MWFKZDFUQlBpWGNFbnBPVEV4eVpabW5GOUhlZFBDSERFZ2tSMEFqMm5qeWVPWVFZR1pjRi14S2oxdjFKY19MVFNHcTZmWHJCM1hzampXUmszcE9laEdiU2huVlVVeUNuZzdqVURMOHZwbzN6WjR4NmhGSk01SmcwWnM",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 11:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "83cefb00e0300bc1",
+      "source": "Wisconsin News",
+      "headline": "Hundreds of Wisconsin jurisdictions not using cybersecurity best practices - Votebeat",
+      "summary": "Hundreds of Wisconsin jurisdictions not using cybersecurity best practices Votebeat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLW94eEcxbFlCLWNuNktNeUk5cmhPcU9iTTltSGhKZ1pEalo1NllsalFDbkJvSjF1VnhwSloyaVc1ZHY2SEJPanlZRE9yRjNoX1BKUHU2bDJyNzZrQUlGdHp3WVdGQzB1WUsxWURsTUdHbHp5UXp3UXR6MC03cFJpaXNCUHJNdXdQVXNjODFsNDYwbHI1TUhfeno5akJvOGRrM3RMcVZJUGxqcFlQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLW94eEcxbFlCLWNuNktNeUk5cmhPcU9iTTltSGhKZ1pEalo1NllsalFDbkJvSjF1VnhwSloyaVc1ZHY2SEJPanlZRE9yRjNoX1BKUHU2bDJyNzZrQUlGdHp3WVdGQzB1WUsxWURsTUdHbHp5UXp3UXR6MC03cFJpaXNCUHJNdXdQVXNjODFsNDYwbHI1TUhfeno5akJvOGRrM3RMcVZJUGxqcFlQ",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 14:45:00 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-02"
@@ -965,7 +1016,7 @@
       "image": "",
       "published": "Thu, 01 Oct 2026 07:00:00 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-02"
@@ -1013,35 +1064,16 @@
       "appearances": 1
     },
     {
-      "id": "4b5ae3031b7671c7",
-      "source": "Reuters",
-      "headline": "Exclusive-OPEC+ Delays Oil Capacity Review After Iran War Disrupts Expansion Plans, Sources Say - U.S. News & World Report",
-      "summary": "Exclusive-OPEC+ Delays Oil Capacity Review After Iran War Disrupts Expansion Plans, Sources Say U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUJzY0JCU2xiUndFcFlNVTQ0alFkcE5nb29Ob2YyQjlOVFpjeWdLNW1zLVNFWmlDM3FoLWJvS2VVRk9wVnVuaUliaWJxcXZJSV9SczIzZGpTQkk2SXJ1U2ZsWjAxSUVtelRmSnFrREJkWkFGaXhlaTJ5Rm1EWV9jVk14a3V2ZUZUU2h1QlpRT1p1elRObnNqMEM2RXBjSkd4MDZ3em5wRVZQdGdqMlJFWFdzN25wTnlmNGpRVDhWdXp1WWxVNmVxdkpyZTdBdDQwdElIMVBfTzczWmdndFNTanBwcWw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUJzY0JCU2xiUndFcFlNVTQ0alFkcE5nb29Ob2YyQjlOVFpjeWdLNW1zLVNFWmlDM3FoLWJvS2VVRk9wVnVuaUliaWJxcXZJSV9SczIzZGpTQkk2SXJ1U2ZsWjAxSUVtelRmSnFrREJkWkFGaXhlaTJ5Rm1EWV9jVk14a3V2ZUZUU2h1QlpRT1p1elRObnNqMEM2RXBjSkd4MDZ3em5wRVZQdGdqMlJFWFdzN25wTnlmNGpRVDhWdXp1WWxVNmVxdkpyZTdBdDQwdElIMVBfTzczWmdndFNTanBwcWw",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 11:15:00 GMT",
+      "id": "3d86ff55ff56ac48",
+      "source": "Variety",
+      "headline": "Eminem Teams With NERDS Clothing for Original Video Game, New Streetwear Collab Out of New York Comic Con (EXCLUSIVE)",
+      "summary": "Eminem will release a limited-edition merch collection with streetwear and pop culture brand NERDS Clothing during New York Comic Con next week, including the launch of an original video game. Per the partners, the NYCC debut will feature original artwork created by NERDS, including a unique 16-bit interpretation of Eminem, limited-edition merchandise, a series of",
+      "url": "https://variety.com/2026/gaming/news/eminem-nerds-clothing-merch-marshalls-massacre-video-game-1236897557/",
+      "canonical_url": "https://variety.com/2026/gaming/news/eminem-nerds-clothing-merch-marshalls-massacre-video-game-1236897557",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Eminem-Marshalls-Massacre.jpg",
+      "published": "Fri, 02 Oct 2026 15:30:00 +0000",
       "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
-      "id": "791470f744199899",
-      "source": "UW-Madison Science",
-      "headline": "Diversified Vegetable Educator - jobs.wisc.edu",
-      "summary": "Diversified Vegetable Educator jobs.wisc.edu",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmpsZWhoT0Z5TXFuc2c4cTBjRHRoY3A2LWhqUFpNRFBLNUhCQUxnRE4zaFlieTlhMElEQ1hFUjlFSkFLWjlYUXhVUS1rUXpyTjdqckJ6WEtFalFWckpTSzZXbkRWWTNkSTRzcHk2cVYwTVdnWUd6dm9jMy1jNnN5ek5WX25ISGRqQWJNQnZnS2VxVFE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmpsZWhoT0Z5TXFuc2c4cTBjRHRoY3A2LWhqUFpNRFBLNUhCQUxnRE4zaFlieTlhMElEQ1hFUjlFSkFLWjlYUXhVUS1rUXpyTjdqckJ6WEtFalFWckpTSzZXbkRWWTNkSTRzcHk2cVYwTVdnWUd6dm9jMy1jNnN5ek5WX25ISGRqQWJNQnZnS2VxVFE",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 19:33:52 GMT",
-      "sections": [
-        "wellbeing"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-02"
@@ -1070,29 +1102,10 @@
       "appearances": 1
     },
     {
-      "id": "8943d3cedbc87160",
-      "source": "Reuters",
-      "headline": "Did you follow Arizona news this week? Take the azcentral news quiz - Sacramento Bee",
-      "summary": "Did you follow Arizona news this week? Take the azcentral news quiz Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Lc1F5SThQdXhSTG1NZ2JMQ1dPX19KQVVjQWRUMzkzdkV0VWtLNGdDOHpzblppRkRDd0tRVEVpRUI1SzJIWUp3VkxxYWNQZ3hfS3hXMnRwS25mR2c0c3g0aC1TMFhhOFc1WEQ5RWNMQm5YMTZGLXlEcER4QQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Lc1F5SThQdXhSTG1NZ2JMQ1dPX19KQVVjQWRUMzkzdkV0VWtLNGdDOHpzblppRkRDd0tRVEVpRUI1SzJIWUp3VkxxYWNQZ3hfS3hXMnRwS25mR2c0c3g0aC1TMFhhOFc1WEQ5RWNMQm5YMTZGLXlEcER4QQ",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 11:01:00 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
       "id": "02a006431672fec7",
       "source": "Dane County",
-      "headline": "Dane County budget could include $3M for body cams, cuts more vacant positions - Wisconsin State Journal",
-      "summary": "Dane County budget could include $3M for body cams, cuts more vacant positions Wisconsin State Journal",
+      "headline": "Dane County budget could include $3M for body cams, cuts more vacant positions - madison.com",
+      "summary": "Dane County budget could include $3M for body cams, cuts more vacant positions madison.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmo0cnFzUHNPYlZGRHA1UW5zSWZ4cEE0dEdIQjBNMUFkWkdfcEdqeXMyeUhTSHhFZHktSmVNYzVIVjVoLURVcTFwUXJZdnhOSERGbXRtSUNaZ2JJSFZUSks3dlhaUklyWHlDWWNvRjVQc29SSkg5LVpzWGdGSU4zYmo3ZG5DRWtJR3haYmpfVEJleDlQWFRyeFl1VGdaTDU0YUE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmo0cnFzUHNPYlZGRHA1UW5zSWZ4cEE0dEdIQjBNMUFkWkdfcEdqeXMyeUhTSHhFZHktSmVNYzVIVjVoLURVcTFwUXJZdnhOSERGbXRtSUNaZ2JJSFZUSks3dlhaUklyWHlDWWNvRjVQc29SSkg5LVpzWGdGSU4zYmo3ZG5DRWtJR3haYmpfVEJleDlQWFRyeFl1VGdaTDU0YUE",
       "image": "",
@@ -1127,46 +1140,8 @@
       "appearances": 1
     },
     {
-      "id": "138faaa76614ac2a",
-      "source": "UW-Madison Science",
-      "headline": "Communications Specialist - jobs.wisc.edu",
-      "summary": "Communications Specialist jobs.wisc.edu",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUNKeFYyT1VhenJkQ05YOXVqQm1fd0FRT1c1UWdCWTZFWGxWVk04NTg3QTNJeDZoV2tQN2lXazVTSDVzeWk4dFZGSUJCNmlyY2pGMF9NYXJHb1lXTlkzaS0zTmRMb0ZrWTRTLU43dzRkRV9vNGdsWE9HdUxkMTQ2MXp1c3JsSndrYWVoZHF0dkE3VWRDTXBjSTJWX3JxaE5MLXhWUjZsR0dWOE5qeWYwcG14UG5FYnRRQVpQcm5n?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUNKeFYyT1VhenJkQ05YOXVqQm1fd0FRT1c1UWdCWTZFWGxWVk04NTg3QTNJeDZoV2tQN2lXazVTSDVzeWk4dFZGSUJCNmlyY2pGMF9NYXJHb1lXTlkzaS0zTmRMb0ZrWTRTLU43dzRkRV9vNGdsWE9HdUxkMTQ2MXp1c3JsSndrYWVoZHF0dkE3VWRDTXBjSTJWX3JxaE5MLXhWUjZsR0dWOE5qeWYwcG14UG5FYnRRQVpQcm5n",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 15:07:23 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
-      "id": "4aaea81492e2fced",
-      "source": "Wisconsin Examiner",
-      "headline": "Commentary: Congressional stock trading is not a good issue for Bryan Steil - wisconsinexaminer.com",
-      "summary": "Commentary: Congressional stock trading is not a good issue for Bryan Steil wisconsinexaminer.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGRidkhVcHRFZFE5MFdyVVFhTS1fVDk3N1RDUHlXQ3lIeEZWZGQ1dFVmTmxpUWM2S2Q3UVRyVlNGTnZPZS0ybEpmSjQtSkk1ekV4Mm4waXJJZXJER1R6OUVCNk1ORm9XSG1rY1hSSTFfRFFaM2h3UHlodDFpV0k0cGJ5WGZNX3U1WHU1ZXgwdTNZSzBaX0VDdXdfbUU5RWppN2U1Q3hidXY?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGRidkhVcHRFZFE5MFdyVVFhTS1fVDk3N1RDUHlXQ3lIeEZWZGQ1dFVmTmxpUWM2S2Q3UVRyVlNGTnZPZS0ybEpmSjQtSkk1ekV4Mm4waXJJZXJER1R6OUVCNk1ORm9XSG1rY1hSSTFfRFFaM2h3UHlodDFpV0k0cGJ5WGZNX3U1WHU1ZXgwdTNZSzBaX0VDdXdfbUU5RWppN2U1Q3hidXY",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 08:38:05 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "appearances": 1
-    },
-    {
       "id": "f94142572e0a5bc9",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
@@ -1228,8 +1203,8 @@
       "summary": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
       "url": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8d/live/9e4180f0-b830-11f1-b4bc-39c67eb36497.jpg",
-      "published": "Fri, 02 Oct 2026 09:27:11 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b727/live/825286f0-552a-11f1-9e1e-29cb974f260a.jpg",
+      "published": "Fri, 02 Oct 2026 14:16:32 GMT",
       "sections": [
         "animals"
       ],
@@ -1241,14 +1216,14 @@
       "appearances": 1
     },
     {
-      "id": "e181468c35256710",
-      "source": "B2B Marketing Ops",
-      "headline": "B2B marketing doesn’t have an ROI problem. It has an evidence problem. - MarTech",
-      "summary": "B2B marketing doesn’t have an ROI problem. It has an evidence problem. MarTech",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDBCRUk1azBpY1NDcDI2ZTFGTmFhczhiMEM1cndQUjR0X1loYXFWOUhiR0JDTjdGbGlRRlVtWmpWZWpDTmFxU2RBQi03Y2luVzdjclNPaDR4QmoxcnJxaDkzT2dOYjExMDZrSGZQcC1nSXdhTUVTRDFFTldKSkJfQUx0NUsxWHNVaUZyVzJ0LW5iQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDBCRUk1azBpY1NDcDI2ZTFGTmFhczhiMEM1cndQUjR0X1loYXFWOUhiR0JDTjdGbGlRRlVtWmpWZWpDTmFxU2RBQi03Y2luVzdjclNPaDR4QmoxcnJxaDkzT2dOYjExMDZrSGZQcC1nSXdhTUVTRDFFTldKSkJfQUx0NUsxWHNVaUZyVzJ0LW5iQQ",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 12:59:19 GMT",
+      "id": "050646d326541dcc",
+      "source": "MarTech",
+      "headline": "B2B marketing doesn’t have an ROI problem. It has an evidence problem.",
+      "summary": "Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting.",
+      "url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/",
+      "canonical_url": "https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem",
+      "image": "https://www.youtube.com/embed/Gv9Da0O3isE",
+      "published": "Fri, 02 Oct 2026 12:45:00 +0000",
       "sections": [
         "work-marketing"
       ],
@@ -1298,16 +1273,16 @@
       "appearances": 1
     },
     {
-      "id": "78ffcfd0a288af0c",
-      "source": "The Verge",
-      "headline": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "canonical_url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "id": "e083874e6b68114e",
+      "source": "Reuters",
+      "headline": "Analysis-Vance's Fraud Crackdown May Raise Costs for US Health Insurers, Enrollees - U.S. News & World Report",
+      "summary": "Analysis-Vance's Fraud Crackdown May Raise Costs for US Health Insurers, Enrollees U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFBKX1JOMTlvUlJqMmFRSlJCWEJIakdra0h1bGxiWTlqbkoycjhmMnhoZHdUNXhjTnVlekF1UzB2SWxwLXhFRFI3VnFPUm5oQ1d4bk14N29zX0RZSms3SHc5NHZ3YnExaHZoYi1MQV90OTY3MnBlM045aTdSb1pwbWFCdUxlSlBYLUtmUUZpanY1WlpvU1JBOVRtS2xfZl9yeURmcUtVcXRNMnBhVUN3R183UVNtYWNvVmlDZzhtRC1QRlh6bllCT0t6LXJVSjhuZWhz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFBKX1JOMTlvUlJqMmFRSlJCWEJIakdra0h1bGxiWTlqbkoycjhmMnhoZHdUNXhjTnVlekF1UzB2SWxwLXhFRFI3VnFPUm5oQ1d4bk14N29zX0RZSms3SHc5NHZ3YnExaHZoYi1MQV90OTY3MnBlM045aTdSb1pwbWFCdUxlSlBYLUtmUUZpanY1WlpvU1JBOVRtS2xfZl9yeURmcUtVcXRNMnBhVUN3R183UVNtYWNvVmlDZzhtRC1QRlh6bllCT0t6LXJVSjhuZWhz",
       "image": "",
-      "published": "2026-10-02T07:52:20-04:00",
+      "published": "Fri, 02 Oct 2026 15:24:00 GMT",
       "sections": [
-        "ai-tech"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-02"
@@ -1315,6 +1290,26 @@
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
       "appearances": 1
+    },
+    {
+      "id": "ab13087964b487df",
+      "source": "Reuters",
+      "headline": "Americans are down on the economy and concerned about costs: Polls - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Americans are down on the economy and concerned about costs: Polls ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 10:04:50 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-02",
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-10-02",
+      "appearances": 2
     },
     {
       "id": "2e79aee6c286fa35",
@@ -1353,26 +1348,6 @@
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
       "appearances": 1
-    },
-    {
-      "id": "5878d8b4e4e53b6e",
-      "source": "Wonderful News",
-      "headline": "61 Wholesome Stories That Might Make You Shed A Tear Because They’re So Overwhelmingly Awesome - inkl",
-      "summary": "61 Wholesome Stories That Might Make You Shed A Tear Because They’re So Overwhelmingly Awesome inkl.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ZnUzNuRGZEYVdHUlBQQURXNVcyT0xIMy14Y0ZlTEU1VHhVaW5PRXJQRXhUazIxMV9YS1BYYzFlcFNIeEZzaFVUd0dCT1N0SlZCT3EzcV9yQlRMdmFrcldrc0pUWjFkOWEwLUh6VURaV28xcEtnRGZzSVo4S1ZIdFRXRkU2eUVjYnZIa2tubENLMjlld2lmcWJuM0RXN01IakQ0UDR4V2JnU0xwQkFqcUdpQ2lHenhEVm1V?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ZnUzNuRGZEYVdHUlBQQURXNVcyT0xIMy14Y0ZlTEU1VHhVaW5PRXJQRXhUazIxMV9YS1BYYzFlcFNIeEZzaFVUd0dCT1N0SlZCT3EzcV9yQlRMdmFrcldrc0pUWjFkOWEwLUh6VURaV28xcEtnRGZzSVo4S1ZIdFRXRkU2eUVjYnZIa2tubENLMjlld2lmcWJuM0RXN01IakQ0UDR4V2JnU0xwQkFqcUdpQ2lHenhEVm1V",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 14:45:22 GMT",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-10-02",
-        "2026-10-01"
-      ],
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
-      "appearances": 2
     },
     {
       "id": "889c9ac45acfe434",
@@ -1641,6 +1616,25 @@
       "appearances": 1
     },
     {
+      "id": "84df70c5eea2fc66",
+      "source": "BBC World",
+      "headline": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
+      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-01"
+      ],
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "appearances": 1
+    },
+    {
       "id": "627d9d923af98a96",
       "source": "Wisconsin Public Radio",
       "headline": "Trade ministers gather in Milwaukee ahead of G20 summit",
@@ -1793,6 +1787,25 @@
       "appearances": 1
     },
     {
+      "id": "7a989c41c08a158b",
+      "source": "BBC World",
+      "headline": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab74/live/d5507da0-bd88-11f1-a2ad-3160f44bb180.jpg",
+      "published": "Thu, 01 Oct 2026 14:05:55 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-01"
+      ],
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "appearances": 1
+    },
+    {
       "id": "40c7b0a39fed745a",
       "source": "Dane County",
       "headline": "Road worker killed in Madison crash prompts renewed safety warnings - WMTV 15 NEWS",
@@ -1803,6 +1816,25 @@
       "published": "Wed, 30 Sep 2026 23:36:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-01"
+      ],
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "appearances": 1
+    },
+    {
+      "id": "b9c3043f96b97634",
+      "source": "Ars Technica",
+      "headline": "Returning from vacation? The government can search your phone without a warrant.",
+      "summary": "Reminder: The \"border exemption\" to your rights is real.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg",
+      "published": "Wed, 30 Sep 2026 21:19:56 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-01"
@@ -2584,6 +2616,25 @@
       "published": "Thu, 01 Oct 2026 14:35:32 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-01"
+      ],
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "appearances": 1
+    },
+    {
+      "id": "5878d8b4e4e53b6e",
+      "source": "Wonderful News",
+      "headline": "61 Wholesome Stories That Might Make You Shed A Tear Because They’re So Overwhelmingly Awesome - inkl.com",
+      "summary": "61 Wholesome Stories That Might Make You Shed A Tear Because They’re So Overwhelmingly Awesome inkl.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ZnUzNuRGZEYVdHUlBQQURXNVcyT0xIMy14Y0ZlTEU1VHhVaW5PRXJQRXhUazIxMV9YS1BYYzFlcFNIeEZzaFVUd0dCT1N0SlZCT3EzcV9yQlRMdmFrcldrc0pUWjFkOWEwLUh6VURaV28xcEtnRGZzSVo4S1ZIdFRXRkU2eUVjYnZIa2tubENLMjlld2lmcWJuM0RXN01IakQ0UDR4V2JnU0xwQkFqcUdpQ2lHenhEVm1V?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ZnUzNuRGZEYVdHUlBQQURXNVcyT0xIMy14Y0ZlTEU1VHhVaW5PRXJQRXhUazIxMV9YS1BYYzFlcFNIeEZzaFVUd0dCT1N0SlZCT3EzcV9yQlRMdmFrcldrc0pUWjFkOWEwLUh6VURaV28xcEtnRGZzSVo4S1ZIdFRXRkU2eUVjYnZIa2tubENLMjlld2lmcWJuM0RXN01IakQ0UDR4V2JnU0xwQkFqcUdpQ2lHenhEVm1V",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 14:45:22 GMT",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-10-01"
@@ -7593,25 +7644,6 @@
       "published": "Sun, 27 Sep 2026 11:23:28 GMT",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "appearances": 1
-    },
-    {
-      "id": "ab13087964b487df",
-      "source": "Reuters",
-      "headline": "Americans are down on the economy and concerned about costs: Polls - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Americans are down on the economy and concerned about costs: Polls ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 19:44:52 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-09-27"

@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-10-02.json",
   "report_date": "2026-10-02",
-  "generated_at": "2026-10-02T14:09:01.291911+00:00",
+  "generated_at": "2026-10-02T15:50:59.400914+00:00",
   "edition_count": 79,
   "editions": [
     {
       "report_date": "2026-10-02",
-      "generated_at": "2026-10-02T14:09:01.291911+00:00",
+      "generated_at": "2026-10-02T15:50:59.400914+00:00",
       "path": "data/archive/2026-10-02.json",
       "top_story": {
         "source": "BBC US & Canada",
@@ -15,7 +15,7 @@
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg"
       },
-      "story_count": 72,
+      "story_count": 71,
       "section_counts": {
         "local": 8,
         "must-know": 8,
@@ -24,7 +24,7 @@
         "wellbeing": 8,
         "entertainment": 8,
         "animals": 8,
-        "wonderful": 7
+        "wonderful": 6
       }
     },
     {
