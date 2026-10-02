@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-01.json",
-  "report_date": "2026-10-01",
-  "generated_at": "2026-10-01T17:24:10.090305+00:00",
-  "edition_count": 78,
+  "latest": "data/archive/2026-10-02.json",
+  "report_date": "2026-10-02",
+  "generated_at": "2026-10-02T12:43:37.101653+00:00",
+  "edition_count": 79,
   "editions": [
+    {
+      "report_date": "2026-10-02",
+      "generated_at": "2026-10-02T12:43:37.101653+00:00",
+      "path": "data/archive/2026-10-02.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-10-01",
       "generated_at": "2026-10-01T17:24:10.090305+00:00",
