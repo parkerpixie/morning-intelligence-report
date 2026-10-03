@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-10-03.json",
   "report_date": "2026-10-03",
-  "generated_at": "2026-10-03T12:44:13.558133+00:00",
+  "generated_at": "2026-10-03T14:19:38.120685+00:00",
   "edition_count": 80,
   "editions": [
     {
       "report_date": "2026-10-03",
-      "generated_at": "2026-10-03T12:44:13.558133+00:00",
+      "generated_at": "2026-10-03T14:19:38.120685+00:00",
       "path": "data/archive/2026-10-03.json",
       "top_story": {
-        "source": "NPR",
-        "headline": "The Supreme Court faces another term jam-packed with controversy",
-        "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
-        "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "Why has Brazil accused the US of election interference?",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg"
       },
       "story_count": 71,
       "section_counts": {

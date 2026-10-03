@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T12:45:57.650821+00:00",
+  "generated_at": "2026-10-03T14:21:36.147879+00:00",
   "edition_count": 80,
-  "story_count": 4953,
+  "story_count": 4954,
   "stories": [
     {
       "id": "f1b169a0b80c88e5",
@@ -26,25 +26,6 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-03",
       "appearances": 5
-    },
-    {
-      "id": "f11226144a6d97a3",
-      "source": "Variety",
-      "headline": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
-      "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; that feeling you’ve seen the same story many times before, the actors are checked out, there’s no visual panache. That’s",
-      "url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
-      "canonical_url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MCDDIGG_WB021.jpg",
-      "published": "Fri, 02 Oct 2026 23:15:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-03"
-      ],
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "appearances": 1
     },
     {
       "id": "8d3411f10e5298a9",
@@ -114,6 +95,25 @@
       "published": "Thu, 01 Oct 2026 21:02:37 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
+      "id": "0cdfb9996c318bff",
+      "source": "BBC World",
+      "headline": "Why has Brazil accused the US of election interference?",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg",
+      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "sections": [
+        "big-story"
       ],
       "report_dates": [
         "2026-10-03"
@@ -342,6 +342,25 @@
       "appearances": 3
     },
     {
+      "id": "2712a8822a86b41d",
+      "source": "Associated Press",
+      "headline": "Trump makes rare presidential visit to tribal land for rally - FOX 56 News",
+      "summary": "Trump makes rare presidential visit to tribal land for rally FOX 56 News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFBPUHdKSk5hQUNMUUpoVU1SLV9aNmc0ODdZSjBHSk8zUGZZdDYtbVlrLXVjREdjQVM1Wk5rXy1OcDBCb1ZjVkZnUjNEUmJfUDFZX2V6ZzcxcUJTQkhMMl9ncmxfS2VwYmZlbmtRdnVtTG1ITFpIV0dyWFBsSzY5THh3c3ZoTjhzZFR3bHYtX0dmM1ZwX08ydGh4X2pBOUV2WDZDZk5DS0U2SThQMHJqcDdPa3hRbmdvU2ctRzM1ajk2Qzlhb0xfYV9FYXBLNkhBcWs3eUp3ZzTSAd4BQVVfeXFMTzNaMkNiUzk0dXhkdUtrclNkdEhDWWZKN0ZIYVM2OVpkQ3h3OUdqSWlTT2tiU0x6X0hQR2xhZ25Ba2JZTEoxeGZKLU56d2xDUUNtM2JQZTYweXR1RE9HWFRTS3BBVlo1WHJjMGdNUzg0dmkybHktakxqeEFXZ3l4RjRmV3hyNmpEa0I3TERnNHBNcUdmM3Z3N2NQV1o4TC1ieXV1R0FtdFBjYnBzeGpiQkFlOXQyODhQcmVIbHpPUzNFT1RmVFc5Zlo0QWpwOFhEWGlhWDdwNU4zVEg1N3hR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFBPUHdKSk5hQUNMUUpoVU1SLV9aNmc0ODdZSjBHSk8zUGZZdDYtbVlrLXVjREdjQVM1Wk5rXy1OcDBCb1ZjVkZnUjNEUmJfUDFZX2V6ZzcxcUJTQkhMMl9ncmxfS2VwYmZlbmtRdnVtTG1ITFpIV0dyWFBsSzY5THh3c3ZoTjhzZFR3bHYtX0dmM1ZwX08ydGh4X2pBOUV2WDZDZk5DS0U2SThQMHJqcDdPa3hRbmdvU2ctRzM1ajk2Qzlhb0xfYV9FYXBLNkhBcWs3eUp3ZzTSAd4BQVVfeXFMTzNaMkNiUzk0dXhkdUtrclNkdEhDWWZKN0ZIYVM2OVpkQ3h3OUdqSWlTT2tiU0x6X0hQR2xhZ25Ba2JZTEoxeGZKLU56d2xDUUNtM2JQZTYweXR1RE9HWFRTS3BBVlo1WHJjMGdNUzg0dmkybHktakxqeEFXZ3l4RjRmV3hyNmpEa0I3TERnNHBNcUdmM3Z3N2NQV1o4TC1ieXV1R0FtdFBjYnBzeGpiQkFlOXQyODhQcmVIbHpPUzNFT1RmVFc5Zlo0QWpwOFhEWGlhWDdwNU4zVEg1N3hR",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 00:04:34 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
       "id": "1b79be816790e358",
       "source": "Wisconsin Public Radio",
       "headline": "Trump funding halt means more children in ICE detention in Wisconsin won’t have a lawyer",
@@ -404,7 +423,7 @@
       "id": "ce7ec07986d5466f",
       "source": "AI News",
       "headline": "The US government no longer calls it AI. President Donald Trump has signed an executive order renaming artificial intelligence as Super Intelligence, or SI. On the same day, the heads of…",
-      "summary": "The US government no longer calls it AI. President Donald Trump has signed an executive order renaming artificial intelligence as Super Intelligence, or SI. On the same day, the heads of Google, Meta, Anthropic, OpenAI, Nvidia and xAI signed the White Hous linkedin.com",
+      "summary": "The US government no longer calls it AI. President Donald Trump has signed an executive order renaming artificial intelligence as Super Intelligence, or SI. On the same day, the heads of Google, Meta, Anthropic, OpenAI, Nvidia and xAI signed the White Hous LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlAzTDFmZ3pTSl9HSHlFdmRPOWtJVk1nUU95ZGFWa0hCamUydzRlREJYdDNFbFd5UXo4NkJqOHJsWjZRQVc2YmU4RXd3R01NWTFYazl2Q3hQako2cmJuRHg4MmRMOVlBeUd6YU5YMFdPSVNqcHpFYXcxbDJxOTdKT1RXTmQ1ZU0yekVFdlN2S05ENXdOakdlYjM4eFZfYzZncHRwS0FEaXFXNEE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlAzTDFmZ3pTSl9HSHlFdmRPOWtJVk1nUU95ZGFWa0hCamUydzRlREJYdDNFbFd5UXo4NkJqOHJsWjZRQVc2YmU4RXd3R01NWTFYazl2Q3hQako2cmJuRHg4MmRMOVlBeUd6YU5YMFdPSVNqcHpFYXcxbDJxOTdKT1RXTmQ1ZU0yekVFdlN2S05ENXdOakdlYjM4eFZfYzZncHRwS0FEaXFXNEE",
       "image": "",
@@ -426,10 +445,10 @@
       "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
       "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
       "canonical_url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-      "image": "assets/images/clementine-madison-morning.webp",
+      "image": "",
       "published": "Sat, 03 Oct 2026 05:00:00 -0400",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-03"
@@ -458,16 +477,16 @@
       "appearances": 1
     },
     {
-      "id": "95567a7d3034cd7a",
-      "source": "Associated Press",
-      "headline": "The Latest: Trump campaigns in Alabama ahead of the midterm elections - WHEC.com",
-      "summary": "The Latest: Trump campaigns in Alabama ahead of the midterm elections WHEC.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRPVDk1Z3JTYm1zQUVVYkF5QXh6TkpDWXozM3huVnI1UjJsTVRKSzhwRkhUS3hRSGR5THgyaFYxUGgzcGZtNFlpUWlEaHRjWnVuek13NFF4UlZwYnlpbndrQ2ZScGdnbHBBcHZtenVaV3Y0bjdUMFhudzI0bHdsS0JTNS1QSkl0QUZJX0VSbmJJR1RjbFlUWVRpTjhsZ2IxSk1tYg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRPVDk1Z3JTYm1zQUVVYkF5QXh6TkpDWXozM3huVnI1UjJsTVRKSzhwRkhUS3hRSGR5THgyaFYxUGgzcGZtNFlpUWlEaHRjWnVuek13NFF4UlZwYnlpbndrQ2ZScGdnbHBBcHZtenVaV3Y0bjdUMFhudzI0bHdsS0JTNS1QSkl0QUZJX0VSbmJJR1RjbFlUWVRpTjhsZ2IxSk1tYg",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 23:44:00 GMT",
+      "id": "fd447d5ccac23652",
+      "source": "Ars Technica",
+      "headline": "The dawn of the age of the exoskeleton",
+      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "canonical_url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg",
+      "published": "Sat, 03 Oct 2026 11:15:33 +0000",
       "sections": [
-        "must-know"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-03"
@@ -536,16 +555,16 @@
       "appearances": 1
     },
     {
-      "id": "e63a673e0be8bc0f",
-      "source": "Ars Technica",
-      "headline": "Someone got Doom in an SQL database",
-      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "canonical_url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
-      "published": "Fri, 02 Oct 2026 21:19:05 +0000",
+      "id": "c8634f206bec5fd2",
+      "source": "Variety",
+      "headline": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+      "summary": "David Ellison has emerged victorious. And he’s boldly — or arrogantly, if you prefer — decided to name the entertainment giant that he’s bolted together Skydance Corp., nodding to the original name of his film production firm that has swallowed up two Hollywood studios over the past 14 months. Defying skeptics and beating back opponents,",
+      "url": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+      "canonical_url": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108",
+      "image": "https://variety.com/wp-content/uploads/2026/10/David-Ellison-CEO-Skydance-Corp.jpg",
+      "published": "Sat, 03 Oct 2026 13:00:00 +0000",
       "sections": [
-        "ai-tech"
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-03"
@@ -595,47 +614,6 @@
       "appearances": 1
     },
     {
-      "id": "b98260d983ceb90e",
-      "source": "BBC Health",
-      "headline": "Scrapping pensions triple lock 'morally wrong', says union boss",
-      "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-      "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/f2dc70f0-bbd4-11f1-9dd5-e33ded893e86.png",
-      "published": "Tue, 29 Sep 2026 09:10:03 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-03",
-        "2026-09-29"
-      ],
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-10-03",
-      "appearances": 2
-    },
-    {
-      "id": "ec9454018d2788be",
-      "source": "BBC World",
-      "headline": "Riot police clash with students as education protests rage in France",
-      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
-      "published": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-03",
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
-      "appearances": 2
-    },
-    {
       "id": "f579d90ae08ec85a",
       "source": "Madison Local",
       "headline": "QUIZ: Test your UW-Madison history knowledge - WMTV 15 NEWS",
@@ -658,13 +636,32 @@
       "id": "2fb5f231030fdc7f",
       "source": "BBC World",
       "headline": "Protesters across Spain demand action over housing crisis",
-      "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm2kej47095no",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
-      "published": "Sat, 03 Oct 2026 12:16:15 GMT",
+      "published": "Sat, 03 Oct 2026 13:34:11 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
+      "id": "f54ad63010b3f9f5",
+      "source": "Variety",
+      "headline": "Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the São Paulo Film Festival (EXCLUSIVE)",
+      "summary": "Philanthropist Olga Rabinovich will receive the inaugural Prêmio Encontros (Encounters Award) at this year’s Encontro de Ideias Audiovisuais, the industry platform of the São Paulo International Film Festival. The award honors her enduring commitment to advancing Brazilian cinema and elevating the international profile of Brazilian film and talent through her work with Projeto Paradiso. The",
+      "url": "https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/",
+      "canonical_url": "https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090",
+      "image": "https://variety.com/wp-content/uploads/2026/10/VARIETY-SIZING-55.png",
+      "published": "Sat, 03 Oct 2026 13:01:33 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-03"
@@ -682,25 +679,6 @@
       "canonical_url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-1152x648.jpg",
       "published": "Fri, 02 Oct 2026 20:07:59 +0000",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-03"
-      ],
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "appearances": 1
-    },
-    {
-      "id": "92acfd36b4b53938",
-      "source": "Behavioral Health",
-      "headline": "Parakeet Health Secures $10M for Conversational Agentic Platform - MedCity News",
-      "summary": "Parakeet Health Secures $10M for Conversational Agentic Platform MedCity News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0NQam1UT2VEbm5tZWt1S2dfeGQ4M01tbGpLLUVxbVFEeTg1WkU5MGlLY2IyWlBWWHJfeS1kZ2xmck5EdTFPR1psajFrNXhOREZtdk9zbWREelVuekNYb0xrck9lQ0E4OFBnU2FiazZ2dkxGZEtJTmdiQU9ETXJMTGFrbHRfSTlMaFJJM2NPV0ZSNy1ic1hUSS1hWlQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0NQam1UT2VEbm5tZWt1S2dfeGQ4M01tbGpLLUVxbVFEeTg1WkU5MGlLY2IyWlBWWHJfeS1kZ2xmck5EdTFPR1psajFrNXhOREZtdk9zbWREelVuekNYb0xrck9lQ0E4OFBnU2FiazZ2dkxGZEtJTmdiQU9ETXJMTGFrbHRfSTlMaFJJM2NPV0ZSNy1ic1hUSS1hWlQ",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 20:44:35 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -769,16 +747,16 @@
       "appearances": 1
     },
     {
-      "id": "e2ea18e80b5d8e27",
-      "source": "Reuters",
-      "headline": "New term gives US Supreme Court's Thomas and Alito more chances to wield power - Reuters",
-      "summary": "New term gives US Supreme Court's Thomas and Alito more chances to wield power Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDVubHFyckowRE8xVEJpNHlpSktyOGdXZUtMLTJmSDJ6aTA1RUZjNEV6czhQSmVyM05MLWpZNGp1aEN5Z0xvM3RtaGlfeDVzdWtKUXRWdkoxcUdoNHZNWmpsUzZKc3IwQ2M3ZUtFckpEZVUwaVJBMVJVbkttTV9ob1dCU3ZfVDNDZDMtOExMR2xUdndZTkExZ1QyRV9faUN0b0xHenpYMlJMR0kyZDZCWGxZTVdnTEhTTHNPMWo2Q1E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDVubHFyckowRE8xVEJpNHlpSktyOGdXZUtMLTJmSDJ6aTA1RUZjNEV6czhQSmVyM05MLWpZNGp1aEN5Z0xvM3RtaGlfeDVzdWtKUXRWdkoxcUdoNHZNWmpsUzZKc3IwQ2M3ZUtFckpEZVUwaVJBMVJVbkttTV9ob1dCU3ZfVDNDZDMtOExMR2xUdndZTkExZ1QyRV9faUN0b0xHenpYMlJMR0kyZDZCWGxZTVdnTEhTTHNPMWo2Q1E",
+      "id": "eb57e16afeeaaa5c",
+      "source": "Isthmus",
+      "headline": "Madison Mayoral Race 2027 - Isthmus | Madison, Wisconsin",
+      "summary": "Madison Mayoral Race 2027 Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdE1xS01hRTNCZXdlQnd5M014cE1oelc0cWhyVEpLT2lnRmlRU2w3SldFMXhRTC1uVFc0Y0VVUXJuVkItNEFCM2QtVThhb3VGRU5QQ0ZkS0FBODhKNldrVFlJUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdE1xS01hRTNCZXdlQnd5M014cE1oelc0cWhyVEpLT2lnRmlRU2w3SldFMXhRTC1uVFc0Y0VVUXJuVkItNEFCM2QtVThhb3VGRU5QQ0ZkS0FBODhKNldrVFlJUQ",
       "image": "",
-      "published": "Sat, 03 Oct 2026 10:24:07 GMT",
+      "published": "Fri, 02 Oct 2026 21:32:03 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-03"
@@ -786,28 +764,6 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
       "appearances": 1
-    },
-    {
-      "id": "0e2c6803804efaaa",
-      "source": "Medical Xpress",
-      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
-      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 20:10:30 GMT",
-      "sections": [
-        "quick-scan",
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-03",
-        "2026-09-10",
-        "2026-09-08"
-      ],
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-10-03",
-      "appearances": 3
     },
     {
       "id": "af8360af2aaf72da",
@@ -848,16 +804,16 @@
       "appearances": 1
     },
     {
-      "id": "17c7411605e2f5fa",
-      "source": "Variety",
-      "headline": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
-      "summary": "John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he’s imploring David Ellison to consider what the industry needs as he takes over the new Skydance. “Come on, Dave. Do the right thing. Don’t just think of yourself and your pocket. Think of what Americans need and what the industry needs.",
-      "url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
-      "canonical_url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710",
-      "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2298272566.jpg",
-      "published": "Fri, 02 Oct 2026 22:37:41 +0000",
+      "id": "1736656a8d64ddc3",
+      "source": "Reuters",
+      "headline": "Live - Iran rial hits record low as US weighs next steps in war - Iran International",
+      "summary": "Live - Iran rial hits record low as US weighs next steps in war Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 13:27:45 GMT",
       "sections": [
-        "entertainment"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-03"
@@ -903,6 +859,27 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
       "appearances": 1
+    },
+    {
+      "id": "13e295a6c545c8a2",
+      "source": "BBC Health",
+      "headline": "Hidden habits that make your social anxiety worse - and how to break them",
+      "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "Wed, 30 Sep 2026 00:44:50 GMT",
+      "sections": [
+        "quick-scan",
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-03",
+        "2026-09-30"
+      ],
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-10-03",
+      "appearances": 2
     },
     {
       "id": "51a9e2c8a1cc2146",
@@ -1000,6 +977,44 @@
       "appearances": 1
     },
     {
+      "id": "b4531ebd81c590df",
+      "source": "NPR",
+      "headline": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+      "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+      "canonical_url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 07:47:09 -0400",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
+      "id": "da5e439b26aefd93",
+      "source": "Madison Local",
+      "headline": "Dr. Corey Pompey directs UW-Madison Marching Band during homecoming parade - WMTV 15 NEWS",
+      "summary": "Dr. Corey Pompey directs UW-Madison Marching Band during homecoming parade WMTV 15 NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3M2TTFNQzR6VGE4TjNVaEV4SzhWREcycVpKNWNDMzRWNzJ1aEZaYUVtY25tWlJYVUZna3k5LVlOR1kyMFowdFZ3Y1lpbmFwQ2VIUFNzR2JXMmRsOW03SG95LXdWV2xkOGt5VXJVUk5tR25rMjZLcGg0U3JtcUstdTZmMVR4RS1EYk9WdjgxQkhWWDd6R25xRTNXbDIybE0zX2lhazZ1VGcxbzVMZFlkSmpWUXR2cWhGRGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3M2TTFNQzR6VGE4TjNVaEV4SzhWREcycVpKNWNDMzRWNzJ1aEZaYUVtY25tWlJYVUZna3k5LVlOR1kyMFowdFZ3Y1lpbmFwQ2VIUFNzR2JXMmRsOW03SG95LXdWV2xkOGt5VXJVUk5tR25rMjZLcGg0U3JtcUstdTZmMVR4RS1EYk9WdjgxQkhWWDd6R25xRTNXbDIybE0zX2lhazZ1VGcxbzVMZFlkSmpWUXR2cWhGRGc",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 01:22:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
       "id": "4b8d920c13afb795",
       "source": "Channel 3000",
       "headline": "Dane Co. Humane Society offering adoption fee discounts for dogs as shelter nears capacity - Channel 3000",
@@ -1048,44 +1063,6 @@
       "published": "Fri, 02 Oct 2026 22:32:00 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-03"
-      ],
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "appearances": 1
-    },
-    {
-      "id": "6841bd10549fe06f",
-      "source": "Isthmus",
-      "headline": "Ced Ba'etch' - Isthmus | Madison, Wisconsin",
-      "summary": "Ced Ba'etch' Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjc5U2RHZUhjcmF3NHVIRWMxZ0l6YUdaTHJvLUh5SE9Lb2ZIaGpKbjFmaXd2ekpqRjhGRGpWdTJkOXYzQ2JhdEdVeC02RzFTNkNyREFsaThEZ1hZMjI2MWxmLUwtNi1CTnQyQVZNc2NFVWlLYUlBMHNVZmxOUnh2SHR0OEpzZGRrcGR4VlZaa0JKVnRWRTIwc29BWWk0NkN3RWpHZl9fVnN1dUNWNi1CUVY4V2xoam5lWXRjWTdPcmhNM2NGS3JIcVFXeFVCaVNEdWh6ZllGbkwxY19aRWFDVTdKeHVqVU5tS3l6Rw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjc5U2RHZUhjcmF3NHVIRWMxZ0l6YUdaTHJvLUh5SE9Lb2ZIaGpKbjFmaXd2ekpqRjhGRGpWdTJkOXYzQ2JhdEdVeC02RzFTNkNyREFsaThEZ1hZMjI2MWxmLUwtNi1CTnQyQVZNc2NFVWlLYUlBMHNVZmxOUnh2SHR0OEpzZGRrcGR4VlZaa0JKVnRWRTIwc29BWWk0NkN3RWpHZl9fVnN1dUNWNi1CUVY4V2xoam5lWXRjWTdPcmhNM2NGS3JIcVFXeFVCaVNEdWh6ZllGbkwxY19aRWFDVTdKeHVqVU5tS3l6Rw",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 20:17:21 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-03"
-      ],
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "appearances": 1
-    },
-    {
-      "id": "0e389be1ac75148f",
-      "source": "Madison Local",
-      "headline": "Candidate tracker: Madison mayor's race 2027 - Isthmus | Madison, Wisconsin",
-      "summary": "Candidate tracker: Madison mayor's race 2027 Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcVJTMU9pLVF2U3plZ2pfWmppT2hUbnVCc0FleUMwMGNUX3Q5MVdMa1N4MWlLRkdQS0NZS0tpWHphVDlXNW55TjJfV3VxaFBJZk1kX281NzRQekZaV1hVclFCSmNTMnEyUDYzN1FyclV0WHktZ2c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcVJTMU9pLVF2U3plZ2pfWmppT2hUbnVCc0FleUMwMGNUX3Q5MVdMa1N4MWlLRkdQS0NZS0tpWHphVDlXNW55TjJfV3VxaFBJZk1kX281NzRQekZaV1hVclFCSmNTMnEyUDYzN1FyclV0WHktZ2c",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 20:59:59 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-10-03"
@@ -1230,6 +1207,25 @@
       "appearances": 1
     },
     {
+      "id": "7d51f2bf451ba370",
+      "source": "Associated Press",
+      "headline": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
+      "summary": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 20:18:00 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-03"
+      ],
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "appearances": 1
+    },
+    {
       "id": "36b52204f2c544d4",
       "source": "NPR",
       "headline": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
@@ -1249,14 +1245,14 @@
       "appearances": 1
     },
     {
-      "id": "94d216d4c2df24b3",
-      "source": "NPR",
-      "headline": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
-      "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
-      "canonical_url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 05:00:00 -0400",
+      "id": "204bd50d06e33d40",
+      "source": "BBC Entertainment",
+      "headline": "Alison Hammond returns home from hospital after rushing off This Morning",
+      "summary": "The This Morning presenter said she believes she experienced a panic attack on Friday's show.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d175/live/03971280-bf2a-11f1-b10d-f956452c9061.jpg",
+      "published": "Sat, 03 Oct 2026 13:21:40 GMT",
       "sections": [
         "wellbeing"
       ],
@@ -1268,16 +1264,37 @@
       "appearances": 1
     },
     {
-      "id": "d85fb626f9bc4598",
-      "source": "Wisconsin Public Radio",
-      "headline": "9 wolves killed by federal officials in northern Wisconsin after threatening behavior to humans",
-      "summary": "Nine wolves were killed by federal officials in northern Wisconsin in late August and early September, following “a series of verified threats to human health and safety,\" according to the state Department of Natural Resources.",
-      "url": "https://www.wpr.org/news/9-wolves-killed-by-federal-officials-northern-wisconsin-after-threatening-behavior-humans",
-      "canonical_url": "https://www.wpr.org/news/9-wolves-killed-by-federal-officials-northern-wisconsin-after-threatening-behavior-humans",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 19:08:11 +0000",
+      "id": "61cc24588a0cdd28",
+      "source": "BBC Technology",
+      "headline": "AI boom could trigger market shocks, Bank of England boss warns",
+      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
+      "published": "Thu, 01 Oct 2026 10:05:25 GMT",
       "sections": [
+        "ai-tech",
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-03",
+        "2026-10-01"
+      ],
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-03",
+      "appearances": 2
+    },
+    {
+      "id": "94d216d4c2df24b3",
+      "source": "NPR",
+      "headline": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
+      "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+      "canonical_url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+      "image": "",
+      "published": "Sat, 03 Oct 2026 05:00:00 -0400",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-03"
@@ -1327,25 +1344,6 @@
       "appearances": 2
     },
     {
-      "id": "d0ed25e4301623b9",
-      "source": "Audubon",
-      "headline": "2026 Conservation Ranching Bird Monitoring Results in the Rockies - National Audubon Society",
-      "summary": "2026 Conservation Ranching Bird Monitoring Results in the Rockies National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGNvZDJVanVrNEtZc0dSS3d2elBPVEJ5Nmk4Wl9KVEE5LVAza3Q4RXVnV1EyVWZ6YkxhOGRoMktNNjd5Z3hyM25nMzR6OG9KTk5XRXoxX0IzRVVic1lEUHc3ZWszM0RaQU5vb0tfRW5aRnV1TVpfN21BeVY2NHJfb1RIcng2YV9uSmxLOGdxMFlOY2pVT19HcGlpZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGNvZDJVanVrNEtZc0dSS3d2elBPVEJ5Nmk4Wl9KVEE5LVAza3Q4RXVnV1EyVWZ6YkxhOGRoMktNNjd5Z3hyM25nMzR6OG9KTk5XRXoxX0IzRVVic1lEUHc3ZWszM0RaQU5vb0tfRW5aRnV1TVpfN21BeVY2NHJfb1RIcng2YV9uSmxLOGdxMFlOY2pVT19HcGlpZw",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 20:33:45 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-03"
-      ],
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "appearances": 1
-    },
-    {
       "id": "252d7ff0bf6bc3e6",
       "source": "Wisconsin Public Radio",
       "headline": "2 Wisconsin sheriff races test the future of local ICE cooperation",
@@ -1372,7 +1370,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByZ2dsMEQwb0JVN3IydllEOHhKcUVNdGpxQnJrQ3BvQ2c5VUtqRjlVUEd5UHRBNktYUHhlYnRyQVZ4RkxzQzRDZkh1amJwcENYU1JTSzVtcFFwMnRaWEdlcW5XVXhNdw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByZ2dsMEQwb0JVN3IydllEOHhKcUVNdGpxQnJrQ3BvQ2c5VUtqRjlVUEd5UHRBNktYUHhlYnRyQVZ4RkxzQzRDZkh1amJwcENYU1JTSzVtcFFwMnRaWEdlcW5XVXhNdw",
       "image": "",
-      "published": "Fri, 02 Oct 2026 21:39:30 GMT",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -1812,6 +1810,25 @@
       "published": "Fri, 02 Oct 2026 14:00:00 +0000",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "appearances": 1
+    },
+    {
+      "id": "ec9454018d2788be",
+      "source": "BBC World",
+      "headline": "Riot police clash with students as education protests rage in France",
+      "summary": "More than 550 schools have been disrupted as protests over standards and lack of teachers continue.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc31/live/6cb00130-be6e-11f1-8a45-cd59664d243b.jpg",
+      "published": "Fri, 02 Oct 2026 16:26:09 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-02"
@@ -3763,25 +3780,6 @@
       "appearances": 1
     },
     {
-      "id": "61cc24588a0cdd28",
-      "source": "BBC Technology",
-      "headline": "AI boom could trigger market shocks, Bank of England boss warns",
-      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
-      "published": "Thu, 01 Oct 2026 10:05:25 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-01"
-      ],
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "appearances": 1
-    },
-    {
       "id": "1252af2c0cfe3456",
       "source": "MarTech",
       "headline": "7 AI search myths busted by data",
@@ -4523,25 +4521,6 @@
       "published": "Wed, 30 Sep 2026 16:34:08 +0000",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-09-30"
-      ],
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "appearances": 1
-    },
-    {
-      "id": "13e295a6c545c8a2",
-      "source": "BBC Health",
-      "headline": "Hidden habits that make your social anxiety worse - and how to break them",
-      "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Wed, 30 Sep 2026 00:44:50 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-09-30"
@@ -5485,6 +5464,25 @@
       "published": "Tue, 29 Sep 2026 12:49:00 +0000",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-09-29"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "appearances": 1
+    },
+    {
+      "id": "b98260d983ceb90e",
+      "source": "BBC Health",
+      "headline": "Scrapping pensions triple lock 'morally wrong', says union boss",
+      "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/f2dc70f0-bbd4-11f1-9dd5-e33ded893e86.png",
+      "published": "Tue, 29 Sep 2026 09:10:03 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-29"
@@ -28774,6 +28772,26 @@
       "first_seen": "2026-09-10",
       "last_seen": "2026-09-10",
       "appearances": 1
+    },
+    {
+      "id": "0e2c6803804efaaa",
+      "source": "Medical Xpress",
+      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
+      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 14:20:21 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-09-10",
+        "2026-09-08"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-10",
+      "appearances": 2
     },
     {
       "id": "6be9484307df7749",
