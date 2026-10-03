@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-02.json",
-  "report_date": "2026-10-02",
-  "generated_at": "2026-10-02T16:40:08.883216+00:00",
-  "edition_count": 79,
+  "latest": "data/archive/2026-10-03.json",
+  "report_date": "2026-10-03",
+  "generated_at": "2026-10-03T11:44:29.650284+00:00",
+  "edition_count": 80,
   "editions": [
+    {
+      "report_date": "2026-10-03",
+      "generated_at": "2026-10-03T11:44:29.650284+00:00",
+      "path": "data/archive/2026-10-03.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "The Supreme Court faces another term jam-packed with controversy",
+        "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+        "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-02",
       "generated_at": "2026-10-02T16:40:08.883216+00:00",
