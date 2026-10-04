@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T13:30:16.850707+00:00",
+  "generated_at": "2026-10-04T14:49:49.602597+00:00",
   "edition_count": 81,
-  "story_count": 5014,
+  "story_count": 5015,
   "stories": [
-    {
-      "id": "4c16864ef1a1b72b",
-      "source": "Wisconsin News",
-      "headline": "‘This may just be the end’: Wisconsin farmers struggle to afford diesel during harvest season - Leader-Telegram",
-      "summary": "‘This may just be the end’: Wisconsin farmers struggle to afford diesel during harvest season Leader-Telegram",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQclQza1lweTZSUmdyNnhoZnhYOTBOb2dvTDRnVUNTQUZBZElVU2p2aFJ1cVk4c1REZF8zQ0xBQ25VUzZWUUdJal9SX0dLZS1YYS1KWV9TWkZybVRXcXBOMW84ZThvajNvbzFuYWYwOVBTb0loRlhPSnBYMTVSQTQtdU5hejhORnRaeTdvSjRqQnczbGoyRHBHNGpYbFRmMjQ1UXFqbVZzZXVjcDN2VFhBZHNEYWpjRi0tZ0ZBeXNvcjhPdGxyM2MzSDZOZzg3dklLTXdWZUtHYUxPV0toN3VZSnNibU1RRzdkcDY2aWtid21GbEZHMlhlbC0walRKVS05cmpiWWhTY3JZYnBxajhDQ0NFWmdteDh5eDdYVUJhY2NRUnRfLTZMMW5GM1Rld0NESkVQVmNVc0Q?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQclQza1lweTZSUmdyNnhoZnhYOTBOb2dvTDRnVUNTQUZBZElVU2p2aFJ1cVk4c1REZF8zQ0xBQ25VUzZWUUdJal9SX0dLZS1YYS1KWV9TWkZybVRXcXBOMW84ZThvajNvbzFuYWYwOVBTb0loRlhPSnBYMTVSQTQtdU5hejhORnRaeTdvSjRqQnczbGoyRHBHNGpYbFRmMjQ1UXFqbVZzZXVjcDN2VFhBZHNEYWpjRi0tZ0ZBeXNvcjhPdGxyM2MzSDZOZzg3dklLTXdWZUtHYUxPV0toN3VZSnNibU1RRzdkcDY2aWtid21GbEZHMlhlbC0walRKVS05cmpiWWhTY3JZYnBxajhDQ0NFWmdteDh5eDdYVUJhY2NRUnRfLTZMMW5GM1Rld0NESkVQVmNVc0Q",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 12:29:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-10-04"
-      ],
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "appearances": 1
-    },
     {
       "id": "f1b169a0b80c88e5",
       "source": "Positive News",
@@ -46,25 +27,6 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-04",
       "appearances": 6
-    },
-    {
-      "id": "dcd360caae8c799e",
-      "source": "Associated Press",
-      "headline": "‘Jane Doe’ solidarity posts flood social media after Cornell rape lawsuit - ABC27",
-      "summary": "‘Jane Doe’ solidarity posts flood social media after Cornell rape lawsuit ABC27",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVC10bkp3ZmQxa0p5a0pUNXBLQndheGN4MUVSdlp3RFhiM2J5Q3hPUHJRUW9YajU5clpKUzg1enN6SGxJR0NBcFBwek9iV3EzMzY2a09OdGliWGw5eWZ3c1NhUzF4aEpzQVRRem8wdlZ5dkw3Z1NuN0dCNkdYcEhYVW9DMFRPUTB4VUdtek92STlodUZXa3pQc2Q3Q3REbFhWaDVMV1VNU3QyN1EwU0U1ZTcyQk5ULWhxUHQ5SkdFZHI3dWF3RmRJaHRoc9IB0AFBVV95cUxQeWMxamloN1g0Z3V1cFpSazlqTnNEdl9Ed2lvVXJxNzVnQ3Q5clFiU2w0UzlpX3AwSlNkRGVPbElYM19xZnBaWmp3dWZMSnVnZ3NDekMxSF9UT2xDeVh3bExyeXJ0a1Y5RzA5YnFLSjdjMFgwaUdxU3d0Z3pvSTBIbkF6aUl5RDRvSURvcVpwdFl4anNjbnlIcURmMy1CRlV1bVpxYjUwaE5UN3BFTVQ4Q1RianlORDVTY2tXUWV4aTBxckF3Y25GN1I0VENjd1pN?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVC10bkp3ZmQxa0p5a0pUNXBLQndheGN4MUVSdlp3RFhiM2J5Q3hPUHJRUW9YajU5clpKUzg1enN6SGxJR0NBcFBwek9iV3EzMzY2a09OdGliWGw5eWZ3c1NhUzF4aEpzQVRRem8wdlZ5dkw3Z1NuN0dCNkdYcEhYVW9DMFRPUTB4VUdtek92STlodUZXa3pQc2Q3Q3REbFhWaDVMV1VNU3QyN1EwU0U1ZTcyQk5ULWhxUHQ5SkdFZHI3dWF3RmRJaHRoc9IB0AFBVV95cUxQeWMxamloN1g0Z3V1cFpSazlqTnNEdl9Ed2lvVXJxNzVnQ3Q5clFiU2w0UzlpX3AwSlNkRGVPbElYM19xZnBaWmp3dWZMSnVnZ3NDekMxSF9UT2xDeVh3bExyeXJ0a1Y5RzA5YnFLSjdjMFgwaUdxU3d0Z3pvSTBIbkF6aUl5RDRvSURvcVpwdFl4anNjbnlIcURmMy1CRlV1bVpxYjUwaE5UN3BFTVQ4Q1RianlORDVTY2tXUWV4aTBxckF3Y25GN1I0VENjd1pN",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 10:19:01 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-04"
-      ],
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "appearances": 1
     },
     {
       "id": "2387d0cbec8ae320",
@@ -125,7 +87,7 @@
     },
     {
       "id": "0cdfb9996c318bff",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "Why has Brazil accused the US of election interference?",
       "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
@@ -175,7 +137,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
       "published": "Sun, 04 Oct 2026 11:03:20 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-04"
@@ -187,8 +149,8 @@
     {
       "id": "885ab4d3716c6cf7",
       "source": "Search Engine Land",
-      "headline": "What effective SEO client onboarding looks like: The first 90 days - Search Engine Land",
-      "summary": "What effective SEO client onboarding looks like: The first 90 days Search Engine Land",
+      "headline": "What effective SEO client onboarding looks like: The first 90 days - searchengineland.com",
+      "summary": "What effective SEO client onboarding looks like: The first 90 days searchengineland.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM",
       "image": "",
@@ -221,28 +183,6 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "appearances": 1
-    },
-    {
-      "id": "8580320203abe582",
-      "source": "BBC US & Canada",
-      "headline": "US jobs market sees sharp slowdown ahead of midterm elections",
-      "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
-      "published": "Fri, 02 Oct 2026 14:30:48 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-04",
-        "2026-10-03",
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
-      "appearances": 3
     },
     {
       "id": "387d16e1ffb4adcc",
@@ -300,6 +240,28 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "appearances": 1
+    },
+    {
+      "id": "1b79be816790e358",
+      "source": "Wisconsin Public Radio",
+      "headline": "Trump funding halt means more children in ICE detention in Wisconsin won’t have a lawyer",
+      "summary": "Children in ICE detention from Wisconsin may have to go without a lawyer in court after President Donald Trump halted millions in appropriated federal funds.",
+      "url": "https://www.wpr.org/news/trump-funding-halt-means-more-children-ice-detention-wisconsin-wont-have-lawyer",
+      "canonical_url": "https://www.wpr.org/news/trump-funding-halt-means-more-children-ice-detention-wisconsin-wont-have-lawyer",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 10:00:00 +0000",
+      "sections": [
+        "local",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-04",
+        "2026-10-03",
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-04",
+      "appearances": 3
     },
     {
       "id": "c61329f356a0a405",
@@ -418,6 +380,25 @@
       "appearances": 1
     },
     {
+      "id": "edb778d67ea025f6",
+      "source": "Associated Press",
+      "headline": "The Latest: Brazilians vote in presidential election dominated by Lula and Bolsonaro - News4JAX",
+      "summary": "The Latest: Brazilians vote in presidential election dominated by Lula and Bolsonaro News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDU0Q0dhTVNyNHhwckkzTEVxR0pDQ0NTcDJvdnJrNEdLTG5WRC1GZXgxMnhCMjF0VGpTQzFSbEg4RTRoQnQ0a3BvMUVMNHBkUXRKMUVYWXNDX09sN2JBMGlROVM1T0lNLTNtOVhrek8yNGx3NFBvS2w4Rk9xZDNXd3hzdlhMS21jaGFQNXVrc0NxUUNtdUJ5Uzc1TEx5dDl3MER0WjREMTV2SkZzeWpsWnRrVThqM295X01ENV9FMlFzTFVwY1ZBMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDU0Q0dhTVNyNHhwckkzTEVxR0pDQ0NTcDJvdnJrNEdLTG5WRC1GZXgxMnhCMjF0VGpTQzFSbEg4RTRoQnQ0a3BvMUVMNHBkUXRKMUVYWXNDX09sN2JBMGlROVM1T0lNLTNtOVhrek8yNGx3NFBvS2w4Rk9xZDNXd3hzdlhMS21jaGFQNXVrc0NxUUNtdUJ5Uzc1TEx5dDl3MER0WjREMTV2SkZzeWpsWnRrVThqM295X01ENV9FMlFzTFVwY1ZBMA",
+      "image": "assets/images/clementine-madison-morning.webp",
+      "published": "Sun, 04 Oct 2026 11:26:08 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-10-04"
+      ],
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "appearances": 1
+    },
+    {
       "id": "514b5c476ccacd42",
       "source": "BBC Entertainment",
       "headline": "The Kent village that helped shape Audrey Hepburn",
@@ -426,6 +407,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047d/live/cf55e0a0-be57-11f1-8828-9d9deece30a1.jpg",
       "published": "Sun, 04 Oct 2026 06:08:22 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-04"
+      ],
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "appearances": 1
+    },
+    {
+      "id": "a39da382cd486678",
+      "source": "BBC Entertainment",
+      "headline": "The hidden daytime dance revolution - and the man who captured it on camera",
+      "summary": "Tim Smith's shots of the early 'daytimers' bhangra scene in Bradford feature in a Tate exhibition.",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvddgqv9ro?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwddvddgqv9ro",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1844/live/b561d350-be59-11f1-8828-9d9deece30a1.jpg",
+      "published": "Sun, 04 Oct 2026 07:59:11 GMT",
       "sections": [
         "entertainment"
       ],
@@ -456,27 +456,8 @@
       "appearances": 1
     },
     {
-      "id": "4d8368c9ab05ac4a",
-      "source": "Taylor Fashion",
-      "headline": "The Eras Tour family reunited at Taylor Swift's wedding. Here's every look her dancers shared - Yahoo Creators",
-      "summary": "The Eras Tour family reunited at Taylor Swift's wedding. Here's every look her dancers shared Yahoo Creators",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUp3NXZoMHRpckRScEFPWkU1c2xDSUJ2QUFQcXgzZGxfUXQ3dWFCRV9lTmU0TjRNZkZpLWY2cTZUWW1CQm9uOFFXSl9VSHNoMjRDM0NfNW1HZTlVbmZib21XT3A0eE1yRDBHYU1VcHNIU3hPWk5XZktvVWM0azJoSmxBSVZJVDFnbFZrU3d6b1VSaGpRRVFYNS0wVHlRTGl4YUdsbC1YQ3VyUWt2LTNMRGdYdWZDQ010Si14WVFYTkJQMjdSaFF0cTRNZFcwcGh1WUNrVm1OZXZaejhoeFFKVkFB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUp3NXZoMHRpckRScEFPWkU1c2xDSUJ2QUFQcXgzZGxfUXQ3dWFCRV9lTmU0TjRNZkZpLWY2cTZUWW1CQm9uOFFXSl9VSHNoMjRDM0NfNW1HZTlVbmZib21XT3A0eE1yRDBHYU1VcHNIU3hPWk5XZktvVWM0azJoSmxBSVZJVDFnbFZrU3d6b1VSaGpRRVFYNS0wVHlRTGl4YUdsbC1YQ3VyUWt2LTNMRGdYdWZDQ010Si14WVFYTkJQMjdSaFF0cTRNZFcwcGh1WUNrVm1OZXZaejhoeFFKVkFB",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 22:10:56 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-04"
-      ],
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "appearances": 1
-    },
-    {
       "id": "06ea8608a14b7191",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
       "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
@@ -494,14 +475,14 @@
       "appearances": 1
     },
     {
-      "id": "e0d19336f5ecb369",
-      "source": "Variety",
-      "headline": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
-      "summary": "Predictions that Taylor Swift would make a cameo on “Saturday Night Live” with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said “I have really good friends. They don’t judge me, they’re really supportive. Ladies and gentlemen, my literal therapist.”",
-      "url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/",
-      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411",
-      "image": "https://variety.com/wp-content/uploads/2026/10/taylor-dakota.jpg",
-      "published": "Sun, 04 Oct 2026 03:49:52 +0000",
+      "id": "c910f36303abb006",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift’s Minidress Puts Spin on Back-to-School Fashion on ‘SNL’ - instyle.com",
+      "summary": "Taylor Swift’s Minidress Puts Spin on Back-to-School Fashion on ‘SNL’ instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmJEYnhWRHJLcHBZM1MwaGIyNnRlY2U1dnBPN1NNbDRvajBtWFQ0QzFkTE8xZXdyNzN3LXozeEppYnR1WWs2Q3lwTWUzbHFhYnlfOHhpSjExQW9QTE1iT196U0VOalNVZm9UN2h2VG9hQ1lpZFdxZHAzRWdydFRmaVM1ZFFQX1RLRGlfS3pUZHAzdmJySEFEcFFMVVktX0k?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmJEYnhWRHJLcHBZM1MwaGIyNnRlY2U1dnBPN1NNbDRvajBtWFQ0QzFkTE8xZXdyNzN3LXozeEppYnR1WWs2Q3lwTWUzbHFhYnlfOHhpSjExQW9QTE1iT196U0VOalNVZm9UN2h2VG9hQ1lpZFdxZHAzRWdydFRmaVM1ZFFQX1RLRGlfS3pUZHAzdmJySEFEcFFMVVktX0k",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 10:35:30 GMT",
       "sections": [
         "entertainment"
       ],
@@ -513,14 +494,14 @@
       "appearances": 1
     },
     {
-      "id": "76597e8d56d22d7d",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift celebrates musical milestone in symbolic outfit - pagesix.com",
-      "summary": "Taylor Swift celebrates musical milestone in symbolic outfit pagesix.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUk4eGRYRkZsR29QM0VQbXlMaWQyaUpaejJMbFlGejhONm45SVVPb3ZNTnRueTd6UWZNX2g5eHlQWVhQOXdDTGFVYVlrNHkwM0NJMDNZeEZhRHBkclpEZ1lOX0I5TVB4ek4zcm45Yll4R3NMR2xxTS1YMXpNWm04SkY0RWFZQmJiR3YzaHdLejBDaVNLUm1YWHVrWjA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUk4eGRYRkZsR29QM0VQbXlMaWQyaUpaejJMbFlGejhONm45SVVPb3ZNTnRueTd6UWZNX2g5eHlQWVhQOXdDTGFVYVlrNHkwM0NJMDNZeEZhRHBkclpEZ1lOX0I5TVB4ek4zcm45Yll4R3NMR2xxTS1YMXpNWm04SkY0RWFZQmJiR3YzaHdLejBDaVNLUm1YWHVrWjA",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 21:15:00 GMT",
+      "id": "e0d19336f5ecb369",
+      "source": "Variety",
+      "headline": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout",
+      "summary": "Predictions that Taylor Swift would make a cameo on “Saturday Night Live” with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said “I have really good friends. They don’t judge me, they’re really supportive. Ladies and gentlemen, my literal therapist.”",
+      "url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/",
+      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411",
+      "image": "https://variety.com/wp-content/uploads/2026/10/taylor-dakota.jpg",
+      "published": "Sun, 04 Oct 2026 03:49:52 +0000",
       "sections": [
         "entertainment"
       ],
@@ -572,6 +553,25 @@
       "appearances": 2
     },
     {
+      "id": "219c7a45be68edb9",
+      "source": "Wisconsin News",
+      "headline": "Spotlight on Wisconsin-made products - Spectrum News",
+      "summary": "Spotlight on Wisconsin-made products Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHM2aDNNczl4NXBRbWEtVWoxTS1TVWF0bEdQSEktVlIxemo2VDltaEprdm9NQks4dFpFR05lS0xfX3hFbHRCTWhCbG9WX1k1N1pWZVRGRXFadXFjWGRGUENqR1hsRXVJRFNoQVBSYTNtbXlwa3J6Tm41MTBralNIS01EdFZMbzhNMk96eV8zcnM0ZFE5U0xNNFlQNEd3aXZTbWprZ1kxZHUwbW9NWlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHM2aDNNczl4NXBRbWEtVWoxTS1TVWF0bEdQSEktVlIxemo2VDltaEprdm9NQks4dFpFR05lS0xfX3hFbHRCTWhCbG9WX1k1N1pWZVRGRXFadXFjWGRGUENqR1hsRXVJRFNoQVBSYTNtbXlwa3J6Tm41MTBralNIS01EdFZMbzhNMk96eV8zcnM0ZFE5U0xNNFlQNEd3aXZTbWprZ1kxZHUwbW9NWlE",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 14:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-04"
+      ],
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "appearances": 1
+    },
+    {
       "id": "db4067a90503d3ca",
       "source": "Isthmus",
       "headline": "Song A Day - Isthmus | Madison, Wisconsin",
@@ -601,6 +601,25 @@
       "published": "Sat, 03 Oct 2026 19:19:39 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-04"
+      ],
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "appearances": 1
+    },
+    {
+      "id": "fea5390f2dc5a8a9",
+      "source": "Variety",
+      "headline": "Singeetham Srinivasa Rao, Indian Filmmaker Behind ‘Pushpaka Vimana,’ ‘Michael Madana Kama Rajan’ and ‘Aditya 369’ Dies at 95",
+      "summary": "Revered Indian filmmaker Singeetham Srinivasa Rao, whose work spanned the 1957 Telugu-language classic “Mayabazar” and this year’s musical “Sing Geetham,” died Oct. 3 in Chennai following a period of ill health. He was 95. Rao made some 60 features in the Telugu, Tamil, Kannada and Hindi languages, and moved between farce, fantasy, mythology and science",
+      "url": "https://variety.com/2026/film/obituaries-people-news/singeetham-srinivasa-rao-dead-indian-filmmaker-pushpaka-vimana-1236898526/",
+      "canonical_url": "https://variety.com/2026/film/obituaries-people-news/singeetham-srinivasa-rao-dead-indian-filmmaker-pushpaka-vimana-1236898526",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Singeetam-Srinivasa-Rao.jpg",
+      "published": "Sun, 04 Oct 2026 14:02:39 +0000",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-04"
@@ -669,8 +688,8 @@
     {
       "id": "c80f2236108990bb",
       "source": "Taylor Fashion",
-      "headline": "On SNL , Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy - vogue.com",
-      "summary": "On SNL , Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy vogue.com",
+      "headline": "On SNL , Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy - Vogue",
+      "summary": "On SNL , Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy Vogue",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnFQM3dQdzVDU2daRFZrY2VjSU5YaWxReGZVMmo3MTBMa2JtNElLcm9sazVoZnplT3lya0E0SERBVzl0RjF1d2RoMmFfNmFubmZSLS1QNFJLa3ZqZTBjbVR6QUxfTkxDX1IxUTZJVzF3VHhWWFhlSEwwbEF0MDBIN3VaMEpQQUFV?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnFQM3dQdzVDU2daRFZrY2VjSU5YaWxReGZVMmo3MTBMa2JtNElLcm9sazVoZnplT3lya0E0SERBVzl0RjF1d2RoMmFfNmFubmZSLS1QNFJLa3ZqZTBjbVR6QUxfTkxDX1IxUTZJVzF3VHhWWFhlSEwwbEF0MDBIN3VaMEpQQUFV",
       "image": "",
@@ -781,6 +800,25 @@
       "appearances": 1
     },
     {
+      "id": "e002e37c334d36dd",
+      "source": "Variety",
+      "headline": "Lawrence Rothman on Their New Album, ‘Here Lives Love/Sawdust to Stardust,’ a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
+      "summary": "Lawrence Rothman has a lot of nerve, starting an album with a song called “The Meaning,” and then daring to ask some of the questions inherent in the big picture created by those two words — like, if not what is the meaning of life, then what is the meaning of music? (Of course, for",
+      "url": "https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339/",
+      "canonical_url": "https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339",
+      "image": "https://variety.com/wp-content/uploads/2026/10/lawrence_rothman2_5863b9-e1791070053526.jpg",
+      "published": "Sat, 03 Oct 2026 23:50:49 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-04"
+      ],
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "appearances": 1
+    },
+    {
       "id": "3e2cb1ff8daca69f",
       "source": "Isthmus",
       "headline": "Karina Rykman - Isthmus | Madison, Wisconsin",
@@ -802,33 +840,14 @@
     {
       "id": "3d669d4827569dd3",
       "source": "Medical Xpress",
-      "headline": "Irrelevant visual details interfere with decisions under uncertainty, brain research shows - Medical Xpress",
-      "summary": "Irrelevant visual details interfere with decisions under uncertainty, brain research shows Medical Xpress",
+      "headline": "Irrelevant visual details interfere with decisions under uncertainty, brain research shows - medicalxpress.com",
+      "summary": "Irrelevant visual details interfere with decisions under uncertainty, brain research shows medicalxpress.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmp1ajg2UGNiYUJJcmw0RERvaFBRZjBBWVZDZFZrdGRFYVBIMHRXQmNKRkp6YUdZSFJ2VDhSdlIxR0c2UTlYMWRzeERYWE5VQUFVVVZJUjdwNnpONzZTOFE2dTNfcXhFUzB6SEFOeWJFSHJvRVp3Y1ZxSG1OUkk3TFRGTnZrUGFHNmtyWFdSUzc3d00?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmp1ajg2UGNiYUJJcmw0RERvaFBRZjBBWVZDZFZrdGRFYVBIMHRXQmNKRkp6YUdZSFJ2VDhSdlIxR0c2UTlYMWRzeERYWE5VQUFVVVZJUjdwNnpONzZTOFE2dTNfcXhFUzB6SEFOeWJFSHJvRVp3Y1ZxSG1OUkk3TFRGTnZrUGFHNmtyWFdSUzc3d00",
       "image": "",
       "published": "Sun, 04 Oct 2026 12:00:07 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-04"
-      ],
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "appearances": 1
-    },
-    {
-      "id": "1a9ce5c92acc0143",
-      "source": "Mongabay",
-      "headline": "Illegal wildlife continues to slip through Canada’s borders. Experts explain how - Mongabay News",
-      "summary": "Illegal wildlife continues to slip through Canada’s borders. Experts explain how Mongabay News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHgwVXBrVFdZbjJDeTdsT0MwLXBaMlJLT0pLcFh3d1hPaFdPeE5aaWNCd3hFMi1Pb1l0STFZdmdwTThua3RVWVYydXo1U1hSRkJxaFNOQTlUUGZkMGV4VkQ0RklvWFhTS2VLTmJkQ0Z4Q2ZRai1fTjRHQjdWVjRtc001bzFMVUVqZVdjNFhsYjgtbHBscU1OdGxCWmlLYXVEVUtsMm9INGlKNW93QlV0N09HZ9IBuAFBVV95cUxNS01xbm9OV2UwOVNEaC1wd2hTR1dpM0N1bHFDQUpzTkdfUnpZb09NUmJXRzlIWXFmNE1HQUtRZ2ZDdkZuamdlSmdYamR5MWJVOGM3TmdUMi1HZjhMdzEwQTNkNndrb0UxdGd6bzFiLVMxUUhoU0VGd09vaVI5aHoweXFhMmp0ZkMxX2N1Q1JQTEFydlJDVHh4MXVTY3JwU1BTTU1ULTBJVmh1Vms3V055ZS11Wm01R3Fh?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHgwVXBrVFdZbjJDeTdsT0MwLXBaMlJLT0pLcFh3d1hPaFdPeE5aaWNCd3hFMi1Pb1l0STFZdmdwTThua3RVWVYydXo1U1hSRkJxaFNOQTlUUGZkMGV4VkQ0RklvWFhTS2VLTmJkQ0Z4Q2ZRai1fTjRHQjdWVjRtc001bzFMVUVqZVdjNFhsYjgtbHBscU1OdGxCWmlLYXVEVUtsMm9INGlKNW93QlV0N09HZ9IBuAFBVV95cUxNS01xbm9OV2UwOVNEaC1wd2hTR1dpM0N1bHFDQUpzTkdfUnpZb09NUmJXRzlIWXFmNE1HQUtRZ2ZDdkZuamdlSmdYamR5MWJVOGM3TmdUMi1HZjhMdzEwQTNkNndrb0UxdGd6bzFiLVMxUUhoU0VGd09vaVI5aHoweXFhMmp0ZkMxX2N1Q1JQTEFydlJDVHh4MXVTY3JwU1BTTU1ULTBJVmh1Vms3V055ZS11Wm01R3Fh",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 15:25:36 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-10-04"
@@ -897,8 +916,8 @@
     {
       "id": "b175eaed1a0c8741",
       "source": "Search Engine Land",
-      "headline": "Google says main content is critical and describes how search quality raters evaluate it - Search Engine Land",
-      "summary": "Google says main content is critical and describes how search quality raters evaluate it Search Engine Land",
+      "headline": "Google says main content is critical and describes how search quality raters evaluate it - searchengineland.com",
+      "summary": "Google says main content is critical and describes how search quality raters evaluate it searchengineland.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWhndzA2MTdabjVzb3dTT0x1S2tRcEhyNlMzcWZZV192QU92WTdWR3RNQ2VBZTByZklDR3hVWTlYbndZNzFaMEJQUXd3Rlh1cllXZFdQclFUR2ZlVWI5VmZsWk1ETC1meEJlZngzRVlJTm5yUHJDeXliRGZzMVNvMUkwNllwVlFMNjlWRUV5cVk5aHBOTXZnQzM4bnZ6bHVVRldSMkkyYWhkZnljdEljc3pOM2ZkTFpUOUpLRUVwdkZaZw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWhndzA2MTdabjVzb3dTT0x1S2tRcEhyNlMzcWZZV192QU92WTdWR3RNQ2VBZTByZklDR3hVWTlYbndZNzFaMEJQUXd3Rlh1cllXZFdQclFUR2ZlVWI5VmZsWk1ETC1meEJlZngzRVlJTm5yUHJDeXliRGZzMVNvMUkwNllwVlFMNjlWRUV5cVk5aHBOTXZnQzM4bnZ6bHVVRldSMkkyYWhkZnljdEljc3pOM2ZkTFpUOUpLRUVwdkZaZw",
       "image": "",
@@ -914,24 +933,23 @@
       "appearances": 1
     },
     {
-      "id": "1dba6dec53c3145e",
-      "source": "BBC Health",
-      "headline": "Family told to call locksmith over mental health fears",
-      "summary": "A force should have flagged mental health services after a family called about their son, IOPC says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75a/live/f0ed5a90-b0f1-11f1-9707-2187f52634c5.jpg",
-      "published": "Wed, 30 Sep 2026 04:57:25 GMT",
+      "id": "dc6cf97098518cd1",
+      "source": "Mongabay",
+      "headline": "Endangered dolphins survive in a Bangladesh river so polluted it’s ‘not livable’ for fish - Mongabay News",
+      "summary": "Endangered dolphins survive in a Bangladesh river so polluted it’s ‘not livable’ for fish Mongabay News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDk3Tzd3YmhJcHctdGE1UndWb3l0dk82a2stRU42VTlqel9xVi1WeUp1SnlkRFg0cklaNVVDWDRDNGtraEFRZ0JvOWhKZHV5Z1Y1OFZvbk1ZZE1TQUl1M1V2anF0YmpabGRqVHNWeWRoekp2b2xvZVYzQWpzeTAwVGNiOGE2ckMyaThBY1Q0bnlmTlM3akVrbnljTy1vUVRwT2hMV2tGLV9uUUhwYnQ4UVhWNFRObmFmU2xfdzFITVJKNjhaOFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDk3Tzd3YmhJcHctdGE1UndWb3l0dk82a2stRU42VTlqel9xVi1WeUp1SnlkRFg0cklaNVVDWDRDNGtraEFRZ0JvOWhKZHV5Z1Y1OFZvbk1ZZE1TQUl1M1V2anF0YmpabGRqVHNWeWRoekp2b2xvZVYzQWpzeTAwVGNiOGE2ckMyaThBY1Q0bnlmTlM3akVrbnljTy1vUVRwT2hMV2tGLV9uUUhwYnQ4UVhWNFRObmFmU2xfdzFITVJKNjhaOFE",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 05:57:36 GMT",
       "sections": [
-        "wellbeing"
+        "animals"
       ],
       "report_dates": [
-        "2026-10-04",
-        "2026-09-30"
+        "2026-10-04"
       ],
-      "first_seen": "2026-09-30",
+      "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "8591fe5965d86c0a",
@@ -1012,8 +1030,8 @@
     {
       "id": "5ec1c4ecf99918a5",
       "source": "AI News",
-      "headline": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More - TradingView",
-      "summary": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More TradingView",
+      "headline": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More - tradingview.com",
+      "summary": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXRIMGo5WmZ6bEZCYm5JVEZNQkk0dUhGSFFrbUhzUWVQMU5jeVlGdXo4LWtaQ3dYUmJCaWxuVHFkMVo4QUFGYzJ2R3lUSmFoRE8wMFRuaHdlNkh4TjhMcDhuaXV3M3lVMmM4ZXNUaWxYaU1NWk9kYVdsSXJIaWpQc01sZmJJZHhVRlRsY0pKWFczYjlOaVFtRG9kZkQ2U1VmT0RfaTkxajlqVUxCUE9wU2NwMk9zcGxGbnRzQnR5LU90dDRyZFJ4Q2l6UkVXQmJwM3M0X0tUNUY?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXRIMGo5WmZ6bEZCYm5JVEZNQkk0dUhGSFFrbUhzUWVQMU5jeVlGdXo4LWtaQ3dYUmJCaWxuVHFkMVo4QUFGYzJ2R3lUSmFoRE8wMFRuaHdlNkh4TjhMcDhuaXV3M3lVMmM4ZXNUaWxYaU1NWk9kYVdsSXJIaWpQc01sZmJJZHhVRlRsY0pKWFczYjlOaVFtRG9kZkQ2U1VmT0RfaTkxajlqVUxCUE9wU2NwMk9zcGxGbnRzQnR5LU90dDRyZFJ4Q2l6UkVXQmJwM3M0X0tUNUY",
       "image": "",
@@ -1109,14 +1127,14 @@
       "appearances": 4
     },
     {
-      "id": "2c1d110fefcd63d1",
-      "source": "Associated Press",
-      "headline": "Brungard points the way for Youngstown State in 28-16 win over Southern Illinois - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Brungard points the way for Youngstown State in 28-16 win over Southern Illinois ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjd0S09Edzc2MnJZUjFfRm1kcU9qOXVETWd4Rm5fSloyZ1pFWFc5dVZ4T2hCTWg2NGhVX1RfNmJkLUxjX0pZWFNjdy1UZUNQMTNHa3I5M2FWeWpSS2RVc3lPUDZ5WE5tRS1xMHUwQ2RoSXJqNHdfR0xmZHZHeHZMbHJvN2w3Z192MEE2SlhWZ0VEbkV4VDJTOTVUcHc0bTTSAaQBQVVfeXFMTXNWdEZHd2VmMGJrZjVZNnhkcGxHd3R6emZkazJ5bmY4bS01OVBZRXVOUUxlbG96bzVyc1BrbnRmdFlHTFktVEpaQVpDVU5vMy1fNFZpTWs0UDhCZEJaUmc5X0M5eHJZYVJHUTRDUUw2M3h6Qy1nOGFrdEJlME8wdDFuOE9PUEVTdW03X2xuQnBjRjUtbEJYdjd6Qy1EUG5LSUMxN3E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjd0S09Edzc2MnJZUjFfRm1kcU9qOXVETWd4Rm5fSloyZ1pFWFc5dVZ4T2hCTWg2NGhVX1RfNmJkLUxjX0pZWFNjdy1UZUNQMTNHa3I5M2FWeWpSS2RVc3lPUDZ5WE5tRS1xMHUwQ2RoSXJqNHdfR0xmZHZHeHZMbHJvN2w3Z192MEE2SlhWZ0VEbkV4VDJTOTVUcHc0bTTSAaQBQVVfeXFMTXNWdEZHd2VmMGJrZjVZNnhkcGxHd3R6emZkazJ5bmY4bS01OVBZRXVOUUxlbG96bzVyc1BrbnRmdFlHTFktVEpaQVpDVU5vMy1fNFZpTWs0UDhCZEJaUmc5X0M5eHJZYVJHUTRDUUw2M3h6Qy1nOGFrdEJlME8wdDFuOE9PUEVTdW03X2xuQnBjRjUtbEJYdjd6Qy1EUG5LSUMxN3E",
+      "id": "29fddf156b07a590",
+      "source": "Reuters",
+      "headline": "Brazilians head to polls in high-stakes, polarized election - Reuters",
+      "summary": "Brazilians head to polls in high-stakes, polarized election Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR",
       "image": "",
-      "published": "Sun, 04 Oct 2026 09:00:37 GMT",
+      "published": "Sun, 04 Oct 2026 11:37:54 GMT",
       "sections": [
         "must-know"
       ],
@@ -1339,25 +1357,6 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-04",
       "appearances": 3
-    },
-    {
-      "id": "862328c3a89c09e6",
-      "source": "BBC Entertainment",
-      "headline": "'The music transported us to another planet'",
-      "summary": "The people captured in a celebrated photograph are reunited nearly 50 years later.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2z22zwl1zo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c5x2z22zwl1zo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f84/live/625f6ce0-be53-11f1-8828-9d9deece30a1.jpg",
-      "published": "Sun, 04 Oct 2026 06:08:37 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-04"
-      ],
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "appearances": 1
     },
     {
       "id": "2fb5f231030fdc7f",
@@ -1594,6 +1593,27 @@
       "appearances": 1
     },
     {
+      "id": "8580320203abe582",
+      "source": "BBC US & Canada",
+      "headline": "US jobs market sees sharp slowdown ahead of midterm elections",
+      "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e78/live/ada3bbd0-be61-11f1-b36c-81ad410b221e.jpg",
+      "published": "Fri, 02 Oct 2026 14:30:48 GMT",
+      "sections": [
+        "must-know",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-03",
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
+      "appearances": 2
+    },
+    {
       "id": "0818deec71abdeb1",
       "source": "Wisconsin Examiner",
       "headline": "U.S. House of Representatives, 4th Congressional District | Voter Guide: 2026 General Election - Wisconsin Examiner",
@@ -1652,27 +1672,6 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
       "appearances": 1
-    },
-    {
-      "id": "1b79be816790e358",
-      "source": "Wisconsin Public Radio",
-      "headline": "Trump funding halt means more children in ICE detention in Wisconsin won’t have a lawyer",
-      "summary": "Children in ICE detention from Wisconsin may have to go without a lawyer in court after President Donald Trump halted millions in appropriated federal funds.",
-      "url": "https://www.wpr.org/news/trump-funding-halt-means-more-children-ice-detention-wisconsin-wont-have-lawyer",
-      "canonical_url": "https://www.wpr.org/news/trump-funding-halt-means-more-children-ice-detention-wisconsin-wont-have-lawyer",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 10:00:00 +0000",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-03",
-        "2026-10-02"
-      ],
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
-      "appearances": 2
     },
     {
       "id": "4b7ae7bb38a18006",
@@ -5960,6 +5959,25 @@
       "published": "Wed, 30 Sep 2026 08:29:05 -0400",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-09-30"
+      ],
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "appearances": 1
+    },
+    {
+      "id": "1dba6dec53c3145e",
+      "source": "BBC Health",
+      "headline": "Family told to call locksmith over mental health fears",
+      "summary": "A force should have flagged mental health services after a family called about their son, IOPC says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75a/live/f0ed5a90-b0f1-11f1-9707-2187f52634c5.jpg",
+      "published": "Wed, 30 Sep 2026 04:57:25 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-09-30"
