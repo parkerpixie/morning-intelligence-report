@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-03.json",
-  "report_date": "2026-10-03",
-  "generated_at": "2026-10-03T15:09:09.593674+00:00",
-  "edition_count": 80,
+  "latest": "data/archive/2026-10-04.json",
+  "report_date": "2026-10-04",
+  "generated_at": "2026-10-04T12:27:25.585228+00:00",
+  "edition_count": 81,
   "editions": [
+    {
+      "report_date": "2026-10-04",
+      "generated_at": "2026-10-04T12:27:25.585228+00:00",
+      "path": "data/archive/2026-10-04.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-03",
       "generated_at": "2026-10-03T15:09:09.593674+00:00",
