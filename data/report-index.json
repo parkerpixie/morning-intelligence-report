@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-05.json",
-  "report_date": "2026-10-05",
-  "generated_at": "2026-10-05T18:30:24.031865+00:00",
-  "edition_count": 82,
+  "latest": "data/archive/2026-10-06.json",
+  "report_date": "2026-10-06",
+  "generated_at": "2026-10-06T13:23:05.224666+00:00",
+  "edition_count": 83,
   "editions": [
+    {
+      "report_date": "2026-10-06",
+      "generated_at": "2026-10-06T13:23:05.224666+00:00",
+      "path": "data/archive/2026-10-06.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
+        "summary": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-05",
       "generated_at": "2026-10-05T18:30:24.031865+00:00",
