@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T13:25:29.281402+00:00",
+  "generated_at": "2026-10-09T14:42:30.692636+00:00",
   "edition_count": 86,
-  "story_count": 5343,
+  "story_count": 5346,
   "stories": [
     {
       "id": "b79c17541d7b21c4",
@@ -15,25 +15,6 @@
       "published": "Fri, 09 Oct 2026 12:45:19 +0000",
       "sections": [
         "wonderful"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "45b103c720106d72",
-      "source": "Customer Data",
-      "headline": "Your Decision-Making Strategy is Now on a Timer - CX Today",
-      "summary": "Your Decision-Making Strategy is Now on a Timer CX Today",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkRHJwb0xudUpEYnJHbEU0NDNUbGZUWVZaY0hnX3FPdXdjRWtlaUR6NGdSUDlGU3pQOW5fSW9fVDZCenBPZWtuNEZXdWZ2QjF6NFM0MDFBQ0owRXZmVnVsdnZxMGZLMmVCTm4yck5wTXVseGQwUEVQRVgtWGJDVHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkRHJwb0xudUpEYnJHbEU0NDNUbGZUWVZaY0hnX3FPdXdjRWtlaUR6NGdSUDlGU3pQOW5fSW9fVDZCenBPZWtuNEZXdWZ2QjF6NFM0MDFBQ0owRXZmVnVsdnZxMGZLMmVCTm4yck5wTXVseGQwUEVQRVgtWGJDVHc",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 11:05:33 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-10-09"
@@ -62,6 +43,25 @@
       "appearances": 1
     },
     {
+      "id": "45f0b4c5bf115d12",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin’s population up 2.9% compared to 2020; Dane County leads growth - WisPolitics",
+      "summary": "Wisconsin’s population up 2.9% compared to 2020; Dane County leads growth WisPolitics",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTZOLTZsM1pOdDVzQ2pYY195S2NnNG5fd0ttRldHYWYwaDdTb0dYRFk3azlIZm1fVTQ1V3JjYWNHWTdTdzZUQkY0SmRlSTJGS203Vzl6ekRpbEYyTEhsQVFwdnNDQ3dPS3RIbV9GMmJlbjdqaksxT3Nhc2RLeFdIRTJPVlFpS3BoSC1MNGNBZVJGaVcyTnVCaDNvMWdkaGNmZjRGYTJUWQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTZOLTZsM1pOdDVzQ2pYY195S2NnNG5fd0ttRldHYWYwaDdTb0dYRFk3azlIZm1fVTQ1V3JjYWNHWTdTdzZUQkY0SmRlSTJGS203Vzl6ekRpbEYyTEhsQVFwdnNDQ3dPS3RIbV9GMmJlbjdqaksxT3Nhc2RLeFdIRTJPVlFpS3BoSC1MNGNBZVJGaVcyTnVCaDNvMWdkaGNmZjRGYTJUWQ",
+      "image": "",
+      "published": "Fri, 09 Oct 2026 13:57:53 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
       "id": "7d303e80c25da3ac",
       "source": "Wisconsin News",
       "headline": "Wisconsin leads lawsuit over unemployment system grants - WSAW",
@@ -81,14 +81,14 @@
       "appearances": 1
     },
     {
-      "id": "fdc8bf630df8398c",
+      "id": "d8d32c071fadd80b",
       "source": "Wisconsin News",
-      "headline": "Wisconsin congressional candidate arrested in antisemitic road rage incident - WTMJ",
-      "summary": "Wisconsin congressional candidate arrested in antisemitic road rage incident WTMJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmRYOUxqQ2pkTzJ1enNhQWcwLXdGRXQxVHhITUpPQW82OXJZbGJJQlNDT1pRd0w0dDRLVHE2MUJSV0VUWlozTS0xTEhBQUlZbVlaNTQzVHZmU1BPT2p5aFh2MGtoVDdreWRLWnh4ZkMtcm0tQzZPRi1YMXZBcVlqbUpJOGVxN0ZqdlFhR2E4UmptUWwtVkd1S0NMUEktZU5OcElTTG9wRnVRaThnbjRR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmRYOUxqQ2pkTzJ1enNhQWcwLXdGRXQxVHhITUpPQW82OXJZbGJJQlNDT1pRd0w0dDRLVHE2MUJSV0VUWlozTS0xTEhBQUlZbVlaNTQzVHZmU1BPT2p5aFh2MGtoVDdreWRLWnh4ZkMtcm0tQzZPRi1YMXZBcVlqbUpJOGVxN0ZqdlFhR2E4UmptUWwtVkd1S0NMUEktZU5OcElTTG9wRnVRaThnbjRR",
+      "headline": "Wisconsin awards $296,000 in financial literacy grants - WXOW",
+      "summary": "Wisconsin awards $296,000 in financial literacy grants WXOW",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1UtN2tpRk41a2VMcXl0ZEZ4V0dsS0xkRWpWRzNrX1NKTzZodGRnX2NPek1VRHctZmNXMHYxOVpiSmV0V044N3VpS0F1OGVxMGczbEJ0dGJPOVgtMTFyY1U4UUM0TFgwYU11aktsYnRRb1ZjdFg5UWxTWjh0YmVLcC1PWS1waUwwTHhpQUJOTC1WTzBrU2o5SUlPTVhUazd1NmJIOUt3NmxFT3B3Um14RUVVMllyN3Q4MkpRSVhoUDcyckpQY1VES1JwdmdIT1U1SWp3Q3FTckFWNVNp?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1UtN2tpRk41a2VMcXl0ZEZ4V0dsS0xkRWpWRzNrX1NKTzZodGRnX2NPek1VRHctZmNXMHYxOVpiSmV0V044N3VpS0F1OGVxMGczbEJ0dGJPOVgtMTFyY1U4UUM0TFgwYU11aktsYnRRb1ZjdFg5UWxTWjh0YmVLcC1PWS1waUwwTHhpQUJOTC1WTzBrU2o5SUlPTVhUazd1NmJIOUt3NmxFT3B3Um14RUVVMllyN3Q4MkpRSVhoUDcyckpQY1VES1JwdmdIT1U1SWp3Q3FTckFWNVNp",
       "image": "",
-      "published": "Fri, 09 Oct 2026 03:38:18 GMT",
+      "published": "Fri, 09 Oct 2026 14:30:00 GMT",
       "sections": [
         "local"
       ],
@@ -167,7 +167,7 @@
       "image": "",
       "published": "Fri, 09 Oct 2026 12:32:42 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-09"
@@ -196,52 +196,14 @@
       "appearances": 1
     },
     {
-      "id": "b3a642cf4555b7e2",
-      "source": "Pitchfork",
-      "headline": "Watch Phoebe Bridgers and Boygenius Perform Live in New Short Film",
-      "summary": "Bridgers is the latest guest on A24’s Sound Check at Cherry Lane Theater YouTube series",
-      "url": "https://pitchfork.com/story/watch-phoebe-bridgers-and-boygenius-sound-check-at-cherry-lane-theater/",
-      "canonical_url": "https://pitchfork.com/story/watch-phoebe-bridgers-and-boygenius-sound-check-at-cherry-lane-theater",
-      "image": "https://media.pitchfork.com/photos/6ac8401415e30255230c9381/master/pass/phoebebridgers.png",
-      "published": "Fri, 09 Oct 2026 13:08:36 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "1ea2895915b64c6b",
-      "source": "Variety",
-      "headline": "Warner Bros. President of International Gerhard Zeiler Confirms Exit as He Enters Politics in Austria",
-      "summary": "UPDATED– Gerhard Zeiler, president of international for Warner Bros. Discovery, has confirmed he will leave the company ahead of the merger with Paramount after he declared his intention to enter politics in Austria. In an international memo sent to thousands of staffers across the company, Zeiler said he will be leaving at the end of",
-      "url": "https://variety.com/2026/biz/global/gerhard-zeiler-warner-bros-discovery-exit-politics-austria-1236899218/",
-      "canonical_url": "https://variety.com/2026/biz/global/gerhard-zeiler-warner-bros-discovery-exit-politics-austria-1236899218",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Gerhard-Zeiler_d356f7.jpg",
-      "published": "Fri, 09 Oct 2026 13:07:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "53270b8c09471990",
+      "id": "48ed5fd7385efd11",
       "source": "Madison Local",
-      "headline": "UW-Madison creates Greek life role in response to hazing, sexual assault reports - Wisconsin State Journal",
-      "summary": "UW-Madison creates Greek life role in response to hazing, sexual assault reports Wisconsin State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjBpTmZtSDBCcGZpeExWamVaSzFTMEVLa25vQkRjX3lRRUVZTTFaUWF0em9IbU5uYWJLM2RlSkZEUnpUb0l0ZHAxc0VzWk5PRHNraDMtTDE0cWhQcmlBYzZ5VkRzUWRicEgxRFhaRVlrcm1HSTdmYUpZYlV6TDlUS3BZUlI2QUlvRW1mazNORE5ZZTc0T004d2hHZGdKdUdFT09r?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjBpTmZtSDBCcGZpeExWamVaSzFTMEVLa25vQkRjX3lRRUVZTTFaUWF0em9IbU5uYWJLM2RlSkZEUnpUb0l0ZHAxc0VzWk5PRHNraDMtTDE0cWhQcmlBYzZ5VkRzUWRicEgxRFhaRVlrcm1HSTdmYUpZYlV6TDlUS3BZUlI2QUlvRW1mazNORE5ZZTc0T004d2hHZGdKdUdFT09r",
+      "headline": "UW-Madison’s summer water main break cost nearly $16 million - Wisconsin State Journal",
+      "summary": "UW-Madison’s summer water main break cost nearly $16 million Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1dfVF9aTmdWX2NlanRqVjdySTBVdkV5Vk00MGtObDFOdFBNMllnazktbGt0TFF5UzVocURpakd0VlZ1OVpjSWFqZmFGQW45dlR6UUl0NXZzTzNVYWh1U0Z4eWhFdUtyYU1CMWdndThKa21tT3NPTGJLVFVlTDdlaFhYSjYwcDZzX2EzZEJHRW15azllRkNETEd5amVPY2dReTVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1dfVF9aTmdWX2NlanRqVjdySTBVdkV5Vk00MGtObDFOdFBNMllnazktbGt0TFF5UzVocURpakd0VlZ1OVpjSWFqZmFGQW45dlR6UUl0NXZzTzNVYWh1U0Z4eWhFdUtyYU1CMWdndThKa21tT3NPTGJLVFVlTDdlaFhYSjYwcDZzX2EzZEJHRW15azllRkNETEd5amVPY2dReTVn",
       "image": "",
-      "published": "Thu, 08 Oct 2026 20:45:00 GMT",
+      "published": "Thu, 08 Oct 2026 22:23:00 GMT",
       "sections": [
         "local"
       ],
@@ -312,6 +274,25 @@
       "appearances": 1
     },
     {
+      "id": "e0e3889317150e81",
+      "source": "The Verge",
+      "headline": "Trump’s attempt to rename AI is looking awfully artificial",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "canonical_url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "image": "",
+      "published": "2026-10-09T10:25:43-04:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
       "id": "cfd22bbeff152782",
       "source": "NPR",
       "headline": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
@@ -341,6 +322,25 @@
       "published": "Thu, 08 Oct 2026 20:39:31 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
+      "id": "db0b51a329218485",
+      "source": "Associated Press",
+      "headline": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - AP News",
+      "summary": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhUWUhLVjBvQUV1WWxNZ1lHZUxWbWpoQW9jckFpa284cmRTMkloVmdYaE1nR19sc2F0NFdWenEzWWlfRTd2elQzdTczcnFYTTJMTW9hQTY3eUxyR0xqcjB6cE9CSlloUGtFcXVzVzZTUl82RFZneGFvWDcwWHRNMEtETXYySTEtVlhYUDVrbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWhUWUhLVjBvQUV1WWxNZ1lHZUxWbWpoQW9jckFpa284cmRTMkloVmdYaE1nR19sc2F0NFdWenEzWWlfRTd2elQzdTczcnFYTTJMTW9hQTY3eUxyR0xqcjB6cE9CSlloUGtFcXVzVzZTUl82RFZneGFvWDcwWHRNMEtETXYySTEtVlhYUDVrbw",
+      "image": "",
+      "published": "Fri, 09 Oct 2026 14:29:00 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-09"
@@ -427,14 +427,33 @@
       "appearances": 2
     },
     {
-      "id": "fa0792c914104cc8",
-      "source": "National Geographic Wildlife",
-      "headline": "Take a Closer Look at Bears, Birds, and Blooms From Nat Geo’s Photo Editors - National Geographic",
-      "summary": "Take a Closer Look at Bears, Birds, and Blooms From Nat Geo’s Photo Editors National Geographic",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkNYRFBsdTZtWkJFYWIxYk1ZcGZubGlRZE55V1RrUjlvRkNXZnhrc3FiU3ZhbGpfRzBwVnBWbWlJRDRjbE1wWUNpZVJvbk5weE93WWhxT2FrNm5NRE96NHliUE1TU1VEWXo1dVp5ZVJEd1NHNGpZM0IyTlJNdTgzay00anFQX3pxUVJDQkU2YXJtT05rdzdYSjFQTzFUeVRCUi13SmcyQVI2WkxjU2tULXAwb0J5bGM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkNYRFBsdTZtWkJFYWIxYk1ZcGZubGlRZE55V1RrUjlvRkNXZnhrc3FiU3ZhbGpfRzBwVnBWbWlJRDRjbE1wWUNpZVJvbk5weE93WWhxT2FrNm5NRE96NHliUE1TU1VEWXo1dVp5ZVJEd1NHNGpZM0IyTlJNdTgzay00anFQX3pxUVJDQkU2YXJtT05rdzdYSjFQTzFUeVRCUi13SmcyQVI2WkxjU2tULXAwb0J5bGM",
+      "id": "518d8eba6ce5dc23",
+      "source": "Wisconsin Public Radio",
+      "headline": "State grants will help some school districts pay for student financial literacy requirement",
+      "summary": "Starting next year, every Wisconsin student will have to take a financial literacy class before they can graduate from high school. A $296,000 grant to school districts will help make that requirement more financially feasible.",
+      "url": "https://www.wpr.org/news/state-grants-help-school-districts-pay-for-student-financial-literacy-requirement",
+      "canonical_url": "https://www.wpr.org/news/state-grants-help-school-districts-pay-for-student-financial-literacy-requirement",
       "image": "",
-      "published": "Fri, 09 Oct 2026 11:24:32 GMT",
+      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
+      "id": "49e8dcb517c7cbdb",
+      "source": "Animals",
+      "headline": "SCRAPS animal shelter reaches capacity, urgently seeks adopters and transfer partners - KXLY.com",
+      "summary": "SCRAPS animal shelter reaches capacity, urgently seeks adopters and transfer partners KXLY.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMVFoT2RYZnZRSDdUcHhrYUpmUnNaNlBXYVVSQWMtNHdzcm9WMUdnZjk0Qk42b1RvV0w2bUYxcGNqRVpVc2VodTA4V1hRdVhVRW1iSWhxdzBGcGtRREZSUlhhVF9rMXdsYTdLZHhqUUtfOVVENnNIS205SmRqQVFiQzNNV0puUF9mTzVEdEE4dUxSSkZ3UnhpU1NnOVJfQS0wZk1pbmV4endqdTRGZXpIQUdnTkNXV1R0OVJRZFVxU3I5NWp2WnB5aGpackpYMl9SRjZ3anRFQjBSVkNra0dsa0VXSkxHTkRSZ2xuRlpJVWp5QQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMVFoT2RYZnZRSDdUcHhrYUpmUnNaNlBXYVVSQWMtNHdzcm9WMUdnZjk0Qk42b1RvV0w2bUYxcGNqRVpVc2VodTA4V1hRdVhVRW1iSWhxdzBGcGtRREZSUlhhVF9rMXdsYTdLZHhqUUtfOVVENnNIS205SmRqQVFiQzNNV0puUF9mTzVEdEE4dUxSSkZ3UnhpU1NnOVJfQS0wZk1pbmV4endqdTRGZXpIQUdnTkNXV1R0OVJRZFVxU3I5NWp2WnB5aGpackpYMl9SRjZ3anRFQjBSVkNra0dsa0VXSkxHTkRSZ2xuRlpJVWp5QQ",
+      "image": "",
+      "published": "Thu, 08 Oct 2026 19:46:29 GMT",
       "sections": [
         "animals"
       ],
@@ -465,25 +484,6 @@
       "appearances": 1
     },
     {
-      "id": "a11e438555f61d84",
-      "source": "Associated Press",
-      "headline": "Residents board up windows and National Guard troops deploy as Hurricane Isaias nears US Gulf Coast - AP News",
-      "summary": "Residents board up windows and National Guard troops deploy as Hurricane Isaias nears US Gulf Coast AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 07:44:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
       "id": "8a7c9fbd38290efa",
       "source": "NPR",
       "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
@@ -494,6 +494,25 @@
       "published": "Fri, 09 Oct 2026 05:00:00 -0400",
       "sections": [
         "big-story"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
+      "id": "e540d45f14af3de5",
+      "source": "Audubon",
+      "headline": "Rare and Vagrant Migratory Birds Find Refuge at Corkscrew Swamp Sanctuary - National Audubon Society",
+      "summary": "Rare and Vagrant Migratory Birds Find Refuge at Corkscrew Swamp Sanctuary National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxmYkJBWUZKbW1KMUlQaElkVzl4Znh6NWRETlZ3VUI2d19LYmRxYWNLb2dqYi1XS0cwcnJSZldIOW9LR1NLQm83TUxYdnNZN1Rva2ZISldFY01hbFJYRlN3T3BpRUItOFN3dEhFZFNuYnIwSFhiY21raUh3ZVBJYlRCT0ZGU1ZCNm94YzA3Y0l6R3VGT1hCU0NQRF9DdEFsSWpVdzc3bWNzTnM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxmYkJBWUZKbW1KMUlQaElkVzl4Znh6NWRETlZ3VUI2d19LYmRxYWNLb2dqYi1XS0cwcnJSZldIOW9LR1NLQm83TUxYdnNZN1Rva2ZISldFY01hbFJYRlN3T3BpRUItOFN3dEhFZFNuYnIwSFhiY21raUh3ZVBJYlRCT0ZGU1ZCNm94YzA3Y0l6R3VGT1hCU0NQRF9DdEFsSWpVdzc3bWNzTnM",
+      "image": "",
+      "published": "Thu, 08 Oct 2026 21:00:16 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-09"
@@ -569,7 +588,7 @@
       "image": "",
       "published": "Fri, 09 Oct 2026 10:22:20 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-09"
@@ -617,6 +636,25 @@
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-09",
       "appearances": 2
+    },
+    {
+      "id": "fe8f2bb11310faa7",
+      "source": "Variety",
+      "headline": "Nintendo of America Chief Breaks Down Her First Year: ‘Zelda’ Live-Action Movie, ‘GTA 6,’ Third-Party Game Goals and More",
+      "summary": "After just under a year in her new role as president of Nintendo of America, Devon Pritchard is ready to share elements of her master plan for the beloved Japanese gaming company. At the center of her strategy is the relative youth of Nintendo’s Switch 2, which undeniably puts the company ahead of gaming console",
+      "url": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/",
+      "canonical_url": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Legend-of-Zelda-Ocarina-of-Time.png",
+      "published": "Fri, 09 Oct 2026 14:00:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
     },
     {
       "id": "5609a0ebb4829690",
@@ -695,25 +733,23 @@
       "appearances": 1
     },
     {
-      "id": "c04a5fddec655037",
-      "source": "BBC Science",
-      "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
+      "id": "5178de9f85c94caa",
+      "source": "The Verge",
+      "headline": "Meta is banning TikTok ads across its platforms",
+      "summary": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, which went into effect on Thursday, restricts ads and paid marketing messages from ByteDance, along with third-party ads that link",
+      "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+      "canonical_url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+      "image": "",
+      "published": "2026-10-09T09:12:45-04:00",
       "sections": [
-        "ai-tech",
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-10-09",
-        "2026-10-08"
+        "2026-10-09"
       ],
-      "first_seen": "2026-10-08",
+      "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "f7087154210364d9",
@@ -754,6 +790,25 @@
       "appearances": 1
     },
     {
+      "id": "0bac0ed1b0934b6c",
+      "source": "Customer Data",
+      "headline": "Loyalty Management Market worth $23.11 billion by 2032 - Report by MarketsandMarkets™ - PR Newswire",
+      "summary": "Loyalty Management Market worth $23.11 billion by 2032 - Report by MarketsandMarkets™ PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdzJqb2FJVkFERndjUnVQdE9fOVJqTy11T2RfNGs5MGs3ZUU0TUl4d0NpcTFHZi15VUtGYlkzTWtIWFBySEV5Ty0wYzRWSTRaTjU4MFNKazJvUGZPaDNCemJsUTZpeU9wcUVXbElfWXZPWTZ5cDBkbG5DM2tmdDkxcWtVMnZHM0NJS2hzNFB6UlZIQVlWUDF3VEtpWlgyVm5XZHhzVlhRc3NCOV9KckQ4aG9Od1NRS1Azdk1HOGRjOWtJMmthT0lYUXVmX1hENGttaWRkUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdzJqb2FJVkFERndjUnVQdE9fOVJqTy11T2RfNGs5MGs3ZUU0TUl4d0NpcTFHZi15VUtGYlkzTWtIWFBySEV5Ty0wYzRWSTRaTjU4MFNKazJvUGZPaDNCemJsUTZpeU9wcUVXbElfWXZPWTZ5cDBkbG5DM2tmdDkxcWtVMnZHM0NJS2hzNFB6UlZIQVlWUDF3VEtpWlgyVm5XZHhzVlhRc3NCOV9KckQ4aG9Od1NRS1Azdk1HOGRjOWtJMmthT0lYUXVmX1hENGttaWRkUQ",
+      "image": "",
+      "published": "Fri, 09 Oct 2026 14:01:00 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
       "id": "b51051fcc92fccb4",
       "source": "Good News Network",
       "headline": "Local Opinion and Involvement Found as Key Determinant in World’s Conservation Success Stories",
@@ -773,52 +828,14 @@
       "appearances": 1
     },
     {
-      "id": "713603d2436d9968",
-      "source": "Associated Press",
-      "headline": "Isaias is expected to strengthen into a major hurricane as it nears the US Gulf Coast - ABC27",
-      "summary": "Isaias is expected to strengthen into a major hurricane as it nears the US Gulf Coast ABC27",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSTVoMlcwTHBwVVNDWjh6R2d2dnVyVkJvRmJmU3hlZVUxQ2p3STBXT1dQX0NlNlhQS29mcjI3eEtvSmRzeF83U2duTE8xNWVXWXZsbUJ1SzQ1dVZteWhfaGprYzNnSFYwbDVXZGduMHNLRmQwRjlab2hPMHBkSkYyelhnLWllem5mdndYOXFRZkpxRXJqcGlqY1hrNzc2UEd3WUFmUVFaQ2hfLUVmbkNsdkRlYzduMFVIWDlNc3JqZjVjTWVaMTVscXpsU0Vrc0RCUHNQR0Z1UnhETVQ1WkHSAeMBQVVfeXFMTUZhWXEtaVFZa0Y3dUdNZzRqQTFPUTNiVGxjOEM5WlMtS3h0czFsY3BTZVZzUTQ1VTNGcTdoSURUd19Zd2xPZGtZSUFvWHk1RkloUFRja1lfYjVwSnRVTk9sMF95ZWFoQnFGZUZSUjg0Yk1QY1YwQVlEazhnYVBqMUdLZEN2bXZ1SVMxU2V5cjBpekJiUzc5bEZuc0VVNkVNdFdjcXBsd2dzWm1DcFpmVms5OHhwY3NrelY0SkplUE9JZUw5Ny1wcndFUk9VSFp4RlgyZkduTk1BZWx3bkYzSExFNjQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSTVoMlcwTHBwVVNDWjh6R2d2dnVyVkJvRmJmU3hlZVUxQ2p3STBXT1dQX0NlNlhQS29mcjI3eEtvSmRzeF83U2duTE8xNWVXWXZsbUJ1SzQ1dVZteWhfaGprYzNnSFYwbDVXZGduMHNLRmQwRjlab2hPMHBkSkYyelhnLWllem5mdndYOXFRZkpxRXJqcGlqY1hrNzc2UEd3WUFmUVFaQ2hfLUVmbkNsdkRlYzduMFVIWDlNc3JqZjVjTWVaMTVscXpsU0Vrc0RCUHNQR0Z1UnhETVQ1WkHSAeMBQVVfeXFMTUZhWXEtaVFZa0Y3dUdNZzRqQTFPUTNiVGxjOEM5WlMtS3h0czFsY3BTZVZzUTQ1VTNGcTdoSURUd19Zd2xPZGtZSUFvWHk1RkloUFRja1lfYjVwSnRVTk9sMF95ZWFoQnFGZUZSUjg0Yk1QY1YwQVlEazhnYVBqMUdLZEN2bXZ1SVMxU2V5cjBpekJiUzc5bEZuc0VVNkVNdFdjcXBsd2dzWm1DcFpmVms5OHhwY3NrelY0SkplUE9JZUw5Ny1wcndFUk9VSFp4RlgyZkduTk1BZWx3bkYzSExFNjQ",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 11:38:51 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "b554f9fd4f9d283a",
-      "source": "Wisconsin Public Radio",
-      "headline": "In Wisconsin communities affected by measles, opinions on vaccines remain mixed",
-      "summary": "Residents of the measles-affected counties told WPR that life has largely carried on like normal in recent weeks, and that people aren't likely to talk about the outbreak outside of their own like-minded circle.",
-      "url": "https://www.wpr.org/news/wisconsin-communities-affected-by-measles-opinions-on-vaccines",
-      "canonical_url": "https://www.wpr.org/news/wisconsin-communities-affected-by-measles-opinions-on-vaccines",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "bacfde7d8abd4beb",
+      "id": "3e04105beca7661b",
       "source": "The Verge",
-      "headline": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
-      "summary": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months",
-      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
-      "canonical_url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "canonical_url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
       "image": "",
-      "published": "2026-10-08T15:45:00-04:00",
+      "published": "2026-10-09T10:00:00-04:00",
       "sections": [
         "ai-tech"
       ],
@@ -828,27 +845,6 @@
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "appearances": 1
-    },
-    {
-      "id": "e0ef7bdc55a5d687",
-      "source": "BBC US & Canada",
-      "headline": "Hurricane Isaias strengthens to a major category three storm",
-      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
-      "published": "Fri, 09 Oct 2026 12:54:28 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-09",
-        "2026-10-08"
-      ],
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
-      "appearances": 2
     },
     {
       "id": "08b91bebb9171600",
@@ -869,44 +865,6 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-09",
       "appearances": 2
-    },
-    {
-      "id": "8ae8ebb55c94f589",
-      "source": "Adweek",
-      "headline": "How JPMorganChase Tapped Togethxr to Reach Women's Sports Fans Without League Rights - ADWEEK",
-      "summary": "How JPMorganChase Tapped Togethxr to Reach Women's Sports Fans Without League Rights ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3N1UkxGbGR0eXVVMHFZRmJkcm4xdTQtNkhIWElGRXktRXRHOU1ZRWsyNEJxaWpfNEJLZ0FVM0FNRlVfdXUySEw0RnNQenpFZkVqTHpnRWRZTFlDdms0V1BqeVZBc29IM1pVbkk3TElRSzVud25UTEkydHB0Zy0yMjJ0S2xVVDhfWVZ0U0pJT3NaVGN0THRDem5PSHdPWGNqTE1CSnljeldCS21UUjJJdl9Vcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3N1UkxGbGR0eXVVMHFZRmJkcm4xdTQtNkhIWElGRXktRXRHOU1ZRWsyNEJxaWpfNEJLZ0FVM0FNRlVfdXUySEw0RnNQenpFZkVqTHpnRWRZTFlDdms0V1BqeVZBc29IM1pVbkk3TElRSzVud25UTEkydHB0Zy0yMjJ0S2xVVDhfWVZ0U0pJT3NaVGN0THRDem5PSHdPWGNqTE1CSnljeldCS21UUjJJdl9Vcw",
-      "image": "",
-      "published": "Wed, 07 Oct 2026 18:43:24 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
-    },
-    {
-      "id": "cbbc2fde4f913d5d",
-      "source": "Variety",
-      "headline": "Gromit Speaks: Martin Freeman to Voice Beloved but Mute Dog in Audiobook Edition of Autobiography",
-      "summary": "He’s been one half of one of the most cherished on-screen duos in history, yet has famously never spoken a word. That is, up until now. Gromit, the whip-smart and eye-rolling four-legged friend to cheese-loving inventor Wallace across numerous stop-motion classics from Aardman Animation and “Wallace & Gromit” creator Nick Park, is getting his first autobiography",
-      "url": "https://variety.com/2026/film/global/martin-freeman-to-voice-gromit-autobiography-audiobook-1236906386/",
-      "canonical_url": "https://variety.com/2026/film/global/martin-freeman-to-voice-gromit-autobiography-audiobook-1236906386",
-      "image": "https://variety.com/wp-content/uploads/2026/10/gromit-freeman.jpg",
-      "published": "Fri, 09 Oct 2026 11:00:00 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "appearances": 1
     },
     {
       "id": "2f8c00081514da8a",
@@ -976,6 +934,25 @@
       "published": "Fri, 09 Oct 2026 09:30:49 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
+      "id": "7c2d89f270a56765",
+      "source": "BBC World",
+      "headline": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c0/live/d81bf860-c3d8-11f1-95ba-dba767ffba7e.jpg",
+      "published": "Fri, 09 Oct 2026 13:31:07 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-09"
@@ -1196,25 +1173,23 @@
       "appearances": 1
     },
     {
-      "id": "3799aef8c4831e61",
-      "source": "BBC US & Canada",
-      "headline": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1772/live/b1c65680-c30e-11f1-8f04-85217d686658.png",
-      "published": "Thu, 08 Oct 2026 14:10:58 GMT",
+      "id": "d411b6623953be80",
+      "source": "Variety",
+      "headline": "Australian Classic ‘Caddie,’ Considered a Landmark Film of Australia’s New Wave, Acquired by Potential Films Ahead of Lumière Film Festival Premiere",
+      "summary": "Potential Films, one of Australia’s leading independent distributors, has acquired worldwide rights to the newly restored 1976 drama “Caddie,” by Donald Crombie. Considered a landmark film of Australia’s New Wave, the film is screening at the Lumière Film Festival in Lyon and will be presented at the event’s International Classic Film Market (MIFC) as part",
+      "url": "https://variety.com/2026/film/global/australia-classic-caddie-potential-films-lumiere-mifc-1236906437/",
+      "canonical_url": "https://variety.com/2026/film/global/australia-classic-caddie-potential-films-lumiere-mifc-1236906437",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Caddie-lamp_Courtesy-of-NFSA.jpg",
+      "published": "Fri, 09 Oct 2026 13:35:34 +0000",
       "sections": [
-        "must-know",
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
-        "2026-10-09",
-        "2026-10-08"
+        "2026-10-09"
       ],
-      "first_seen": "2026-10-08",
+      "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "603a1798959edc67",
@@ -1362,6 +1337,25 @@
       "published": "Thu, 08 Oct 2026 23:01:30 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "appearances": 1
+    },
+    {
+      "id": "1b3e3465d047e282",
+      "source": "The Verge",
+      "headline": "A week with Googlebooks: four notes from our testing so far",
+      "summary": "Google's new operating system is off to a rocky start. The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the weak point. There are four of us on staff at The Verge actively testing Googlebooks and, frankly, our internal Slack discussions have",
+      "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+      "canonical_url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+      "image": "",
+      "published": "2026-10-09T09:36:02-04:00",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-09"
@@ -2021,6 +2015,25 @@
       "appearances": 1
     },
     {
+      "id": "c04a5fddec655037",
+      "source": "BBC Science",
+      "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
+      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-08"
+      ],
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "appearances": 1
+    },
+    {
       "id": "c10ff58e185abea7",
       "source": "Channel 3000",
       "headline": "Journey Mental Health Center warns of funding shortfall - Channel 3000",
@@ -2230,6 +2243,25 @@
       "appearances": 1
     },
     {
+      "id": "e0ef7bdc55a5d687",
+      "source": "BBC US & Canada",
+      "headline": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "summary": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e38/live/728421a0-c309-11f1-8f04-85217d686658.png",
+      "published": "Thu, 08 Oct 2026 17:15:33 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-08"
+      ],
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "appearances": 1
+    },
+    {
       "id": "eb20cb4fc21ac96f",
       "source": "B2B Marketing Ops",
       "headline": "DemandGenReport.com Now Becomes B2BMX Insights - Demand Gen Report",
@@ -2392,6 +2424,25 @@
       "published": "Thu, 08 Oct 2026 15:09:01 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-08"
+      ],
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "appearances": 1
+    },
+    {
+      "id": "3799aef8c4831e61",
+      "source": "BBC US & Canada",
+      "headline": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1772/live/b1c65680-c30e-11f1-8f04-85217d686658.png",
+      "published": "Thu, 08 Oct 2026 14:10:58 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-08"
