@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-09.json",
-  "report_date": "2026-10-09",
-  "generated_at": "2026-10-09T17:27:32.301234+00:00",
-  "edition_count": 86,
+  "latest": "data/archive/2026-10-10.json",
+  "report_date": "2026-10-10",
+  "generated_at": "2026-10-10T12:38:30.611195+00:00",
+  "edition_count": 87,
   "editions": [
+    {
+      "report_date": "2026-10-10",
+      "generated_at": "2026-10-10T12:38:30.611195+00:00",
+      "path": "data/archive/2026-10-10.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+        "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+        "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 63,
+      "section_counts": {
+        "local": 3,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 6,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 7,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-09",
       "generated_at": "2026-10-09T17:27:32.301234+00:00",
