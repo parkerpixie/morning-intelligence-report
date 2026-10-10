@@ -1,12 +1,12 @@
 {
   "latest": "data/archive/2026-10-10.json",
   "report_date": "2026-10-10",
-  "generated_at": "2026-10-10T12:38:30.611195+00:00",
+  "generated_at": "2026-10-10T13:58:25.327062+00:00",
   "edition_count": 87,
   "editions": [
     {
       "report_date": "2026-10-10",
-      "generated_at": "2026-10-10T12:38:30.611195+00:00",
+      "generated_at": "2026-10-10T13:58:25.327062+00:00",
       "path": "data/archive/2026-10-10.json",
       "top_story": {
         "source": "NPR",
@@ -15,16 +15,16 @@
         "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
         "image": "assets/images/clementine-madison-morning.webp"
       },
-      "story_count": 63,
+      "story_count": 72,
       "section_counts": {
-        "local": 3,
+        "local": 8,
         "must-know": 8,
         "ai-tech": 8,
-        "work-marketing": 6,
+        "work-marketing": 8,
         "wellbeing": 8,
         "entertainment": 8,
-        "animals": 7,
-        "wonderful": 6
+        "animals": 8,
+        "wonderful": 7
       }
     },
     {
