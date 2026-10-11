@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-10.json",
-  "report_date": "2026-10-10",
-  "generated_at": "2026-10-10T16:15:10.927595+00:00",
-  "edition_count": 87,
+  "latest": "data/archive/2026-10-11.json",
+  "report_date": "2026-10-11",
+  "generated_at": "2026-10-11T12:57:46.275724+00:00",
+  "edition_count": 88,
   "editions": [
+    {
+      "report_date": "2026-10-11",
+      "generated_at": "2026-10-11T12:57:46.275724+00:00",
+      "path": "data/archive/2026-10-11.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-10-10",
       "generated_at": "2026-10-10T16:15:10.927595+00:00",
