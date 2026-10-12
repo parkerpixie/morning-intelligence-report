@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T15:36:59.826916+00:00",
+  "generated_at": "2026-10-12T17:03:11.994149+00:00",
   "edition_count": 89,
-  "story_count": 5519,
+  "story_count": 5521,
   "stories": [
     {
       "id": "8f16cc3bc7e56c18",
@@ -34,6 +34,25 @@
       "published": "Mon, 12 Oct 2026 15:07:55 +0000",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "f0d6a7d2e591bcc4",
+      "source": "B2B Marketing Ops",
+      "headline": "Zoom Debuts Revenue OS for Sales Teams - Demand Gen Report",
+      "summary": "Zoom Debuts Revenue OS for Sales Teams Demand Gen Report",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnA5c3ZwZ0xvaUxiVFlTZ0txNTJ6T0lRS01rSW40N210Q3I5X0lzd3JwS0Y5OFF3d01DTlRfaXpSR21XcUFySi1iNWJJbm5hU0RLSzV1TzR0T2dWM1ExRTVDVXBtMl9XRDJGeF81Q3RxSWJXQnZDVXB4TlJtb2lyQ1l3SjlaVnFtUHpoQ2JNdEdFZ0llR1NmSjZROWlSMzgwZ210Uw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnA5c3ZwZ0xvaUxiVFlTZ0txNTJ6T0lRS01rSW40N210Q3I5X0lzd3JwS0Y5OFF3d01DTlRfaXpSR21XcUFySi1iNWJJbm5hU0RLSzV1TzR0T2dWM1ExRTVDVXBtMl9XRDJGeF81Q3RxSWJXQnZDVXB4TlJtb2lyQ1l3SjlaVnFtUHpoQ2JNdEdFZ0llR1NmSjZROWlSMzgwZ210Uw",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 16:01:31 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-12"
@@ -109,26 +128,7 @@
       "image": "",
       "published": "Sun, 11 Oct 2026 22:25:00 GMT",
       "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "8531bc97b321a1b1",
-      "source": "Wisconsin Public Radio",
-      "headline": "Wisconsin secretary of state campaign focuses on office’s duties — or lack thereof",
-      "summary": "The office of secretary of state doesn't have much power in Wisconsin, and the candidates running for the job are at odds on whether it should stay that way.",
-      "url": "https://www.wpr.org/news/wisconsin-secretary-state-jay-schroeder-jocasta-zamarripa-pete-karas-2026",
-      "canonical_url": "https://www.wpr.org/news/wisconsin-secretary-state-jay-schroeder-jocasta-zamarripa-pete-karas-2026",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 10:00:00 +0000",
-      "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-12"
@@ -157,54 +157,35 @@
       "appearances": 1
     },
     {
-      "id": "9ef735a90a03a306",
-      "source": "Wisconsin Public Radio",
-      "headline": "Wisconsin cheese makers say USDA funding match on dairy grants could kill small farms",
-      "summary": "Some dairy farmers and cheese makers in Wisconsin are worried an abrupt change in a federal grant program could make it tough for small operators to survive.",
-      "url": "https://www.wpr.org/news/usda-funding-match-grants-small-dairies-wisconsin-cheese-makers",
-      "canonical_url": "https://www.wpr.org/news/usda-funding-match-grants-small-dairies-wisconsin-cheese-makers",
+      "id": "9a6a9bd937200d4f",
+      "source": "Salesforce",
+      "headline": "Why Did Salesforce (NYSE:CRM) Receive a Fresh Rating Upgrade? - Kalkine Media",
+      "summary": "Why Did Salesforce (NYSE:CRM) Receive a Fresh Rating Upgrade? Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOG9WdEEzVGZfVGllQ3NsQVowTHF5QnpSZnJBUlhTalhlZExOS0V2cFYyMnI2V0V0bVV1ZVFQQkdwazhtNmhiTFQxWW5kaVlsZ0xjX2cyRFdmMzYyQXU4emt3d0RJbktiOG41d2FBT3NBNWRrLWhSSUd5UVBNSmVsbmt1ZzFIaFNNdTVEVWFpZGlHLTltcGZJclFiel9PMXprTmJXVWx3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOG9WdEEzVGZfVGllQ3NsQVowTHF5QnpSZnJBUlhTalhlZExOS0V2cFYyMnI2V0V0bVV1ZVFQQkdwazhtNmhiTFQxWW5kaVlsZ0xjX2cyRFdmMzYyQXU4emt3d0RJbktiOG41d2FBT3NBNWRrLWhSSUd5UVBNSmVsbmt1ZzFIaFNNdTVEVWFpZGlHLTltcGZJclFiel9PMXprTmJXVWx3",
       "image": "",
-      "published": "Mon, 12 Oct 2026 10:00:00 +0000",
+      "published": "Mon, 12 Oct 2026 13:23:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "76ea564c66cb6655",
+      "source": "Madison Local",
+      "headline": "What to do in Madison this week: Oct. 12-15, 2026 - Isthmus | Madison, Wisconsin",
+      "summary": "What to do in Madison this week: Oct. 12-15, 2026 Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jbjAzMmJGa3kwV3B3NjU3MTBMajNHZkdPOGxxTnJHaEN3Y29RN2MxQ18yVG8zNU1aV0tqRmFLTzdCUWRXbU5jYURHRXFWVkdGUUdsdE5ma21aTk9BbEREeG5CTXJNcmhfOElnU3NEV2x0ZWM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jbjAzMmJGa3kwV3B3NjU3MTBMajNHZkdPOGxxTnJHaEN3Y29RN2MxQ18yVG8zNU1aV0tqRmFLTzdCUWRXbU5jYURHRXFWVkdGUUdsdE5ma21aTk9BbEREeG5CTXJNcmhfOElnU3NEV2x0ZWM",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 10:10:53 GMT",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "b4413abd923578d9",
-      "source": "BBC World",
-      "headline": "Why the US is bringing back firing squads",
-      "summary": "Medical experts and those who study the death penalty say each method can go wrong and cause severe pain.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebc/live/216ece00-c64c-11f1-9a39-31b474234113.jpg",
-      "published": "Mon, 12 Oct 2026 14:56:43 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "ffba76f653be9112",
-      "source": "Wisconsin News",
-      "headline": "What role will Fox Valley voters play in the Wisconsin governor race? - Isthmus | Madison, Wisconsin",
-      "summary": "What role will Fox Valley voters play in the Wisconsin governor race? Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM09xQ012Zk9XaTBvaXdfSEFQUjNLb0tYeFloaG4wWHg4Wkh6MjVTZV9pS1VUOU8wQjZ6TDFrSjFoejRZQVAwYkhjOGdqcWZrRjFMWlJRSVlqMnFfd3M4dnJoYjNfTnpCWmU3LXBObmI2Ri1hLU9IVDJ1blJ4OV9LNURwLU1DMDJRdVlGelVwOWNmZXpKU1kwNDVqOE9KbHdZ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM09xQ012Zk9XaTBvaXdfSEFQUjNLb0tYeFloaG4wWHg4Wkh6MjVTZV9pS1VUOU8wQjZ6TDFrSjFoejRZQVAwYkhjOGdqcWZrRjFMWlJRSVlqMnFfd3M4dnJoYjNfTnpCWmU3LXBObmI2Ri1hLU9IVDJ1blJ4OV9LNURwLU1DMDJRdVlGelVwOWNmZXpKU1kwNDVqOE9KbHdZ",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 15:00:45 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-10-12"
@@ -264,7 +245,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd3/live/b09d7590-c63d-11f1-abff-0d918239b2e3.jpg",
       "published": "Mon, 12 Oct 2026 13:49:05 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-12"
@@ -378,7 +359,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1774/live/1fce2710-c630-11f1-9a39-31b474234113.jpg",
       "published": "Mon, 12 Oct 2026 15:19:17 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-12"
@@ -464,6 +445,25 @@
       "appearances": 1
     },
     {
+      "id": "ec3e0ce23029f4b3",
+      "source": "Mental Health",
+      "headline": "Surviving the Adderall Shortage, Still, in 2026 - Psychology Today",
+      "summary": "Surviving the Adderall Shortage, Still, in 2026 Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa19BdUE5UDBiSEF6a3J6RlZQYW00TTRfdG52RDdKZHhEVGlObGdHc2tfMGZvbXB4bHVtX0otMkRPbmNWWl9hc2hQMWpfMUJwaGtUQUhhcTZGYkc4djBfLW5tZDNkc0tldVktbkxLWjN2YnVrNEVLdVhseWJxMjJFbS15T1d5MHRROWVtQ0pNMldpa0loR1l0LW1SMGsyTHl5TjllUkU0aXJSYjhycTVIbklnZlF6UVEzbm40cEdIcDBVVmFtN0l0b0x3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa19BdUE5UDBiSEF6a3J6RlZQYW00TTRfdG52RDdKZHhEVGlObGdHc2tfMGZvbXB4bHVtX0otMkRPbmNWWl9hc2hQMWpfMUJwaGtUQUhhcTZGYkc4djBfLW5tZDNkc0tldVktbkxLWjN2YnVrNEVLdVhseWJxMjJFbS15T1d5MHRROWVtQ0pNMldpa0loR1l0LW1SMGsyTHl5TjllUkU0aXJSYjhycTVIbklnZlF6UVEzbm40cEdIcDBVVmFtN0l0b0x3",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 16:32:30 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
       "id": "7d6e710ad270cfba",
       "source": "BBC Health",
       "headline": "Stormont 'failing to plan' for ageing population",
@@ -483,14 +483,33 @@
       "appearances": 1
     },
     {
-      "id": "6868ebc9fe088d73",
+      "id": "8fb44107246a328c",
+      "source": "BBC World",
+      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+      "published": "Mon, 12 Oct 2026 16:53:00 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "cae5d5389e78d572",
       "source": "Marketing Ops",
-      "headline": "Smart Airport Market to Exceed $18 billion by 2030 at 13% CAGR, Thales Leads, North America Dominant - Carroll County Mirror-Democrat",
-      "summary": "Smart Airport Market to Exceed $18 billion by 2030 at 13% CAGR, Thales Leads, North America Dominant Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNi1MMklmUGpyTTdPZ3pObjFlRk5NTk5YUmZQMTR4amV4a1hzbU9fRkwwYjNYck8zR3NaM3pRR29QZ0ZKTlF6cGk2YjFGVVN5anowWV9xUnlYOXcwSWFvSFp6TnlQdmI0aGtuY3ByR3pnQXRpZDEtWTNoOW1ZbUw3ZUNlYkw2QlotRmtnSVc1TmExcU1pNVBYUXEzd3owSXB0TTRrV3ZHb1pZSE1PY05HYXc3S3dfSm8?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNi1MMklmUGpyTTdPZ3pObjFlRk5NTk5YUmZQMTR4amV4a1hzbU9fRkwwYjNYck8zR3NaM3pRR29QZ0ZKTlF6cGk2YjFGVVN5anowWV9xUnlYOXcwSWFvSFp6TnlQdmI0aGtuY3ByR3pnQXRpZDEtWTNoOW1ZbUw3ZUNlYkw2QlotRmtnSVc1TmExcU1pNVBYUXEzd3owSXB0TTRrV3ZHb1pZSE1PY05HYXc3S3dfSm8",
+      "headline": "Should You Buy Zebra Technologies Stock After a 71% Rally in 6 Months? - TradingView",
+      "summary": "Should You Buy Zebra Technologies Stock After a 71% Rally in 6 Months? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHB4dmVsTENzOWJwSld5cndTaXE3emw0S0VJNVpMWGs0Zi1XWGVvNTVZaFM3VGU1alVBaTNvZDNET2lDYnpMVlhHd2k0U1k3SGtmcFhTeS1NeWZzWkQ2c3Z0UERORVRBRXJwR3NvQ3hqOUZqWjQzWXNmZ0s4R0NTUGZ5OEdYa05wbUxMYldQeEFmMjFlRTZ2T3FLVk5kMWpSaDBZQjBLTWc0bXhOVmU5MGI4UEpUM0JOM0ZlN0ZKNDhFUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHB4dmVsTENzOWJwSld5cndTaXE3emw0S0VJNVpMWGs0Zi1XWGVvNTVZaFM3VGU1alVBaTNvZDNET2lDYnpMVlhHd2k0U1k3SGtmcFhTeS1NeWZzWkQ2c3Z0UERORVRBRXJwR3NvQ3hqOUZqWjQzWXNmZ0s4R0NTUGZ5OEdYa05wbUxMYldQeEFmMjFlRTZ2T3FLVk5kMWpSaDBZQjBLTWc0bXhOVmU5MGI4UEpUM0JOM0ZlN0ZKNDhFUQ",
       "image": "",
-      "published": "Mon, 12 Oct 2026 06:24:25 GMT",
+      "published": "Mon, 12 Oct 2026 13:21:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -502,16 +521,16 @@
       "appearances": 1
     },
     {
-      "id": "7ec8afeed3530ddc",
-      "source": "The Verge",
-      "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "id": "55175b75ac4c3bfd",
+      "source": "Salesforce Marketing",
+      "headline": "Salesforce Signs Definitive Agreement to Acquire Loops - Salesforce",
+      "summary": "Salesforce Signs Definitive Agreement to Acquire Loops Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw",
       "image": "",
-      "published": "2026-10-11T14:33:56-04:00",
+      "published": "Mon, 12 Oct 2026 15:58:26 GMT",
       "sections": [
-        "ai-tech"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-12"
@@ -540,25 +559,23 @@
       "appearances": 1
     },
     {
-      "id": "a3175c8b76932d27",
-      "source": "B2B Marketing Ops",
-      "headline": "REVOPS INFLUENCER FOR HIRE: REVENUE OPERATIONS KEYNOTE SPEAKER & THOUGHT LEADER - https://www.futuristsspeakers.com/",
-      "summary": "REVOPS INFLUENCER FOR HIRE: REVENUE OPERATIONS KEYNOTE SPEAKER & THOUGHT LEADER https://www.futuristsspeakers.com/",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFctdWFNSnNQSEx6LXRNNjV4TXEyWDNqdHMzSy1IQmJFT0kwUk0wTGZVSVdHQW1fS09HQU4xQlV4a0dNQzNFaTNZYzJsUFY3NWhFNmNldUFhM0g2M0ZpNTdyRjlWZzhjS0loRU82MnJjV3Rzdy1EWnVzYTBybmR5R3lFbw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFctdWFNSnNQSEx6LXRNNjV4TXEyWDNqdHMzSy1IQmJFT0kwUk0wTGZVSVdHQW1fS09HQU4xQlV4a0dNQzNFaTNZYzJsUFY3NWhFNmNldUFhM0g2M0ZpNTdyRjlWZzhjS0loRU82MnJjV3Rzdy1EWnVzYTBybmR5R3lFbw",
-      "image": "",
-      "published": "Sun, 11 Oct 2026 17:31:14 GMT",
+      "id": "2b5ad7216a911ac6",
+      "source": "Ars Technica",
+      "headline": "Review: 4-hour Musk documentary feels like two different films",
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "canonical_url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg",
+      "published": "Sun, 11 Oct 2026 18:10:54 +0000",
       "sections": [
-        "work-marketing"
+        "entertainment"
       ],
       "report_dates": [
-        "2026-10-12",
-        "2026-10-05",
-        "2026-10-02"
+        "2026-10-12"
       ],
-      "first_seen": "2026-10-02",
+      "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "appearances": 3
+      "appearances": 1
     },
     {
       "id": "0f8322a63d586cae",
@@ -617,44 +634,6 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-12",
       "appearances": 2
-    },
-    {
-      "id": "89392b2961b0d65d",
-      "source": "Marketing Ops",
-      "headline": "Predictive Analytics Market to Exceed $65 billion by 2030 at 26% CAGR, with Microsoft at the Forefront - Carroll County Mirror-Democrat",
-      "summary": "Predictive Analytics Market to Exceed $65 billion by 2030 at 26% CAGR, with Microsoft at the Forefront Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0xnVWhISUg4enJlMnVaLUhTdFUtQXVrSGhmalU4OVNFaHgyQjctZHFtZ2EzU2ZSdEdLc1RWd29qa09kYm9Jb2ZtZjBSeTNFVlh2a1hkdWZndHo1V3BVbmdjeGQ3M05JbHRSVnY1TGp1blpIWFpYZFFseDRWNmNsU19QRVRoYmUyOTZCaExGSlVfaVpXY0NhX3ZKX250OXNfMEZsWlRZbzQ4d3JDd2F5d3huczFaUkk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0xnVWhISUg4enJlMnVaLUhTdFUtQXVrSGhmalU4OVNFaHgyQjctZHFtZ2EzU2ZSdEdLc1RWd29qa09kYm9Jb2ZtZjBSeTNFVlh2a1hkdWZndHo1V3BVbmdjeGQ3M05JbHRSVnY1TGp1blpIWFpYZFFseDRWNmNsU19QRVRoYmUyOTZCaExGSlVfaVpXY0NhX3ZKX250OXNfMEZsWlRZbzQ4d3JDd2F5d3huczFaUkk",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 06:24:25 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "b06be6de09732ead",
-      "source": "Mental Health",
-      "headline": "Patience with life’s small annoyances is linked to lower anxiety, but it doesn’t buffer spiritual struggles - PsyPost",
-      "summary": "Patience with life’s small annoyances is linked to lower anxiety, but it doesn’t buffer spiritual struggles PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUFFUVQ4OTlIWEVwazZTdmstQ0syamxvUVdiMTBfeERjOXR6RXRqVnFiRVo4RWc4N0pqa0JEV2cybm5HZ291UHQwWUlqbTZfSE9hSkRMY0hGN1ZTeFY1RTRBY1JaXzV5UFMwMF9QejVpdlAtdDlnTjFUQ05yWE1iTmFhMTN0aTVkMjVDSmtlREFZV3pv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUFFUVQ4OTlIWEVwazZTdmstQ0syamxvUVdiMTBfeERjOXR6RXRqVnFiRVo4RWc4N0pqa0JEV2cybm5HZ291UHQwWUlqbTZfSE9hSkRMY0hGN1ZTeFY1RTRBY1JaXzV5UFMwMF9QejVpdlAtdDlnTjFUQ05yWE1iTmFhMTN0aTVkMjVDSmtlREFZV3pv",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 13:08:18 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
     },
     {
       "id": "24f43fa33fe8491d",
@@ -733,6 +712,44 @@
       "appearances": 1
     },
     {
+      "id": "82d5ac93e4b7fc25",
+      "source": "Variety",
+      "headline": "Natalie Morales Joins Flow Space Women’s Health Summit in L.A.",
+      "summary": "Natalie Morales, award-winning journalist and TV personality, is joining the lineup of SHE Media’s Flow Space Women’s Health Summit this week. The Flow Space Women’s Health Summit will be held Thursday, Oct. 15, at Penske Media Corp.’s Los Angeles headquarters. (Disclosure: PMC is the owner of Variety.) Morales, who has spoken publicly about her family’s",
+      "url": "https://variety.com/2026/tv/news/natalie-morales-flow-space-womens-health-summit-l-a-1236909115/",
+      "canonical_url": "https://variety.com/2026/tv/news/natalie-morales-flow-space-womens-health-summit-l-a-1236909115",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Natalie-Morales.jpg",
+      "published": "Mon, 12 Oct 2026 15:52:24 +0000",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "c724a221c12e9d41",
+      "source": "AI News",
+      "headline": "Microsoft president says UK is best placed to drive AI regulation - TechCrunch",
+      "summary": "Microsoft president says UK is best placed to drive AI regulation TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 15:31:19 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
       "id": "308132a3d60fb75a",
       "source": "AI News",
       "headline": "Microsoft president says AI less regulated than milk - Christian Action Research and Education",
@@ -771,16 +788,35 @@
       "appearances": 1
     },
     {
-      "id": "a42706be9676e259",
-      "source": "Lifecycle Marketing",
-      "headline": "Lifecycle of Innovation cartoon - Marketoonist - Marketoonist | Tom Fishburne",
-      "summary": "Lifecycle of Innovation cartoon - Marketoonist Marketoonist | Tom Fishburne",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cVA2bkg0SVkwbl9jeER2TUpuZFRQbHF6TGVxUHczVld1MzNXa3pKTndvYmN2czhyQVdrclJPZ21JanpzLW85SHdaMldrU1I0SjRvcFIwbVNaNmFSWW5KMzlpSFlxekYwOTJUY2RoWkI?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cVA2bkg0SVkwbl9jeER2TUpuZFRQbHF6TGVxUHczVld1MzNXa3pKTndvYmN2czhyQVdrclJPZ21JanpzLW85SHdaMldrU1I0SjRvcFIwbVNaNmFSWW5KMzlpSFlxekYwOTJUY2RoWkI",
+      "id": "dedd8c27d82ab6c4",
+      "source": "Madison Local",
+      "headline": "Madison nears $4.25M deal for future North Side police, fire station - Wisconsin State Journal",
+      "summary": "Madison nears $4.25M deal for future North Side police, fire station Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmxFVnlxSWNnZWVDczV0ZWxER2VVQm04X0pNYUtiVGJVeXRWRm02UDZ4SjBGQzhKbC1weTV1SWNMR3RWSGptQW9uYjZRcmItdl9KV1ZmSVFsUlJYQmliNEx5blhkaHhTYlRaRW9LcDkwV1NJdldwS1lzMGR4VVUydFZUcndtTEtoQWZaNmVIOWFjSjlLZG1uak1ROXctd1RLWG1r?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmxFVnlxSWNnZWVDczV0ZWxER2VVQm04X0pNYUtiVGJVeXRWRm02UDZ4SjBGQzhKbC1weTV1SWNMR3RWSGptQW9uYjZRcmItdl9KV1ZmSVFsUlJYQmliNEx5blhkaHhTYlRaRW9LcDkwV1NJdldwS1lzMGR4VVUydFZUcndtTEtoQWZaNmVIOWFjSjlLZG1uak1ROXctd1RLWG1r",
       "image": "",
-      "published": "Mon, 12 Oct 2026 07:04:30 GMT",
+      "published": "Mon, 12 Oct 2026 12:00:00 GMT",
       "sections": [
-        "work-marketing"
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "de69746aabbc012a",
+      "source": "Ars Technica",
+      "headline": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-1152x648.png",
+      "published": "Mon, 12 Oct 2026 16:01:08 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-12"
@@ -830,44 +866,6 @@
       "appearances": 2
     },
     {
-      "id": "8f1d895d4c68b213",
-      "source": "Variety",
-      "headline": "Italy Celebrates ‘E.T.’ Designer Carlo Rambaldi’s Upcoming Hollywood Walk of Fame Star",
-      "summary": "Italy is celebrating the Hollywood Walk of Fame star to be posthumously unveiled on Oct. 15 honoring special effects maestro Carlo Rambaldi, best known for designing the iconic alien title character in Steven Spielberg’s “E.T. the Extra-Terrestrial.” Rambaldi, who died in 2012 at age 86, is a three-time Academy Award winner for his work in",
-      "url": "https://variety.com/2026/film/global/italy-e-t-designer-carlo-rambaldi-hollywood-walk-of-fame-1236908923/",
-      "canonical_url": "https://variety.com/2026/film/global/italy-e-t-designer-carlo-rambaldi-hollywood-walk-of-fame-1236908923",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Rambaldi.jpg",
-      "published": "Mon, 12 Oct 2026 14:24:22 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "d62d9673fa7a5fed",
-      "source": "The Verge",
-      "headline": "Inside the mini factory where GM builds its EV future",
-      "summary": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, which total half a million square feet together, is a massive construction project that's still in progress. Once completed, it will house",
-      "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-      "canonical_url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-      "image": "",
-      "published": "2026-10-12T07:00:00-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
       "id": "4c1bbc6bc93e2161",
       "source": "Animals",
       "headline": "Indianola City Council Holds First Consideration for Animal Protection and Control Code - KNIA - KRLS",
@@ -887,44 +885,6 @@
       "appearances": 1
     },
     {
-      "id": "c52c4f0c6ba75afc",
-      "source": "Reuters",
-      "headline": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes - Reuters",
-      "summary": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 12:21:58 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "9d41ace6b2f407b6",
-      "source": "Variety",
-      "headline": "In Defense of Kelly Clarkson (Kind Of) and the $15,000 Singing Bird Saga",
-      "summary": "Kelly Clarkson does not seem to be winning the war she haphazardly declared against a Brooklyn novelty store. But the mere fact of its existence is proof that Clarkson is providing the public a service, of sorts. For too long, celebrities have been PR-trained and social-media-managed within an inch of their lives. Clarkson, Twitter fingers",
-      "url": "https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964/",
-      "canonical_url": "https://variety.com/2026/music/columns/kelly-clarkson-art-of-play-brooklyn-twitter-1236908964",
-      "image": "https://variety.com/wp-content/uploads/2026/05/the-voice-season-23-kelly-clarkson2.jpg",
-      "published": "Mon, 12 Oct 2026 14:51:13 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
       "id": "a408760eeac61eb3",
       "source": "BBC World",
       "headline": "Immigration agents search Congresswoman Ilhan Omar's home",
@@ -932,7 +892,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/255fca30-c63f-11f1-abff-0d918239b2e3.jpg",
-      "published": "Mon, 12 Oct 2026 15:02:41 GMT",
+      "published": "Mon, 12 Oct 2026 16:51:44 GMT",
       "sections": [
         "must-know"
       ],
@@ -983,25 +943,6 @@
       "appearances": 1
     },
     {
-      "id": "2fb9aadce2ef6373",
-      "source": "The Verge",
-      "headline": "How Apple can win the smart home",
-      "summary": "This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home experience\" in New York City on Tuesday, October 13th, it doesn't take an army of internet sleuths to deduce we'll get news about Apple Home - specifically, new hardware.",
-      "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
-      "canonical_url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
-      "image": "",
-      "published": "2026-10-12T08:00:00-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
       "id": "0062e17ea3ba38b2",
       "source": "Wonderful News",
       "headline": "Honoring 15 exemplary young people: Spreading positive energy in the community. - Vietnam.vn",
@@ -1032,6 +973,25 @@
       "published": "Mon, 12 Oct 2026 12:20:46 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "b2ceafcb70e0c624",
+      "source": "Ars Technica",
+      "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "canonical_url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg",
+      "published": "Mon, 12 Oct 2026 13:00:52 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1117,54 +1077,16 @@
       "appearances": 1
     },
     {
-      "id": "210082eef588b100",
+      "id": "4ee7306482bc3269",
       "source": "Adweek",
       "headline": "Entering the New World of Marketing With LLMs - ADWEEK",
       "summary": "Entering the New World of Marketing With LLMs ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckgzbTBSWWt2MWRmblgybWZWcnMzUTVZdmI4cEFReHFDcjQwZjd5N1p0bGtrY0xQQUF2d0V2NVNwR21XSmVtVnIzR3M0NGNXQlR5WGFIZ3o3Vi0xRVRWLWJyeGk1WmdVUF9UNU1oVDFtb3FKSV9aUGliNWJscG9CRjEzaVJWSmNrSFE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckgzbTBSWWt2MWRmblgybWZWcnMzUTVZdmI4cEFReHFDcjQwZjd5N1p0bGtrY0xQQUF2d0V2NVNwR21XSmVtVnIzR3M0NGNXQlR5WGFIZ3o3Vi0xRVRWLWJyeGk1WmdVUF9UNU1oVDFtb3FKSV9aUGliNWJscG9CRjEzaVJWSmNrSFE",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVh1cFhvekdVSkppWVlCeHBWeThEakE5X2hPbXFpamJ6SmZlaDR0eGVra1RBTk1WNGNvN3QxdThSd3l0ZmFzTnlmbWFMempZZUNzMHpCejk3QXRBb2VuRXZiRDN0czJVX3pncFA4a0ptS1hVRHBiZVNDV2VOZlc0SjBqZ05KZnk2MmF2TUFJRk0tc19keU05RFZrTXBOVVhNa1FUSGtDeElGazg2dmtmYnJjdVEwNE1mU1RsbE5CLS1JbG9lbE81ekdUT1VHeUJ0ckZOVzVWbmFTS1Qw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVh1cFhvekdVSkppWVlCeHBWeThEakE5X2hPbXFpamJ6SmZlaDR0eGVra1RBTk1WNGNvN3QxdThSd3l0ZmFzTnlmbWFMempZZUNzMHpCejk3QXRBb2VuRXZiRDN0czJVX3pncFA4a0ptS1hVRHBiZVNDV2VOZlc0SjBqZ05KZnk2MmF2TUFJRk0tc19keU05RFZrTXBOVVhNa1FUSGtDeElGazg2dmtmYnJjdVEwNE1mU1RsbE5CLS1JbG9lbE81ekdUT1VHeUJ0ckZOVzVWbmFTS1Qw",
       "image": "",
       "published": "Mon, 12 Oct 2026 15:25:24 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "c5aa093a7f7a12b0",
-      "source": "NPR",
-      "headline": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-      "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
-      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "canonical_url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 07:29:56 -0400",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "dd2c3b2cb52043d9",
-      "source": "Wisconsin Public Radio",
-      "headline": "David Crowley’s pragmatic record a double-edged sword in Wisconsin governor’s race",
-      "summary": "David Crowley's record as a former state legislator and Milwaukee County's executive has focused on solving problems in his hometown. But that pragmatic approach, especially his support for a sales tax hike, is being used against him as he runs for governor.",
-      "url": "https://www.wpr.org/news/david-crowley-pragmatic-record-double-edged-sword-wisconsin-governor-2026",
-      "canonical_url": "https://www.wpr.org/news/david-crowley-pragmatic-record-double-edged-sword-wisconsin-governor-2026",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 10:00:00 +0000",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1184,6 +1106,44 @@
       "published": "Sun, 11 Oct 2026 18:34:50 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "55c2a9be2d44710c",
+      "source": "Dane County",
+      "headline": "Dane County seeks $3 million for sheriff’s body cameras - Wisconsin Law Journal",
+      "summary": "Dane County seeks $3 million for sheriff’s body cameras Wisconsin Law Journal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1BQbDFrZ2lxeXhVMGlpWFhGdkZLNkpNYU4xMkFtRnl3VlFuaVhhc2ZNR3BlelJ3bTZJMGE3NHBvTUNRR0VTQkdHOVF6a1ZCdlRsSDJtTV93bUZjTDFwZnBueVdpU0JueVEtOEtmQTQ5XzVSRmVPQ1JkQXRwZXd0RF9yZ29PaUJocDk3ZGRUNFZyWWlBV1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1BQbDFrZ2lxeXhVMGlpWFhGdkZLNkpNYU4xMkFtRnl3VlFuaVhhc2ZNR3BlelJ3bTZJMGE3NHBvTUNRR0VTQkdHOVF6a1ZCdlRsSDJtTV93bUZjTDFwZnBueVdpU0JueVEtOEtmQTQ5XzVSRmVPQ1JkQXRwZXd0RF9yZ29PaUJocDk3ZGRUNFZyWWlBV1E",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 16:31:01 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "b52e12e9ee029a8f",
+      "source": "Animals",
+      "headline": "Constitutional Court upholds animal well-being in South Africa - Bizcommunity",
+      "summary": "Constitutional Court upholds animal well-being in South Africa Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTZJX0g3a1JibldzUlJuQUhQVUxMR0xvMjhDVTJlczIzOUl4QkpyVFBRQkRrZEpUQmg5YmpPdjRtSzF0RHhoSG12NUFhMjlnMUNVN1pSNTZ4SnpOb0pKeFpZMWZRVDZiNDZTclp3cUsxakJnZmtDdHBkNFlWSmVtTjFWS0xPaTFaejZiMDhtcW9iWjFHa2VwajB4bVI0b3JhblMtc3NzdzlxM2s?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTZJX0g3a1JibldzUlJuQUhQVUxMR0xvMjhDVTJlczIzOUl4QkpyVFBRQkRrZEpUQmg5YmpPdjRtSzF0RHhoSG12NUFhMjlnMUNVN1pSNTZ4SnpOb0pKeFpZMWZRVDZiNDZTclp3cUsxakJnZmtDdHBkNFlWSmVtTjFWS0xPaTFaejZiMDhtcW9iWjFHa2VwajB4bVI0b3JhblMtc3NzdzlxM2s",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 16:37:41 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1231,6 +1191,25 @@
       "appearances": 1
     },
     {
+      "id": "7f90885cf023702f",
+      "source": "Madison Local",
+      "headline": "Cheese Fair Off the Square brought Wisconsin cheesemakers to Madison - dairynews.today",
+      "summary": "Cheese Fair Off the Square brought Wisconsin cheesemakers to Madison dairynews.today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDI4VEUzUWV3cmVzRFFkbDZrcEZPa1BsVlBQUGRwbENIOGN2WE1YR0lHaFJiRzFjTVVBRDI3eUl6UDNBd1lQbUJRbVRlWGxMazcyal95dkFkZXNGUENXb0xxZUpRSVdCeExoOEUxc3JsSjVhdjVFMlBoVUFtRVNMOVFnaWx4V0tYOVN5Zm1faXBOYmNCNy0zSE43N1FleXFjUjdXeFdMWHVPcmR6Z2w0OGI2OHZZRmJI?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDI4VEUzUWV3cmVzRFFkbDZrcEZPa1BsVlBQUGRwbENIOGN2WE1YR0lHaFJiRzFjTVVBRDI3eUl6UDNBd1lQbUJRbVRlWGxMazcyal95dkFkZXNGUENXb0xxZUpRSVdCeExoOEUxc3JsSjVhdjVFMlBoVUFtRVNMOVFnaWx4V0tYOVN5Zm1faXBOYmNCNy0zSE43N1FleXFjUjdXeFdMWHVPcmR6Z2w0OGI2OHZZRmJI",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 13:28:31 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
       "id": "2c9aa7871978a708",
       "source": "Lifecycle Marketing",
       "headline": "CAM Recognizes Growth With Several Promotions - CelebrityAccess",
@@ -1241,6 +1220,25 @@
       "published": "Mon, 12 Oct 2026 12:31:40 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "485d8adec6bb7c01",
+      "source": "Mental Health",
+      "headline": "Beverly Hills Psychologist Dr. Shannon Daneshrad Expands Practice to Meet Growing Demand for ADHD and Autism Evaluations and Couples Therapy - PR Newswire",
+      "summary": "Beverly Hills Psychologist Dr. Shannon Daneshrad Expands Practice to Meet Growing Demand for ADHD and Autism Evaluations and Couples Therapy PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNV9Zd1N2Z1R3RHFsM2VnbFlQdU9udTNLLTd5OVNpU3I3SnM3MVIwMHYzOUhXTG9PekJtNlpoVTloS09qZVZSWFV3X19reXV1R21YN3NLR1h4ZEZ4UF8zVW9FcmVETzZRYTFtc3I4SUdzMUliUzdoN3F3azRYSnM2ellUQ2xEVHlXeWFSSDNJbW54aDVwT3YyeGtSNnQ1RUFRRDNSTDlMTkVDX3NrUDZYYkFya1Fjb1RsU0IzMUVreWtZRmxDeWc3T1VtZXp1N0dNVDZSRDdMMjdtYkxaVXBZR1BhX0FtdnZSWkNiRWVEaGpEcWI3RUdpOTd2MmMwdHczcTd3aVBoa2NaZGFnUVE0SHRUbHkweU51aEJxVThXRzI?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNV9Zd1N2Z1R3RHFsM2VnbFlQdU9udTNLLTd5OVNpU3I3SnM3MVIwMHYzOUhXTG9PekJtNlpoVTloS09qZVZSWFV3X19reXV1R21YN3NLR1h4ZEZ4UF8zVW9FcmVETzZRYTFtc3I4SUdzMUliUzdoN3F3azRYSnM2ellUQ2xEVHlXeWFSSDNJbW54aDVwT3YyeGtSNnQ1RUFRRDNSTDlMTkVDX3NrUDZYYkFya1Fjb1RsU0IzMUVreWtZRmxDeWc3T1VtZXp1N0dNVDZSRDdMMjdtYkxaVXBZR1BhX0FtdnZSWkNiRWVEaGpEcWI3RUdpOTd2MmMwdHczcTd3aVBoa2NaZGFnUVE0SHRUbHkweU51aEJxVThXRzI",
+      "image": "",
+      "published": "Mon, 12 Oct 2026 16:03:00 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1269,16 +1267,54 @@
       "appearances": 1
     },
     {
-      "id": "50e92259f2b859fd",
-      "source": "Medical Xpress",
-      "headline": "Anesthesia produces shared neural activity patterns across six species - Medical Xpress",
-      "summary": "Anesthesia produces shared neural activity patterns across six species Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0Q1aFJPRnZOTy1CalVwX3FMZF9saVhEcC1SUG1FdlJBVmNtdlVJYnFjRERTa2tRbUx6Mkh2YmFZYWJYUERDbUc1RUIwbDduSWJhbk9RaHVKYzFuVTRISFk4blNMWUxDTW9fS3R1cVFqT2E5UHo1T1lPckVTWnd5cm8zV3M?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0Q1aFJPRnZOTy1CalVwX3FMZF9saVhEcC1SUG1FdlJBVmNtdlVJYnFjRERTa2tRbUx6Mkh2YmFZYWJYUERDbUc1RUIwbDduSWJhbk9RaHVKYzFuVTRISFk4blNMWUxDTW9fS3R1cVFqT2E5UHo1T1lPckVTWnd5cm8zV3M",
+      "id": "c57534fc147f8a2f",
+      "source": "Audubon",
+      "headline": "At Conservation Burial Grounds, People and Birds Find a Shared Sanctuary - National Audubon Society",
+      "summary": "At Conservation Burial Grounds, People and Birds Find a Shared Sanctuary National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzJMLXYtNXhhNWduRU04dTVSY0x2ZmozVmRka0drU0pJRF8xdnRPemhnU1BacFJIZzh2Y3BwakFOR045VW96RVlaNzZidGNuclh6U25UZXRpaGJqcmlTS1dzR1MyY2xsUVF2MjJXeDYxaVRVNHdjaHc2c2R3ZUVya1VHSXFnSVRCNHo2UEZjcmVJTlFvTmdKLVltNUU5X2g5?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzJMLXYtNXhhNWduRU04dTVSY0x2ZmozVmRka0drU0pJRF8xdnRPemhnU1BacFJIZzh2Y3BwakFOR045VW96RVlaNzZidGNuclh6U25UZXRpaGJqcmlTS1dzR1MyY2xsUVF2MjJXeDYxaVRVNHdjaHc2c2R3ZUVya1VHSXFnSVRCNHo2UEZjcmVJTlFvTmdKLVltNUU5X2g5",
       "image": "",
-      "published": "Mon, 12 Oct 2026 13:30:01 GMT",
+      "published": "Sat, 10 Oct 2026 18:31:53 GMT",
       "sections": [
-        "wellbeing"
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "fd1a7bd34abd7c0a",
+      "source": "BBC US & Canada",
+      "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg",
+      "published": "Sun, 11 Oct 2026 23:13:51 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "db958e2353fb73d9",
+      "source": "Ars Technica",
+      "headline": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "canonical_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg",
+      "published": "Mon, 12 Oct 2026 12:43:10 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1365,46 +1401,6 @@
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-12",
       "appearances": 3
-    },
-    {
-      "id": "7616968ade19401e",
-      "source": "Animals",
-      "headline": "13 animals found their people at the autumn fair in Mykolaiv - Корабелов.ІНФО",
-      "summary": "13 animals found their people at the autumn fair in Mykolaiv Корабелов.ІНФО",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9WbjNndGV2NVVqaDlKOVF3UDlqUUlnX1ZaTmp0enc3SnU4YW1SWlJIYTkyamo2d0dtUlotRld0c2N0cGhyZHJvNERaaVFrX1JjSy1HdDZqanVUUFhRNHdSZ2VLYVRmMnBDa2s4dDhLOENhakk2ZlR5SVNyRm1BNFlqR1dVYzJXTlI1eHg3aVFDWGdsaGZQeFhiUWJ5dVZ5bmxfTg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9WbjNndGV2NVVqaDlKOVF3UDlqUUlnX1ZaTmp0enc3SnU4YW1SWlJIYTkyamo2d0dtUlotRld0c2N0cGhyZHJvNERaaVFrX1JjSy1HdDZqanVUUFhRNHdSZ2VLYVRmMnBDa2s4dDhLOENhakk2ZlR5SVNyRm1BNFlqR1dVYzJXTlI1eHg3aVFDWGdsaGZQeFhiUWJ5dVZ5bmxfTg",
-      "image": "",
-      "published": "Mon, 12 Oct 2026 11:42:45 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "appearances": 1
-    },
-    {
-      "id": "68c1e3ecc1d0be8c",
-      "source": "BBC US & Canada",
-      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
-      "published": "Sun, 11 Oct 2026 01:41:29 GMT",
-      "sections": [
-        "big-story",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-12",
-        "2026-10-11"
-      ],
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-12",
-      "appearances": 2
     },
     {
       "id": "3ebd9008734ce9f1",
@@ -2724,6 +2720,25 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-11",
       "appearances": 3
+    },
+    {
+      "id": "68c1e3ecc1d0be8c",
+      "source": "BBC US & Canada",
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
+      "published": "Sun, 11 Oct 2026 01:41:29 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-10-11"
+      ],
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "appearances": 1
     },
     {
       "id": "c008443be6e412ba",
@@ -9320,6 +9335,26 @@
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
       "appearances": 1
+    },
+    {
+      "id": "a3175c8b76932d27",
+      "source": "B2B Marketing Ops",
+      "headline": "REVOPS INFLUENCER FOR HIRE: REVENUE OPERATIONS KEYNOTE SPEAKER & THOUGHT LEADER - futuristsspeakers.com",
+      "summary": "REVOPS INFLUENCER FOR HIRE: REVENUE OPERATIONS KEYNOTE SPEAKER & THOUGHT LEADER futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFctdWFNSnNQSEx6LXRNNjV4TXEyWDNqdHMzSy1IQmJFT0kwUk0wTGZVSVdHQW1fS09HQU4xQlV4a0dNQzNFaTNZYzJsUFY3NWhFNmNldUFhM0g2M0ZpNTdyRjlWZzhjS0loRU82MnJjV3Rzdy1EWnVzYTBybmR5R3lFbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFctdWFNSnNQSEx6LXRNNjV4TXEyWDNqdHMzSy1IQmJFT0kwUk0wTGZVSVdHQW1fS09HQU4xQlV4a0dNQzNFaTNZYzJsUFY3NWhFNmNldUFhM0g2M0ZpNTdyRjlWZzhjS0loRU82MnJjV3Rzdy1EWnVzYTBybmR5R3lFbw",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 17:33:14 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-05",
+        "2026-10-02"
+      ],
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-05",
+      "appearances": 2
     },
     {
       "id": "b12e51a31ce6acb8",
