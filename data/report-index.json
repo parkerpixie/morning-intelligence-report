@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-12.json",
-  "report_date": "2026-10-12",
-  "generated_at": "2026-10-12T20:18:56.367844+00:00",
-  "edition_count": 89,
+  "latest": "data/archive/2026-10-13.json",
+  "report_date": "2026-10-13",
+  "generated_at": "2026-10-13T14:18:01.562034+00:00",
+  "edition_count": 90,
   "editions": [
+    {
+      "report_date": "2026-10-13",
+      "generated_at": "2026-10-13T14:18:01.562034+00:00",
+      "path": "data/archive/2026-10-13.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+        "summary": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e8/live/05d40160-c705-11f1-9783-ed95709f9dec.jpg"
+      },
+      "story_count": 72,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 7
+      }
+    },
     {
       "report_date": "2026-10-12",
       "generated_at": "2026-10-12T20:18:56.367844+00:00",
