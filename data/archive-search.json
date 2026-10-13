@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T15:18:31.478399+00:00",
+  "generated_at": "2026-10-13T16:59:21.723736+00:00",
   "edition_count": 90,
-  "story_count": 5581,
+  "story_count": 5580,
   "stories": [
     {
       "id": "b79c17541d7b21c4",
@@ -27,35 +27,16 @@
       "appearances": 4
     },
     {
-      "id": "e51977adf75ea21a",
-      "source": "Variety",
-      "headline": "‘Baywatch’ Trailer: Reboot Has Hot People, Big Stunts and Lots of Slow-Motion Running on the Beach",
-      "summary": "There’s sex, sand and swimsuits in the trailer for Fox’s “Baywatch” reboot, which premieres on the network in January. The three-minute clip opens with series star Stephen Amell leading a rescue mission after a plane collides with a parasail. Amell plays a grown-up version of Hobie Buchannon, the wild child from the original 1990s series.",
-      "url": "https://variety.com/2026/tv/news/baywatch-reboot-trailer-stephen-amell-1236700931/",
-      "canonical_url": "https://variety.com/2026/tv/news/baywatch-reboot-trailer-stephen-amell-1236700931",
-      "image": "https://variety.com/wp-content/uploads/2026/03/BW_E101_MB_01764-Michael-Becker-FOX.-.jpg",
-      "published": "Tue, 13 Oct 2026 15:00:00 +0000",
+      "id": "bd5235b63a88f3c7",
+      "source": "Animals",
+      "headline": "‘Gentlest’ Donkey Called Angelique Shot Dead at Animal Rescue by Hunter Who Claims He Was Aiming at Deer - People.com",
+      "summary": "‘Gentlest’ Donkey Called Angelique Shot Dead at Animal Rescue by Hunter Who Claims He Was Aiming at Deer People.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnMtRkN2OXdvWUx3eURzYkloLWlscHlTTDk5N2NCclpBRmdQWnBqaGliSWhicklwUDNaMlhjc1dKR0kybXk4WWtBcWhwM0l0TzI3OXcxZ2NQdDlvc29wU2MxZXRndnJ2b3lfVDQ3MHpvaDFVakVRNXM2X0lRQzFqQl9lWkYzcUpwUjdXd3MyUzBvbTRqNkRybUI4UkdpWndXbWxBdmQwTEF5NElfbU9VSlktM0E2azNwa0JFYWZmTEstUXVnNUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnMtRkN2OXdvWUx3eURzYkloLWlscHlTTDk5N2NCclpBRmdQWnBqaGliSWhicklwUDNaMlhjc1dKR0kybXk4WWtBcWhwM0l0TzI3OXcxZ2NQdDlvc29wU2MxZXRndnJ2b3lfVDQ3MHpvaDFVakVRNXM2X0lRQzFqQl9lWkYzcUpwUjdXd3MyUzBvbTRqNkRybUI4UkdpWndXbWxBdmQwTEF5NElfbU9VSlktM0E2azNwa0JFYWZmTEstUXVnNUE",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 16:42:51 GMT",
       "sections": [
         "animals"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "3f8c5f3c86dac42c",
-      "source": "Madison365",
-      "headline": "Wisconsin Tech Month highlights technology, innovation across the state - Madison365",
-      "summary": "Wisconsin Tech Month highlights technology, innovation across the state Madison365",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjE4QlplcG1TaDA3WC1tOW1wZVZiRlMzVHlBRVg0WGZiVi1KalFaMFhQd1o5QUdWVHlpMkQ1bUpRX3RMTFo5clNMb29ETzJyeUVBcVVIaC1vNF9fWGs0T3JvRjdnTGRFcWxJQ1l3dlhjQndHTTEtZVgtUzR3M1JHZTBWSDhWZngtM0k2R3VtWHM1R0ZwWHRlOWNR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjE4QlplcG1TaDA3WC1tOW1wZVZiRlMzVHlBRVg0WGZiVi1KalFaMFhQd1o5QUdWVHlpMkQ1bUpRX3RMTFo5clNMb29ETzJyeUVBcVVIaC1vNF9fWGs0T3JvRjdnTGRFcWxJQ1l3dlhjQndHTTEtZVgtUzR3M1JHZTBWSDhWZngtM0k2R3VtWHM1R0ZwWHRlOWNR",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 10:55:07 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-10-13"
@@ -74,7 +55,7 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 13:14:47 GMT",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -82,6 +63,27 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "appearances": 1
+    },
+    {
+      "id": "4666d2edad7718c0",
+      "source": "MarTech",
+      "headline": "Why HIPAA compliance in martech goes beyond BAAs",
+      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.",
+      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
+      "canonical_url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas",
+      "image": "https://martech.org/wp-content/uploads/2026/03/data-privacy-personalization--800x450.png",
+      "published": "Fri, 09 Oct 2026 12:23:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-13",
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-13",
+      "appearances": 3
     },
     {
       "id": "8853c8be4633fcba",
@@ -122,27 +124,6 @@
       "appearances": 1
     },
     {
-      "id": "9a8e5291ba8a4b31",
-      "source": "BBC US & Canada",
-      "headline": "Watch: What's behind Trump's energy ceasefire claim?",
-      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
-      "published": "Sun, 11 Oct 2026 20:55:02 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-13",
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-13",
-      "appearances": 2
-    },
-    {
       "id": "4c263c4a42ed6c54",
       "source": "BBC World",
       "headline": "Watch: Emergency calls from botched Christa Pike execution released",
@@ -160,6 +141,26 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "appearances": 1
+    },
+    {
+      "id": "22162450a447ab5f",
+      "source": "Smithsonian",
+      "headline": "Watch Five Adorable Newborn Cheetah Cubs Grow on a Livestream From the Smithsonian's Conservation Biology Institute",
+      "summary": "The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam",
+      "url": "https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/wiQphM974DHMfqfIxqbigNIrpQI=/420x240/filters:focal(1249x730:1250x731)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/75/0e759221-7bae-4759-ae5c-ea84bbb4b9d5/screenshot_2026-10-09_at_33437pm.png",
+      "published": "Fri, 09 Oct 2026 21:05:40 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-13",
+        "2026-10-10"
+      ],
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-13",
+      "appearances": 2
     },
     {
       "id": "a2063df8e99b8897",
@@ -298,63 +299,6 @@
       "appearances": 1
     },
     {
-      "id": "18e3f6d2ae6df2f1",
-      "source": "Mental Health",
-      "headline": "The stronger the evidence, the weaker the link between prenatal acetaminophen and autism or ADHD - PsyPost",
-      "summary": "The stronger the evidence, the weaker the link between prenatal acetaminophen and autism or ADHD PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODBxRklwMU5IeTRrZTYybWNGRGZBMHd1ekQ0bVdzUTNIN1U2MWlOZGRsODJNbVUzbE44QWttQnRfN2FzNGM4QlNFTjZZdnhwcjhLZlJNU0VRbktNWHNVWnRsV24teGNQRjZjRGJuQVIxWUlTVFMxYURzNkNWb1ZWOWQ0WXNWZ0xzelpUTDU2OXF5eGdPUVFpOS1ydUVQY2k3bHpLM2xVMDNjRWhLT2NzX0VvSmZJaEEzaDM1dg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODBxRklwMU5IeTRrZTYybWNGRGZBMHd1ekQ0bVdzUTNIN1U2MWlOZGRsODJNbVUzbE44QWttQnRfN2FzNGM4QlNFTjZZdnhwcjhLZlJNU0VRbktNWHNVWnRsV24teGNQRjZjRGJuQVIxWUlTVFMxYURzNkNWb1ZWOWQ0WXNWZ0xzelpUTDU2OXF5eGdPUVFpOS1ydUVQY2k3bHpLM2xVMDNjRWhLT2NzX0VvSmZJaEEzaDM1dg",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 14:19:33 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "d3d7d6aa60950a10",
-      "source": "The Verge",
-      "headline": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-      "summary": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announced at Apple's Welcome Home event in New York City, is the first model to support the Siri AI",
-      "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-      "canonical_url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-      "image": "",
-      "published": "2026-10-13T09:00:00-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "48fc36b86b1bb93a",
-      "source": "Associated Press",
-      "headline": "The Latest: Trump’s diesel deal with Putin draws criticism from a frustrated Congress - KX News",
-      "summary": "The Latest: Trump’s diesel deal with Putin draws criticism from a frustrated Congress KX News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzVYa0VuWGlEZlk1RU80RGF3YWIxSEVzM3FLYXdmQmFGQy1rdUk2TjRITHYzMkhoLUZiYUprbUpkTkdVLV95WmhlZWRKNmtVZjRsbFNlRXJIUHhfTDViakVlUXo1eThSTHlYQ3diNWlhRVpmaUxHbzBJRkNWR3J1OGtJRl92Wm1qTHc4TXM4OWFxeFl4dDJTMTZDWnFSdUR1RUlrTU84YTR6YU5wX05TX1otcFc2MG1YSWYwazBaeTkycFVwMlYw0gHMAUFVX3lxTFBSMmVGZXZZcWYwR1ZTdHduQjJvTW8xNUMxQV9JdVhRdFhPUkNHUXF4ZFBfS05NYWdTYl9LSFhRb2Y4WHFPQm92ZTdvU2RCcm1CR0pHV1ZvN3JKdXlhNlV3MS1mUkxQM2IwWW5ER1VEdWsyUC1LTVpfRzlpM3lmOVBIVFgtR1pEbVpwdVBCSjlCVnJTeHdNeFhJWVhQdjBudGxQandackdvTjJYREVEckhtOUE1QURaS090VGxzaWxQSkdaQVIzWVdxRlptaQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzVYa0VuWGlEZlk1RU80RGF3YWIxSEVzM3FLYXdmQmFGQy1rdUk2TjRITHYzMkhoLUZiYUprbUpkTkdVLV95WmhlZWRKNmtVZjRsbFNlRXJIUHhfTDViakVlUXo1eThSTHlYQ3diNWlhRVpmaUxHbzBJRkNWR3J1OGtJRl92Wm1qTHc4TXM4OWFxeFl4dDJTMTZDWnFSdUR1RUlrTU84YTR6YU5wX05TX1otcFc2MG1YSWYwazBaeTkycFVwMlYw0gHMAUFVX3lxTFBSMmVGZXZZcWYwR1ZTdHduQjJvTW8xNUMxQV9JdVhRdFhPUkNHUXF4ZFBfS05NYWdTYl9LSFhRb2Y4WHFPQm92ZTdvU2RCcm1CR0pHV1ZvN3JKdXlhNlV3MS1mUkxQM2IwWW5ER1VEdWsyUC1LTVpfRzlpM3lmOVBIVFgtR1pEbVpwdVBCSjlCVnJTeHdNeFhJWVhQdjBudGxQandackdvTjJYREVEckhtOUE1QURaS090VGxzaWxQSkdaQVIzWVdxRlptaQ",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 13:12:27 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "0ef03662e6e3d71b",
       "source": "MarTech",
       "headline": "The benefits of server-side tracking — and what it takes to get them",
@@ -410,46 +354,6 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "appearances": 1
-    },
-    {
-      "id": "466c853bac4a7d78",
-      "source": "Variety",
-      "headline": "Sophia Takal’s Psychosexual Thriller ‘Act One’ Acquired by Oscilloscope Laboratories (EXCLUSIVE)",
-      "summary": "Oscilloscope Laboratories has acquired U.S. rights to the psychosexual thriller “Act One” from writer-director Sophia Takal (“Always Shine,” “Black Christmas”), and will release it in theaters in 2027. “Monster: The Lizzie Borden Story” star Ella Beatty will play the leading role of Hannah, a sheltered seventeen-year-old aspiring actress. “Act One” follows Hannah as she joins",
-      "url": "https://variety.com/2026/film/news/sophia-takal-act-one-oscilloscope-laboratories-1236909254/",
-      "canonical_url": "https://variety.com/2026/film/news/sophia-takal-act-one-oscilloscope-laboratories-1236909254",
-      "image": "https://variety.com/wp-content/uploads/2026/06/act-one.jpg",
-      "published": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "8fb44107246a328c",
-      "source": "BBC World",
-      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
-      "published": "Mon, 12 Oct 2026 21:20:51 GMT",
-      "sections": [
-        "big-story",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-13",
-        "2026-10-12"
-      ],
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-13",
-      "appearances": 2
     },
     {
       "id": "f83db02a67f17606",
@@ -509,25 +413,6 @@
       "appearances": 1
     },
     {
-      "id": "facf278ec021eb92",
-      "source": "BBC Entertainment",
-      "headline": "Raye hits back at ticket touts who 'overwhelmed' sign-up for Albert Hall show",
-      "summary": "The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a08/live/000a1cc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
-      "published": "Tue, 13 Oct 2026 11:25:43 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "aa3c47f589f2441d",
       "source": "Positive News",
       "headline": "Putting a ring on it: the plan to green London’s beloved edges",
@@ -548,6 +433,25 @@
       "appearances": 2
     },
     {
+      "id": "f8d318e9b78fcf7a",
+      "source": "BBC World",
+      "headline": "Pope admitted to hospital for surgery to remove lump on his lung",
+      "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Tue, 13 Oct 2026 16:21:15 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "08f07a5f3ca00a27",
       "source": "BBC Technology",
       "headline": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
@@ -558,6 +462,25 @@
       "published": "Tue, 13 Oct 2026 09:34:43 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "7dddbe9b8790cae9",
+      "source": "Variety",
+      "headline": "Paramount Pictures Taking Over Bay Theatre in Pacific Palisades",
+      "summary": "Warner Bros. isn’t the only Los Angeles institution getting absorbed into Skydance this month. The Bay Theatre in Pacific Palisades, which was formerly operated by Netflix and before that by Cinepolis, will be taken over by Paramount Pictures with San Diego’s The Lot handling operations. The opening is planned for later this year. The Bay",
+      "url": "https://variety.com/2026/film/news/paramount-pictures-bay-theatre-pacific-palisades-1236910226/",
+      "canonical_url": "https://variety.com/2026/film/news/paramount-pictures-bay-theatre-pacific-palisades-1236910226",
+      "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1229760628.jpg",
+      "published": "Tue, 13 Oct 2026 16:48:31 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-13"
@@ -584,46 +507,6 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "appearances": 1
-    },
-    {
-      "id": "cf9ceefcb9a68c2a",
-      "source": "Variety",
-      "headline": "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears",
-      "summary": "Manhattan Beach Studios in Southern California is a pinnacle of revolutionary technology, home to both the “volume” screens where Jon Favreau filmed the “Mandalorian” franchise and Lightstorm Entertainment, where James Cameron has spent years bringing the Na’vi to life. Tucked away at Stage 21 lies Innovative Dreams, an AI offshoot of director Jon Erwin’s Entertainment",
-      "url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/",
-      "canonical_url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213",
-      "image": "https://variety.com/wp-content/uploads/2026/10/AI-Placeholder-Directors-Hollywood-Production.jpg",
-      "published": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "ac3403a8d8539faa",
-      "source": "Good News Network",
-      "headline": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
-      "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane. Published through KUOW’s “My Unsung Hero” series, the story begins with a 7-year-old in Japan who had just gotten a new bike. Young Rika Matsuda was at first very excited because the bike was",
-      "url": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
-      "canonical_url": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 18:30:46 +0000",
-      "sections": [
-        "quick-scan",
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-10-13",
-        "2026-10-10"
-      ],
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-13",
-      "appearances": 2
     },
     {
       "id": "f3e9318e5ed9f72f",
@@ -702,6 +585,25 @@
       "appearances": 1
     },
     {
+      "id": "699421a283d46b71",
+      "source": "AI News",
+      "headline": "Meta unveils Muse Wonder AI to rival OpenAI and Anthropic - Yeni Şafak English",
+      "summary": "Meta unveils Muse Wonder AI to rival OpenAI and Anthropic Yeni Şafak English",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHdwdXU4UkNwejhnZGk1bUFwMWxWRmFpZjFmbXNSM0tGZUFYWUJnTWc1UldnQ3FFbDl6NkpJemc0cnpzMU5uYjByb29yWlJDX21SVzZYUF8tbzQ5bWFMNUdZNUE2NFFkX1VZOWZ0VF9sd1dtSFZ1YmkzYV90TE1vek9wSHZidndmaDJrMVVQRjU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHdwdXU4UkNwejhnZGk1bUFwMWxWRmFpZjFmbXNSM0tGZUFYWUJnTWc1UldnQ3FFbDl6NkpJemc0cnpzMU5uYjByb29yWlJDX21SVzZYUF8tbzQ5bWFMNUdZNUE2NFFkX1VZOWZ0VF9sd1dtSFZ1YmkzYV90TE1vek9wSHZidndmaDJrMVVQRjU",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 08:44:59 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "f95916c2e7881271",
       "source": "AI News",
       "headline": "Meta launches new AI models to compete with OpenAI and Anthropic - A News",
@@ -711,7 +613,140 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 11:30:38 GMT",
       "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "8ae7e21253301284",
+      "source": "Variety",
+      "headline": "Laika’s ‘Wildwood’ VFX Supervisor Steve Emerson Details the Making of Travis Knight’s Stop-Motion Epic",
+      "summary": "Laika’s “Wildwood” took more than five years of stage animation and visual-effects work, with 2,776 shots requiring a carefully orchestrated mix of handmade puppets, miniature sets and digital imagery. But for production VFX supervisor Steve Emerson, the defining challenge of Travis Knight’s fantasy epic was ensuring that the technology served the stop-motion performances rather than",
+      "url": "https://variety.com/2026/artisans/global/laika-wildwood-vfx-supervisor-steve-emerson-view-conference-1236910262/",
+      "canonical_url": "https://variety.com/2026/artisans/global/laika-wildwood-vfx-supervisor-steve-emerson-view-conference-1236910262",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Emerson_1.jpg",
+      "published": "Tue, 13 Oct 2026 16:57:00 +0000",
+      "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "ce3c7eda0c86efc9",
+      "source": "Variety",
+      "headline": "Khalil Cherti’s ‘Our Way to You,’ Selected by Cairo Film Festival, Boarded by Salaud Morisset (EXCLUSIVE)",
+      "summary": "Salaud Morisset has boarded worldwide sales rights to “Our Way to You” (Ce qui nous mène à toi), the first feature from French-Moroccan filmmaker Khalil Cherti, and produced by Amaury Ovise of Kazak Productions. While the film already won two awards after its world premiere at this year’s Angoulême Film Festival, it will begin its",
+      "url": "https://variety.com/2026/film/global/khalil-cherti-our-way-to-you-cairo-salaud-morisset-1236910212/",
+      "canonical_url": "https://variety.com/2026/film/global/khalil-cherti-our-way-to-you-cairo-salaud-morisset-1236910212",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Our-Way-to-You.jpg",
+      "published": "Tue, 13 Oct 2026 16:28:45 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "6bbf95175d8226f3",
+      "source": "Variety",
+      "headline": "Kevin Hart’s Hartbeat Inks Vertical Series Deal With Fox Entertainment",
+      "summary": "Kevin Hart’s production company Hartbeat has inked a vertical series deal with Fox Entertainment. The deal will see Fox Entertainment Studios have first look rights to developing feature film and television series from vertical series released under Hartbeat subsidiary brands Codeblack, Essence and Revolt, which have a combined social following exceeding 20 million. Codeblack has",
+      "url": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809/",
+      "canonical_url": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
+      "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2275528285.jpg",
+      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "992b83285cf7dece",
+      "source": "Isthmus",
+      "headline": "Join Isthmus for a one-on-one interview with Francesca Hong - Isthmus | Madison, Wisconsin",
+      "summary": "Join Isthmus for a one-on-one interview with Francesca Hong Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVFUbGZubEhJS0pWOHJ5RHpRY0NFY1JtbkhwaVhaQlcydktMMllvN1V2bWsyeGFaS1ZyWUgwTlJMY21GMC1GdjBuNkg0RmlRSEd4Z0dwd3lwMVNEQ3hLb3BRTTBhTUNnSmg5WDVlTTIwTTFLODNiSjV5bGVnT3phMk94UFlRdDhXWUdPc1h5ZFNwWnB3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVFUbGZubEhJS0pWOHJ5RHpRY0NFY1JtbkhwaVhaQlcydktMMllvN1V2bWsyeGFaS1ZyWUgwTlJMY21GMC1GdjBuNkg0RmlRSEd4Z0dwd3lwMVNEQ3hLb3BRTTBhTUNnSmg5WDVlTTIwTTFLODNiSjV5bGVnT3phMk94UFlRdDhXWUdPc1h5ZFNwWnB3",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 16:08:44 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "61b2abb0399a068e",
+      "source": "Animals",
+      "headline": "Jamie Pieterse animal cruelty case returns to court - Cape Town ETC",
+      "summary": "Jamie Pieterse animal cruelty case returns to court Cape Town ETC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEliUC1IOWtDdThzejRIUXVOaV9mX1Nkbm1Lb3NEZVdVZUVQMDdnOU45OUQ2eEREUHVUMVB5ZUtJUUM1QlVXZzNEUW5xLVowcXlRUUwyRU5KeDRRSXpPTl9aYjllR0hHS3FGTDBBd1dnaVhoR3FRS2pITmc1QWVhdHFZTmFTZjhzd2cxVjZ3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEliUC1IOWtDdThzejRIUXVOaV9mX1Nkbm1Lb3NEZVdVZUVQMDdnOU45OUQ2eEREUHVUMVB5ZUtJUUM1QlVXZzNEUW5xLVowcXlRUUwyRU5KeDRRSXpPTl9aYjllR0hHS3FGTDBBd1dnaVhoR3FRS2pITmc1QWVhdHFZTmFTZjhzd2cxVjZ3",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 16:00:31 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "92f95584d339a48c",
+      "source": "Reuters",
+      "headline": "J&J posts weak medical device sales, shares fall - Reuters",
+      "summary": "J&J posts weak medical device sales, shares fall Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 16:18:36 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "934a42762372a79d",
+      "source": "Good News Network",
+      "headline": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+      "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste. Located in Grottole, in the ‘instep’ of the Italian Peninsula, the plant will ultimately produce 45 gigawatt-hours of renewable energy a year for",
+      "url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+      "canonical_url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 15:30:50 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-10-13"
@@ -730,7 +765,26 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 12:12:00 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "701b09308e268d92",
+      "source": "BBC US & Canada",
+      "headline": "Influencers spread false theory about Democrat Talarico",
+      "summary": "Texas Democrat James Talarico was missing from the Senate campaign trail for nine days and said he had flu. Some conservative influencers falsely claimed he was receiving treatment at an Ohio mental health facility.",
+      "url": "https://www.bbc.co.uk/news/videos/c6kg51yn7dgvo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c6kg51yn7dgvo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e252/live/89dd8af0-c6f9-11f1-a64c-550be9e3c66b.png",
+      "published": "Tue, 13 Oct 2026 13:31:47 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -768,7 +822,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd5/live/3db412c0-c654-11f1-8600-efb62b613ab5.jpg",
       "published": "Tue, 13 Oct 2026 07:54:42 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -797,25 +851,6 @@
       "appearances": 1
     },
     {
-      "id": "49d871170929950f",
-      "source": "Variety",
-      "headline": "How ‘American Girl’ Author Aged Up Samantha Parkington for Adult Historical Fiction Novel: ‘It Would Never Be Spicy’",
-      "summary": "Mattel’s American Girl brand makes history this week with the release of “Samantha: The Next Chapter,” its first novel for adults. Since her introduction in 1986, Samantha has been widely regarded as one of the most beloved American Girl dolls among the target millennial demographic and picking the Edwardian-era character as the first one used",
-      "url": "https://variety.com/2026/biz/news/american-girl-adult-samantha-book-fiona-davis-1236908445/",
-      "canonical_url": "https://variety.com/2026/biz/news/american-girl-adult-samantha-book-fiona-davis-1236908445",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Samantha-American-Girl-The-Next-Chapter.jpg",
-      "published": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "cd06efc57fefbb0b",
       "source": "BBC US & Canada",
       "headline": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
@@ -826,25 +861,6 @@
       "published": "Tue, 13 Oct 2026 14:07:33 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "b54fb24927cb2341",
-      "source": "Variety",
-      "headline": "Hillary Clinton to Co-Host Podcast on 2026 Midterm Elections With Kara Swisher for Vox Media, Owned by James Murdoch",
-      "summary": "Hillary Clinton will get behind the podcasting mic in “High Stakes,” where the former Secretary of State will weigh in on the 2026 U.S. midterm elections in a new limited series with journalist Kara Swisher. Under the deal with Vox Media, Clinton will get a split of ad revenue generated from the episodes alongside Swisher.",
-      "url": "https://variety.com/2026/digital/news/hillary-clinton-podcast-midterm-elections-kara-swisher-vox-media-1236910093/",
-      "canonical_url": "https://variety.com/2026/digital/news/hillary-clinton-podcast-midterm-elections-kara-swisher-vox-media-1236910093",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Hillary-Clinton.jpg",
-      "published": "Tue, 13 Oct 2026 14:37:08 +0000",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-10-13"
@@ -873,14 +889,14 @@
       "appearances": 1
     },
     {
-      "id": "b4bb49432b0baaec",
-      "source": "Customer Data",
-      "headline": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer - CX Today",
-      "summary": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer CX Today",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjk0Mmp4SkFldXloaGh2OWxaRk45dFNRZHRHdUZ6dWg3Um1kdm9nSzVJakduX0hyN3dXX25zOEpvVl83Qk5NWjc2dkQ4VjZ6RDhEUkdQSHF4T3FCQzVmZnJ1dTZVYWo2TUJ3VjRiR2lISVFHaTZMajJwTUlLd2o2N1hoUVA4N1FMM0lj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjk0Mmp4SkFldXloaGh2OWxaRk45dFNRZHRHdUZ6dWg3Um1kdm9nSzVJakduX0hyN3dXX25zOEpvVl83Qk5NWjc2dkQ4VjZ6RDhEUkdQSHF4T3FCQzVmZnJ1dTZVYWo2TUJ3VjRiR2lISVFHaTZMajJwTUlLd2o2N1hoUVA4N1FMM0lj",
+      "id": "25c8970ecbe47e25",
+      "source": "Salesforce",
+      "headline": "Heathrow, Google and the ICO on Smarter, Safer CX Data - CX Today",
+      "summary": "Heathrow, Google and the ICO on Smarter, Safer CX Data CX Today",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NeGNHYVVZNEw0WExNX1pxNnJPNU45a1BRN1VLbFM5M3NuLXFkQXYtZTZwMHcxdVI1OW5BdE1XMktzNTNrOVlGVUcyX0cxeURnMTdBN1BCUzVuXzA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NeGNHYVVZNEw0WExNX1pxNnJPNU45a1BRN1VLbFM5M3NuLXFkQXYtZTZwMHcxdVI1OW5BdE1XMktzNTNrOVlGVUcyX0cxeURnMTdBN1BCUzVuXzA",
       "image": "",
-      "published": "Tue, 13 Oct 2026 08:01:37 GMT",
+      "published": "Tue, 13 Oct 2026 14:52:57 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -911,16 +927,16 @@
       "appearances": 1
     },
     {
-      "id": "1a2726ad4f9e696b",
-      "source": "Animals",
-      "headline": "Forestry Ministry handled 290 wild animals hit by forest fires - ANTARA News",
-      "summary": "Forestry Ministry handled 290 wild animals hit by forest fires ANTARA News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHkwSndJSjhxd2V6X09qcjlUQ3U3ZEk4d0pKcmcwalhreEtxdGlJbVpvenBEaGxMbEJ0bC00dG1hTkhvQTkyV2ZNWFlIcmF5cUk3Yy1PMVJsZFoxamJqUGlGcUphY0VjZDlmR2dZMVhVRU1Od2hGUnhXR2FHWVNyLTFhYTkyX1UwNTFNTlhVY1NrUHZBYVdtcXZUYmJfZDBoVHBMSUFXTdIBpwFBVV95cUxOdHkwSndJSjhxd2V6X09qcjlUQ3U3ZEk4d0pKcmcwalhreEtxdGlJbVpvenBEaGxMbEJ0bC00dG1hTkhvQTkyV2ZNWFlIcmF5cUk3Yy1PMVJsZFoxamJqUGlGcUphY0VjZDlmR2dZMVhVRU1Od2hGUnhXR2FHWVNyLTFhYTkyX1UwNTFNTlhVY1NrUHZBYVdtcXZUYmJfZDBoVHBMSUFXTQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHkwSndJSjhxd2V6X09qcjlUQ3U3ZEk4d0pKcmcwalhreEtxdGlJbVpvenBEaGxMbEJ0bC00dG1hTkhvQTkyV2ZNWFlIcmF5cUk3Yy1PMVJsZFoxamJqUGlGcUphY0VjZDlmR2dZMVhVRU1Od2hGUnhXR2FHWVNyLTFhYTkyX1UwNTFNTlhVY1NrUHZBYVdtcXZUYmJfZDBoVHBMSUFXTdIBpwFBVV95cUxOdHkwSndJSjhxd2V6X09qcjlUQ3U3ZEk4d0pKcmcwalhreEtxdGlJbVpvenBEaGxMbEJ0bC00dG1hTkhvQTkyV2ZNWFlIcmF5cUk3Yy1PMVJsZFoxamJqUGlGcUphY0VjZDlmR2dZMVhVRU1Od2hGUnhXR2FHWVNyLTFhYTkyX1UwNTFNTlhVY1NrUHZBYVdtcXZUYmJfZDBoVHBMSUFXTQ",
+      "id": "5e8db2ede3f7bbf9",
+      "source": "Wisconsin News",
+      "headline": "Federal disaster unemployment aid now available after July 27 Wisconsin storms, tornadoes - WLUK",
+      "summary": "Federal disaster unemployment aid now available after July 27 Wisconsin storms, tornadoes WLUK",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdHQxNDNYSGt1VERDdVdwR1hNMkx3b1JVXzFYZ1lnd3UyQ19ndFFTUWZ3bG1tVk9rYnNDUW9wVkhfYjJzSXNDcElqUkE1N3o3dzU4VXB0c1RPcFNfdTllbGV1M0R6VXVKcTFKVC1sRjlWeTFuckVzOC16SktjV0VxRGlOTDJIZmcwR1B6Z3d6LXZzdjZEWmJFYWJKQmY4UGZGUjB4R0tsUTZXZVpSMlJhcTk0QzJnZVk0eGVPV2M5Z2JpX2ktdTZFQXJreFdPaURZcmxDcFU2Q09EY3l5UmNnREx4OG9OV29HODk3eWJORkNNclI1OHVWam1qQXVlWl9ZeXlaeUx5aXMtZU5IMnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdHQxNDNYSGt1VERDdVdwR1hNMkx3b1JVXzFYZ1lnd3UyQ19ndFFTUWZ3bG1tVk9rYnNDUW9wVkhfYjJzSXNDcElqUkE1N3o3dzU4VXB0c1RPcFNfdTllbGV1M0R6VXVKcTFKVC1sRjlWeTFuckVzOC16SktjV0VxRGlOTDJIZmcwR1B6Z3d6LXZzdjZEWmJFYWJKQmY4UGZGUjB4R0tsUTZXZVpSMlJhcTk0QzJnZVk0eGVPV2M5Z2JpX2ktdTZFQXJreFdPaURZcmxDcFU2Q09EY3l5UmNnREx4OG9OV29HODk3eWJORkNNclI1OHVWam1qQXVlWl9ZeXlaeUx5aXMtZU5IMnc",
       "image": "",
-      "published": "Tue, 13 Oct 2026 08:27:34 GMT",
+      "published": "Tue, 13 Oct 2026 15:33:28 GMT",
       "sections": [
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
         "2026-10-13"
@@ -968,6 +984,27 @@
       "appearances": 1
     },
     {
+      "id": "96f4032f6521438c",
+      "source": "HubSpot Marketing",
+      "headline": "Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets",
+      "summary": "Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.",
+      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
+      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
+      "image": "https://blog.hubspot.com/hubfs/enterprise%20aeo.png",
+      "published": "Thu, 08 Oct 2026 20:02:20 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-13",
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-13",
+      "appearances": 3
+    },
+    {
       "id": "ba31a248c1352185",
       "source": "Good News Network",
       "headline": "Elderly Theater Worker Surprised by $146,000 for Her Retirement Crowdfunded by Young Moviegoer",
@@ -978,25 +1015,6 @@
       "published": "Tue, 13 Oct 2026 11:00:52 +0000",
       "sections": [
         "wonderful"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "7a57d5976a1e8d96",
-      "source": "Animals",
-      "headline": "Dog honoured for breakthrough discovery in sniffing out invasive ‘sea vomit’ - The Herald",
-      "summary": "Dog honoured for breakthrough discovery in sniffing out invasive ‘sea vomit’ The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEQydUk1ZnB5ZVhsNG5BbGtPa2phZ2wwbTlFTDI0V1FBR0d6alhvTjJGUlNTbDNLOHNIb0lMM2ZReXRRR2IwNF9ub011bUl4eGFSMVJLelgxcWlDQzQyVzcyaTItejB4RVF6Z2d1dkR2S1VCRmFramg1RDU4V2xOOUVwYWtiaU4tUXUzQzR4X1lUZXl3d25wR1Bn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEQydUk1ZnB5ZVhsNG5BbGtPa2phZ2wwbTlFTDI0V1FBR0d6alhvTjJGUlNTbDNLOHNIb0lMM2ZReXRRR2IwNF9ub011bUl4eGFSMVJLelgxcWlDQzQyVzcyaTItejB4RVF6Z2d1dkR2S1VCRmFramg1RDU4V2xOOUVwYWtiaU4tUXUzQzR4X1lUZXl3d25wR1Bn",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 12:24:17 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1044,25 +1062,6 @@
       "appearances": 1
     },
     {
-      "id": "a3ee3e506b53e641",
-      "source": "The Verge",
-      "headline": "Discovery Plus is getting more expensive",
-      "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month. The price hike comes just one week after Paramount closed its acquisition of Warner Bros. Discovery, which owned Discovery",
-      "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
-      "canonical_url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
-      "image": "",
-      "published": "2026-10-13T09:52:18-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "cd261f102fb1d4eb",
       "source": "Dane County",
       "headline": "Dane County supervisor suggests cutting body cams from 2027 budget - Wisconsin State Journal",
@@ -1070,7 +1069,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHg5bjdGOUhqVThRN1ZxUEVtZXBuZlNYdm1WMWtyelVLdGNZbE9qMnZQVzBLaU1nSTVCTHpDRERCRDRpeXJfd3hKdzdOeVA0UTRuZ0Z4aGR1anc1OXA1OGR0TWNmazFuZFJtN25rWEhfb1dMY2VscmRsM0lQdlR3ZVJuOUd5b1lMekRQTXRpQzRjU3VCeDhSUHBZUnlFWjh5dVE?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHg5bjdGOUhqVThRN1ZxUEVtZXBuZlNYdm1WMWtyelVLdGNZbE9qMnZQVzBLaU1nSTVCTHpDRERCRDRpeXJfd3hKdzdOeVA0UTRuZ0Z4aGR1anc1OXA1OGR0TWNmazFuZFJtN25rWEhfb1dMY2VscmRsM0lQdlR3ZVJuOUd5b1lMekRQTXRpQzRjU3VCeDhSUHBZUnlFWjh5dVE",
       "image": "",
-      "published": "Tue, 13 Oct 2026 11:25:00 GMT",
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
       "sections": [
         "local"
       ],
@@ -1092,25 +1091,6 @@
       "published": "Tue, 13 Oct 2026 09:35:43 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "ddddde3223a4da9c",
-      "source": "Animals",
-      "headline": "Clarksville Pets of the Week for October 13th, 2026 - Clarksville Online",
-      "summary": "Clarksville Pets of the Week for October 13th, 2026 Clarksville Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlRaakh4a1Fybmg1MnJOaUJQQTJVVk85UlRVXzMwMHlMUFA3ZldZZkxIS0dUNW9LMlBXLXl6c3VPeWJxcDlkUThyQTlOb2xDbDRTQVZOc1Vzd0FONUVUaVhMeWpOQmQzb2NEeWZVbDRCWlB1cGQ2Vk8wVXU4c2RlSlJDM3dYUmZvcExjZ3ZaV0VCaXR3NUg3QlgyTDU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlRaakh4a1Fybmg1MnJOaUJQQTJVVk85UlRVXzMwMHlMUFA3ZldZZkxIS0dUNW9LMlBXLXl6c3VPeWJxcDlkUThyQTlOb2xDbDRTQVZOc1Vzd0FONUVUaVhMeWpOQmQzb2NEeWZVbDRCWlB1cGQ2Vk8wVXU4c2RlSlJDM3dYUmZvcExjZ3ZaV0VCaXR3NUg3QlgyTDU",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 10:30:50 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1158,6 +1138,25 @@
       "appearances": 1
     },
     {
+      "id": "e624e69e83cdceae",
+      "source": "Associated Press",
+      "headline": "Breaking News - The New Republic",
+      "summary": "Breaking News The New Republic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 14:58:30 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "07228413cc260d8b",
       "source": "BBC World",
       "headline": "Breaking Bad actor RJ Mitte dies aged 34",
@@ -1180,32 +1179,13 @@
       "id": "84e56065693f92c9",
       "source": "BBC Entertainment",
       "headline": "BBC shelves plans for new Archers studio as part of cost-cutting",
-      "summary": "The drama has been recording in Birmingham for 75 years, making it the world's longest running soap opera.",
+      "summary": "Cast members on the long-running radio soap are said to be \"angry\" at plans to move from Birmingham.",
       "url": "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a99a/live/3de40a80-c6a3-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Tue, 13 Oct 2026 03:25:12 GMT",
+      "published": "Tue, 13 Oct 2026 15:33:46 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "f76b436d8f4e101f",
-      "source": "B2B Marketing Ops",
-      "headline": "As Costs Outpace RevPAR, LodgIQ Puts Hotel Profitability at the Center of Its New Commercial Performance Platform - Hospitality Net",
-      "summary": "As Costs Outpace RevPAR, LodgIQ Puts Hotel Profitability at the Center of Its New Commercial Performance Platform Hospitality Net",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNGdUc3ZyUVFFUm9JWEY2VkQ5M1hKUWpQQTRpQUVuekV2d3l1b1VZTkM5ajhhMzRPS0FDZFRxVG5EcFppNHdUS0V2UDZoY2VhdGZaZzFCdUN1QnFBamxDSXV2LUYtc3BVNUdaN3ZIdTV2Z2xXQTJRSHM5SmxfQXJ2aDdoazk1TXNsempIZ1lQX21OU3ZNVGE2QVFhc3JZdFdDbFFXN29wZWRGeFI2UEFMSENKUXRWdlF1Um1zRmJoZS1UVlpMVm5YTW1sQmJ3UGNoVG14Uk05d3VhU21XTUxQQ29yMXNYbC0yaWxJQw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNGdUc3ZyUVFFUm9JWEY2VkQ5M1hKUWpQQTRpQUVuekV2d3l1b1VZTkM5ajhhMzRPS0FDZFRxVG5EcFppNHdUS0V2UDZoY2VhdGZaZzFCdUN1QnFBamxDSXV2LUYtc3BVNUdaN3ZIdTV2Z2xXQTJRSHM5SmxfQXJ2aDdoazk1TXNsempIZ1lQX21OU3ZNVGE2QVFhc3JZdFdDbFFXN29wZWRGeFI2UEFMSENKUXRWdlF1Um1zRmJoZS1UVlpMVm5YTW1sQmJ3UGNoVG14Uk05d3VhU21XTUxQQ29yMXNYbC0yaWxJQw",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 09:09:22 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1224,7 +1204,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
       "published": "Mon, 12 Oct 2026 18:21:36 +0000",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1253,25 +1233,26 @@
       "appearances": 1
     },
     {
-      "id": "fd1a7bd34abd7c0a",
-      "source": "BBC US & Canada",
-      "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg",
-      "published": "Sun, 11 Oct 2026 23:13:51 GMT",
+      "id": "dc81cb82d821912a",
+      "source": "HubSpot Marketing",
+      "headline": "AEO for growth marketing teams: How to find scalable acquisition channels when paid and organic plateau",
+      "summary": "Growth marketing is all about finding the next channel opportunity before the current one gets crowded and expensive. Paid search got crowded. Content took time. Email got filtered. The teams that found a new lever early on took advantage of lower competition, cost, and disproportionate returns before the channel normalized.",
+      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
+      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
+      "image": "https://blog.hubspot.com/hubfs/AEO-for-growth-marketing-teams-1-20260930-7336354.webp",
+      "published": "Thu, 08 Oct 2026 19:45:56 GMT",
       "sections": [
-        "must-know",
-        "quick-scan"
+        "quick-scan",
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-13",
-        "2026-10-12"
+        "2026-10-10",
+        "2026-10-09"
       ],
-      "first_seen": "2026-10-12",
+      "first_seen": "2026-10-09",
       "last_seen": "2026-10-13",
-      "appearances": 2
+      "appearances": 3
     },
     {
       "id": "932dfe8f8dad3ff9",
@@ -1293,6 +1274,27 @@
       "appearances": 1
     },
     {
+      "id": "c2b7be6d09f14248",
+      "source": "Smithsonian",
+      "headline": "A Century Ago, an Extinct Crocodilian's Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species",
+      "summary": "The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus",
+      "url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/i-giezARbc83-ETGxV1HDhAXVwI=/420x240/filters:focal(405x230:406x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/9f/b69fb13c-0813-4975-9b36-6e1c00272daf/new-croc.webp",
+      "published": "Fri, 09 Oct 2026 15:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-13",
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-13",
+      "appearances": 3
+    },
+    {
       "id": "2e44c2f8eff86edf",
       "source": "Ars Technica",
       "headline": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
@@ -1302,7 +1304,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
       "published": "Mon, 12 Oct 2026 21:54:35 +0000",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1512,6 +1514,25 @@
       "published": "Mon, 12 Oct 2026 15:50:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "9a8e5291ba8a4b31",
+      "source": "BBC US & Canada",
+      "headline": "Watch: What's behind Trump's energy ceasefire claim?",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
+      "published": "Sun, 11 Oct 2026 20:55:02 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-12"
@@ -1816,6 +1837,25 @@
       "published": "Mon, 12 Oct 2026 16:12:57 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
+    },
+    {
+      "id": "8fb44107246a328c",
+      "source": "BBC World",
+      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+      "published": "Mon, 12 Oct 2026 17:32:13 GMT",
+      "sections": [
+        "big-story"
       ],
       "report_dates": [
         "2026-10-12"
@@ -2534,6 +2574,25 @@
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-12",
       "appearances": 2
+    },
+    {
+      "id": "fd1a7bd34abd7c0a",
+      "source": "BBC US & Canada",
+      "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg",
+      "published": "Sun, 11 Oct 2026 23:13:51 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-12"
+      ],
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "appearances": 1
     },
     {
       "id": "36f95c29c20b59bb",
@@ -4184,26 +4243,6 @@
       "appearances": 1
     },
     {
-      "id": "4666d2edad7718c0",
-      "source": "MarTech",
-      "headline": "Why HIPAA compliance in martech goes beyond BAAs",
-      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.",
-      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
-      "canonical_url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas",
-      "image": "https://martech.org/wp-content/uploads/2026/03/data-privacy-personalization--800x450.png",
-      "published": "Fri, 09 Oct 2026 12:23:00 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
-      "appearances": 2
-    },
-    {
       "id": "a9798a13a644e5a1",
       "source": "Wisconsin Public Radio",
       "headline": "We Energies plans new 750MW natural gas plant in Fox Valley",
@@ -4241,25 +4280,6 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-10",
       "appearances": 2
-    },
-    {
-      "id": "22162450a447ab5f",
-      "source": "Smithsonian",
-      "headline": "Watch Five Adorable Newborn Cheetah Cubs Grow on a Livestream From the Smithsonian's Conservation Biology Institute",
-      "summary": "The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam",
-      "url": "https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/wiQphM974DHMfqfIxqbigNIrpQI=/420x240/filters:focal(1249x730:1250x731)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/75/0e759221-7bae-4759-ae5c-ea84bbb4b9d5/screenshot_2026-10-09_at_33437pm.png",
-      "published": "Fri, 09 Oct 2026 21:05:40 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-10"
-      ],
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "appearances": 1
     },
     {
       "id": "696707acc4c297eb",
@@ -4557,6 +4577,25 @@
       "published": "Sat, 10 Oct 2026 14:31:05 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-10"
+      ],
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "appearances": 1
+    },
+    {
+      "id": "ac3403a8d8539faa",
+      "source": "Good News Network",
+      "headline": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
+      "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane. Published through KUOW’s “My Unsung Hero” series, the story begins with a 7-year-old in Japan who had just gotten a new bike. Young Rika Matsuda was at first very excited because the bike was",
+      "url": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
+      "canonical_url": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness",
+      "image": "",
+      "published": "Fri, 09 Oct 2026 18:30:46 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-10"
@@ -4916,26 +4955,6 @@
       "appearances": 1
     },
     {
-      "id": "96f4032f6521438c",
-      "source": "HubSpot Marketing",
-      "headline": "Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets",
-      "summary": "Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.",
-      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
-      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
-      "image": "https://blog.hubspot.com/hubfs/enterprise%20aeo.png",
-      "published": "Thu, 08 Oct 2026 20:02:20 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
-      "appearances": 2
-    },
-    {
       "id": "01c79f1df0507866",
       "source": "BBC World",
       "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
@@ -5170,26 +5189,6 @@
       "appearances": 1
     },
     {
-      "id": "dc81cb82d821912a",
-      "source": "HubSpot Marketing",
-      "headline": "AEO for growth marketing teams: How to find scalable acquisition channels when paid and organic plateau",
-      "summary": "Growth marketing is all about finding the next channel opportunity before the current one gets crowded and expensive. Paid search got crowded. Content took time. Email got filtered. The teams that found a new lever early on took advantage of lower competition, cost, and disproportionate returns before the channel normalized.",
-      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
-      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
-      "image": "https://blog.hubspot.com/hubfs/AEO-for-growth-marketing-teams-1-20260930-7336354.webp",
-      "published": "Thu, 08 Oct 2026 19:45:56 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
-      "appearances": 2
-    },
-    {
       "id": "a05dcbda90d002a5",
       "source": "HubSpot Marketing",
       "headline": "AEO for content strategists: How to move the needle on citations",
@@ -5246,26 +5245,6 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10",
       "appearances": 1
-    },
-    {
-      "id": "c2b7be6d09f14248",
-      "source": "Smithsonian",
-      "headline": "A Century Ago, an Extinct Crocodilian's Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species",
-      "summary": "The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus",
-      "url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/i-giezARbc83-ETGxV1HDhAXVwI=/420x240/filters:focal(405x230:406x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/9f/b69fb13c-0813-4975-9b36-6e1c00272daf/new-croc.webp",
-      "published": "Fri, 09 Oct 2026 15:00:00 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
-      "appearances": 2
     },
     {
       "id": "b85b41e0c68bf714",
