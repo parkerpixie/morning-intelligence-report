@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T16:59:21.723736+00:00",
+  "generated_at": "2026-10-13T18:23:34.507002+00:00",
   "edition_count": 90,
-  "story_count": 5580,
+  "story_count": 5585,
   "stories": [
     {
       "id": "b79c17541d7b21c4",
@@ -46,16 +46,16 @@
       "appearances": 1
     },
     {
-      "id": "d4f49074de7a4df8",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin congressional candidate charged following alleged road rage incident in Mequon - WTMJ",
-      "summary": "Wisconsin congressional candidate charged following alleged road rage incident in Mequon WTMJ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0NpY1cxM0hfelNlMGNia2ZzajB3ZGdsWkJSRVJoRmFHVkhrZDltYmFhbF9qNmVzb3E5NGRoN2k5QjQ3aGFMaHdEM3JFQ3NpZmV1M0NISWdwdnJjTEVQb0VRN01sWXNUOU42aU9XV0dTNHphNkFILTU0Vy11ODBHbkE1QWdJZFhZaUVNS3NjbGhsb0pyaU9VZ2VvSklaRDRNYVRrWm1sWVdhcjRiV0pJZU1QV01IQXB2Y1prVm50QQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0NpY1cxM0hfelNlMGNia2ZzajB3ZGdsWkJSRVJoRmFHVkhrZDltYmFhbF9qNmVzb3E5NGRoN2k5QjQ3aGFMaHdEM3JFQ3NpZmV1M0NISWdwdnJjTEVQb0VRN01sWXNUOU42aU9XV0dTNHphNkFILTU0Vy11ODBHbkE1QWdJZFhZaUVNS3NjbGhsb0pyaU9VZ2VvSklaRDRNYVRrWm1sWVdhcjRiV0pJZU1QV01IQXB2Y1prVm50QQ",
+      "id": "2092503bd90066ac",
+      "source": "NPR",
+      "headline": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+      "summary": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, Music Against the Night , she writes about two young prodigies in the late 18th and early 19th centuries.",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+      "canonical_url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
       "image": "",
-      "published": "Tue, 13 Oct 2026 13:14:47 GMT",
+      "published": "Tue, 13 Oct 2026 13:41:07 -0400",
       "sections": [
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-13"
@@ -65,25 +65,42 @@
       "appearances": 1
     },
     {
-      "id": "4666d2edad7718c0",
-      "source": "MarTech",
-      "headline": "Why HIPAA compliance in martech goes beyond BAAs",
-      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.",
-      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
-      "canonical_url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas",
-      "image": "https://martech.org/wp-content/uploads/2026/03/data-privacy-personalization--800x450.png",
-      "published": "Fri, 09 Oct 2026 12:23:00 +0000",
+      "id": "edaacea033d6e31b",
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin DNR notifies Enbridge of alleged violations on Line 5 reroute",
+      "summary": "Wisconsin environmental regulators have notified Enbridge of seven alleged violations of state environmental laws on a $1 billion project to reroute its Line 5 oil and gas pipeline in northern Wisconsin.",
+      "url": "https://www.wpr.org/news/wisconsin-dnr-notifies-enbridge-alleged-violations-line-5-reroute",
+      "canonical_url": "https://www.wpr.org/news/wisconsin-dnr-notifies-enbridge-alleged-violations-line-5-reroute",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 17:03:36 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "c7e72e13bed9a65a",
+      "source": "Salesforce",
+      "headline": "Why Context Engineering Is the New Martech Battleground for Marketers - CMSWire",
+      "summary": "Why Context Engineering Is the New Martech Battleground for Marketers CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUTWFHVlZuNlFPODhtdGU5VHAxSEVxa1JHeXI2WEJrc0RVaEdmOFNzTjdJcFdjS2RVMDRGZTA2cXE0NzZJUXZNOXV1ZVRNd0ZDZjJFeGJ5YTQ1dHdUMW41cXBHc0dMeVJBcTBNa1d0OGphOFRGcEhvLXRWdi1iM0tlVEZpdWxJMFFWYWVVUVUzZ1ZhVzRaa2dpYW9EX0NSZlhEclVSeUtjbFJ2bGxCNlVB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVZUTWFHVlZuNlFPODhtdGU5VHAxSEVxa1JHeXI2WEJrc0RVaEdmOFNzTjdJcFdjS2RVMDRGZTA2cXE0NzZJUXZNOXV1ZVRNd0ZDZjJFeGJ5YTQ1dHdUMW41cXBHc0dMeVJBcTBNa1d0OGphOFRGcEhvLXRWdi1iM0tlVEZpdWxJMFFWYWVVUVUzZ1ZhVzRaa2dpYW9EX0NSZlhEclVSeUtjbFJ2bGxCNlVB",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 17:28:43 GMT",
       "sections": [
         "work-marketing"
       ],
       "report_dates": [
-        "2026-10-13",
-        "2026-10-10",
-        "2026-10-09"
+        "2026-10-13"
       ],
-      "first_seen": "2026-10-09",
+      "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
-      "appearances": 3
+      "appearances": 1
     },
     {
       "id": "8853c8be4633fcba",
@@ -182,6 +199,25 @@
       "appearances": 1
     },
     {
+      "id": "8b514ffc2fc3e151",
+      "source": "B2B Marketing Ops",
+      "headline": "Vereigen Media Brings ‘Austin Marketers Connect’ to The - GlobeNewswire",
+      "summary": "Vereigen Media Brings ‘Austin Marketers Connect’ to The GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOU21BaGVpVXdkNzR1bVNKTFQ1c2g5cklGVGdYRzhuam5ibW5jRE51RVo1QWtiOE03THM5aERjUkpVZzRxeF9pVVV1SjAwenpHVW5GaWhjdWhCX1pNTmU0Mnl5R2VNdHl4YnhEQm1QUXBHTS1hWDVlbmllMjRZZmxPckFhTzRXaEJ5UTg3eFZ4WUpmZzV6MkdVd3ZFU1lyV0RzaTVPNjhSd3JybW5SY3BWb2cxUkllWlRhaDhlQmY3SFIzWnd1RnpEZW5uLXJORDJWNkF6V1FROGc2b3VLZklKMnRsa2dIUE1peG9mMHRKUUVmcGxCakFBY0NkSXVaQ2VKNGNPa0UxSEg1dlo1MHhONjF5T3VGWXRKQlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOU21BaGVpVXdkNzR1bVNKTFQ1c2g5cklGVGdYRzhuam5ibW5jRE51RVo1QWtiOE03THM5aERjUkpVZzRxeF9pVVV1SjAwenpHVW5GaWhjdWhCX1pNTmU0Mnl5R2VNdHl4YnhEQm1QUXBHTS1hWDVlbmllMjRZZmxPckFhTzRXaEJ5UTg3eFZ4WUpmZzV6MkdVd3ZFU1lyV0RzaTVPNjhSd3JybW5SY3BWb2cxUkllWlRhaDhlQmY3SFIzWnd1RnpEZW5uLXJORDJWNkF6V1FROGc2b3VLZklKMnRsa2dIUE1peG9mMHRKUUVmcGxCakFBY0NkSXVaQ2VKNGNPa0UxSEg1dlo1MHhONjF5T3VGWXRKQlE",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 17:44:53 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "b27b1db6dbde66d0",
       "source": "BBC US & Canada",
       "headline": "US emergency call records reveal confusion after failed execution of Christa Pike",
@@ -210,7 +246,7 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 14:14:00 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -229,7 +265,7 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 10:00:00 +0000",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -258,26 +294,23 @@
       "appearances": 1
     },
     {
-      "id": "bccefaead27618b4",
-      "source": "Smithsonian",
-      "headline": "These South American Birds Can Match a Jackhammer's Ear-Splitting Volume, Making Them Some of the World's Loudest Known Avians",
-      "summary": "The bare-throated bellbird and the red-legged seriema can produce sounds at amplitudes that exceed 120 decibels, which puts them on par with a trumpeting elephant or a chainsaw",
-      "url": "https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/vnVDL9AwiwfmbEooVuQIJVTG-tg=/420x240/filters:focal(1222x815:1223x816)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/ab/19abaa5d-7c15-46fa-8349-a5a9b9e6cc36/bare_throated_bellbird.jpg",
-      "published": "Fri, 09 Oct 2026 13:00:00 +0000",
+      "id": "a2352b9071f96ed2",
+      "source": "Ars Technica",
+      "headline": "They war-gamed dimming the Sun. It went even worse than you think.",
+      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "canonical_url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
+      "published": "Tue, 13 Oct 2026 15:17:59 +0000",
       "sections": [
-        "animals",
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
-        "2026-10-13",
-        "2026-10-10",
-        "2026-10-09"
+        "2026-10-13"
       ],
-      "first_seen": "2026-10-09",
+      "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
-      "appearances": 3
+      "appearances": 1
     },
     {
       "id": "8b1d3fa583a452e9",
@@ -290,6 +323,25 @@
       "published": "Tue, 13 Oct 2026 09:25:37 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "ba34da725618aaec",
+      "source": "Ars Technica",
+      "headline": "The Paris Auto Show is full of interesting cars Americans can’t have",
+      "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
+      "url": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+      "canonical_url": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg",
+      "published": "Tue, 13 Oct 2026 17:33:20 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -337,16 +389,54 @@
       "appearances": 1
     },
     {
-      "id": "e56733bd9d21c8ec",
+      "id": "42af40067e97ac92",
       "source": "Associated Press",
-      "headline": "Supreme Court sides with Trump administration in lawsuit seeking records on Elon Musk’s DOGE - WAVY.com",
-      "summary": "Supreme Court sides with Trump administration in lawsuit seeking records on Elon Musk’s DOGE WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDlBaGlscGxaNkNxSlFGcjlmbUdtY2piSi1mc1hJdnR1TUp5NHI5TEI5QVl1MUdiRWtkTncyRWMtSnhnQlJTVFBHOW1ycFN0bjZnWHVMZXVPOF9FNHh1WTFHWUFWUUE3cTlzb3piVDRsYS1ieU0wa3U2b0FnTnJlOGg5MXhmQkhNd1dmSXpSNzFPX0pwWnhXdkU5VkF2bVplXzdLd1hueXgtREpSc2NzU0xKa2F3RXJkb0t1cUJjekZfRlJ1LUdKMkFud3VybVJsNnZHcUFxLWotbGNvYlR4aDYtX2rSAeoBQVVfeXFMT2U0Q2taSjAwaEVBNnRZX2tmQ180ZGp4QkpiZkhJa1k5VnFKclVqWGtrWkp4bWlRZF84dnBwaG4zWWp4Nkc4TWNyMlNwdVRuSVc2enZnTkhsNVJPRmlDNXpsM28yck9HTkFkNDVoLWZ1cmREZlRITmMwVVRvSDMyRXh1VkZ3Zy1mM3I5SDJvbGRlYkNWOHNTZmJ3RVEtcFZla0luQkdYcjNCc0Y1M1hPV2E0bGNwTmw3SF9sbTZzSDZUMjdnVXp4MGtBa0l5SGFHTUQweTZtUEgtU3lmTUF1akJHWEtJNEo2bWh3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDlBaGlscGxaNkNxSlFGcjlmbUdtY2piSi1mc1hJdnR1TUp5NHI5TEI5QVl1MUdiRWtkTncyRWMtSnhnQlJTVFBHOW1ycFN0bjZnWHVMZXVPOF9FNHh1WTFHWUFWUUE3cTlzb3piVDRsYS1ieU0wa3U2b0FnTnJlOGg5MXhmQkhNd1dmSXpSNzFPX0pwWnhXdkU5VkF2bVplXzdLd1hueXgtREpSc2NzU0xKa2F3RXJkb0t1cUJjekZfRlJ1LUdKMkFud3VybVJsNnZHcUFxLWotbGNvYlR4aDYtX2rSAeoBQVVfeXFMT2U0Q2taSjAwaEVBNnRZX2tmQ180ZGp4QkpiZkhJa1k5VnFKclVqWGtrWkp4bWlRZF84dnBwaG4zWWp4Nkc4TWNyMlNwdVRuSVc2enZnTkhsNVJPRmlDNXpsM28yck9HTkFkNDVoLWZ1cmREZlRITmMwVVRvSDMyRXh1VkZ3Zy1mM3I5SDJvbGRlYkNWOHNTZmJ3RVEtcFZla0luQkdYcjNCc0Y1M1hPV2E0bGNwTmw3SF9sbTZzSDZUMjdnVXp4MGtBa0l5SGFHTUQweTZtUEgtU3lmTUF1akJHWEtJNEo2bWh3",
+      "headline": "Supreme Court sides with Trump administration in lawsuit seeking records on Elon Musk’s DOGE - WFMZ.com",
+      "summary": "Supreme Court sides with Trump administration in lawsuit seeking records on Elon Musk’s DOGE WFMZ.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2VKYU1rd1hvbHM0anUwMnY1Ynp0X0VOdFQzZXhMMHJJZDJPS2RqQm1EYU02Zm9Oa00ybjFQTWg4UUIzcXRISFZKMWFUWWZkNFZ3dDhhQWoyZmRlVEVnN1czSFVnY1UxTEdRM1gzM1d5NU8zOC1YRHp5SUF4MkpWRzVGVkFPRnl6enBxSGUzN3RBQWpuc1RCWGNlUjZGUkF6OEJ5bnlxeUxGOFhxRlcxMzdITkJndndmUy1fY0h1bmhGZXNNYzhDRmVqSVBnNm5tN29lUVdaZy1YSlFDUU05QXcxWVVWcXotWUVvTFY1cUJmUklzY2tvYnlWNzJsQ3hkM0xWakR0Y0dyX2lOM2RaVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2VKYU1rd1hvbHM0anUwMnY1Ynp0X0VOdFQzZXhMMHJJZDJPS2RqQm1EYU02Zm9Oa00ybjFQTWg4UUIzcXRISFZKMWFUWWZkNFZ3dDhhQWoyZmRlVEVnN1czSFVnY1UxTEdRM1gzM1d5NU8zOC1YRHp5SUF4MkpWRzVGVkFPRnl6enBxSGUzN3RBQWpuc1RCWGNlUjZGUkF6OEJ5bnlxeUxGOFhxRlcxMzdITkJndndmUy1fY0h1bmhGZXNNYzhDRmVqSVBnNm5tN29lUVdaZy1YSlFDUU05QXcxWVVWcXotWUVvTFY1cUJmUklzY2tvYnlWNzJsQ3hkM0xWakR0Y0dyX2lOM2RaVQ",
       "image": "",
-      "published": "Tue, 13 Oct 2026 14:07:14 GMT",
+      "published": "Tue, 13 Oct 2026 13:08:00 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "bd5fce13947097ec",
+      "source": "Variety",
+      "headline": "South Africa’s Cash Rebate Bounces Back, African Verticals Lift Off and AI at a Crossroads: 10 Takeaways From the Durban FilmMart",
+      "summary": "The Durban FilmMart wrapped its 17th edition on Oct. 12 with a boisterous awards ceremony that offered a fitting exclamation point to a four-day event whose rousing turn-out — with more than 1,100 industry delegates in attendance from 56 countries — cemented its position as the leading lynchpin of the African screen industries. The mood",
+      "url": "https://variety.com/2026/film/global/south-africa-10-takeaways-durban-filmmart-1236909788/",
+      "canonical_url": "https://variety.com/2026/film/global/south-africa-10-takeaways-durban-filmmart-1236909788",
+      "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-12-11-PM-942.jpg",
+      "published": "Tue, 13 Oct 2026 17:18:38 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "3d7f0be8015a622b",
+      "source": "NPR",
+      "headline": "Some of the most pristine coral reefs have a secret weapon: birds",
+      "summary": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds.",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
+      "canonical_url": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 05:00:00 -0400",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-13"
@@ -384,7 +474,7 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 13:00:00 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -413,6 +503,25 @@
       "appearances": 1
     },
     {
+      "id": "facf278ec021eb92",
+      "source": "BBC Entertainment",
+      "headline": "Raye hits back at ticket touts who 'overwhelmed' sign-up for Albert Hall show",
+      "summary": "The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a08/live/000a1cc0-c6e1-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "Tue, 13 Oct 2026 11:25:43 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "aa3c47f589f2441d",
       "source": "Positive News",
       "headline": "Putting a ring on it: the plan to green London’s beloved edges",
@@ -431,6 +540,25 @@
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-13",
       "appearances": 2
+    },
+    {
+      "id": "df19fbc7c8fb1450",
+      "source": "AI News",
+      "headline": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation - MLex",
+      "summary": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation MLex",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1VzTG95ZnMtVjRBSFVOcGpmMm1ZenNtdXY5cVdLRDdYWC0wamJROUg1bmNxd3ZnSTlqazVrNHRyLXVYdDJfS2ZENnpIM3FfVnhGaUxZZDl3M0RBeXcxLVU5S1lHME1JY3lURW1UWTBCdXZYdTJRb25Oa0x1M0RKaGFfMXVjUVpZR0xGREx3QmdUNHJDQXZZaldZUk0yeHVydkFOdG1hNDBOZ3JGZ1dZR0g2TE56M29fSjVBR3FkZWZjMm5IQUdhZ3h0ZkFKY2pNLTBNU1hVRE0zVk3SAVpBVV95cUxQN1dvUGxZWVpkekMyUENtcXZTRlFVanBtRlN4S0NrQ2ZGa2ZqRGVsQjVfWThLeWpFSHpiUVNMNENUOFZNaENPWUUyYTd0Z2NzeG4tWDFDU0JnbFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1VzTG95ZnMtVjRBSFVOcGpmMm1ZenNtdXY5cVdLRDdYWC0wamJROUg1bmNxd3ZnSTlqazVrNHRyLXVYdDJfS2ZENnpIM3FfVnhGaUxZZDl3M0RBeXcxLVU5S1lHME1JY3lURW1UWTBCdXZYdTJRb25Oa0x1M0RKaGFfMXVjUVpZR0xGREx3QmdUNHJDQXZZaldZUk0yeHVydkFOdG1hNDBOZ3JGZ1dZR0g2TE56M29fSjVBR3FkZWZjMm5IQUdhZ3h0ZkFKY2pNLTBNU1hVRE0zVk3SAVpBVV95cUxQN1dvUGxZWVpkekMyUENtcXZTRlFVanBtRlN4S0NrQ2ZGa2ZqRGVsQjVfWThLeWpFSHpiUVNMNENUOFZNaENPWUUyYTd0Z2NzeG4tWDFDU0JnbFE",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 17:34:45 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
     },
     {
       "id": "f8d318e9b78fcf7a",
@@ -462,25 +590,6 @@
       "published": "Tue, 13 Oct 2026 09:34:43 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "7dddbe9b8790cae9",
-      "source": "Variety",
-      "headline": "Paramount Pictures Taking Over Bay Theatre in Pacific Palisades",
-      "summary": "Warner Bros. isn’t the only Los Angeles institution getting absorbed into Skydance this month. The Bay Theatre in Pacific Palisades, which was formerly operated by Netflix and before that by Cinepolis, will be taken over by Paramount Pictures with San Diego’s The Lot handling operations. The opening is planned for later this year. The Bay",
-      "url": "https://variety.com/2026/film/news/paramount-pictures-bay-theatre-pacific-palisades-1236910226/",
-      "canonical_url": "https://variety.com/2026/film/news/paramount-pictures-bay-theatre-pacific-palisades-1236910226",
-      "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1229760628.jpg",
-      "published": "Tue, 13 Oct 2026 16:48:31 +0000",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-10-13"
@@ -528,25 +637,6 @@
       "appearances": 1
     },
     {
-      "id": "bae3cf333664d1ea",
-      "source": "Reuters",
-      "headline": "Netflix secures rights to air 2030 World Cup in Spain, Andorra - Reuters",
-      "summary": "Netflix secures rights to air 2030 World Cup in Spain, Andorra Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 13:14:00 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "22c62de1689ab556",
       "source": "BBC Health",
       "headline": "Mum told to 'prepare for worst' urges others to get respiratory illness vaccine",
@@ -566,16 +656,16 @@
       "appearances": 1
     },
     {
-      "id": "ee43360a5eda48e8",
-      "source": "Animals",
-      "headline": "Money pours in for wildlife park foundation after tiger tragedy - Doncaster Free Press",
-      "summary": "Money pours in for wildlife park foundation after tiger tragedy Doncaster Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2ZCNzd5alhTLU41aEprTFhnYWxIc3JCdm9uOF9zamt2LU5XaGs3TVJSUEZZZURXbXdVWmpaQmNsb3dkbmZ6T0hVZG5peTRXTnE1VzhfbXRPanpiYm5MRHhmNE82LVlaQ1NQMXhwcDl6bU50NnJqNlJYeWdfY3FYNklnSGRhQkJGM3FDeDhEMHFqR3R1Q1ZucG0xbkR2Y2pkY0FjR0NtTmxBbzlBNnUxYV9wcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2ZCNzd5alhTLU41aEprTFhnYWxIc3JCdm9uOF9zamt2LU5XaGs3TVJSUEZZZURXbXdVWmpaQmNsb3dkbmZ6T0hVZG5peTRXTnE1VzhfbXRPanpiYm5MRHhmNE82LVlaQ1NQMXhwcDl6bU50NnJqNlJYeWdfY3FYNklnSGRhQkJGM3FDeDhEMHFqR3R1Q1ZucG0xbkR2Y2pkY0FjR0NtTmxBbzlBNnUxYV9wcw",
+      "id": "25f79cd0c8c13153",
+      "source": "Customer Data",
+      "headline": "Martech Absolutes Are Over. What Does a Hybrid Stack Look Like? - CMSWire",
+      "summary": "Martech Absolutes Are Over. What Does a Hybrid Stack Look Like? CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVNIOWNCNXN2Q2duaktMc0ljWTJTZUNSTE5JYU9RQUs2WGJBcnhzdnRETGtscGpFcVYtaG51U3B4ZldvbFZZSmo4Rm4zc21QM2xMVDZrUFJnZGJrdS13N0s5T2ZGd09sbnpMTkJqZ2dJRDZlM3dzcXd4SnhIV3dfZ2NwOUx5OFc0dmNGd043azhzUGRGdmtFbDAtOUc3bnBTMlJtbzBR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVNIOWNCNXN2Q2duaktMc0ljWTJTZUNSTE5JYU9RQUs2WGJBcnhzdnRETGtscGpFcVYtaG51U3B4ZldvbFZZSmo4Rm4zc21QM2xMVDZrUFJnZGJrdS13N0s5T2ZGd09sbnpMTkJqZ2dJRDZlM3dzcXd4SnhIV3dfZ2NwOUx5OFc0dmNGd043azhzUGRGdmtFbDAtOUc3bnBTMlJtbzBR",
       "image": "",
-      "published": "Tue, 13 Oct 2026 12:15:00 GMT",
+      "published": "Tue, 13 Oct 2026 18:15:42 GMT",
       "sections": [
-        "animals"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -585,92 +675,16 @@
       "appearances": 1
     },
     {
-      "id": "699421a283d46b71",
-      "source": "AI News",
-      "headline": "Meta unveils Muse Wonder AI to rival OpenAI and Anthropic - Yeni Şafak English",
-      "summary": "Meta unveils Muse Wonder AI to rival OpenAI and Anthropic Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHdwdXU4UkNwejhnZGk1bUFwMWxWRmFpZjFmbXNSM0tGZUFYWUJnTWc1UldnQ3FFbDl6NkpJemc0cnpzMU5uYjByb29yWlJDX21SVzZYUF8tbzQ5bWFMNUdZNUE2NFFkX1VZOWZ0VF9sd1dtSFZ1YmkzYV90TE1vek9wSHZidndmaDJrMVVQRjU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHdwdXU4UkNwejhnZGk1bUFwMWxWRmFpZjFmbXNSM0tGZUFYWUJnTWc1UldnQ3FFbDl6NkpJemc0cnpzMU5uYjByb29yWlJDX21SVzZYUF8tbzQ5bWFMNUdZNUE2NFFkX1VZOWZ0VF9sd1dtSFZ1YmkzYV90TE1vek9wSHZidndmaDJrMVVQRjU",
+      "id": "8526598a208f879f",
+      "source": "Klaviyo",
+      "headline": "Klaviyo Product Updates: New Features & Platform Enhancements - Klaviyo",
+      "summary": "Klaviyo Product Updates: New Features & Platform Enhancements Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51UGVQdDNiRU9yMUFVN1hsUVFXNEwtVDExS1dLRTNic0dlMmRpdU5KOGhKaExGV1lGLWtmcllDWS03c3BnOWEzYXZ3cWJUN0JMeGJhTE5WTWxZMWxpYXV3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51UGVQdDNiRU9yMUFVN1hsUVFXNEwtVDExS1dLRTNic0dlMmRpdU5KOGhKaExGV1lGLWtmcllDWS03c3BnOWEzYXZ3cWJUN0JMeGJhTE5WTWxZMWxpYXV3",
       "image": "",
-      "published": "Tue, 13 Oct 2026 08:44:59 GMT",
+      "published": "Tue, 13 Oct 2026 17:44:15 GMT",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "f95916c2e7881271",
-      "source": "AI News",
-      "headline": "Meta launches new AI models to compete with OpenAI and Anthropic - A News",
-      "summary": "Meta launches new AI models to compete with OpenAI and Anthropic A News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG9iVllpUHZveHdycDl1TjVicHlpb1loUmV2cDE4SmFiRGV5U1daXzROTFRGdnhkam9oY2RLUUUxMFQzRjFoYW1YOUVic1FjNmRyRkUyRnFTVlJxUU5hdVVucEh1ZDRLakp2OUdzUWFoOEFReldNRkhoaHhNdkpBTnZ6alZieXdrSkt4ay1GWDh2YjdSbVVpWVBWdTNXY0Ywc3U3SEYyU1RoQjRGN0HSAa4BQVVfeXFMTUxvYlZZaVB2b3h3cnA5dU41YnB5aW9ZaFJldnAxOEphYkRleVNXWl80TkxURnZ4ZGpvaGNkS1FFMTBUM0YxaGFtWDlFYnNRYzZkckZFMkZxU1ZScVFOYXVVbnBIdWQ0S2pKdjlHc1FhaDhBUXpXTUZIaGh4TXZKQU52empWYnl3a0pLeGstRlg4dmI3Um1VaVlQVnUzV2NGMHN1N0hGMlNUaEI0RjdB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG9iVllpUHZveHdycDl1TjVicHlpb1loUmV2cDE4SmFiRGV5U1daXzROTFRGdnhkam9oY2RLUUUxMFQzRjFoYW1YOUVic1FjNmRyRkUyRnFTVlJxUU5hdVVucEh1ZDRLakp2OUdzUWFoOEFReldNRkhoaHhNdkpBTnZ6alZieXdrSkt4ay1GWDh2YjdSbVVpWVBWdTNXY0Ywc3U3SEYyU1RoQjRGN0HSAa4BQVVfeXFMTUxvYlZZaVB2b3h3cnA5dU41YnB5aW9ZaFJldnAxOEphYkRleVNXWl80TkxURnZ4ZGpvaGNkS1FFMTBUM0YxaGFtWDlFYnNRYzZkckZFMkZxU1ZScVFOYXVVbnBIdWQ0S2pKdjlHc1FhaDhBUXpXTUZIaGh4TXZKQU52empWYnl3a0pLeGstRlg4dmI3Um1VaVlQVnUzV2NGMHN1N0hGMlNUaEI0RjdB",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 11:30:38 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "8ae7e21253301284",
-      "source": "Variety",
-      "headline": "Laika’s ‘Wildwood’ VFX Supervisor Steve Emerson Details the Making of Travis Knight’s Stop-Motion Epic",
-      "summary": "Laika’s “Wildwood” took more than five years of stage animation and visual-effects work, with 2,776 shots requiring a carefully orchestrated mix of handmade puppets, miniature sets and digital imagery. But for production VFX supervisor Steve Emerson, the defining challenge of Travis Knight’s fantasy epic was ensuring that the technology served the stop-motion performances rather than",
-      "url": "https://variety.com/2026/artisans/global/laika-wildwood-vfx-supervisor-steve-emerson-view-conference-1236910262/",
-      "canonical_url": "https://variety.com/2026/artisans/global/laika-wildwood-vfx-supervisor-steve-emerson-view-conference-1236910262",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Emerson_1.jpg",
-      "published": "Tue, 13 Oct 2026 16:57:00 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "ce3c7eda0c86efc9",
-      "source": "Variety",
-      "headline": "Khalil Cherti’s ‘Our Way to You,’ Selected by Cairo Film Festival, Boarded by Salaud Morisset (EXCLUSIVE)",
-      "summary": "Salaud Morisset has boarded worldwide sales rights to “Our Way to You” (Ce qui nous mène à toi), the first feature from French-Moroccan filmmaker Khalil Cherti, and produced by Amaury Ovise of Kazak Productions. While the film already won two awards after its world premiere at this year’s Angoulême Film Festival, it will begin its",
-      "url": "https://variety.com/2026/film/global/khalil-cherti-our-way-to-you-cairo-salaud-morisset-1236910212/",
-      "canonical_url": "https://variety.com/2026/film/global/khalil-cherti-our-way-to-you-cairo-salaud-morisset-1236910212",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Our-Way-to-You.jpg",
-      "published": "Tue, 13 Oct 2026 16:28:45 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "6bbf95175d8226f3",
-      "source": "Variety",
-      "headline": "Kevin Hart’s Hartbeat Inks Vertical Series Deal With Fox Entertainment",
-      "summary": "Kevin Hart’s production company Hartbeat has inked a vertical series deal with Fox Entertainment. The deal will see Fox Entertainment Studios have first look rights to developing feature film and television series from vertical series released under Hartbeat subsidiary brands Codeblack, Essence and Revolt, which have a combined social following exceeding 20 million. Codeblack has",
-      "url": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809/",
-      "canonical_url": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
-      "image": "https://variety.com/wp-content/uploads/2026/05/GettyImages-2275528285.jpg",
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
-      "sections": [
-        "entertainment"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -699,6 +713,25 @@
       "appearances": 1
     },
     {
+      "id": "6b8861e27df2c1be",
+      "source": "Variety",
+      "headline": "John Leguizamo, Indya Moore and D’Arcy Carden to be Honored at Denver Film Festival",
+      "summary": "John Leguizamo, Indya Moore and D’Arcy Carden will be honored at the 49th Denver Film Festival, which runs Oct. 22—Nov. 1. Leguizamo will receive the John Cassavetes Award presented by Next50. The actor will make an appearance at the festival on Oct. 30 to accept the honor prior to a newly added screening of Christopher",
+      "url": "https://variety.com/2026/film/news/john-leguizamo-indya-moore-darcy-carden-denver-film-fest-1236910264/",
+      "canonical_url": "https://variety.com/2026/film/news/john-leguizamo-indya-moore-darcy-carden-denver-film-fest-1236910264",
+      "image": "https://variety.com/wp-content/uploads/2026/10/father-mother-sister-brother-red-carpet-63rd-new-york-film-f-1000x667-1.jpg",
+      "published": "Tue, 13 Oct 2026 17:25:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "61b2abb0399a068e",
       "source": "Animals",
       "headline": "Jamie Pieterse animal cruelty case returns to court - Cape Town ETC",
@@ -709,25 +742,6 @@
       "published": "Tue, 13 Oct 2026 16:00:31 GMT",
       "sections": [
         "animals"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "92f95584d339a48c",
-      "source": "Reuters",
-      "headline": "J&J posts weak medical device sales, shares fall - Reuters",
-      "summary": "J&J posts weak medical device sales, shares fall Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 16:18:36 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -765,7 +779,7 @@
       "image": "",
       "published": "Tue, 13 Oct 2026 12:12:00 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -832,6 +846,25 @@
       "appearances": 1
     },
     {
+      "id": "64be3d764257b9ff",
+      "source": "The Verge",
+      "headline": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "canonical_url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "image": "",
+      "published": "2026-10-13T14:00:00-04:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "c561811567ffa14d",
       "source": "BBC World",
       "headline": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
@@ -842,6 +875,25 @@
       "published": "Tue, 13 Oct 2026 13:23:45 GMT",
       "sections": [
         "big-story"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
+      "id": "cadb3db9dd966135",
+      "source": "Wisconsin News",
+      "headline": "How could lawmakers regulate data centers? Wisconsin Policy Forum offers options - WUWM",
+      "summary": "How could lawmakers regulate data centers? Wisconsin Policy Forum offers options WUWM",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNF9KWXVRQVdUY20yS1hqTUtJcWJ3T2ozVWZoU0tRZE1HdHZaRnJFcUN5RTBBbjRhOG95QlpHeVhZd245aEx3VHFuS2VWM3c5UEpPWkRZSzZSbUE0d3JqYWEyVzQtSjFYcTNuODk2OHBuWjhJV3U3YVdLa05tdkpoS1pWRHlrekhoX1plNlVjdnR6US13MkZkVHg2WGdqZm81Wmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNF9KWXVRQVdUY20yS1hqTUtJcWJ3T2ozVWZoU0tRZE1HdHZaRnJFcUN5RTBBbjRhOG95QlpHeVhZd245aEx3VHFuS2VWM3c5UEpPWkRZSzZSbUE0d3JqYWEyVzQtSjFYcTNuODk2OHBuWjhJV3U3YVdLa05tdkpoS1pWRHlrekhoX1plNlVjdnR6US13MkZkVHg2WGdqZm81Wmc",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 17:21:00 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-10-13"
@@ -908,6 +960,25 @@
       "appearances": 1
     },
     {
+      "id": "90a52e178d20403f",
+      "source": "Reuters",
+      "headline": "Gold holds steady ahead of US inflation data, Warsh remarks - Reuters",
+      "summary": "Gold holds steady ahead of US inflation data, Warsh remarks Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 02:23:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "c60c07ebc7f5cfda",
       "source": "BBC Entertainment",
       "headline": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI",
@@ -927,16 +998,16 @@
       "appearances": 1
     },
     {
-      "id": "5e8db2ede3f7bbf9",
-      "source": "Wisconsin News",
-      "headline": "Federal disaster unemployment aid now available after July 27 Wisconsin storms, tornadoes - WLUK",
-      "summary": "Federal disaster unemployment aid now available after July 27 Wisconsin storms, tornadoes WLUK",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdHQxNDNYSGt1VERDdVdwR1hNMkx3b1JVXzFYZ1lnd3UyQ19ndFFTUWZ3bG1tVk9rYnNDUW9wVkhfYjJzSXNDcElqUkE1N3o3dzU4VXB0c1RPcFNfdTllbGV1M0R6VXVKcTFKVC1sRjlWeTFuckVzOC16SktjV0VxRGlOTDJIZmcwR1B6Z3d6LXZzdjZEWmJFYWJKQmY4UGZGUjB4R0tsUTZXZVpSMlJhcTk0QzJnZVk0eGVPV2M5Z2JpX2ktdTZFQXJreFdPaURZcmxDcFU2Q09EY3l5UmNnREx4OG9OV29HODk3eWJORkNNclI1OHVWam1qQXVlWl9ZeXlaeUx5aXMtZU5IMnc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdHQxNDNYSGt1VERDdVdwR1hNMkx3b1JVXzFYZ1lnd3UyQ19ndFFTUWZ3bG1tVk9rYnNDUW9wVkhfYjJzSXNDcElqUkE1N3o3dzU4VXB0c1RPcFNfdTllbGV1M0R6VXVKcTFKVC1sRjlWeTFuckVzOC16SktjV0VxRGlOTDJIZmcwR1B6Z3d6LXZzdjZEWmJFYWJKQmY4UGZGUjB4R0tsUTZXZVpSMlJhcTk0QzJnZVk0eGVPV2M5Z2JpX2ktdTZFQXJreFdPaURZcmxDcFU2Q09EY3l5UmNnREx4OG9OV29HODk3eWJORkNNclI1OHVWam1qQXVlWl9ZeXlaeUx5aXMtZU5IMnc",
+      "id": "d6c43c4891e7d816",
+      "source": "Wisconsin Public Radio",
+      "headline": "Federal complaint alleges Rogers Behavioral Health illegally fired 6 workers in West Allis",
+      "summary": "Federal labor regulators last week issued a formal complaint against Rogers Behavioral Health, alleging the nonprofit illegally fired six workers at a West Allis treatment center during a union drive.",
+      "url": "https://www.wpr.org/news/federal-complaint-alleges-rogers-behavioral-health-illegally-fired-6-workers-west-allis",
+      "canonical_url": "https://www.wpr.org/news/federal-complaint-alleges-rogers-behavioral-health-illegally-fired-6-workers-west-allis",
       "image": "",
-      "published": "Tue, 13 Oct 2026 15:33:28 GMT",
+      "published": "Tue, 13 Oct 2026 17:29:46 +0000",
       "sections": [
-        "local"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-13"
@@ -984,27 +1055,6 @@
       "appearances": 1
     },
     {
-      "id": "96f4032f6521438c",
-      "source": "HubSpot Marketing",
-      "headline": "Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets",
-      "summary": "Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.",
-      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
-      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
-      "image": "https://blog.hubspot.com/hubfs/enterprise%20aeo.png",
-      "published": "Thu, 08 Oct 2026 20:02:20 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-13",
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-13",
-      "appearances": 3
-    },
-    {
       "id": "ba31a248c1352185",
       "source": "Good News Network",
       "headline": "Elderly Theater Worker Surprised by $146,000 for Her Retirement Crowdfunded by Young Moviegoer",
@@ -1024,52 +1074,14 @@
       "appearances": 1
     },
     {
-      "id": "7dc26c6dd755f9cc",
-      "source": "Wisconsin News",
-      "headline": "DNR Awards More Than $250,000 For Recycling Electronics In Underserved Areas - Wisconsin Department of Natural Resources (DNR) (.gov)",
-      "summary": "DNR Awards More Than $250,000 For Recycling Electronics In Underserved Areas Wisconsin Department of Natural Resources (DNR) (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcGdxR29OYnhpY2V0cXIzMGNPSWo2YWNIV2lwekMwQUpIR2N3cWtueDZpV3NhN2JJOEtibThUS2JxSzV5YlJTalMzbXVTMmhnRDRMN2JIRjV5WmhHZ1E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcGdxR29OYnhpY2V0cXIzMGNPSWo2YWNIV2lwekMwQUpIR2N3cWtueDZpV3NhN2JJOEtibThUS2JxSzV5YlJTalMzbXVTMmhnRDRMN2JIRjV5WmhHZ1E",
+      "id": "fd11390214f6bb22",
+      "source": "Wisconsin Examiner",
+      "headline": "Dane County proposes $3 million for sheriff body camera program - Wisconsin Examiner",
+      "summary": "Dane County proposes $3 million for sheriff body camera program Wisconsin Examiner",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXRiTjN1UkwzdlpPTG0xcXBvN3BGUHBib0lqLThEZkJtbTNMY25sRkZDbUpNMElJQm1ONEx3VTZnQkFpRFRlM19YY3NlcFoxc29XWXhYaUNuR20yWGpGQVRWZDAtWkNGWmxyQnRPM1M2VG1oMVgtcW5YRU80OHg2QlJadTZ1RGxpYnVaR2l6ejY0TFJsX092MjVPbXVXbXFiUVdQaUVB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXRiTjN1UkwzdlpPTG0xcXBvN3BGUHBib0lqLThEZkJtbTNMY25sRkZDbUpNMElJQm1ONEx3VTZnQkFpRFRlM19YY3NlcFoxc29XWXhYaUNuR20yWGpGQVRWZDAtWkNGWmxyQnRPM1M2VG1oMVgtcW5YRU80OHg2QlJadTZ1RGxpYnVaR2l6ejY0TFJsX092MjVPbXVXbXFiUVdQaUVB",
       "image": "",
-      "published": "Tue, 13 Oct 2026 14:09:17 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "579aa4e27ad56348",
-      "source": "The Verge",
-      "headline": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil",
-      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "canonical_url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "image": "",
-      "published": "2026-10-13T09:55:45-04:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "cd261f102fb1d4eb",
-      "source": "Dane County",
-      "headline": "Dane County supervisor suggests cutting body cams from 2027 budget - Wisconsin State Journal",
-      "summary": "Dane County supervisor suggests cutting body cams from 2027 budget Wisconsin State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHg5bjdGOUhqVThRN1ZxUEVtZXBuZlNYdm1WMWtyelVLdGNZbE9qMnZQVzBLaU1nSTVCTHpDRERCRDRpeXJfd3hKdzdOeVA0UTRuZ0Z4aGR1anc1OXA1OGR0TWNmazFuZFJtN25rWEhfb1dMY2VscmRsM0lQdlR3ZVJuOUd5b1lMekRQTXRpQzRjU3VCeDhSUHBZUnlFWjh5dVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHg5bjdGOUhqVThRN1ZxUEVtZXBuZlNYdm1WMWtyelVLdGNZbE9qMnZQVzBLaU1nSTVCTHpDRERCRDRpeXJfd3hKdzdOeVA0UTRuZ0Z4aGR1anc1OXA1OGR0TWNmazFuZFJtN25rWEhfb1dMY2VscmRsM0lQdlR3ZVJuOUd5b1lMekRQTXRpQzRjU3VCeDhSUHBZUnlFWjh5dVE",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "published": "Tue, 13 Oct 2026 18:08:31 GMT",
       "sections": [
         "local"
       ],
@@ -1138,25 +1150,6 @@
       "appearances": 1
     },
     {
-      "id": "e624e69e83cdceae",
-      "source": "Associated Press",
-      "headline": "Breaking News - The New Republic",
-      "summary": "Breaking News The New Republic",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3",
-      "image": "",
-      "published": "Tue, 13 Oct 2026 14:58:30 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
       "id": "07228413cc260d8b",
       "source": "BBC World",
       "headline": "Breaking Bad actor RJ Mitte dies aged 34",
@@ -1195,6 +1188,25 @@
       "appearances": 1
     },
     {
+      "id": "d5acfec46774bc56",
+      "source": "Wisconsin Watch",
+      "headline": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin - Wisconsin Watch",
+      "summary": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOWo1WlQzLWdkZnY5amE3STdmZWkwV1hlOU9C?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOWo1WlQzLWdkZnY5amE3STdmZWkwV1hlOU9C",
+      "image": "",
+      "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
+    },
+    {
       "id": "1cb84cfd891ad0c0",
       "source": "Ars Technica",
       "headline": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
@@ -1204,7 +1216,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
       "published": "Mon, 12 Oct 2026 18:21:36 +0000",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -1233,26 +1245,42 @@
       "appearances": 1
     },
     {
-      "id": "dc81cb82d821912a",
-      "source": "HubSpot Marketing",
-      "headline": "AEO for growth marketing teams: How to find scalable acquisition channels when paid and organic plateau",
-      "summary": "Growth marketing is all about finding the next channel opportunity before the current one gets crowded and expensive. Paid search got crowded. Content took time. Email got filtered. The teams that found a new lever early on took advantage of lower competition, cost, and disproportionate returns before the channel normalized.",
-      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
-      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
-      "image": "https://blog.hubspot.com/hubfs/AEO-for-growth-marketing-teams-1-20260930-7336354.webp",
-      "published": "Thu, 08 Oct 2026 19:45:56 GMT",
+      "id": "ea23def5502c542c",
+      "source": "Smithsonian",
+      "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
+      "summary": "Wooden objects usually decompose quickly, but periodic flooding and minerals in the water helped preserve those at a site called Abric Romaní. Archaeologists documented nearly 600 wooden objects—or their imprints—and 13 were clearly shaped by human hands",
+      "url": "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/rcDQrcVHAiBproCD5I__nu7ksfs=/420x240/filters:focal(1387x753:1388x754)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/b3/9fb3bc09-c4b9-4bf9-a618-b7e1de91b8ae/rare-haul-of-wooden-ob-1.jpg",
+      "published": "Tue, 13 Oct 2026 17:00:10 +0000",
       "sections": [
-        "quick-scan",
-        "work-marketing"
+        "animals"
       ],
       "report_dates": [
-        "2026-10-13",
-        "2026-10-10",
-        "2026-10-09"
+        "2026-10-13"
       ],
-      "first_seen": "2026-10-09",
+      "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
-      "appearances": 3
+      "appearances": 1
+    },
+    {
+      "id": "e8881f4e9b5e76a5",
+      "source": "The Verge",
+      "headline": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "image": "",
+      "published": "2026-10-13T12:42:51-04:00",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-13"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "appearances": 1
     },
     {
       "id": "932dfe8f8dad3ff9",
@@ -1272,27 +1300,6 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "appearances": 1
-    },
-    {
-      "id": "c2b7be6d09f14248",
-      "source": "Smithsonian",
-      "headline": "A Century Ago, an Extinct Crocodilian's Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species",
-      "summary": "The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus",
-      "url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/i-giezARbc83-ETGxV1HDhAXVwI=/420x240/filters:focal(405x230:406x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/9f/b69fb13c-0813-4975-9b36-6e1c00272daf/new-croc.webp",
-      "published": "Fri, 09 Oct 2026 15:00:00 +0000",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-13",
-        "2026-10-10",
-        "2026-10-09"
-      ],
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-13",
-      "appearances": 3
     },
     {
       "id": "2e44c2f8eff86edf",
@@ -1324,25 +1331,6 @@
       "published": "Tue, 13 Oct 2026 10:29:09 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-13"
-      ],
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "appearances": 1
-    },
-    {
-      "id": "3ccd23a9467ffe0e",
-      "source": "BBC Health",
-      "headline": "'I was dead for 10 minutes, but lived to tell the tale'",
-      "summary": "Medics in Spain raced against time to save Sandra McCartney's life after her heart stopped beating.",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yny29e51o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6r7yny29e51o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/510d/live/5a0ba460-c6c7-11f1-9b46-7b2f89ed4491.jpg",
-      "published": "Tue, 13 Oct 2026 05:09:13 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-10-13"
@@ -4243,6 +4231,26 @@
       "appearances": 1
     },
     {
+      "id": "4666d2edad7718c0",
+      "source": "MarTech",
+      "headline": "Why HIPAA compliance in martech goes beyond BAAs",
+      "summary": "A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms.",
+      "url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/",
+      "canonical_url": "https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas",
+      "image": "https://martech.org/wp-content/uploads/2026/03/data-privacy-personalization--800x450.png",
+      "published": "Fri, 09 Oct 2026 12:23:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
+      "appearances": 2
+    },
+    {
       "id": "a9798a13a644e5a1",
       "source": "Wisconsin Public Radio",
       "headline": "We Energies plans new 750MW natural gas plant in Fox Valley",
@@ -4356,6 +4364,27 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10",
       "appearances": 1
+    },
+    {
+      "id": "bccefaead27618b4",
+      "source": "Smithsonian",
+      "headline": "These South American Birds Can Match a Jackhammer's Ear-Splitting Volume, Making Them Some of the World's Loudest Known Avians",
+      "summary": "The bare-throated bellbird and the red-legged seriema can produce sounds at amplitudes that exceed 120 decibels, which puts them on par with a trumpeting elephant or a chainsaw",
+      "url": "https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/vnVDL9AwiwfmbEooVuQIJVTG-tg=/420x240/filters:focal(1222x815:1223x816)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/ab/19abaa5d-7c15-46fa-8349-a5a9b9e6cc36/bare_throated_bellbird.jpg",
+      "published": "Fri, 09 Oct 2026 13:00:00 +0000",
+      "sections": [
+        "animals",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
+      "appearances": 2
     },
     {
       "id": "1fe4a3438d6597d3",
@@ -4955,6 +4984,26 @@
       "appearances": 1
     },
     {
+      "id": "96f4032f6521438c",
+      "source": "HubSpot Marketing",
+      "headline": "Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets",
+      "summary": "Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.",
+      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
+      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-enterprise",
+      "image": "https://blog.hubspot.com/hubfs/enterprise%20aeo.png",
+      "published": "Thu, 08 Oct 2026 20:02:20 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
+      "appearances": 2
+    },
+    {
       "id": "01c79f1df0507866",
       "source": "BBC World",
       "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
@@ -5189,6 +5238,26 @@
       "appearances": 1
     },
     {
+      "id": "dc81cb82d821912a",
+      "source": "HubSpot Marketing",
+      "headline": "AEO for growth marketing teams: How to find scalable acquisition channels when paid and organic plateau",
+      "summary": "Growth marketing is all about finding the next channel opportunity before the current one gets crowded and expensive. Paid search got crowded. Content took time. Email got filtered. The teams that found a new lever early on took advantage of lower competition, cost, and disproportionate returns before the channel normalized.",
+      "url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
+      "canonical_url": "https://blog.hubspot.com/marketing/aeo-guide-for-growth-marketing-teams",
+      "image": "https://blog.hubspot.com/hubfs/AEO-for-growth-marketing-teams-1-20260930-7336354.webp",
+      "published": "Thu, 08 Oct 2026 19:45:56 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
+      "appearances": 2
+    },
+    {
       "id": "a05dcbda90d002a5",
       "source": "HubSpot Marketing",
       "headline": "AEO for content strategists: How to move the needle on citations",
@@ -5245,6 +5314,26 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10",
       "appearances": 1
+    },
+    {
+      "id": "c2b7be6d09f14248",
+      "source": "Smithsonian",
+      "headline": "A Century Ago, an Extinct Crocodilian's Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species",
+      "summary": "The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus",
+      "url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/i-giezARbc83-ETGxV1HDhAXVwI=/420x240/filters:focal(405x230:406x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/9f/b69fb13c-0813-4975-9b36-6e1c00272daf/new-croc.webp",
+      "published": "Fri, 09 Oct 2026 15:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-10-10",
+        "2026-10-09"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
+      "appearances": 2
     },
     {
       "id": "b85b41e0c68bf714",
