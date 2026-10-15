@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T11:36:41.385634+00:00",
-  "generated_at_local": "2026-10-15T06:36:41.385634-05:00",
+  "generated_at": "2026-10-15T12:51:49.928763+00:00",
+  "generated_at_local": "2026-10-15T07:51:49.928763-05:00",
   "report_date": "2026-10-15",
   "top_story": {
     "source": "BBC World",
@@ -11,6 +11,14 @@
     "published": "Thu, 15 Oct 2026 10:51:53 GMT"
   },
   "quick_scan": [
+    {
+      "source": "BBC US & Canada",
+      "headline": "US teenager appears in court over alleged Hindu temple shooting plot",
+      "summary": "Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg",
+      "published": "Thu, 15 Oct 2026 12:20:24 GMT"
+    },
     {
       "source": "Wisconsin Public Radio",
       "headline": "A MAGA loyalist and self-described independent Democrat vie for 7th Congressional seat",
@@ -58,14 +66,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e2c/live/c3f3ac40-c863-11f1-a64c-550be9e3c66b.jpg",
       "published": "Thu, 15 Oct 2026 05:05:59 GMT"
-    },
-    {
-      "source": "BBC US & Canada",
-      "headline": "US inflation rises more than expected - here's what is happening with prices",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
-      "published": "Wed, 14 Oct 2026 15:26:14 GMT"
     },
     {
       "source": "Ars Technica",
@@ -162,14 +162,22 @@
       },
       {
         "source": "BBC World",
-        "headline": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-        "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a4/live/d60d4d30-c879-11f1-a64c-550be9e3c66b.jpg",
-        "published": "Thu, 15 Oct 2026 10:27:26 GMT"
+        "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
+        "published": "Thu, 15 Oct 2026 12:28:26 GMT"
       },
       {
         "source": "BBC World",
+        "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b806/live/9e90b7d0-c896-11f1-9a39-31b474234113.jpg",
+        "published": "Thu, 15 Oct 2026 12:03:51 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
         "headline": "How backlash against data centres could shape the US midterm elections",
         "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
         "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
@@ -191,14 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2VycDJiM2tHUVV0LUZHMjgtcmdqOHQ2QWZkakF6eGlnY2ZmaHduOE80Ul95NjVTTVFtVFR5d3l4Q09QdU15YWI5MzVxYzdnUWlKRXgtR0lGakUyV243MlJPamhMRFIxTF85SWRJclNQLTlJTW9KUHR6OFdFMUpxaURpYkdISHJPRk5ZMDNIZ2h5Zm9rVVVzQTk0Uk56VXdYY1d5ZGduNDJUcVA0MjNBaDNB?oc=5",
         "image": "",
         "published": "Thu, 15 Oct 2026 06:00:00 GMT"
-      },
-      {
-        "source": "Associated Press",
-        "headline": "Heavy rain shuts down Istanbul, causing flooding and 2 deaths - Bay News 9",
-        "summary": "Heavy rain shuts down Istanbul, causing flooding and 2 deaths Bay News 9",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFh0UklhMS1BMUN4bHU3SG5Hc0J2WUtQNUJjR25XRVZEZlM3ZVB6SUkycTRHSGtEdnlYbnptMjB1YXRTTTBtQWdTc0pkVTdlendCLThaTDdIV1B0R01VQ0NLVmRhSHRsT1E5b1prdFlJYzZfT2czMEhqSmd5SUtZZVFnM2JEem5JWXpIQTE0aHV0aEJpRlNyRGhNN2hzaDBOX3pCYVZzSWh4RFIyanE2cEFPWQ?oc=5",
-        "image": "",
-        "published": "Thu, 15 Oct 2026 10:52:00 GMT"
       },
       {
         "source": "NPR",
@@ -260,22 +260,30 @@
       },
       {
         "source": "The Verge",
+        "headline": "Ledger’s new hardware wallet is an Android phone without the phone",
+        "summary": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply",
+        "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+        "image": "",
+        "published": "2026-10-15T08:00:00-04:00"
+      },
+      {
+        "source": "The Verge",
         "headline": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
         "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
         "image": "",
         "published": "2026-10-14T17:11:28-04:00"
-      },
-      {
-        "source": "AI News",
-        "headline": "Google’s Gemini 4 Argon takes on OpenAI, Anthropic with focus on coding, research and reasoning - The Economic Times",
-        "summary": "Google’s Gemini 4 Argon takes on OpenAI, Anthropic with focus on coding, research and reasoning The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcEZvUWV5aXZQbXliMjRyMktrdmRYSlhpLUtCOXN4VWN0Y2ZxaHo2TkRPOHkwaGpJNG1BSFJGWFFIa012VzdwSUwxMXBSZVdRMEpVQWotbk1tWkg5UGhOQndQOVhvQmdZZGhXLVpyeVJJTElUbmQ1aUhfOTBZNWtpVTY0VW5faHFDVXF2Y245RnI3NXRqRWlQc3cwRC1rM1B2ME4wdU13dnpKeXpVYjBCOUlCdU5rRzFMN3h2dHc3WnY1R0VxZ2VienJhOURmRnJzdWtVeFduajhuZ2VDVU1xeFdKRXdwSzFra1YwTk9tN2Z6RnY5OUc5UtIB_gFBVV95cUxNalBZTGhGX08tMnpVQWFta1FxZnJlV3VNY3BBX2ZaTElrOTVVTW9NYjFyR3h5ZXhPUk56MGNuSW1iWU9NTWFDYUY3bWptQzEyOWdDa2ZWd1NjMnlmOVRSSlFrd2pDdGJYY0dXeGMxUE5kMThmajdhUEF5Q2lfaUxqYmgzZ2xQdjVnMlJaUzBteVUzeWZRS1hlbUFaMVJVNkwtclYyWkQtOWdjVmd5aXJtbjNjRFM5UWhVdTBCN3NIRnphV01BVE13OWRvUnZmTkJ6Z29ib0VYT3FjZXRKSGs1amhaWDcyNzJ4cjJiZElsbkVud1FpeFdxLTF5TWNsUQ?oc=5",
-        "image": "",
-        "published": "Thu, 15 Oct 2026 08:59:54 GMT"
       }
     ],
     "work-marketing": [
+      {
+        "source": "Variety",
+        "headline": "Russell Brand Trial: Woman Details Alleged Rape After Asking Her to Take Photos of Him Half-Naked",
+        "summary": "The second day of Russell Brand’s criminal trial is underway in London, with the first complainant detailing an alleged rape at the 1999 Labour Party conference in Bournemouth. Arriving to Southwark Crown Court on Thursday, Brand sported a grey suit, white shirt and black-and-white polka dot tie, with his hair tied back in a half-up",
+        "url": "https://variety.com/2026/tv/global/russell-brand-trial-woman-details-alleged-rape-half-naked-photos-1236912784/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/russell-3.jpg",
+        "published": "Thu, 15 Oct 2026 12:07:17 +0000"
+      },
       {
         "source": "Variety",
         "headline": "‘Spider-Man: Brand New Day’ VFX Boss Jerome Chen on Hulk’s Redesign, Finishing 445 Shots in a Week",
@@ -283,14 +291,6 @@
         "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-vfx-boss-jerome-chen-hulk-1236912828/",
         "image": "https://variety.com/wp-content/uploads/2026/10/Chen_2.jpeg",
         "published": "Thu, 15 Oct 2026 11:01:26 +0000"
-      },
-      {
-        "source": "Variety",
-        "headline": "Gersh Launches Victoria House, Expanding Into Scripted Films, True Crime and International Co-Productions (EXCLUSIVE)",
-        "summary": "Gersh is stepping up its international content ambitions with the launch of Victoria House, the new identity of Emmy-winning Spanish production outfit You First Originals, as the U.S. talent agency completes the integration of You First under its global brand on Oct. 15. The move gives Victoria House access to Gersh’s international talent network and",
-        "url": "https://variety.com/2026/tv/global/gersh-victoria-house-launch-you-first-originals-1236909813/",
-        "image": "https://variety.com/wp-content/uploads/2026/10/Javier-M-y-Luis-M-Calvo_Victoria-house_GERSH.jpg",
-        "published": "Thu, 15 Oct 2026 06:56:00 +0000"
       },
       {
         "source": "Adweek",
@@ -383,6 +383,14 @@
         "published": "Thu, 15 Oct 2026 07:06:21 -0400"
       },
       {
+        "source": "Medical Xpress",
+        "headline": "Social media detox research leaves youth mental health questions unresolved, review finds - Medical Xpress",
+        "summary": "Social media detox research leaves youth mental health questions unresolved, review finds Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlZSZ0RQS1pxeHNvd29ZN0JXbWNpZUtoN3BaeGI3dWo3S1pUZ2FoaDJTTkdyS2ltY0FIUWNadnFZVXFlaFF3QW5NY1hWMWVkd0tyMjZpNi1HZnhQZF84eTk5aXVjM0RYcEVvWTQ5dXBZdWF0amtFT1pHOXFjcHZXbg?oc=5",
+        "image": "",
+        "published": "Thu, 15 Oct 2026 12:20:09 GMT"
+      },
+      {
         "source": "Mental Health",
         "headline": "'Normal human emotions' are being diagnosed as mental health conditions, poll of experts reports - LBC",
         "summary": "'Normal human emotions' are being diagnosed as mental health conditions, poll of experts reports LBC",
@@ -397,14 +405,6 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVTBjaFlZbWI2THhkVU9wQ0VkR1J1UndfZEI4YTdFOHZoZjR0dGFFcXJpTHFOY1JkUHVmcVgyOFBIZzVxQmdUblpoME13UXN1U2ppWHlwaFB4bXhzSnYzM085OEF1UG9ZMk5zUkFwa3ZXTGJ1LUw1VlNETXVabGZpcmw1ejVaMklCV1drWGhFbXpIZU1Jak9GZ1NvZ29ydExuQWc?oc=5",
         "image": "",
         "published": "Thu, 15 Oct 2026 06:00:00 GMT"
-      },
-      {
-        "source": "Medical Xpress",
-        "headline": "NHS diagnoses may reach fewer than one in 15 south London teens with mental disorders - Medical Xpress",
-        "summary": "NHS diagnoses may reach fewer than one in 15 south London teens with mental disorders Medical Xpress",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsSEZ2SlJZMXQ5ZjBqUDUzNThZa0xPWVlxVURmNWloaWJ1am0tU2thdkJPdW5leU1NaDI4UGlKZXFlYlBoLXpDREtfRVNWbUdublJwMXdsUFdweEowNU95eHBpem53MFZnMHlicWU4RGRjXzFNUS1PR1JWQ2VkUQ?oc=5",
-        "image": "",
-        "published": "Thu, 15 Oct 2026 02:00:02 GMT"
       }
     ],
     "entertainment": [
@@ -441,14 +441,6 @@
         "published": "Wed, 14 Oct 2026 22:19:13 GMT"
       },
       {
-        "source": "Variety",
-        "headline": "Kirti Kulhari’s Production Debut ‘Kinaare’ to Premiere at Dharamshala, Rima Das’ ‘Not a Hero’ to Open Festival",
-        "summary": "Kirti Kulhari’s first feature as a producer, “Kinaare” (“Shores”), will premiere at the 15th Dharamshala International Film Festival (DIFF), which will open with Rima Das’ Berlin-awarded “Not a Hero.” The festival will run Oct. 29–Nov. 1 at the Tibetan Children’s Village in Upper Dharamshala, with an online edition to follow Nov. 2–9. Written and directed",
-        "url": "https://variety.com/2026/film/festivals/kirti-kulhari-kinaare-rima-das-not-a-hero-dharamshala-1236912276/",
-        "image": "https://variety.com/wp-content/uploads/2026/10/Kinaara.jpg",
-        "published": "Thu, 15 Oct 2026 06:30:00 +0000"
-      },
-      {
         "source": "Taylor Alert",
         "headline": "Taylor Swift - ABC News - Breaking News, Latest News and Videos",
         "summary": "Taylor Swift ABC News - Breaking News, Latest News and Videos",
@@ -471,6 +463,14 @@
         "url": "https://www.bbc.co.uk/news/articles/cx4g125d81djo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8969/live/87055b10-c7b1-11f1-b41f-d7a6cb474575.jpg",
         "published": "Wed, 14 Oct 2026 13:40:04 GMT"
+      },
+      {
+        "source": "Pitchfork",
+        "headline": "Summer Walker Sues Label and Management for Fraud",
+        "summary": "Walker, who is facing her own $50 million lawsuit from Interscope, accuses LVRN of fraud and breach of contract",
+        "url": "https://pitchfork.com/story/summer-walker-sues-label-and-management-for-fraud/",
+        "image": "https://media.pitchfork.com/photos/6acfaf2f75d631e933dbaca7/master/pass/summer-walker-sues-lvrn.jpg",
+        "published": "Wed, 14 Oct 2026 17:09:49 +0000"
       }
     ],
     "animals": [
