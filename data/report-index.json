@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-14.json",
-  "report_date": "2026-10-14",
-  "generated_at": "2026-10-14T15:50:39.251917+00:00",
-  "edition_count": 91,
+  "latest": "data/archive/2026-10-15.json",
+  "report_date": "2026-10-15",
+  "generated_at": "2026-10-15T11:36:41.385634+00:00",
+  "edition_count": 92,
   "editions": [
+    {
+      "report_date": "2026-10-15",
+      "generated_at": "2026-10-15T11:36:41.385634+00:00",
+      "path": "data/archive/2026-10-15.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Obama says drift towards extremism 'not inevitable'",
+        "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+        "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/d48f4dd0-c87b-11f1-bf46-d13a9e06695d.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-14",
       "generated_at": "2026-10-14T15:50:39.251917+00:00",
