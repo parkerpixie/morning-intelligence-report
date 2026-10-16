@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-15.json",
-  "report_date": "2026-10-15",
-  "generated_at": "2026-10-15T15:37:20.013183+00:00",
-  "edition_count": 92,
+  "latest": "data/archive/2026-10-16.json",
+  "report_date": "2026-10-16",
+  "generated_at": "2026-10-16T11:30:31.969249+00:00",
+  "edition_count": 93,
   "editions": [
+    {
+      "report_date": "2026-10-16",
+      "generated_at": "2026-10-16T11:30:31.969249+00:00",
+      "path": "data/archive/2026-10-16.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Republican incumbent Tony Wied faces Democrat Rick Crosson in northeast Wisconsin Congressional race",
+        "summary": "Republican Tony Wied of De Pere is running for reelection to represent northeast Wisconsin’s 8th Congressional District against Democrat Rick Crosson of Green Bay.",
+        "url": "https://www.wpr.org/news/republican-incumbent-tony-wied-democrat-rick-crosson-northeast-wisconsin-8th-congressional-district",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-15",
       "generated_at": "2026-10-15T15:37:20.013183+00:00",
