@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-16.json",
-  "report_date": "2026-10-16",
-  "generated_at": "2026-10-16T15:23:23.299608+00:00",
-  "edition_count": 93,
+  "latest": "data/archive/2026-10-17.json",
+  "report_date": "2026-10-17",
+  "generated_at": "2026-10-17T10:50:47.412930+00:00",
+  "edition_count": 94,
   "editions": [
+    {
+      "report_date": "2026-10-17",
+      "generated_at": "2026-10-17T10:50:47.412930+00:00",
+      "path": "data/archive/2026-10-17.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-16",
       "generated_at": "2026-10-16T15:23:23.299608+00:00",
