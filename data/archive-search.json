@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T11:47:04.059404+00:00",
+  "generated_at": "2026-10-17T13:01:22.584508+00:00",
   "edition_count": 94,
-  "story_count": 5850,
+  "story_count": 5851,
   "stories": [
-    {
-      "id": "2727d1daacce7964",
-      "source": "Ars Technica",
-      "headline": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
-      "published": "Fri, 16 Oct 2026 20:20:07 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
     {
       "id": "2de3bcb1fd3ccb7d",
       "source": "Variety",
@@ -141,6 +122,44 @@
       "appearances": 1
     },
     {
+      "id": "cabc2e394d94f226",
+      "source": "BBC Health",
+      "headline": "Why people who have never smoked are getting hooked on vapes",
+      "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de0/live/d89c4a70-ca03-11f1-a64c-550be9e3c66b.jpg",
+      "published": "Fri, 16 Oct 2026 23:49:16 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "dc01b1847cbecc8d",
+      "source": "Ars Technica",
+      "headline": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
+      "published": "Sat, 17 Oct 2026 11:00:21 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
       "id": "acb1196b85b63225",
       "source": "Positive News",
       "headline": "What went right this week: the good news that matters",
@@ -162,7 +181,7 @@
     },
     {
       "id": "c507644dc75c9549",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "What we learned from heated US midterm Senate debates",
       "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
@@ -180,16 +199,16 @@
       "appearances": 1
     },
     {
-      "id": "cabc2e394d94f226",
-      "source": "BBC Health",
-      "headline": "Vapes were meant to help people quit cigarettes. Now a million non-smokers are vaping",
-      "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ck62y33489zqo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de0/live/d89c4a70-ca03-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Fri, 16 Oct 2026 23:49:16 GMT",
+      "id": "5694fe39f8b4f910",
+      "source": "Reuters",
+      "headline": "Tunisians Stage Biggest Protest in Years Against President Saied - U.S. News & World Report",
+      "summary": "Tunisians Stage Biggest Protest in Years Against President Saied U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlxN2U4S0t6Nm4zbmJtRnBMZmpUTkExUS1Sdlc4d0VyenhzVUs2TFM0MTRoaXo5cXVrM3gyc0RFelRkQXBQT0xxdkRoenRpcml4UmZnb244b2ptYWUtYkdJTnZoSVdyMWd4Z1R6QW9jM0VOT24yWktFVEU5N2hHa0tDcVlsOGV6UVdzWVBwRVlFck8yV2FGbUVGel8wandCYU53ajBLMWI3NHNOclN6VlB1bTlsZlZUUVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUlxN2U4S0t6Nm4zbmJtRnBMZmpUTkExUS1Sdlc4d0VyenhzVUs2TFM0MTRoaXo5cXVrM3gyc0RFelRkQXBQT0xxdkRoenRpcml4UmZnb244b2ptYWUtYkdJTnZoSVdyMWd4Z1R6QW9jM0VOT24yWktFVEU5N2hHa0tDcVlsOGV6UVdzWVBwRVlFck8yV2FGbUVGel8wandCYU53ajBLMWI3NHNOclN6VlB1bTlsZlZUUVE",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 11:28:25 GMT",
       "sections": [
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-17"
@@ -199,27 +218,6 @@
       "appearances": 1
     },
     {
-      "id": "c01548905c013bcc",
-      "source": "BBC US & Canada",
-      "headline": "US police identify remains of man found in barrel in shrinking reservoir",
-      "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7e/live/a2c1a3c0-c8f8-11f1-8ea2-676e2a4fc394.jpg",
-      "published": "Fri, 16 Oct 2026 01:35:40 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-17",
-        "2026-10-16"
-      ],
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17",
-      "appearances": 2
-    },
-    {
       "id": "97246786d64be0b3",
       "source": "BBC World",
       "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -227,7 +225,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "published": "Sat, 17 Oct 2026 09:42:13 GMT",
+      "published": "Sat, 17 Oct 2026 11:56:06 GMT",
       "sections": [
         "big-story"
       ],
@@ -288,25 +286,6 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg",
       "published": "Sat, 17 Oct 2026 01:18:08 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
-    {
-      "id": "caec825459047c6d",
-      "source": "Audubon",
-      "headline": "The Pink Birds of North America - National Audubon Society",
-      "summary": "The Pink Birds of North America National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRG1fQVRCd2lQcG95Uk1yb050R1Y0ekQtdEs2SENBOWd2S21YXzB2R0FySzJva1FHRExZTVNNRjU0ZGJZR3JDVHI3X3Z2d0Nxd2RtM211WnJUcjB6U0hfaXVNNVpoc19Tcmc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRG1fQVRCd2lQcG95Uk1yb050R1Y0ekQtdEs2SENBOWd2S21YXzB2R0FySzJva1FHRExZTVNNRjU0ZGJZR3JDVHI3X3Z2d0Nxd2RtM211WnJUcjB6U0hfaXVNNVpoc19Tcmc",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 21:33:56 GMT",
       "sections": [
         "animals"
       ],
@@ -470,6 +449,25 @@
       "appearances": 1
     },
     {
+      "id": "a73522a3fefcaa29",
+      "source": "Ars Technica",
+      "headline": "Science says your boss should talk less in meetings",
+      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "canonical_url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
+      "published": "Sat, 17 Oct 2026 11:15:11 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
       "id": "e5e69d2e700b7ae8",
       "source": "Iterable",
       "headline": "Salesforce Marketing Cloud Migration to Iterable: Why Brands Switch and How to Move - Iterable",
@@ -548,6 +546,25 @@
       "appearances": 1
     },
     {
+      "id": "8f015b3e9d2dadf3",
+      "source": "BBC Health",
+      "headline": "Pope to be discharged days after lung cancer surgery",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8795/live/43b0cae0-ca20-11f1-a718-8f4bc8d2cdf5.jpg",
+      "published": "Sat, 17 Oct 2026 12:37:26 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
       "id": "aaf5ed21973e0ad9",
       "source": "Ars Technica",
       "headline": "Polymarket saw $600 million in election trades after the elections were over",
@@ -567,14 +584,33 @@
       "appearances": 1
     },
     {
-      "id": "591f482df54b4658",
-      "source": "Salesforce Marketing",
-      "headline": "Page 99 - Salesforce",
-      "summary": "Page 99 Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3BIWVNEWlI2X2d0VTl5THY4RWIyS3pXRElFaVJ3dnhxc29XQndVYjdtZkdVYTdDOGJNbnFmcXFwc1NObTNUdElmQWRSbDZpZ1dxWEEwQWxiRnJ5OXduVnh4bUxwX0hIUVJ4bk4tVktZWkE3T29OckNEVjRjRDhFTg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3BIWVNEWlI2X2d0VTl5THY4RWIyS3pXRElFaVJ3dnhxc29XQndVYjdtZkdVYTdDOGJNbnFmcXFwc1NObTNUdElmQWRSbDZpZ1dxWEEwQWxiRnJ5OXduVnh4bUxwX0hIUVJ4bk4tVktZWkE3T29OckNEVjRjRDhFTg",
+      "id": "888533486d5b6d3d",
+      "source": "NPR",
+      "headline": "Perspective: Midterm money madness",
+      "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+      "canonical_url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
       "image": "",
-      "published": "Fri, 16 Oct 2026 07:26:07 GMT",
+      "published": "Sat, 17 Oct 2026 08:00:00 -0400",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "d3891cd124e0ce3e",
+      "source": "Salesforce Marketing",
+      "headline": "Page 65 - Salesforce",
+      "summary": "Page 65 Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WWS11UWRnVTVEaWpsZlBxMExOX09ObS1HM1ZnMGNiSkdfbnBTYnB1SE9wMURLM2lzclV6R2dBS3laRHNDM01RMkdvU0tXdDNSdkp1elkwVTkxa29fb1VjQnlKR2ZfTkozNlNvY3ByVFNNTTkx?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WWS11UWRnVTVEaWpsZlBxMExOX09ObS1HM1ZnMGNiSkdfbnBTYnB1SE9wMURLM2lzclV6R2dBS3laRHNDM01RMkdvU0tXdDNSdkp1elkwVTkxa29fb1VjQnlKR2ZfTkozNlNvY3ByVFNNTTkx",
+      "image": "",
+      "published": "Fri, 16 Oct 2026 06:29:24 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -614,7 +650,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
       "published": "Fri, 16 Oct 2026 20:59:01 +0000",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-17"
@@ -738,25 +774,6 @@
       "appearances": 1
     },
     {
-      "id": "a59959fc81818dc7",
-      "source": "BBC US & Canada",
-      "headline": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg",
-      "published": "Thu, 15 Oct 2026 22:46:49 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
-    {
       "id": "4f56e5847bbee413",
       "source": "Mongabay",
       "headline": "Legal gaps allow rampant pet trade, poaching reptiles and amphibians towards extinction - news - Mongabay",
@@ -833,25 +850,6 @@
       "appearances": 1
     },
     {
-      "id": "4d3a0aea322fb33b",
-      "source": "BBC World",
-      "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
-      "published": "Fri, 16 Oct 2026 16:00:30 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
-    {
       "id": "cd06efc57fefbb0b",
       "source": "BBC Entertainment",
       "headline": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
@@ -873,25 +871,6 @@
       "appearances": 2
     },
     {
-      "id": "b0ececdd3ba96e05",
-      "source": "NPR",
-      "headline": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
-      "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-      "canonical_url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 13:45:16 -0400",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
-    {
       "id": "a8b0092608fb8c61",
       "source": "City of Madison",
       "headline": "Get Ready for the November Election 🗳️ - City of Madison, WI",
@@ -902,6 +881,25 @@
       "published": "Fri, 16 Oct 2026 14:19:23 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "8e22634dc2546a2e",
+      "source": "Reuters",
+      "headline": "Exotic Species Appear off California Thanks to an Unusually Strong El Niño - U.S. News & World Report",
+      "summary": "Exotic Species Appear off California Thanks to an Unusually Strong El Niño U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRS03bjNCX2h5UkJPd2x0SEI2bWQ3eEw3X0htMzZPWlNPUG1KMGNhS21CcTk1akcyeEI4QWdtek5VUGs5a1U0TlZDX1VsRFJielF1aFFFRmtCQ1hjV29TSXZSYU5RQWlBN2lRM2RSOENrdThISHV4bWVFZlVLd3VlSzZiU0xKcTdrMmdLRklHcnIwS0VEWkJ0U0RGWDF2d2Z1VXNscUx4MW4yd19YTXo3dGxDT3kzbVJfVjVoOTVXQ0xzM3VjR3F5Y0Q1TQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRS03bjNCX2h5UkJPd2x0SEI2bWQ3eEw3X0htMzZPWlNPUG1KMGNhS21CcTk1akcyeEI4QWdtek5VUGs5a1U0TlZDX1VsRFJielF1aFFFRmtCQ1hjV29TSXZSYU5RQWlBN2lRM2RSOENrdThISHV4bWVFZlVLd3VlSzZiU0xKcTdrMmdLRklHcnIwS0VEWkJ0U0RGWDF2d2Z1VXNscUx4MW4yd19YTXo3dGxDT3kzbVJfVjVoOTVXQ0xzM3VjR3F5Y0Q1TQ",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 10:05:00 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-17"
@@ -1046,25 +1044,6 @@
       "appearances": 1
     },
     {
-      "id": "4d12ec995802d775",
-      "source": "MarTech",
-      "headline": "Content everywhere: Winning attention in a fragmented marketing landscape",
-      "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.",
-      "url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/",
-      "canonical_url": "https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape",
-      "image": "https://martech.org/wp-content/uploads/2026/10/Creative-Chaos-800x450.png",
-      "published": "Fri, 16 Oct 2026 18:56:37 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
-    },
-    {
       "id": "9d357e7182e548bb",
       "source": "Variety",
       "headline": "Coen Brothers Bring Laughs to Lumière Award Ceremony as Javier Bardem Recalls ‘No Country for Old Men’: ‘They Gave Me One Masterpiece’",
@@ -1103,25 +1082,6 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-17",
       "appearances": 2
-    },
-    {
-      "id": "6508f97ae2bd393f",
-      "source": "Associated Press",
-      "headline": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - News4JAX",
-      "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGVBakpTZ04tdUZydi1RSW56TEFqYjB2ZFNfRlRhUkFqMERkM0dZcWpUQ2hyczdSSXVsWDk4dkVZc080ZXlNWHBXcmgwcHFPTDlaelpJREw3NDdKVHNLaUVfYzlfVWFCdV9CUTZPTTgtQXZrU0s3VkJLaXZ1QTRhd2JHNG9wVFZRM0l4ZjU1ZXN6emwxUTBDdFVMWU1ObnZWTm9keHl5SlM4S0FKZFFyS0VMMmlCX3ozcGpvREJvT0dIMk9NOFlpYkRMQmZHdDl0U09zdGxPdTI5cGFf?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGVBakpTZ04tdUZydi1RSW56TEFqYjB2ZFNfRlRhUkFqMERkM0dZcWpUQ2hyczdSSXVsWDk4dkVZc080ZXlNWHBXcmgwcHFPTDlaelpJREw3NDdKVHNLaUVfYzlfVWFCdV9CUTZPTTgtQXZrU0s3VkJLaXZ1QTRhd2JHNG9wVFZRM0l4ZjU1ZXN6emwxUTBDdFVMWU1ObnZWTm9keHl5SlM4S0FKZFFyS0VMMmlCX3ozcGpvREJvT0dIMk9NOFlpYkRMQmZHdDl0U09zdGxPdTI5cGFf",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 22:28:21 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "appearances": 1
     },
     {
       "id": "d12c6638df8bb64c",
@@ -1173,6 +1133,25 @@
       "published": "Sat, 17 Oct 2026 05:10:33 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "f65a7787936949d1",
+      "source": "Customer Data",
+      "headline": "Are Marketers Ready for Google Search That Answers Before Anyone Clicks? - CMSWire",
+      "summary": "Are Marketers Ready for Google Search That Answers Before Anyone Clicks? CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3FFWnhvd1UwUHBaaWRSMVBZZEJ2X1RtUDNlbVRJYkRFNWY0OXZscnNZblVoVXZ1Nk1NNkMyYm94cnZmZGRfM1RYaE90RnV0M0dfc01xOXRGS1AzX3VxSWRKM1BaZzBmTWxHTlhTNFVfaVFZam5QRXA0Q0VyT2VYOXNpdm9vREE2WWpFNWhnbHNQMExST0w1XzdSZG1LcnRvcDlzeV9SYVJXNm10S1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3FFWnhvd1UwUHBaaWRSMVBZZEJ2X1RtUDNlbVRJYkRFNWY0OXZscnNZblVoVXZ1Nk1NNkMyYm94cnZmZGRfM1RYaE90RnV0M0dfc01xOXRGS1AzX3VxSWRKM1BaZzBmTWxHTlhTNFVfaVFZam5QRXA0Q0VyT2VYOXNpdm9vREE2WWpFNWhnbHNQMExST0w1XzdSZG1LcnRvcDlzeV9SYVJXNm10S1E",
+      "image": "",
+      "published": "Fri, 16 Oct 2026 18:52:07 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-17"
@@ -1249,6 +1228,25 @@
       "published": "Fri, 16 Oct 2026 21:58:02 +0000",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "9629cd2f41888b28",
+      "source": "Associated Press",
+      "headline": "America’s politically divided Jewish community braces for Israel’s elections - WTOP News",
+      "summary": "America’s politically divided Jewish community braces for Israel’s elections WTOP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRG52cHZMckxXQ1RCM3pMbEwxd2FvMDZpQXc3ekUtVGVDdWRMdEhneDBFN1NELTk2a0tFY0dJRGRIYXlaV1dDWEo1SGxackw0V0czREpTQWJKSGxDSlFVdjQ4SmRlcmdpRkR5Z1NyaHd3NmF5WFJlS3hlUkZsWTZKSlpkcmwzY1VKRS1uTHExV2s3RzFqU3ZNRzhuR25HV0hCcU1NMzFadHNBdGlDN3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRG52cHZMckxXQ1RCM3pMbEwxd2FvMDZpQXc3ekUtVGVDdWRMdEhneDBFN1NELTk2a0tFY0dJRGRIYXlaV1dDWEo1SGxackw0V0czREpTQWJKSGxDSlFVdjQ4SmRlcmdpRkR5Z1NyaHd3NmF5WFJlS3hlUkZsWTZKSlpkcmwzY1VKRS1uTHExV2s3RzFqU3ZNRzhuR25HV0hCcU1NMzFadHNBdGlDN3c",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 11:17:54 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-17"
@@ -1480,6 +1478,25 @@
       "published": "Fri, 16 Oct 2026 11:00:24 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-10-16"
+      ],
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "appearances": 1
+    },
+    {
+      "id": "c01548905c013bcc",
+      "source": "BBC US & Canada",
+      "headline": "US police identify remains of man found in barrel in shrinking reservoir",
+      "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago.",
+      "url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7e/live/a2c1a3c0-c8f8-11f1-8ea2-676e2a4fc394.jpg",
+      "published": "Fri, 16 Oct 2026 01:35:40 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-16"
