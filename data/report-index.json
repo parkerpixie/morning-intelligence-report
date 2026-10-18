@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-17.json",
-  "report_date": "2026-10-17",
-  "generated_at": "2026-10-17T14:13:59.050465+00:00",
-  "edition_count": 94,
+  "latest": "data/archive/2026-10-18.json",
+  "report_date": "2026-10-18",
+  "generated_at": "2026-10-18T11:15:04.100011+00:00",
+  "edition_count": 95,
   "editions": [
+    {
+      "report_date": "2026-10-18",
+      "generated_at": "2026-10-18T11:15:04.100011+00:00",
+      "path": "data/archive/2026-10-18.json",
+      "top_story": {
+        "source": "Associated Press",
+        "headline": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day - Beloit Daily News",
+        "summary": "Hurricane warning: Miami poised for No. 1 after 5 of the top 7 teams lose in historic Top 25 day Beloit Daily News",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOejl3ZXZtSXlJeUkydDNOY1pyUWVJZ0cyVl9xdFJCR25kWTVKczVoWnpnSlBzWThhN2ZyVTZ1LXZHa3RZWkcwSk1mc0NsNmhaMk5nYXNKek83bXdjMzNoaE1LbmR6bWlyTVF2VnJFOHVjS0czVHdGdllNaFpHN19KclBhWmdLN3dtME5oYkdSMEtxSUd3MmZYRW1KVldsQjdHNzN5MGc5Q2xsUnp1eXFVcDgwQzZUb0x2S2NRakg2WXBRaVJrQ2tNVmxSaGVRVnRSdlZXZFQ2SjV1UU9yVXR5d2g0bl9fa0t3cUZXNWxhOXNqdjRhd3RscXI5VENIMWZMcWc?oc=5",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-17",
       "generated_at": "2026-10-17T14:13:59.050465+00:00",
