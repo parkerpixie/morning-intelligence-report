@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T13:16:34.548837+00:00",
+  "generated_at": "2026-10-21T14:32:27.872050+00:00",
   "edition_count": 98,
-  "story_count": 6101,
+  "story_count": 6105,
   "stories": [
     {
       "id": "3d66bd6565625182",
@@ -31,7 +31,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg",
-      "published": "Wed, 21 Oct 2026 11:47:01 GMT",
+      "published": "Wed, 21 Oct 2026 13:47:51 GMT",
       "sections": [
         "entertainment"
       ],
@@ -64,26 +64,23 @@
       "appearances": 2
     },
     {
-      "id": "cf058b3287ad5b39",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
-      "summary": "Wisconsin Election 2026: Key Races and Historical Presidential Election Results NBC News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LXVQNkpxaU5MZkdHTU5YbS1jbm83VzlEUnI2TFVRSWFzdmZ0a2hmcV9vOW9sWFlYWDBucWlJYmhDbHFvTVlzVm9FUHhVNk1HSmNTTXJWOGZGTXhiWVNKMGxBanNqUFZEcl80QXNrVmZZWkk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LXVQNkpxaU5MZkdHTU5YbS1jbm83VzlEUnI2TFVRSWFzdmZ0a2hmcV9vOW9sWFlYWDBucWlJYmhDbHFvTVlzVm9FUHhVNk1HSmNTTXJWOGZGTXhiWVNKMGxBanNqUFZEcl80QXNrVmZZWkk",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 05:30:21 GMT",
+      "id": "715098c2d2f0ff68",
+      "source": "MarTech",
+      "headline": "When the CMO sees growth and the CFO sees a problem",
+      "summary": "Should you increase media spend, hold steady, or pull back? Look at who's buying, what's driving sales, and how much value they add.",
+      "url": "https://martech.org/when-the-cmo-sees-growth-and-the-cfo-sees-a-problem/",
+      "canonical_url": "https://martech.org/when-the-cmo-sees-growth-and-the-cfo-sees-a-problem",
+      "image": "https://martech.org/wp-content/uploads/2026/05/worry-confidence-trust-problems-800x450.png",
+      "published": "Wed, 21 Oct 2026 12:40:00 +0000",
       "sections": [
-        "local",
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
-        "2026-10-21",
-        "2026-10-19",
-        "2026-09-25"
+        "2026-10-21"
       ],
-      "first_seen": "2026-09-25",
+      "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
-      "appearances": 3
+      "appearances": 1
     },
     {
       "id": "acb1196b85b63225",
@@ -107,25 +104,6 @@
       "appearances": 3
     },
     {
-      "id": "9e076fa491de1498",
-      "source": "Salesforce",
-      "headline": "What Does Salesforce’s Braze Deal Mean for Marketing Cloud Customers? - CMSWire",
-      "summary": "What Does Salesforce’s Braze Deal Mean for Marketing Cloud Customers? CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEY0SU9pVVRlMmUzWWpSRTR2NDhjazV0dUJiTkkxZEc5N1Yza3p1UDM4U0FJS2Mxbm5zRTdGZDlIQTJfTHlKWUloY0NsZ3FfV2I4LUl3ZWNOV1haZEdXX1IwaF8wZjRuU2RSX0p3TjE5dGlZTG5sVE1tVm93OTIxczRuM2RRc2VlbjZfa2t1VFJQYXp6Zk1wOEsxUUJOam5WUXZlVFdMS09JWFJuUldhcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEY0SU9pVVRlMmUzWWpSRTR2NDhjazV0dUJiTkkxZEc5N1Yza3p1UDM4U0FJS2Mxbm5zRTdGZDlIQTJfTHlKWUloY0NsZ3FfV2I4LUl3ZWNOV1haZEdXX1IwaF8wZjRuU2RSX0p3TjE5dGlZTG5sVE1tVm93OTIxczRuM2RRc2VlbjZfa2t1VFJQYXp6Zk1wOEsxUUJOam5WUXZlVFdMS09JWFJuUldhcw",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 20:58:13 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
       "id": "3750b1dc2960b467",
       "source": "Medical Xpress",
       "headline": "What does a healthy brain look like? It depends on the company you keep - Medical Xpress",
@@ -145,35 +123,16 @@
       "appearances": 1
     },
     {
-      "id": "6d429c29400112c8",
-      "source": "Pitchfork",
-      "headline": "Wendy Eisenberg Shares 30-Minute Song, Announces New Band With More Eaze",
-      "summary": "Whait will release their debut LP in February",
-      "url": "https://pitchfork.com/story/wendy-eisenberg-shares-two-reworked-songs-featuring-trevor-dunn-more-eaze/",
-      "canonical_url": "https://pitchfork.com/story/wendy-eisenberg-shares-two-reworked-songs-featuring-trevor-dunn-more-eaze",
-      "image": "https://media.pitchfork.com/photos/6ad6e88f1f643551dddda3fa/master/pass/Wendy%20Eisenberg,%20photo%20by%20Eleanor%20Petry.jpg",
-      "published": "Wed, 21 Oct 2026 12:59:31 +0000",
+      "id": "489705a1a6db1e47",
+      "source": "Variety",
+      "headline": "Warner Music Group Combines Music and Publishing Sync Operations",
+      "summary": "Warner Music Group has announced a plan to combine its global sync operations, bringing together its recorded music and publishing divisions into a single unit. The streamlined group will be led by industry vet Ron Broitman, who has been promoted to President of Global Sync. Based in Los Angeles he will report to recently appointed",
+      "url": "https://variety.com/2026/music/news/warner-music-combines-music-publishing-sync-operations-1236918656/",
+      "canonical_url": "https://variety.com/2026/music/news/warner-music-combines-music-publishing-sync-operations-1236918656",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Ron-Broitman_2021_Approved-Headshot-2-e1792592862303.jpg",
+      "published": "Wed, 21 Oct 2026 14:27:48 +0000",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "da700d3170361f77",
-      "source": "Marketing Ops",
-      "headline": "Webflow Campaigns Brings On-Brand Landing Pages, Ads and Analytics - CMSWire",
-      "summary": "Webflow Campaigns Brings On-Brand Landing Pages, Ads and Analytics CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHBRZ0JLTl9wdjFQMHRPU2ZhVktlUkd3MERpY3pWYi14Yzgya1Uya2ZBVG1tMEpEQmsyWDRua25SY2RBSkxEUG1EcmdBMDJ6UF9yVkttdW9OZzExTjJCZTRKd0FOdmxmcy1IbjZMcUVHck5LN1lZTHZWOWdFVVJycHE5QlVHV2ZUU3piWUR3T0RjZHRNRkEycXdn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHBRZ0JLTl9wdjFQMHRPU2ZhVktlUkd3MERpY3pWYi14Yzgya1Uya2ZBVG1tMEpEQmsyWDRua25SY2RBSkxEUG1EcmdBMDJ6UF9yVkttdW9OZzExTjJCZTRKd0FOdmxmcy1IbjZMcUVHck5LN1lZTHZWOWdFVVJycHE5QlVHV2ZUU3piWUR3T0RjZHRNRkEycXdn",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 21:21:14 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -202,33 +161,14 @@
       "appearances": 1
     },
     {
-      "id": "b0fccb4eaede72d7",
-      "source": "Dane County",
-      "headline": "UW Health adds 250 jobs, 6 operating rooms in major East Madison Hospital expansion - WKOW",
-      "summary": "UW Health adds 250 jobs, 6 operating rooms in major East Madison Hospital expansion WKOW",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObDZiN2FEWXBTdmdQV29IN05UbXdXZkJ1Y2JKZjUtOGt0MW0waURBMFYtT0VRY1VlVDMxQXMxcERfSjJwazhKSDNBVEQwdFhwYk15WlFlRENQdmF3NXI1SkktcW9xUTNTcDZPY3ZYZS01NUZlSGE1d204cFNBdU1WQW0yRzE0UVczWHlFSXZGNUoxel9fX3Z6TlBDZ3ZNNjFZOTlXMUNzekNueWdtREtCZmdCdzl0Q2pJQzN5OEdMcmhXdVNldTFUcGNERGp1WUpQeEdvallEaUlOR1RPSWYzU3Vmczdzcktwa2dZYTQtbw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObDZiN2FEWXBTdmdQV29IN05UbXdXZkJ1Y2JKZjUtOGt0MW0waURBMFYtT0VRY1VlVDMxQXMxcERfSjJwazhKSDNBVEQwdFhwYk15WlFlRENQdmF3NXI1SkktcW9xUTNTcDZPY3ZYZS01NUZlSGE1d204cFNBdU1WQW0yRzE0UVczWHlFSXZGNUoxel9fX3Z6TlBDZ3ZNNjFZOTlXMUNzekNueWdtREtCZmdCdzl0Q2pJQzN5OEdMcmhXdVNldTFUcGNERGp1WUpQeEdvallEaUlOR1RPSWYzU3Vmczdzcktwa2dZYTQtbw",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 06:39:48 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "78ed9a65e67b331c",
-      "source": "Reuters",
-      "headline": "UN Sees Higher Global Warming, Even in Best-Case Scenario - U.S. News & World Report",
-      "summary": "UN Sees Higher Global Warming, Even in Best-Case Scenario U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2J3THFaNG8zRnBLSFVIbnpsQXlOVFMxMEJxaEtYWEFxN3VSQjBleld0dkx0SllLbnVvWks0WlF1RHlfV2NkeUhmMFh6VVFab3JtdmJIZkVObkNZUGdwbmhxNjZxUURiZDlGQlVwdFBGRnBJNW9yUzVNNDhOaHdpMDZqUmlvQVBraFg3bkROOXJlVXdOeHY3YTBoY1pNNFF1ajAzekx2RExxeDZ2NmFR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2J3THFaNG8zRnBLSFVIbnpsQXlOVFMxMEJxaEtYWEFxN3VSQjBleld0dkx0SllLbnVvWks0WlF1RHlfV2NkeUhmMFh6VVFab3JtdmJIZkVObkNZUGdwbmhxNjZxUURiZDlGQlVwdFBGRnBJNW9yUzVNNDhOaHdpMDZqUmlvQVBraFg3bkROOXJlVXdOeHY3YTBoY1pNNFF1ajAzekx2RExxeDZ2NmFR",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 05:01:00 GMT",
+      "id": "cca5fe90b7129828",
+      "source": "BBC World",
+      "headline": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg",
+      "published": "Wed, 21 Oct 2026 13:49:50 GMT",
       "sections": [
         "must-know"
       ],
@@ -335,27 +275,6 @@
       "appearances": 1
     },
     {
-      "id": "21cd99d8f3843e5b",
-      "source": "Smithsonian",
-      "headline": "This Dog Learned to Sniff Out a Slimy Marine Invader Called 'Sea Vomit'—a Skill That Earned Her the Animal of the Year Award",
-      "summary": "Sgiath, a 6-year-old Labrador from the Scottish Highlands, received the honor from the International Fund for Animal Welfare. She's believed to be the first pup trained to hunt for the invasive carpet sea squirt, which is threatening marine life along the British coast and elsewhere",
-      "url": "https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/hx7NyzqUIqfbAxiSthCC530GCzI=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/0d/b10d3281-4d6e-4572-95fa-40934e26c5ac/whatsapp_image_2026-10-14_at_113349.jpeg",
-      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "sections": [
-        "animals",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-21",
-        "2026-10-20"
-      ],
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21",
-      "appearances": 2
-    },
-    {
       "id": "d67f07b7cec28a13",
       "source": "AI News",
       "headline": "The ‘Zuck has entered the building … Meta says its new AI models on par with OpenAI, Anthropic - IOL",
@@ -395,16 +314,16 @@
       "appearances": 2
     },
     {
-      "id": "025929c095c86af9",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift’s Chiefs Game Outfit Included a Striking Designer Turtleneck — This $18 Top at Amazon Is a Close Match - People.com",
-      "summary": "Taylor Swift’s Chiefs Game Outfit Included a Striking Designer Turtleneck — This $18 Top at Amazon Is a Close Match People.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pX3dlVFQ4eHhYeGJMVmlDa1NGQVY5Z2dqNDlVT0ZlUGl5aVJwY1NKb00zS3RQMnJHbTdHbU9vMm9yOURPaXRyWFF1bHRoQkl1d095MFhIY01qN1AzZUpwX1Y4RjN5VkxiTnA3cHl5RWVtcHM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pX3dlVFQ4eHhYeGJMVmlDa1NGQVY5Z2dqNDlVT0ZlUGl5aVJwY1NKb00zS3RQMnJHbTdHbU9vMm9yOURPaXRyWFF1bHRoQkl1d095MFhIY01qN1AzZUpwX1Y4RjN5VkxiTnA3cHl5RWVtcHM",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 15:07:00 GMT",
+      "id": "365b1bf391b9161d",
+      "source": "MarTech",
+      "headline": "The creative cost of chasing small performance gains",
+      "summary": "Small performance gains can lead to big strategic distractions. Creative judgment and long-term business goals matter more than chasing metrics.",
+      "url": "https://martech.org/the-creative-cost-of-chasing-small-performance-gains/",
+      "canonical_url": "https://martech.org/the-creative-cost-of-chasing-small-performance-gains",
+      "image": "https://martech.org/wp-content/uploads/2026/03/person-at-a-crossroads-choosing-between-what-he-likes-and-the-unknown-800x450.png",
+      "published": "Wed, 21 Oct 2026 12:41:00 +0000",
       "sections": [
-        "entertainment"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -414,14 +333,14 @@
       "appearances": 1
     },
     {
-      "id": "e9f0a8da7d679ec1",
+      "id": "025929c095c86af9",
       "source": "Taylor Fashion",
-      "headline": "Taylor Swift Joined by Caitlin Clark at Sunday’s Chiefs Game - Billboard",
-      "summary": "Taylor Swift Joined by Caitlin Clark at Sunday’s Chiefs Game Billboard",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0xsOU9sYTlkT0tZbGU1ZTU4UjEwUXN0Xy1EZm4ta1BDLVhrRW42WURSMXlCbGd5U1pxaWZ2REFzV2RqME1saGxvcFNZUjlqM0FtMU5VUHlyNE9XMFJfaE1ZVEEwekpFeGEwWkxLSkpkWENSOTV4a1E4aDBDS2tqQ3JvelVuNmpDZG5WNkpaaFdWVmVJY3EtVw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0xsOU9sYTlkT0tZbGU1ZTU4UjEwUXN0Xy1EZm4ta1BDLVhrRW42WURSMXlCbGd5U1pxaWZ2REFzV2RqME1saGxvcFNZUjlqM0FtMU5VUHlyNE9XMFJfaE1ZVEEwekpFeGEwWkxLSkpkWENSOTV4a1E4aDBDS2tqQ3JvelVuNmpDZG5WNkpaaFdWVmVJY3EtVw",
+      "headline": "Taylor Swift’s Chiefs Game Outfit Included a Striking Designer Turtleneck — This $18 Top at Amazon Is a Close Match - People.com",
+      "summary": "Taylor Swift’s Chiefs Game Outfit Included a Striking Designer Turtleneck — This $18 Top at Amazon Is a Close Match People.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pX3dlVFQ4eHhYeGJMVmlDa1NGQVY5Z2dqNDlVT0ZlUGl5aVJwY1NKb00zS3RQMnJHbTdHbU9vMm9yOURPaXRyWFF1bHRoQkl1d095MFhIY01qN1AzZUpwX1Y4RjN5VkxiTnA3cHl5RWVtcHM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pX3dlVFQ4eHhYeGJMVmlDa1NGQVY5Z2dqNDlVT0ZlUGl5aVJwY1NKb00zS3RQMnJHbTdHbU9vMm9yOURPaXRyWFF1bHRoQkl1d095MFhIY01qN1AzZUpwX1Y4RjN5VkxiTnA3cHl5RWVtcHM",
       "image": "",
-      "published": "Sun, 18 Oct 2026 23:31:07 GMT",
+      "published": "Mon, 19 Oct 2026 15:07:00 GMT",
       "sections": [
         "entertainment"
       ],
@@ -471,6 +390,25 @@
       "appearances": 1
     },
     {
+      "id": "940080bc0abb6663",
+      "source": "B2B Marketing Ops",
+      "headline": "Storyteq’s New CMO Knows Why Marketers Need Connected Content Operations — LBB - LBB - Little Black Book",
+      "summary": "Storyteq’s New CMO Knows Why Marketers Need Connected Content Operations — LBB LBB - Little Black Book",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHZKdDZCOEcwWUFueHdJaGxiekhycE5pR2pveS1LVWR6NVRwM1B1SkRkelYxNFd1cXhpRW0tdG9jSGFlMU5aVGNSWXYyUXFlMlROWkNqaVJzQUc5TDdoRGxrZjJIRjNYd3BsMlo3bUdoanpnVGRqQlVWU1JqN1JfOXhEWXVtV1k2R3gxQUxFLU9ITl9OLTk5bjY5RENnZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHZKdDZCOEcwWUFueHdJaGxiekhycE5pR2pveS1LVWR6NVRwM1B1SkRkelYxNFd1cXhpRW0tdG9jSGFlMU5aVGNSWXYyUXFlMlROWkNqaVJzQUc5TDdoRGxrZjJIRjNYd3BsMlo3bUdoanpnVGRqQlVWU1JqN1JfOXhEWXVtV1k2R3gxQUxFLU9ITl9OLTk5bjY5RENnZw",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 11:27:48 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
       "id": "cbf2fceb775aebcf",
       "source": "Wisconsin Public Radio",
       "headline": "Steil, Berman spar on key issues ahead of Wisconsin’s 1st Congressional District election",
@@ -499,7 +437,7 @@
       "image": "",
       "published": "Wed, 21 Oct 2026 08:47:22 GMT",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-21"
@@ -528,6 +466,25 @@
       "appearances": 1
     },
     {
+      "id": "ee2a2edff98d40a6",
+      "source": "UW-Madison Science",
+      "headline": "Software Engineer - University of Wisconsin–Madison",
+      "summary": "Software Engineer University of Wisconsin–Madison",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1lNGVadk50STc3UmhCTVU0aHNsS1VadDJQSmtMaHE0Nk5IU1RlcTljamFGZ0JWb3ZtVXZ4aWdHa21HREtkVjJtNXRlekdwcXBmcHB2cVlvNGJsczNCb3M3eHhJQmcyOHhsZVVOdDlvR3FhQ0U3MUNqck0zSUJYa0xRbm51OFQ0bnJ5VUhlTmtjM0hKaGh3b2IyU3pucHJZYWNTWm1GRXB2QTF5TFdxZGg4Yw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1lNGVadk50STc3UmhCTVU0aHNsS1VadDJQSmtMaHE0Nk5IU1RlcTljamFGZ0JWb3ZtVXZ4aWdHa21HREtkVjJtNXRlekdwcXBmcHB2cVlvNGJsczNCb3M3eHhJQmcyOHhsZVVOdDlvR3FhQ0U3MUNqck0zSUJYa0xRbm51OFQ0bnJ5VUhlTmtjM0hKaGh3b2IyU3pucHJZYWNTWm1GRXB2QTF5TFdxZGg4Yw",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 16:28:22 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
       "id": "786f9512c55438f5",
       "source": "BBC Health",
       "headline": "Second Labour MP suspended over Covid loan repayments",
@@ -547,10 +504,29 @@
       "appearances": 1
     },
     {
+      "id": "c2f5623c9855e0f4",
+      "source": "Variety",
+      "headline": "Screen Brasil Backs International Distribution of Oscar Hopeful ‘Gugu’s World’ and Gramado Winner ‘Our Secret’ (EXCLUSIVE)",
+      "summary": "Screen Brasil, the leading initiative from Embratur and Projeto Paradiso designed to boost the international distribution of Brazilian features, has selected two standout Brazilian films as their next recipients: Allan Deberton’s “Gugu’s World” and Grace Passô’s “Our Secret.” The selection was announced today at a panel held during the Industry Days of the São Paulo",
+      "url": "https://variety.com/2026/film/global/screen-brasil-gugus-world-our-secret-recipients-1236918468/",
+      "canonical_url": "https://variety.com/2026/film/global/screen-brasil-gugus-world-our-secret-recipients-1236918468",
+      "image": "https://variety.com/wp-content/uploads/2026/02/VARIETY-SIZING-18.png",
+      "published": "Wed, 21 Oct 2026 14:30:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
       "id": "293349ca63c5b5f4",
       "source": "Good News Network",
       "headline": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
-      "summary": "Researchers at ETH Zurich have found a practical new method that breaks down acrylic glass—better known as Plexiglas—almost entirely into its original building blocks, making high-quality recycling realistic and affordable for the first time. Acrylic glass shows up in everyday products like windows, car taillights, furniture and protective barriers. Most of it has ended up",
+      "summary": "Researchers at ETH Zurich have found a practical new method that breaks down acrylic glass—known by the brand name Plexiglas—almost entirely into its original building blocks, making high-quality recycling realistic and affordable for the first time. Acrylic glass shows up in everyday products like windows, car taillights, furniture, and protective barriers. Most of it has",
       "url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
       "canonical_url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material",
       "image": "",
@@ -566,14 +542,14 @@
       "appearances": 1
     },
     {
-      "id": "78ca8f7bdfc25dcd",
+      "id": "82bfeb44d63e2520",
       "source": "Salesforce",
-      "headline": "Salesforce to acquire marketing automation provider Braze for $5.66B - SiliconANGLE",
-      "summary": "Salesforce to acquire marketing automation provider Braze for $5.66B SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbG4xSXBJOWRNNHkyN2RHendSaG1RS2w5TlV2blNOdC1oclBianllckJJQkd5dklHNGNsQ2FxcjB0aldUT1JURURhNWpoRjFoSk9DbzY5X1lmZFJ5VmJNVjR0MTdXRjlMaXNYRVB3MFJYZTQyMy1vT0U0VjdZVVd0OEk0THBMR09LSUZoQ3NJMDYwUVlQdjhJSWp2bVVoNERUaWJhdUVVRQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbG4xSXBJOWRNNHkyN2RHendSaG1RS2w5TlV2blNOdC1oclBianllckJJQkd5dklHNGNsQ2FxcjB0aldUT1JURURhNWpoRjFoSk9DbzY5X1lmZFJ5VmJNVjR0MTdXRjlMaXNYRVB3MFJYZTQyMy1vT0U0VjdZVVd0OEk0THBMR09LSUZoQ3NJMDYwUVlQdjhJSWp2bVVoNERUaWJhdUVVRQ",
+      "headline": "Salesforce to Buy Braze for $5.66B — Contracts, Pricing and What Comes Next - TechRepublic",
+      "summary": "Salesforce to Buy Braze for $5.66B — Contracts, Pricing and What Comes Next TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVWTTJNazQxdE9mZHNJSFpGZm54VDJyZTgwQlEydDdHQXJyckhCNC02cjJwOFpxc2otUEtjcXVGVkl4V2ptT3RxRENVbmVyU2JIUGRSUkxDdloxcnIyV1BqSVY1WlotMmNLMU5FUFNVUXZyYXdyZkFULXVqVEcwWm9mNXEyOW5Tb3ItTi1jMDI?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVWTTJNazQxdE9mZHNJSFpGZm54VDJyZTgwQlEydDdHQXJyckhCNC02cjJwOFpxc2otUEtjcXVGVkl4V2ptT3RxRENVbmVyU2JIUGRSUkxDdloxcnIyV1BqSVY1WlotMmNLMU5FUFNVUXZyYXdyZkFULXVqVEcwWm9mNXEyOW5Tb3ItTi1jMDI",
       "image": "",
-      "published": "Tue, 20 Oct 2026 20:23:00 GMT",
+      "published": "Wed, 21 Oct 2026 13:54:31 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -588,32 +564,13 @@
       "id": "b491990b72d414db",
       "source": "NPR",
       "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-      "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+      "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
       "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
       "canonical_url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
       "image": "",
       "published": "Wed, 21 Oct 2026 06:20:50 -0400",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "c9da77f5aa4f462f",
-      "source": "Mental Health",
-      "headline": "RMIT and its partners connect global knowledge on school health and safety. - Vietnam.vn",
-      "summary": "RMIT and its partners connect global knowledge on school health and safety. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWNhU1p6bzB4T01tZ25RSzNtalRMYXloVUZhbzUyOHJPT2VTcllndWRjeVJLaEExdTFsYmxBUkN3bDdaREZXTTJWU0Q0UlRtTDQ4SFBpR1d5eHB3Y2FqOWxnRnJHRmQ3VzBhb28wNHBtdGJ1anZncGNNb3FOOU9YZ1YwMk5oTzdVSTdja0JwLS1tVl8xb2FJOHkwXzcwZFp2dHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWNhU1p6bzB4T01tZ25RSzNtalRMYXloVUZhbzUyOHJPT2VTcllndWRjeVJLaEExdTFsYmxBUkN3bDdaREZXTTJWU0Q0UlRtTDQ4SFBpR1d5eHB3Y2FqOWxnRnJHRmQ3VzBhb28wNHBtdGJ1anZncGNNb3FOOU9YZ1YwMk5oTzdVSTdja0JwLS1tVl8xb2FJOHkwXzcwZFp2dHc",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 09:39:00 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -642,14 +599,14 @@
       "appearances": 1
     },
     {
-      "id": "6ce1516836abcd65",
-      "source": "Adweek",
-      "headline": "Pitch Deck: Cuttable Raises $20M to Turn Brands’ Photos and Videos Into Meta Ads - ADWEEK",
-      "summary": "Pitch Deck: Cuttable Raises $20M to Turn Brands’ Photos and Videos Into Meta Ads ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3VqMVBORnRiUjJ2aElURFhIbWx5Y1dEcHZiZ1J2RXBaemxuQThuZE1Ed0Y1UXlLbHctV0VZbE9NWWh6aGhYc0FCdW9fUzgyWnFTUlFWOUZoTFlmTG1TeTU5YmVFSW9fd3BlUDRZTGVpcEZBRlI1Q3RJMl8tMmFmR045MDh0bHY5VDhCZXFRd3Ffd3Z4NUgyaGlZdG0tb3pGV19QYk1BMXBtcHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3VqMVBORnRiUjJ2aElURFhIbWx5Y1dEcHZiZ1J2RXBaemxuQThuZE1Ed0Y1UXlLbHctV0VZbE9NWWh6aGhYc0FCdW9fUzgyWnFTUlFWOUZoTFlmTG1TeTU5YmVFSW9fd3BlUDRZTGVpcEZBRlI1Q3RJMl8tMmFmR045MDh0bHY5VDhCZXFRd3Ffd3Z4NUgyaGlZdG0tb3pGV19QYk1BMXBtcHc",
+      "id": "42c145d611b3284d",
+      "source": "Marketing Ops",
+      "headline": "Process Analytics Market Projected to Reach $25.97 Billion by 2030 Driven by Robust Industry Expansion - EIN News",
+      "summary": "Process Analytics Market Projected to Reach $25.97 Billion by 2030 Driven by Robust Industry Expansion EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTmVkNXJIbVNXYTdJQk5VcnFxcmZvQWhZaXl4RUQ0a2Q5c1A5eHZBNVo5ZG9jSHItM1J4MEdnMjhINEFqX010R3hFY1RDbXB3azQ2X3hOWWE0RDRXOHBVY1ROaGotdlhrak5qRjUtLVd2MklTSzhza09ETUtkOV8tV2xVSEQ1d0V0Y3RIVUpMNDNEVW1EekZtd0ZpQVBmWHlQSVJaMmI2ZmNuODBkQklNdlBMalo0YXJlUi1ZMHRScjBLdXRwWG9laExNR19BbkRwRWRKRU9BZ29hdmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTmVkNXJIbVNXYTdJQk5VcnFxcmZvQWhZaXl4RUQ0a2Q5c1A5eHZBNVo5ZG9jSHItM1J4MEdnMjhINEFqX010R3hFY1RDbXB3azQ2X3hOWWE0RDRXOHBVY1ROaGotdlhrak5qRjUtLVd2MklTSzhza09ETUtkOV8tV2xVSEQ1d0V0Y3RIVUpMNDNEVW1EekZtd0ZpQVBmWHlQSVJaMmI2ZmNuODBkQklNdlBMalo0YXJlUi1ZMHRScjBLdXRwWG9laExNR19BbkRwRWRKRU9BZ29hdmc",
       "image": "",
-      "published": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "published": "Wed, 21 Oct 2026 14:00:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -669,44 +626,6 @@
       "canonical_url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
       "published": "Wed, 21 Oct 2026 02:12:18 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "d0301832ab21a09b",
-      "source": "Marketing Ops",
-      "headline": "Pharma 4.0 Market Size, Share & Forecast Report [2026-2034] - Fortune Business Insights",
-      "summary": "Pharma 4.0 Market Size, Share & Forecast Report [2026-2034] Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWVNlTFFZQURlNmh4RFF1UE03V1RpMHVmYmdyNVozRU1fR1Z3VWVCa0VaR2RrU1BIUGFOMTJRQzZMdHpzWVcxTGhNMnNVXzRNcml6c214VkxhYUo5WXUzV1VVUXlhdHNkRS1kT0thQllTZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWVNlTFFZQURlNmh4RFF1UE03V1RpMHVmYmdyNVozRU1fR1Z3VWVCa0VaR2RrU1BIUGFOMTJRQzZMdHpzWVcxTGhNMnNVXzRNcml6c214VkxhYUo5WXUzV1VVUXlhdHNkRS1kT0thQllTZw",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 04:27:57 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "15a07b4abbb1286d",
-      "source": "Reuters",
-      "headline": "OpenAI says its AI agents weakened internal monitoring system - Reuters",
-      "summary": "OpenAI says its AI agents weakened internal monitoring system Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 02:37:00 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -756,6 +675,25 @@
       "appearances": 1
     },
     {
+      "id": "f04a58e5ceabeeff",
+      "source": "The Verge",
+      "headline": "Now Serato DJ works on your iPhone",
+      "summary": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its",
+      "url": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+      "canonical_url": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+      "image": "",
+      "published": "2026-10-21T09:51:31-04:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
       "id": "424dab0a5ef91a33",
       "source": "AI News",
       "headline": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Motley Fool",
@@ -777,6 +715,25 @@
       "appearances": 2
     },
     {
+      "id": "76fa43f0475a0735",
+      "source": "BBC World",
+      "headline": "Nigeria confirms Ebola case linked to East Africa",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ac/live/3b3288b0-cd3e-11f1-bc2e-018d645d8d21.png",
+      "published": "Wed, 21 Oct 2026 12:39:34 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
       "id": "328c61926d11313c",
       "source": "Variety",
       "headline": "Neiman Marcus’s Luxe 2026 Holiday Offerings Include $180,000 ‘Star Wars’ Experience",
@@ -786,7 +743,26 @@
       "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-3.05.32-PM.png",
       "published": "Wed, 21 Oct 2026 13:00:00 +0000",
       "sections": [
-        "entertainment"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "8ec84c56e9df7094",
+      "source": "NPR",
+      "headline": "Morning news brief",
+      "summary": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes.",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+      "canonical_url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 04:42:59 -0400",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-10-21"
@@ -832,46 +808,6 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "appearances": 1
-    },
-    {
-      "id": "6111103437e3e47b",
-      "source": "BBC Entertainment",
-      "headline": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "summary": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e183/live/2c8eab40-c9bf-11f1-ae9f-bf0ab88aba90.jpg",
-      "published": "Sat, 17 Oct 2026 01:34:52 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-21",
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
-      "appearances": 2
-    },
-    {
-      "id": "f46d3049796ac70d",
-      "source": "Smithsonian",
-      "headline": "Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body",
-      "summary": "Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation",
-      "url": "https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/_6nJz2iFkN-vz_BnrWzBkMlSVZM=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/4f/1b4fb679-695a-4912-9732-1c428708606d/microplastics.jpg",
-      "published": "Fri, 16 Oct 2026 17:03:22 +0000",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-21",
-        "2026-10-17"
-      ],
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
-      "appearances": 2
     },
     {
       "id": "a054bcdb27918d02",
@@ -931,16 +867,35 @@
       "appearances": 1
     },
     {
-      "id": "1914d382d16b0db0",
-      "source": "Wisconsin News",
-      "headline": "Legislative study committee begins work on Wisconsin floodplain restoration - News From The States",
-      "summary": "Legislative study committee begins work on Wisconsin floodplain restoration News From The States",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVJ6eXlIZ0Q3bkhTalViOWdKX0Q5ckNyRlZRZm5RWXFhLW9XUncyMVhzLWhOUmtUQjRzNEdDbGRNRDZUZjJOVHd5X3YwTmhiQlRkLWVXd3JKS25xdk11SmpZdG1lTWtHVGpRa2Y1OUJibEQ0R3EwYjBPUlQ5WDNaOXhpZnJTR3ktLVJvNlE0bHlDeVJhVmU5U1FmTFl6ckRyb19TMWg1OURwSjdOT09SNHppMTI?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVJ6eXlIZ0Q3bkhTalViOWdKX0Q5ckNyRlZRZm5RWXFhLW9XUncyMVhzLWhOUmtUQjRzNEdDbGRNRDZUZjJOVHd5X3YwTmhiQlRkLWVXd3JKS25xdk11SmpZdG1lTWtHVGpRa2Y1OUJibEQ0R3EwYjBPUlQ5WDNaOXhpZnJTR3ktLVJvNlE0bHlDeVJhVmU5U1FmTFl6ckRyb19TMWg1OURwSjdOT09SNHppMTI",
+      "id": "25f81d0648b07cbb",
+      "source": "Wisconsin Public Radio",
+      "headline": "Madison Common Council fires interim police monitor",
+      "summary": "The vote to fire Aeiramique “Meeka\" Glass came more than 12 hours into a contentious public meeting.",
+      "url": "https://www.wpr.org/news/madison-common-council-fires-interim-police-monitor",
+      "canonical_url": "https://www.wpr.org/news/madison-common-council-fires-interim-police-monitor",
       "image": "",
-      "published": "Wed, 21 Oct 2026 07:13:31 GMT",
+      "published": "Wed, 21 Oct 2026 13:50:23 +0000",
       "sections": [
-        "local"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "60041794c0bde1aa",
+      "source": "Reuters",
+      "headline": "Kenya confirms new Ebola case, total at nine, health ministry says - Reuters",
+      "summary": "Kenya confirms new Ebola case, total at nine, health ministry says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkFibW94Q3BMMDZuM1ZwaWFsTndxRUZ1V3VFd1NIdzdZUk15T2phOExKLVpMeHhfaTlrY3hjbWJQWmo2OHlGUDl4aXZVY3otVU5NdFI4VTU0SUJTVzRPOHNyVzlvd2tIa19kYlVsOENjMXdaNXVPdUEzZ1RTTXlkT28wMTQ4RTd2MHR2RHhnb3ktbWhvMThYRnhyMUIwTE9aNElJTmQ3VlltWWpmSlRGbkJBekZyekhtRGZKYXZCbldrNWlXWThBQU81Q3RZQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkFibW94Q3BMMDZuM1ZwaWFsTndxRUZ1V3VFd1NIdzdZUk15T2phOExKLVpMeHhfaTlrY3hjbWJQWmo2OHlGUDl4aXZVY3otVU5NdFI4VTU0SUJTVzRPOHNyVzlvd2tIa19kYlVsOENjMXdaNXVPdUEzZ1RTTXlkT28wMTQ4RTd2MHR2RHhnb3ktbWhvMThYRnhyMUIwTE9aNElJTmQ3VlltWWpmSlRGbkJBekZyekhtRGZKYXZCbldrNWlXWThBQU81Q3RZQQ",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 15:41:55 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -969,16 +924,16 @@
       "appearances": 1
     },
     {
-      "id": "6559d9cb2b558fef",
-      "source": "The Verge",
-      "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "image": "",
-      "published": "2026-10-20T19:04:19-04:00",
+      "id": "df9a835ec4db31f6",
+      "source": "MarTech",
+      "headline": "It’s time to re-think voice of the customer programs",
+      "summary": "Traditional customer surveys, endless feedback requests, and Net Promoter Scores (NPS) are failing both consumers and brands. What should modern companies do instead.",
+      "url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs/",
+      "canonical_url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs",
+      "image": "https://www.youtube.com/embed/ACb8WZKIE4g",
+      "published": "Wed, 21 Oct 2026 13:25:20 +0000",
       "sections": [
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -998,6 +953,44 @@
       "published": "Wed, 21 Oct 2026 09:00:00 +0000",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "582338746b09437c",
+      "source": "Wisconsin News",
+      "headline": "How to watch the only Wisconsin governor debate before Nov. 3 election - Milwaukee Journal Sentinel",
+      "summary": "How to watch the only Wisconsin governor debate before Nov. 3 election Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWpQRWtoOThVVnBBNTVNMDZ1NG42MVdfODM0XzhaVEpXdE1UdWR5RlNaT25FUDhuU242MTVKbWN6SFM0T1BLOFptb3RqaG9RVjVSMGplQjdlYXlxTnFTZ1JYLWtacEZJdmU1MHBOejYxSWw0bXBpZ2t1aXplT2xZeERFS1lIMXRyazBwTXFOaHNuUnh5NDNUTGNvT2tmLW5vRDRUdFJOU0QtenB5SlhmMUJvV2RiNmhM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWpQRWtoOThVVnBBNTVNMDZ1NG42MVdfODM0XzhaVEpXdE1UdWR5RlNaT25FUDhuU242MTVKbWN6SFM0T1BLOFptb3RqaG9RVjVSMGplQjdlYXlxTnFTZ1JYLWtacEZJdmU1MHBOejYxSWw0bXBpZ2t1aXplT2xZeERFS1lIMXRyazBwTXFOaHNuUnh5NDNUTGNvT2tmLW5vRDRUdFJOU0QtenB5SlhmMUJvV2RiNmhM",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 10:07:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "c33149f9b3afab60",
+      "source": "Mental Health",
+      "headline": "How Israel’s war on Lebanon has cost young people with autism and ADHD - Al Jazeera",
+      "summary": "How Israel’s war on Lebanon has cost young people with autism and ADHD Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRml2SVJIUTU1dHR0TTY4T1VHQTNzeVBFbjJESVdxa3NfTGFmWldXZHNsY05IOUYyTGxfSGdwZHVaS2FQZFZPUk9KamRiZXpGSWp2U0huU3JsUXpPMkF0c05UWUt5OW9EUTJWX3JOanNoQnhzX1hkYmVha3hXSEN3T2l3MzA2Q0l4ZjBuY0pZTEd2ZDExQzZQYXE3Q3lRNWpwNVlPUjRmLWFRQTZJd284dGUwcULSAboBQVVfeXFMTTVjOW5RenpOUVliU2xZcG81OXVha0xrYVRiNGtoSTR0aUlZYmVVOVJlcWFUaDlaeWtBN2ktaEtEVlIybEFmVVFVS04wNWczc3JFdzBwS1BENW5vejlPTlFWYUhwYUd6WThnWU05UkdwbjRaZjhDdTJVanhTMnFFZjVBTTRrd0gwY1p4SmF0bUM1Nlk3Q2VxRjNxS1N0dkp6QjZQTzNObkxfdXFKbTlHd21RWE15QjFiSVlB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRml2SVJIUTU1dHR0TTY4T1VHQTNzeVBFbjJESVdxa3NfTGFmWldXZHNsY05IOUYyTGxfSGdwZHVaS2FQZFZPUk9KamRiZXpGSWp2U0huU3JsUXpPMkF0c05UWUt5OW9EUTJWX3JOanNoQnhzX1hkYmVha3hXSEN3T2l3MzA2Q0l4ZjBuY0pZTEd2ZDExQzZQYXE3Q3lRNWpwNVlPUjRmLWFRQTZJd284dGUwcULSAboBQVVfeXFMTTVjOW5RenpOUVliU2xZcG81OXVha0xrYVRiNGtoSTR0aUlZYmVVOVJlcWFUaDlaeWtBN2ktaEtEVlIybEFmVVFVS04wNWczc3JFdzBwS1BENW5vejlPTlFWYUhwYUd6WThnWU05UkdwbjRaZjhDdTJVanhTMnFFZjVBTTRrd0gwY1p4SmF0bUM1Nlk3Q2VxRjNxS1N0dkp6QjZQTzNObkxfdXFKbTlHd21RWE15QjFiSVlB",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 13:38:50 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -1066,16 +1059,16 @@
       "appearances": 1
     },
     {
-      "id": "680776b55748508f",
-      "source": "Medical Xpress",
-      "headline": "Fitness tracker data could offer clues about future brain health - Medical Xpress",
-      "summary": "Fitness tracker data could offer clues about future brain health Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjBiSEQ2N2NQX1VIQjdUZndBLW9KS21KSXAtdVZyQXhGclg1NlRxVkh3dVJ0OWNZQndBOFFnREZFakF0WWRTUWk5eThXVDFIV2FQQ1pOZUFsV083NWtRVnpUOEJwN1FyUURBVVVEUGJkSXhfS1R4Z29JbUhuQmVsazFMSQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjBiSEQ2N2NQX1VIQjdUZndBLW9KS21KSXAtdVZyQXhGclg1NlRxVkh3dVJ0OWNZQndBOFFnREZFakF0WWRTUWk5eThXVDFIV2FQQ1pOZUFsV083NWtRVnpUOEJwN1FyUURBVVVEUGJkSXhfS1R4Z29JbUhuQmVsazFMSQ",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 00:20:02 GMT",
+      "id": "f5a90137b98dc938",
+      "source": "Variety",
+      "headline": "Gay Bodybuilder Romance ‘Test’ Acquired by Dark Star Pictures (EXCLUSIVE)",
+      "summary": "“Test,” the award-winning gay bodybuilding drama from director Sam McConnell, has been acquired by Dark Star Pictures for U.S. and Canadian distribution. Written by and starring Brock Yurich (“Goat”), the film also features Tammy Blanchard (“Into the Woods”), Matthew Morrison (“Glee”), Paloma Garcia-Lee (“West Side Story”), Evan Hall (“Orange Is the New Black”) and Mike",
+      "url": "https://variety.com/2026/film/columns/gay-bodybuilder-romance-test-acquired-dark-star-pictures-1236916876/",
+      "canonical_url": "https://variety.com/2026/film/columns/gay-bodybuilder-romance-test-acquired-dark-star-pictures-1236916876",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Test_Still2-1000.jpg",
+      "published": "Wed, 21 Oct 2026 14:30:00 +0000",
       "sections": [
-        "wellbeing"
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-21"
@@ -1142,14 +1135,33 @@
       "appearances": 1
     },
     {
-      "id": "fddfddbf73384afb",
-      "source": "AI News",
-      "headline": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026] - shattered.io",
-      "summary": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026] shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERNc0tRaVcxc2JFR2pHQU1JcHRkZk5ySTVXUHlsOFhxaE5mdGJjOTY5ek9HQTFNdzVzQmtpcFY5LTlEako5aHRPSnBXdmg1ZVZ0N0JpRUEyS1dma28xUF9IdEVxRnM1ZjB3eHpMSGhjb1dlc0JvYmtBYjJqQmsxWTN3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERNc0tRaVcxc2JFR2pHQU1JcHRkZk5ySTVXUHlsOFhxaE5mdGJjOTY5ek9HQTFNdzVzQmtpcFY5LTlEako5aHRPSnBXdmg1ZVZ0N0JpRUEyS1dma28xUF9IdEVxRnM1ZjB3eHpMSGhjb1dlc0JvYmtBYjJqQmsxWTN3",
+      "id": "2749ce92e66d79e2",
+      "source": "Reuters",
+      "headline": "Cyber Agency Warns Websites May Go Dark as PHP Prepares Critical Fix - U.S. News & World Report",
+      "summary": "Cyber Agency Warns Websites May Go Dark as PHP Prepares Critical Fix U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U",
       "image": "",
-      "published": "Wed, 21 Oct 2026 00:26:32 GMT",
+      "published": "Wed, 21 Oct 2026 07:28:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "87190410aee5b7f2",
+      "source": "MarTech",
+      "headline": "ChatGPT has plenty of advertisers, but not much revenue",
+      "summary": "OpenAI has expanded access, lowered costs, and added targeting tools, but advertiser growth hasn’t yet translated into enough revenue.",
+      "url": "https://martech.org/chatgpt-has-plenty-of-advertisers-but-not-much-revenue/",
+      "canonical_url": "https://martech.org/chatgpt-has-plenty-of-advertisers-but-not-much-revenue",
+      "image": "https://martech.org/wp-content/uploads/2026/08/openai-chatgpt-logo-800x450.png",
+      "published": "Wed, 21 Oct 2026 12:25:00 +0000",
       "sections": [
         "ai-tech"
       ],
@@ -1161,16 +1173,35 @@
       "appearances": 1
     },
     {
-      "id": "2749ce92e66d79e2",
-      "source": "Reuters",
-      "headline": "Cyber Agency Warns Websites May Go Dark as PHP Prepares Critical Fix - U.S. News & World Report",
-      "summary": "Cyber Agency Warns Websites May Go Dark as PHP Prepares Critical Fix U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU5rYVZ4ejVmbW52RjJyNTdfQ0NwamtoYVRScERldFEtTGFjNkZ2ejc1Q0ZQbkFYTXdnWml1dGxWRmlhZTVPUWNoT3BhdjF3WGFPR1VoYVppZGhjRGk2cmphSXVnVU5ENXZ6LW1TSzNELTItVDdwdzNSSG96Ujg2WnBlV2x5eXN2Y2VEV3hYdHNfbG5MVnZoek9wT2YxbWtuN0oxclNRUTRVRFpUYS12WGF5eG5kblRObmFaU0RxeEtsU0U",
+      "id": "7b7c1ef095b26125",
+      "source": "Mental Health",
+      "headline": "Brain & Behavior Research Foundation Announces 2026 Outstanding Achievement Prizewinners - GlobeNewswire",
+      "summary": "Brain & Behavior Research Foundation Announces 2026 Outstanding Achievement Prizewinners GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbERveWRVU3drNWh6elZscWVyajBMLVBaMjhENmY2aVUxaGdtRVAxTXpYTVdFOURpeHVhR01sUFFYbi01UDNXcVFtNkhFVXR6Ui01X0hfcGVEY1U3bjBNWHlrYURmdldFbU1jUlJjeEtXd2hVcVZJZEFGWWY3ZVVTazREOUNQSDlYSHZyQjNSM1hCdmV1NUZqY3dRV3FIajNoZEdMUWZOYkZGWWF0dDZJVlZrTjd5SUdxZHl5a3hsSWkzYm9lRnhyVk5wQTIycFl1eGZvUU9vSlBVUDY1NHhJT0tEUEFBYTB5VWFkUHc2VQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbERveWRVU3drNWh6elZscWVyajBMLVBaMjhENmY2aVUxaGdtRVAxTXpYTVdFOURpeHVhR01sUFFYbi01UDNXcVFtNkhFVXR6Ui01X0hfcGVEY1U3bjBNWHlrYURmdldFbU1jUlJjeEtXd2hVcVZJZEFGWWY3ZVVTazREOUNQSDlYSHZyQjNSM1hCdmV1NUZqY3dRV3FIajNoZEdMUWZOYkZGWWF0dDZJVlZrTjd5SUdxZHl5a3hsSWkzYm9lRnhyVk5wQTIycFl1eGZvUU9vSlBVUDY1NHhJT0tEUEFBYTB5VWFkUHc2VQ",
       "image": "",
-      "published": "Wed, 21 Oct 2026 07:28:00 GMT",
+      "published": "Wed, 21 Oct 2026 14:00:00 GMT",
       "sections": [
-        "must-know"
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-21"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "appearances": 1
+    },
+    {
+      "id": "a8e387ee0a19cdeb",
+      "source": "Pitchfork",
+      "headline": "Bassvictim Readying Second Album of the Year",
+      "summary": "Listen to “White Flag” from the UK duo’s Peace + War",
+      "url": "https://pitchfork.com/story/bassvictim-readying-second-album-of-the-year/",
+      "canonical_url": "https://pitchfork.com/story/bassvictim-readying-second-album-of-the-year",
+      "image": "https://media.pitchfork.com/photos/6ad8c33a9ceb3db2205ac073/master/pass/bassvictim.jpeg",
+      "published": "Wed, 21 Oct 2026 14:12:23 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-10-21"
@@ -1218,25 +1249,6 @@
       "appearances": 1
     },
     {
-      "id": "3329dd66e968d2ab",
-      "source": "BBC Entertainment",
-      "headline": "Ali G is back. But is the character past its sell-by date?",
-      "summary": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8805/live/ba1e83f0-be4c-11f1-8828-9d9deece30a1.jpg",
-      "published": "Wed, 21 Oct 2026 06:43:31 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
       "id": "2b422fb1ba210c56",
       "source": "BBC World",
       "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
@@ -1247,25 +1259,6 @@
       "published": "Tue, 20 Oct 2026 22:22:17 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-21"
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "appearances": 1
-    },
-    {
-      "id": "01f940b9cc591a8e",
-      "source": "Klaviyo",
-      "headline": "Age gating: SMS marketing for alcohol merchants - Klaviyo",
-      "summary": "Age gating: SMS marketing for alcohol merchants Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ZG5qdzRia3N4ZU5VU2I2OVNXSHExbmFrMG9tVkU0YkswQzVrOWNhbGF1dkxFbnVJRjZDWnU3Vm1kQ0RKVTZjcXNjeS1BYmU4LV9rV242aWREaU1KRkd6Q0t4QTA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ZG5qdzRia3N4ZU5VU2I2OVNXSHExbmFrMG9tVkU0YkswQzVrOWNhbGF1dkxFbnVJRjZDWnU3Vm1kQ0RKVTZjcXNjeS1BYmU4LV9rV242aWREaU1KRkd6Q0t4QTA",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 10:25:42 GMT",
-      "sections": [
-        "work-marketing"
       ],
       "report_dates": [
         "2026-10-21"
@@ -1315,7 +1308,7 @@
     {
       "id": "ab3ffe9abb870e76",
       "source": "Good News Network",
-      "headline": "10-Year-Old Dog Found after a Month Lost in Yellowstone",
+      "headline": "10-Year-Old Dog Found After a Month Lost in Yellowstone",
       "summary": "A 10-year-old Jack Russell terrier named Luna was happily reunited with her owners after surviving more than a month on her own in Yellowstone National Park.⁠ Luna escaped on Sept. 10 from a locked cabin in the Canyon Village area. Her owners, who were visiting from California, had left her inside with a “Do not",
       "url": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
       "canonical_url": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone",
@@ -1712,6 +1705,25 @@
       "published": "2026-10-20T09:11:23-04:00",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-10-20"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "appearances": 1
+    },
+    {
+      "id": "21cd99d8f3843e5b",
+      "source": "Smithsonian",
+      "headline": "This Dog Learned to Sniff Out a Slimy Marine Invader Called 'Sea Vomit'—a Skill That Earned Her the Animal of the Year Award",
+      "summary": "Sgiath, a 6-year-old Labrador from the Scottish Highlands, received the honor from the International Fund for Animal Welfare. She's believed to be the first pup trained to hunt for the invasive carpet sea squirt, which is threatening marine life along the British coast and elsewhere",
+      "url": "https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/hx7NyzqUIqfbAxiSthCC530GCzI=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/0d/b10d3281-4d6e-4572-95fa-40934e26c5ac/whatsapp_image_2026-10-14_at_113349.jpeg",
+      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-20"
@@ -2713,6 +2725,26 @@
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
       "appearances": 1
+    },
+    {
+      "id": "cf058b3287ad5b39",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
+      "summary": "Wisconsin Election 2026: Key Races and Historical Presidential Election Results NBC News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LXVQNkpxaU5MZkdHTU5YbS1jbm83VzlEUnI2TFVRSWFzdmZ0a2hmcV9vOW9sWFlYWDBucWlJYmhDbHFvTVlzVm9FUHhVNk1HSmNTTXJWOGZGTXhiWVNKMGxBanNqUFZEcl80QXNrVmZZWkk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LXVQNkpxaU5MZkdHTU5YbS1jbm83VzlEUnI2TFVRSWFzdmZ0a2hmcV9vOW9sWFlYWDBucWlJYmhDbHFvTVlzVm9FUHhVNk1HSmNTTXJWOGZGTXhiWVNKMGxBanNqUFZEcl80QXNrVmZZWkk",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 14:30:21 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-10-19",
+        "2026-09-25"
+      ],
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-10-19",
+      "appearances": 2
     },
     {
       "id": "d63cf64806caca2c",
@@ -5775,6 +5807,44 @@
       "published": "Fri, 16 Oct 2026 18:30:38 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "6111103437e3e47b",
+      "source": "BBC Entertainment",
+      "headline": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+      "summary": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e183/live/2c8eab40-c9bf-11f1-ae9f-bf0ab88aba90.jpg",
+      "published": "Sat, 17 Oct 2026 01:34:52 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-17"
+      ],
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "appearances": 1
+    },
+    {
+      "id": "f46d3049796ac70d",
+      "source": "Smithsonian",
+      "headline": "Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body",
+      "summary": "Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation",
+      "url": "https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_6nJz2iFkN-vz_BnrWzBkMlSVZM=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/4f/1b4fb679-695a-4912-9732-1c428708606d/microplastics.jpg",
+      "published": "Fri, 16 Oct 2026 17:03:22 +0000",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-10-17"
