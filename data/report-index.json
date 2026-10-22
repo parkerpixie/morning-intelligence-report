@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-21.json",
-  "report_date": "2026-10-21",
-  "generated_at": "2026-10-21T15:58:34.893265+00:00",
-  "edition_count": 98,
+  "latest": "data/archive/2026-10-22.json",
+  "report_date": "2026-10-22",
+  "generated_at": "2026-10-22T11:59:27.645564+00:00",
+  "edition_count": 99,
   "editions": [
+    {
+      "report_date": "2026-10-22",
+      "generated_at": "2026-10-22T11:59:27.645564+00:00",
+      "path": "data/archive/2026-10-22.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Crowley, Tiffany spar over taxes, data centers and abortion in only debate of governor’s race",
+        "summary": "Over the course of a sometimes contentious, sometimes awkward hour, the two candidates for Wisconsin governor sparred over taxes, data centers and abortion in the only debate of their general election campaign Wednesday night.",
+        "url": "https://www.wpr.org/news/crowley-tiffany-wisconsin-governors-debate-2026-taxes-data-centers-abortion",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-21",
       "generated_at": "2026-10-21T15:58:34.893265+00:00",
