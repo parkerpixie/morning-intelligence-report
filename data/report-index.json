@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-22.json",
-  "report_date": "2026-10-22",
-  "generated_at": "2026-10-22T15:54:14.181401+00:00",
-  "edition_count": 99,
+  "latest": "data/archive/2026-10-23.json",
+  "report_date": "2026-10-23",
+  "generated_at": "2026-10-23T11:45:21.687173+00:00",
+  "edition_count": 100,
   "editions": [
+    {
+      "report_date": "2026-10-23",
+      "generated_at": "2026-10-23T11:45:21.687173+00:00",
+      "path": "data/archive/2026-10-23.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+        "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eeb/live/c8bb2ad0-cec3-11f1-a701-fddedf244c16.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-22",
       "generated_at": "2026-10-22T15:54:14.181401+00:00",
