@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-23.json",
-  "report_date": "2026-10-23",
-  "generated_at": "2026-10-23T15:45:58.540064+00:00",
-  "edition_count": 100,
+  "latest": "data/archive/2026-10-24.json",
+  "report_date": "2026-10-24",
+  "generated_at": "2026-10-24T11:09:26.221686+00:00",
+  "edition_count": 101,
   "editions": [
+    {
+      "report_date": "2026-10-24",
+      "generated_at": "2026-10-24T11:09:26.221686+00:00",
+      "path": "data/archive/2026-10-24.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Trump administration sues to block certification of upcoming Alaska election",
+        "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+        "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-23",
       "generated_at": "2026-10-23T15:45:58.540064+00:00",
