@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T13:23:35.302522+00:00",
+  "generated_at": "2026-10-24T14:38:25.853940+00:00",
   "edition_count": 101,
-  "story_count": 6302,
+  "story_count": 6300,
   "stories": [
     {
       "id": "3d66bd6565625182",
@@ -55,25 +55,6 @@
       "image": "",
       "published": "Sat, 24 Oct 2026 10:00:24 +0000",
       "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
-      "id": "ac755d5918f901a5",
-      "source": "BBC World",
-      "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
-      "published": "Sat, 24 Oct 2026 09:46:53 GMT",
-      "sections": [
         "quick-scan"
       ],
       "report_dates": [
@@ -82,27 +63,6 @@
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
       "appearances": 1
-    },
-    {
-      "id": "50b48ae1e5d4e09b",
-      "source": "BBC US & Canada",
-      "headline": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
-      "summary": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/735d40d0-cec0-11f1-ae9c-0303957c36f8.jpg",
-      "published": "Fri, 23 Oct 2026 13:52:33 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-24",
-        "2026-10-23"
-      ],
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "appearances": 2
     },
     {
       "id": "cf058b3287ad5b39",
@@ -240,25 +200,6 @@
       "appearances": 1
     },
     {
-      "id": "e2ad640daf306338",
-      "source": "Associated Press",
-      "headline": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast - AP News",
-      "summary": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 03:08:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
       "id": "6643f32ed82d5f61",
       "source": "Ars Technica",
       "headline": "Updated Google privacy policy says your Gmail might be used for advertising",
@@ -278,23 +219,25 @@
       "appearances": 1
     },
     {
-      "id": "dfe2a38c3123b495",
-      "source": "BBC World",
-      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
-      "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "id": "65ca9108ccc351bc",
+      "source": "Madison365",
+      "headline": "Universities of Wisconsin names three finalists for system president - Madison365",
+      "summary": "Universities of Wisconsin names three finalists for system president Madison365",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3dIZzd3aVVPUEhITDJmMDVCX1VlTnVmczIzQWQtWXpvRVRPVTB3UWZ6YVN0OWt1SURTUHpZU2p0NmRtYVMtd0xPbnlUZWp3MlJkVmlsU3d0UHhEbE45MjRTX0pJaVA1WXBVYmZnak5mT1JZb3NWX1NNQ09pdWo0QmoyN3VHaGFhNTF3dGJzeDRud0h5d0Uw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3dIZzd3aVVPUEhITDJmMDVCX1VlTnVmczIzQWQtWXpvRVRPVTB3UWZ6YVN0OWt1SURTUHpZU2p0NmRtYVMtd0xPbnlUZWp3MlJkVmlsU3d0UHhEbE45MjRTX0pJaVA1WXBVYmZnak5mT1JZb3NWX1NNQ09pdWo0QmoyN3VHaGFhNTF3dGJzeDRud0h5d0Uw",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 10:46:41 GMT",
       "sections": [
+        "local",
         "quick-scan"
       ],
       "report_dates": [
-        "2026-10-24"
+        "2026-10-24",
+        "2026-10-23"
       ],
-      "first_seen": "2026-10-24",
+      "first_seen": "2026-10-23",
       "last_seen": "2026-10-24",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "f0aa26dc3f9b3b41",
@@ -316,25 +259,6 @@
       "appearances": 1
     },
     {
-      "id": "ce339042a0d5501e",
-      "source": "AI News",
-      "headline": "UK Commits £100M to AI Biosecurity Lab, £200M in OpenAI/Anthropic Credits - Techi",
-      "summary": "UK Commits £100M to AI Biosecurity Lab, £200M in OpenAI/Anthropic Credits Techi",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUloweGN6TUZEdFZja0Q3eUtUNFA1R3FnaXMxd3JWeDhZbEUwZlhsajk4XzRxeTVWc1RFdXR4VG1IUGM3d3B4Unc1b290RHV4N3Ezc0cwTEo3dEQ3N2RHUGdWaWpRNkNNVTJTb0RnM056aGZDVGhmazh3RzI2OUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUloweGN6TUZEdFZja0Q3eUtUNFA1R3FnaXMxd3JWeDhZbEUwZlhsajk4XzRxeTVWc1RFdXR4VG1IUGM3d3B4Unc1b290RHV4N3Ezc0cwTEo3dEQ3N2RHUGdWaWpRNkNNVTJTb0RnM056aGZDVGhmazh3RzI2OUE",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 03:49:00 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
       "id": "f68cf414657151d7",
       "source": "NPR",
       "headline": "U.S. birth rate drops to record low, but older women are having more babies",
@@ -345,25 +269,6 @@
       "published": "Sat, 24 Oct 2026 06:00:00 -0400",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
-      "id": "104da80b2a252925",
-      "source": "Reuters",
-      "headline": "Trump's diesel price relief efforts grow costlier as election nears - Reuters",
-      "summary": "Trump's diesel price relief efforts grow costlier as election nears Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3AwOWFSMUtfNXFVU01WekJVSDBWbHlRSC1CLS1GOGZJak5qeXRXclpHMF8xM2pzNVpXaGthMkRXMEZidWFuRU5UTVY5d3BvNjZHTUxIdzB1RnZWbnNFWXlMWHFFX1JrZllMNjN2dDZfZ1pNaDZmNkpxckRFRFdLOUlnZGt6X3FQaGs3VGRrZllULXdtVHB4SlpzYzlIdktfbW8xTy1UeVVTdjk5LWxLOUpkTURodw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3AwOWFSMUtfNXFVU01WekJVSDBWbHlRSC1CLS1GOGZJak5qeXRXclpHMF8xM2pzNVpXaGthMkRXMEZidWFuRU5UTVY5d3BvNjZHTUxIdzB1RnZWbnNFWXlMWHFFX1JrZllMNjN2dDZfZ1pNaDZmNkpxckRFRFdLOUlnZGt6X3FQaGs3VGRrZllULXdtVHB4SlpzYzlIdktfbW8xTy1UeVVTdjk5LWxLOUpkTURodw",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 20:49:10 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-10-24"
@@ -402,25 +307,6 @@
       "published": "Sat, 24 Oct 2026 06:08:58 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
-      "id": "d68885668f3fc0fd",
-      "source": "NPR",
-      "headline": "This decade has been missing its big-impact midterm",
-      "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-      "canonical_url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 05:00:00 -0400",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-10-24"
@@ -489,6 +375,26 @@
       "appearances": 3
     },
     {
+      "id": "b8d82cc46ede1a8c",
+      "source": "Taylor Alert",
+      "headline": "Taylor Swift is Coming for That Oscar Unless Netflix Pulls of a Miracle - Awards Daily",
+      "summary": "Taylor Swift is Coming for That Oscar Unless Netflix Pulls of a Miracle Awards Daily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDdGVlRUdE5HeldLT04xSi0xVUNHVjlkZ1VST2xaR005TXUtX04tamt2S085STRyM21kdDdaQlRGcUlQSG9IWlVvaWhqWWgyMHgwNWNWYi1JbmZWQ2EzWFVGbUV3SGVOeFdTdWQ4Y3BYcHlnOUxNUEJGWDBEZ05qQVZ5SnVuSlJwLXBtQnotVW9tTThsdF81eC10a1lxNEtzQndjWEZrWktKUGFCcFp6dg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDdGVlRUdE5HeldLT04xSi0xVUNHVjlkZ1VST2xaR005TXUtX04tamt2S085STRyM21kdDdaQlRGcUlQSG9IWlVvaWhqWWgyMHgwNWNWYi1JbmZWQ2EzWFVGbUV3SGVOeFdTdWQ4Y3BYcHlnOUxNUEJGWDBEZ05qQVZ5SnVuSlJwLXBtQnotVW9tTThsdF81eC10a1lxNEtzQndjWEZrWktKUGFCcFp6dg",
+      "image": "",
+      "published": "Sun, 18 Oct 2026 19:26:38 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-24",
+        "2026-10-20"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-24",
+      "appearances": 2
+    },
+    {
       "id": "215b513f36abd016",
       "source": "BBC World",
       "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
@@ -527,14 +433,14 @@
       "appearances": 1
     },
     {
-      "id": "0d6eaae978c8031d",
-      "source": "Klaviyo",
-      "headline": "Simplify your customer experience: lead capture with Shop for Klaviyo forms - Klaviyo",
-      "summary": "Simplify your customer experience: lead capture with Shop for Klaviyo forms Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRllZRnljLWNYMFExMWN4UVBVMkRNS3pmcUhDNG1GWDJzWGVtU3ktaENYM3hwcHdaUTZmOTdHQ0pqdnB1NXhQUi1NYjB6UUVhdUVOSzlTUFl1UktQYml4MDNHa09VTjBCZDNBdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRllZRnljLWNYMFExMWN4UVBVMkRNS3pmcUhDNG1GWDJzWGVtU3ktaENYM3hwcHdaUTZmOTdHQ0pqdnB1NXhQUi1NYjB6UUVhdUVOSzlTUFl1UktQYml4MDNHa09VTjBCZDNBdw",
+      "id": "4a0e7cf077c03f65",
+      "source": "Adweek",
+      "headline": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO - ADWEEK",
+      "summary": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENfOTBUSVNQSDFWWlFoZEpYaHhTaGxqcU94ckRUWE4wZWt3UHd6QUYtZkZwaU1oQWVIb1lCMTRLNWxXVmsxX0M5MFJrcjhuTi1TLVJuV3dBS0xYSEZBWGVkdWNzQnZ5N2NJd0pJZ3Z2enFxLUx1aEdWb0xUZFhvek5CTUJUMzZ3eW1PdzNXTkhuQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENfOTBUSVNQSDFWWlFoZEpYaHhTaGxqcU94ckRUWE4wZWt3UHd6QUYtZkZwaU1oQWVIb1lCMTRLNWxXVmsxX0M5MFJrcjhuTi1TLVJuV3dBS0xYSEZBWGVkdWNzQnZ5N2NJd0pJZ3Z2enFxLUx1aEdWb0xUZFhvek5CTUJUMzZ3eW1PdzNXTkhuQQ",
       "image": "",
-      "published": "Thu, 22 Oct 2026 10:45:46 GMT",
+      "published": "Thu, 22 Oct 2026 14:00:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -546,16 +452,16 @@
       "appearances": 1
     },
     {
-      "id": "4a0e7cf077c03f65",
-      "source": "Adweek",
-      "headline": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO - ADWEEK",
-      "summary": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENfOTBUSVNQSDFWWlFoZEpYaHhTaGxqcU94ckRUWE4wZWt3UHd6QUYtZkZwaU1oQWVIb1lCMTRLNWxXVmsxX0M5MFJrcjhuTi1TLVJuV3dBS0xYSEZBWGVkdWNzQnZ5N2NJd0pJZ3Z2enFxLUx1aEdWb0xUZFhvek5CTUJUMzZ3eW1PdzNXTkhuQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENfOTBUSVNQSDFWWlFoZEpYaHhTaGxqcU94ckRUWE4wZWt3UHd6QUYtZkZwaU1oQWVIb1lCMTRLNWxXVmsxX0M5MFJrcjhuTi1TLVJuV3dBS0xYSEZBWGVkdWNzQnZ5N2NJd0pJZ3Z2enFxLUx1aEdWb0xUZFhvek5CTUJUMzZ3eW1PdzNXTkhuQQ",
+      "id": "4ffef82f8f38d902",
+      "source": "Reuters",
+      "headline": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters",
+      "summary": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA",
       "image": "",
-      "published": "Thu, 22 Oct 2026 14:00:00 GMT",
+      "published": "Fri, 23 Oct 2026 21:16:00 GMT",
       "sections": [
-        "work-marketing"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-24"
@@ -641,6 +547,27 @@
       "appearances": 1
     },
     {
+      "id": "33d56b13001ac0f8",
+      "source": "HubSpot Marketing",
+      "headline": "Profound vs. Scrunch: Which AEO tool fits your team?",
+      "summary": "If you’re comparing Profound vs. Scrunch, the buying decision usually comes down to where your AEO workflow stalls, not which tool tracks more answer engines. Both Profound and Scrunch measure how AI answers cite your brand, but they’re built for different jobs: Profound leans toward market analysis and content creation, while Scrunch leans toward technical optimization and task handoff.",
+      "url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
+      "canonical_url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
+      "image": "https://blog.hubspot.com/hubfs/profound-vs-scrunch-1-20261020-5155545.webp",
+      "published": "Thu, 22 Oct 2026 23:55:04 GMT",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-10-24",
+        "2026-10-23"
+      ],
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
+      "appearances": 2
+    },
+    {
       "id": "cd98f0fdaf9a04a9",
       "source": "Animals",
       "headline": "Preparing Mexico’s animal rescuers for the next disaster - International Fund for Animal Welfare | IFAW",
@@ -660,6 +587,25 @@
       "appearances": 1
     },
     {
+      "id": "d375696db67b4bc1",
+      "source": "Reuters",
+      "headline": "PODCAST: US Starlink requests, Alaska's Senate race and Serbia's elections - Reuters",
+      "summary": "PODCAST: US Starlink requests, Alaska's Senate race and Serbia's elections Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEFSNmhNaDJoSEZhVkpmMzVQcERoUjVTZjhlSEhkdG1YSElrMS1ZRWRSVGZWQmg2d1VVcWZWMXJHRDE1OFdWUE1DeFZPVE9HS0NVeTNKWTRYLXJYWjFzUnZoMXJBTEE2QURQbHdQZ3B6X29WYVIzd3ltWlRMT0NJOFQ0T3ZReFBYc20xS1JKR0d3d2xfME1IcTZrYmc3REFYMWhiX1dR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEFSNmhNaDJoSEZhVkpmMzVQcERoUjVTZjhlSEhkdG1YSElrMS1ZRWRSVGZWQmg2d1VVcWZWMXJHRDE1OFdWUE1DeFZPVE9HS0NVeTNKWTRYLXJYWjFzUnZoMXJBTEE2QURQbHdQZ3B6X29WYVIzd3ltWlRMT0NJOFQ0T3ZReFBYc20xS1JKR0d3d2xfME1IcTZrYmc3REFYMWhiX1dR",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 13:02:08 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
       "id": "5536c0af6695db3f",
       "source": "NPR",
       "headline": "Perspective: The next James Bond",
@@ -670,6 +616,25 @@
       "published": "Sat, 24 Oct 2026 08:00:00 -0400",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
+      "id": "53126511cec75d12",
+      "source": "Animals",
+      "headline": "Owner of Whatcom County animal rescue arrested, faces charges of animal cruelty - Cascadia Daily News",
+      "summary": "Owner of Whatcom County animal rescue arrested, faces charges of animal cruelty Cascadia Daily News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnpyejFxX2xjcUMwX2xTLTZSeTR4R1M3WkRWbFM0b3lIZWFNYzl2R3JpdDAwMUl5VV9hN09WUHRfZkp5bDN4NkUtdHMzbWZoTmZzNGxieU1iaDlQaUxWT0lKYXVEbWJoZllYRHdzbjVDWFctcS1mSXo3X3UxM3JmOVJzdXBWWm1kQkFHVEpJa1g4dl9PdWZaNE1KU1JObnZ5YXlUbDZBd2YzRTlCYS1rNVR5M0tKYVBFaTJFM293?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnpyejFxX2xjcUMwX2xTLTZSeTR4R1M3WkRWbFM0b3lIZWFNYzl2R3JpdDAwMUl5VV9hN09WUHRfZkp5bDN4NkUtdHMzbWZoTmZzNGxieU1iaDlQaUxWT0lKYXVEbWJoZllYRHdzbjVDWFctcS1mSXo3X3UxM3JmOVJzdXBWWm1kQkFHVEpJa1g4dl9PdWZaNE1KU1JObnZ5YXlUbDZBd2YzRTlCYS1rNVR5M0tKYVBFaTJFM293",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 18:53:52 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-24"
@@ -755,6 +720,25 @@
       "appearances": 1
     },
     {
+      "id": "b24805353289739d",
+      "source": "Good News Network",
+      "headline": "Minnesota Youth Jumps Onto Runaway School Bus and Saves 18 Kids After Driver has Seizure",
+      "summary": "Luckily, this 27-year-old was taking a break at work on a slow Monday in Minnesota—because his actions, jumping on a moving school bus, saved 18 students and their bus driver. Ebro Ahmed, an Eritrean-American, had stepped outside of Ya Bricks Snacks and Tobacco in St. Paul’s Dayton’s Bluff neighborhood when a public schools bus from",
+      "url": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/",
+      "canonical_url": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 14:14:30 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
       "id": "45a81c456e7fc3be",
       "source": "Channel 3000",
       "headline": "Madison mayor will not seek reelection, citing harassment, threats - Channel 3000",
@@ -793,25 +777,6 @@
       "appearances": 1
     },
     {
-      "id": "6ad3f40f50d71156",
-      "source": "The Verge",
-      "headline": "Lee Chang Dong ponders the ethics of the camera",
-      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor",
-      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "canonical_url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "image": "",
-      "published": "2026-10-24T08:30:00-04:00",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
       "id": "b86bfe71a7d85076",
       "source": "Good News Network",
       "headline": "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples",
@@ -832,16 +797,54 @@
       "appearances": 2
     },
     {
-      "id": "b8b3ae92742b97a2",
-      "source": "Reuters",
-      "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters",
-      "summary": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 20:04:09 GMT",
+      "id": "df9a835ec4db31f6",
+      "source": "MarTech",
+      "headline": "It’s time to re-think voice of the customer programs",
+      "summary": "Traditional customer surveys, endless feedback requests, and Net Promoter Scores (NPS) are failing both consumers and brands. What should modern companies do instead.",
+      "url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs/",
+      "canonical_url": "https://martech.org/its-time-to-re-think-voice-of-the-customer-programs",
+      "image": "https://www.youtube.com/embed/ACb8WZKIE4g",
+      "published": "Wed, 21 Oct 2026 13:25:20 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
+      "id": "e723407f01ae2f1d",
+      "source": "BBC US & Canada",
+      "headline": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+      "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7aa/live/f0f44f00-cf67-11f1-8bee-01389bd440f4.jpg",
+      "published": "Sat, 24 Oct 2026 07:36:02 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
+      "id": "5459d96f1b117a61",
+      "source": "Audubon",
+      "headline": "In a Sky Ruled by Ancient Birds, Bats Conquered the Dark - National Audubon Society",
+      "summary": "In a Sky Ruled by Ancient Birds, Bats Conquered the Dark National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tYnNZRzhubTNVSnp3bXJPZWdjMnhHaFRENkg5WU5oWUl0YVFRcGwyRGN4UkFsX1BPdl9MQnNibFJPbXI4TnNKbEJqckhMdnd0NkFTcTkzUkNMcV9TbXIyTEpONTlUZ1pUZGxOejhmeWxiaGZPSjBF?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tYnNZRzhubTNVSnp3bXJPZWdjMnhHaFRENkg5WU5oWUl0YVFRcGwyRGN4UkFsX1BPdl9MQnNibFJPbXI4TnNKbEJqckhMdnd0NkFTcTkzUkNMcV9TbXIyTEpONTlUZ1pUZGxOejhmeWxiaGZPSjBF",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 15:43:52 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-24"
@@ -1043,25 +1046,6 @@
       "appearances": 1
     },
     {
-      "id": "e7bd4854be58ab3c",
-      "source": "The Verge",
-      "headline": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "canonical_url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "image": "",
-      "published": "2026-10-23T13:55:03-04:00",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-10-24"
-      ],
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "appearances": 1
-    },
-    {
       "id": "ccde60cd73dba0f0",
       "source": "BBC Health",
       "headline": "Fitness became an addiction that left me anxious and sleep deprived",
@@ -1091,6 +1075,25 @@
       "published": "Fri, 23 Oct 2026 16:42:02 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-24"
+      ],
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "appearances": 1
+    },
+    {
+      "id": "4bec9ef3dcf10b14",
+      "source": "Mongabay",
+      "headline": "Death of iconic elephant in Sri Lanka pushes authorities to fast-track protection efforts - news - Mongabay",
+      "summary": "Death of iconic elephant in Sri Lanka pushes authorities to fast-track protection efforts news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUFvZkVhcXVOc09zcVBnNjdRUUFqMUF4d00wTVE0M2xpR09RWnNQRWw1dTBBdlZIVGpLVkp4eG1DdjZyUnBhNUduLWxEeVR3M0p1cTlTdjdUNUJzUGZsNTl6OFBHUkZpYVp1REUzS21zcGZQdFJaekdESnBSV2xiWExfVm1FYnNKMVhFcGpYQ09YRFlEZGxGY05DTEtuUWstN3B0UHM3eUdlZ1RsWTBicXEyckl1RkNxN3NFTFZKZ1l3Z9IBxwFBVV95cUxNVl9JWlBsenpIU2I5X3NFMzVBTHFoTVhVaXNIRlYwcmNjc0hPVmZFYVJyLTlodU50UlpfMXRkUy1JU0Juay1xWkh3Y0U0NlFnNXdDcUJCaGVJTUJjcnVtSzBHcnhXQTJvZnZ5dG9tS0pEV2lvd2ZOdktGS0JIWVo2OVhydHFZa2pqa1lUZHZxdldHb0ZiR29MaWVQdkhzbTkxUWllRTl4OXpvemZQcklDTElPUTRQTkFFeDNpWWx2ZkhNUnRWNGY0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUFvZkVhcXVOc09zcVBnNjdRUUFqMUF4d00wTVE0M2xpR09RWnNQRWw1dTBBdlZIVGpLVkp4eG1DdjZyUnBhNUduLWxEeVR3M0p1cTlTdjdUNUJzUGZsNTl6OFBHUkZpYVp1REUzS21zcGZQdFJaekdESnBSV2xiWExfVm1FYnNKMVhFcGpYQ09YRFlEZGxGY05DTEtuUWstN3B0UHM3eUdlZ1RsWTBicXEyckl1RkNxN3NFTFZKZ1l3Z9IBxwFBVV95cUxNVl9JWlBsenpIU2I5X3NFMzVBTHFoTVhVaXNIRlYwcmNjc0hPVmZFYVJyLTlodU50UlpfMXRkUy1JU0Juay1xWkh3Y0U0NlFnNXdDcUJCaGVJTUJjcnVtSzBHcnhXQTJvZnZ5dG9tS0pEV2lvd2ZOdktGS0JIWVo2OVhydHFZa2pqa1lUZHZxdldHb0ZiR29MaWVQdkhzbTkxUWllRTl4OXpvemZQcklDTElPUTRQTkFFeDNpWWx2ZkhNUnRWNGY0",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 15:47:18 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-10-24"
@@ -1138,16 +1141,16 @@
       "appearances": 1
     },
     {
-      "id": "69b1b1bd024001a7",
-      "source": "Associated Press",
-      "headline": "British Embassy quashes Winnie-the-Pooh return rumors, keeping the famed bear in New York - News4JAX",
-      "summary": "British Embassy quashes Winnie-the-Pooh return rumors, keeping the famed bear in New York News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWjJFMzRPaF9tcVM5d1FiWlFBRFFucHhWT3VsTnR4MlBMd0tya29XWXh6dmZwZUZpN0dqbXh4RldDMHVPQU5GNy1tVjJ2bXRMaUFnU0lfVkV4b2VRQXRuYzVWRVB1Z3A2QllyNExYa2hZcWtXWVRESkVDQTZNOWZiS2trUXhVRVczbjJvR0JhZE9LTmtGeFU2V1g0TG5BVVJmYzlSNkFNbjRLWHFNallianctMnk5WHFPWnlmdTYya2c3cS02VTlPQ0twMFdTN0Jqay16T0pB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWjJFMzRPaF9tcVM5d1FiWlFBRFFucHhWT3VsTnR4MlBMd0tya29XWXh6dmZwZUZpN0dqbXh4RldDMHVPQU5GNy1tVjJ2bXRMaUFnU0lfVkV4b2VRQXRuYzVWRVB1Z3A2QllyNExYa2hZcWtXWVRESkVDQTZNOWZiS2trUXhVRVczbjJvR0JhZE9LTmtGeFU2V1g0TG5BVVJmYzlSNkFNbjRLWHFNallianctMnk5WHFPWnlmdTYya2c3cS02VTlPQ0twMFdTN0Jqay16T0pB",
+      "id": "8856c1218ce1a8a5",
+      "source": "Reuters",
+      "headline": "Brazil presidential candidates social media strategies - The Lufkin Daily News",
+      "summary": "Brazil presidential candidates social media strategies The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSFRCLWNrYUdkQlg2VHRWOGpnNXA1U2pGQnpzYk9HSDFhSlNodzdkVHNGTlNkbHF1eG1EM09tZGhWNE9sem5Kbk1CS1hsRTRrQTZaVVFxNTk2T05Td21aWHNocG9BZE9IdW0yYWh1UV9YOUpzT3NyNmpycWxsck5KdGRsWGduWWRRblk5VjczN055c216VmdmclFTd0xLRjUxXzFSM0Q4UzU2cEl1NmdzVWxCMWdfazZlYzYxcWV2UXY2SHA5MDQ3Y1pCTmZmV2JvZVFDc3R4eHNGa1dUT3BIOVN3TlMzTlU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSFRCLWNrYUdkQlg2VHRWOGpnNXA1U2pGQnpzYk9HSDFhSlNodzdkVHNGTlNkbHF1eG1EM09tZGhWNE9sem5Kbk1CS1hsRTRrQTZaVVFxNTk2T05Td21aWHNocG9BZE9IdW0yYWh1UV9YOUpzT3NyNmpycWxsck5KdGRsWGduWWRRblk5VjczN055c216VmdmclFTd0xLRjUxXzFSM0Q4UzU2cEl1NmdzVWxCMWdfazZlYzYxcWV2UXY2SHA5MDQ3Y1pCTmZmV2JvZVFDc3R4eHNGa1dUT3BIOVN3TlMzTlU",
       "image": "",
-      "published": "Sat, 24 Oct 2026 04:03:58 GMT",
+      "published": "Sat, 24 Oct 2026 13:27:43 GMT",
       "sections": [
-        "animals"
+        "must-know"
       ],
       "report_dates": [
         "2026-10-24"
@@ -1236,11 +1239,11 @@
       "id": "681a8cea85fd316c",
       "source": "BBC World",
       "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
-      "published": "Sat, 24 Oct 2026 11:23:59 GMT",
+      "published": "Sat, 24 Oct 2026 14:16:05 GMT",
       "sections": [
         "must-know"
       ],
@@ -1271,16 +1274,16 @@
       "appearances": 1
     },
     {
-      "id": "fd16053224286618",
-      "source": "Animals",
-      "headline": "Animal charity warns pet hoarders driving rise in cats needing homes - NonStop Local Billings",
-      "summary": "Animal charity warns pet hoarders driving rise in cats needing homes NonStop Local Billings",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOXRoTF9oU1gzVWFndklDYnhCRDhvU0wyOTFtQ0FHcWItUkRuZlNDY0VpSkpxNmU1RGRUZ0EyS1dGRUl3aTczSGJIa21PQnR3LUZ2d3JtOTRiSTIxdDVNX3FrUlM0eEVaZklFdVlnY0V5eXNyblFfY2tTNjdfM21heE1yM1NfeFZXX0dCeTdiWUIyb09fRUZ2RnZsRTlxU21XVFlFSk1KLWdhTFRIU1JRTnJJa2c0dGpMd2lVNVBTSEV2anVOWHJ1T3puaTVmekxNTGYzSko1b0E3WldWOUw5WmV0b05YRW9aNFE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOXRoTF9oU1gzVWFndklDYnhCRDhvU0wyOTFtQ0FHcWItUkRuZlNDY0VpSkpxNmU1RGRUZ0EyS1dGRUl3aTczSGJIa21PQnR3LUZ2d3JtOTRiSTIxdDVNX3FrUlM0eEVaZklFdVlnY0V5eXNyblFfY2tTNjdfM21heE1yM1NfeFZXX0dCeTdiWUIyb09fRUZ2RnZsRTlxU21XVFlFSk1KLWdhTFRIU1JRTnJJa2c0dGpMd2lVNVBTSEV2anVOWHJ1T3puaTVmekxNTGYzSko1b0E3WldWOUw5WmV0b05YRW9aNFE",
+      "id": "9220f425f4e7cea9",
+      "source": "AI News",
+      "headline": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s AI Found It. - Gizmodo",
+      "summary": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s AI Found It. Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s",
       "image": "",
-      "published": "Fri, 23 Oct 2026 14:10:27 GMT",
+      "published": "Sat, 24 Oct 2026 13:31:26 GMT",
       "sections": [
-        "animals"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-10-24"
@@ -1376,6 +1379,25 @@
       "published": "Fri, 23 Oct 2026 12:51:00 +0000",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-10-23"
+      ],
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "appearances": 1
+    },
+    {
+      "id": "50b48ae1e5d4e09b",
+      "source": "BBC US & Canada",
+      "headline": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
+      "summary": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6x295kp2pr1o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/735d40d0-cec0-11f1-ae9c-0303957c36f8.jpg",
+      "published": "Fri, 23 Oct 2026 13:52:33 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-10-23"
@@ -1531,25 +1553,6 @@
       "published": "Thu, 22 Oct 2026 21:10:36 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-10-23"
-      ],
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "appearances": 1
-    },
-    {
-      "id": "65ca9108ccc351bc",
-      "source": "Madison365",
-      "headline": "Universities of Wisconsin names three finalists for system president - Madison365",
-      "summary": "Universities of Wisconsin names three finalists for system president Madison365",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3dIZzd3aVVPUEhITDJmMDVCX1VlTnVmczIzQWQtWXpvRVRPVTB3UWZ6YVN0OWt1SURTUHpZU2p0NmRtYVMtd0xPbnlUZWp3MlJkVmlsU3d0UHhEbE45MjRTX0pJaVA1WXBVYmZnak5mT1JZb3NWX1NNQ09pdWo0QmoyN3VHaGFhNTF3dGJzeDRud0h5d0Uw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3dIZzd3aVVPUEhITDJmMDVCX1VlTnVmczIzQWQtWXpvRVRPVTB3UWZ6YVN0OWt1SURTUHpZU2p0NmRtYVMtd0xPbnlUZWp3MlJkVmlsU3d0UHhEbE45MjRTX0pJaVA1WXBVYmZnak5mT1JZb3NWX1NNQ09pdWo0QmoyN3VHaGFhNTF3dGJzeDRud0h5d0Uw",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 10:46:41 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-10-23"
@@ -1951,25 +1954,6 @@
       "published": "Thu, 22 Oct 2026 20:39:16 GMT",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-10-23"
-      ],
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "appearances": 1
-    },
-    {
-      "id": "33d56b13001ac0f8",
-      "source": "HubSpot Marketing",
-      "headline": "Profound vs. Scrunch: Which AEO tool fits your team?",
-      "summary": "If you’re comparing Profound vs. Scrunch, the buying decision usually comes down to where your AEO workflow stalls, not which tool tracks more answer engines. Both Profound and Scrunch measure how AI answers cite your brand, but they’re built for different jobs: Profound leans toward market analysis and content creation, while Scrunch leans toward technical optimization and task handoff.",
-      "url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
-      "canonical_url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
-      "image": "https://blog.hubspot.com/hubfs/profound-vs-scrunch-1-20261020-5155545.webp",
-      "published": "Thu, 22 Oct 2026 23:55:04 GMT",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-10-23"
@@ -5617,25 +5601,6 @@
       "published": "Tue, 20 Oct 2026 08:58:25 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-10-20"
-      ],
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "appearances": 1
-    },
-    {
-      "id": "b8d82cc46ede1a8c",
-      "source": "Taylor Alert",
-      "headline": "Taylor Swift is Coming for That Oscar Unless Netflix Pulls of a Miracle - Awards Daily",
-      "summary": "Taylor Swift is Coming for That Oscar Unless Netflix Pulls of a Miracle Awards Daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDdGVlRUdE5HeldLT04xSi0xVUNHVjlkZ1VST2xaR005TXUtX04tamt2S085STRyM21kdDdaQlRGcUlQSG9IWlVvaWhqWWgyMHgwNWNWYi1JbmZWQ2EzWFVGbUV3SGVOeFdTdWQ4Y3BYcHlnOUxNUEJGWDBEZ05qQVZ5SnVuSlJwLXBtQnotVW9tTThsdF81eC10a1lxNEtzQndjWEZrWktKUGFCcFp6dg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDdGVlRUdE5HeldLT04xSi0xVUNHVjlkZ1VST2xaR005TXUtX04tamt2S085STRyM21kdDdaQlRGcUlQSG9IWlVvaWhqWWgyMHgwNWNWYi1JbmZWQ2EzWFVGbUV3SGVOeFdTdWQ4Y3BYcHlnOUxNUEJGWDBEZ05qQVZ5SnVuSlJwLXBtQnotVW9tTThsdF81eC10a1lxNEtzQndjWEZrWktKUGFCcFp6dg",
-      "image": "",
-      "published": "Sun, 18 Oct 2026 19:26:38 GMT",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-10-20"
