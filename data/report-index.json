@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-24.json",
-  "report_date": "2026-10-24",
-  "generated_at": "2026-10-24T14:36:24.812643+00:00",
-  "edition_count": 101,
+  "latest": "data/archive/2026-10-25.json",
+  "report_date": "2026-10-25",
+  "generated_at": "2026-10-25T11:39:01.631696+00:00",
+  "edition_count": 102,
   "editions": [
+    {
+      "report_date": "2026-10-25",
+      "generated_at": "2026-10-25T11:39:01.631696+00:00",
+      "path": "data/archive/2026-10-25.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-24",
       "generated_at": "2026-10-24T14:36:24.812643+00:00",
