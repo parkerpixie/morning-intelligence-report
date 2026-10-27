@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-27T12:19:32.622861+00:00",
+  "generated_at_local": "2026-10-27T07:19:32.622861-05:00",
+  "report_date": "2026-10-27",
+  "top_story": {
+    "source": "BBC World",
+    "headline": "Turnout so far highest in decades as Israelis vote in pivotal election",
+    "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+    "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
+    "published": "Tue, 27 Oct 2026 11:11:33 GMT"
+  },
+  "quick_scan": [
+    {
+      "source": "Madison Local",
+      "headline": "Madison mayor claims threats, harassment drove her out of reelection bid - The Center Square",
+      "summary": "Madison mayor claims threats, harassment drove her out of reelection bid The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak1DcDltM1VKQms3dFI5VDFIOEZST0hYWjc3UzR5ZzFqdHhWa1RXZENqOWVHOFBsdi1PMHhVMXZ4TGxHWnVscEItbDV0UEZCVmx0N3N2X3kwaUtsWE1IWDd2OEZxcDEyRkdKcnZybXM5U29LT2xuR1BhZFFhTVh5YnB3Si1UZzd5YXpOdWhhQks4UEJ0RUHSAZsBQVVfeXFMTXZzVmhORnA3cFJqVDg3dEVPQ1BoY0JISURBSFJfMTRUWFRrcTFMbHEzb2k5WlFaZVphY0xTZGFUUmt4bTA2aGFRRkhJOV9wdnhBRGppTEpZRGxUbjE3U0kycjRYQmN1NXN4SmRmeTBtYmtRNmw0Zk9Na3BzWTYzUjBoS0l3SUdXczhpNnJCNlNCTC13djdnRGxvdlE?oc=5",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "source": "Reuters",
+      "headline": "Indian Media Groups Decry Modi’s Privacy Law in Court, Say Newsrooms Face Shutdown Risk - U.S. News & World Report",
+      "summary": "Indian Media Groups Decry Modi’s Privacy Law in Court, Say Newsrooms Face Shutdown Risk U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmxCX2Y5Znl4bVRMX3BwVk5RWHpvMVVQaUI3R3ZCVkM3YnIxVHVYMGFJQklaS19lVTNOc1JNczJPdmhDcGFkeTloeXN0OEZxcmJpNU8zeXpYd3JuMThUNGxEc3lvYk4teksydVJmdExScUNWS2M0THlfMmZUcXh2VVVTakdqWE03X1BKbThuRWtldUVkN1htQlZjZFFHWHUzM1pWbHVkbFJRcjFwR2pOZzZEZVVUY0lybWpidA?oc=5",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 06:15:00 GMT"
+    },
+    {
+      "source": "BBC World",
+      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Mon, 26 Oct 2026 16:27:17 GMT"
+    },
+    {
+      "source": "BBC World",
+      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
+      "published": "Mon, 26 Oct 2026 14:34:52 GMT"
+    },
+    {
+      "source": "BBC US & Canada",
+      "headline": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
+      "summary": "Mary Peltola, who suffered minor injuries, is running in one of the most closely watched races in the upcoming elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d2/live/38de2000-d131-11f1-be77-d1864d279cb0.jpg",
+      "published": "Mon, 26 Oct 2026 13:53:18 GMT"
+    },
+    {
+      "source": "Associated Press",
+      "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
+      "summary": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 21:31:00 GMT"
+    },
+    {
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin’s state Senate is up for grabs in 2026",
+      "summary": "Headed into the Nov. 3 election, Republicans hold an 18-15 edge in the Wisconsin Senate. If Democrats flip two seats, and defend their own, they would capture a majority in the chamber.",
+      "url": "https://www.wpr.org/news/wisconsin-senate-campaign-roundup-2026",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
+      "summary": "Wisconsin Midterm Elections 2026: Key Races, Candidates and Past Results NBC News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16LXVQNkpxaU5MZkdHTU5YbS1jbm83VzlEUnI2TFVRSWFzdmZ0a2hmcV9vOW9sWFlYWDBucWlJYmhDbHFvTVlzVm9FUHhVNk1HSmNTTXJWOGZGTXhiWVNKMGxBanNqUFZEcl80QXNrVmZZWkk?oc=5",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 07:00:21 GMT"
+    }
+  ],
+  "sections": {
+    "local": [
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Kamala Harris stumps for David Crowley in final week of governor’s race",
+        "summary": "Former Vice President Kamala Harris made a brief return to Wisconsin Monday, campaigning in Milwaukee for David Crowley, the Democratic candidate for governor.",
+        "url": "https://www.wpr.org/news/kamala-harris-david-crowley-wisconsin-governors-race-2026",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 23:52:23 +0000"
+      },
+      {
+        "source": "Dane County",
+        "headline": "2026 Isthmus General Election voter guide - Isthmus | Madison, Wisconsin",
+        "summary": "2026 Isthmus General Election voter guide Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSndVOW50YzlvUmFrWUdxbThXMzl3akU3ampheGRNaTRqZ3VYVnIxRjVPcXVpQWlJaGVyR3lLQ3poWDc2RjBUckd4SGF5R0VtdDNXRXVfNTBxTTlrdDdUUkhwcFFkamFSanFDcjY5Y256R1N6aS1US1VZOFI?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 23:07:55 GMT"
+      },
+      {
+        "source": "Madison365",
+        "headline": "Marvin Bynum named president and managing partner of Godfrey & Kahn - Madison365",
+        "summary": "Marvin Bynum named president and managing partner of Godfrey & Kahn Madison365",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWR4cXZnVVdPYkFPTTQ3c2ZVV0tJbzJYZjdWdTZvWXBNczktM3RwOFd0amUyZ21Bakdhazdody1ucWg5Q0ZRWmpkX0d6NXdSMkxrajFldnVaeEtJWm5fdkdfelRkVTdkM2xGSVpXTlBGRHZTUThNTHlzZklycFpCTUNrdjlWcXl1eFpacnJ0X2JBYVE?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 10:51:12 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Cool today with warmer weather on the way for SE Wisconsin - WISN",
+        "summary": "Cool today with warmer weather on the way for SE Wisconsin WISN",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUQxaHd0UnAtNV9aYktwbTNVY1pnTFpVWU9JeUd4ay1aVWkyV1FYWlpnejVmN29uU010bmR2QTl6ZHRnRGRfV1lhaG5DWW9vc3dXSG0wTkppak8ySjJMRE9MV2tXbjVtbVdIUkxLMXNMMW5lcTdZYUJLR0pFRzBkWjFiUEhOb3VEeEVZLXo5My1FQ1E5N0hhalVVQWQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 10:39:00 GMT"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "Madison's Mayor Won't Seek Reelection, and Her Reason Why Is Revealing - KSLM Radio",
+        "summary": "Madison's Mayor Won't Seek Reelection, and Her Reason Why Is Revealing KSLM Radio",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkVpUWFwbkpqNkJZcGlKOUZaRnVkN3FzV3V1U3JQMVRxOFkwaWFBWmpZWHY4Ylo4OC1tLUlTVnFmam15UVNFVGJ6dGw4cWZnVE5ub0RpQ0VtTXQ0OHp4ZUVCMk9kemhqb0ppWVNKOXlhOHI3Z193d3Aya1NKX240SVNtRHBDTm9kS21FN1VVR0Qza1lseVdzT1VhUXplQU9PdTlfb2ZtNm8?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 20:42:58 GMT"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Governor candidate David Crowley on data centers, budget surplus and elections",
+        "summary": "WPR invited both candidates for governor to sit down for interviews. Republican Tom Tiffany’s campaign declined.",
+        "url": "https://www.wpr.org/news/governor-candidate-david-crowley-data-centers-budget-surplus-elections",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 19:16:07 +0000"
+      },
+      {
+        "source": "Dane County",
+        "headline": "Dane County Park camp and shelter reservations open Monday. Here’s what to know - Wisconsin State Journal",
+        "summary": "Dane County Park camp and shelter reservations open Monday. Here’s what to know Wisconsin State Journal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWF6Y0dqSmxvTjNLUGpMS3ZRa0RZdVBvREdoaWpDWTBnN1VNMkJfaVRxd3puYi11WFN5M1A2d3NER08yOWJobkhEU0VWS19Dald0a1llS24td1dzenBGcDdLY1FXbUY5d0JDRlJqSkZlNDB6SjFMWW4xT0RHcTB3dXp1NTdVUnRpdC1ONS1Wa3h1ejN1MDhMdXJlZHpEX3BTNkE?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 12:10:00 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Who pays for Wisconsin elections? How the rules move millions - Civic Media",
+        "summary": "Who pays for Wisconsin elections? How the rules move millions Civic Media",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXYtYVlsQ1h2NHhlN3J3ckg1NkQ2TGloWTEtUXJJZUlNbnZuVnQwbmwtV25RYmkwMm9QYzBlN1dsN2lsb3IzTHRMeDNwWmYzQnJEWTFxaTRGRGw0eThqdmN5eVZtN0U4aFU4TmMteW5TYkJNVUJ5ZVBjTUktYmlOdURpc3hxdDBwVm1ZclZhY29uNWVRV3BFU3NNRjRYamM?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 21:38:00 GMT"
+      }
+    ],
+    "must-know": [
+      {
+        "source": "NPR",
+        "headline": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+        "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 05:00:00 -0400"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Truce begins in Ukraine city where residents ate weeds to survive",
+        "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+        "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+        "published": "Tue, 27 Oct 2026 11:53:57 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "What does Israel's election mean for Gaza and the wider world?",
+        "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg",
+        "published": "Tue, 27 Oct 2026 10:17:36 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "Morning news brief",
+        "summary": "A new NPR poll reveals Democrats' advantage going into Election Day, congressional Democrats are forming a task force to protect the election, Netanyahu vies for reelection as polls open in Israel.",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6012225/morning-news-brief",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 04:48:45 -0400"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Why it could take time for a new Israeli government to form",
+        "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+        "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfd/live/7eff31e0-d1dc-11f1-a701-fddedf244c16.jpg",
+        "published": "Tue, 27 Oct 2026 08:37:30 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+        "published": "Tue, 27 Oct 2026 11:44:54 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+        "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
+        "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 07:39:52 -0400"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war - The Washington Post",
+        "summary": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 01:23:31 GMT"
+      }
+    ],
+    "ai-tech": [
+      {
+        "source": "Reuters",
+        "headline": "PODCAST: Anthropic IPO, Lula's comeback, Le Pen's presidential bid (Updated) - Reuters",
+        "summary": "PODCAST: Anthropic IPO, Lula's comeback, Le Pen's presidential bid (Updated) Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjdjVktBel9vRVNMWmN0UDVnMVZ4U3ZZUllFU01yU3k3b252ZVhwVmppRlI0TXdXamczRGU2cnhDcUZpSXJ4LXk2M19DQUJMUVhXbWdjUWExV0lhc2tQMTYteVF0amtXcFlaMEQ0dHpWYWlaZ3VjdlFJQmVYLURCRWkzUDQxclQ4V28yeFlPTnlwWWRjd0dRYg?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 21:16:05 GMT"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+        "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+        "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
+        "published": "Mon, 26 Oct 2026 18:50:41 +0000"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - AP News",
+        "summary": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players AP News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWp3QlpSdWJKYVpsVXlJdldxblNaeC1wcEp3b1VxOWYzOHF2UmRLT3ZUMWlqUmVqN1E1bjkxQkNLT2JpcURMc1ZQRlRnWWFKSWxBSXl6M3JiUmMtWWJ0SVBqZ0wyU0M4cHEtN3JRcWpXUTNIWWxSN1VOMm9Hbzd1Z1ViNkJrQzJDeGNHTEV6cFg0dUR5MXVxdzVzY09DVnpfcS1aZ0JsTGVSdFoxUGxRSjhFLUc?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 03:30:28 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Media groups challenge India’s privacy law at top court - Al Jazeera",
+        "summary": "Media groups challenge India’s privacy law at top court Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 11:01:16 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Why has Modi’s privacy law alarmed India’s news publishers? - Reuters",
+        "summary": "Why has Modi’s privacy law alarmed India’s news publishers? Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDItTk9JdkJldThBVUJLd1lPQTNuemlHZ3NzaC1lb1NPWUVIZnVtaDlrY09WYVM3cjBWQ0k0aVdvZ2F5SjRGWkVyOEFVUm9XVTBhVlB2T3czYUJ0V1NHM3JFRTU1cExTalBGV2lGV0NteWtjdHJNQmdZU2YxaDNIV1RTY2dQcHhoYlZZN1owRlMxUkNaMkhVQktFaXZiZEVyLVpFWUliUQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 09:02:52 GMT"
+      },
+      {
+        "source": "AI Safety",
+        "headline": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 05:04:27 GMT"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics - AP News",
+        "summary": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics AP News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFhjem5hOW1XbXZZTnJESmMxeWlFdG1YTGtvelljekZnNXktbkZRdlJCT1hZZkpqaG8zdUoxZTVWckQ1MHhiYVNfc2VhckpsaF8xd0ozWm5zbWpGUjhidklQcTZQejdUM0lSR3BNSmdxZG5xb0sxdVhUaWd0Ukplb1lfemozX3A5Q1UwcDFTTWFZS0hYano2WmJWNjA?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 02:37:00 GMT"
+      },
+      {
+        "source": "AI News",
+        "headline": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO - BBC",
+        "summary": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 16:27:17 GMT"
+      }
+    ],
+    "work-marketing": [
+      {
+        "source": "B2B Marketing Ops",
+        "headline": "Canary Technologies Recognized as a 2026 Inc. Power Partner Awards Winner - Hospitality Net",
+        "summary": "Canary Technologies Recognized as a 2026 Inc. Power Partner Awards Winner Hospitality Net",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObTBxdXFKM05NMkgwOE5PcVZaaF9sUjUzenlXYUowZU1LbU02Z3RrRkRUME0tdFRYTHRiU0paRDl6UXRTaFUtRWREYUJqSVgtMFZzU2xPMUNpR1hlMGFxOG1UV1M4aDNSb2VNdjRmOUw3c0NBX0pVbXRZNVZSLWl5MnBrTnVBVktlUk1nWjN4VjJZcmVrMUJRYUpTYU5xUDFtRFJHVkQxMWlvN2NPcG9PeW5lMlNQeGc?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 09:00:00 GMT"
+      },
+      {
+        "source": "Search Engine Land",
+        "headline": "Google Ads introduces centralized dashboard for tracking policy issues - Search Engine Land",
+        "summary": "Google Ads introduces centralized dashboard for tracking policy issues Search Engine Land",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWldfRGZyczExclplYkNpMFdaQ25RcFdTV205cFcxYURaa2ZrZ1hvSmdGQ012RXBVeDdYQTBkUXNtUm1LOUp0cXhIYUdOcmFENEw1LVJiMVUzdWg0OGpDY2gxa3dUNElmaUh1bFM1R1hLU1lrR1V5TGJxOG45TGxKWXZTV3k3NGFYVjF2bkVaWlRXOTFUZkhLVDNOU2hnWldrVUFlZlZvY0hlUQ?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 18:39:32 GMT"
+      },
+      {
+        "source": "Marketing Ops",
+        "headline": "GETCHOICE!: Kiki Dikmen on Tech-Led Utility Intelligence - Energy Digital",
+        "summary": "GETCHOICE!: Kiki Dikmen on Tech-Led Utility Intelligence Energy Digital",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDhGUVQ5SVJRUnhMc0l4VnlEa0ZiUEhDczVZbGhrdXQxYkNYU1RvLXppZWFCOGhyMzMtRlIxOTBUM0hQQkswaVc5S1ZET3NtOFc4dzRUZFVrX212Vk9vcVVqR2NYa0ZmN2gyTk8weTk3VUx4XzhHSnE5aXpYNVdHVm5OdHlxak93MEU3eUhKTGMxMzQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 08:55:58 GMT"
+      },
+      {
+        "source": "MarTech",
+        "headline": "Personalization knows what customers want, not who they are",
+        "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason.",
+        "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+        "image": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
+        "published": "Fri, 23 Oct 2026 12:55:00 +0000"
+      },
+      {
+        "source": "MarTech",
+        "headline": "Your CEO wants answers your dashboard can’t give",
+        "summary": "Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit.",
+        "url": "https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/",
+        "image": "https://martech.org/wp-content/uploads/2026/10/image-19.png",
+        "published": "Fri, 23 Oct 2026 12:51:00 +0000"
+      },
+      {
+        "source": "MarTech",
+        "headline": "Why organic traffic can fall while revenue stays strong",
+        "summary": "Before overhauling your SEO strategy, look at branded search, high-intent visits, and pipeline data to see whether there's actually a problem.",
+        "url": "https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/",
+        "image": "https://martech.org/wp-content/uploads/2026/05/marketing-scene-with-a-large-money-bag-floating-cash-and-figures-using-laptops-800x450.png",
+        "published": "Fri, 23 Oct 2026 12:07:00 +0000"
+      },
+      {
+        "source": "Customer Data",
+        "headline": "In Graphic Detail: What Apple’s identity block means for the ad money - Digiday",
+        "summary": "In Graphic Detail: What Apple’s identity block means for the ad money Digiday",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamRYYmZ1ZnB3VFdnUlhJMTJ1TkFIa1pjcEN2djhWM3RESWplR3BXa0d0MDJYZTBUVUNmOEFkQUk1LVYxLUdtWThQOE90bG4tWDV6NmFsdTBBMXE5VmFnVVJ1TTRQaURzTmo0R1pWOXJkX1AtM0pWSTFPTnFMVF9yN05fcUtEU3ZzNlpWTzYzckdEYjVfUkZpdmI3bTh1Qlk?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 04:03:23 GMT"
+      },
+      {
+        "source": "Adweek",
+        "headline": "Skydance Ads Boss Reveals New Leadership Team - ADWEEK",
+        "summary": "Skydance Ads Boss Reveals New Leadership Team ADWEEK",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3ptemRxNElCdlV1bVFrMWpCZDZMY0pQY2pVVk9Qc3I4QVRQVk1lbUF4ZS1vRkwyVFFZa2YwdTY3ZmJyWHV4eVpocVlUUUhIaXp3QTg1bTU0b1lHUm1fV2RXT1BZMmJqSlE4cTJ0NUQwbEdNcGZYZ3d4WG5zR3BRUUpRXzFfeC05dEN3?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 22:41:55 GMT"
+      }
+    ],
+    "wellbeing": [
+      {
+        "source": "Associated Press",
+        "headline": "Trump says Walter Reed medical exam went ‘perfectly’ - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Trump says Walter Reed medical exam went ‘perfectly’ ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 04:22:38 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
+        "published": "Tue, 27 Oct 2026 02:40:17 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "More than third of deaths of ex-prisoners on probation drug related, says report",
+        "summary": "Politicians are being urged to tackle \"systematic failures\" in the criminal justice system.",
+        "url": "https://www.bbc.co.uk/news/articles/cq77pej86vd4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/817f/live/18878930-d15f-11f1-87df-afb7a168a1f2.jpg",
+        "published": "Tue, 27 Oct 2026 10:14:25 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "'What does it say if a woman can't give birth in her own city?'",
+        "summary": "The Southern Health Trust plans to temporarily transfer inpatient maternity services from Daisy Hill to Craigavon.",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0vp0l5nj8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eb1/live/167d95f0-d13f-11f1-8d4e-ef1672a07d66.jpg",
+        "published": "Tue, 27 Oct 2026 00:00:44 GMT"
+      },
+      {
+        "source": "Smithsonian",
+        "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
+        "summary": "The patient, a French man in his 60s with leukemia, died earlier this month. Health officials say the risk to the public is low",
+        "url": "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/VxUyrX5OO5OG_t1CKMgESvYuqUs=/420x240/filters:focal(2464x1643:2465x1644)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/28/bb28980b-a6fb-47ea-8e4f-e67c2e4e2277/shamonda-cows-france.jpg",
+        "published": "Mon, 26 Oct 2026 19:25:17 +0000"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "Can you tell ferritin levels from your face?",
+        "summary": "Some creators are claiming they can spot \"ferritin face\". Doctors aren't so sure.",
+        "url": "https://www.bbc.co.uk/news/videos/c8040gkq5563o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effc/live/07d109b0-ce33-11f1-9a39-31b474234113.jpg",
+        "published": "Mon, 26 Oct 2026 10:29:34 GMT"
+      },
+      {
+        "source": "Medical Xpress",
+        "headline": "New guideline provides recommendations on managing shift work disorder - Medical Xpress",
+        "summary": "New guideline provides recommendations on managing shift work disorder Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oSl9WcE1UYkNob1NnSHRiUG4tajBGdnc0dV9yZUcyQV9tblFlS2NjamN3UlRMNUc0bmNUSDhoeG5zck5WdTd5Q3FRMlRfWTZ2WWdmaWktdUlEakVYS0w4Uy1KUVZtNFR0YU42RU16bEkxdmZZb3Y0?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 11:30:01 GMT"
+      },
+      {
+        "source": "Mental Health",
+        "headline": "ADHD, a Unicorn in the Psychiatric (Be)wilderness - Mad In America",
+        "summary": "ADHD, a Unicorn in the Psychiatric (Be)wilderness Mad In America",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxWXZwY21JM3RrZ0gwcnhOd0cteFR4TFI1QmRqUEZEdEthUUJ2RXpfbUI0WEdlRjFUT2lhRGVWLU1EUW5CY1JMTG9nUm9rUml5cUNXRktTSk5zU244ank4?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 10:00:54 GMT"
+      }
+    ],
+    "entertainment": [
+      {
+        "source": "BBC US & Canada",
+        "headline": "Owners of Elvis music rights sue Anthropic for copyright violations",
+        "summary": "The company is accused of using hundreds of songs by the American rock-and-roll star to train its Claude AI model.",
+        "url": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff9/live/da9e4b80-d0d3-11f1-8fac-17c9679d0cff.jpg",
+        "published": "Mon, 26 Oct 2026 14:37:12 GMT"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift Wears a Velvet Purple Mini Dress for Her Induction Into the Nashville Songwriters Hall of Fame - Cosmopolitan",
+        "summary": "Taylor Swift Wears a Velvet Purple Mini Dress for Her Induction Into the Nashville Songwriters Hall of Fame Cosmopolitan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0RBZ3ZuMVFPZVZkb2UxU0VUQ2MyOWJLR0dCdTFrR3BFdDlvM2Y4NHhuYzltWDVIVnlHd2NmbmpQaDAwLWc4OHFtcEV3bTI2XzNZQUo5Mnk4czEyVFBtOTFHa0g1eDUwVVpxVFFpTVIyS3hLUUNxcDlnSFhCVzZhZHgzdGJUdjZadks5ckdiOGtSNElaU3F0YjFVVkxwUW12MExvRkpjU25PNWlrRXhaNmFfRE1ZUEpRa2c?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 00:08:00 GMT"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift-Inspired Date Night Fashion: Colors That Look Hot Under Dim Lights - Women.com",
+        "summary": "Taylor Swift-Inspired Date Night Fashion: Colors That Look Hot Under Dim Lights Women.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0kxYzVFbnp0M2VnWl9GRzBMN0NEb20yekI0X29wTFNwekRtaGJhZnR2YkFDc0swYXdsbE1fVUJoYWVrVHV2TDJJU1Z6WW95S2JEbUJ4SXkwSlFzQkM5eHc0V1VUN2V2bVRTNUJRN1NoSXdCNEdrdER6TzNZMWlNT3Y4X1U1eFpEcUFLdEI3Y1AxMG1FZ0F4U3FlQ1ZKUlhPcXBnRi1wRDc2b0JJSUhr?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 19:00:00 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
+        "summary": "He played the eager Russian crewman in the original Star Trek series and later appeared in Babylon 5.",
+        "url": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd37/live/44c071b0-d169-11f1-87df-afb7a168a1f2.jpg",
+        "published": "Mon, 26 Oct 2026 18:34:15 GMT"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "summary": "Included is the ability to limit which applications Siri can directly access.",
+        "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png",
+        "published": "Mon, 26 Oct 2026 20:04:16 +0000"
+      },
+      {
+        "source": "Variety",
+        "headline": "Noah Wyle Named People’s 2026 Sexiest Man Alive",
+        "summary": "After heating up emergency rooms since 1994, Noah Wyle has officially been named People’s Sexiest Man Alive for the first time. In his People interview for the prize, “The Pitt” star said he was in disbelief when he got the news. “I thought that sounded like a prank — just not in a million years",
+        "url": "https://variety.com/2026/tv/news/noah-wyle-people-2026-sexiest-man-alive-1236931645/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2268336558.jpg",
+        "published": "Tue, 27 Oct 2026 10:08:39 +0000"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift, Travis Kelce are married: All the details - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Taylor Swift, Travis Kelce are married: All the details ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2kzeXBZaWx3UTgtREdlWFFZTnRSbE9OWXJ5Z1l1Q2w2el9kOXRwMG1ldVBpUzJTSHA2dmxBZ3gtVHk4NUg5OGpyYk1DRXFtVjFtQVFRS09zVURXZ0V3cXJJQWdMOW9PZlY1am52V19RTHl1dENUODBFLWhfSlBPSmdFdWpfUXpnMlhUOC1EUVRoNXNINk5sM1NzWU9ZV0k5bV9EcHhFTdIBrAFBVV95cUxQOGUxOThQbTRuWWpzeFc3OV90bkRMb2VYNU50ZHZZSENWYy1pbE03RHlrZDJzbDlTUm10Qjg4MXprUjlsX3RrSDkzekMyTDBqWGtkb1B5MGM4WkJ5UDZXTDZJTEw5Qm1mRWl4WmZYdFlYWUVYTUF0STV3WGV3UWxXQU15NlBzOGdRVURwQV95T1phSnNvTWF1RWNRbkt0ZEhjZThZYnNWRG5Qak1N?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 02:22:21 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "Tokyo Jury President Rolf de Heer on FIAPF’s New A-List: ‘It Matters a Great Deal to Some People, and Not at All to Others’",
+        "summary": "FIAPF’s decision to make A-list status official, with Tokyo among the 17 festivals named, is unlikely to change much about the event, according to the filmmaker leading its competition jury. Australian filmmaker Rolf de Heer, the director of “Bad Boy Bubby” and “Ten Canoes,” was asked at the 39th Tokyo International Film Festival’s jury press",
+        "url": "https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Tokyo-Competition-Jury.jpg",
+        "published": "Tue, 27 Oct 2026 03:41:10 +0000"
+      }
+    ],
+    "animals": [
+      {
+        "source": "Variety",
+        "headline": "Jon Stewart Trolls Trump’s Nicki Minaj Fixation After ‘Beautiful Ass’ Comment: ‘He’s Like Yogi Bear Floating Towards a Pie’",
+        "summary": "On Monday night’s episode of “The Daily Show,” Jon Stewart trolled Donald Trump’s fixation on Nicki Minaj as the president’s odd remarks about the rapper’s “beautiful ass” have been making the rounds across the internet. Stewart began the evening’s show by focusing on the midterm elections, and the issues that voters are, “for some reason,”",
+        "url": "https://variety.com/2026/tv/news/jon-stewart-nicki-minaj-trump-daily-show-1236931839/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-8.36.24-PM.png",
+        "published": "Tue, 27 Oct 2026 03:39:24 +0000"
+      },
+      {
+        "source": "BBC Science",
+        "headline": "Tiny zebra-striped bee in West a 'huge surprise'",
+        "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf0f/live/507a4be0-d135-11f1-be77-d1864d279cb0.jpg",
+        "published": "Tue, 27 Oct 2026 06:20:58 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "29 Pennsylvania Lawmakers Join Animal Protection Groups in Petition to Ban Live Pigeon Shoots - Animal Wellness Action",
+        "summary": "29 Pennsylvania Lawmakers Join Animal Protection Groups in Petition to Ban Live Pigeon Shoots Animal Wellness Action",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOal85RWdDTkJaLWNlZXRlZW5SSTNXd1Q1MnlVQ2c3MkMzYUtEM2ZzOHlDSnk4dmw2M2ctOHZOanFNT1lId0EyUmNrVzgzN0sxRTB5ZUJNdUY3c0M4cTlFVERwaS1sb1ExV3BzbDNNcGJiS1BoQTUwRFZjdkhJN1J3cXNmUDRXM0xJZ3VYZ0hZbmVuWld5MjJKWjJFTzlXQlFXcWVOYWwteFpIM0JuallXdjB6QWRvVDhyckZtRG0za3NqWUNjNkE?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 15:32:48 GMT"
+      },
+      {
+        "source": "Smithsonian Animals",
+        "headline": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive - Smithsonian Magazine",
+        "summary": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive Smithsonian Magazine",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTjFRZGd5T1NwcTdCMkZobXpPYWE1NGlIVV8xY3dTcXBBT1dHSl9YUUtjWmJYQjdheWE5WkI2cmR2SFdOWlJYTXBDX2hiam8ta2RoOTdhVUtzc2xoWjRQZ21acGlnaUpkNkNLQjJYMkF4Qk9ydXY0ekdEdE9KSzAzUUdiMFgzUWVjWThnZnV5TmYwY0ZpUDZYZ0FTSHBNY3MyZEh6cFRYSzVHbVd2OXZmZndMcUxjNmVLUnUxbXdVNXVVeS1JYnU0R1lnWVpGVS16aENwc095a3lOMU1zQUoza1R3YjVRVnY2SXAxSjBlMjI0aEh4NU9sMTVMYzBJeWcyaTlz?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "From cows to elephants: The unusual history of animals taking to the skies, latest being Kenya Airways' cattle charter - FL360aero",
+        "summary": "From cows to elephants: The unusual history of animals taking to the skies, latest being Kenya Airways' cattle charter FL360aero",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZHcxN01QYjhhMVBmdzNqYVVlT1NmYUhsZHdKRVVBaUFfTDN5SlUzYmstcXVEWUVxRExvdjctaS1uamJiRkZDbEoxVTdRZmZxdDk4RDJBQ0QzaUg1NTJDdWVnRmlIeGExTFhVTzVJYlZPcmpnTTRzRzUtRl9IdFd4SDE4cVVYaS11RHlJREdYQmdqMDFvcENZQUVjdHVBU0U4eEk0Q0ZDbE5UTzlBTG0tX2xxMnNJVUtGcU5RMTh4N2VBTTRwQWwxaHYwenIxc0w4dnlJbjJ4NDFER2QteGNnU1VVYw?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 09:01:08 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "What happens to rescued wild animals that cannot return to the wild? - SAPeople",
+        "summary": "What happens to rescued wild animals that cannot return to the wild? SAPeople",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tWmRQdk1IMm1hOWF5RnpoUXhWYWlrMmRGcFZ5YVVJWF84UlI3cUo0WVBiS0g0andMX3hIWk53SjJQWmVoUU0wY1JVYkllRlJhUFJYenJOTU9YS0FER3N4MlJDeWtYLWFEUFJpSjVPTVNLUHJiZTl6ejY4WQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 07:27:39 GMT"
+      },
+      {
+        "source": "Audubon",
+        "headline": "In Illinois, Students Piece Together a Conservation Message Through Bird Mosaics - National Audubon Society",
+        "summary": "In Illinois, Students Piece Together a Conservation Message Through Bird Mosaics National Audubon Society",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEVkN2o0ZEg1R3ZmVDJmaUxhWHhyZ3Iwb0cycWdnR3RmYW5lUXdGRnI0dG1Pd2lOQnVaLVIybFZIMU1xMjlNdlY1OE5udHBzUTVla2FMc3FVU3F1MHRoR182VGxNOHpfN3E0UndUWmU1UHF1dlQ5UGJNVzhETmpVR0YtWXVWOVFLS281eDJwUm5FRnRFcnllN09Tazg3TTlJR29Fckxn?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 03:06:27 GMT"
+      },
+      {
+        "source": "Dane County",
+        "headline": "Major airline delays 150 passengers overnight following serious in-flight threat - Fox News",
+        "summary": "Major airline delays 150 passengers overnight following serious in-flight threat Fox News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG9YSTFvMl9TQUxDcTNCQ19Id0F5S1gwZFdyVmNSX2xMSkdETWxyRUxrVEdLNTl3eFNUdXJCZXptMW1SQXdYbnIyTUFnYnIzUmhFMThEdzZiOUVXUkk0REtYMFJyQVU3MV8zOEhNaFhwYjJ3UWVPb2QwWkF0RzJIbUNVSV81bTBQZlF1dnVFNlNoNUdlWk9FUzdSaVNhX2NjemhTblJLNHJMNWFGa2k3RG85eXp4UdIBtgFBVV95cUxOdG9YSTFvMl9TQUxDcTNCQ19Id0F5S1gwZFdyVmNSX2xMSkdETWxyRUxrVEdLNTl3eFNUdXJCZXptMW1SQXdYbnIyTUFnYnIzUmhFMThEdzZiOUVXUkk0REtYMFJyQVU3MV8zOEhNaFhwYjJ3UWVPb2QwWkF0RzJIbUNVSV81bTBQZlF1dnVFNlNoNUdlWk9FUzdSaVNhX2NjemhTblJLNHJMNWFGa2k3RG85eXp4UQ?oc=5",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 17:55:33 GMT"
+      }
+    ],
+    "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Stunning New Opera House Opens With a Gravity-Defying Grand Staircase (LOOK)",
+        "summary": "Despite its curtain raising rather late in the year, Shanghai’s new opera house has elbowed its way to the front row of international architectural debuts—thanks to a gravity-defying grand staircase. Rising above the banks of the Huangpu River, commission for the Grand Opera House was awarded 10 years ago to Norwegian architecture firm Snøhetta. The",
+        "url": "https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 18:30:24 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Family That’s Fostered 500 Children Saved from Housefire Thanks to Stranger’s Wrong Turn",
+        "summary": "A complete stranger named Casey knew he was in the wrong place, yet at the right time—when he saw the smoke from a burning house in the distance. His GPS having turned him off the correct route and down state Highway 114 south of Lyerly in Georgia’s Chattooga County, the man found himself as the",
+        "url": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 11:30:43 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
+        "summary": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it mean? Here is our demystifying guide",
+        "url": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 07:00:17 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Man Named ‘Service’ Cleans Up NYC Dumping Site on His Own Initiative",
+        "summary": "It’s not uncommon to walk past litter in a major city: what’s uncommon is stopping to do something about it. Yet it wasn’t just litter that Queens resident Joshua Service walked past on a recent rail commute, but a spontaneous dumping site. Mr. Service whipped out his phone and recorded a video of the piles",
+        "url": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 11:30:53 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "What went right this week: the good news that matters",
+        "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+        "image": "",
+        "published": "Fri, 23 Oct 2026 05:00:52 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Free tool helps young men to take responsibility for sexual harm",
+        "summary": "Young men are using a digital tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere",
+        "url": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 12:41:17 +0000"
+      }
+    ]
+  },
+  "wonderful": {
+    "source": "Good News Network",
+    "headline": "Stunning New Opera House Opens With a Gravity-Defying Grand Staircase (LOOK)",
+    "summary": "Despite its curtain raising rather late in the year, Shanghai’s new opera house has elbowed its way to the front row of international architectural debuts—thanks to a gravity-defying grand staircase. Rising above the banks of the Huangpu River, commission for the Grand Opera House was awarded 10 years ago to Norwegian architecture firm Snøhetta. The",
+    "url": "https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/",
+    "image": "",
+    "published": "Mon, 26 Oct 2026 18:30:24 +0000"
+  },
+  "capybara_message": "Today may ask for flexibility. It does not get unlimited access to your spine.",
+  "personalization": {
+    "active_feedback_signals": 248,
+    "profile_updated_at": "2026-08-17T12:10:17.367Z"
+  }
+}
