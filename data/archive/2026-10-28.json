@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-10-28T13:03:02.667739+00:00",
+  "generated_at_local": "2026-10-28T08:03:02.667739-05:00",
+  "report_date": "2026-10-28",
+  "top_story": {
+    "source": "BBC US & Canada",
+    "headline": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+    "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+    "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg",
+    "published": "Tue, 27 Oct 2026 21:46:43 GMT"
+  },
+  "quick_scan": [
+    {
+      "source": "Ars Technica",
+      "headline": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
+      "published": "Tue, 27 Oct 2026 18:49:08 +0000"
+    },
+    {
+      "source": "Ars Technica",
+      "headline": "Warner Bros. drops final trailer for Dune: Part Three",
+      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg",
+      "published": "Tue, 27 Oct 2026 18:05:55 +0000"
+    },
+    {
+      "source": "Wisconsin Public Radio",
+      "headline": "Menasha residents continue to lift up neighbors in need",
+      "summary": "The powerful tornado that tore through Menasha in July damaged hundreds of homes. But informal community resource hubs emerged from the rubble. Menasha residents continue to support each other through the community-driven resource hub, Hope Fridge.",
+      "url": "https://www.wpr.org/news/menasha-residents-hope-fridge-volunteers",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 21:53:15 +0000"
+    },
+    {
+      "source": "The Verge",
+      "headline": "Everything announced at Amazon’s October 2026 hardware launch",
+      "summary": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is screens: devices with big, beautiful ones, and those that lack them entirely. There’s the",
+      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "image": "",
+      "published": "2026-10-28T08:20:40-04:00"
+    },
+    {
+      "source": "The Verge",
+      "headline": "Voters in Texas agree: They hate data centers",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "image": "",
+      "published": "2026-10-28T08:00:00-04:00"
+    },
+    {
+      "source": "Lifecycle Marketing",
+      "headline": "Drip Email Market Evolution: Powering Personalized, Automated Customer Lifecycle Engagement - openPR.com",
+      "summary": "Drip Email Market Evolution: Powering Personalized, Automated Customer Lifecycle Engagement openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXhwWFdjazcwMUpHWGVBall0STJwNnFBZkk3YnRCWWtLM1RqNFV2NGFNeDJYbllLSUhUUUNiSXZqb092cTNKU2ZLRkc3eDZyV2hsSVY0ZVRYT3ZGU1c2anVoUVdGaW9EQUFXLUQ2SWF2VVQ3M2FnNmdrUEU5TjNmMDdqNHM3Q1pDQWp5bUVvR3ZhZnJMaFVOcFh1Zw?oc=5",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 08:43:57 GMT"
+    },
+    {
+      "source": "Klaviyo",
+      "headline": "7 email marketing strategy examples to boost engagement in 2026 - Klaviyo",
+      "summary": "7 email marketing strategy examples to boost engagement in 2026 Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0YklpVmFXaEdJODczWk16c3d2eDFxZ3pYUjRYV0k4YXFhSkF1M3NxQThmaUVxTXdORnBvMVRNaTRBV3lTMVFfZzhvbVdhekRIak9sVjhlakpBbFYwSkZiaWFpYkhySFNsUkJJcl9sMA?oc=5",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 07:29:14 GMT"
+    },
+    {
+      "source": "NPR",
+      "headline": "Morning news brief",
+      "summary": "President Trump crisscrosses the country with scattershot closing messages midterms approach, deadlock after Israeli election shows no clear winner, Fed expected to hold interest rates steady.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 04:47:33 -0400"
+    }
+  ],
+  "sections": {
+    "local": [
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Board to vote on whether Wisconsin DNR can craft new pesticide regulations",
+        "summary": "The policy-setting board for the Wisconsin Department of Natural Resources is set to vote Wednesday on whether the agency can begin crafting groundwater standards for roughly two dozen pesticides.",
+        "url": "https://www.wpr.org/news/board-vote-whether-wisconsin-dnr-new-pesticide-regulations",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "source": "Dane County",
+        "headline": "Madison population passes 300,000 as Dane County keeps up rapid growth - Wisconsin State Journal",
+        "summary": "Madison population passes 300,000 as Dane County keeps up rapid growth Wisconsin State Journal",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjJyb0Q2aGVITm1tcVFtM3QtZk9YZHBDdnBkU3VzaXFURWZtYmd0ZDh2eC1BTmRMUXJhQjRqdmRkNGlxX3Q4LW5yRFhoMUVXOTBuTk5jSl9yOXJIV29lMm56UWptUURQeFNfb0o3R2xSSUNrNXVHbkstQlpqMjhNVzRuRndCNUE?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 19:30:00 GMT"
+      },
+      {
+        "source": "Dane County",
+        "headline": "Dane County issues overdose alert after spike in emergency calls - WKOW",
+        "summary": "Dane County issues overdose alert after spike in emergency calls WKOW",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1BTOEV2UWFYRk43bTBOektXbU5veEFuVTFxRGV6WloxMG8wWmhhaFBJVy1DZHBuLUpZLVlXN29XRnExakl5QTRyQ2lkcHFHWk9hSmF2ZGtHY2d3bnJ2VmVETlZlWkJ3MmxEMDVxbVV0ZHlOeFdJb0ZkR19qb3JaWDJHWnp6WVRoSDBSUFVSWDdvRndDVUgzcjQ0VE1oYTRIeGVIdWU0UWlhOWlvYWJNMkFTQXpfWmhaeGtjR3hqUVMzMmRqbjMwcm1Cd283MEFONWJqemxYLV9xUmtvQV9WZQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 21:15:00 GMT"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "Hello, Wisconsin! CAVA Makes Its Milwaukee-Area Debut, With Madison Up Next - News-Press NOW",
+        "summary": "Hello, Wisconsin! CAVA Makes Its Milwaukee-Area Debut, With Madison Up Next News-Press NOW",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaUIwelc0X09Zem12ZDA5QlpWSEVXOXo1bjJOQkdPcGdIQUdTR2lwYXptUGJwOXMzTmFwY2ticDllZG1KYmJwemRpQkhWanV2aldIR3ppclVXSDJVaS05cGYybVZoR1FmNnhFVGJ3MFgxLW1aNDNQT2Qzb1h4WkdDT01lVkxRYUVEYWp0ZXVNZmIwWGVtYXBhb011VWRISEstN3UtQWtROHlJTnpCSERySnFjaUt1LWhQZHJFcFVCVi1qYTh6WHI1bExMM3E3N01CWjlrVVBNUi04UktpMW5lRHY5SklrMVMwSnpfS094YjBrU2JyS0hobQ?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 12:00:47 GMT"
+      },
+      {
+        "source": "Madison365",
+        "headline": "Federal child care funding loss leaves Wisconsin student parents scrambling to stay in school - Madison365",
+        "summary": "Federal child care funding loss leaves Wisconsin student parents scrambling to stay in school Madison365",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVm9Fb3VLY2Q2bVkyNm4ycEFiZXBGS25zSmZ1VnFQMGlTSDNWNTlDa1M5UXFtRXNoNXl3NjI1RlcwOUFHMmJjci04aUtLYm1wQ3pRMFJrNC1seGl4Sy1qR3lPM3ZJX0JuQWFXMnE1ZGFCZ2NocUVjMXpiaFZBbWdtMjEwel8zQ25QajdQMzhsWnd5a0g0RzU5ZzRHN1VtZmtIMld1Rm8zYjRwT0ZERXhKN2JOMUlENVk0?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:45:34 GMT"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Wisconsin author celebrates ‘treasure trove’ of natural beauty",
+        "summary": "Author Lily Comp celebrates Wisconsin's treasure trove of outdoor spaces in her new book, “Scenic Natural Wonders of Wisconsin.”",
+        "url": "https://www.wpr.org/culture/wisconsin-author-lily-comp-scenic-natural-wonders",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "How Wisconsin’s governor candidates would address criminal justice decisions",
+        "summary": "From prisons to funding for police, Wisconsin’s next governor will face a lot of decisions related to criminal justice. WPR's Sarah Lehr explains how the candidates plan to address crime and punishment.",
+        "url": "https://www.wpr.org/news/wisconsin-governor-candidates-criminal-justice-decisions",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Wisconsin Athletics to launch Badger Fan Rewards - Wisconsin Badgers",
+        "summary": "Wisconsin Athletics to launch Badger Fan Rewards Wisconsin Badgers",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1pXWk9ndTVxdkhUVjVVSlZNZ1U5QWRmSUx0V0FQVzhqaFJTYzBpdC00eEJ0OWxvcUI1aVhOdk4tWV9IWExjenZ6QmRMQkhBaUNOaGZvb2dUbDNFeW5UUVlGd1VJNFRsLW5zcnhlRFhqRWRGTWhzOF9lLUM2cUdhb1JlWlhzTzB6a3A1b2J2cFZ3QTZjNWY3U00yZVVGUVNN?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 21:28:04 GMT"
+      }
+    ],
+    "must-know": [
+      {
+        "source": "NPR",
+        "headline": "New teachers union president wants to steer educators away from partisan politics",
+        "summary": "NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 05:00:00 -0400"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
+        "summary": "The defeated presidential candidate crossed a land border into Argentina late on Tuesday, Argentine migration authorities say.",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cf/live/0c187e30-d2a3-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Wed, 28 Oct 2026 12:34:50 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Four investigations Democrats could launch if they win Congress",
+        "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f9/live/81a98dc0-d252-11f1-b6ed-51fc9a3ab608.jpg",
+        "published": "Wed, 28 Oct 2026 11:00:12 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Watch: What happens now after close vote in Israeli election?",
+        "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+        "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg",
+        "published": "Wed, 28 Oct 2026 04:22:59 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+        "published": "Tue, 27 Oct 2026 22:11:08 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+        "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg",
+        "published": "Tue, 27 Oct 2026 21:09:12 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
+        "summary": "Iran sees only unacceptable ideas in latest mediation to end war, official says Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 12:20:04 GMT"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "Iran Hails Tehran Security Talks as a Step Toward Regional Dialogue, and Other Mideast News - U.S. News & World Report",
+        "summary": "Iran Hails Tehran Security Talks as a Step Toward Regional Dialogue, and Other Mideast News U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTF0VVE4NEY2NjFYWE9rSmFvVjJwcmtMeEFCSW1OYm5Qa3AyUm5rLWJnSjd2NXZ0Q2ZsZ0gtSEU0eUVNTHdyVkhhbmp5cm5VSG51al8zMWRheXdqSWxjWkFZbDRXUW5KUDRVWC1fbHdhcmJrR2IxMlo4YXA4NU1YOFlqdmtXQTBheG12bHRUTWdVR0Z6c2E0YUlTanNSVlZ3N194UldXU2JOeF9OeW1HU3VlbVk1SmR0b3NjLU1HTlEzMTVXSW9kZjlhRnhqdXlsbEhxNkt6NVctM3pS?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 11:14:00 GMT"
+      }
+    ],
+    "ai-tech": [
+      {
+        "source": "Ars Technica",
+        "headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+        "published": "Tue, 27 Oct 2026 21:50:04 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+        "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+        "published": "Tue, 27 Oct 2026 21:31:14 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+        "published": "Tue, 27 Oct 2026 20:25:55 +0000"
+      },
+      {
+        "source": "The Verge",
+        "headline": "How a grocery merger could expand a surveillance network",
+        "summary": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns that a merger could decrease competition and increase prices, the American Economic Liberties Project (AELP), which advocates for competition policy reforms, says that",
+        "url": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+        "image": "",
+        "published": "2026-10-28T08:00:00-04:00"
+      },
+      {
+        "source": "The Verge",
+        "headline": "Inside Amazon’s Echo hardware event",
+        "summary": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it",
+        "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+        "image": "",
+        "published": "2026-10-28T08:46:42-04:00"
+      },
+      {
+        "source": "The Verge",
+        "headline": "Almost all of Amazon’s new Echo gear is available now",
+        "summary": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The latest round of launches focuses on Echo products, including speakers, smart displays, as well as a",
+        "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+        "image": "",
+        "published": "2026-10-28T08:29:52-04:00"
+      },
+      {
+        "source": "BBC World",
+        "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+        "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
+        "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg",
+        "published": "Wed, 28 Oct 2026 01:01:02 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+        "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4e/live/e382eae0-d23a-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Tue, 27 Oct 2026 19:56:02 GMT"
+      }
+    ],
+    "work-marketing": [
+      {
+        "source": "BBC Entertainment",
+        "headline": "Russell Brand tells court allegations had devastating impact on him",
+        "summary": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2f/live/26c8a200-d2c1-11f1-b441-2b33b063138f.jpg",
+        "published": "Wed, 28 Oct 2026 12:57:39 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "Russell Brand Takes the Stand in Rape Trial and Reveals No One Agreed to Testify on His Behalf: ‘My Entire Life Has Been Consumed by These Allegations’",
+        "summary": "Russell Brand took the stand in his criminal trial in London on Wednesday, denying all accusations against him and revealing that he was not able to convince anyone to testify on his behalf. He was called by his lawyer, Ian Winter KC, as the first witness as his defense began to lay out its case,",
+        "url": "https://variety.com/2026/tv/global/russell-brand-takes-stand-rape-trial-no-one-else-testifying-1236933186/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/russell-1000.jpg",
+        "published": "Wed, 28 Oct 2026 10:38:24 +0000"
+      },
+      {
+        "source": "MarTech",
+        "headline": "Your best customer may never visit your website",
+        "summary": "Customers can discover, compare, and buy your products without you knowing. Your marketing organization needs to adapt.",
+        "url": "https://martech.org/your-best-customer-may-never-visit-your-website/",
+        "image": "https://martech.org/wp-content/uploads/2026/06/workflow-AI-marketing-management-MOps-800x450.png",
+        "published": "Wed, 28 Oct 2026 12:32:00 +0000"
+      },
+      {
+        "source": "HubSpot Marketing",
+        "headline": "Profound vs. Semrush for AEO: Specialist or SEO suite?",
+        "summary": "Buyers now ask ChatGPT, Gemini, and Perplexity for recommendations before they ever open a search results page, and marketers need a way to see whether their brand shows up in those answers. That’s why Profound vs Semrush for AEO lands on so many shortlists.",
+        "url": "https://blog.hubspot.com/marketing/profound-vs-semrush",
+        "image": "https://blog.hubspot.com/hubfs/profound-vs-semrush-aeo-1-20260724-5615757.webp",
+        "published": "Tue, 27 Oct 2026 18:15:06 GMT"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Russell Brand told police he never had non-consensual sex",
+        "summary": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.",
+        "url": "https://www.bbc.co.uk/news/articles/cm74p7w4dwpko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a8/live/f3006fb0-d1f9-11f1-8c9f-8d21fef6ffad.jpg",
+        "published": "Tue, 27 Oct 2026 16:46:03 GMT"
+      },
+      {
+        "source": "Klaviyo",
+        "headline": "Make every message count: 12 Black Friday Cyber Monday email examples for 2026 - Klaviyo",
+        "summary": "Make every message count: 12 Black Friday Cyber Monday email examples for 2026 Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kQi1sYk5yTUYwaFlpeEVlZkNFV0h3b1QtbU45ajRJMXI0Qk1XTXNHeWhoRC1jODdHeEw0SUotNm13QzJfdmk3S2p4eFNsTFQ4ZkJ6VEZRcVhxT1lKVTR5N0tDRmRZa1BnbkE?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:55:50 GMT"
+      },
+      {
+        "source": "Klaviyo",
+        "headline": "Email design inspiration for 2026, plus brand examples - Klaviyo",
+        "summary": "Email design inspiration for 2026, plus brand examples Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MZFN4Y2FOYzFDSGZOQWszQnVNVVhzTGxsZnZvN1E0SnRRVlJXQk1HUFoxZXYwZ3h6dmVxck5qdWhfSk5SMkx3LW0xMXNnRWQ5dFVLQVVPc1FaVXZzcjlR?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:35:22 GMT"
+      },
+      {
+        "source": "Salesforce",
+        "headline": "Hightouch raises $40M for reverse ETL data platform - TechTarget",
+        "summary": "Hightouch raises $40M for reverse ETL data platform TechTarget",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEZBeU81b0xzZVF6eVpMbHdreGZTeXJmNVZnMU9xWXJqOTAxenRhUkthTlZ5Qlg1ajJreHE1Q1k4TjhSbk45WXdrcjdkZ3RBUkJnYm9sU2lJZDlGcmVtR2t5aXM5ZF9YNWJPRDdDOElWY0pNanNFbkRpVFdWVExwRnB3RTk3N3NkSVNiUFN2b015VVBp?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 10:24:29 GMT"
+      }
+    ],
+    "wellbeing": [
+      {
+        "source": "Mental Health",
+        "headline": "Harrogate bodies warn of mental health vulnerability for people with ADHD or autism - Harrogate Advertiser",
+        "summary": "Harrogate bodies warn of mental health vulnerability for people with ADHD or autism Harrogate Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMFNRUHA5cG5sUjJ3SlY4RG5vVUVLVmdyWnFnWVhrSnJpa04yajFva2xMSUpsaXVYLTV5ZXhZcGdiWEVFU0x2MmZYNlZKUUdwTjJEOXhnSXREM1dzcmpuODJLY0YtTUp6Tm1fZE8zRW9oYWl3OTVLd2JoczhwcGNRTWZKMnhtbmxlenJieFhaTDFUb0tFbVRsR2oydlJQMUlhbWc2UEpHYjliblBCX2pLRlZSOVpYYzcyLTdWYUVRV3ZuSkpIYjVITG8wNHF5TGhfaUx2VnRGaE1BUHRZY1djVlhkSUdXbXJ6SjBxdFNaaDBNZWg0U1phdg?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 12:12:00 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "Patient living in 'horrific pain' due to UK-wide drugs shortage",
+        "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+        "url": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/a72f6590-d1f5-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Wed, 28 Oct 2026 12:39:42 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "Terminally ill mum who can't talk, walk or dress herself refused Pip payment",
+        "summary": "Rachael Field, from Rhondda Cynon Taf, had her tongue and voicebox removed and windpipe reconstructed.",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxndjqdddro?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8400/live/639d5fd0-d146-11f1-a701-fddedf244c16.jpg",
+        "published": "Wed, 28 Oct 2026 12:07:04 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "Are you an organ donor? Here are some rule changes you may want to know",
+        "summary": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 05:00:00 -0400"
+      },
+      {
+        "source": "Reuters",
+        "headline": "US health chief RFK Jr faces widespread rebuke over his anti-Arab remarks - Reuters",
+        "summary": "US health chief RFK Jr faces widespread rebuke over his anti-Arab remarks Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1g1aVhtSVoyRXZoTC1GYnhLb3ZBbm1Sa01VRTZoaGlMZTExdzktem9lSW9YRnRRTWZOZkMyR3hyOUhfenlCLXhCMnJsR0oxNmFwcEVUV09pRW8zYVhEQWNmcHR0ZjAtMm9hMXZDc0F1OXEzeExhVXZpZGVXaGdmSS1DOGRTci1vd3lsQXM0ZVJxQmE4R2JHOWdjM3ZSa1Z3STBsTlk4NEFLQU00SDVRbzN3eTZRY2VsaUFmLVUyR3ZOYXFz?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 21:40:00 GMT"
+      },
+      {
+        "source": "NIH News",
+        "headline": "High metal exposures after wildfires may affect lung function - National Institutes of Health (NIH) | (.gov)",
+        "summary": "High metal exposures after wildfires may affect lung function National Institutes of Health (NIH) | (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnh3bTZkLWtpM1dxZ204aTNqWXhlZnlJNEpMV1ljTDhzb2xjcVYxUHpXZFJpMGJ5T29DVGpUUTQ5Zi1vY2dRejg2OVd1S0xOYmVIRHRkWTdrdzhhQjBQZTVNSjZONTd5ZFZNY2dHNmFIQXBLa0I4Q01JZWlETmM0WjRjMEFscWRBY1N2Y050V2ZDTE9zaktPbHAzUjFaT3NKYlBkWkpOVjhhb3Nmc0tMbnBQVEQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 17:14:48 GMT"
+      },
+      {
+        "source": "Medical Xpress",
+        "headline": "How a neurologist is rethinking stroke prevention for the longevity era - Medical Xpress",
+        "summary": "How a neurologist is rethinking stroke prevention for the longevity era Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXA5UW1GdTF5S3FvX3JjR0FWVnJDZk5nMjZReGhZZkJEX1JyVVZQaHc4QXlJeHdibnlpbjliQ2ZtaDR2SGIwNGxISWVXX0lrR0Iwa29KUXFyTnNZRGRFdTZ5Z2xIVzQ3LUs2YkxuY3FQQUg2SFdqemNSazhtZHZ6WkVnbGpPQWM?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 13:00:04 GMT"
+      },
+      {
+        "source": "Medical Xpress",
+        "headline": "LSD and psilocybin push brain blood flow in opposite directions, study suggests - Medical Xpress",
+        "summary": "LSD and psilocybin push brain blood flow in opposite directions, study suggests Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45WU5KM1F2Y2NoNTU5SDl2STNaR1RkUWV6LTZ6TUt0OENwNkR2STZKcW1fZ0FjQjlnUmJhcTdCSkxrZjVGaVIyTkE0QU9oRk8xSTJzRFpjVjRZNlJFVUY3aHVXdHQzd3BjVWltaFZ2VElMaW5MYTQxdFVB?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 11:20:05 GMT"
+      }
+    ],
+    "entertainment": [
+      {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift wore a $1,547 dress in Nashville. I found the look for less - USA Today",
+        "summary": "Taylor Swift wore a $1,547 dress in Nashville. I found the look for less USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR2djVUt6Y0gtS3ZkbXpoS3hoX2dRZFNhbXZpaWtpbnc0N1NESnZUWTdmMVRKZ1ZrNWZkemd2WEdqTXdQYW9NT1M0b3MyTmtXY2FXTjduNWZIYlN5enNkaFhNSFZzdU5Fc1BaYm44Y0hHa3gzVXRDZ0N3bkpmMmVHSnpKZmhZNWZmbFlUUV9tXzdqV0VpZUdqM3dlUm5jUnFyRENtSzVERkpvOVVwUGp1SUlfMU5kS09Wd1R5OHFXbXY0N0h4TFRRd2J2d1lCSHRFRENSZXNBczM2VWV6Nm9yVllQaWF6cFVDaVBIMQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 19:02:00 GMT"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift wears 65-carat diamond choker, velvet floral dress at Nashville Songwriters Hall of Fame - The Express Tribune",
+        "summary": "Taylor Swift wears 65-carat diamond choker, velvet floral dress at Nashville Songwriters Hall of Fame The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMElMNU9aMVFxWFJfZ1BQUzMtTDhfZXc1M0tlbnFWMEt2RnF0OGNWZ1NqQmZ4RVdsOThFMS1CeVJ2RjJmaWNVSlpmNUJqVGZ2cFJXa3o5YlR2RUpzN3MtY1RDa0Jia2VCbzFzOWdQSTNuOXhLZ21lZEZGUGN4eEY0Z2lZcHNBbFl6Y3RhTDJoUEhob1VWelpuakVoS21FNk5zTm9LUlFqWFllV0tVMTNrZUx2Yk1vR3lFMUxhRkZZMHo4UXBsWC1vY0g3LTJDaENzaTVv0gHbAUFVX3lxTFB6dW5jVi1uaUhQcGdPTWJvbWdwd19oZzlGb2JzUXpSam0zUjJTeDZ3Rm1ZNUZFNUJFckdZTzBrZVk3dU9zVlVpb0hNQ0lWSWpYb0RQTjBhb2RIQlJBYk5WVEFxcGtOQ3ZCNnBieFU5bjBhRWNna3lzQnNUczYteHFXbXlTVTNWX1BvTEZ5Y2p1QUd0LWhnZVE2M19EWXd3TThkQUlnWHZTQ21tV0VPQ0F1bnFnd3pfZzR0dk5jSlJ6SWxVVWlTUkdmcEdzTDFhRExiRG5KSXNMYVlvSQ?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 18:26:35 GMT"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "6 Music Festival 2027 heads to Newcastle",
+        "summary": "The station's flagship festival will return to Tyneside after 12 years.",
+        "url": "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a35/live/00804690-d1f7-11f1-8c9f-8d21fef6ffad.jpg",
+        "published": "Wed, 28 Oct 2026 06:03:56 GMT"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Neil Young sues Trump campaign again for playing Rockin' in the Free World at rally",
+        "summary": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de00/live/637d2790-d24c-11f1-8ba3-9fd3e261415f.jpg",
+        "published": "Wed, 28 Oct 2026 02:44:50 GMT"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Celebrity Traitors' Joe Lycett's tribute to viral TikTok nan",
+        "summary": "Anne Hughes found fame after being hoisted into the air after getting caught in shop shutters.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff04/live/cfcbb040-d208-11f1-b3b6-c1e79e957e40.png",
+        "published": "Wed, 28 Oct 2026 09:56:13 GMT"
+      },
+      {
+        "source": "Taylor Fashion",
+        "headline": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much - The New York Times",
+        "summary": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUVBYkNsUUN0eV9hMXBEeTBKaXNxNXBsX1JTd1BDNm5lVldxU2tXZlh2NHgtY29BX25MNjZSbzNMTUw5RXMyR2dpczNBdVkycVJaR0JBWExYU0wzc19JZUMtUEdDUGhUMFU3ZVJLU214RXkyMGRxdmhXVWoybEZTeHNIaDdPa1BXUVhLYw?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 17:47:57 GMT"
+      },
+      {
+        "source": "Taylor Alert",
+        "headline": "Taylor Swift Makes a Statement in “Divine” Diamond Necklace at Nashville Songwriters Hall of Fame Induction - Town & Country Magazine",
+        "summary": "Taylor Swift Makes a Statement in “Divine” Diamond Necklace at Nashville Songwriters Hall of Fame Induction Town & Country Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWhsc0djdFFmSEJmcmNhOU9HVy1IVXdqaERIQlBLMDZPYVg0dmR1Mk94SE9JSEszSkE2Ul9Kdk51VnNQdTVmVGN3ekpXeTVISDhzT29LRVdvQnk1SGxpOEcyODA4MnQ4Vl81bU9EU0h1cm83YXp0X2tiQXlFR19QeXh4LVZPTEozUnQtYzg3YjA5bVVqbHZVY3d4V3l1M3VnSzFXUFdCS0R6ZEdYUTNoRGp0R1VsRE5iSWJQSm9BUWE5alJWOE95aHVzU0RjVlFwWnV2Nm5R?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 13:53:00 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "Latvian Oscar Submission ‘Ulya’ Sells Wide Ahead of Opening Tallinn: ‘This Film Is a Blockbuster’ (EXCLUSIVE)",
+        "summary": "International distributors continue to fall for “Ulya.” The Latvian Oscar submission for Best International Feature Film has closed North America (New Mountain Films), France (Destiny), Italy (Invisible Carpet), Slovakia (ASFK), former Yugoslavia (Five Star Distribution), Estonia (Hea Film), Lithuania (GPI), MENA (Teleview), Finland (Cinema Orion), Poland (1989) and Brazil (Belas Arte). The black-and-white film, directed",
+        "url": "https://variety.com/2026/film/festivals/latvia-oscar-submission-ulya-viesturs-kairiss-tallinn-sales-1236930575/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-25-Oct-2026-10-52-AM-631.jpg",
+        "published": "Wed, 28 Oct 2026 12:07:49 +0000"
+      }
+    ],
+    "animals": [
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Conservationists sound the alarm on Trump’s Endangered Species Act changes",
+        "summary": "The Trump administration is narrowing longstanding interpretations of what it means to harm plants and animals protected under the Endangered Species Act.",
+        "url": "https://www.wpr.org/news/conservationists-sound-alarm-trumps-endangered-species-act-changes",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 20:34:54 +0000"
+      },
+      {
+        "source": "Mongabay",
+        "headline": "As the sea swallows a Nigerian community, migratory bird habitat disappears - news - Mongabay",
+        "summary": "As the sea swallows a Nigerian community, migratory bird habitat disappears news - Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEloVzdfRVpmM0NfVlJDZndTNUgySnB3aUxEOVU0QUxudExFWnFHdEtSVFN0aVBHbW5UamJxbTNCQWZOVktjbE81Yll5TlNyRml6X2xfQlpJZ2QxZXFDZ01LSUthMXdseXRVOGNLZ1hyX1NqY3RXaW8yZG5FcmlHS2w2U0pMT3Vick9nV1o3SURmY3JKV0xsVnVXZnNyRkFua1ZMQUFSdzRoMUpBTnfSAbMBQVVfeXFMTW5uaFgxcDh6U2UtdFVHbk5BNXVval9GeWFTeGNaVGxwOFd2UzZDVVAtb0NEclNUQnktaWNmQVVtbEVfU19Hem41OG56TXBaMnNDVm9vUFlPWUJXXzg0VHhlY2NLUmYtSEdxVTJXS1g5Vm5NZWNsOGRjWHE2UHlmaS1mNFlUSmhFZDNZb3pzaXQySF9aWmtNT1VuNjdrNnltcUlMRHdnY05ZZmRGX3o3Ny13dTA?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 08:15:05 GMT"
+      },
+      {
+        "source": "Mongabay",
+        "headline": "A Thai rescue center gives injured leopard cat cubs a second chance - news - Mongabay",
+        "summary": "A Thai rescue center gives injured leopard cat cubs a second chance news - Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmZOeTFXSDFOV1E4Q2UzWjFPY2NiRGl5WVZKbzFIQTc1bUU1ak9ZWUJJWTUyWVhNMUFIV1FtMkxPWGVfWDBfN1dyYUx3cXdmNExKNHF6UzdFLTRTQ29XeW5XY0RVTWxXVVA3SUh6UDFyYzdkeFhQNFM0ZVE2Z2RsT0VobC1ZVDhSRFRIcE9tX3BLZEo0aGhBc3Z3MGRiNC1aVzNPekRBdzZsRVFZ?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 06:11:15 GMT"
+      },
+      {
+        "source": "Mental Health",
+        "headline": "Psychiatric Service Dogs Ease Loneliness in South African Adults With Mental Illness - Bioengineer.org",
+        "summary": "Psychiatric Service Dogs Ease Loneliness in South African Adults With Mental Illness Bioengineer.org",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG5RU0NVTDNkU1UwYXZxRTFJa1hZZG0yWkhBZnFHamEyek5XMzV2RXhaVS0tc19oTzdBU0ticS12S2J4NEI1UUtSdDV1MjZkay00R1QxSXZFdWdnYWJzcjNpS085VDZBSU5OczhFM2p1a3QxbmJubW5ZLUtOVUxSOGZXX1FxQmkzU1V5M3doUjhVQ0F5aWtuMDR2b1lYMV9iWFFicEctQXY5NzB1Umc?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 05:36:57 GMT"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "As Cal coach Mark Madsen begins fourth season, Golden Bears are rebuilding roster yet again - AP News",
+        "summary": "As Cal coach Mark Madsen begins fourth season, Golden Bears are rebuilding roster yet again AP News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLThUc1kzTXRFczJ1SVlidnlfNzhENmhWSFpYOXc1R1BzUkJOMmR5RlRaWFVKX3pCbkUxaFMtVVo4dDZabG4tUXhtcG9vTGJoMXJGa05sZnRrU0lZQkQtRkdEVV9qNnMzdU9nalBQQlllTkRzRU9ZdXhuOUVQYTBIN0JKVTdub3A3Tkh1XzNxLWxVLU0?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 19:36:00 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "Henderson Animal Protection Services celebrates ‘Senior Pet Month’ with half-off adoptions - KLAS 8 News Now",
+        "summary": "Henderson Animal Protection Services celebrates ‘Senior Pet Month’ with half-off adoptions KLAS 8 News Now",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjlCQnhsbUxCazVkMW9kcGhyMmgtLUhfcTVFdTFXMWRPRTJKdnNuZlRLa1NQSjZiNjZ5N18zV19aZF9WeWNmS0xvZk1fTlFEd250eWY1MlJIWExHdWcxN0FnSjkyZXd5MWN0M1AtRWtVLXBpYVM2emh1YU50ckt4bmhoVFRFa1hEZW8wOG5GVENhd2FLZ09rSGJkanhZVWc5UFNScWp5b3h4QUJlLXVvcHdTYmFoazEzcFZEMFloWHRTZ1BqMllCTtIBzgFBVV95cUxPZEQyTkdfVXgtcmlsbUNTNUlZTjVSVzdJbDNMNVhaOVFIcWRuenJSdjVXd1hkUkIxUVlSN1ZKdVpKemM5SVhGc3BnZ21DZzBFZ2d5UjJ5cm1BbW9rNDJDXzNCUHRERGhsRHp4aGM0aDBLdXJPUGhCcUNGTnNqWlg1Y2V0V21IakQwMThsRDNQYzZSSC1ucEVsZ2VTMkx5SzNySmhZWXZmS2FmbGllSktZbnFhaDFYdFE4eVNSRGdJTHFfT0E1bWdhWTV3ZF83QQ?oc=5",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 00:16:05 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "B.C. man who started dog rescue killed while saving animals in Ukraine - Global News",
+        "summary": "B.C. man who started dog rescue killed while saving animals in Ukraine Global News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1o2aldpTElmR2RZankzbjhwb0RqMHRGbjlkaUhZNUdTOTZKOVBQczl0eDFQcTcta0R0Nl9Vd3FYN0NnYnNUZDhqazdOYjJYLWFHNS1SclBuZFo0UFM2Ui1EV0kyZWo5dHlTLUhQaEdLV0J1N3ZhYTd3VzRFUUVqYkI5Z3ZCcm03cjBNN254X3FQTXdCS2NRX202SE43SHhUQjh2cTVybWpLZw?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 23:34:51 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "Police rescue 15 wild tortoises from Gqeberha property, four others found dead - Daily Maverick",
+        "summary": "Police rescue 15 wild tortoises from Gqeberha property, four others found dead Daily Maverick",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmRhMENhQ2N5UmhLMVRxZVFya1lramRVVkdoUnZIX253Q3phY2FRYlB1eFlnUXZtM1JnSnd6RXpmTk00eU9iS1RMLW5zemNaQ0tPNVNTS29hbnpNWkRkeWtWX2hZbC1QR04wcWZZR2hVNUxZYzYzTkVsNGtCTG0xTEJvNnNjVzRIY2VJWHlzMVNuRFVaUzZRNEFGMmlmak9mV0wyb0RyajB1VnVJMDR5aWZ2RkhES0lSMUpSRkNHN3pkMmpXY0ExTw?oc=5",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 23:06:35 GMT"
+      }
+    ],
+    "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Stranger Anonymously Pays $420 Lunch Tab for 27 Disabled Residents and Caregivers",
+        "summary": "Members of a South Korean disabled community group were shocked to hear that a total stranger had paid for their barbecue lunch worth $420. The story begins when the party of 27 community center staff and disabled residents from the city of Incheon, just west of the capital Seoul, stopped for lunch at a BBQ",
+        "url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 11:30:33 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Positive News launches new video podcast exploring what’s going right in the world",
+        "summary": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences",
+        "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+        "image": "",
+        "published": "Wed, 28 Oct 2026 09:43:33 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (The Meows are Mesmerizing)",
+        "summary": "On October 5, a cheetah named Zura gave birth to five adorable cubs at the Smithsonian’s Conservation Institute in Virginia—and you can spy on them night and day. The camera offers a rare opportunity to see a mama cheetah caring for her newborn cubs—while you listen to the intimate vocalizing of soft chirps, tiny purrs,",
+        "url": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+        "image": "",
+        "published": "Sun, 25 Oct 2026 21:51:15 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Flood Worries? Tape Can Block 99% of Water Compared to Expensive Sandbags That Break Your Back",
+        "summary": "Homes at risk of flooding could be better protected in an emergency using widely available and affordable tape rather than traditional sandbags, shows new research from the UK’s University of Hull. Tests conducted at the University’s state-of-the art Property Flood Resilience lab (PFRlab) compared low-cost temporary measures to stop floodwater entering homes. Commissioned by Flood",
+        "url": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
+        "image": "",
+        "published": "Sun, 25 Oct 2026 16:05:34 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "What went right this week: how rewilding can ‘save’ low-lying islands, plus more",
+        "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+        "image": "",
+        "published": "Fri, 23 Oct 2026 05:00:52 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
+        "summary": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it mean? We find out",
+        "url": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
+        "image": "",
+        "published": "Tue, 27 Oct 2026 07:00:17 +0000"
+      }
+    ]
+  },
+  "wonderful": {
+    "source": "Good News Network",
+    "headline": "Stranger Anonymously Pays $420 Lunch Tab for 27 Disabled Residents and Caregivers",
+    "summary": "Members of a South Korean disabled community group were shocked to hear that a total stranger had paid for their barbecue lunch worth $420. The story begins when the party of 27 community center staff and disabled residents from the city of Incheon, just west of the capital Seoul, stopped for lunch at a BBQ",
+    "url": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+    "image": "",
+    "published": "Wed, 28 Oct 2026 11:30:33 +0000"
+  },
+  "capybara_message": "Keep one promise to yourself before becoming useful to everyone else.",
+  "personalization": {
+    "active_feedback_signals": 248,
+    "profile_updated_at": "2026-08-17T12:10:17.367Z"
+  }
+}
