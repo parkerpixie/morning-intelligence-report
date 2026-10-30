@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-29.json",
-  "report_date": "2026-10-29",
-  "generated_at": "2026-10-29T17:26:52.451562+00:00",
-  "edition_count": 106,
+  "latest": "data/archive/2026-10-30.json",
+  "report_date": "2026-10-30",
+  "generated_at": "2026-10-30T13:02:55.054187+00:00",
+  "edition_count": 107,
   "editions": [
+    {
+      "report_date": "2026-10-30",
+      "generated_at": "2026-10-30T13:02:55.054187+00:00",
+      "path": "data/archive/2026-10-30.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Why is the Cheesecake Factory at the center of the latest culture war?",
+        "summary": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
+        "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-29",
       "generated_at": "2026-10-29T17:26:52.451562+00:00",
