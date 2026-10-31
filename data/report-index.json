@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-30.json",
-  "report_date": "2026-10-30",
-  "generated_at": "2026-10-30T17:01:46.431362+00:00",
-  "edition_count": 107,
+  "latest": "data/archive/2026-10-31.json",
+  "report_date": "2026-10-31",
+  "generated_at": "2026-10-31T12:41:08.227277+00:00",
+  "edition_count": 108,
   "editions": [
+    {
+      "report_date": "2026-10-31",
+      "generated_at": "2026-10-31T12:41:08.227277+00:00",
+      "path": "data/archive/2026-10-31.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+        "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-30",
       "generated_at": "2026-10-30T17:01:46.431362+00:00",

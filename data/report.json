@@ -1,545 +1,569 @@
 {
-  "generated_at": "2026-10-30T17:01:46.431362+00:00",
-  "generated_at_local": "2026-10-30T12:01:46.431362-05:00",
-  "report_date": "2026-10-30",
+  "generated_at": "2026-10-31T12:41:08.227277+00:00",
+  "generated_at_local": "2026-10-31T07:41:08.227277-05:00",
+  "report_date": "2026-10-31",
   "top_story": {
-    "source": "NPR",
-    "headline": "Why is the Cheesecake Factory at the center of the latest culture war?",
-    "summary": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
-    "image": "assets/images/clementine-madison-morning.webp",
-    "published": "Fri, 30 Oct 2026 08:00:31 -0400"
+    "source": "BBC World",
+    "headline": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+    "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
+    "published": "Sat, 31 Oct 2026 12:05:04 GMT"
   },
   "quick_scan": [
     {
+      "source": "Wisconsin Watch",
+      "headline": "Wisconsin ICE arrestee’s case heads to US Supreme Court - Wisconsin Watch",
+      "summary": "Wisconsin ICE arrestee’s case heads to US Supreme Court Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLWZKVUtkLUNwVk5iRll6VnptYnRCd0l5R0xmOHVzMzljVTc3RXpoeDRWbVJEUlJ1WHdmbDFMby1LVW51bldEMXBtUmJXZDF3VDM1bjVIN0w1c0xweVcwNk5Ib1pIUVNrNjdtMEM5TTNiQnl2Q3psa05feVljdHFKeVJVd0x4OUt2VmhtWW1QQ3ItUElD?oc=5",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 20:52:01 GMT"
+    },
+    {
+      "source": "Ars Technica",
+      "headline": "Seabirds racing home over the ocean can get jet-lagged",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
+      "published": "Sat, 31 Oct 2026 11:15:26 +0000"
+    },
+    {
       "source": "BBC World",
-      "headline": "More than 43 million ballots cast so far in midterms early voting surge",
-      "summary": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc0/live/b4358cf0-d3d1-11f1-a701-fddedf244c16.jpg",
-      "published": "Fri, 30 Oct 2026 01:44:24 GMT"
+      "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
+      "published": "Fri, 30 Oct 2026 14:48:22 GMT"
     },
     {
-      "source": "Wisconsin Public Radio",
-      "headline": "Who will Wisconsin’s Hispanic voters turn out for in 2026?",
-      "summary": "Who Will Wisconsin’s Hispanic Voters Turn Out for in 2026? Political parties believe the support of Hispanic voters is up for grabs once again.",
-      "url": "https://pbswisconsin.org/news-item/who-will-wisconsins-hispanic-voters-turn-out-for-in-2026/",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 09:04:22 +0000"
+      "source": "BBC US & Canada",
+      "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Sat, 31 Oct 2026 00:29:58 GMT"
     },
     {
-      "source": "Pitchfork",
-      "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
-      "summary": "Out now via Tidal",
-      "url": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
-      "image": "https://media.pitchfork.com/photos/6ae3874046314d3f675662a1/master/pass/PB_MSG_9969.jpg",
-      "published": "Thu, 29 Oct 2026 17:25:02 +0000"
+      "source": "BBC US & Canada",
+      "headline": "What's at stake for Trump in the US midterms?",
+      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb4/live/7add81a0-d3be-11f1-b441-2b33b063138f.jpg",
+      "published": "Fri, 30 Oct 2026 10:19:48 GMT"
     },
     {
-      "source": "NPR",
-      "headline": "The two most interesting risks to Anthropic",
-      "summary": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 07:00:00 -0400"
+      "source": "BBC World",
+      "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
+      "published": "Fri, 30 Oct 2026 15:17:11 GMT"
     },
     {
-      "source": "Variety",
-      "headline": "Amazon CEO Says Prime Video Is Profitable and Generates ‘Tens of Billions of Dollars’ Annually; Content Spending Grew 7% in Q3 to $5.9 Billion",
-      "summary": "Amazon’s stock price is down after the ecommerce giant missed Q3 earnings estimates and ad revenue growth slowed in the quarter — while investors are rattled by its continued massive investment in AI infrastructure, which put a crimp in free cash flow. But on the company’s earnings call, CEO Andy Jassy called out bright spots",
-      "url": "https://variety.com/2026/tv/news/prime-video-profitable-content-spending-q3-amazon-ceo-1236935186/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Carrie-Prime-Video.png",
-      "published": "Fri, 30 Oct 2026 15:31:48 +0000"
+      "source": "BBC US & Canada",
+      "headline": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c120/live/9945dbf0-d45f-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 30 Oct 2026 12:43:46 GMT"
     },
     {
-      "source": "BBC Health",
-      "headline": "Heart attack patient, 83, had to drive four hours for hospital appointment",
-      "summary": "Charles Swift faced a 140-mile round trip to get to a hospital, but had to drive himself.",
-      "url": "https://www.bbc.co.uk/news/articles/cr89zkvdlqpgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0c/live/e3df6a00-d14e-11f1-9eb5-811878e0f07d.jpg",
-      "published": "Fri, 30 Oct 2026 06:08:38 GMT"
-    },
-    {
-      "source": "BBC Health",
-      "headline": "Biggest fibre boost could be scraps in your bin, experts say",
-      "summary": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c93d0290-d435-11f1-9ba3-e16b46d57ce6.jpg",
-      "published": "Fri, 30 Oct 2026 00:40:30 GMT"
-    },
-    {
-      "source": "BBC Health",
-      "headline": "I didn't know I was lacking in vitamin D until I collapsed at work",
-      "summary": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg",
-      "published": "Fri, 30 Oct 2026 00:29:05 GMT"
+      "source": "Ars Technica",
+      "headline": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+      "published": "Fri, 30 Oct 2026 13:46:39 +0000"
     }
   ],
   "sections": {
     "local": [
       {
-        "source": "Wisconsin News",
-        "headline": "Wisconsin election 2026: How to vote and what's on your ballot - FOX 9 Minneapolis-St. Paul",
-        "summary": "Wisconsin election 2026: How to vote and what's on your ballot FOX 9 Minneapolis-St. Paul",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ia1l3RlFfcW5QcUtubTdxYkhjTzNURGl2TnF3UzNFUkw1R2NWZ1JKZW1KS3dYVzByNlk2NllfSjctRzZDNmN2cEkweUtRQWRVbnpaQk9kR3FJMF8teEplaGJ2aThrUU1xcFlOdE82bU5LM0hZUjJMeg?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 15:19:20 GMT"
-      },
-      {
-        "source": "Wisconsin News",
-        "headline": "AP Decision Notes: What to expect in Wisconsin on Election Day - AP News",
-        "summary": "AP Decision Notes: What to expect in Wisconsin on Election Day AP News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmNfV3k1R3N5SngxMVZXdHhKWXFJNXBNc1ZQMzZWbW1SYi16OHBlZkl5bVJlMElMcU44THA0Q2ZpaENUWnV5NFFFMzdqbDV0eTlCaG9JWkg5bS1pQmlaWlRZSUdPZngyUWU5MVVtaGJIc3E1NzVzTnB6OUFWVUdvZURKSndONVNrSWhpbEEtMHJhVzExWEQtVlhSR0RwODBZSGdRU0lOZWpiUXZnWkE?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 11:00:00 GMT"
-      },
-      {
-        "source": "Dane County",
-        "headline": "BIPOC Youth Mental Health Conference to highlight needs of Dane County students Nov. 7 at the Center for Black Excellence - Madison365",
-        "summary": "BIPOC Youth Mental Health Conference to highlight needs of Dane County students Nov. 7 at the Center for Black Excellence Madison365",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRGdLcG45bm5fMG1Vd2FaVDV6dnhIbWZRa2tjQkVsbWlfLS1QQkh4Nk5McURzVXFkeXB6cHZmcHZ3RHhkTm9vOG1PUXVxTlpSYkxlRmsyVDgyeE40RTMyUXplSndlemZaTkdQam5XRG1mcGNVTWJndm80Wjd3Rk12ZHN3Znpla2F5dWRlSl9TT0hmZzNVU2dlaDFXcnZVd013bUxIcW5yd2lsMk1LeEVsalRibVVISjlQUEJackU0THBQeE9PNzNPRnE4OGNIT3VXUjBLWkhTeW9NSXA3?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 11:00:45 GMT"
-      },
-      {
         "source": "Madison Local",
-        "headline": "Isthmus beer contributor Robin Shepard gets national honors - Isthmus | Madison, Wisconsin",
-        "summary": "Isthmus beer contributor Robin Shepard gets national honors Isthmus | Madison, Wisconsin",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzJNLXpaSEp1RWpTcGhHTjk1djd0NXRZZi1HNjI1bUZTekJ4U0ZCWmJtUE5sRDV1cngyQlhRQzkzNFBHaXAwLXhaYXc1RkdvMll0QlVnV2RFNmktTjRzbG1wNmVHNkhtYWl0M29GNThLUUhfRmZScGVVaEQ0WVZ6bzVHWnV0NkJxWi1HLQ?oc=5",
+        "headline": "2026 Isthmus General Election voter guide - Isthmus | Madison, Wisconsin - Isthmus | Madison, Wisconsin",
+        "summary": "2026 Isthmus General Election voter guide - Isthmus | Madison, Wisconsin Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QSndVOW50YzlvUmFrWUdxbThXMzl3akU3ampheGRNaTRqZ3VYVnIxRjVPcXVpQWlJaGVyR3lLQ3poWDc2RjBUckd4SGF5R0VtdDNXRXVfNTBxTTlrdDdUUkhwcFFkamFSanFDcjY5Y256R1N6aS1US1VZOFI?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 15:02:44 GMT"
+        "published": "Fri, 30 Oct 2026 23:03:02 GMT"
       },
       {
         "source": "Wisconsin Public Radio",
-        "headline": "Wisconsin’s lieutenant governor candidates are top of the ticket. But maybe not top of mind.",
-        "summary": "Wisconsin residents may have put a lot of thought into who they plan to vote for in the race for governor. And when they cast that vote, they’ll also be selecting a second person, for a role they may not have thought about at all.",
-        "url": "https://www.wpr.org/news/sarah-godlewski-david-varnam-wisconsin-lieutenant-governor-2026",
+        "headline": "As Election Day nears, Wisconsin’s in-person absentee ballots have surged",
+        "summary": "With only a few days to go until Election Day, hundreds of thousands of Wisconsinites have already turned in their absentee ballots — and overwhelmingly, they’re doing it in-person.",
+        "url": "https://www.wpr.org/news/as-election-day-nears-wisconsins-in-person-absentee-ballots-have-surged",
         "image": "",
-        "published": "Fri, 30 Oct 2026 10:00:00 +0000"
+        "published": "Fri, 30 Oct 2026 22:46:44 +0000"
       },
       {
         "source": "Wisconsin Public Radio",
-        "headline": "Have you heard of these monsters that call Wisconsin home?",
-        "summary": "Artist Mike Bass has worked his way through the well-known Wisconsin cryptids. Now, he seeks out the state’s more obscure legends, from the many monsters that live in Wisconsin’s lakes, down to a phantom flock of chickens haunting a country road west of Green Bay.",
-        "url": "https://www.wpr.org/news/mike-bass-monsters-that-call-wisconsin-home",
+        "headline": "Alabama vice chancellor will lead UW system",
+        "summary": "Tonja Johnson, a senior vice chancellor in the University of Alabama System, will become the next president of the Universities of Wisconsin.",
+        "url": "https://www.wpr.org/news/tonja-johnson-uw-system-president",
         "image": "",
-        "published": "Fri, 30 Oct 2026 10:00:00 +0000"
+        "published": "Fri, 30 Oct 2026 19:35:25 +0000"
       },
       {
-        "source": "Wisconsin Public Radio",
-        "headline": "More than 70 Wisconsin school districts seek $1.6B total in referendums Nov. 3",
-        "summary": "Many Wisconsin voters will again be asked to approve tax increases for their local public schools on Tuesday's ballot.",
-        "url": "https://www.wpr.org/news/wisconsin-school-districts-referendums-nov-3-election",
+        "source": "Madison365",
+        "headline": "UW Board of Regents picks Alabama System administrator Tonja Johnson as next Universities of Wisconsin president - Madison365",
+        "summary": "UW Board of Regents picks Alabama System administrator Tonja Johnson as next Universities of Wisconsin president Madison365",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSm1RbWlnMjR2a0JFdVFwNFNMWWtBdzZpUm1sYTZ6X1JEM1AwR1hrckFGbUpSRnVqMmY3ejBXRGlpNFdRRXhZWjlNaWx3b0xKb0gzN2FDNUZyYjVVUWZudGo3Y090a1JVV25nd2ZxQXczeU9DbFA4Y2R2UkkxRGJzb1N6VzFXN2s0U2RaR19xVXhGbXNRbVpLZEd0aWxsWkdNb1lFMEs1UjNjNlI2OEV2THc2YS1JOWoycWFOTDhRM3JOZzZEdXNsbmNRUTQ5aGtNb2c?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 10:00:00 +0000"
+        "published": "Fri, 30 Oct 2026 19:15:28 GMT"
+      },
+      {
+        "source": "Isthmus",
+        "headline": "RSVP for Homelessness Awareness Summit - Isthmus | Madison, Wisconsin",
+        "summary": "RSVP for Homelessness Awareness Summit Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FblJtY2w5STBYS3dKTkkwcFU0Y1E5MHBkaTJ3YTljN0NDdkRURzJ6WUVpZUJnZ3dGMmZVNldFcjdZeDUydC1QS1NObkJpcWdJdDQwT2RBVnBnQUJfQ19rVTVtajBWRVBT?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 01:06:48 GMT"
+      },
+      {
+        "source": "Isthmus",
+        "headline": "The Record Club - Isthmus | Madison, Wisconsin",
+        "summary": "The Record Club Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VY3g0YWFONkY3RkRxTTZ2U0djSFR0c05NWGtmMFRLWDluUmdSR2d3Y084N0VnZjhGTWNOVmZGNDJJX3JQbmF3c21EM0J3TUl5N3BDcVhBOWxhcHNm?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 10:16:49 GMT"
+      },
+      {
+        "source": "Isthmus",
+        "headline": "Make Your Vote Matter - Isthmus | Madison, Wisconsin",
+        "summary": "Make Your Vote Matter Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NSkZvX2ZHaUNDQ2VPcHFSM3hoWHNBeWd0RVlpRlNFZmg3NWV0LURjVE9WR3hJVGttWWotMEFkSVVua0I1Z0dnVDktVFZhYkJvYVhmek5ueHpzdFNTWnc?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 10:16:46 GMT"
       },
       {
         "source": "Channel 3000",
-        "headline": "Canadian citizens accused of illegally voting in Wisconsin elections - Channel 3000",
-        "summary": "Canadian citizens accused of illegally voting in Wisconsin elections Channel 3000",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORExhaENvX2NNRmQzdVNkM0ozNVBDYlZUaDlkY05KZWxNaXJqdkR6WmItTHlQMW5aMkhtWUxDWFpzTjRRSXk4WnNxZU54UzlqNmpVX1l1M1VNUWNaYVVCS2pCRlM0TVp0NlgtVFpCNjNiRm83V2ZfcHRkYmRVenlzREVMZlh0NTVId29XS0p6c0JoWmZRblN5b0dLWjNEazB4dTBEY2Q1UXZ6RmJyalpYMDMwaHNRbWdrYm5LY0JYS2Jxd3RDcHhzcDctX1ZWNFRFWkpLRlRaeUlnYTl0M2ZfbURkckJMZw?oc=5",
+        "headline": "Madison police warn of thieves targeting scrap metal on east side - Channel 3000",
+        "summary": "Madison police warn of thieves targeting scrap metal on east side Channel 3000",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1NCdWZmWVRsOHk0Zzgwa0V4OWR0MkFvcF9ydkRrUWN4ZjFlY2Qyb3JOczdaTmNQUEhYV3NZU1BuT3VPSldxWTdMQjZWbDJhWGtsMHdRYTRmWFdTanpTNktYQWlIdlJCcDJSQU0yR1Q5UGZ2X1FqNEtrcklhUTZOS0Fudm9Jdk1kMmpZVUR0dFVGZ2hCSm1QcUNWdVdmMFhhOFU2azJpSV9jYmdQRThmTU96V3E5NVVaVUlLb2dYclBjVFpWN2FObmRPbm1fZ281LV83Z0xYZy12SHhWc215SFRn?oc=5",
         "image": "",
-        "published": "Thu, 29 Oct 2026 21:15:00 GMT"
+        "published": "Fri, 30 Oct 2026 15:40:00 GMT"
       }
     ],
     "must-know": [
       {
-        "source": "BBC World",
-        "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
-        "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-        "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
-        "published": "Fri, 30 Oct 2026 14:48:22 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-        "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg",
-        "published": "Fri, 30 Oct 2026 16:26:11 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-        "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Fri, 30 Oct 2026 13:46:16 GMT"
-      },
-      {
         "source": "BBC US & Canada",
-        "headline": "What's at stake for Trump in the US midterms?",
-        "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-        "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb4/live/7add81a0-d3be-11f1-b441-2b33b063138f.jpg",
-        "published": "Fri, 30 Oct 2026 10:19:48 GMT"
-      },
-      {
-        "source": "BBC US & Canada",
-        "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
-        "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-        "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
-        "published": "Fri, 30 Oct 2026 15:17:11 GMT"
+        "headline": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg",
+        "published": "Sat, 31 Oct 2026 09:16:14 GMT"
       },
       {
         "source": "NPR",
-        "headline": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-        "summary": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
-        "url": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+        "headline": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+        "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+        "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
         "image": "",
-        "published": "Fri, 30 Oct 2026 05:00:00 -0400"
+        "published": "Sat, 31 Oct 2026 05:00:00 -0400"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Spain train disaster clouds Sánchez chances of re-election",
+        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+        "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Sat, 31 Oct 2026 05:44:21 GMT"
       },
       {
         "source": "BBC US & Canada",
-        "headline": "Democrats have an identity crisis - it won't be an easy fix",
-        "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
-        "url": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg",
-        "published": "Fri, 30 Oct 2026 02:14:41 GMT"
+        "headline": "'The necktie is dead': How US midterm candidates are dressing for votes",
+        "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+        "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png",
+        "published": "Sat, 31 Oct 2026 00:16:03 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Preschool Case Tests Religious Conservatives' US Supreme Court Win Streak - U.S. News & World Report",
+        "summary": "Preschool Case Tests Religious Conservatives' US Supreme Court Win Streak U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTM3dVVYVlg2SzhZMTBKNG5MSEtkYnZSeVlmUlNtRENGejY5WGNkZmJnQjYxRE90OHRTd0VCWHZ6OE1qdHlYSG84dVE4azhCRzlvazBJMUdQT285X0NOVDRlcm5rdUJwLUpKTXVfRUhnRFpxUzVxTmwtTGFjM2otSVNhODVmVVVUT3FpWDZuMkRDX0VCdDUtUlh6VnBscHk2ZzVOWmpwMVJPUG9YZmw1U1dQSHZ5eVI1dHM3YVY1aDk2SURnVGpibA?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 10:15:00 GMT"
       },
       {
         "source": "NPR",
-        "headline": "Democrats seek to weaken the Republican lead in state legislatures",
-        "summary": "Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.",
-        "url": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+        "headline": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+        "summary": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory.",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
         "image": "",
-        "published": "Fri, 30 Oct 2026 05:00:00 -0400"
+        "published": "Sat, 31 Oct 2026 08:00:00 -0400"
+      },
+      {
+        "source": "NPR",
+        "headline": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+        "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
+        "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 07:56:10 -0400"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "Alabama Republicans thought they had drawn a safe US House seat. A Black congressman had other ideas - News4JAX",
+        "summary": "Alabama Republicans thought they had drawn a safe US House seat. A Black congressman had other ideas News4JAX",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVFBSdzJzazRJeHJMVjVEOTZGd1pXTjNvbkJWRy1lWTRoZFQ3NmIxZHY2THlZTHgxeXhOcWU4NzVaYTQwU3dIUUIxVmh6WmRoU1ExT3VjV1g2MXB2T1dHUDBWdGIxZHdHMHhlX3VNb3o0TUxaOXpSTEcyb0dmcGhpQzhsOTFTTkItUjhNLXBRTENlbnNrYjh1VkowT0tnekdHRUFnTXN6clQ1UzVaNms4WmkyWWtZR2FMaVFUNml2YVRtOS1LRld3bnM0czBYVmlmSUNaVWZqSkxsbEc2Ym9ma3JXZnM?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 11:48:16 GMT"
       }
     ],
     "ai-tech": [
       {
-        "source": "Ars Technica",
-        "headline": "Hackers steal $6.3 billion from Binance in record crypto heist",
-        "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-        "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
-        "published": "Fri, 30 Oct 2026 13:46:39 +0000"
-      },
-      {
-        "source": "Ars Technica",
-        "headline": "Trump declares robot imports a national security threat",
-        "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-        "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-        "published": "Thu, 29 Oct 2026 19:07:53 +0000"
-      },
-      {
-        "source": "BBC World",
-        "headline": "US tech stocks see sharp falls over AI cost fears",
-        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-        "published": "Fri, 30 Oct 2026 15:46:28 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "China denies allegations of spy operation targeting Nvidia CEO",
-        "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-        "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
-        "published": "Fri, 30 Oct 2026 12:20:04 GMT"
-      },
-      {
-        "source": "BBC World",
-        "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-        "published": "Fri, 30 Oct 2026 12:04:02 GMT"
-      },
-      {
-        "source": "MIT Technology Review",
-        "headline": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can…",
-        "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+        "source": "The Verge",
+        "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+        "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
         "image": "",
-        "published": "Fri, 30 Oct 2026 11:30:00 +0000"
+        "published": "2026-10-30T16:26:10-04:00"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+        "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+        "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
+        "published": "Fri, 30 Oct 2026 22:21:05 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "summary": "People who love AI don't always love telling others they used it.",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
+        "published": "Fri, 30 Oct 2026 20:40:13 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+        "published": "Fri, 30 Oct 2026 21:09:54 +0000"
       },
       {
         "source": "The Verge",
-        "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "headline": "Exclusive details about Akai’s MPC Sample Key",
+        "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of",
+        "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
         "image": "",
-        "published": "2026-10-30T10:58:06-04:00"
+        "published": "2026-10-30T17:01:32-04:00"
       },
       {
-        "source": "Ars Technica",
-        "headline": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-        "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
-        "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
-        "published": "Thu, 29 Oct 2026 17:21:33 +0000"
+        "source": "AI News",
+        "headline": "Google, Microsoft, OpenAI, Anthropic to offer streamlined AI training tool - MLex",
+        "summary": "Google, Microsoft, OpenAI, Anthropic to offer streamlined AI training tool MLex",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmJJd2t2aktldW9nMG93LWFuR2NYdkhTZ3VCYnh6SnhldWFwaDZxSXJTVTFQTUtHMnBCM3o3ZF9RWkRNY1VzTHRMOHBpejR4ZGtScjNuWlF0N1J1aTVDODg0Z25LWVVZSUZKWFd5LWVGckE0eDhJRzRmQnRGNHRGQm5KS214OVZxaVNvQ2pHSGVQQTdtdWJxZHE1dGxrNWJuVG1pUUM3VGlBSmxBS0U5RjB2dG3SAVpBVV95cUxPNUFzSDFmR0xMUHgtbkMxeWNTSUwxb3JjOTZiOU9HWWotczRKSjA3anU5ckk1ZkZrOVk2S2ZpUDRZVGJxVXY4ODdvLVhmM1FqdGppQTBBMGNieGc?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 18:43:58 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "Your writing was flagged as AI. What does that actually mean?",
+        "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 05:00:00 -0400"
+      },
+      {
+        "source": "The Verge",
+        "headline": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "image": "",
+        "published": "2026-10-30T16:48:43-04:00"
       }
     ],
     "work-marketing": [
       {
-        "source": "BBC Entertainment",
-        "headline": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
-        "summary": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
-        "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ef/live/abbe8340-d469-11f1-9dda-1ba6fcc7d159.jpg",
-        "published": "Fri, 30 Oct 2026 15:49:25 GMT"
-      },
-      {
-        "source": "MarTech",
-        "headline": "More paid social ads won’t fix a creative problem",
-        "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn.",
-        "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
-        "image": "https://martech.org/searchengineland.com/wp-content/seloads/2026/10/An-image-of-a-woman-in-medical-scrubs-holding-a-pair-of-clogs.png",
-        "published": "Fri, 30 Oct 2026 12:33:00 +0000"
-      },
-      {
-        "source": "MarTech",
-        "headline": "How to test incrementality before peak spending starts",
-        "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive.",
-        "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
-        "image": "https://martech.org/wp-content/uploads/2025/09/A-B-Testing-and-AI-Refined-Marketing-abstract-concept-800x450.jpg",
-        "published": "Fri, 30 Oct 2026 12:18:00 +0000"
-      },
-      {
-        "source": "BBC Technology",
-        "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-        "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Fri, 30 Oct 2026 09:33:51 GMT"
-      },
-      {
-        "source": "Search Engine Land",
-        "headline": "Core Web Vitals optimization can be a waste of time - Search Engine Land",
-        "summary": "Core Web Vitals optimization can be a waste of time Search Engine Land",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktXcjgwY05lbkJ6Y0FZcDBKU3VFdFdHaUc3NnNuQ3RVRG5YUGFsRlhyM0VSMWtGZHFSS2NHTVJDLTYxbmFXWU1sd3IyQkpsYnpleFVZRjdUYk9QYlg2WGR1ajg0ck53R2lGSjRtVDZheHZHQlhaUU40WHdzbmJyYw?oc=5",
+        "source": "Adweek",
+        "headline": "How News Networks are Covering the 2026 Midterm Elections - ADWEEK",
+        "summary": "How News Networks are Covering the 2026 Midterm Elections ADWEEK",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0h3VUw5RU5EdXktRS02cXRLMVZoekhscHRSUWdXTVp1TGttR3JDZ3M5ckpXZVZiaW5oRHprYVNTWTZTcGo2a0xpeU9kVVlVb09DVFdjSW50Mm5zNWViMHNxM0VXRUhwQm1jMG5ha19yNHpHYTUtcV9rTEFOdVlQVlc4UERpdWtuNTI3TElHWUVZbnZw?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 14:00:00 GMT"
+        "published": "Fri, 30 Oct 2026 20:21:50 GMT"
       },
       {
         "source": "Marketing Ops",
-        "headline": "Wealth Managers Are Spending More On Marketing. Most Still Can't Prove It Works. - www.thewealthadvisor.com",
-        "summary": "Wealth Managers Are Spending More On Marketing. Most Still Can't Prove It Works. www.thewealthadvisor.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXy1SV3pWR2VKNnFtT184MU8zN2ZZeWl4TVhWanVkSVlkSFA2TXpNN3djd25FMFBJQnVNUGNrYS1Sb2hjUk5nbUVxMXJHYWd5U0NJdWZTN3Q1X01Lc1lFZkd2WXJJQVFNNDl4T0c1VmM5cmg1OTEwckp0WDhWRGhvdVRFaC0ySTB4eDhraXR4V1h1a19sMXBaUEJoX3hqZnJiczBpS2tONDFkZTZ6UDlwbW52R3pWUQ?oc=5",
+        "headline": "Best Customer Service Keynote Speakers 2027: Scott Steinberg - https://www.futuristsspeakers.com/",
+        "summary": "Best Customer Service Keynote Speakers 2027: Scott Steinberg https://www.futuristsspeakers.com/",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXhjeG5DRVAyWHpRamFqSGVHSEtFSDVWUS1BU0kwU0ZNSjV3NXg3eVBPVFNFWGEyZUpEY2lWcG85T0VzTFZjd1dZbGl6T2VWTWZhWXY0M0xDdmZ4eU16T1VWblNpLUI2V1BDaW4zY3dvQXRYWHQ5akhGRWNjM2RQSnZfNHU?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 13:07:49 GMT"
+        "published": "Sat, 31 Oct 2026 11:40:31 GMT"
       },
       {
-        "source": "B2B Marketing Ops",
-        "headline": "Marketbridge Acquires Channel99, B2B Tech Company 10/30/2026 - MediaPost",
-        "summary": "Marketbridge Acquires Channel99, B2B Tech Company 10/30/2026 MediaPost",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2ZxQ1pvVDVJTFJGWi0wbWtOdjlnNjVZVjh2VDFRS2ZmM21qOWl1MENTOUl1ejdPUVlXcjRSczd6VFNjNmlQV012R1ppN1N3WUg3U3lEUG5VSWd5UmQ0dGdHdEVNRjJmNll2cHVHQnlObU81NDFLdlBlaFNnbTNPYXBDTy13Zl9BTXVRc3lac1FmVnY4WGZ6RHBoY0MyTkpFWFFMeWc2V190aUgzenVPTlBGWjNEWjN2TVpBUGdIUQ?oc=5",
+        "source": "Klaviyo",
+        "headline": "Boost Sales with Discount Pricing in Product Blocks - Klaviyo",
+        "summary": "Boost Sales with Discount Pricing in Product Blocks Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0X1JJd2VUZVlDUjRaeHRESjk5Mzh0Mk13UjlIZ0ZCc01VYWNPaWJVc05ZSlJ6T2U2alRZZzdqYjlfcjlEM2FoOHI3UVkwRmMzS2pfbG9Ub242Ry1RWFRJZGRTWQ?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 11:29:12 GMT"
+        "published": "Sat, 31 Oct 2026 07:49:01 GMT"
+      },
+      {
+        "source": "Klaviyo",
+        "headline": "Plan your marketing strategy with the campaign calendar - Klaviyo",
+        "summary": "Plan your marketing strategy with the campaign calendar Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVEkzb1c4Q1FmT21KRExldURRTFppaW5nWi11N282cENIQlFMZFFxS0ZqUUExQk9xV2pyQXdiZUdOTmdhUXp3bGFGWEMwMXUydkNfeGdvZVZYdw?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 05:11:27 GMT"
       },
       {
         "source": "Marketing Ops",
-        "headline": "Wealth Managers Raise Marketing Spending but Struggle to Track ROI - MyChesCo",
-        "summary": "Wealth Managers Raise Marketing Spending but Struggle to Track ROI MyChesCo",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEtBckx3UDNGUlktZ3ZiWloyZUNWMERTS0k1cjBjaWI2Q2d3T251dWxYeV9PYmhlMWxiYmZTTUNrdFl6ZGNKX2dNbUlwVTg5WUNxLTAybVdBTXRnMFR1MHpjcGRaSUE4NDl2MTlqSGZtWVpWZ0NEeHd1TTZfMUZGNF9wSGJfbEFCd3JiaXQ0WmE5WnpfYzEzNzZDZktzY0dkbkpScnYzcjRIRWxq?oc=5",
+        "headline": "OpenClaw use cases: 25 ways to automate work and life - Hostinger",
+        "summary": "OpenClaw use cases: 25 ways to automate work and life Hostinger",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zc1pDS1ZIdjJIWERrNnpuNEJ3bHFDTmZwZnVwM09QUWJpcVVRcF9PWU1ZVHhVcGE3OUtpU3FRa3lQNnpNUWV5NlJYUURPLWkzTEkzLXlDaXNfVFlFeGtpZkFqTVBCZw?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 11:13:02 GMT"
+        "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "source": "Klaviyo",
+        "headline": "Email Template Library - Klaviyo",
+        "summary": "Email Template Library Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRVozLUxRRFVyeXR2UEdVczNkRm83WDZPX3Y5THNpOXY2Wi16b09HOWZMTWlTTURZUW4xcHFpbXRkMXRBY3VMQVZVQUg1d0pwTGtPVjdBMGZzdDdnd3ZhZQ?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 23:41:49 GMT"
+      },
+      {
+        "source": "Braze",
+        "headline": "Real-time marketing: How brands respond to customers in the moment - Braze",
+        "summary": "Real-time marketing: How brands respond to customers in the moment Braze",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5McVJEQUkyeHdNdGdoNUFjVDR6ang5YWxHTWdFelA1Mk9vQ2ZqNkQ5WTFGUDhSQm9ydlBUTGZtMUVXSmlEUGlnSi1sd3Z6anlkRWdaRkRfV2JJM2ExOGgxRmtrdTRqeVJEbFJCeA?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 20:43:17 GMT"
+      },
+      {
+        "source": "Braze",
+        "headline": "eCommerce Customer Experience After Checkout - Braze",
+        "summary": "eCommerce Customer Experience After Checkout Braze",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmMF9BTmxDUW50a2xIdmNxS25waVRoVE1DOU5jWXNuNHU0aEdtMGFVaklEelVKUUdZbkFOZVVBVVpsbzdreTVfZzJ6cUI1eURsOS1udXRPV3N6V0VITjgxWmdQWjVyZmdMOUNvMWpkaEJ0UU14TktScTJ3?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 20:43:17 GMT"
       }
     ],
     "wellbeing": [
       {
+        "source": "Associated Press",
+        "headline": "Rising health costs and coverage changes are big concerns for older adults as Election Day nears - News4JAX",
+        "summary": "Rising health costs and coverage changes are big concerns for older adults as Election Day nears News4JAX",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmZQQWdGalZ1Y0V0OFpEb3lDZnNjaVlnZ0RLX0JEX256T2pDdkJyUmd1RlNLaFJNYnNlQ1VFSDl1UXN5bmFnX3plTGJXb1R3MVQ3dFdRN1VMeVVqbTV1M2xPcXR3U25SeEtET2FPWjJZSHBSNGRQNnhwc3FDaTRvbktIR3JhREhHN0d4bzdMQmxNdnljWmw3bF9pVTRiSXF4VTFDRGc3dFFtbVpuUEE5a2o3Umdsa3dORUhhTU5VTXRZQS1qZ1E2clVjUDRZaENOY0YzZVJYQUR3Z1k3LUdKRQ?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 12:22:08 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "US Court Lifts Ruling Requiring Idaho to Allow Some Abortions to Protect Women's Health - U.S. News & World Report",
+        "summary": "US Court Lifts Ruling Requiring Idaho to Allow Some Abortions to Protect Women's Health U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGlnalFNYnA1Z1BXMGlyOFdXUVNUcVBkdmNwbFhCamZyUE1qZkNOUV9Sa2tDMWNjQzFhX2FQWWtRNzNObDBuc1V3dWJvWGdMZG9QOEJyQzk0X1N6cThnWlRRS0VBZFFSOGU3ZFNKOVFQWTFSYi1kbDc0QnAwNUF6bWRPMkthd2ZoZTBHTFN0NmpXTXNhRjNJaWFsT3BmWlN4cmVXdzJtZ2FmdTVla0VZUGhMMlJhVDhuUF9LRGJDZlROeHF5dnY2VHBDaFhLX3dNdzIzQklvWjlXbnM?oc=5",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 22:26:00 GMT"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+        "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
+        "published": "Sat, 31 Oct 2026 11:02:34 +0000"
+      },
+      {
         "source": "BBC Health",
-        "headline": "How major policy shift is changing police response to mental health call-outs",
-        "summary": "999 calls will be triaged and if there is any risk of harm or to life, or if a crime is involved, the police will still attend.",
-        "url": "https://www.bbc.co.uk/news/articles/cvglwd7y00g5o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/193b/live/d512ab50-d3c3-11f1-a62f-fd53d503ac8d.jpg",
-        "published": "Fri, 30 Oct 2026 06:16:08 GMT"
+        "headline": "Biggest fibre boost could be scraps in your bin, experts say",
+        "summary": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+        "url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c93d0290-d435-11f1-9ba3-e16b46d57ce6.jpg",
+        "published": "Fri, 30 Oct 2026 00:40:30 GMT"
       },
       {
         "source": "BBC Health",
-        "headline": "I gave birth in ambulance on A96 amid staff shortages at local hospital",
-        "summary": "Hannah Smith was travelling to Aberdeen Maternity Hospital as she could not go to Dr Gray's in Elgin.",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyd2l9gvy9o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f94/live/fb246200-d46f-11f1-a701-fddedf244c16.jpg",
-        "published": "Fri, 30 Oct 2026 14:47:08 GMT"
+        "headline": "I didn't know I was lacking in vitamin D until I collapsed at work",
+        "summary": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg",
+        "published": "Fri, 30 Oct 2026 00:29:05 GMT"
       },
       {
         "source": "BBC Health",
-        "headline": "'My low Vitamin D levels hit me like a truck'",
-        "summary": "Saskia Reeves-Priestley didn't know she had a Vitamin D deficiency until she suddenly collapsed at work.",
-        "url": "https://www.bbc.co.uk/news/videos/cmy931z9pl8do?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04dc/live/028da930-d3ac-11f1-a5cd-49637fcbd4e4.jpg",
-        "published": "Fri, 30 Oct 2026 06:30:08 GMT"
+        "headline": "Hundreds of GP practices lose online services after collapse of tech firm",
+        "summary": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
+        "url": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4030c550-d3b7-11f1-8c27-87a7c72809db.png",
+        "published": "Thu, 29 Oct 2026 17:13:40 GMT"
       },
       {
-        "source": "ScienceDaily Mind & Brain",
-        "headline": "Scientists discover why chronic back pain feels so personal",
-        "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited…",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+        "source": "Mental Health",
+        "headline": "Neurodivergent: the trendy label for brains that depart from the norm - EL PAÍS English",
+        "summary": "Neurodivergent: the trendy label for brains that depart from the norm EL PAÍS English",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVS1pVGlqU1UtZ3AxV2dwVmJJMjhDYlh1UU9sNW9lU2xXYVlCVGI0WEtlQWttWEhqeU1DY1h3LXF1UnJGRlhqVmw2bG9nV3g4SGFqbUZ5T05zc1hqeExrVXVoV0lhYkY2TFY0QXUzbUN5QlF6ZWlmeHJhRnlsbndNWFZLTnVNeFl2UlNZSW0yajlUMEFJa1VSN0QxdmNldk80WWphMEJLenU3VGFtTUlaMHdKRlp6RFRMazlBTVdmNGVteXpfSFMwdHl3VzlUZ9IBzgFBVV95cUxPVS1pVGlqU1UtZ3AxV2dwVmJJMjhDYlh1UU9sNW9lU2xXYVlCVGI0WEtlQWttWEhqeU1DY1h3LXF1UnJGRlhqVmw2bG9nV3g4SGFqbUZ5T05zc1hqeExrVXVoV0lhYkY2TFY0QXUzbUN5QlF6ZWlmeHJhRnlsbndNWFZLTnVNeFl2UlNZSW0yajlUMEFJa1VSN0QxdmNldk80WWphMEJLenU3VGFtTUlaMHdKRlp6RFRMazlBTVdmNGVteXpfSFMwdHl3VzlUZw?oc=5",
         "image": "",
-        "published": "Thu, 29 Oct 2026 20:26:37 EDT"
+        "published": "Sat, 31 Oct 2026 04:00:00 GMT"
       },
       {
-        "source": "Medical Xpress",
-        "headline": "Brain circuit helps mothers wake up when their pups call - Medical Xpress",
-        "summary": "Brain circuit helps mothers wake up when their pups call Medical Xpress",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Za0RpYWdzMnBtZFdqTXVrMHh6eWhhVHBldDJPcUluWlY4aUpmZUg4TER2UjNkMGp6c29UTGdrY2NGNzRiX3VKVjlrSnVWSk5vS01WdmdTSUVQVzFLeks4N0hhM3FNQ1p6ZG1LbVpIRElNSEhGdUtxVkJ3?oc=5",
+        "source": "Mental Health",
+        "headline": "The problem with James Acaster’s showing on the Traitors - The Spectator",
+        "summary": "The problem with James Acaster’s showing on the Traitors The Spectator",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXZTaDNhYkFHQTctOEZjNDZvb1BpZFpHdDltM1JBeVVZMGRsVFRWV0hSVy0zZjZxZV9EMUlIaTJpWWZVWUkzUVhVMzJLdTBnckpHOERrNzAtYWFtMmVSbEFidTdxWkV0dms4RWdXZWpnRXJBYWNfOVN1WlpBNUxBRFJ3?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 12:20:12 GMT"
-      },
-      {
-        "source": "Behavioral Health",
-        "headline": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
-        "summary": "Deals tracker: Stryker acquires ZuriMED Modern Healthcare News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 02:59:46 GMT"
-      },
-      {
-        "source": "Medical Xpress",
-        "headline": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects - Medical Xpress",
-        "summary": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects Medical Xpress",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzZxemg3YTUzUWpZckFDX05qTHB2MU9oUV8wRWtNel9vS0g5SGNvejhzMDc1VkswRWR0b1pqNWs1RmZPU2NYRnJTNUtKR2tKT09NZ0FuUkQ2VEdpOGE3VEpJUFQxNlBMNDJRdmRsQUk0LThQMmZYMGJmQWpMWWVIVTY1RURqMjZVUUJoN3BNWUNRaWdTSUFPVlVWTW5UYy1lUmFoeXN3?oc=5",
-        "image": "",
-        "published": "Thu, 29 Oct 2026 22:00:10 GMT"
-      },
-      {
-        "source": "NIH News",
-        "headline": "NIH at Neuroscience 2026 - National Institute of Neurological Disorders and Stroke (.gov)",
-        "summary": "NIH at Neuroscience 2026 National Institute of Neurological Disorders and Stroke (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWUNSbGpLOWctS0M0aTdzQUFNc1h2ZklQdU94ay1QN0VieFVUdFh4Y0kxRHVzSHlJRWJ2UWpXQnhxY2ZUdy1VZlExSHZ4S0dpdGFOSzhCa3p5SVZYOHc0eGdrNlgwSVY4SjBhNGNvNWJlajFB?oc=5",
-        "image": "",
-        "published": "Thu, 29 Oct 2026 21:49:56 GMT"
+        "published": "Fri, 30 Oct 2026 20:01:56 GMT"
       }
     ],
     "entertainment": [
       {
-        "source": "BBC US & Canada",
-        "headline": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-        "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
-        "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c120/live/9945dbf0-d45f-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Fri, 30 Oct 2026 12:43:46 GMT"
-      },
-      {
-        "source": "BBC US & Canada",
-        "headline": "Sir Patrick Stewart: The life of an iconic actor",
-        "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
-        "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30d/live/989bf870-d440-11f1-93e1-3b657b665bcf.jpg",
-        "published": "Fri, 30 Oct 2026 08:59:45 GMT"
+        "source": "Variety",
+        "headline": "Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’",
+        "summary": "Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic comparing the president to Taylor Swift. Following a sit-down interview with Republican Senator Ted Cruz, who was busy hawking his new book on Supreme",
+        "url": "https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Real-Time-With-Bill-Maher-President-Trump-Holds-Midterm-Campaign-Rally-In-Clarksville-Tennessee-1000.jpg",
+        "published": "Sat, 31 Oct 2026 03:13:17 +0000"
       },
       {
         "source": "Taylor Fashion",
-        "headline": "Taylor Swift and Elsa Hosk Just Declared My Go-To Podiatrist-Approved Sneakers Spring 2026’s Newest It Shoe - InStyle",
-        "summary": "Taylor Swift and Elsa Hosk Just Declared My Go-To Podiatrist-Approved Sneakers Spring 2026’s Newest It Shoe InStyle",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81cE8tSUpLNUhSMVZBZ0FjaUdNbGx6dDFXSkpLTFVsQ0hrOFJjRkZHNEo0UGhKNU9zRmZOcmJHYjFFZ1VlSk5Xcnk5RnFQUVlfWnJHSm5XdEpSOFJPODhGVkpMSzRJT1BSNUxnS3Bn?oc=5",
+        "headline": "Exclusive | Taylor Swift wore an expected accessory on her wedding day - Page Six",
+        "summary": "Exclusive | Taylor Swift wore an expected accessory on her wedding day Page Six",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjJkLTZ0a1RxV2pYR0tpMEpZN2c5Snl6d2xGYktOTC1reWJzd2hfRlZwRFI1RWNuU3hiQ1h1dUZraXhteFEzRThqSlFVZ1Z0S0YtN1RLTzVpQTdyRmREaURHUDlGVDU2RjlnYlBnbUdRdEJla2M2N3pSdlJqMFlPRmc3M25DQnNaYk9SZFZWbVE4Ulh4UHQzNDBrQXMxeUZnYmxHMFNzUm9xOHhsc1FVY3EtUXc2dG51MnNSVmVkRHRPd0FNYWdYYURB?oc=5",
         "image": "",
-        "published": "Thu, 29 Oct 2026 02:30:00 GMT"
+        "published": "Fri, 30 Oct 2026 18:12:00 GMT"
       },
       {
         "source": "BBC Entertainment",
-        "headline": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-        "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
-        "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg",
-        "published": "Fri, 30 Oct 2026 03:57:06 GMT"
+        "headline": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
+        "summary": "Tributes have been paid to the legendary Star Trek actor Sir Patrick Stewart, who was born in Mirfield.",
+        "url": "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f948/live/75d0a300-d46c-11f1-b441-2b33b063138f.jpg",
+        "published": "Fri, 30 Oct 2026 20:59:53 GMT"
       },
       {
         "source": "BBC Entertainment",
-        "headline": "Footage of Seoul crush to be removed from Call of Duty after backlash",
-        "summary": "Bereaved families say they were appalled to see footage of the Itaewon disaster included in Modern Warfare 4.",
-        "url": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e54/live/0ba9ece0-d46f-11f1-a701-fddedf244c16.jpg",
-        "published": "Fri, 30 Oct 2026 11:27:25 GMT"
+        "headline": "Celebrity Traitors comes to a climax in nail-biting final",
+        "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b017/live/6daf0760-d477-11f1-9dda-1ba6fcc7d159.jpg",
+        "published": "Sat, 31 Oct 2026 10:54:56 GMT"
       },
       {
         "source": "Variety",
-        "headline": "Angel Studios Banning Sex Scenes, F-Words and Misuse of God’s Name in Movies",
-        "summary": "Angel Studios is introducing a broad new content policy that bans on-screen sex, nudity, F-words and misusing the name of God. The studio, known for films such as the hit “Sound of Freedom,” will also give its paying members a chance to vote on movies and TV shows to ensure that a majority of members",
-        "url": "https://variety.com/2026/film/news/angel-studios-ban-sex-scenes-f-words-1236935273/",
-        "image": "https://variety.com/wp-content/uploads/2026/10/MCDRUNN_EC099.jpg",
-        "published": "Fri, 30 Oct 2026 16:46:02 +0000"
-      },
-      {
-        "source": "Pitchfork",
-        "headline": "Lily Allen Dressed as an Empty Ticketmaster Map for Halloween",
-        "summary": "After scaling down her summer tour, Allen dressed up as every pop star’s nightmare: a pox of unsold tickets",
-        "url": "https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
-        "image": "https://media.pitchfork.com/photos/6ae4bf2d17e545d96e189edd/master/pass/lily-allen.jpg",
-        "published": "Fri, 30 Oct 2026 16:02:12 +0000"
+        "headline": "Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize",
+        "summary": "Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the prize with fellow producers Olena Yershova and Boris Frumin. The film was made across seven countries: Georgia, Switzerland, Luxembourg, Bulgaria, Türkiye, Norway and Saudi",
+        "url": "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Asia-Pacific-Screen-Awards-winners-2026.jpg",
+        "published": "Sat, 31 Oct 2026 04:25:38 +0000"
       },
       {
         "source": "Variety",
-        "headline": "‘Dune’ Movies Returning to Imax Theaters With ‘Dune 3’ Sneak Peek",
-        "summary": "It’s time to head back to Arrakis and the world of “Dune.” Both of Denis Villeneuve’s “Dune” movies will re-released in Imax theaters next month with an exclusive sneak peek at December’s “Dune: Part 3.” A double feature of both movies will hit Imax theaters on Nov. 13 only, with additional showtimes of each blockbuster",
-        "url": "https://variety.com/2026/film/news/dune-return-theaters-imax-dune-3-sneak-peek-1236935288/",
-        "image": "https://variety.com/wp-content/uploads/2024/03/MCDDUPA_WB037.jpg",
-        "published": "Fri, 30 Oct 2026 16:47:10 +0000"
+        "headline": "Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund",
+        "summary": "Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh Tiwari and Namit Malhotra, a week before the film’s release. Gold House, which works to back and celebrate the Asian Pacific community, staged",
+        "url": "https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Ramayana-team.jpg",
+        "published": "Sat, 31 Oct 2026 04:09:21 +0000"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Party Rock Anthem singer struggled with mental health before death",
+        "summary": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4767/live/50402a70-7990-11f1-afb1-2578d3620d58.jpg",
+        "published": "Fri, 30 Oct 2026 21:12:25 GMT"
+      },
+      {
+        "source": "Taylor Alert",
+        "headline": "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift - Variety",
+        "summary": "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift Variety",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVNPbTJpVE52Rk5DS21rVVhKQ2lvOHFBRDdRTy1MSk1SSVhrR0Y1dkhkVGRyQlN5eWt6S0IyaUgwVXVKVTRJUXkxSVoyMjRYS0VBQW1xOTZFbHd1QVk4ZDNEbEZVRDN5NW80eGNYcnpHZzBYYy1tRVA3NlNvOWtqbXdHUkk0eGdmeEUtQ2Vha3Q2UkV4T0RXdjVpQjlFSFFF?oc=5",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 03:21:00 GMT"
       }
     ],
     "animals": [
       {
+        "source": "BBC World",
+        "headline": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+        "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+        "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d6/live/96a5c4c0-d4a3-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Fri, 30 Oct 2026 17:00:32 GMT"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+        "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+        "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
+        "published": "Sat, 31 Oct 2026 00:07:22 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Flesh-eating screwworms spread to third state and are attacking pets",
+        "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+        "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
+        "published": "Fri, 30 Oct 2026 22:36:41 +0000"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "The long history of humans and wolves",
+        "summary": "Before the advent of agriculture and monotheistic religions, humans around the world had a less adversarial relationship to wolves according to scholar Renée Worringer.",
+        "url": "https://www.wpr.org/culture/long-history-humans-wolves-wisconsin",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "source": "NPR",
+        "headline": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+        "summary": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are finding creative ways to bring their numbers back up.",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 05:00:00 -0400"
+      },
+      {
         "source": "Smithsonian",
-        "headline": "Crows Can Make Decisions Based on Visual Information at Lightning Speed—Roughly Twice as Fast as Humans Can, Study Suggests",
-        "summary": "Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry",
-        "url": "https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/",
-        "image": "https://th-thumbnailer.cdn-si-edu.com/0DbQHRDTbpZbrFH250Keyn8G6lE=/420x240/filters:focal(640x445:641x446)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/fd/97fdac94-f70e-4fed-9323-6569601936bc/crows-make-decisions-t-1.jpg",
-        "published": "Fri, 30 Oct 2026 14:00:00 +0000"
-      },
-      {
-        "source": "BBC Science",
-        "headline": "What makes this golden eagle chick so important?",
-        "summary": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2733/live/013b63b0-d2bc-11f1-8cf0-c5d120932f9f.jpg",
-        "published": "Fri, 30 Oct 2026 06:22:37 GMT"
+        "headline": "A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House",
+        "summary": "The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years",
+        "url": "https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/wC18lLwPspfIkaP7atRWBfVCvR8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/1b/3d1b71b2-0c3b-47b1-9545-7f125caf1983/paw-print.jpg",
+        "published": "Fri, 30 Oct 2026 20:07:35 +0000"
       },
       {
         "source": "Animals",
-        "headline": "Lawsuit accuses Los Angeles animal rescue of running puppy laundering operation - 6abc Philadelphia",
-        "summary": "Lawsuit accuses Los Angeles animal rescue of running puppy laundering operation 6abc Philadelphia",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkdYSWZHdXpPSFQ2WWozLWYwXy13ajVyaW5FTFlmNW1mNGxsWjZOTEUzcWdVWFN5WmlZU0M3a0l5a3hLUFdPUUxhYWIxbE9sazR3emtNMHptNk9tQTlYamNpR1hsMFRGTjhyN05yWGhDR09YcWh4TEJrQzBsX25TU1F4UWFmYnBNY05MVEVNdVRFUU4xLXJ6ekFYZDNnd1BQYmgzdTJldzZfdkRjREE?oc=5",
+        "headline": "Animals for adoption - reflector.com",
+        "summary": "Animals for adoption reflector.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGNUZVA2cDhSV09CN1FUZVlnbnB6ZFdqVTN1UHkzMWQwc0xaaTJSM0o2cEZsMmRLTkhxbU83MzNRSnpfOUhpdDZSZzNhbGdhcjIwWjVuOGJ3SmJ0d2w5ZGdPaW43QjRkRnBjX1BuNVd1Vm1RWHIxTS1WdndOZ3VDREk4cVQ1SDIydm1kcTNBSGM3OXFjQmZQeUFzMm5LNFhGbHdMVjVaNjNzRWx3N3hBNg?oc=5",
         "image": "",
-        "published": "Thu, 29 Oct 2026 18:15:09 GMT"
-      },
-      {
-        "source": "Smithsonian Animals",
-        "headline": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive - Smithsonian Magazine",
-        "summary": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive Smithsonian Magazine",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTjFRZGd5T1NwcTdCMkZobXpPYWE1NGlIVV8xY3dTcXBBT1dHSl9YUUtjWmJYQjdheWE5WkI2cmR2SFdOWlJYTXBDX2hiam8ta2RoOTdhVUtzc2xoWjRQZ21acGlnaUpkNkNLQjJYMkF4Qk9ydXY0ekdEdE9KSzAzUUdiMFgzUWVjWThnZnV5TmYwY0ZpUDZYZ0FTSHBNY3MyZEh6cFRYSzVHbVd2OXZmZndMcUxjNmVLUnUxbXdVNXVVeS1JYnU0R1lnWVpGVS16aENwc095a3lOMU1zQUoza1R3YjVRVnY2SXAxSjBlMjI0aEh4NU9sMTVMYzBJeWcyaTlz?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 15:50:46 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "India’s Vantara animal megacenter vows reset after criticism over acquisitions - Kuwait Times",
-        "summary": "India’s Vantara animal megacenter vows reset after criticism over acquisitions Kuwait Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDZsT3NVeVJQaWw2SldMV04tanczNXhrLTVkQWRVOWpYbnJaQ0NfNkdHbjhLTHRCUHVFdkNSSF94OHkxRy1xYWhBWEdEdXBHNVpjR1hneWVfaG9zTW1tOGpTX0djZEdLWmVCNnVpZnhFZTJXVkJrRVNVbkNZM05MMzVlVDdfVmJlazNMYmcxckFEQWJDZnpqU0dlaElYVE0zZGtySGh3WXpFRS1FVjYycjBUVzZicjlJaHRVdXNGNTdOM03SAcMBQVVfeXFMTTA2bE9zVXlSUGlsNkpXTFdOLWp3MzV4ay01ZEFkVTlqWG5yWkNDXzZHR244S0x0QlB1RXZDUkhfeDh5MUctcWFoQVhHRHVwRzVaY0dYZ3llX2hvc01tbThqU19HY2RHS1plQjZ1aWZ4RWUyV1ZCa0VTVW5DWTNOTDM1ZVQ3X1ZiZWszTGJnMXJBREFiQ2Z6alNHZWhJWFRNM2Rrckhod1l6RUUtRVY2MnIwVFc2YnI5SWh0VXVzRjU3TjNN?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 05:00:00 GMT"
+        "published": "Sat, 31 Oct 2026 04:00:00 GMT"
       },
       {
         "source": "Audubon",
-        "headline": "126th Christmas Bird Count in Canada - National Audubon Society",
-        "summary": "126th Christmas Bird Count in Canada National Audubon Society",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CeWJRai1iVklEOG1UM09LZXNUMVhscXhkQkhXUUZQZXcxV2FjZFIwVWpnRmw4cXZVX0N1QjFUQ1NMTTNhcDRIR0lLYlVvMDhEZWVjMnJrejZUaDBKdExlMEtjM2F6QnFQR3d4Mk4tQQ?oc=5",
+        "headline": "Salton Sea Leadership Program: A Pathway to Conservation Work - National Audubon Society",
+        "summary": "Salton Sea Leadership Program: A Pathway to Conservation Work National Audubon Society",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamlSSERhMTJOR0pXQTNucW0xQ1AzcXpnMUg4b0tJaG5TOWJraDg4MTdNVWxrYkpPbmFyTWo4cVBVc2ZqX2VsOHI3OF9seU54UGF1ZHc3SVd5WGtBcUYwV3JYSDg4SzRPR2pGYkctbWIyS19XeGFpbUk5bTdMLWFka2xCd0JVdHFFNVBLa0k1SE1TZ1FMVTBxN2V6VQ?oc=5",
         "image": "",
-        "published": "Fri, 30 Oct 2026 03:29:15 GMT"
-      },
-      {
-        "source": "Animals",
-        "headline": "India's animal megacentre vows reset after criticism - Yahoo",
-        "summary": "India's animal megacentre vows reset after criticism Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFhPRzRwVzRTaFRYT3hSYjZXNEhnNzJuLWdpQ3pGSlQwNTdDVUhIaDNZOEJITWVOal9meHVmLTJ5bGE4eFY5RlVQUUUzTENmUnhvaWJzSzFQNFo4Qld6WGV1ZkFEZU41ZXB3ajY2RDJjcDZDMFd5eG8zQnRXUlhkSWdNZDZiV1hOcFltVFZoeGg4WVQ4QUVn?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 02:08:00 GMT"
-      },
-      {
-        "source": "Audubon",
-        "headline": "Remembering Mr. Whitekeys: An Alaska Original and Champion for Birds - National Audubon Society",
-        "summary": "Remembering Mr. Whitekeys: An Alaska Original and Champion for Birds National Audubon Society",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkwwOGstR2pIdG8wcU1HbEtCTTd4dU1PNThjSE9UZWVGNjdNbEZDSFVURmNSNzQ2YnI0dWVRdDE4bFhzazRPY3NxQWlVNWxKbDI3UHZOWmdmbDlDLXA5Ny1JWlR2Ul9KUTJweWFoSzVfUndDTklsYksyNm1wUVFpWGg5Z0J3aFhFbEUzbGsxZ3N0WHUxQUoxVjMwdw?oc=5",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 00:24:15 GMT"
+        "published": "Sat, 31 Oct 2026 03:45:43 GMT"
       }
     ],
     "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Your Halloween Horoscope Advice: ‘Free Will Astrology’ by Rob Brezsny",
+        "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob’s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications. He is also the author of Pronoia Is the Antidote for Paranoia:",
+        "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
+        "image": "",
+        "published": "Sat, 31 Oct 2026 10:00:12 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Best Spud Harvest in a Decade Clears the Gloom of Crops Failing from Scorching Summer",
+        "summary": "Amid a summer of crop failures, a spud-tacular potato harvest in Japan showed that banner years are still in the almanac even as climate uncertainty continues to make farming more challenging. A potato industry outlet reports that the ideal mixture of temperatures and rainfall means that Japan’s northern island of Hokkaido is virtually the only",
+        "url": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
+        "image": "",
+        "published": "Fri, 30 Oct 2026 18:30:53 +0000"
+      },
+      {
+        "source": "Positive News",
+        "headline": "Free tool helps young men to take responsibility for sexual harm",
+        "summary": "Young men are using a digital tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere",
+        "url": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
+        "image": "",
+        "published": "Mon, 26 Oct 2026 12:41:17 +0000"
+      },
       {
         "source": "Good News Network",
         "headline": "In Lieu of Flowers or Tributes, Patrick Stewart’s Family Suggests a Donation to Alzheimer’s Research",
@@ -547,22 +571,6 @@
         "url": "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/",
         "image": "",
         "published": "Fri, 30 Oct 2026 11:30:01 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "A Farmer Didn’t Know His Cell Number Was on an Exam Question, Now Uses the Calls He Gets as Opportunities to Inspire",
-        "summary": "A young student has been accepted into a prestigious university thanks in part to an unusual source of inspiration: a strawberry farmer he met because of a question on an English exam. Now a postgraduate student in artificial intelligence, He Ziqi was in middle school when he was taking an English language exam and saw",
-        "url": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
-        "image": "",
-        "published": "Fri, 30 Oct 2026 13:00:13 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "JoyDrops: Short Films Big on Inspiration and Bigger Awards Aspirations",
-        "summary": "JoyDrops: Short Films With Big Hearts and Even Bigger Ambitions Good News Network and Switchboard Magazine have joined forces on JoyDrops, a curated slate of awards-season documentary short films that offer positive perspectives, made by artisan filmmakers that have already racked up numerous accolades and awards on the film festival circuit. The idea started, of",
-        "url": "https://www.goodnewsnetwork.org/joydrops-short-films-big-on-inspiration-and-bigger-awards-aspirations/",
-        "image": "",
-        "published": "Thu, 29 Oct 2026 19:06:13 +0000"
       },
       {
         "source": "Positive News",
@@ -579,26 +587,18 @@
         "url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
         "image": "",
         "published": "Thu, 29 Oct 2026 07:00:10 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "Positive News launches new video podcast exploring what’s going right in the world",
-        "summary": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences",
-        "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-        "image": "",
-        "published": "Wed, 28 Oct 2026 09:43:33 +0000"
       }
     ]
   },
   "wonderful": {
     "source": "Good News Network",
-    "headline": "In Lieu of Flowers or Tributes, Patrick Stewart’s Family Suggests a Donation to Alzheimer’s Research",
-    "summary": "Legendary actor Sir Patrick Stewart passed away yesterday at the age of 86 following a brief struggle with Alzheimer’s disease and Lewy Body Dementia. A titan of the silver screen, theater, and television, Stewart passed away at home surrounded by “live music, prayer, and laughter” in the care of his devoted wife Sunny. Born in",
-    "url": "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/",
+    "headline": "Your Halloween Horoscope Advice: ‘Free Will Astrology’ by Rob Brezsny",
+    "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob’s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications. He is also the author of Pronoia Is the Antidote for Paranoia:",
+    "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
     "image": "",
-    "published": "Fri, 30 Oct 2026 11:30:01 +0000"
+    "published": "Sat, 31 Oct 2026 10:00:12 +0000"
   },
-  "capybara_message": "Sometimes the profound move is making coffee and refusing to catastrophize before the first sip.",
+  "capybara_message": "You do not have to solve the whole forest before breakfast. Find the next clear step and put one paw there.",
   "personalization": {
     "active_feedback_signals": 248,
     "profile_updated_at": "2026-08-17T12:10:17.367Z"
