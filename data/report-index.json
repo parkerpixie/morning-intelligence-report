@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-10-31.json",
-  "report_date": "2026-10-31",
-  "generated_at": "2026-10-31T16:08:13.553322+00:00",
-  "edition_count": 108,
+  "latest": "data/archive/2026-11-01.json",
+  "report_date": "2026-11-01",
+  "generated_at": "2026-11-01T13:31:37.149773+00:00",
+  "edition_count": 109,
   "editions": [
+    {
+      "report_date": "2026-11-01",
+      "generated_at": "2026-11-01T13:31:37.149773+00:00",
+      "path": "data/archive/2026-11-01.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+        "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-10-31",
       "generated_at": "2026-10-31T16:08:13.553322+00:00",
