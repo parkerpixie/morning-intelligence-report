@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T14:24:12.365496+00:00",
-  "generated_at_local": "2026-11-03T08:24:12.365496-06:00",
+  "generated_at": "2026-11-03T15:28:32.946570+00:00",
+  "generated_at_local": "2026-11-03T09:28:32.946570-06:00",
   "report_date": "2026-11-03",
   "top_story": {
     "source": "BBC World",
@@ -18,6 +18,14 @@
       "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
       "published": "Tue, 03 Nov 2026 11:33:33 GMT"
+    },
+    {
+      "source": "HubSpot Marketing",
+      "headline": "Claude integrations worth adding to your GTM stack",
+      "summary": "Most marketers use an AI assistant at work, but constantly switching between Claude, a CRM, and other apps breaks focus. That is where Claude integrations come in.",
+      "url": "https://blog.hubspot.com/marketing/claude-integrations",
+      "image": "https://blog.hubspot.com/hubfs/blogbot/claude-integrations-featured-2081661.webp",
+      "published": "Tue, 03 Nov 2026 14:40:06 GMT"
     },
     {
       "source": "BBC Technology",
@@ -66,14 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObV9ZQWhKR0tXRFprQS11TDRtYk9YN3JGUWo1alVIUzBGZ21TOGZLTXhpYjkxOU1icmdUbkdBSFhpejdfTV9RS1hnRTRabHdTNTNCbGpIc2s1OTl5dnZyNkhOVVhSTzU4el9MUk5CQ0RqR3VBVWJ4VmpSYXVMRlBQYllESEVzSXJOdEllR3U3NUlWZktBbE5iQw?oc=5",
       "image": "",
       "published": "Mon, 02 Nov 2026 19:21:20 GMT"
-    },
-    {
-      "source": "Dane County",
-      "headline": "Dane County DA not pursuing criminal charges in hazing invesitgation at UW-Madison - WSAW",
-      "summary": "Dane County DA not pursuing criminal charges in hazing invesitgation at UW-Madison WSAW",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0tQZk5PakNhRURGLVIya21YZVFhZ0U1ZmdBV0xabFJnZ3Fwd1ZpSTZPMkxzQzhfZkQteGNiS0l0RTB1TjBGcW80YmZTeWlwT2lvV3c2d0ZRQ0JjWXN5MEFSZWp2SUdHemZOVlM0VHpvaW1rVnF4QUdWUzZ3di1ZNG9icFZYZTVYY3ZhWWZfZmxQUXVlSHdrTHh0b1hBUlR2NjRaZXVnQVdveHdCakx1dkQzb1Nndw?oc=5",
-      "image": "",
-      "published": "Mon, 02 Nov 2026 18:14:00 GMT"
     }
   ],
   "sections": {
@@ -112,19 +112,19 @@
       },
       {
         "source": "Wisconsin News",
-        "headline": "LIVE UPDATES: Election Day in Wisconsin - WISN",
-        "summary": "LIVE UPDATES: Election Day in Wisconsin WISN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHk3am1aaXRBVnFNZVB5SENNWnhGS21JVHZwM1FWc1piNWRQbjVrbmVZVldFRE9aOFhlSFpZVDNsSG5jUXc2TmRjV1EtYzBsdUxaSXV1SGc5NEppeDlUR1VRRlpOWlRmU1pBbG1SV0QxanhZN1FoR0FBYl92TUtXRHVvV0NyMllhRUJadDRpRQ?oc=5",
-        "image": "",
-        "published": "Tue, 03 Nov 2026 13:09:38 GMT"
-      },
-      {
-        "source": "Wisconsin News",
         "headline": "A rainy Election Day in northeast Wisconsin - WFRV Local 5",
         "summary": "A rainy Election Day in northeast Wisconsin WFRV Local 5",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkQ4YWVYb05iTXptVk1QRElOclZjTzZLRV9FTFVSN0Iwb3pBVFk2Tk41aHJmemN0LTNfR0w3OGk3VkpLX21ZSmcwY0V2ZEJ2UXFFa0o3dm5kVVBPbmFBeTIyeFBVdEIydmtPVVItSGtFLXdTdDVvQkpvc2R5SE94Wl95aWI2N0FBSVHSAY8BQVVfeXFMTkRLNmVnUTU0RGpBQzQtT2NobVN2bHZ6VmxIVkVxRXlwSDE0T3RTc2YtRVNhUnVwX1M3RlFqQ3FsU2JQbEMxaXNIZXBIZDROX0NQZ3MzQ3dSTTJ4ai12Nk5wbVZ5QkNobVlsSFhpaDRLeTJGNjFycWtrdjluNHVTUWVId3dBLXhSbDgySDZxRVU?oc=5",
         "image": "",
         "published": "Tue, 03 Nov 2026 13:01:54 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "It's Election Day in Wisconsin; time, voting, polling places, ballot - Milwaukee Journal Sentinel",
+        "summary": "It's Election Day in Wisconsin; time, voting, polling places, ballot Milwaukee Journal Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1l0WVlvT05UWm1wcDh3RGhuMmJPSEpZc0JNa3hkUU52dV9ENGJjZzNDcDVUQWtqT2xZX3BFUmZROEtFeGREV1hUblBSZTRkSThYVVc3UGNzSldYbWNYODBtTDdTeGhCcGJ4aTJtTWFfZW1UVFoweE5nTDU2NEZKbmJISEw4c0pEbzFLTUFwa2lwRTNsbVFudlRtRVMxbDg0YnV3d2tGOE5UUVZBMzF4eVJJdFpiampCbmhsZlJwWWVUdHJSS0g1MkpEaVhNQUk2RDdJOA?oc=5",
+        "image": "",
+        "published": "Tue, 03 Nov 2026 11:06:00 GMT"
       },
       {
         "source": "Wisconsin Public Radio",
@@ -243,6 +243,14 @@
         "published": "Tue, 03 Nov 2026 11:35:00 GMT"
       },
       {
+        "source": "Ars Technica",
+        "headline": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+        "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+        "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg",
+        "published": "Tue, 03 Nov 2026 14:00:07 +0000"
+      },
+      {
         "source": "MIT Technology Review",
         "headline": "How “reverse game theory” could keep AI agents in check",
         "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
@@ -251,54 +259,30 @@
         "published": "Tue, 03 Nov 2026 10:43:41 +0000"
       },
       {
+        "source": "The Verge",
+        "headline": "OpenAI is quietly renaming data centers ‘compute campuses’",
+        "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+        "image": "",
+        "published": "2026-11-03T10:00:44-05:00"
+      },
+      {
         "source": "AI News",
         "headline": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim - Tom's Hardware",
         "summary": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5",
         "image": "",
         "published": "Tue, 03 Nov 2026 13:00:00 GMT"
-      },
-      {
-        "source": "MarTech",
-        "headline": "AI traffic drives 83% more traffic per visit",
-        "summary": "Adobe research also found that AI traffic converted 90% better than non-AI traffic.",
-        "url": "https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/",
-        "image": "https://martech.org/wp-content/uploads/2026/11/AI-vs-Non-AI-revenue-retail.jpeg",
-        "published": "Tue, 03 Nov 2026 13:47:00 +0000"
-      },
-      {
-        "source": "MarTech",
-        "headline": "If you don’t define your weakness, AI will",
-        "summary": "B2B companies that avoid saying who they’re wrong for are letting buyers, competitors, and AI systems do it for them.",
-        "url": "https://martech.org/if-you-dont-define-your-weakness-ai-will/",
-        "image": "https://martech.org/wp-content/uploads/2026/04/brand-longevity-800x450.png",
-        "published": "Tue, 03 Nov 2026 13:09:00 +0000"
       }
     ],
     "work-marketing": [
       {
-        "source": "MarTech",
-        "headline": "Your first-party data doesn’t reflect your customer today",
-        "summary": "Purchase history tells only part of the story. Identity resolution and consumer intelligence help brands understand what matters now.",
-        "url": "https://martech.org/your-first-party-data-doesnt-reflect-your-customer-today/",
-        "image": "https://martech.org/wp-content/uploads/2026/07/outdated-strategy-capability-800x450.png",
-        "published": "Tue, 03 Nov 2026 13:43:00 +0000"
-      },
-      {
-        "source": "MarTech",
-        "headline": "Why B2B marketers are turning to paid influencers",
-        "summary": "B2B creators are turning expertise into profitable businesses, while brands find new ways to reach buyers through trusted voices.",
-        "url": "https://martech.org/why-b2b-marketers-are-turning-to-paid-influencers/",
-        "image": "https://martech.org/wp-content/uploads/2025/04/Woman-influencer-and-phone-with-ring-light-for-video-recording-800x450.png",
-        "published": "Tue, 03 Nov 2026 13:38:00 +0000"
-      },
-      {
-        "source": "The Verge",
-        "headline": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
-        "summary": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that counts Rivian as",
-        "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
-        "image": "",
-        "published": "2026-11-03T07:00:00-05:00"
+        "source": "BBC Entertainment",
+        "headline": "Jury in Russell Brand rape trial begins considering verdicts",
+        "summary": "The media personality has been on trial for three weeks, after pleading not guilty to all charges.",
+        "url": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg",
+        "published": "Tue, 03 Nov 2026 14:50:06 GMT"
       },
       {
         "source": "Search Engine Land",
@@ -307,6 +291,22 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
         "image": "",
         "published": "Tue, 03 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "Customer Data",
+        "headline": "Your first-party data doesn’t reflect your customer today - MarTech",
+        "summary": "Your first-party data doesn’t reflect your customer today MarTech",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUl80Yms1elB1WHFZSnlsVmVRcU5mYkttMVdSeWlBWEVPQTMzc3dDWHFCUjJEQWhjQ0ZJdVhFRDkxMXREeWJ3aDVza05XU0IxQk55Yno1cWR0MzhMVGdnd2VWLWFZcEd2YXdic3QzYzJ6d2tDdko1eGNiMTZ1TUZQLTFsMA?oc=5",
+        "image": "",
+        "published": "Tue, 03 Nov 2026 13:58:31 GMT"
+      },
+      {
+        "source": "Salesforce",
+        "headline": "Fisher & Paykel helps technicians arrive repair-ready with Agentforce - Salesforce",
+        "summary": "Fisher & Paykel helps technicians arrive repair-ready with Agentforce Salesforce",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWFmREtFMk5GM1BjbldsMXBNa0g4NGcySTBBb0xfcXk0SVlSQWdQZnk1UjZ6ekhmQ0IwaWpCTmZsdldwbVB2ZjFQcmJnc3I5c25zaU1OQzU0NE0xYXVCWjNjdXB5ZDlnaTFna2k2TkllbWljaEo3UEhWdDlkRXlBdkFOa0tKTUxXazF6VDVob3dzT0U4SFBLTTVLZw?oc=5",
+        "image": "",
+        "published": "Tue, 03 Nov 2026 12:51:29 GMT"
       },
       {
         "source": "Salesforce",
@@ -326,11 +326,11 @@
       },
       {
         "source": "Search Engine Land",
-        "headline": "Landing page Archives - Search Engine Land",
-        "summary": "Landing page Archives Search Engine Land",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05Qlk0MUVhczBXTUNIY2gtc016OFZvS01TcE5iOFg4T00zSEFXWjM5VUdwdmQtbWxNcXlKY2RVVTUxV3ZXT1psNGM4NnZmS291V3RZTDRvZENfaVI1Qk5hUmxpd2U?oc=5",
+        "headline": "Steve Ballmer Archives - Search Engine Land",
+        "summary": "Steve Ballmer Archives Search Engine Land",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZamdvWjZ2WmhXNE5EX2diWTRZa1V1VkhQaEU4LXZtdlp1MUxnTWk5clFFZldacWtyV3ppLVFjRXJySUp2QTdPaHVsTU1MNHJXSDE0amZHRVNMZXpRNDFHWW9zWWxCQQ?oc=5",
         "image": "",
-        "published": "Tue, 03 Nov 2026 08:33:54 GMT"
+        "published": "Tue, 03 Nov 2026 10:50:36 GMT"
       },
       {
         "source": "BBC Technology",
@@ -394,9 +394,9 @@
         "source": "ScienceDaily Neuroscience",
         "headline": "Scientists discover a surprising clue to autism's origins hidden in the placenta - Science Daily",
         "summary": "Scientists discover a surprising clue to autism's origins hidden in the placenta Science Daily",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZSDBqN2xQWjMzVEZjNUhlQmZUTzJqdEl1bkxGZTc4cjYxVkFJTEIxcDdjR3RSZVNlRUJkb1lEZF95Mk5RSXpSS0xHVVR2MUhPRUxYMEtSdlZMVTk1RzlqcVdFSzFYdHhwTk9PODc5Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsNW9IYWZHbzlDbWxvMi03TzdJdGFTdm9zelpVQzBZc0JNNURzdTZFcGIzdDItZ2pGamVLY043eEUwLXZnUGdYdmVEX1I3ZXhBY2dONjMtR2ExUkNfaFZhbjhERHFHamhtMG90MlFB?oc=5",
         "image": "",
-        "published": "Tue, 03 Nov 2026 12:53:32 GMT"
+        "published": "Tue, 03 Nov 2026 12:44:32 GMT"
       },
       {
         "source": "ScienceDaily Mind & Brain",
@@ -417,22 +417,6 @@
         "published": "Tue, 03 Nov 2026 12:30:00 GMT"
       },
       {
-        "source": "Variety",
-        "headline": "Midterm Elections: Americans Have Wagered $1.9 Billion on Prediction Markets on U.S. Races — With Democrats Favored to Win House and Senate",
-        "summary": "It’s Election Day for the pivotal 2026 midterms that will determine control of U.S. Congress — and a bunch of people are trying to make money by betting on the outcome. As of Monday (Nov. 2) at 8 p.m. ET, nearly $1.9 billion had been wagered on the midterm elections on the two biggest prediction",
-        "url": "https://variety.com/2026/digital/news/midterm-elections-odds-prediction-spending-house-and-senate-1236938339/",
-        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2302878462.jpg",
-        "published": "Tue, 03 Nov 2026 14:05:56 +0000"
-      },
-      {
-        "source": "Variety",
-        "headline": "‘Thirteen in Gaza’ Acquired by Koudéta Films for France Ahead of Doha Film Festival",
-        "summary": "Paris and New York-based impact studio Koudéta Films has acquired French distribution rights to Palestinian director Hosam Abu Dan’s “Thirteen in Gaza.” The father-daughter drama is the first film shot on the Gaza Strip since the Israel-Hamas war began in 2023. Mad World – which is the international sales arm of Pan-Arab distributor Mad Solutions",
-        "url": "https://variety.com/2026/film/global/thirteen-in-gaza-koudeta-films-france-doha-1236938307/",
-        "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-1-1.jpg",
-        "published": "Tue, 03 Nov 2026 13:37:17 +0000"
-      },
-      {
         "source": "The Verge",
         "headline": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
         "summary": "Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe said it will include \"popular songs\" from \"leading artists,\" and enable Premiere mobile users to quickly jump",
@@ -449,12 +433,28 @@
         "published": "Tue, 03 Nov 2026 00:09:13 GMT"
       },
       {
+        "source": "Variety",
+        "headline": "Creators Pounce on Midterm Elections, Hoping to Win New Viewers and More Dollars",
+        "summary": "Scott MacFarlane has traded in the desk once sat behind at CBS News on Election Night for something more direct — livestreamed midterms coverage for the progressive outlet MeidasTouch. He won’t have someone manipulating a Magic Wall or Big Board. He won’t be introduced by swelling orchestral music. And he won’t be competing with colleagues",
+        "url": "https://variety.com/2026/tv/news/creators-pounce-election-night-katie-couric-piers-morgan-1236938328/",
+        "image": "https://variety.com/wp-content/uploads/2019/10/election-politics-media-placeholder.jpg",
+        "published": "Tue, 03 Nov 2026 15:20:00 +0000"
+      },
+      {
+        "source": "Variety",
+        "headline": "Olga Kurylenko and Alex Pettyfer to Star in Crime Thriller ‘Breakwater,’ WestEnd Films Boards Sales (EXCLUSIVE)",
+        "summary": "Olga Kurylenko (“Quantum of Solace,” “Oblivion,” “Black Widow”) and Alex Pettyfer (“Magic Mike,” “The Butler,” “The Ministry of Ungentlemanly Warfare”) are set to star in crime thriller “Breakwater,” which has been boarded for world sales by WestEnd Films. The film, directed by Luc Walpoth (“In Tandem,” “Dead Money”), is set to begin production in April",
+        "url": "https://variety.com/2026/film/global/olga-kurylenko-alex-pettyfer-breakwater-westend-films-1236938186/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Olga-and-Alex.jpg",
+        "published": "Tue, 03 Nov 2026 15:00:00 +0000"
+      },
+      {
         "source": "BBC Entertainment",
         "headline": "Celebrity loses injunction bid but will stay anonymous pending appeal",
         "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
         "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg",
-        "published": "Tue, 03 Nov 2026 14:07:41 GMT"
+        "published": "Tue, 03 Nov 2026 14:33:14 GMT"
       },
       {
         "source": "BBC Entertainment",
@@ -481,6 +481,14 @@
         "url": "https://variety.com/2026/tv/news/fox-news-election-night-multimedia-launch-1236938315/",
         "image": "https://variety.com/wp-content/uploads/2026/11/bf6c44cf-3fd2-4eef-9daa-782fa740381d.png",
         "published": "Tue, 03 Nov 2026 14:20:00 +0000"
+      },
+      {
+        "source": "Smithsonian",
+        "headline": "From Hunting Hounds to Modernist Muses, Dachshunds Have Done It All. See the World's First Art Exhibition Dedicated Exclusively to the Sausage Dog",
+        "summary": "A new exhibition in Germany traces how the low-slung breed captured the imaginations of artistic heavyweights like Pablo Picasso, Andy Warhol and David Hockney. The museum even lets well-behaved pups tour the galleries",
+        "url": "https://www.smithsonianmag.com/smart-news/from-hunting-hounds-to-modernist-muses-dachshunds-have-done-it-all-see-the-worlds-first-art-exhibition-dedicated-exclusively-to-the-sausage-dog-180989797/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/50F4hrKYQ2JP_oNbUEZfBZHwvtE=/420x240/filters:focal(512x358:513x359)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/4c/854c7ce2-8484-42e0-b967-cf4b3833af5c/gettyimages-488083785.jpg",
+        "published": "Tue, 03 Nov 2026 14:31:41 +0000"
       },
       {
         "source": "Variety",
@@ -523,20 +531,12 @@
         "published": "Mon, 02 Nov 2026 22:00:48 +0000"
       },
       {
-        "source": "National Geographic Wildlife",
-        "headline": "California's Wolves Have Returned After a Century. But at What Cost? - National Geographic",
-        "summary": "California's Wolves Have Returned After a Century. But at What Cost? National Geographic",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnI4Rm9Ka3c2RjNRd1FmOHFmVkdtV2Z4SXE0aEkzeXdxcGZJTEowT0hCOGV1OVMwcjB5VHVqUnV5eDZHdTZlZlpPOXpRbWNwT2NHZWRQZGVzZ19VcWs2alhiamliODhncGFzRDR0cXZBNXRCOERYYWs5eFlVMkh3UkNmQQ?oc=5",
-        "image": "",
-        "published": "Tue, 03 Nov 2026 12:12:07 GMT"
-      },
-      {
         "source": "Animals",
-        "headline": "FW Animal Care and Control offering adoption discounts - 103.9 Wayne FM",
-        "summary": "FW Animal Care and Control offering adoption discounts 103.9 Wayne FM",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2s2M0F0c2l5dTktQUo5Ti1HaWQxVnFORWVBVTdjTHF2LWNGblpON0YtTUxReEVnVFJXa3BJeG9MU0pUeFJ0SFd0eGJNdS1nc1hQN0VrcWFlU2RaNURSTWhsSUR1ZlZDb2o2UmJ2ZGJOaDh0dGhheG5QZG9qLUplLUkyd0F6NWlPeFJxOWc0YUZRbE5obV9SOGt3?oc=5",
+        "headline": "FW Animal Care and Control offering adoption discounts - 963xke.com",
+        "summary": "FW Animal Care and Control offering adoption discounts 963xke.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTkyajZMTGVhNXpHOUkyTmlsNUhjckZRVFlOSmdOM2JyOGtLa0xGVHRQaGtvam83REJfeVNna3RkSzMtaUFuMmg0Y0hacnRXeUFRYXFGSFlkVzlBSnJ0ZkIwNUlHb2lZVkk0ZHpEeUZBYXAzc1VFS3JfRE42VXVwdGdkdGwzQWVqcFhidjFn?oc=5",
         "image": "",
-        "published": "Tue, 03 Nov 2026 11:28:18 GMT"
+        "published": "Tue, 03 Nov 2026 13:41:15 GMT"
       }
     ],
     "wonderful": [
@@ -549,6 +549,14 @@
         "published": "Tue, 03 Nov 2026 14:00:36 +0000"
       },
       {
+        "source": "Positive News",
+        "headline": "What if we stop treating social care like a service? This village shows the way",
+        "summary": "A village in England has created a social care community based on communal living and shared responsibility. Could it catch on?",
+        "url": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
+        "image": "",
+        "published": "Tue, 03 Nov 2026 14:34:15 +0000"
+      },
+      {
         "source": "Good News Network",
         "headline": "Rebuilding Mosques Brings Sikhs, Hindus and Muslims Together After Punjab Violence",
         "summary": "In the Indian state of Punjab, Muslims are watching Sikhs and Hindus organize the rebuilding of old mosques destroyed following Partition. Emotional to say the least, the inter-faith community building is being led by many old enough to remember the strife which ripped across the state. A portion of this ancient and proud land was",
@@ -557,28 +565,20 @@
         "published": "Tue, 03 Nov 2026 12:00:24 +0000"
       },
       {
+        "source": "Positive News",
+        "headline": "The women’s boxing nights helping abuse survivors",
+        "summary": "A series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
+        "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+        "image": "",
+        "published": "Mon, 02 Nov 2026 09:26:16 +0000"
+      },
+      {
         "source": "Good News Network",
         "headline": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
         "summary": "The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments. Marjy Stagmeier, a landlord of affordable housing in the Georgia capital city, is helping ease the burden on tenants through fundraising for the nonprofit she founded, the Star-C Program.",
         "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
         "image": "",
         "published": "Sun, 01 Nov 2026 22:53:28 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "Positive News launches new video podcast exploring what’s going right in the world",
-        "summary": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences",
-        "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-        "image": "",
-        "published": "Wed, 28 Oct 2026 09:43:33 +0000"
-      },
-      {
-        "source": "Positive News",
-        "headline": "The women’s boxing nights helping abuse survivors",
-        "summary": "A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
-        "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
-        "image": "",
-        "published": "Mon, 02 Nov 2026 09:26:16 +0000"
       },
       {
         "source": "Positive News",
