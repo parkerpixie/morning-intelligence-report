@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T15:48:35.132509+00:00",
+  "generated_at": "2026-11-04T17:19:25.700440+00:00",
   "edition_count": 112,
-  "story_count": 6980,
+  "story_count": 6982,
   "stories": [
     {
       "id": "20617a05d88ffd48",
@@ -14,7 +14,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
       "published": "Wed, 04 Nov 2026 15:01:10 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-04"
@@ -33,7 +33,7 @@
       "image": "",
       "published": "Wed, 04 Nov 2026 12:30:19 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -41,6 +41,33 @@
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
       "appearances": 1
+    },
+    {
+      "id": "63c70b62d3df4d11",
+      "source": "Madison Local",
+      "headline": "Without Musk this time, voters see 'less intense and noisy' Wisconsin Supreme Court race - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Without Musk this time, voters see 'less intense and noisy' Wisconsin Supreme Court race ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtuVl9iUzlOTklrMXVTYWV6R3JzZHZ5RDBjdTF4Wmw2d3VvU0UtRlVMTG9zeUdjbzdXYk15SVpKSENuUnE3cXZWRlVySTRzWkJhaDJ4dzE1YnJldmJSU2EtQTJmVTg0R0JQUzRFdGpCeE9ISkd0VnFyMDg3bHQ5UXlwalVObW9NODYyZGRsX2MzNlpPNHhwRGdWMHoxc3ZUOW9RUNIBqgFBVV95cUxNcFdWaXBnY3BwZzZzTVBhVkplRF95RkI2WnN3RWxjUWtDakMzTXd3WC1talFXLXp3a1o2cUdPUmlLZGdtVVdPRDhYbXVIa2psdXQ3SXJjcEJub3NxcmdYTmJuUG1jV3ZaNGFzUzZWS3lDNC1UTFllR2hJeWlJdTJRUzZHN05HWVNlMmw0cnpaZGwwa1hWTDNLdHhJd05VUFBaVkhlNlRRdUd2UQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtuVl9iUzlOTklrMXVTYWV6R3JzZHZ5RDBjdTF4Wmw2d3VvU0UtRlVMTG9zeUdjbzdXYk15SVpKSENuUnE3cXZWRlVySTRzWkJhaDJ4dzE1YnJldmJSU2EtQTJmVTg0R0JQUzRFdGpCeE9ISkd0VnFyMDg3bHQ5UXlwalVObW9NODYyZGRsX2MzNlpPNHhwRGdWMHoxc3ZUOW9RUNIBqgFBVV95cUxNcFdWaXBnY3BwZzZzTVBhVkplRF95RkI2WnN3RWxjUWtDakMzTXd3WC1talFXLXp3a1o2cUdPUmlLZGdtVVdPRDhYbXVIa2psdXQ3SXJjcEJub3NxcmdYTmJuUG1jV3ZaNGFzUzZWS3lDNC1UTFllR2hJeWlJdTJRUzZHN05HWVNlMmw0cnpaZGwwa1hWTDNLdHhJd05VUFBaVkhlNlRRdUd2UQ",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 11:15:55 GMT",
+      "sections": [
+        "local",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-04",
+        "2026-10-27",
+        "2026-10-26",
+        "2026-10-05",
+        "2026-09-28",
+        "2026-09-20",
+        "2026-09-19",
+        "2026-09-06"
+      ],
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-11-04",
+      "appearances": 8
     },
     {
       "id": "8f8f242914b32008",
@@ -158,46 +185,6 @@
       "appearances": 1
     },
     {
-      "id": "95204b5f2f92bf7e",
-      "source": "Isthmus",
-      "headline": "UW-Madison BioCore Students - Isthmus | Madison, Wisconsin",
-      "summary": "UW-Madison BioCore Students Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPei1qOVo4NHVUX1ZVTGM0aEt0Y0FFRHNadVJNSkE5dW00LVl4SlNPX2xEODJlTjJLUFcwdnJwR3N2d29nNjhQdExGZnN0YXpHXzJXa2tEMjhXNUktWjFfMVExdkRGQVRFUXljWC1iRWRsWDJoM0Z3b2ZRNTRkcHExeG5nT3lmUTNGZEhObQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPei1qOVo4NHVUX1ZVTGM0aEt0Y0FFRHNadVJNSkE5dW00LVl4SlNPX2xEODJlTjJLUFcwdnJwR3N2d29nNjhQdExGZnN0YXpHXzJXa2tEMjhXNUktWjFfMVExdkRGQVRFUXljWC1iRWRsWDJoM0Z3b2ZRNTRkcHExeG5nT3lmUTNGZEhObQ",
-      "image": "",
-      "published": "Wed, 04 Nov 2026 06:02:42 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
-      "id": "5eacd049b5ba80b4",
-      "source": "Mongabay",
-      "headline": "US couple sentenced for helping finance trade in rhino horn, puma bones, other wildlife parts - news - Mongabay",
-      "summary": "US couple sentenced for helping finance trade in rhino horn, puma bones, other wildlife parts news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMS12WW9KZUlYdlhlRVd2YnBqcVNxTlpfR3Vsai1VUnNnSkJpSGItbUo4bzd4MjR4WV9mODBCcHZsWVNLczIwb2liU3BDSldla3FlcHJuR2IwbWNZazlyLU9vb3AyaFpoV3V1aWxoMGNvNTAtZkFWR1lCSTdnRDkyOGF2aDlyclk0NmdHbko3Wkg1ck5HWVU2ZXRXZ1lya0dRdjF6R1N6SGZOaTV5OFI5aEMxd0V2WFlxWktBcWZBcEdsbXUwckNORWpoQlc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMS12WW9KZUlYdlhlRVd2YnBqcVNxTlpfR3Vsai1VUnNnSkJpSGItbUo4bzd4MjR4WV9mODBCcHZsWVNLczIwb2liU3BDSldla3FlcHJuR2IwbWNZazlyLU9vb3AyaFpoV3V1aWxoMGNvNTAtZkFWR1lCSTdnRDkyOGF2aDlyclk0NmdHbko3Wkg1ck5HWVU2ZXRXZ1lya0dRdjF6R1N6SGZOaTV5OFI5aEMxd0V2WFlxWktBcWZBcEdsbXUwckNORWpoQlc",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 10:47:51 GMT",
-      "sections": [
-        "animals",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-04",
-        "2026-11-03"
-      ],
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-04",
-      "appearances": 2
-    },
-    {
       "id": "d3f05a61364c068d",
       "source": "Ars Technica",
       "headline": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -274,25 +261,6 @@
       "appearances": 1
     },
     {
-      "id": "3729acca3897301b",
-      "source": "Variety",
-      "headline": "Tinto Brass, Director of Erotic Epics ‘Caligula’ and ‘Salon Kitty,’ Dies at 93",
-      "summary": "Italian director Tinto Brass, known for the historic erotic epics “Salon Kitty” and “Caligula,” has died. He was 93. Brass’ family announced the news of his death on Wednesday to Italian press agency Ansa. Born in Milan in 1933 to a Venetian family of artists, Brass first studied law before veering towards film during the",
-      "url": "https://variety.com/2026/film/global/tinto-brass-dead-caligula-salon-kitty-1236939212/",
-      "canonical_url": "https://variety.com/2026/film/global/tinto-brass-dead-caligula-salon-kitty-1236939212",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Vallanzasca-Premiere67th-Venice-Film-Festival-1000.jpg",
-      "published": "Wed, 04 Nov 2026 14:40:32 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
       "id": "c9278230a0af29d7",
       "source": "NPR",
       "headline": "The world is reacting to the Democrats' sweeping midterm elections victory",
@@ -352,6 +320,25 @@
       "appearances": 1
     },
     {
+      "id": "dbc478cee2a8f476",
+      "source": "Ars Technica",
+      "headline": "The DEA banned a drug some opioid users called a miracle",
+      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+      "canonical_url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg",
+      "published": "Wed, 04 Nov 2026 15:08:48 +0000",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
       "id": "22b7e7468d4b3e24",
       "source": "Taylor Fashion",
       "headline": "Taylor Swift was like a politican campaigning for an Oscar at New York ‘Toy Story 5’ screening - Page Six",
@@ -378,7 +365,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnRPYXRKNXRWU0dMREdGcll3SURBZEJsVnZiY3FUUjYwNjZyeDkyVklHZjJRa0ZDRTBIYUNLdHQwWTFJYVZRSXZ6cFQzRko0UENJa0lycC1PbkR4RXNMUTJBRHBVcko4MnpCOHd1LWctU3FFVVZmRVlYRU12S1BoZGFtckRxRjhHazBqdkh6cHpadEFlRlNjc0c5cm8xRkI00gGmAUFVX3lxTE5pZTdVb1B1NU9teFRuQWRSLS0xTmlLblM2Y0NBVENCTXlJSHRRVHZJTEdWYlczcHJjUl9Cd3V4bm4zWEZPaFE4UjhhRGc4Qk9rY2tYZS02WVM0TVB2TS1MZlc1MzFNZmJkRktHajBnd2tFVjU5cUVuYlpyd1lIdG9xZ05VVWNHMF8ySDBvU2tQSkdLaHhXRmd5Rk9CMk9KTU1lZGFwV0E?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnRPYXRKNXRWU0dMREdGcll3SURBZEJsVnZiY3FUUjYwNjZyeDkyVklHZjJRa0ZDRTBIYUNLdHQwWTFJYVZRSXZ6cFQzRko0UENJa0lycC1PbkR4RXNMUTJBRHBVcko4MnpCOHd1LWctU3FFVVZmRVlYRU12S1BoZGFtckRxRjhHazBqdkh6cHpadEFlRlNjc0c5cm8xRkI00gGmAUFVX3lxTE5pZTdVb1B1NU9teFRuQWRSLS0xTmlLblM2Y0NBVENCTXlJSHRRVHZJTEdWYlczcHJjUl9Cd3V4bm4zWEZPaFE4UjhhRGc4Qk9rY2tYZS02WVM0TVB2TS1MZlc1MzFNZmJkRktHajBnd2tFVjU5cUVuYlpyd1lIdG9xZ05VVWNHMF8ySDBvU2tQSkdLaHhXRmd5Rk9CMk9KTU1lZGFwV0E",
       "image": "",
-      "published": "Wed, 04 Nov 2026 11:42:36 GMT",
+      "published": "Wed, 04 Nov 2026 13:40:50 GMT",
       "sections": [
         "entertainment"
       ],
@@ -429,35 +416,16 @@
       "appearances": 1
     },
     {
-      "id": "a6e736504b57ffdb",
-      "source": "Variety",
-      "headline": "Stocks Rally Higher After Democrats Flip Congress",
-      "summary": "Wall Street cheered the Blue Wave that put Democrats in control of both the Senate and House, with major market indexes and media stocks posting gains Wednesday morning after the midterm elections. The Dow Jones Industrial Average soared over 1,100 points in early trading, up 2.2%, to nearly 53,000, while the Nasdaq Composite index was",
-      "url": "https://variety.com/2026/biz/news/stocks-midterm-elections-democrats-congress-1236939220/",
-      "canonical_url": "https://variety.com/2026/biz/news/stocks-midterm-elections-democrats-congress-1236939220",
-      "image": "https://variety.com/wp-content/uploads/2024/12/Media-stocks-NYSE.jpg",
-      "published": "Wed, 04 Nov 2026 15:01:32 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
-      "id": "84187efca556be5d",
-      "source": "B2B Marketing Ops",
-      "headline": "South Korea's LX Hausys Q3 Operating Profit Falls 62% to approximately $6.3 Million as Housing Slump Bites - BigGo Finance",
-      "summary": "South Korea's LX Hausys Q3 Operating Profit Falls 62% to approximately $6.3 Million as Housing Slump Bites BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTUdJd2RzVFQtMF9MZ1ozbTZSY1NpS1NuMTJ6R0FrQk5xZVNGX0d1cDdNTHhtS1JwMzVVWDFVZms5dFAzX1B4aVNnWFRld1lBUW03b1hBV21HRC1TQm1BQjZPZi02UDdqalVhR2RrVlhiWlNGeEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTUdJd2RzVFQtMF9MZ1ozbTZSY1NpS1NuMTJ6R0FrQk5xZVNGX0d1cDdNTHhtS1JwMzVVWDFVZms5dFAzX1B4aVNnWFRld1lBUW03b1hBV21HRC1TQm1BQjZPZi02UDdqalVhR2RrVlhiWlNGeEE",
+      "id": "5c52433c2c46e2cd",
+      "source": "Good News Network",
+      "headline": "Student-run Automotive Shop Opens to the Public in Houston Where Every Oil Change Helps the Next Generation",
+      "summary": "From the Houston Chronicle comes the story of high schoolers getting down and dirty with their education. Having lately opened an auto shop in the city’s Fifth Ward, students in automotive engineering are ready to change your oil, rotate your tires, or tinker with whatever’s making *that sound. The shop was opened through the Houston",
+      "url": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
+      "canonical_url": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation",
       "image": "",
-      "published": "Wed, 04 Nov 2026 08:57:00 GMT",
+      "published": "Wed, 04 Nov 2026 16:30:37 +0000",
       "sections": [
-        "work-marketing"
+        "wonderful"
       ],
       "report_dates": [
         "2026-11-04"
@@ -467,23 +435,24 @@
       "appearances": 1
     },
     {
-      "id": "7f280f946fc74fe5",
-      "source": "BBC US & Canada",
-      "headline": "South Carolina elects Democratic senator for first time in almost three decades",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Wed, 04 Nov 2026 07:32:02 GMT",
+      "id": "c395f7514461221a",
+      "source": "BBC Science",
+      "headline": "Spill from vandalised home oil tank kills 13 birds",
+      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
+      "published": "Sun, 01 Nov 2026 08:57:56 GMT",
       "sections": [
-        "quick-scan"
+        "animals"
       ],
       "report_dates": [
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-01"
       ],
-      "first_seen": "2026-11-04",
+      "first_seen": "2026-11-01",
       "last_seen": "2026-11-04",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "b3ff44d6d7b1c136",
@@ -505,25 +474,6 @@
       "appearances": 1
     },
     {
-      "id": "1eb19ba95d162c18",
-      "source": "The Verge",
-      "headline": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "image": "",
-      "published": "2026-11-04T09:46:01-05:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
       "id": "9e47d7a0fc3a62e8",
       "source": "BBC Health",
       "headline": "Rural health board shake-up opposed as locals fight cuts to hospital beds",
@@ -534,6 +484,25 @@
       "published": "Tue, 03 Nov 2026 21:01:00 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
+      "id": "7a7257c5db3f3af2",
+      "source": "The Verge",
+      "headline": "Rian Johnson explains why he had to build his own iPhone camera app",
+      "summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be",
+      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "canonical_url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "image": "",
+      "published": "2026-11-04T11:10:05-05:00",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-04"
@@ -619,6 +588,25 @@
       "appearances": 1
     },
     {
+      "id": "d3c6030b7aa821a8",
+      "source": "Mongabay",
+      "headline": "Photograph helps identify a West African bird not seen in 13 years - news - Mongabay",
+      "summary": "Photograph helps identify a West African bird not seen in 13 years news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmNxQU85VXV1SHFucjdKRWRQanh1cmxXZjFSMU0xUDZuYWxOVkE2NGFlSHNKbllWUUpidkJMT1hXb2xVbGFNMWRzZmw5bnBNT2dUUnd5azRrVlk1dHh2clNneUVIelZVQXdPWDQ5RmNxekREdGtnWGZ4aG52ODUzZHFvRXdSZ04yaVZjYTNac0ZTdXJHU0wxVFloUlhQMW9LSnB4ZlU3V3hLRDQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmNxQU85VXV1SHFucjdKRWRQanh1cmxXZjFSMU0xUDZuYWxOVkE2NGFlSHNKbllWUUpidkJMT1hXb2xVbGFNMWRzZmw5bnBNT2dUUnd5azRrVlk1dHh2clNneUVIelZVQXdPWDQ5RmNxekREdGtnWGZ4aG52ODUzZHFvRXdSZ04yaVZjYTNac0ZTdXJHU0wxVFloUlhQMW9LSnB4ZlU3V3hLRDQ",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 02:03:45 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
       "id": "e5c868606f2866e0",
       "source": "Mongabay",
       "headline": "Payment scheme in Botswana pays communities to coexist with wildlife - news - Mongabay",
@@ -676,46 +664,6 @@
       "appearances": 1
     },
     {
-      "id": "994d6198ba2211af",
-      "source": "AI News",
-      "headline": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
-      "summary": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 18:00:07 GMT",
-      "sections": [
-        "ai-tech",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-04",
-        "2026-11-03"
-      ],
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-04",
-      "appearances": 2
-    },
-    {
-      "id": "2c8cdc7c43a4092a",
-      "source": "Audubon",
-      "headline": "Onondaga Lake Conservation Corps Birding Adventure Nov. 14, 2026 - Bonterra",
-      "summary": "Onondaga Lake Conservation Corps Birding Adventure Nov. 14, 2026 Bonterra",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1QxS2ZlaGluUE91b3BuQmZ1S19BeWg4NEg4eGFEdWlnRjNEZWZoQkVfUlpoNVBwM2JoOEM5VmVvSFJVakhNcmVCQ09QbjVScnhscEZHNWh3VklTMFd0Tjd4ekVzb2hVaUVTNGlTZFl2Q0dCRUVYdlVmQ2o5dFpkVW5xZzQzRE5QR294VXkzSUlMUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1QxS2ZlaGluUE91b3BuQmZ1S19BeWg4NEg4eGFEdWlnRjNEZWZoQkVfUlpoNVBwM2JoOEM5VmVvSFJVakhNcmVCQ09QbjVScnhscEZHNWh3VklTMFd0Tjd4ekVzb2hVaUVTNGlTZFl2Q0dCRUVYdlVmQ2o5dFpkVW5xZzQzRE5QR294VXkzSUlMUQ",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 20:40:17 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
       "id": "7248a05c4c03475b",
       "source": "Ars Technica",
       "headline": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
@@ -744,7 +692,7 @@
       "image": "",
       "published": "2026-11-04T10:33:59-05:00",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -782,7 +730,7 @@
       "image": "",
       "published": "Wed, 04 Nov 2026 13:01:36 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -792,24 +740,24 @@
       "appearances": 1
     },
     {
-      "id": "16aecbfccab5bdfb",
-      "source": "Channel 3000",
-      "headline": "Madison Common Council president rules out reelection, mayoral run - Channel 3000",
-      "summary": "Madison Common Council president rules out reelection, mayoral run Channel 3000",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2NJcTl5eUo5d2dqbFczMFNWV1JIQjFfOUFWXzRUalJ5azFUNGplUTNObkFVVFhMZy1oaTN4MmFHb0Y5YmJqT3VHYWlGM1Y3cFZSdW1GQXBNdzdRUkFVTVdVQW05SGROZFJqbUJLUkRzYzlMa19FY2RpR1JGbkFSLXZERDA5aEsxWjlGUElBMmxHLWRBU0hiS29oNnlaSVpXMzdXMnhvZTc1YldzUUdPSHJ0ZFVQdFFjMmhraVhnTnE4aUhXVG93MDB1UWRpNzFiQUlYNDQxU2dqNEpTUG9raFRn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2NJcTl5eUo5d2dqbFczMFNWV1JIQjFfOUFWXzRUalJ5azFUNGplUTNObkFVVFhMZy1oaTN4MmFHb0Y5YmJqT3VHYWlGM1Y3cFZSdW1GQXBNdzdRUkFVTVdVQW05SGROZFJqbUJLUkRzYzlMa19FY2RpR1JGbkFSLXZERDA5aEsxWjlGUElBMmxHLWRBU0hiS29oNnlaSVpXMzdXMnhvZTc1YldzUUdPSHJ0ZFVQdFFjMmhraVhnTnE4aUhXVG93MDB1UWRpNzFiQUlYNDQxU2dqNEpTUG9raFRn",
+      "id": "0e2c6803804efaaa",
+      "source": "Medical Xpress",
+      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
+      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
       "image": "",
-      "published": "Mon, 02 Nov 2026 00:56:00 GMT",
+      "published": "Wed, 04 Nov 2026 13:33:28 GMT",
       "sections": [
-        "local",
-        "quick-scan"
+        "quick-scan",
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-04",
-        "2026-11-03",
-        "2026-11-02"
+        "2026-09-10",
+        "2026-09-08"
       ],
-      "first_seen": "2026-11-02",
+      "first_seen": "2026-09-08",
       "last_seen": "2026-11-04",
       "appearances": 3
     },
@@ -821,7 +769,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjZiYWFYeHBMdUpoWFVSb3puN3F5RnhrWkRuVUZmNlFETDVmZjdHaGF2TkszTVFSMzR6RVB0c0s0N1JIX3h5ak8zb1NjZm5iOVBIOGVBQ21GdE9wamYwVEJzTGZsU1lCYVBKaDV2Ty1KVVhhRUNEYmpUMTFTSks5RzV5Z1lqY1E4dEV4ZjF5SFYxaU1BY05rVG1jOFJKclQ5VDhNZF9wc294SHhsRmU3RUxqVnM3WEpCNldSdm1jMEp3dmVlNWIxMnlWRQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjZiYWFYeHBMdUpoWFVSb3puN3F5RnhrWkRuVUZmNlFETDVmZjdHaGF2TkszTVFSMzR6RVB0c0s0N1JIX3h5ak8zb1NjZm5iOVBIOGVBQ21GdE9wamYwVEJzTGZsU1lCYVBKaDV2Ty1KVVhhRUNEYmpUMTFTSks5RzV5Z1lqY1E4dEV4ZjF5SFYxaU1BY05rVG1jOFJKclQ5VDhNZF9wc294SHhsRmU3RUxqVnM3WEpCNldSdm1jMEp3dmVlNWIxMnlWRQ",
       "image": "",
-      "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+      "published": "Wed, 04 Nov 2026 15:00:00 GMT",
       "sections": [
         "local"
       ],
@@ -842,7 +790,7 @@
       "image": "",
       "published": "Tue, 03 Nov 2026 19:30:09 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -890,6 +838,44 @@
       "appearances": 1
     },
     {
+      "id": "6b286be5efa07823",
+      "source": "BBC World",
+      "headline": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Wed, 04 Nov 2026 16:18:21 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
+      "id": "c6fbdb7467b84d7f",
+      "source": "Search Engine Land",
+      "headline": "Is ChatGPT really handling 1 trillion searches a year? - Search Engine Land",
+      "summary": "Is ChatGPT really handling 1 trillion searches a year? Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 15:51:54 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
       "id": "b4d4324a953f03f6",
       "source": "BBC World",
       "headline": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -897,7 +883,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 04 Nov 2026 12:21:21 GMT",
+      "published": "Wed, 04 Nov 2026 16:59:15 GMT",
       "sections": [
         "must-know"
       ],
@@ -966,16 +952,16 @@
       "appearances": 1
     },
     {
-      "id": "805dcf6fc70ce58e",
-      "source": "BBC US & Canada",
-      "headline": "Five reasons why Republicans lost so badly",
-      "summary": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
-      "published": "Wed, 04 Nov 2026 12:44:19 GMT",
+      "id": "b3bb33e1dd3522da",
+      "source": "Good News Network",
+      "headline": "Good News in History, November 4",
+      "summary": "102 years ago today, “Silent” Calvin Coolidge was elected to serve as the 30th President of the United States. Undoubtedly the greatest domestic/peacetime President in the 20th century, Coolidge embodied not only the Founders’ vision of the Executive, but many of the most quintessentially American qualities we struggle to find today in our political caste.",
+      "url": "https://www.goodnewsnetwork.org/events061104/",
+      "canonical_url": "https://www.goodnewsnetwork.org/events061104",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 08:00:00 +0000",
       "sections": [
-        "must-know"
+        "wonderful"
       ],
       "report_dates": [
         "2026-11-04"
@@ -985,16 +971,35 @@
       "appearances": 1
     },
     {
-      "id": "05193a55052b09dd",
-      "source": "AI Safety",
-      "headline": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0",
+      "id": "dc44e311ec4a4647",
+      "source": "The Verge",
+      "headline": "God of War Laufey delayed until May",
+      "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was previously set to launch on PS5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply grateful to",
+      "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+      "canonical_url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
       "image": "",
-      "published": "Wed, 04 Nov 2026 08:37:48 GMT",
+      "published": "2026-11-04T12:10:31-05:00",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
+      "id": "805dcf6fc70ce58e",
+      "source": "BBC US & Canada",
+      "headline": "Five reasons why Republicans lost so badly",
+      "summary": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
+      "published": "Wed, 04 Nov 2026 12:44:19 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -1080,24 +1085,23 @@
       "appearances": 1
     },
     {
-      "id": "cb7a77a84970bedc",
-      "source": "Behavioral Health",
-      "headline": "Deals tracker: Novant Health acquires Northern Regional Hospital - Modern Healthcare",
-      "summary": "Deals tracker: Novant Health acquires Northern Regional Hospital Modern Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
+      "id": "0c9cbd4df150e7b2",
+      "source": "The Verge",
+      "headline": "Data centers lost the midterms",
+      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "canonical_url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
       "image": "",
-      "published": "Wed, 04 Nov 2026 11:02:38 GMT",
+      "published": "2026-11-04T11:05:39-05:00",
       "sections": [
-        "wellbeing"
+        "ai-tech"
       ],
       "report_dates": [
-        "2026-11-04",
-        "2026-10-30"
+        "2026-11-04"
       ],
-      "first_seen": "2026-10-30",
+      "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
-      "appearances": 2
+      "appearances": 1
     },
     {
       "id": "31344d2cba25fbf4",
@@ -1110,25 +1114,6 @@
       "published": "Tue, 03 Nov 2026 22:39:37 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
-      "id": "648dcb7614f13b42",
-      "source": "Associated Press",
-      "headline": "Breaking News: Gov. Kathy Hochul, a moderate Democrat, won a second full term in New York, according to The Associated Press. The state’s first female governor, she defeated Bruce Blakeman,…",
-      "summary": "Breaking News: Gov. Kathy Hochul, a moderate Democrat, won a second full term in New York, according to The Associated Press. The state’s first female governor, she defeated Bruce Blakeman, who has close ties to President Trump. https://nyti.ms/3WpwMA Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTRJaFA3anVJU1pRR3dqV1pUblE1MnRTRTdWT2R5REw4a2VTWFVrZExvdVBldXBSU2pDaEtQU1gtWUpRYndYZ0VKemd4YlpOcjlRXzZ6TmxYSDRheE9DeUY3UGJLV2w4NnBLLUlGRWtkRVdramdoMWxwZjkzSUZzZ19ISWx1OGlHa1k1ZkFHVE44cHc5LXhhS3dieGVrTzlxNklKOFN3a2pfSDFPWGU0dG4wRm5Lc1d4VGliMHFwRlljcDN5OHdnRFdBVjRSakVHeTJZ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTRJaFA3anVJU1pRR3dqV1pUblE1MnRTRTdWT2R5REw4a2VTWFVrZExvdVBldXBSU2pDaEtQU1gtWUpRYndYZ0VKemd4YlpOcjlRXzZ6TmxYSDRheE9DeUY3UGJLV2w4NnBLLUlGRWtkRVdramdoMWxwZjkzSUZzZ19ISWx1OGlHa1k1ZkFHVE44cHc5LXhhS3dieGVrTzlxNklKOFN3a2pfSDFPWGU0dG4wRm5Lc1d4VGliMHFwRlljcDN5OHdnRFdBVjRSakVHeTJZ",
-      "image": "",
-      "published": "Wed, 04 Nov 2026 02:41:56 GMT",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -1223,7 +1208,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg",
       "published": "Wed, 04 Nov 2026 11:47:44 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-04"
@@ -1231,27 +1216,6 @@
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
       "appearances": 1
-    },
-    {
-      "id": "d94cf0f603b532e2",
-      "source": "Smithsonian",
-      "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
-      "summary": "Invictibellatrix amberina was a long-clawed, tiger-size dinosaur that lived around 120 million years ago. It's helping scientists piece together the global spread of megaraptors, which later became apex predators",
-      "url": "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/",
-      "canonical_url": "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/IhcA2i4NcnBmi-_uJJNcKvOKH-E=/420x240/filters:focal(580x298:581x299)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/91/e6918d59-29ab-4437-8fff-ab2f3878bcaf/new-megaraptor-reconstruction-full-width-krasovskiy-salasjpgthumb11601160.png",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "sections": [
-        "animals",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-04",
-        "2026-11-02"
-      ],
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-04",
-      "appearances": 2
     },
     {
       "id": "fbf5961341afd920",
@@ -1263,7 +1227,7 @@
       "image": "",
       "published": "Wed, 04 Nov 2026 14:00:00 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-04"
@@ -1311,8 +1275,27 @@
       "appearances": 1
     },
     {
+      "id": "9e980b7e811f978b",
+      "source": "Variety",
+      "headline": "15th Annual Hamilton Behind the Camera Awards Honorees Announced in Partnership With Variety",
+      "summary": "Hamilton and Variety are pleased to announce the honorees and presenters for the 15th Annual Hamilton Behind the Camera Awards in partnership with Variety. The annual awards ceremony will be held on November 13 in Los Angeles, honoring behind-the-camera artisans who work tirelessly at their craft to make some of the best films in the",
+      "url": "https://variety.com/2026/biz/news/15th-annual-hamilton-behind-the-camera-awards-1236938842/",
+      "canonical_url": "https://variety.com/2026/biz/news/15th-annual-hamilton-behind-the-camera-awards-1236938842",
+      "image": "https://variety.com/wp-content/uploads/2026/11/hamilton-3.jpg",
+      "published": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
       "id": "5dce150845b140ce",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
       "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
       "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
@@ -1359,6 +1342,25 @@
       "published": "Wed, 04 Nov 2026 00:04:28 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "appearances": 1
+    },
+    {
+      "id": "ef1837cfe8555839",
+      "source": "BBC World",
+      "headline": "'Most difficult days of my life' for keeper Owono",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg",
+      "published": "Wed, 04 Nov 2026 16:40:38 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-04"
@@ -1551,6 +1553,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
       "published": "Tue, 03 Nov 2026 11:33:33 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-03"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "appearances": 1
+    },
+    {
+      "id": "5eacd049b5ba80b4",
+      "source": "Mongabay",
+      "headline": "US couple sentenced for helping finance trade in rhino horn, puma bones, other wildlife parts - news - Mongabay",
+      "summary": "US couple sentenced for helping finance trade in rhino horn, puma bones, other wildlife parts news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMS12WW9KZUlYdlhlRVd2YnBqcVNxTlpfR3Vsai1VUnNnSkJpSGItbUo4bzd4MjR4WV9mODBCcHZsWVNLczIwb2liU3BDSldla3FlcHJuR2IwbWNZazlyLU9vb3AyaFpoV3V1aWxoMGNvNTAtZkFWR1lCSTdnRDkyOGF2aDlyclk0NmdHbko3Wkg1ck5HWVU2ZXRXZ1lya0dRdjF6R1N6SGZOaTV5OFI5aEMxd0V2WFlxWktBcWZBcEdsbXUwckNORWpoQlc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMS12WW9KZUlYdlhlRVd2YnBqcVNxTlpfR3Vsai1VUnNnSkJpSGItbUo4bzd4MjR4WV9mODBCcHZsWVNLczIwb2liU3BDSldla3FlcHJuR2IwbWNZazlyLU9vb3AyaFpoV3V1aWxoMGNvNTAtZkFWR1lCSTdnRDkyOGF2aDlyclk0NmdHbko3Wkg1ck5HWVU2ZXRXZ1lya0dRdjF6R1N6SGZOaTV5OFI5aEMxd0V2WFlxWktBcWZBcEdsbXUwckNORWpoQlc",
+      "image": "",
+      "published": "Tue, 03 Nov 2026 10:47:51 GMT",
       "sections": [
         "quick-scan"
       ],
@@ -1885,6 +1906,25 @@
       "appearances": 1
     },
     {
+      "id": "994d6198ba2211af",
+      "source": "AI News",
+      "headline": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
+      "summary": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j",
+      "image": "",
+      "published": "Tue, 03 Nov 2026 18:00:07 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-03"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "appearances": 1
+    },
+    {
       "id": "bd00c40b174e0d2e",
       "source": "BBC Technology",
       "headline": "North Korea denies being behind record $6.3bn Binance hack",
@@ -1959,6 +1999,27 @@
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
       "appearances": 1
+    },
+    {
+      "id": "16aecbfccab5bdfb",
+      "source": "Channel 3000",
+      "headline": "Madison Common Council president rules out reelection, mayoral run - Channel 3000",
+      "summary": "Madison Common Council president rules out reelection, mayoral run Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2NJcTl5eUo5d2dqbFczMFNWV1JIQjFfOUFWXzRUalJ5azFUNGplUTNObkFVVFhMZy1oaTN4MmFHb0Y5YmJqT3VHYWlGM1Y3cFZSdW1GQXBNdzdRUkFVTVdVQW05SGROZFJqbUJLUkRzYzlMa19FY2RpR1JGbkFSLXZERDA5aEsxWjlGUElBMmxHLWRBU0hiS29oNnlaSVpXMzdXMnhvZTc1YldzUUdPSHJ0ZFVQdFFjMmhraVhnTnE4aUhXVG93MDB1UWRpNzFiQUlYNDQxU2dqNEpTUG9raFRn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2NJcTl5eUo5d2dqbFczMFNWV1JIQjFfOUFWXzRUalJ5azFUNGplUTNObkFVVFhMZy1oaTN4MmFHb0Y5YmJqT3VHYWlGM1Y3cFZSdW1GQXBNdzdRUkFVTVdVQW05SGROZFJqbUJLUkRzYzlMa19FY2RpR1JGbkFSLXZERDA5aEsxWjlGUElBMmxHLWRBU0hiS29oNnlaSVpXMzdXMnhvZTc1YldzUUdPSHJ0ZFVQdFFjMmhraVhnTnE4aUhXVG93MDB1UWRpNzFiQUlYNDQxU2dqNEpTUG9raFRn",
+      "image": "",
+      "published": "Mon, 02 Nov 2026 00:56:00 GMT",
+      "sections": [
+        "local",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-03",
+        "2026-11-02"
+      ],
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
+      "appearances": 2
     },
     {
       "id": "33534a20082e117b",
@@ -3802,6 +3863,25 @@
       "appearances": 1
     },
     {
+      "id": "d94cf0f603b532e2",
+      "source": "Smithsonian",
+      "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
+      "summary": "Invictibellatrix amberina was a long-clawed, tiger-size dinosaur that lived around 120 million years ago. It's helping scientists piece together the global spread of megaraptors, which later became apex predators",
+      "url": "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/IhcA2i4NcnBmi-_uJJNcKvOKH-E=/420x240/filters:focal(580x298:581x299)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/91/e6918d59-29ab-4437-8fff-ab2f3878bcaf/new-megaraptor-reconstruction-full-width-krasovskiy-salasjpgthumb11601160.png",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-02"
+      ],
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "appearances": 1
+    },
+    {
       "id": "ae8b84076cd7197b",
       "source": "Medical Xpress",
       "headline": "After adult-onset hearing loss, an adaptation in the brain may improve vision - Medical Xpress",
@@ -4284,25 +4364,6 @@
       "published": "Sun, 01 Nov 2026 05:00:00 -0400",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-01"
-      ],
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "appearances": 1
-    },
-    {
-      "id": "c395f7514461221a",
-      "source": "BBC Science",
-      "headline": "Spill from vandalised home oil tank kills 13 birds",
-      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
-      "published": "Sun, 01 Nov 2026 08:57:56 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-11-01"
@@ -7231,6 +7292,25 @@
       "appearances": 1
     },
     {
+      "id": "cb7a77a84970bedc",
+      "source": "Behavioral Health",
+      "headline": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
+      "summary": "Deals tracker: Stryker acquires ZuriMED Modern Healthcare News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 02:59:46 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-30"
+      ],
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "appearances": 1
+    },
+    {
       "id": "e85e913d0d90a9ef",
       "source": "Search Engine Land",
       "headline": "Core Web Vitals optimization can be a waste of time - Search Engine Land",
@@ -10038,32 +10118,6 @@
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "appearances": 1
-    },
-    {
-      "id": "63c70b62d3df4d11",
-      "source": "Madison Local",
-      "headline": "Without Musk this time, voters see 'less intense and noisy' Wisconsin Supreme Court race - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Without Musk this time, voters see 'less intense and noisy' Wisconsin Supreme Court race ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtuVl9iUzlOTklrMXVTYWV6R3JzZHZ5RDBjdTF4Wmw2d3VvU0UtRlVMTG9zeUdjbzdXYk15SVpKSENuUnE3cXZWRlVySTRzWkJhaDJ4dzE1YnJldmJSU2EtQTJmVTg0R0JQUzRFdGpCeE9ISkd0VnFyMDg3bHQ5UXlwalVObW9NODYyZGRsX2MzNlpPNHhwRGdWMHoxc3ZUOW9RUNIBqgFBVV95cUxNcFdWaXBnY3BwZzZzTVBhVkplRF95RkI2WnN3RWxjUWtDakMzTXd3WC1talFXLXp3a1o2cUdPUmlLZGdtVVdPRDhYbXVIa2psdXQ3SXJjcEJub3NxcmdYTmJuUG1jV3ZaNGFzUzZWS3lDNC1UTFllR2hJeWlJdTJRUzZHN05HWVNlMmw0cnpaZGwwa1hWTDNLdHhJd05VUFBaVkhlNlRRdUd2UQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtuVl9iUzlOTklrMXVTYWV6R3JzZHZ5RDBjdTF4Wmw2d3VvU0UtRlVMTG9zeUdjbzdXYk15SVpKSENuUnE3cXZWRlVySTRzWkJhaDJ4dzE1YnJldmJSU2EtQTJmVTg0R0JQUzRFdGpCeE9ISkd0VnFyMDg3bHQ5UXlwalVObW9NODYyZGRsX2MzNlpPNHhwRGdWMHoxc3ZUOW9RUNIBqgFBVV95cUxNcFdWaXBnY3BwZzZzTVBhVkplRF95RkI2WnN3RWxjUWtDakMzTXd3WC1talFXLXp3a1o2cUdPUmlLZGdtVVdPRDhYbXVIa2psdXQ3SXJjcEJub3NxcmdYTmJuUG1jV3ZaNGFzUzZWS3lDNC1UTFllR2hJeWlJdTJRUzZHN05HWVNlMmw0cnpaZGwwa1hWTDNLdHhJd05VUFBaVkhlNlRRdUd2UQ",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 09:50:53 GMT",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-10-27",
-        "2026-10-26",
-        "2026-10-05",
-        "2026-09-28",
-        "2026-09-20",
-        "2026-09-19",
-        "2026-09-06"
-      ],
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-10-27",
-      "appearances": 7
     },
     {
       "id": "d099a5239c2f0b29",
@@ -67657,26 +67711,6 @@
       "first_seen": "2026-09-10",
       "last_seen": "2026-09-10",
       "appearances": 1
-    },
-    {
-      "id": "0e2c6803804efaaa",
-      "source": "Medical Xpress",
-      "headline": "Medical Xpress: Health & Medical Research News - Medical Xpress",
-      "summary": "Medical Xpress: Health & Medical Research News Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5nOVNhLXRSTGRLWUxnYm5FbkU5aFJMSWRVYXNKeVdfTmdna09BdnhCc2RRZTY0ajdrbHlrVWRFdw",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 14:20:21 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-09-10",
-        "2026-09-08"
-      ],
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "appearances": 2
     },
     {
       "id": "6be9484307df7749",
