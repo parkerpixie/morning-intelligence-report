@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-04.json",
-  "report_date": "2026-11-04",
-  "generated_at": "2026-11-04T18:40:11.053793+00:00",
-  "edition_count": 112,
+  "latest": "data/archive/2026-11-05.json",
+  "report_date": "2026-11-05",
+  "generated_at": "2026-11-05T14:43:43.912519+00:00",
+  "edition_count": 113,
   "editions": [
+    {
+      "report_date": "2026-11-05",
+      "generated_at": "2026-11-05T14:43:43.912519+00:00",
+      "path": "data/archive/2026-11-05.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-04",
       "generated_at": "2026-11-04T18:40:11.053793+00:00",
