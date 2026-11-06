@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-05.json",
-  "report_date": "2026-11-05",
-  "generated_at": "2026-11-05T18:47:15.394253+00:00",
-  "edition_count": 113,
+  "latest": "data/archive/2026-11-06.json",
+  "report_date": "2026-11-06",
+  "generated_at": "2026-11-06T14:21:46.643338+00:00",
+  "edition_count": 114,
   "editions": [
+    {
+      "report_date": "2026-11-06",
+      "generated_at": "2026-11-06T14:21:46.643338+00:00",
+      "path": "data/archive/2026-11-06.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/60312250-d9ca-11f1-93e1-3b657b665bcf.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-05",
       "generated_at": "2026-11-05T18:47:15.394253+00:00",
