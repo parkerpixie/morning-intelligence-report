@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T16:49:10.545865+00:00",
+  "generated_at": "2026-11-06T18:03:40.490042+00:00",
   "edition_count": 114,
-  "story_count": 7119,
+  "story_count": 7120,
   "stories": [
     {
-      "id": "22479965dfbab53c",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin eyes room for improvement in encounter vs. Delaware - Raleigh News & Observer",
-      "summary": "Wisconsin eyes room for improvement in encounter vs. Delaware Raleigh News & Observer",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVVIzY21JUVNyZlpkTE5LaTNrTHB3WWstTzJhRTdJRW5UOFhIam1FVVg5bkxPNlhjLU8wWTEwY0JkdWVnVXg5NEZCcVhWaTdSN3I1NHM2eTJVU3NXbVFlSnlKWU8xaS1EOUt4MlV4WEdqdHM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVVIzY21JUVNyZlpkTE5LaTNrTHB3WWstTzJhRTdJRW5UOFhIam1FVVg5bkxPNlhjLU8wWTEwY0JkdWVnVXg5NEZCcVhWaTdSN3I1NHM2eTJVU3NXbVFlSnlKWU8xaS1EOUt4MlV4WEdqdHM",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 13:36:00 GMT",
+      "id": "1cbe5734c0dad64c",
+      "source": "Ars Technica",
+      "headline": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+      "canonical_url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+      "published": "Fri, 06 Nov 2026 17:06:32 +0000",
       "sections": [
         "local"
       ],
@@ -46,7 +46,7 @@
     },
     {
       "id": "49159d4be2045d54",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
       "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
@@ -93,6 +93,25 @@
       "published": "Fri, 06 Nov 2026 14:00:28 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "cf7d22fcd65fb783",
+      "source": "BBC Health",
+      "headline": "Under-16s could be banned from buying energy drinks in Wales",
+      "summary": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0401/live/5cafa240-da02-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 06 Nov 2026 17:10:28 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-06"
@@ -178,14 +197,14 @@
       "appearances": 1
     },
     {
-      "id": "734c54e7fc8daf25",
+      "id": "fe65964ee54e468c",
       "source": "Associated Press",
-      "headline": "The Latest: Trump concedes Iran war impact on elections but insists he’d ‘do it again’ - KSAT",
-      "summary": "The Latest: Trump concedes Iran war impact on elections but insists he’d ‘do it again’ KSAT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVBkREVQZ3haX2xfY1RIbHpfdzVxNzhCTWoxNDlvcjgxbnl1NnhNY1M1akkwWVBObHFMUXJxMU5NVExWWnhMRnRsb3VXYXo5Y1ZWaVRqNlJDYnFvNXc4NXNuZlhVVFpZUzdKX2VNZWN5WDg5U1J1dEV1eW9KNGxNQ0pOejlGOWdIMURNejFONzMwRXI3Yk9Id1drT2hnNUlmZUZkazhaWF9oS0taT1NtaTU3QTZ6ZTFWWmtIbTlPRENnbncxemd5aA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVBkREVQZ3haX2xfY1RIbHpfdzVxNzhCTWoxNDlvcjgxbnl1NnhNY1M1akkwWVBObHFMUXJxMU5NVExWWnhMRnRsb3VXYXo5Y1ZWaVRqNlJDYnFvNXc4NXNuZlhVVFpZUzdKX2VNZWN5WDg5U1J1dEV1eW9KNGxNQ0pOejlGOWdIMURNejFONzMwRXI3Yk9Id1drT2hnNUlmZUZkazhaWF9oS0taT1NtaTU3QTZ6ZTFWWmtIbTlPRENnbncxemd5aA",
+      "headline": "The Latest: Trump concedes Iran war impact on elections but insists he’d ‘do it again’ - WCBD News 2",
+      "summary": "The Latest: Trump concedes Iran war impact on elections but insists he’d ‘do it again’ WCBD News 2",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenllZnFESlllejlKZ2g2ZFhrc3RGMl9VbXU3T1pJdnJacWNwQWhZb3cyNVNUSjRtYTRwdC11c1JSNGZvM0w1bU5xVXNSWnk0WU9OSjgtbmtUR1ZNaTlGOE56cFRXWmU3UkJkdDVoZ0k1cDY3ejdvdG5QX3VnMjBiRzIzclBwZjhnNm9aWlR5MzB3RkN4emNHVEFqY1p3SF9VZElMSV9FejRnOTJHVFVKdk8xWWtaTDd2Yy1RbVZuZU5qT2xqQXE2bl9R0gHPAUFVX3lxTE9iSmdOYVcxazl6VUpjT3dpT3ZXSTNabzNiM0FaOWpmVzNVOEN2bHZGYzlvMXZWcS1UR2ZwU0diQzhveWYycFdteWYteUZfMFpKQTdJbF92M0xMSGV6cDZoN1E0Y1F6NXZMdWZ6MDVXV3BvZWtTcVl5VC1hZUpxSWJzS1ZuMUdOaFBCNjdIN3NFaHZjRFhKRy1WcVdCSHBtUHp4Z1oxSm1jS2drLVMzaVRHejZvUFI2dUJJTUFQNzNqTmVVd01nUmp5NkNSSk41TQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenllZnFESlllejlKZ2g2ZFhrc3RGMl9VbXU3T1pJdnJacWNwQWhZb3cyNVNUSjRtYTRwdC11c1JSNGZvM0w1bU5xVXNSWnk0WU9OSjgtbmtUR1ZNaTlGOE56cFRXWmU3UkJkdDVoZ0k1cDY3ejdvdG5QX3VnMjBiRzIzclBwZjhnNm9aWlR5MzB3RkN4emNHVEFqY1p3SF9VZElMSV9FejRnOTJHVFVKdk8xWWtaTDd2Yy1RbVZuZU5qT2xqQXE2bl9R0gHPAUFVX3lxTE9iSmdOYVcxazl6VUpjT3dpT3ZXSTNabzNiM0FaOWpmVzNVOEN2bHZGYzlvMXZWcS1UR2ZwU0diQzhveWYycFdteWYteUZfMFpKQTdJbF92M0xMSGV6cDZoN1E0Y1F6NXZMdWZ6MDVXV3BvZWtTcVl5VC1hZUpxSWJzS1ZuMUdOaFBCNjdIN3NFaHZjRFhKRy1WcVdCSHBtUHp4Z1oxSm1jS2drLVMzaVRHejZvUFI2dUJJTUFQNzNqTmVVd01nUmp5NkNSSk41TQ",
       "image": "",
-      "published": "Fri, 06 Nov 2026 13:24:06 GMT",
+      "published": "Fri, 06 Nov 2026 13:50:50 GMT",
       "sections": [
         "must-know"
       ],
@@ -235,25 +254,6 @@
       "appearances": 1
     },
     {
-      "id": "8a3fdc3831a56a0c",
-      "source": "BBC Technology",
-      "headline": "The engine parts that 'fight the laws of the universe'",
-      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6023/live/c7b8cb20-d9e9-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Fri, 06 Nov 2026 00:06:06 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
       "id": "af27060f67eef43f",
       "source": "Positive News",
       "headline": "The butterfly effect: a brighter way to make paint?",
@@ -272,6 +272,25 @@
       "first_seen": "2026-11-05",
       "last_seen": "2026-11-06",
       "appearances": 2
+    },
+    {
+      "id": "f356cc347dbb1941",
+      "source": "Variety",
+      "headline": "The Best Cell Phone Plans for Streaming: How to Get Netflix, Hulu, Disney+, HBO Max for Free",
+      "summary": "The streaming wars have found a new battleground: your phone bill. As subscription prices continue to climb, wireless carriers have begun using entertainment bundles to win over customers, offering everything from complimentary Netflix and Hulu subscriptions to discounted Disney+, HBO Max and Apple TV memberships. T-Mobile has emerged as one of the more aggressive players",
+      "url": "https://variety.com/2026/shopping/news/best-phone-plans-for-streaming-t-mobile-verizon-1236940254/",
+      "canonical_url": "https://variety.com/2026/shopping/news/best-phone-plans-for-streaming-t-mobile-verizon-1236940254",
+      "image": "https://variety.com/wp-content/uploads/2026/11/phone-plans-streaming.png",
+      "published": "Fri, 06 Nov 2026 16:59:23 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
     },
     {
       "id": "530d51cbea5a9362",
@@ -303,44 +322,6 @@
       "published": "Fri, 06 Nov 2026 12:03:23 GMT",
       "sections": [
         "animals"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "f8db21410a19a04e",
-      "source": "The Verge",
-      "headline": "Stranger Things is getting a live-action spinoff called Other Worlds",
-      "summary": "Netflix isn't done with Hawkins, Indiana just yet. The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It's called Other Worlds: A Stranger Things Adventure. There aren't a lot of details, but the show will be going back in time quite a bit. According to Netflix, Other",
-      "url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-      "canonical_url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-      "image": "",
-      "published": "2026-11-06T09:25:48-05:00",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "08b85f1902f1355f",
-      "source": "Associated Press",
-      "headline": "South Africa's once-dominant ANC faces huge decline in voter support, early election results show - AP News",
-      "summary": "South Africa's once-dominant ANC faces huge decline in voter support, early election results show AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWtIOWFiYkR5YUFUZDZyVDd6Mnh1SmJOSGYzd0JwOWN1VWozZC1KLTAxU01KTkFXSGhDekpTcFNKODhOVTBKRjhNWFBqVHl0dG5VdHFPSTNoNV9TN1RqOEZvQVNoZld0eUhiWXpFM3phRW4tQ3ZCVlBveWtYVk5YVTFWYV9nems1MGMweGpnWnlUYmt3MzFkVzlPQlBuWmVKXzNZ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWtIOWFiYkR5YUFUZDZyVDd6Mnh1SmJOSGYzd0JwOWN1VWozZC1KLTAxU01KTkFXSGhDekpTcFNKODhOVTBKRjhNWFBqVHl0dG5VdHFPSTNoNV9TN1RqOEZvQVNoZld0eUhiWXpFM3phRW4tQ3ZCVlBveWtYVk5YVTFWYV9nems1MGMweGpnWnlUYmt3MzFkVzlPQlBuWmVKXzNZ",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 11:40:00 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-11-06"
@@ -445,16 +426,16 @@
       "appearances": 1
     },
     {
-      "id": "7ea52afad8dfc1d4",
-      "source": "Reuters",
-      "headline": "Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 - Haaretz",
-      "summary": "Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQY3ZzTnIydHp3SHBINm90cXZfeS1tNUxGblk3eW5KaTFJcGVtQ012a2xiSXN0aTRielROemVJUnJaWmRyLVJXeGdPNl9qZ01qWU9DZjlLSnc3ekFsUGZUcmVISUEzeTlucFVJNkF2enZlVzZQNjVGV0d0UGw0RHhpVzVHU2x2Yjk4eVp0QVdzRXJTTGFnS1lyTzE1OE1MRmNXckItbWhuQXBqRkRvLUQyU0FqUi14M0ItRWhpU0RqRG1ucVg2eXY3N3l1REt5UU11VUo5dEQ5RVZkLXFiakdtX1VPbVVWeG9OT3oxalVORmNxc2ZhcWdVZUhjQ3k1UWU4M0syRm5YVk5KbG5wa0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQY3ZzTnIydHp3SHBINm90cXZfeS1tNUxGblk3eW5KaTFJcGVtQ012a2xiSXN0aTRielROemVJUnJaWmRyLVJXeGdPNl9qZ01qWU9DZjlLSnc3ekFsUGZUcmVISUEzeTlucFVJNkF2enZlVzZQNjVGV0d0UGw0RHhpVzVHU2x2Yjk4eVp0QVdzRXJTTGFnS1lyTzE1OE1MRmNXckItbWhuQXBqRkRvLUQyU0FqUi14M0ItRWhpU0RqRG1ucVg2eXY3N3l1REt5UU11VUo5dEQ5RVZkLXFiakdtX1VPbVVWeG9OT3oxalVORmNxc2ZhcWdVZUhjQ3k1UWU4M0syRm5YVk5KbG5wa0E",
+      "id": "ed887b6a8cb6c00c",
+      "source": "NPR",
+      "headline": "Remembering 'Star Trek' actor Patrick Stewart",
+      "summary": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as Star Trek's Picard. Critic David Bianculli has a tribute, and we listen back to a 2020 interview.",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+      "canonical_url": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
       "image": "",
-      "published": "Fri, 06 Nov 2026 12:08:00 GMT",
+      "published": "Fri, 06 Nov 2026 12:36:39 -0500",
       "sections": [
-        "must-know"
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-06"
@@ -500,26 +481,6 @@
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
       "appearances": 1
-    },
-    {
-      "id": "64ae5e1f8f53b26a",
-      "source": "BBC Health",
-      "headline": "Parents' concerns to trigger urgent checks in A&E",
-      "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf78/live/46b4fd30-d473-11f1-a701-fddedf244c16.jpg",
-      "published": "Mon, 02 Nov 2026 08:52:08 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-06",
-        "2026-11-02"
-      ],
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-06",
-      "appearances": 2
     },
     {
       "id": "6d918f2a577a78fb",
@@ -568,28 +529,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Thu, 05 Nov 2026 22:00:33 GMT",
+      "published": "Fri, 06 Nov 2026 17:35:55 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "13f6e1b2873322ef",
-      "source": "Mental Health",
-      "headline": "New neuroscience research reveals a common brain pattern across many psychiatric diagnoses - PsyPost",
-      "summary": "New neuroscience research reveals a common brain pattern across many psychiatric diagnoses PsyPost",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYklHNHNNLVRqanNfV09FU0tkdnlTM1ZZTVoya0lsU1JrU3hKWWtJWGZXbzMzd3Mxa1VDUEgySEtFWmc4WXZqWHpST01yN18tSkVUc3kzckowYjRRY2xNSk1paTB3M1J2UlpGeUR2ZVptd3FGZ1pfZXZnaHNfaF9lWlh5a0lscl9kV2lKTHBuUEN1OEVVbURha1IzQTdNSDJYTVZubDRxdmhEV2c4RU9mWlJjb2JvZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYklHNHNNLVRqanNfV09FU0tkdnlTM1ZZTVoya0lsU1JrU3hKWWtJWGZXbzMzd3Mxa1VDUEgySEtFWmc4WXZqWHpST01yN18tSkVUc3kzckowYjRRY2xNSk1paTB3M1J2UlpGeUR2ZVptd3FGZ1pfZXZnaHNfaF9lWlh5a0lscl9kV2lKTHBuUEN1OEVVbURha1IzQTdNSDJYTVZubDRxdmhEV2c4RU9mWlJjb2JvZw",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 23:26:55 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-11-06"
@@ -656,6 +598,25 @@
       "appearances": 1
     },
     {
+      "id": "3aa19c88294b937e",
+      "source": "Animals",
+      "headline": "Meet Spark Rescue Santa Barbara: The All-Volunteer Rescue Saving Abandoned Dogs and Cats, One Foster Home at a Time - The Santa Barbara Independent",
+      "summary": "Meet Spark Rescue Santa Barbara: The All-Volunteer Rescue Saving Abandoned Dogs and Cats, One Foster Home at a Time The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHV3Q01yM2FJT1gtMUdBMXRBRFYyMFZvdkxmQlJNT19fU1NCRDkxeU1STlpzRDNqMWw4UUVlbV8zQl9JUVZhZUZuLVZneFNlRnFkY2JRMGJZOFcxTURnTnFGa0xoQVBPY0JZMGtYcEJVcFpRNzVVNVRJRVd0dUw4bEx6QzViZTFuTVdaS0FVVFVaWnA2RmlTQjdSUzY0RjZxeDhxN1Ztc2E2SFhKU2hRcEpEejdhdFdic3VoUTl2cHpuMktmY1dZUm5jSHBTUHI0UTRuYzVDdkoxeV9XamFuTGtXbU1fYmw3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHV3Q01yM2FJT1gtMUdBMXRBRFYyMFZvdkxmQlJNT19fU1NCRDkxeU1STlpzRDNqMWw4UUVlbV8zQl9JUVZhZUZuLVZneFNlRnFkY2JRMGJZOFcxTURnTnFGa0xoQVBPY0JZMGtYcEJVcFpRNzVVNVRJRVd0dUw4bEx6QzViZTFuTVdaS0FVVFVaWnA2RmlTQjdSUzY0RjZxeDhxN1Ztc2E2SFhKU2hRcEpEejdhdFdic3VoUTl2cHpuMktmY1dZUm5jSHBTUHI0UTRuYzVDdkoxeV9XamFuTGtXbU1fYmw3",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 17:51:37 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
       "id": "ee7af9c1a9a451f8",
       "source": "Good News Network",
       "headline": "Man Spends 12 Days Returning Lost Cash a Laborer Needed for His Daughter",
@@ -694,25 +655,6 @@
       "appearances": 1
     },
     {
-      "id": "0821bfc15168f4ea",
-      "source": "The Verge",
-      "headline": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble instead of its original $49.95 price, it’s",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "canonical_url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "image": "",
-      "published": "2026-11-06T10:27:09-05:00",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
       "id": "b52be4d17bed5503",
       "source": "BBC Entertainment",
       "headline": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
@@ -721,25 +663,6 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b84/live/76485280-d9e7-11f1-93e1-3b657b665bcf.jpg",
       "published": "Fri, 06 Nov 2026 13:12:20 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "05c60372a5bea8e1",
-      "source": "Variety",
-      "headline": "Katherine Ryan Feeling ‘Grief and Relief’ Over Russell Brand Conviction After Reportedly Calling Out His Behavior on Comedy Central",
-      "summary": "Years after Katherine Ryan reportedly confronted Russell Brand about alleged predatory behavior while working alongside him on Comedy Central’s “Roast Battle” in 2018, the comedian has spoken out following his conviction on rape and sexual assault charges. “It really made me feel just quite dysregulated again, caught off-guard, emotional, in awe of the survivors who",
-      "url": "https://variety.com/2026/global/news/katherine-ryan-reacts-to-russell-brand-rape-conviction-1236941302/",
-      "canonical_url": "https://variety.com/2026/global/news/katherine-ryan-reacts-to-russell-brand-rape-conviction-1236941302",
-      "image": "https://variety.com/wp-content/uploads/2026/11/katherine-ryan-russell-brand-1.jpg",
-      "published": "Fri, 06 Nov 2026 15:16:31 +0000",
       "sections": [
         "work-marketing"
       ],
@@ -770,6 +693,25 @@
       "appearances": 1
     },
     {
+      "id": "2a9bc053acbf2508",
+      "source": "The Verge",
+      "headline": "Just about anyone can rent access to White House IP addresses",
+      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White",
+      "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "canonical_url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "image": "",
+      "published": "2026-11-06T12:40:06-05:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
       "id": "e8d8c8cc00f82096",
       "source": "MarTech",
       "headline": "Is your affiliate program showing up too late?",
@@ -789,16 +731,16 @@
       "appearances": 1
     },
     {
-      "id": "82c1cb7146b0ebe7",
-      "source": "BBC US & Canada",
-      "headline": "Inside Mississippi's ballot counting in tight Senate race",
-      "summary": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith.",
-      "url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf8/live/8bccac10-d955-11f1-b7f4-8bd3c0617693.jpg",
-      "published": "Thu, 05 Nov 2026 20:31:38 GMT",
+      "id": "977b918b9f4143f3",
+      "source": "Wisconsin News",
+      "headline": "How Wisconsin's election broke barriers with historic firsts - Milwaukee Journal Sentinel",
+      "summary": "How Wisconsin's election broke barriers with historic firsts Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmZraTc0azZVc1g5dkMyYUthMlNKeVE3aTRYckxYZjBnYVJPWFJnMGpZMXRDNnJHN18zUlMyaUk0eVJkb2w1a0FFdmhWUXJ4XzJFNncxS3BvS0pHOERHU2VlcG9oY1hHcUh2eFVTYnp2bnBUUmo1Vk9wVWpEVzY0NXNRRjNud1hWaHZzVXplaGRGSGY3R01rX3dUUGc3ZGw5OXk1MlJMQ1UtS2JMMU1MTTJoNU9GY240SGNUNlJuVUFLb09iWW9rMDB6bnpPalZkUlRhbA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmZraTc0azZVc1g5dkMyYUthMlNKeVE3aTRYckxYZjBnYVJPWFJnMGpZMXRDNnJHN18zUlMyaUk0eVJkb2w1a0FFdmhWUXJ4XzJFNncxS3BvS0pHOERHU2VlcG9oY1hHcUh2eFVTYnp2bnBUUmo1Vk9wVWpEVzY0NXNRRjNud1hWaHZzVXplaGRGSGY3R01rX3dUUGc3ZGw5OXk1MlJMQ1UtS2JMMU1MTTJoNU9GY240SGNUNlJuVUFLb09iWW9rMDB6bnpPalZkUlRhbA",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 16:52:00 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-06"
@@ -818,6 +760,25 @@
       "published": "Fri, 06 Nov 2026 10:01:34 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "bf4506c74602eb7e",
+      "source": "BBC Entertainment",
+      "headline": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+      "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg",
+      "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-06"
@@ -922,54 +883,16 @@
       "appearances": 1
     },
     {
-      "id": "a8093a152be77eaa",
-      "source": "Salesforce",
-      "headline": "From Spreadsheet to System: How Customer Rewards Work at Scale - CEOWORLD magazine",
-      "summary": "From Spreadsheet to System: How Customer Rewards Work at Scale CEOWORLD magazine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmVLalVPZzgtazJWMTA5dHd3d2ZReW16RHNObm9NSzNKYlNvZWVGeU9FeEdEY1J0ZnNLMmcxZHZuZkVoN1dhMDhRWllScFNiMXkyZXF4S1o2aHN6Sk9SU0NkUHgtUU9KdUNoei1NaWZCMjc2a01taUtSQUtJR3Y4cUhjTmpvclZPSFROd3FVTVBSMmN2RUVUU1hn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmVLalVPZzgtazJWMTA5dHd3d2ZReW16RHNObm9NSzNKYlNvZWVGeU9FeEdEY1J0ZnNLMmcxZHZuZkVoN1dhMDhRWllScFNiMXkyZXF4S1o2aHN6Sk9SU0NkUHgtUU9KdUNoei1NaWZCMjc2a01taUtSQUtJR3Y4cUhjTmpvclZPSFROd3FVTVBSMmN2RUVUU1hn",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 12:40:27 GMT",
+      "id": "96c055811ce2d5cc",
+      "source": "BBC World",
+      "headline": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+      "published": "Fri, 06 Nov 2026 16:12:22 GMT",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "f64c8840a96c931a",
-      "source": "Variety",
-      "headline": "Fox’s Paul Cheesbrough Will Expand Duties After Roku Deal; Anjali Sud, Charlie Collier to Exit",
-      "summary": "Paul Cheesbrough, a one-time software engineer who has worked to transform upstart digital ventures at Fox Corp. into mainstream operations, is taking on an important new role at the company following its $22 billion purchase of Roku. Cheesbrough was named co-chair and CEO of Fox Digital Platforms on Friday, a division that will house Roku",
-      "url": "https://variety.com/2026/tv/news/paul-cheesbrough-fox-roku-1236941308/",
-      "canonical_url": "https://variety.com/2026/tv/news/paul-cheesbrough-fox-roku-1236941308",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Paul-Cheesbrough-e1793981064168.jpg",
-      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "4e9391acd12d4c33",
-      "source": "The Verge",
-      "headline": "Fox bought Roku",
-      "summary": "Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streaming platform that reaches more than 100 million households in the US. First announced in June, the deal will allow Fox to bring Fox Sports, news content, and local stations",
-      "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
-      "canonical_url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
-      "image": "",
-      "published": "2026-11-06T10:00:56-05:00",
-      "sections": [
-        "entertainment"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1055,16 +978,16 @@
       "appearances": 1
     },
     {
-      "id": "8849fbfad1ff1dcb",
-      "source": "Marketing Ops",
-      "headline": "Dubai's AI Economy: How Artificial Intelligence Is Transforming Business Operations Across Industries - Business News This Week",
-      "summary": "Dubai's AI Economy: How Artificial Intelligence Is Transforming Business Operations Across Industries Business News This Week",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkw2Umo0Rjg4bFlmVURsT3N2cGtUYmNYblo1NGxRMzJHQjY4X3JPQXg4TWRkUmoxYVFLMnpOSUhKS1lKZTV2cThncnVZN2dHSVF2c0ozRmh3RkVmYzdPTTZtMy1oTlp2S0JKZXZRV2JZNEVvQ0hXcTBfbk9qRjlRRnJuWlkzZTNPM1Nva1lVc3pFa1pleWxETDVpZHU4RGVsNk81RERTSEFCU0luRUpSUHJYenZGSnNHYl9zLTJkN2ZpM1hBRXRwMUhNNWVUT05zZWtYYTlfNmtqQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkw2Umo0Rjg4bFlmVURsT3N2cGtUYmNYblo1NGxRMzJHQjY4X3JPQXg4TWRkUmoxYVFLMnpOSUhKS1lKZTV2cThncnVZN2dHSVF2c0ozRmh3RkVmYzdPTTZtMy1oTlp2S0JKZXZRV2JZNEVvQ0hXcTBfbk9qRjlRRnJuWlkzZTNPM1Nva1lVc3pFa1pleWxETDVpZHU4RGVsNk81RERTSEFCU0luRUpSUHJYenZGSnNHYl9zLTJkN2ZpM1hBRXRwMUhNNWVUT05zZWtYYTlfNmtqQQ",
+      "id": "d1259794a4c8094b",
+      "source": "Medical Xpress",
+      "headline": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments - Medical Xpress",
+      "summary": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmsyZHhCRkN2OGkzVUFLcTY3ckVubXpRTzFiYmw2VDZxTllFdzJia3FwRGlaSmxScnZRNWNSN2N2MzRKbVRVWXBtU2ZqMnIyN09fMjJIOXRJVG12NGFkTUZVR1diYmFTTi1WZlJhV1RoMU5qcGE1SFFCLUhGUWNkSXVxQlVnYUY0aWhF?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmsyZHhCRkN2OGkzVUFLcTY3ckVubXpRTzFiYmw2VDZxTllFdzJia3FwRGlaSmxScnZRNWNSN2N2MzRKbVRVWXBtU2ZqMnIyN09fMjJIOXRJVG12NGFkTUZVR1diYmFTTi1WZlJhV1RoMU5qcGE1SFFCLUhGUWNkSXVxQlVnYUY0aWhF",
       "image": "",
-      "published": "Fri, 06 Nov 2026 06:05:46 GMT",
+      "published": "Fri, 06 Nov 2026 16:00:08 GMT",
       "sections": [
-        "ai-tech"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1074,16 +997,16 @@
       "appearances": 1
     },
     {
-      "id": "93ba1f1a705f0456",
-      "source": "Mental Health",
-      "headline": "Do Autistic Traits Influence What We Find Attractive? - Psychology Today",
-      "summary": "Do Autistic Traits Influence What We Find Attractive? Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFpLaUZuWDlvNmF5RjdQdi1sc0lTZlpmek1RdWhVOHdqVHZKVUFhRncxQ2gzRWRFRHNDS05VZ1VOS2M1bDBaZUYyRlVLVll2TWE1ck5TWU50bDU3UVRRU09CTGpDS1A5SmpQWDZ3MTI5X3hXelhXYk40YmNobnh2VENzN0JVaHJTLUtNQTBheVpHdTE5LUl2LTRNMV80aFdzR1Z1UC1ZMktteEdOeHE0dF9lYzdpQ3BoRV9jbVRoWVo1V21rZExKeQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFpLaUZuWDlvNmF5RjdQdi1sc0lTZlpmek1RdWhVOHdqVHZKVUFhRncxQ2gzRWRFRHNDS05VZ1VOS2M1bDBaZUYyRlVLVll2TWE1ck5TWU50bDU3UVRRU09CTGpDS1A5SmpQWDZ3MTI5X3hXelhXYk40YmNobnh2VENzN0JVaHJTLUtNQTBheVpHdTE5LUl2LTRNMV80aFdzR1Z1UC1ZMktteEdOeHE0dF9lYzdpQ3BoRV9jbVRoWVo1V21rZExKeQ",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 06:23:37 GMT",
+      "id": "effe90ee565c2618",
+      "source": "BBC US & Canada",
+      "headline": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 06 Nov 2026 16:51:01 GMT",
       "sections": [
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1112,6 +1035,25 @@
       "appearances": 1
     },
     {
+      "id": "9c2203a356515959",
+      "source": "Associated Press",
+      "headline": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTNxZ0NYdmdfMWoyaEJqYmtFUWFKMkU0VWJjZlJVSG5rMTZWMEFGSnFjMWRJSEFaLWNHYWw5Q1NSbWVTVzFXQ2YwVlBuYkZ1TFowejBnd0otbFpKSFNjYlRIaDN1TWplUmk0NFZqYzVFd3NWNXgxSVo2WmJUTlJULUk2TkNJTnJtMEpFbUFKUGxMYlp4b0loRV81YVZMZzZmRUtfdWZRX3pUNEROcWxn0gG0AUFVX3lxTE10MW53QjRSalVHaHJqQTYwc0Z1VmZfckM2OHk0eVNYZHJGUVpJcFZxZnFzSTg0d1lxSnZNZEJrdHN4UVdleFFZZG9jUDltOEdHNFBhWTAwRnF3d3dpSVZwWFNIbmV2cHI3ZWcyMHhUQkhqdXhiSkxoM0Q5UUVRMXByU0NNQm12RHhJVWpQaWFjNFhxQWZtbjYzZzV0dzlYbzFpbThzdmtvbFQxd3k1V1ZOMGoxcQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTNxZ0NYdmdfMWoyaEJqYmtFUWFKMkU0VWJjZlJVSG5rMTZWMEFGSnFjMWRJSEFaLWNHYWw5Q1NSbWVTVzFXQ2YwVlBuYkZ1TFowejBnd0otbFpKSFNjYlRIaDN1TWplUmk0NFZqYzVFd3NWNXgxSVo2WmJUTlJULUk2TkNJTnJtMEpFbUFKUGxMYlp4b0loRV81YVZMZzZmRUtfdWZRX3pUNEROcWxn0gG0AUFVX3lxTE10MW53QjRSalVHaHJqQTYwc0Z1VmZfckM2OHk0eVNYZHJGUVpJcFZxZnFzSTg0d1lxSnZNZEJrdHN4UVdleFFZZG9jUDltOEdHNFBhWTAwRnF3d3dpSVZwWFNIbmV2cHI3ZWcyMHhUQkhqdXhiSkxoM0Q5UUVRMXByU0NNQm12RHhJVWpQaWFjNFhxQWZtbjYzZzV0dzlYbzFpbThzdmtvbFQxd3k1V1ZOMGoxcQ",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 06:18:22 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
       "id": "1d89df56f07c888a",
       "source": "Dane County",
       "headline": "Dane County, Madison leaders reflect on historic state election wins - The Capital Times",
@@ -1122,6 +1064,25 @@
       "published": "Fri, 06 Nov 2026 15:55:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "6654bc4a3a64c646",
+      "source": "BBC US & Canada",
+      "headline": "Could the US midterms burst the AI bubble?",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 06 Nov 2026 16:14:23 GMT",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1176,9 +1137,47 @@
       "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3b/live/5a892120-d9f4-11f1-bb10-cdca6001fbcf.jpg",
-      "published": "Fri, 06 Nov 2026 16:09:54 GMT",
+      "published": "Fri, 06 Nov 2026 16:49:31 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "22815b4f725ebdf4",
+      "source": "The Verge",
+      "headline": "Big Tech lost big in the 2026 election",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "canonical_url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "image": "",
+      "published": "2026-11-06T11:38:02-05:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "bc306790de32cd1a",
+      "source": "Mental Health",
+      "headline": "Beyond the Snowflake Myth - Psychology Today",
+      "summary": "Beyond the Snowflake Myth Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTluRDVEeWRJaU5nTGxXNHpBejlLNWRhX3p4eFdXUkp6RGxHZVFaRTVFU3ZURGlHSW5wdWZNZUVhU0N4VkFSM0xMNEdQTWxSZ1NNUVg3Q1F0UEg3RHJrNnItXzY1UmhQVmFIT2h2cVVDRkJCdFBtcHVseVVGVGhxRGdqWnFwT0Yxa0REdnhNcXVCQXltcG1KdUpB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTluRDVEeWRJaU5nTGxXNHpBejlLNWRhX3p4eFdXUkp6RGxHZVFaRTVFU3ZURGlHSW5wdWZNZUVhU0N4VkFSM0xMNEdQTWxSZ1NNUVg3Q1F0UEg3RHJrNnItXzY1UmhQVmFIT2h2cVVDRkJCdFBtcHVseVVGVGhxRGdqWnFwT0Yxa0REdnhNcXVCQXltcG1KdUpB",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 17:01:20 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1216,26 +1215,7 @@
       "image": "",
       "published": "Thu, 05 Nov 2026 17:21:26 GMT",
       "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "appearances": 1
-    },
-    {
-      "id": "60c795e415bbcd39",
-      "source": "Animals",
-      "headline": "Animal Rescue Corps brings more than 70 dogs to safety in Louisiana relief operation - PR Newswire",
-      "summary": "Animal Rescue Corps brings more than 70 dogs to safety in Louisiana relief operation PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEplanNQOHhaQnljN19vSW9YWGowYkQ0M1NTS25CTG85TXN6amlvNUxpWElxanIwTEtGeldhekZEcG5xbkotTV9aSkEyMmR4U0U3djNXazVBZmxYeUhSWWJpdTBFdWsyanRneWlhWTBXRzZuREFGZnJyYWgwcHN1NnNNX0xPN1NPeG5XZmp4cFV6enJLYS1ORmd4eXd6eVQxam5OZ2pBaTRWbi1rYXN4alVBeXg2d3ZWYzczTjNYYUI1U3FaNlg0Z2R5dWZnUUtzX0tVUnY1cw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEplanNQOHhaQnljN19vSW9YWGowYkQ0M1NTS25CTG85TXN6amlvNUxpWElxanIwTEtGeldhekZEcG5xbkotTV9aSkEyMmR4U0U3djNXazVBZmxYeUhSWWJpdTBFdWsyanRneWlhWTBXRzZuREFGZnJyYWgwcHN1NnNNX0xPN1NPeG5XZmp4cFV6enJLYS1ORmd4eXd6eVQxam5OZ2pBaTRWbi1rYXN4alVBeXg2d3ZWYzczTjNYYUI1U3FaNlg0Z2R5dWZnUUtzX0tVUnY1cw",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 12:02:00 GMT",
-      "sections": [
-        "quick-scan"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1264,6 +1244,25 @@
       "appearances": 1
     },
     {
+      "id": "4eb0c6cd699e68b8",
+      "source": "The Verge",
+      "headline": "Amazon is now making a Melania Trump TV series",
+      "summary": "Following the Melania documentary movie about Melania Trump that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the First Lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including",
+      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+      "canonical_url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+      "image": "",
+      "published": "2026-11-06T12:56:58-05:00",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
       "id": "d17d85df7b6200f7",
       "source": "Animals",
       "headline": "AIR BUDS | Longview animal shelter’s new partnership flies dogs to NY rescue - cbs19.tv",
@@ -1273,7 +1272,7 @@
       "image": "",
       "published": "Fri, 06 Nov 2026 14:17:27 GMT",
       "sections": [
-        "animals"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-06"
@@ -1289,8 +1288,8 @@
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/c7545ca0-d9ec-11f1-bbe5-797ee05bee69.jpg",
-      "published": "Fri, 06 Nov 2026 16:23:16 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 06 Nov 2026 17:03:02 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -5746,6 +5745,25 @@
       "published": "Mon, 02 Nov 2026 01:49:00 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-02"
+      ],
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "appearances": 1
+    },
+    {
+      "id": "64ae5e1f8f53b26a",
+      "source": "BBC Health",
+      "headline": "Parents' concerns to trigger urgent checks in A&E",
+      "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf78/live/46b4fd30-d473-11f1-a701-fddedf244c16.jpg",
+      "published": "Mon, 02 Nov 2026 08:52:08 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-02"
