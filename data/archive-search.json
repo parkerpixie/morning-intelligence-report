@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T15:42:52.598937+00:00",
+  "generated_at": "2026-11-07T16:54:15.112351+00:00",
   "edition_count": 115,
   "story_count": 7176,
   "stories": [
@@ -119,44 +119,6 @@
       "appearances": 1
     },
     {
-      "id": "f6e6850e19cfc489",
-      "source": "Isthmus",
-      "headline": "Wienermobile in the Wonderground - Isthmus | Madison, Wisconsin",
-      "summary": "Wienermobile in the Wonderground Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQklRZlAzZzlWUk9fU2ZDZmFFcWdoZ2xMRzRHQWdSOF9KVFRSU3VmQUlXbXUzSUFEcG9XSzVyYXJoUUIzemRuanFsNC1sR3hueG1ydldQZnZpdHJtY21MR1RQQlpZQmMzaE9ORGM2eDNfRXd3dEJoa01oN3ZDb2tHRzFRdWhyNzhNZmpOR3o1WmlTVlU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQklRZlAzZzlWUk9fU2ZDZmFFcWdoZ2xMRzRHQWdSOF9KVFRSU3VmQUlXbXUzSUFEcG9XSzVyYXJoUUIzemRuanFsNC1sR3hueG1ydldQZnZpdHJtY21MR1RQQlpZQmMzaE9ORGM2eDNfRXd3dEJoa01oN3ZDb2tHRzFRdWhyNzhNZmpOR3o1WmlTVlU",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 06:54:35 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
-      "id": "8879475e62b3793a",
-      "source": "The Verge",
-      "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "image": "",
-      "published": "2026-11-07T07:30:00-05:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
       "id": "54ad360ac43a6322",
       "source": "Positive News",
       "headline": "Who needs a golden ticket? The race to future-proof chocolate",
@@ -196,6 +158,27 @@
         "2026-11-06"
       ],
       "first_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
+      "appearances": 2
+    },
+    {
+      "id": "f5b489c55c3823ac",
+      "source": "MIT Technology Review",
+      "headline": "What’s next for US energy policy after the midterm elections?",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago. …",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "canonical_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 17:08:00 +0000",
+      "sections": [
+        "ai-tech",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-07",
+        "2026-11-04"
+      ],
+      "first_seen": "2026-11-04",
       "last_seen": "2026-11-07",
       "appearances": 2
     },
@@ -279,44 +262,6 @@
       "appearances": 1
     },
     {
-      "id": "2ba87e2225cb6e59",
-      "source": "BBC US & Canada",
-      "headline": "Trump names Stephen Miller as new White House chief of staff",
-      "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5751/live/463b6050-da19-11f1-bba7-b50f1faa7672.jpg",
-      "published": "Fri, 06 Nov 2026 20:11:45 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
-      "id": "499089d8880dc0ae",
-      "source": "Associated Press",
-      "headline": "The US election showed growing frustration with Israel on both sides of the aisle - AP News",
-      "summary": "The US election showed growing frustration with Israel on both sides of the aisle AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDFSck4tV2syWGNwQ3BXYVRUbVFLWTdvSkJwb1J5Tl92WVZaZnBuNkVrbWE2d1g2QjBxQWRFRFBoOWxTRV9xWmJyU0pKZ1ZGX3g2bFB5MmJUY05tTDVlNGxVejA5Vk5Oa2lyRkpPckZMd0g4QUdER1pPQmhNNHlTR2Q1N3drT191QlE0M3FaMEZnYmJFQmdoVThEZmo4UWlCZmdIWjNn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDFSck4tV2syWGNwQ3BXYVRUbVFLWTdvSkJwb1J5Tl92WVZaZnBuNkVrbWE2d1g2QjBxQWRFRFBoOWxTRV9xWmJyU0pKZ1ZGX3g2bFB5MmJUY05tTDVlNGxVejA5Vk5Oa2lyRkpPckZMd0g4QUdER1pPQmhNNHlTR2Q1N3drT191QlE0M3FaMEZnYmJFQmdoVThEZmo4UWlCZmdIWjNn",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 07:55:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
       "id": "278f36fe9a87c082",
       "source": "NPR",
       "headline": "The economy propelled Democrats to victory. What can they actually do about it?",
@@ -367,25 +312,6 @@
       "published": "Sat, 07 Nov 2026 12:15:55 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
-      "id": "3f199bfde3f1ed01",
-      "source": "Audubon",
-      "headline": "The 126th Christmas Bird Count Summary - National Audubon Society",
-      "summary": "The 126th Christmas Bird Count Summary National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyUU9RdGdqcnhrS0Q0R0J0UU8tZE1RbTV3R0pXRV8taHZmM0hiRDY2UmlQclRGZVJTUTQ0eEU0TTdIci1uX240eGpVVmdoQk1ENUlwVTVreklEdURNSVU4cHhXczR2WVhLNkREdVUwd0o?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyUU9RdGdqcnhrS0Q0R0J0UU8tZE1RbTV3R0pXRV8taHZmM0hiRDY2UmlQclRGZVJTUTQ0eEU0TTdIci1uX240eGpVVmdoQk1ENUlwVTVreklEdURNSVU4cHhXczR2WVhLNkREdVUwd0o",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 19:56:46 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-11-07"
@@ -452,6 +378,25 @@
       "appearances": 1
     },
     {
+      "id": "4e38ff5428baec33",
+      "source": "Animals",
+      "headline": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer - Shedd Aquarium",
+      "summary": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer Shedd Aquarium",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 01:57:53 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
       "id": "c2d562a91019309e",
       "source": "ScienceDaily Mind & Brain",
       "headline": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
@@ -470,25 +415,6 @@
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-07",
       "appearances": 2
-    },
-    {
-      "id": "c51ddbc7c8033a48",
-      "source": "BBC World",
-      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
-      "published": "Sat, 07 Nov 2026 12:49:36 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
     },
     {
       "id": "bde606f5420566aa",
@@ -626,27 +552,6 @@
       "appearances": 1
     },
     {
-      "id": "166a64949c8d908c",
-      "source": "Madison Local",
-      "headline": "Paul Kingsnorth warns of dark times - Isthmus | Madison, Wisconsin",
-      "summary": "Paul Kingsnorth warns of dark times Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyOTlsN3lnYi0tVUMwRFhDSDRhV1dyZ0Z4WC1ZeFBQTTdFV1hXcklkc1lNcWtYeDZSTG92d3pJa05KQlFqam9ic2NDWWNmWDFLZ0I1ZmxqTW53ODU1UWZCSUlSSjE0NWtOYnFnNHdkQ0xTTU1n?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyOTlsN3lnYi0tVUMwRFhDSDRhV1dyZ0Z4WC1ZeFBQTTdFV1hXcklkc1lNcWtYeDZSTG92d3pJa05KQlFqam9ic2NDWWNmWDFLZ0I1ZmxqTW53ODU1UWZCSUlSSjE0NWtOYnFnNHdkQ0xTTU1n",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 19:30:00 GMT",
-      "sections": [
-        "local",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-07",
-        "2026-11-06"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-07",
-      "appearances": 2
-    },
-    {
       "id": "8eabaa61234fa1c6",
       "source": "BBC World",
       "headline": "Paraguay's president impeached and under house arrest after bank collapse",
@@ -744,6 +649,25 @@
       "appearances": 2
     },
     {
+      "id": "216eaf602a29dbd3",
+      "source": "Medical Xpress",
+      "headline": "Normal-looking sleep can mask memory problems, study suggests - Medical Xpress",
+      "summary": "Normal-looking sleep can mask memory problems, study suggests Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 15:40:01 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
       "id": "98b8fe164d544b24",
       "source": "BBC World",
       "headline": "No clear winner after tight New Zealand general election",
@@ -751,7 +675,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "published": "Sat, 07 Nov 2026 15:00:10 GMT",
+      "published": "Sat, 07 Nov 2026 15:56:28 GMT",
       "sections": [
         "must-know"
       ],
@@ -820,6 +744,25 @@
       "appearances": 1
     },
     {
+      "id": "016e1bb73e0907a8",
+      "source": "Isthmus",
+      "headline": "Isthmus News Quiz: November 2026 - Isthmus | Madison, Wisconsin",
+      "summary": "Isthmus News Quiz: November 2026 Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMG9QU1dvUHZ3YzIxZ0tkZm9yZnFNdmk5QmJ6dDdldGU1dmFKS0xoY2l4S08wcTl2djhKeUc4WUpPLTZBZXNkeUpkYjNBaUF3YXVJRVA4VHh5SjRVRlVCVXUyWE1MbHpYY05TX2w4MA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMG9QU1dvUHZ3YzIxZ0tkZm9yZnFNdmk5QmJ6dDdldGU1dmFKS0xoY2l4S08wcTl2djhKeUc4WUpPLTZBZXNkeUpkYjNBaUF3YXVJRVA4VHh5SjRVRlVCVXUyWE1MbHpYY05TX2w4MA",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 16:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
       "id": "94e7cfeaee556ec7",
       "source": "Microsoft AI",
       "headline": "How IgniteData is bringing trusted automation to clinical trial data - The Official Microsoft Blog",
@@ -879,25 +822,6 @@
       "appearances": 1
     },
     {
-      "id": "1f3a1802f57053cf",
-      "source": "Animals",
-      "headline": "Here's what happened to Carole Baskin and her husband Howard after Tiger King - UNILAD",
-      "summary": "Here's what happened to Carole Baskin and her husband Howard after Tiger King UNILAD",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkhIV1V1N2lEODlGaXpYdXMzbDBmUkgwZU9RNGk1dFZWaU9iZWRPd1hPaXZTY3dxT2pObzlDN1dDLVRuNlRRb1pfRkhJOU5faWNobGNFM04wNV9HNGxrNjZSSGF6ZDI3amZhcXBxcV9IcUlROFFrdUxCcVlWelVaUlRYMXVkQU1WakplTG5IU2haOUhzc0pB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkhIV1V1N2lEODlGaXpYdXMzbDBmUkgwZU9RNGk1dFZWaU9iZWRPd1hPaXZTY3dxT2pObzlDN1dDLVRuNlRRb1pfRkhJOU5faWNobGNFM04wNV9HNGxrNjZSSGF6ZDI3amZhcXBxcV9IcUlROFFrdUxCcVlWelVaUlRYMXVkQU1WakplTG5IU2haOUhzc0pB",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
       "id": "96c055811ce2d5cc",
       "source": "BBC US & Canada",
       "headline": "Four things we learned this week about 2028 White House race",
@@ -919,6 +843,63 @@
       "appearances": 2
     },
     {
+      "id": "bd03cf1430e87a33",
+      "source": "Wisconsin News",
+      "headline": "First films to receive tax credits from Film Wisconsin are rolling out - Isthmus | Madison, Wisconsin",
+      "summary": "First films to receive tax credits from Film Wisconsin are rolling out Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFF2WE5tQ09LdXFLT2NTZ1F5ckZQTXctVzhMRWFJRTlVZ2FtdGhVX1FrRUFiQmo4Y0ZHNUkyTV9CUnRUX2dpc1pUMkFqM1FWUUZDbGc5ZGpMdldMc2tOMW5mSDhfcUNieGNmdDNzSjdWMURZd3ZBTjE2Xy1YU0VrOXhVUmRLdkZJVlhQSUZ3M3Q5Z1ZxSXNVU3lmSUg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFF2WE5tQ09LdXFLT2NTZ1F5ckZQTXctVzhMRWFJRTlVZ2FtdGhVX1FrRUFiQmo4Y0ZHNUkyTV9CUnRUX2dpc1pUMkFqM1FWUUZDbGc5ZGpMdldMc2tOMW5mSDhfcUNieGNmdDNzSjdWMURZd3ZBTjE2Xy1YU0VrOXhVUmRLdkZJVlhQSUZ3M3Q5Z1ZxSXNVU3lmSUg",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 14:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
+      "id": "05193a55052b09dd",
+      "source": "AI Safety",
+      "headline": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 08:03:32 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
+      "id": "006331a2c7bc65dc",
+      "source": "Reuters",
+      "headline": "Exclusive-Rubio Warns Top Staff Against Conflicts of Interest as Republicans Look to 2028 - U.S. News & World Report",
+      "summary": "Exclusive-Rubio Warns Top Staff Against Conflicts of Interest as Republicans Look to 2028 U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMTJEeHRSQW5EaE1Zak4tX0RWZXZjRjlmS2RFa2NxcWtMcHNsVFZ6T0JRbFQ0SVBsd05zblJYLW1GODhDelJ1OF9GLVcyaEMzZWxfRkRybzhzb3pKUzFSSHB0UW5mbVhEUks1a0RPN1Foa1ByZVJJbEFDS19TYXplREw1TlpTWGZkSUlwV25oUDZNVVdrMExtbXhDRVRyaURSVmpicUlmYU1yT1BOaTVLdDdWdjBYM2R1OW1RdF82VlF6Q05KQ1hIV2ZqWjhQNGs?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMTJEeHRSQW5EaE1Zak4tX0RWZXZjRjlmS2RFa2NxcWtMcHNsVFZ6T0JRbFQ0SVBsd05zblJYLW1GODhDelJ1OF9GLVcyaEMzZWxfRkRybzhzb3pKUzFSSHB0UW5mbVhEUks1a0RPN1Foa1ByZVJJbEFDS19TYXplREw1TlpTWGZkSUlwV25oUDZNVVdrMExtbXhDRVRyaURSVmpicUlmYU1yT1BOaTVLdDdWdjBYM2R1OW1RdF82VlF6Q05KQ1hIV2ZqWjhQNGs",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 11:01:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
       "id": "b83ce00d8d072294",
       "source": "Reuters",
       "headline": "Environmental Groups Embrace AI, Even as They Warn of Data Center Impacts - U.S. News & World Report",
@@ -929,6 +910,25 @@
       "published": "Sat, 07 Nov 2026 06:05:00 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
+      "id": "126d4498269628e0",
+      "source": "Variety",
+      "headline": "Elvis Music Owners, Eminem Publisher File Sprawling New Lawsuits Against AI Music Generator Suno: ‘The Next Elvis Won’t Pick Up a Guitar’",
+      "summary": "A collection of Elvis Presley music rightsholders and the publisher of many of Eminem’s records have filed sprawling new federal lawsuits against the AI music generator Suno, with each party making separate allegations that add to the AI company’s legal challenges. The Presley lawsuit — brought by a group that includes Authentic Brands Group, Raleigh",
+      "url": "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/",
+      "canonical_url": "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Elvis-Eminem-Split.jpg",
+      "published": "Sat, 07 Nov 2026 16:15:26 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-07"
@@ -957,25 +957,6 @@
       "appearances": 1
     },
     {
-      "id": "396a11f48629cec0",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-      "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 05:16:19 EST",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
       "id": "effe90ee565c2618",
       "source": "BBC US & Canada",
       "headline": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
@@ -995,6 +976,25 @@
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-07",
       "appearances": 2
+    },
+    {
+      "id": "8eea48456f05ba11",
+      "source": "The Verge",
+      "headline": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "canonical_url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "image": "",
+      "published": "2026-11-07T11:00:00-05:00",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
     },
     {
       "id": "79a139e6b585ba45",
@@ -1056,14 +1056,14 @@
       "appearances": 2
     },
     {
-      "id": "cc6c5300b503b288",
+      "id": "bedb6c76a9cfa454",
       "source": "Mongabay",
       "headline": "Conservation news on Wildlife - news - Mongabay",
       "summary": "Conservation news on Wildlife news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52MDUxd2gzSFlmNm1UcmJ3RjVKc1g4dDhHMEctaVgtdGdudWR1S1JaMzlNNnlwUlo1NVFTbEVTTWIycllmanoyNEZNUjVRRHFIRHg2T1lIanFwQkNUZmc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52MDUxd2gzSFlmNm1UcmJ3RjVKc1g4dDhHMEctaVgtdGdudWR1S1JaMzlNNnlwUlo1NVFTbEVTTWIycllmanoyNEZNUjVRRHFIRHg2T1lIanFwQkNUZmc",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GY2lLX21jMnJ3Rng4MEtDcU91UGJNaC1CbWJBQlZpMzU1STJRVkpDcU5xNF9YSlRmSkRMM2R2Rzc3QlUycVFfTmcxcUgweDNNOHZCdVJRUXRJbkZTeFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GY2lLX21jMnJ3Rng4MEtDcU91UGJNaC1CbWJBQlZpMzU1STJRVkpDcU5xNF9YSlRmSkRMM2R2Rzc3QlUycVFfTmcxcUgweDNNOHZCdVJRUXRJbkZTeFE",
       "image": "",
-      "published": "Thu, 05 Nov 2026 23:17:24 GMT",
+      "published": "Fri, 06 Nov 2026 03:01:11 GMT",
       "sections": [
         "animals"
       ],
@@ -1094,6 +1094,25 @@
       "appearances": 1
     },
     {
+      "id": "803a445877541bbd",
+      "source": "Variety",
+      "headline": "Box Office: ‘Godzilla Minus Zero’ Dominates With $14.5 Million on Friday as ‘Cat in the Hat’ Follows With $6 Million",
+      "summary": "Sorry, Dr. Seuss — “The Cat in the Hat” was no match for “Godzilla Minus Zero,” which thrashed its way to the top of the box office on Friday. “Godzilla Minus Zero,” the highly anticipated sequel to 2023’s “Godzilla Minus One,” generated $14.5 million from 3,254 North American theaters on Friday, easily taking the No.",
+      "url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
+      "canonical_url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032",
+      "image": "https://variety.com/wp-content/uploads/2026/09/MCDGOMI_EC012_8e64a0.jpg",
+      "published": "Sat, 07 Nov 2026 16:42:52 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
       "id": "122eff692dcfaa79",
       "source": "Smithsonian Animals",
       "headline": "Bison Used to Roam Eastern Europe Before They Neared Extinction. Now Researchers in Poland Want to Create a Suitable Home Where They Can Thrive - Smithsonian Magazine",
@@ -1115,44 +1134,6 @@
       "appearances": 3
     },
     {
-      "id": "f9707de62a86b99b",
-      "source": "Variety",
-      "headline": "Bill Maher Rubs Salt in Trump’s Midterms Wound: ‘Donnie, Are You OK?’",
-      "summary": "While his HBO counterpart John Oliver issued an urgent warning about voting GOP during the midterms, Bill Maher spent the majority of his time in the lead-up to the critical election dining with the Trump at the White House (and then bickering with him publicly), conducting an embarrassingly softball interview with Trump’s former press secretary",
-      "url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912/",
-      "canonical_url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Real-Time-With-Bill-Maher-President-Trump-Speaks-At-The-Lincoln-Memorial-On-Eve-Of-Midterm-Elections-1000.jpg",
-      "published": "Sat, 07 Nov 2026 03:20:01 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
-      "id": "6de8527cc0a31a9e",
-      "source": "Taylor Alert",
-      "headline": "Bad blood? Knicks defend Taylor Swift after players accuse her of being ‘fake fan’ - The Guardian",
-      "summary": "Bad blood? Knicks defend Taylor Swift after players accuse her of being ‘fake fan’ The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3dYdDBqYzNKSU9hT3NfQ0cwdGhxR2U1QjNWN0hnRHZfWThYR3loOUVmNFl4ZC03VUlrU0xqV25NMVZaS0Jsc0tiTGRVVWRlYjhRSDdhV3IzbUd0ejVDb3hoc3pKYjZHSlhINHVwUmZSbU1DZzhpSFdISmt4bGh2eml2RG5IUmlfdEZKMURXT3JrY2ItNlZfeDFEMnZUcEY4SlE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3dYdDBqYzNKSU9hT3NfQ0cwdGhxR2U1QjNWN0hnRHZfWThYR3loOUVmNFl4ZC03VUlrU0xqV25NMVZaS0Jsc0tiTGRVVWRlYjhRSDdhV3IzbUd0ejVDb3hoc3pKYjZHSlhINHVwUmZSbU1DZzhpSFdISmt4bGh2eml2RG5IUmlfdEZKMURXT3JrY2ItNlZfeDFEMnZUcEY4SlE",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 03:51:00 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "appearances": 1
-    },
-    {
       "id": "b8961dc6a39a00de",
       "source": "Mongabay",
       "headline": "As loggerhead turtles spread west, Mediterranean beach resorts learn to share the sand - news - Mongabay",
@@ -1163,6 +1144,25 @@
       "published": "Fri, 06 Nov 2026 17:10:59 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "appearances": 1
+    },
+    {
+      "id": "49b41f69ea0d2568",
+      "source": "Reuters",
+      "headline": "ANALYSIS | Can money buy an election? Elon Musk's midterm spending offers a revealing answer | CBC News - CBC",
+      "summary": "ANALYSIS | Can money buy an election? Elon Musk's midterm spending offers a revealing answer | CBC News CBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnlrYU9UY203QXhRZmY1dmd0ZFlVNzJOZ1Y4UFItRFVXY29BZVZZMV9ySjM4MTNBZk5KbXNlekJiWE80ZHo4SlFULTlUd1dtYzl5WFNNMG5fUC15ZFJaVXItVld3a2toMkhiSXVwZGVJNmNSbF81TGV6bU9fdDc4eWhQNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnlrYU9UY203QXhRZmY1dmd0ZFlVNzJOZ1Y4UFItRFVXY29BZVZZMV9ySjM4MTNBZk5KbXNlekJiWE80ZHo4SlFULTlUd1dtYzl5WFNNMG5fUC15ZFJaVXItVld3a2toMkhiSXVwZGVJNmNSbF81TGV6bU9fdDc4eWhQNA",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 09:00:00 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-07"
@@ -1231,14 +1231,14 @@
       "appearances": 2
     },
     {
-      "id": "f8e3d2c2572d37df",
-      "source": "Variety",
-      "headline": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
-      "summary": "Taiwanese technology company imCore Corp. launched Core Studio, an AI filmmaking platform that aims to cover the full production process, from script development and storyboarding to image generation, editing and color grading, at the Taiwan Creative Content Fest (TCCF) in Taipei on Saturday. Built by a Taiwanese team with roots in animation and visual effects,",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
-      "canonical_url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957",
-      "image": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg",
-      "published": "Sat, 07 Nov 2026 08:19:35 +0000",
+      "id": "055e03fe8fc4b1cc",
+      "source": "The Verge",
+      "headline": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "canonical_url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "image": "",
+      "published": "2026-11-07T10:00:00-05:00",
       "sections": [
         "ai-tech"
       ],
@@ -1326,16 +1326,16 @@
       "appearances": 1
     },
     {
-      "id": "795f7c3d67769f87",
-      "source": "Wisconsin News",
-      "headline": "2026 Wisconsin Midterm Election Results - AP News",
-      "summary": "2026 Wisconsin Midterm Election Results AP News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4OHJrUkdqV2tySFVjYjVMRDBZNGVOOEtubml2M1NtZEVva2RnRWFheEhhSV9jUUlKUGcxUE85eUljOFZBak83WHFxWkZuMTgtcjBWdVpqOTlUbHRpVTBFMGR6Z1RJYVlHQ01CMnBn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4OHJrUkdqV2tySFVjYjVMRDBZNGVOOEtubml2M1NtZEVva2RnRWFheEhhSV9jUUlKUGcxUE85eUljOFZBak83WHFxWkZuMTgtcjBWdVpqOTlUbHRpVTBFMGR6Z1RJYVlHQ01CMnBn",
+      "id": "9aca0cb142575a8d",
+      "source": "Associated Press",
+      "headline": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
+      "summary": "2026 Midterm Election Results: Senate, House and Governor Races AP News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R",
       "image": "",
-      "published": "Sat, 07 Nov 2026 01:50:16 GMT",
+      "published": "Sat, 07 Nov 2026 14:53:39 GMT",
       "sections": [
-        "local"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-07"
@@ -1716,6 +1716,25 @@
       "published": "Fri, 06 Nov 2026 12:36:39 -0500",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-06"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "appearances": 1
+    },
+    {
+      "id": "166a64949c8d908c",
+      "source": "Madison Local",
+      "headline": "Paul Kingsnorth warns of dark times - Isthmus | Madison, Wisconsin",
+      "summary": "Paul Kingsnorth warns of dark times Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyOTlsN3lnYi0tVUMwRFhDSDRhV1dyZ0Z4WC1ZeFBQTTdFV1hXcklkc1lNcWtYeDZSTG92d3pJa05KQlFqam9ic2NDWWNmWDFLZ0I1ZmxqTW53ODU1UWZCSUlSSjE0NWtOYnFnNHdkQ0xTTU1n?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyOTlsN3lnYi0tVUMwRFhDSDRhV1dyZ0Z4WC1ZeFBQTTdFV1hXcklkc1lNcWtYeDZSTG92d3pJa05KQlFqam9ic2NDWWNmWDFLZ0I1ZmxqTW53ODU1UWZCSUlSSjE0NWtOYnFnNHdkQ0xTTU1n",
+      "image": "",
+      "published": "Thu, 05 Nov 2026 19:30:00 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-11-06"
@@ -3904,25 +3923,6 @@
       "published": "Tue, 03 Nov 2026 16:07:05 GMT",
       "sections": [
         "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-04"
-      ],
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "appearances": 1
-    },
-    {
-      "id": "f5b489c55c3823ac",
-      "source": "MIT Technology Review",
-      "headline": "What’s next for US energy policy after the midterm elections?",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago. …",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "canonical_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm",
-      "image": "",
-      "published": "Wed, 04 Nov 2026 17:08:00 +0000",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-04"
