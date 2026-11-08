@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T13:31:15.135011+00:00",
-  "generated_at_local": "2026-11-08T07:31:15.135011-06:00",
+  "generated_at": "2026-11-08T14:32:15.929369+00:00",
+  "generated_at_local": "2026-11-08T08:32:15.929369-06:00",
   "report_date": "2026-11-08",
   "top_story": {
     "source": "BBC World",
@@ -18,6 +18,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbUcyZklaYlVhbDM3cDdnYzluQlQ0bVZTUklUd0sxOUZoR0I1dzhvQzZoVWRhOVktV1Jrb1JuV3lMMjR5N25idHJENGZNNkZiY3NhaTlRMkJkVHoxcjkwWmpiQk85YVUya213Uw?oc=5",
       "image": "",
       "published": "Sun, 08 Nov 2026 05:48:26 GMT"
+    },
+    {
+      "source": "Good News Network",
+      "headline": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
+      "summary": "A baby’s life was likely saved after his racing heartbeat was detected by the family dog—that wouldn’t stop crying. Kim Reynolds was confounded by her doberman’s unusual “needy” behavior around six-month-old Alexander. Saraya wouldn’t leave the baby’s side and cried every time he was taken away from her that morning. The boy later became upset",
+      "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 16:58:40 +0000"
     },
     {
       "source": "BBC US & Canada",
@@ -44,12 +52,12 @@
       "published": "Sat, 07 Nov 2026 19:17:22 GMT"
     },
     {
-      "source": "Associated Press",
-      "headline": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
-      "summary": "2026 Midterm Election Results: Senate, House and Governor Races AP News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
-      "image": "",
-      "published": "Sun, 08 Nov 2026 11:31:48 GMT"
+      "source": "BBC US & Canada",
+      "headline": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Fri, 06 Nov 2026 16:51:01 GMT"
     },
     {
       "source": "Madison Local",
@@ -66,14 +74,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
       "published": "Fri, 06 Nov 2026 14:13:32 +0000"
-    },
-    {
-      "source": "Channel 3000",
-      "headline": "Two Illinois leaders, UCONN president named finalists for UW-Madison chancellor role - Channel 3000",
-      "summary": "Two Illinois leaders, UCONN president named finalists for UW-Madison chancellor role Channel 3000",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWxZcWtHb3pSSUdQaU4xYlVyRFhHemJKZEtEVnhZNWEtYnhNNHR4R1Bmc2I1WWc3SDZlaVZaYTZiSnowbzZtSmk5SENnY1IwX3FKX3J6cGtib20xMFZPRzhSZWVhQ3dnNW9PcmFFaG4zQkdIRGZzdW43dEZqSE9aeGtWbG5ZMUJxNjdtS1NBS2ZsazNUdGc4Yk9Gam1PQm5WMXFtRmFGRzJMS1RsbF9JaUoxbkItQVQzLVhKd2RrN0k2clJzUTVNeTJXQ1hxeFJJUWFiM3VPam9jNnByOHYwakN0N3JleHI0clZ3dkxBSkEtUEtRQ1BGbmp3?oc=5",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 21:04:00 GMT"
     }
   ],
   "sections": {
@@ -212,11 +212,11 @@
     "ai-tech": [
       {
         "source": "AI News",
-        "headline": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI - TradingView",
-        "summary": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbVNsdGFSMHp0ZXN4RkZIbTY5dHp6azBIYjZlNmt6VXlXU2ZJekltbEdmZjYwdUNCOUJkdE44dFBRYnY4X0JmSGlJV3dJOVhva2dxVTNSYW1ZWWdPV3ltUi1tejlrTFpzZV9jMHlNUU5hUjFKX3dGb1A2LUpGYkMxTUNMOHVfSlpnaGRIMnctU0ZVQUxFQW9icDhULVp6TnpBQjVKR1g5d1dOTGdPQU9TU004M1FiMURBSlJZSjdmdUxYMHZCLUl2Z1FvcURNZ2tZYVBURnZqaG5jdF9UQ2s0YnNqX0VHM0xwbWtnVUVjY3hHN3FWRVVXRUx0OXg?oc=5",
+        "headline": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI - Stocktwits",
+        "summary": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVqZFhYQXo1R3pfbXlpRHVRLUpsdEkwSnFPX0IyYmFYdEFYUHBnY04wbE5qSGM3WGMtYThzOWgybmhmQkVCNzkxeDI5ajVUYkRqWFdRLU05Q3dMMzd2U3IyNEFya21GWFdmWXAyanBSQmNHS080a1RYdjhvd1RTY253QUZ1a2tPbjIwd3VWdV92OXhVbWJRLW5hT2tWS3U4MEczbTBaRXVPbXdZS2syQkFhZUx0S2otNVZkbjFVYTNWdjh0ZlZj?oc=5",
         "image": "",
-        "published": "Sun, 08 Nov 2026 07:33:00 GMT"
+        "published": "Sun, 08 Nov 2026 07:36:10 GMT"
       },
       {
         "source": "The Verge",
@@ -409,6 +409,14 @@
     ],
     "entertainment": [
       {
+        "source": "Variety",
+        "headline": "How to Watch Trump’s ’60 Minutes’ Interview Online",
+        "summary": "President Donald Trump is set to appear on Sunday’s edition of “60 Minutes” for his first in-depth interview since Republicans suffered sweeping losses in Tuesday’s midterm elections. The president is scheduled to sit down with CBS News correspondent Ross Douthat on Friday, with the interview slated to air Nov. 8. According to CNN, CBS News",
+        "url": "https://variety.com/2026/shopping/news/how-to-watch-trump-60-minutes-interview-live-online-1236941457/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/2303049099.jpg",
+        "published": "Sun, 08 Nov 2026 14:00:00 +0000"
+      },
+      {
         "source": "Taylor Fashion",
         "headline": "Taylor Swift, Travis Kelce choose Adam Sandler as their wedding officiant - ABC News - Breaking News, Latest News and Videos",
         "summary": "Taylor Swift, Travis Kelce choose Adam Sandler as their wedding officiant ABC News - Breaking News, Latest News and Videos",
@@ -454,7 +462,7 @@
         "summary": "Taylor Swift Britannica",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5",
         "image": "",
-        "published": "Sun, 08 Nov 2026 09:54:03 GMT"
+        "published": "Sun, 08 Nov 2026 11:35:21 GMT"
       },
       {
         "source": "BBC Entertainment",
@@ -463,17 +471,25 @@
         "url": "https://www.bbc.co.uk/news/articles/c6n499d3ykgwo?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaaa/live/ff712380-d928-11f1-af74-e735e628ea98.jpg",
         "published": "Sat, 07 Nov 2026 01:58:00 GMT"
-      },
-      {
-        "source": "Variety",
-        "headline": "Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical",
-        "summary": "The Taiwan Creative Content Agency (TAICCA) and its partners have invested in 27 projects, backed by NT$5.64 billion ($180 million) in total, including NT$740 million ($23.7 million) from the agency and NT$4.9 billion ($157 million) in private capital, TAICCA chair Sue Wang said at the Taiwan Creative Content Fest (TCCF). TAICCA brought together its four",
-        "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
-        "image": "https://variety.com/wp-content/uploads/2026/11/TAICCA-JV.jpg",
-        "published": "Sun, 08 Nov 2026 09:04:48 +0000"
       }
     ],
     "animals": [
+      {
+        "source": "Ars Technica",
+        "headline": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+        "summary": "Developer: “I can’t be part of the Fox world.”",
+        "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
+        "published": "Fri, 06 Nov 2026 19:50:18 +0000"
+      },
+      {
+        "source": "Smithsonian",
+        "headline": "This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds",
+        "summary": "The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones",
+        "url": "https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/_E89q7eIsIbAP6I9oBblu1ecBU4=/420x240/filters:focal(751x415:752x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/3c/ab3c924d-1d61-4178-90a1-3775fa014c56/an-unusual-sexual-bond.jpg",
+        "published": "Thu, 05 Nov 2026 18:47:54 +0000"
+      },
       {
         "source": "Animals",
         "headline": "Vietnam Wild Live Season 2: Top 5 animals viewers most want to learn about in Cat Tien National Park - Vietnam.vn",
@@ -521,41 +537,9 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1QxS2ZlaGluUE91b3BuQmZ1S19BeWg4NEg4eGFEdWlnRjNEZWZoQkVfUlpoNVBwM2JoOEM5VmVvSFJVakhNcmVCQ09QbjVScnhscEZHNWh3VklTMFd0Tjd4ekVzb2hVaUVTNGlTZFl2Q0dCRUVYdlVmQ2o5dFpkVW5xZzQzRE5QR294VXkzSUlMUQ?oc=5",
         "image": "",
         "published": "Tue, 03 Nov 2026 20:40:17 GMT"
-      },
-      {
-        "source": "Ars Technica",
-        "headline": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-        "summary": "Developer: “I can’t be part of the Fox world.”",
-        "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
-        "published": "Fri, 06 Nov 2026 19:50:18 +0000"
-      },
-      {
-        "source": "Smithsonian",
-        "headline": "This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds",
-        "summary": "The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones",
-        "url": "https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/",
-        "image": "https://th-thumbnailer.cdn-si-edu.com/_E89q7eIsIbAP6I9oBblu1ecBU4=/420x240/filters:focal(751x415:752x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/3c/ab3c924d-1d61-4178-90a1-3775fa014c56/an-unusual-sexual-bond.jpg",
-        "published": "Thu, 05 Nov 2026 18:47:54 +0000"
       }
     ],
     "wonderful": [
-      {
-        "source": "Good News Network",
-        "headline": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
-        "summary": "An English mayor-turned-detective solved the case of a thief who was looting $9,000 worth of historic capstones from a 300-year-old stone village wall—and he used a hi-tech tracker and a little trickery. Around 30 stones went missing over a period of months from an 18th-century wall along a half-mile stretch of road leading into Rufford,",
-        "url": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
-        "image": "",
-        "published": "Sat, 07 Nov 2026 21:49:37 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
-        "summary": "A baby’s life was likely saved after his racing heartbeat was detected by the family dog—that wouldn’t stop crying. Kim Reynolds was confounded by her doberman’s unusual “needy” behavior around six-month-old Alexander. Saraya wouldn’t leave the baby’s side and cried every time he was taken away from her that morning. The boy later became upset",
-        "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
-        "image": "",
-        "published": "Sat, 07 Nov 2026 16:58:40 +0000"
-      },
       {
         "source": "Good News Network",
         "headline": "Good News in History, November 6",
@@ -563,6 +547,22 @@
         "url": "https://www.goodnewsnetwork.org/events061106/",
         "image": "",
         "published": "Fri, 06 Nov 2026 08:00:00 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+        "summary": "A pet budgie that vanished when a storm blew open a kitchen window was found hiding in a storm drain a mile from home. Luna made her great escape from owner Cimberley Frost’s home in Northampton, England when strong winds following Storm Boelo forced open a window and she flew away. But the tiny bird’s",
+        "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+        "image": "",
+        "published": "Sun, 08 Nov 2026 14:08:15 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
+        "summary": "An English mayor-turned-detective solved the case of a thief who was looting $9,000 worth of historic capstones from a 300-year-old stone village wall—and he used a hi-tech tracker and a little trickery. Around 30 stones went missing over a period of months from an 18th-century wall along a half-mile stretch of road leading into Rufford,",
+        "url": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
+        "image": "",
+        "published": "Sat, 07 Nov 2026 21:49:37 +0000"
       },
       {
         "source": "Positive News",
@@ -592,11 +592,11 @@
   },
   "wonderful": {
     "source": "Good News Network",
-    "headline": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
-    "summary": "An English mayor-turned-detective solved the case of a thief who was looting $9,000 worth of historic capstones from a 300-year-old stone village wall—and he used a hi-tech tracker and a little trickery. Around 30 stones went missing over a period of months from an 18th-century wall along a half-mile stretch of road leading into Rufford,",
-    "url": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
+    "headline": "Good News in History, November 6",
+    "summary": "809 years ago today, the Charter of the Forest was signed in England by King Henry III. This law document is sometimes described as the sister of the Magna Carta, and granted rights of free men to use the forests of England once reserved for King William I and his descendants. Many today learn from",
+    "url": "https://www.goodnewsnetwork.org/events061106/",
     "image": "",
-    "published": "Sat, 07 Nov 2026 21:49:37 +0000"
+    "published": "Fri, 06 Nov 2026 08:00:00 +0000"
   },
   "capybara_message": "The loudest request is not automatically the most important one. Volume is not governance.",
   "personalization": {
