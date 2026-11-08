@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-07.json",
-  "report_date": "2026-11-07",
-  "generated_at": "2026-11-07T16:52:20.620602+00:00",
-  "edition_count": 115,
+  "latest": "data/archive/2026-11-08.json",
+  "report_date": "2026-11-08",
+  "generated_at": "2026-11-08T13:31:15.135011+00:00",
+  "edition_count": 116,
   "editions": [
+    {
+      "report_date": "2026-11-08",
+      "generated_at": "2026-11-08T13:31:15.135011+00:00",
+      "path": "data/archive/2026-11-08.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-07",
       "generated_at": "2026-11-07T16:52:20.620602+00:00",
