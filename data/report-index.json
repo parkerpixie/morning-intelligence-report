@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-08.json",
-  "report_date": "2026-11-08",
-  "generated_at": "2026-11-08T17:05:31.681055+00:00",
-  "edition_count": 116,
+  "latest": "data/archive/2026-11-09.json",
+  "report_date": "2026-11-09",
+  "generated_at": "2026-11-09T16:29:50.095842+00:00",
+  "edition_count": 117,
   "editions": [
+    {
+      "report_date": "2026-11-09",
+      "generated_at": "2026-11-09T16:29:50.095842+00:00",
+      "path": "data/archive/2026-11-09.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Congress is coming back to Washington. Here's what to expect",
+        "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-08",
       "generated_at": "2026-11-08T17:05:31.681055+00:00",
