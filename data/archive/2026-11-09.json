@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T17:49:43.277965+00:00",
-  "generated_at_local": "2026-11-09T11:49:43.277965-06:00",
+  "generated_at": "2026-11-09T19:51:08.792589+00:00",
+  "generated_at_local": "2026-11-09T13:51:08.792589-06:00",
   "report_date": "2026-11-09",
   "top_story": {
-    "source": "NPR",
-    "headline": "Congress is coming back to Washington. Here's what to expect",
-    "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
-    "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
-    "image": "assets/images/clementine-madison-morning.webp",
-    "published": "Mon, 09 Nov 2026 05:00:00 -0500"
+    "source": "BBC World",
+    "headline": "Trump questions midterm elections integrity after previously accepting results",
+    "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+    "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
+    "published": "Mon, 09 Nov 2026 17:47:29 GMT"
   },
   "quick_scan": [
     {
@@ -17,15 +17,7 @@
       "summary": "US Congress gets first post-'Blue Wave' crack at data centers with permitting bill Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhSV24tejNOTWRUTlhYX2NjeVZDUng5dzBSNGZWR3VkODRZUkdyT1hFbU53WEgxQnZBcC15YXVGUFNJWmkxRTdkVEltakQzSlU5clN0c2U2bjZHZ3ZlZ0I2dmFoRjZMOUdmVmNRQWtPdlBqMUJHejlrSjB0U1pWVGdabmJ4UUlPVVZuZ2JCYktiOXhWX2FlUS1jUjc4UHZxYXRISDl4OXA4eF80UVF6Mm1xU2FCQWpKdVZuOFk3c0Z0Q3RrZm9xOTVn?oc=5",
       "image": "",
-      "published": "Mon, 09 Nov 2026 13:39:56 GMT"
-    },
-    {
-      "source": "BBC World",
-      "headline": "Inside the French drug gangs recruiting children to kill",
-      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg",
-      "published": "Mon, 09 Nov 2026 06:00:26 GMT"
+      "published": "Mon, 09 Nov 2026 19:09:56 GMT"
     },
     {
       "source": "MarTech",
@@ -34,6 +26,14 @@
       "url": "https://martech.org/combining-mmm-with-post-purchase-survey-attribution/",
       "image": "https://martech.org/wp-content/uploads/2026/10/New-MarTechBot-Explains-it-all-800x450.jpg",
       "published": "Mon, 09 Nov 2026 13:55:00 +0000"
+    },
+    {
+      "source": "NPR",
+      "headline": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+      "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+      "image": "",
+      "published": "Mon, 09 Nov 2026 05:00:00 -0500"
     },
     {
       "source": "BBC Health",
@@ -52,32 +52,40 @@
       "published": "Sun, 08 Nov 2026 19:19:26 GMT"
     },
     {
-      "source": "Salesforce",
-      "headline": "TechEsperto Launches Salesforce-to-SuiteCRM Migration Program for US Businesses - The Des Moines Register",
-      "summary": "TechEsperto Launches Salesforce-to-SuiteCRM Migration Program for US Businesses The Des Moines Register",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRnR5MEQ2aTYydVJ0RGxqOGJRcG9CMEJScHF2OUU2M1dRV29NaDhkdTlWdWN6dWZRUmswaUtNclZ0M256OWtMUlI2ckJ5WFNTTE4tdlhra0dmMGRYYkJlTjhwRzh6TkxxLUZoc0VLdUNDWUdxdUlLaUNxeDRuR0M4Y0tibzd2UVRzMGNNaUd1ajVFREhCbkZybkNHc2cyZjFPUTZxRUFKaUhMUkpXV1BnVHh1b2NPeU91S2xxcklvQ3FOM3pTX05vYVM4dXc2OHhBZVY4VjhGZ1M?oc=5",
+      "source": "Adweek",
+      "headline": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too - ADWEEK",
+      "summary": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVQZGNlUkF1eDJNbmdndDhJVTM0blJGcGpyRWZvOFY1aFBhTWxQaEozZXJERk4zdl8wbmh6M05pOWtCVXVCTk55VjVJUklCUzJzSlhiaTE2S3U2aWpOVVB4MzM4VEJ4cXNEVm5KQUVyRXotVmNzbWZiSWEyVE56T0ZlOFdRQWpwcEFuRUlFTzRUOVpVRVBTRWVvVWcyUldw?oc=5",
       "image": "",
-      "published": "Mon, 09 Nov 2026 15:39:30 GMT"
+      "published": "Wed, 04 Nov 2026 19:58:36 GMT"
     },
     {
-      "source": "Animals",
-      "headline": "HOT LUNCH | The big heart behind Woodrock Animal Rescue - Wanted Online",
-      "summary": "HOT LUNCH | The big heart behind Woodrock Animal Rescue Wanted Online",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGd2bUpNbnRjclBDUm1tZjZtOUhaOGNONlRqel9lU2ZhUnpSOUpraXd5dW8tdHQ0emxRX1R1MG45djBIR0VqVzlPMy01NUVRaTRla3F5ZTdYblhXa3pmZVV0ZG9LWEljeVhtZTVyb0tjajJ5TVdGSmNLcGhGWmxBS2laZ3VtVUozSHphclpGQkJMbGZkR015eGp6V3ZMMHdmQWlnNE84WjZ1bVE?oc=5",
+      "source": "Braze",
+      "headline": "Braze named a Leader in the inaugural Gartner® Magic Quadrant™ for Email Marketing Platforms - Braze",
+      "summary": "Braze named a Leader in the inaugural Gartner® Magic Quadrant™ for Email Marketing Platforms Braze",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3JpaTVtOXROWUlxNFlFZkExQTh6NXRHcW5zQ0h5d3BiQlRFdGgzXzBDaFB0ZmZxVmYwdU9kUFRhcXo2ekxTRU1qS1VYY3dJQmlGS04tX0VOYkFZNTUxZy1QV3hpRkYzY2dLZ1VkS3VEaE5ETjB0N2xxYkNqUENocDlQUnA4UVB0aGg2WHJzRzVYRFBEQ1dYSw?oc=5",
       "image": "",
-      "published": "Mon, 09 Nov 2026 03:00:00 GMT"
+      "published": "Mon, 09 Nov 2026 18:56:05 GMT"
     },
     {
       "source": "Good News Network",
-      "headline": "Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction",
-      "summary": "Sniffer dogs are being trained in Germany to detect potentially destructive invasive plants—alien species that are one of the main causes of biodiversity loss worldwide. Scientists from Leipzig evaluated whether volunteer handlers and their dogs could be trained as effective detectives, and found the teams could locate invasive species in the wild with 75% accuracy.",
-      "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
+      "headline": "Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It",
+      "summary": "Seabed Thriving 10 Years After Scottish Dredging Ban Islanders Celebrate Protections of Their Magical Maerl Beds Fish Stocks Thrive Thanks to This Strange Seaweed and Locals Who Protected It A ban on industrial scallop dredging has been “the most amazing thing to happen” to the residents, both man and marine, of the Summer Isles. In",
+      "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
       "image": "",
-      "published": "Sun, 08 Nov 2026 18:36:02 +0000"
+      "published": "Mon, 09 Nov 2026 15:49:42 +0000"
     }
   ],
   "sections": {
     "local": [
+      {
+        "source": "Wisconsin Watch",
+        "headline": "How Wisconsin Democrats want to transform election law after flipping the Legislature - Wisconsin Watch",
+        "summary": "How Wisconsin Democrats want to transform election law after flipping the Legislature Wisconsin Watch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmFiRDJOVFViQTFaREp0c2x0XzJyclN5dXpySXdmMUVMUGsxb2c0QjBXRzZXdWRzWTcxZlZ5b0wyRHhMV0loLXBvYWlKY3U3aUx6LW5wemxxTko1QTlBb2Q1RGNlOTFDM0MyZm9UaS12cURKZVRReW00NHIzYlphV3F6d0RoR21LQ3NVRV9oR3E0VUFtS1RobXBEdnpoOXBaRUZlc1IyMDAwS0xRRnY1Z2dpSQ?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 15:00:00 GMT"
+      },
       {
         "source": "Wisconsin Public Radio",
         "headline": "Record-breaking lake sturgeon caught in northern Wisconsin this fall",
@@ -88,11 +96,19 @@
       },
       {
         "source": "Wisconsin News",
-        "headline": "How Democratic wave, election results could impact Wisconsin universities - Milwaukee Journal Sentinel",
-        "summary": "How Democratic wave, election results could impact Wisconsin universities Milwaukee Journal Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdENOMFprODhycXctMFRSenhBdjJlRTUyWnpmUDdHTWlXUHhRUUVEbkpXT3d4QTFNUjBKOUpmNTJaaUxvS3o5NXFKenJFbmZXR1lvWmEtZXA4Sm5LU2dwUUFDelR5bUJxN2JSbVFMM2RiS0lhRVNlM1ZhYkVTSENBMlprYVdKUGNnWlhjbmhkSHJQVEpoSnVFLWthYkItbE1wYVY0d19lNXdzWWQzc3IySHFWNlR6Q0F2TnloNVdmaFUzMVNfYk5fenRjYjJyWGQ1d1E?oc=5",
+        "headline": "Wisconsin Emergency Management Release: Registration opens for 2027 Wisconsin Governor’s Conference on Emergency Management and Homeland Security - Wisconsin Department of Military Affairs…",
+        "summary": "Wisconsin Emergency Management Release: Registration opens for 2027 Wisconsin Governor’s Conference on Emergency Management and Homeland Security Wisconsin Department of Military Affairs (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmcwZndMeFJEdTh4Z0VrazJCWEJ5dFVVVEhBM1N4QXZPcFF1bmNETDFoMUtzY3BiRWxIdmVITEhxTUdySUF6ZTlZazl4b0x5ZkFvV3ZndHVFbTNzQlRpa0JFRHlfa3BwSDh1Y09tY1FCSVBUM0VGU3VNckJMdE5pa0JkTDk?oc=5",
         "image": "",
-        "published": "Mon, 09 Nov 2026 11:05:00 GMT"
+        "published": "Mon, 09 Nov 2026 18:40:31 GMT"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "UW-Madison hoops legend Frank Kaminsky to give address at winter commencement - Channel 3000",
+        "summary": "UW-Madison hoops legend Frank Kaminsky to give address at winter commencement Channel 3000",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUlGZ1R6U2xsTy0zRmRHUlg2UDV3TEZPdlZnLWQ1TWVHdExOMDNKbF9QYmRRcGQ3U1VXVjl1M1JadV9mdHlQS0hZUndPdVJDajVPMXVONWI0QUZ0YjJRS01jcVBmWkx6V3hmTUtscFcxT1FIX3ZCQjlOemg4TnVkZ0gyQjRGX3BXaWJQSjRmT0g3M1d0T3l1ZFBJVW9QNnZwODRJb0g1OGhUWGNFOXhNMTBQRm1rXzZpTEpKRzFicWVCWjdtRjBTTHlxUXhXNzZaUXFNZDlVMERLU3BYU2tueEJJYTN1djlWZlhxQmFkUF8zdw?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 18:54:00 GMT"
       },
       {
         "source": "Wisconsin Examiner",
@@ -111,46 +127,38 @@
         "published": "Mon, 09 Nov 2026 11:00:00 +0000"
       },
       {
+        "source": "Isthmus",
+        "headline": "Nonprofit ski club MadNorSki gets creative - Isthmus | Madison, Wisconsin",
+        "summary": "Nonprofit ski club MadNorSki gets creative Isthmus | Madison, Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNkczdGNneVlsVEVXZktlSHZkREt5WXVFajFmUGtPMkVlRU9oV0xjREgtZHpPN0d2YWtMUzk2NHM2SjRQOExvQmJLTW41WXhncW9tT09uWUw2S3VvYjE3TVpMR1VCZzVZUUJTdU50QXA?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 15:00:00 GMT"
+      },
+      {
         "source": "Dane County",
         "headline": "Dane County awards $279K to 4 municipalities for housing reforms - Channel 3000",
         "summary": "Dane County awards $279K to 4 municipalities for housing reforms Channel 3000",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHlDM2p1YUx1Y1N1RE1PUk5RWG1hTEpMeVIyTDV0cFd5dmE5bFRlRkJOS0p5WURRdEpRT0w3bmo0bnQ3eEw4dElJclRhNmVjZlNWV3dWaUpHdElpVVlJYTRpYnV2UnR0OUlTN2g0LUI0UDEwN253MFo1UEN5TV9mVmFJYTlnaGV5YXplUU45TDd5V2tVUVhSVnp5SmxSeXFUUGxURFo3bDlWOE51RXNiN2V5VkxHYlpuYVZMYkhnOVRCcVRiYV82MklJMXlLV2tLY1JnRUtlWkF0eEJJbzRZ?oc=5",
         "image": "",
         "published": "Sun, 08 Nov 2026 18:23:00 GMT"
-      },
-      {
-        "source": "Madison365",
-        "headline": "Here are 7 things to watch for as Democrats take control of Wisconsin state government - Madison365",
-        "summary": "Here are 7 things to watch for as Democrats take control of Wisconsin state government Madison365",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFZiZHY3QzhXNU5UaDgxY3pzc3FaSXpvbzJpbVVZMlBaSkhQZVFHNU5sbjBTNkVoVFQ3OFo3bDFaSWh2WG82cEZ0ZFM1Z2x6WHU2bmthcnNEdGRQWW5DSDBSWUp0QU9yX1lnU0N6VFZVcFN3WnE4ZGd6ektPYXI1UHY4bEE0RDFqaTFrMzEtVUtJRmRwOFZTM1BhQmlxeUdJT2xjS25yN1RfTE9hY25J?oc=5",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 11:57:43 GMT"
-      },
-      {
-        "source": "Madison Local",
-        "headline": "What to do in Madison this week: Nov. 9-12, 2026 - Isthmus | Madison, Wisconsin",
-        "summary": "What to do in Madison this week: Nov. 9-12, 2026 Isthmus | Madison, Wisconsin",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DOVFlRUJzZ0hfbERNLTRYTjh2RGk0UkVzZUFHTk9WcC1QaEdyTGkyczJvNGd5RXRuaUpnYnZLSENmWDhhZGt5anBTZUN4VXF4Zk53ZkMteloyVXphemJ5RW5jT2sxNC1PQlJKamhCR0pwUQ?oc=5",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 11:07:00 GMT"
-      },
-      {
-        "source": "Isthmus",
-        "headline": "Bill Roberts Combo - Isthmus | Madison, Wisconsin",
-        "summary": "Bill Roberts Combo Isthmus | Madison, Wisconsin",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2lSZDdpQnJNeXI4ZXp0MjJNblg4cnN5anRxYmJ6ZkQ5TVVEcGVVLXZDcUdDY1lxVkhDVTRMZmVtbzhBVEpSYlg1ME9YX2xoRkNtS09TbHJXOFcxOVpNaFl1SlhGRmZXbmJYekZORzRNa0c4dE1qS0xXdDFXVmZvZkhrNGRwUld6dUw1Z21JNA?oc=5",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 08:05:49 GMT"
       }
     ],
     "must-know": [
       {
         "source": "BBC World",
-        "headline": "Trump questions midterm elections integrity after previously accepting results",
-        "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-        "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
-        "published": "Mon, 09 Nov 2026 17:47:29 GMT"
+        "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+        "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg",
+        "published": "Mon, 09 Nov 2026 19:39:33 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "Drone delivers food to chimpanzee cut off by Florida flooding",
+        "summary": "A Florida chimpanzee sanctuary was hit by flooding leaving roads impassable and forcing staff to use a drone to deliver food to one of the animals.",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyrykl9vl7o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ae/live/880fae60-dc66-11f1-8fe6-5becaee5408f.jpg",
+        "published": "Mon, 09 Nov 2026 18:03:07 GMT"
       },
       {
         "source": "BBC US & Canada",
@@ -178,50 +186,50 @@
       },
       {
         "source": "Reuters",
-        "headline": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war - Arab News",
-        "summary": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJmQjZyXzV6WndUR3ZMMWtUMjRuSGtKbmJIQkR0bTBBRHBhb1Awajh6aUUtaXFBZXk0QUZ5NXd0QnJQN2xUMWxzVTNNS2VDZXRNUlRhLXhDd3lfdFJHS1otXzI2UTQxc1JTbGkwOHFJZFhVNEc4WHhteTg3M1FLVk9uNlN6NjFtbmNMTGlGSVlhRmU0WVlTYWdlS2J0S3NMcFN2UkxyLUNuaVIwZ2tTTEtTV0R6dUNjSXZn?oc=5",
+        "headline": "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps - Reuters",
+        "summary": "Wall St jumps back as oil slide eases inflation worries; Nvidia slumps Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
         "image": "",
-        "published": "Mon, 09 Nov 2026 13:29:06 GMT"
+        "published": "Mon, 09 Nov 2026 19:24:45 GMT"
       },
       {
         "source": "Associated Press",
-        "headline": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFpuckV5cGwzTXdTTWh5Tno3TWJBdy0wMU13SjFqd3R5SkktMUk1ZnJxZF9pZG1sdlV1M01fUWg4M0Q5WlJxVGswOTVFbWdPZHBlUTh2ZFExR21OVUNSX2xuSG92NEJGdzBVZmJuNnBkX0Fqc3Rwd2F3UlZheTVSdUNybHV0Q0Znanh2b3E0OFBzMWdpWGdoRHBfQlVONzAxd3N5S9IBqgFBVV95cUxPVklnblA0N2tFdFFSUjJCQUsxRVg5Zk5GQXNUMlZuY3pUaVg1aU9JaFdXUENaMklwUlpHemVMbzBXTzh4WXBWSmJXNzhVSFlsX082MWN6WGdSN2d4N21xRVFIMUNFMEhxUWFDUEpSWGkzTEowdUhRby1RQzE0QUxqbmRWSG5HQTltdmZfUEhMbUtENjJuVGgwOWJxeWhCUTdpNmVhMjFyMExoZw?oc=5",
+        "headline": "Hegseth announces rare press conference to discuss expected impeachment resolution in Congress - MPR News",
+        "summary": "Hegseth announces rare press conference to discuss expected impeachment resolution in Congress MPR News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkdnaXRrT1dUSFNiakl5SFQ5bmtkUjJHdXBWQmFrZ0VVRThOQmFDb3AzWWk0eFRma1ZCQTBpa0Uwek1SM1hpSklIU1d0aDZvTlp4MUIxT19oYzI3cWwwZGo3anlIbUpEOXRaNk9meGNmRWJjMWlaa2wzbm94XzhGS0ZqSDFIdGgwYXpZMDh1X2lHaUZFTzMtVzFtNFFhS3pTekxSbVdvR1V1R1ZqQ0lYbVJlRldUNW9zNXpVUkVySlNQNWZX?oc=5",
         "image": "",
-        "published": "Mon, 09 Nov 2026 15:08:18 GMT"
-      },
-      {
-        "source": "Associated Press",
-        "headline": "Russia's top independent newspaper closes its office after three decades, citing official pressure - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Russia's top independent newspaper closes its office after three decades, citing official pressure ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUU4eGJqX2s1ZGc0c2cwMUM0LWRkaTgyVUxmQ0xleDJQSkFIWE91WGd3b3NRRk9qZ0NKTTJwd0xjbHhBYmR5dS1ES1FBejlSNkQ0OFdlZlNlbDBOcDBXbE9sOWhUZUNCVFUwdFlTUTNCWUtuT29BNk5pY0pnZm9lMXhTdFQ5UmNQTDNZYzdEcVpDU1JWV1RrMXZzX2h0ZkxZNy1KaE1OaEliVFBueHlJOE0zczVpZ9IBuwFBVV95cUxPOEJUSkZreXpUM3pKWk84elRVUlpVc0REVEpqdGZWcEM2Q1dnNFRLTGR0WUVldmhOcFhjdkhra2RBRTMtWUluTm1LOEZDdkF5Zy1Ea18tbzdPdE9CeHRsRkVLVWU1R0lOUmp2SndFRkZPbHQyQTdUWGFIbnhjUTAya04xckstSUdXdm9lVkd0dzItd3RaNjVWN3JjOWJaR2x6aGx1T1lPczd5R2JZX0VZOWc2b3dCbDJTY2sw?oc=5",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 14:41:52 GMT"
+        "published": "Mon, 09 Nov 2026 18:36:00 GMT"
       },
       {
         "source": "BBC World",
-        "headline": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-        "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg",
-        "published": "Mon, 09 Nov 2026 17:06:18 GMT"
+        "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
+        "published": "Mon, 09 Nov 2026 18:11:11 GMT"
       }
     ],
     "ai-tech": [
       {
-        "source": "NPR",
-        "headline": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-        "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
-        "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 05:00:00 -0500"
+        "source": "Variety",
+        "headline": "Disney Taps Adobe as ‘Official AI Innovation Partner’ Under Multiyear Pact",
+        "summary": "Disney and Adobe announced a multiyear strategic alliance to collaborate across a range of emerging technologies — including “responsibly developed AI” — in support of Disney’s creative teams. Building on the companies’ longstanding relationship, Adobe will be an “official AI innovation partner” of the Walt Disney Co. under which the creative and design software giant",
+        "url": "https://variety.com/2026/digital/news/disney-adobe-official-ai-innovation-partner-1236943275/",
+        "image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-1226302188.jpg",
+        "published": "Mon, 09 Nov 2026 19:50:19 +0000"
+      },
+      {
+        "source": "Variety",
+        "headline": "Skydance Games Layoffs Hit Following Warner Bros. Merger",
+        "summary": "Skydance Games has undergone a round of layoffs just over a month after the landmark merger between Warner Bros. and Paramount. On Oct. 6, the Skydance-owned Paramount Games Studio was combined with Warner Bros. Games‘ internal video game developers, including Avalanche Software (the makers of “Hogwarts Legacy”), NetherRealm Studios, Rocksteady Studios, TT Games and the",
+        "url": "https://variety.com/2026/gaming/news/skydance-games-warner-bros-layoffs-1236943276/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Skydance-Logo-1.png",
+        "published": "Mon, 09 Nov 2026 19:35:30 +0000"
       },
       {
         "source": "AI News",
-        "headline": "The Week Ahead in AI: OpenAI Hires Hactron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events - AI Insider",
-        "summary": "The Week Ahead in AI: OpenAI Hires Hactron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events AI Insider",
+        "headline": "The Week Ahead in AI: OpenAI Hires Hacktron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events - AI Insider",
+        "summary": "The Week Ahead in AI: OpenAI Hires Hacktron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events AI Insider",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUFVBR0Jmd0JaTWd5cXFTczBnWV9mREJrd245d0I0QV9JdnhFUl9DZmhUNTZJRmdCUkNtM2d4MFB4OUlCZlY4M2ZyVGxZLUJ1d09ld1R0N0JjUDRYa0FOMmNLZnhvZ2JEdTNmYWhUV29LS21EOTVkNldHVmhja2t2bmVpT196YjdMU19SUGhRU1ZlTTA1RF9uQ182OVFMY2VBUEV6WEVhUks0WE9Oc2dXMHJZdTI0OU14QkZ4bS14c2kxYk93SjZYOVhNWmZyY01HVWJmcElFT3FtbDR3LXR3MXA3MTViTTI2U0RyZTVGZnh3WjB6cEczSTFWclFQSWNwbzdyUkhuNVFuYWcw?oc=5",
         "image": "",
         "published": "Mon, 09 Nov 2026 13:25:02 GMT"
@@ -259,20 +267,12 @@
         "published": "Mon, 09 Nov 2026 13:24:38 GMT"
       },
       {
-        "source": "Wisconsin Public Radio",
-        "headline": "After cyberattack, rural Washburn County is upping security",
-        "summary": "Far-northern Washburn County will spend thousands on top-level cybersecurity monitoring months after an attack took the county government's entire network down.",
-        "url": "https://www.wpr.org/news/cyberattack-rural-washburn-county-is-upping-security",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 11:00:00 +0000"
-      },
-      {
-        "source": "NPR",
-        "headline": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-        "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
-        "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 05:47:00 -0500"
+        "source": "Ars Technica",
+        "headline": "Claude Code is accidentally exposing secrets all over GitHub",
+        "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+        "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+        "published": "Mon, 09 Nov 2026 17:24:26 +0000"
       }
     ],
     "work-marketing": [
@@ -317,6 +317,14 @@
         "published": "Mon, 09 Nov 2026 13:53:41 GMT"
       },
       {
+        "source": "B2B Marketing Ops",
+        "headline": "What Makes a Winning B2B Marketing Campaign? Lessons from the 2026 Awards - B2B Marketing",
+        "summary": "What Makes a Winning B2B Marketing Campaign? Lessons from the 2026 Awards B2B Marketing",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2bGFTNFhraFcwczJZMjBoUWNFbUFLM2lZV1hvaFJMLV9aMDlCRi1qbndTU2lUMGhTRWpqLWFncUcyR2g3UXFRTkNVZlFwcTRUZUIwYWVRcnJkMWJRcG83OWpMU2dkbzJieWpVLVl2bXN5blM3?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 12:58:47 GMT"
+      },
+      {
         "source": "MarTech",
         "headline": "Content everywhere: Winning attention in a fragmented marketing landscape",
         "summary": "Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts.",
@@ -325,20 +333,12 @@
         "published": "Mon, 09 Nov 2026 16:43:41 +0000"
       },
       {
-        "source": "Adweek",
-        "headline": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too - ADWEEK",
-        "summary": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too ADWEEK",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVQZGNlUkF1eDJNbmdndDhJVTM0blJGcGpyRWZvOFY1aFBhTWxQaEozZXJERk4zdl8wbmh6M05pOWtCVXVCTk55VjVJUklCUzJzSlhiaTE2S3U2aWpOVVB4MzM4VEJ4cXNEVm5KQUVyRXotVmNzbWZiSWEyVE56T0ZlOFdRQWpwcEFuRUlFTzRUOVpVRVBTRWVvVWcyUldw?oc=5",
+        "source": "Salesforce Marketing",
+        "headline": "Ask (a Forward Deployed Engineer’s) Slackbot - Salesforce",
+        "summary": "Ask (a Forward Deployed Engineer’s) Slackbot Salesforce",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aSlJyVHhjODFILW42WnNUYlQ0WTRIX0dBOXEwQ2hIaE5KSEJFbGk4MHNrZC1xM25BYVVZcjNmYmFHaXpybDdYbHZZVGNBTnZ4X2hrelpSMlhteUI2TkxzX0c4b0pPMmRkNnJEU3JOanBnQ2ZnbU9mR2t1U0lOUQ?oc=5",
         "image": "",
-        "published": "Wed, 04 Nov 2026 19:58:36 GMT"
-      },
-      {
-        "source": "B2B Marketing Ops",
-        "headline": "Does LLM Now Mean Large Liability Model? - Forrester",
-        "summary": "Does LLM Now Mean Large Liability Model? Forrester",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hX3E5bHpSa0xDMFNYc0NXY2VXaUczZEtadXpQMUliaTZaU0lJOElCdUhtU1ZKOXoyUEt2NUNhSjVsOGRuZzU3djhhUGRwQTFyUEhEa1B2d0JpeHF3MkNLYUgxRlNXaVVERm50bzdzT0tXb3FqNGFaOFQzU2c?oc=5",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 15:59:24 GMT"
+        "published": "Thu, 05 Nov 2026 17:21:26 GMT"
       }
     ],
     "wellbeing": [
@@ -359,6 +359,14 @@
         "published": "Mon, 09 Nov 2026 10:41:57 GMT"
       },
       {
+        "source": "NPR",
+        "headline": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+        "summary": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 05:00:00 -0500"
+      },
+      {
         "source": "BBC Health",
         "headline": "New GP contract deal a 'start' but more funding needed, BMA warns",
         "summary": "The Department of Health (DoH) said it will give an additional £40m across two years for \"improvements in patient access and primary care activity\".",
@@ -368,7 +376,7 @@
       },
       {
         "source": "BBC World",
-        "headline": "Men recruited to French gang as children to kill give rare insight into drug underworld",
+        "headline": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
         "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
         "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdb3/live/1bee1070-dc5a-11f1-93e1-3b657b665bcf.png",
@@ -397,24 +405,16 @@
         "url": "https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/",
         "image": "https://th-thumbnailer.cdn-si-edu.com/HKcXzTNOqSUztx320fB339U8DQI=/420x240/filters:focal(1900x1267:1901x1268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/88/af/88af8239-52c2-4b42-89b4-135a09347593/dairy.jpg",
         "published": "Mon, 09 Nov 2026 15:00:00 +0000"
-      },
-      {
-        "source": "NPR",
-        "headline": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
-        "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
-        "url": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 05:00:00 -0500"
       }
     ],
     "entertainment": [
       {
         "source": "Taylor Fashion",
-        "headline": "Taylor Swift’s Game Day Outfit Features Subtle Tribute to Travis Kelce - InStyle",
-        "summary": "Taylor Swift’s Game Day Outfit Features Subtle Tribute to Travis Kelce InStyle",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLU1raGllS1FhX0Voelh3VnYyUzR1UkpyQk9OZ0pWdUNFQm1TZ0ZiaVlLOWtDQjdyTm5FeVM3eFRFNWdQaGFMQ2ZLaFhXaGE3cUF5VEVqQW5hN3h1Z3lkOG5qMUs5aVJjRERpRGNsYUhtbklGZ0tfOTlJam90akRLb21velVLeGNYeG5RX0YxdzQ0M0thQS1qcGpvTXE?oc=5",
+        "headline": "Taylor Swift’s Mom Andrea Swift Nods to Both Her Daughter and Son-in-Law Travis Kelce With Game-Day Outfit - InStyle",
+        "summary": "Taylor Swift’s Mom Andrea Swift Nods to Both Her Daughter and Son-in-Law Travis Kelce With Game-Day Outfit InStyle",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX25IVlBaeGZTaHdPMmphZjNHblU3QjMyRDJHd3hZaTZ0VWtjOENSX0VuV2kyblRjSldmZGFWTV9XNVlQR1VZaURJRklpMURMRWNHQUk0ZjJRVmwwR2dseGxNQTRxaE15UTMtVHZTR1lqbmtsX1hOZnZLbWd6Qzl1Q0p2SG9yOGNNZHVRVjZaMjJyS0FCejRB?oc=5",
         "image": "",
-        "published": "Mon, 09 Nov 2026 15:35:22 GMT"
+        "published": "Mon, 09 Nov 2026 19:06:31 GMT"
       },
       {
         "source": "BBC Entertainment",
@@ -433,14 +433,6 @@
         "published": "Sun, 08 Nov 2026 23:48:00 GMT"
       },
       {
-        "source": "The Verge",
-        "headline": "Hold up — I had a great time talking to the RIAA guy",
-        "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set",
-        "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-        "image": "",
-        "published": "2026-11-09T10:30:00-05:00"
-      },
-      {
         "source": "BBC Entertainment",
         "headline": "Find out who's in the running for this year's Booker Prize",
         "summary": "The winner of this year's literary award will be announced in London on Monday.",
@@ -450,27 +442,35 @@
       },
       {
         "source": "Variety",
-        "headline": "WME Streamlines Motion Picture Lit and Talent Departments, Promotes Will Ward to Lead Fashion",
-        "summary": "WME has made a number of promotions as the agency streamlines its motion picture literary and talent departments under the leadership of Andrew Dunlap, Doug Lucterhand and Sarah Self. Under the new structure, motion picture lit and talent will operate as a unified Motion Picture division. WME’s Literary Media and Production departments will also formally",
-        "url": "https://variety.com/2026/biz/news/wme-motion-picture-literary-talent-6-promotions-1236943042/",
-        "image": "https://variety.com/wp-content/uploads/2026/11/WMEgroup-1.jpg",
-        "published": "Mon, 09 Nov 2026 17:15:00 +0000"
+        "headline": "David Ellison on DC Shakeup: Jeremy Latcham Will ‘Build the Future of DC,’ Praises James Gunn and Peter Safran’s ‘Passion’",
+        "summary": "Skydance CEO David Ellison is addressing his decision to shake up the executive ranks at DC Studios. In a surprise shuffle, James Gunn and Peter Safran are exiting as co-CEOs and chairmen. Jeremy Latcham, an executive who helped shape the Marvel Cinematic Universe, will serve as president and chief creative officer. “We’re thrilled to welcome",
+        "url": "https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-1236943242/",
+        "image": "https://variety.com/wp-content/uploads/2026/09/David-Ellison.jpg",
+        "published": "Mon, 09 Nov 2026 18:53:20 +0000"
       },
       {
         "source": "Variety",
-        "headline": "DC Shocker: James Gunn, Peter Safran Out as Co-Chairmen, Marvel Veteran Jeremy Latcham to Lead Comic Book Studio",
-        "summary": "In a surprise executive shuffle, James Gunn and Peter Safran are stepping down as CEOs and chairmen of DC Studios. They will be replaced by Jeremy Latcham, who will serve as president and chief creative officer. Gunn and Safran’s exit is unexpected because they were named as part of David Ellison’s business leadership team at",
-        "url": "https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
-        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2300099084.jpg",
-        "published": "Mon, 09 Nov 2026 17:15:00 +0000"
+        "headline": "James Gunn Speaks Out After Stepping Down at DC, Says It Had ‘Highest of Highs’ but ‘Has Been Trying’: ‘I Dislike the At-Times Corporate Nature of the Job’",
+        "summary": "James Gunn has spoken out after he and Peter Safran were replaced by Jeremy Latcham as the head of DC Studios. In a surprising move on Monday, Skydance replaced Gunn and Safran with Marvel veteran Latcham as the president and chief creative officer of DC Studios. It ends Gunn and Safran’s four-year run as the",
+        "url": "https://variety.com/2026/film/news/james-gunn-dc-speaks-out-1236943133/",
+        "image": "https://variety.com/wp-content/uploads/2022/12/james-gunn-1.jpg",
+        "published": "Mon, 09 Nov 2026 17:56:40 +0000"
       },
       {
-        "source": "Variety",
-        "headline": "John Turturro on Choosing Christopher Walken as His ‘Severance’ Love Interest and Auditioning to Play Madonna’s Boyfriend: ‘She Really Kissed Me’",
-        "summary": "With over 120 acting credits to his name, John Turturro has accrued a long list of what-ifs and missed opportunities, including a role as Madonna’s boyfriend. Turturro joined Variety’s co-editor in chief Ramin Setoodeh to chat in partnership with the Miami Film Festival and receive the Creative Vanguard Award. In this conversation, the seasoned actor",
-        "url": "https://variety.com/2026/film/festivals/john-turturro-on-madonna-severance-whats-next-1236940654/",
-        "image": "https://variety.com/wp-content/uploads/2026/10/JOHN-TURTURRO-Primoz-Korosec-1-1-1.jpg",
-        "published": "Mon, 09 Nov 2026 17:15:00 +0000"
+        "source": "Taylor Fashion",
+        "headline": "Taylor Swift’s Preppy Chiefs Game Polo Sweater Instantly Sold Out, but We Found Similar Cozy Tops from $30 - People.com",
+        "summary": "Taylor Swift’s Preppy Chiefs Game Polo Sweater Instantly Sold Out, but We Found Similar Cozy Tops from $30 People.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pX3dlVFQ4eHhYeGJMVmlDa1NGQVY5Z2dqNDlVT0ZlUGl5aVJwY1NKb00zS3RQMnJHbTdHbU9vMm9yOURPaXRyWFF1bHRoQkl1d095MFhIY01qN1AzZUpwX1Y4RjN5VkxiTnA3cHl5RWVtcHM?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 16:15:00 GMT"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+        "summary": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/d00f14e0-dc5b-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Mon, 09 Nov 2026 15:27:00 GMT"
       }
     ],
     "animals": [
@@ -512,7 +512,15 @@
         "summary": "Sri Lankan wildlife photographer Ravindralal Anthonis urges respect for elephants over good shots news - Mongabay",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnI0N2MtcjYyX3VKbEVEZ185eURpVUN6NHluTGVZVFJIVTVmZmsxX0NISHAxQW9vUUgxVGx5RnNwNllxNzdVaHFxWVZNT2gtUi1SQWFrbm1kWWdGWElLbGRFSE04RXkzdWJKX3NrdE82dnYwMnp1c0lTclZpRkRGV0swM3YxaGFzQnltcXpuTUJhTVYtaEVyLWNkZDYwZndnVkMybmF2UWtTSWRfbVBMZVZaOFJHQWZ6MFMxQXJtb0NZQXFiU0x0ZFhsVXbSAdIBQVVfeXFMTnJnTVFpSE5VUmhtS3R1Y291U281WVBaelg0cndrNHNBVnBLRHd6MmFfQU12VG9IRUhsYXBqYk9weHRVb1hmdUU1REF6SEpJZUNFVVJzZmRFeEtQd3hZeFFGWU1MSTh3eDQ5TDZKWFplM2ZSM2FZVEpjMEhHMkc4aHViSTRkYk5takhkVjIwb01iNnpwekxXQmFQS0ZFQUgtbVNhOGlPUGtQS2dZbjFPeGhxQkZaUUZYZDZTNllfMm96X2RjUXJ1WnRNS3dnQmlRUnVR?oc=5",
         "image": "",
-        "published": "Mon, 09 Nov 2026 14:48:45 GMT"
+        "published": "Mon, 09 Nov 2026 14:50:58 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "Weasels Hadn’t Been Seen in Parts of Georgia for 30 Years, Until Researchers Brought in Dogs - A-Z Animals",
+        "summary": "Weasels Hadn’t Been Seen in Parts of Georgia for 30 Years, Until Researchers Brought in Dogs A-Z Animals",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjduM0hlaUlyMXdpVjBTaDRmU0E4ekRVSkE1MnBtaUpNaXhoelEzLTN2WmtBYTlLOU15NEc0WnJETEZZUy02X193SU9mMW9VdV9XMzlCaHhrNGFkT1VwQ3hHYjY0Z2k5UkdpZTBEcms5WkM3RzAybUlGOXhsRnh0VzdxSjc2dEUtejNUU1kyUVpFYmhGNERXYklKdDlRbkUzRWZwTmYwVjBwMEhTTzhXS1VNdXNnY2J5NmdycQ?oc=5",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 14:00:00 GMT"
       },
       {
         "source": "BBC Science",
@@ -529,17 +537,25 @@
         "url": "https://www.smithsonianmag.com/smart-news/its-not-just-you-some-fast-flying-birds-also-get-jet-lag-180989811/",
         "image": "https://th-thumbnailer.cdn-si-edu.com/1Nw7Q80ZwhhD18i2IN1NWWq-v8o=/420x240/filters:focal(1500x1021:1501x1022)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/bc/28bc6631-acbc-44f9-9b52-f448b95507af/bird-jetlag.jpg",
         "published": "Wed, 04 Nov 2026 22:40:04 +0000"
-      },
-      {
-        "source": "Animals",
-        "headline": "Can You Keep a Stray Cat in Georgia? What the Law Says - NewsBreak: Local News & Alerts",
-        "summary": "Can You Keep a Stray Cat in Georgia? What the Law Says NewsBreak: Local News & Alerts",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUwzaG1fSHJHbnJ5SGxMcVV4My1jWFRJU0ZPQXNJNXVJN3ZENm5Pbi1feEhOcjRScDFvV21fQU5mcWR5UlNsbVVRemZSbnk5ZGFZYS1zWFFFOXk3cFVoS3MyVzFLUmU3Vy0teU5hQ0JObTFUbkwwQ2VsbkRvdUtCcGN2NXdrdWFaMlVJSEg3Ny1XdVNnaS1LMmwzMmpSZVE3dWhyNlNha2lNYUczYzZ1Sk1xaXl1a05wS1F3ZQ?oc=5",
-        "image": "",
-        "published": "Sat, 07 Nov 2026 05:58:26 GMT"
       }
     ],
     "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Man’s Halloween Skeletons Prove Perfect Treat to Woman Battling Breast Cancer",
+        "summary": "A man who received nothing but hate mail for his Halloween hobby proved to be just the treat that Tammy Wyche needed to brighten her weekly drive to cancer treatment appointments. Though a front yard covered in skeletons might serve to remind someone of their mortality, Wyche marveled at the creativity with which the homeowner",
+        "url": "https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 19:30:36 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "This Diwali, Trade the Doom Scroll for these 10 Questions",
+        "summary": "GNN Voices is a new series of first-person pieces from people worth listening to: practitioners, researchers, teachers, and neighbors sharing what they’ve learned and how they see things. My dad’s name was Kiran. In Sanskrit, it means “a ray of light.” I wrote my book, Making Sense of Purpose, in his memory. His name is",
+        "url": "https://www.goodnewsnetwork.org/this-diwali-trade-the-doom-scroll-for-these-10-questions/",
+        "image": "",
+        "published": "Mon, 09 Nov 2026 18:59:42 +0000"
+      },
       {
         "source": "Good News Network",
         "headline": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families",
@@ -549,28 +565,12 @@
         "published": "Mon, 09 Nov 2026 16:30:23 +0000"
       },
       {
-        "source": "Good News Network",
-        "headline": "Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It",
-        "summary": "Seabed Thriving 10 Years After Scottish Dredging Ban Islanders Celebrate Protections of Their Magical Maerl Beds Fish Stocks Thrive Thanks to This Strange Seaweed and Locals Who Protected It A ban on industrial scallop dredging has been “the most amazing thing to happen” to the residents, both man and marine, of the Summer Isles. In",
-        "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 15:49:42 +0000"
-      },
-      {
         "source": "Positive News",
         "headline": "‘Digital advances are reshaping nature conservation’ say experts",
         "summary": "Technology and the rapid advance of AI are opening up new possibilities in the race to save nature, according to a report",
         "url": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
         "image": "",
         "published": "Mon, 09 Nov 2026 13:44:06 +0000"
-      },
-      {
-        "source": "Good News Network",
-        "headline": "Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed",
-        "summary": "The beloved glowworm has gotten a glow-up thanks to pro bono work by local conservationists. Local wildlife enthusiast Peter Cooper collects and breeds glowworms in his spare time in a garden shed before releasing their larvae into a reserve in North Yorkshire where they haven’t been seen in 100 years. The reserve’s manager credited Cooper’s",
-        "url": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
-        "image": "",
-        "published": "Mon, 09 Nov 2026 12:30:57 +0000"
       },
       {
         "source": "Positive News",
@@ -592,11 +592,11 @@
   },
   "wonderful": {
     "source": "Good News Network",
-    "headline": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families",
-    "summary": "Watching adults misunderstand the cues of his autistic cousin, a teen taught himself machine learning to build technology that could help them. His solution has more than 700 users in 12 countries, reaching families through autism therapy centers—all while remaining free. Kora, a free app that helps parents and caregivers read the emotional cues of",
-    "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
+    "headline": "Man’s Halloween Skeletons Prove Perfect Treat to Woman Battling Breast Cancer",
+    "summary": "A man who received nothing but hate mail for his Halloween hobby proved to be just the treat that Tammy Wyche needed to brighten her weekly drive to cancer treatment appointments. Though a front yard covered in skeletons might serve to remind someone of their mortality, Wyche marveled at the creativity with which the homeowner",
+    "url": "https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/",
     "image": "",
-    "published": "Mon, 09 Nov 2026 16:30:23 +0000"
+    "published": "Mon, 09 Nov 2026 19:30:36 +0000"
   },
   "capybara_message": "Your nervous system is not a customer-service desk. It may close the window without explanation.",
   "personalization": {
