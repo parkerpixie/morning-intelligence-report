@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-09.json",
-  "report_date": "2026-11-09",
-  "generated_at": "2026-11-09T21:27:56.707010+00:00",
-  "edition_count": 117,
+  "latest": "data/archive/2026-11-10.json",
+  "report_date": "2026-11-10",
+  "generated_at": "2026-11-10T14:58:15.313250+00:00",
+  "edition_count": 118,
   "editions": [
+    {
+      "report_date": "2026-11-10",
+      "generated_at": "2026-11-10T14:58:15.313250+00:00",
+      "path": "data/archive/2026-11-10.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+        "summary": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
+        "url": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-09",
       "generated_at": "2026-11-09T21:27:56.707010+00:00",
