@@ -1,21 +1,21 @@
 {
   "latest": "data/archive/2026-11-11.json",
   "report_date": "2026-11-11",
-  "generated_at": "2026-11-11T17:11:34.841897+00:00",
+  "generated_at": "2026-11-11T18:43:22.102839+00:00",
   "edition_count": 119,
   "editions": [
     {
       "report_date": "2026-11-11",
-      "generated_at": "2026-11-11T17:11:34.841897+00:00",
+      "generated_at": "2026-11-11T18:43:22.102839+00:00",
       "path": "data/archive/2026-11-11.json",
       "top_story": {
-        "source": "Wisconsin Public Radio",
-        "headline": "Meet the Madison comedian who will become Wisconsin’s first transgender legislator",
-        "summary": "Across the country, six candidates became the first trans or non-binary people elected to their state Legislatures during last week's midterm elections. That includes a current Madison alder.",
-        "url": "https://www.wpr.org/news/wisconsins-first-transgender-legislator-dina-nina-martinez-rutherford",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
       },
-      "story_count": 71,
+      "story_count": 68,
       "section_counts": {
         "local": 8,
         "must-know": 8,
@@ -24,7 +24,7 @@
         "wellbeing": 8,
         "entertainment": 8,
         "animals": 8,
-        "wonderful": 6
+        "wonderful": 3
       }
     },
     {
