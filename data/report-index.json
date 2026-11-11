@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-10.json",
-  "report_date": "2026-11-10",
-  "generated_at": "2026-11-10T18:41:22.550358+00:00",
-  "edition_count": 118,
+  "latest": "data/archive/2026-11-11.json",
+  "report_date": "2026-11-11",
+  "generated_at": "2026-11-11T14:28:56.961451+00:00",
+  "edition_count": 119,
   "editions": [
+    {
+      "report_date": "2026-11-11",
+      "generated_at": "2026-11-11T14:28:56.961451+00:00",
+      "path": "data/archive/2026-11-11.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Meet the Madison comedian who will become Wisconsin’s first transgender legislator",
+        "summary": "Across the country, six candidates became the first trans or non-binary people elected to their state Legislatures during last week's midterm elections. That includes a current Madison alder.",
+        "url": "https://www.wpr.org/news/wisconsins-first-transgender-legislator-dina-nina-martinez-rutherford",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 71,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 6
+      }
+    },
     {
       "report_date": "2026-11-10",
       "generated_at": "2026-11-10T18:41:22.550358+00:00",
