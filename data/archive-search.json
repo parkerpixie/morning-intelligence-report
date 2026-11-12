@@ -1,28 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T17:38:08.981483+00:00",
+  "generated_at": "2026-11-12T18:59:25.960207+00:00",
   "edition_count": 120,
   "story_count": 7493,
   "stories": [
-    {
-      "id": "90bd622a3125edf8",
-      "source": "Good News Network",
-      "headline": "‘There’s a Georgia O’Keeffe in the Closet’ – Words that Led to Painting’s Joyous Rediscovery",
-      "summary": "“Oh, by the way, there’s a Georgia O’Keeffe in the closet.” One can only imagine the pause, double-take, or request for clarity which followed this comment, made by a woman’s elderly aunt in the midst of an effort to clean out her East Village apartment. Yet as the woman, who revealed herself only as Betsy,",
-      "url": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/",
-      "canonical_url": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 14:00:23 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
     {
       "id": "8de7b97ea0313796",
       "source": "Variety",
@@ -52,6 +33,25 @@
       "image": "",
       "published": "Thu, 12 Nov 2026 17:07:34 GMT",
       "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "2a361b7d3836750e",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Supreme Court to Hear Act 10 Appeal, WILL Reacts - Wisconsin Institute for Law & Liberty",
+      "summary": "Wisconsin Supreme Court to Hear Act 10 Appeal, WILL Reacts Wisconsin Institute for Law & Liberty",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPek1pTllvdl85N0VVMnozcjBCOTRJS1BGMVNBc2VWYW0ySDVrMlFwS3NaRFVyRXBvNGJSZ3BmT01IakFHQVlEMUpLV29DR0ZDcWpHU2ZuUlpBVnk4M0psV0lJczFva0xUYy13YjZ3dVJxaEktTndpX1FLZl9IU0F0bHBHb19yQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPek1pTllvdl85N0VVMnozcjBCOTRJS1BGMVNBc2VWYW0ySDVrMlFwS3NaRFVyRXBvNGJSZ3BmT01IakFHQVlEMUpLV29DR0ZDcWpHU2ZuUlpBVnk4M0psV0lJczFva0xUYy13YjZ3dVJxaEktTndpX1FLZl9IU0F0bHBHb19yQQ",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 02:07:53 GMT",
+      "sections": [
         "local"
       ],
       "report_dates": [
@@ -62,14 +62,14 @@
       "appearances": 1
     },
     {
-      "id": "e35dcbc6433c0130",
-      "source": "Wisconsin Public Radio",
-      "headline": "Wisconsin Supreme Court will hear Act 10 lawsuit",
-      "summary": "The Wisconsin Supreme Court has agreed to hear a lawsuit challenging the landmark collective bargaining law known as Act 10.",
-      "url": "https://www.wpr.org/news/wisconsin-supreme-court-act-10-lawsuit",
-      "canonical_url": "https://www.wpr.org/news/wisconsin-supreme-court-act-10-lawsuit",
+      "id": "e12c91f875da6820",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Supreme Court takes Act 10 case: Racine impact - Civic Media",
+      "summary": "Wisconsin Supreme Court takes Act 10 case: Racine impact Civic Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzVSV0h5cVRQZ0FpcHN6NHRsdzFrczNiWFQxUngxc3pwcFdzS2NQVWYwNnFPb3IwczhlUWtDekFwR3lXUXJvWWtMNDZfZmZ3S0ZUV3ZwN19IaTdmMHpHenctUkM0Qzc0NnRubzZFS1NvOGtHMlN1dEpkVnhpU1dNdWMxaDlHajE5UXhTNFlvTGhSUlY0M0pJdQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzVSV0h5cVRQZ0FpcHN6NHRsdzFrczNiWFQxUngxc3pwcFdzS2NQVWYwNnFPb3IwczhlUWtDekFwR3lXUXJvWWtMNDZfZmZ3S0ZUV3ZwN19IaTdmMHpHenctUkM0Qzc0NnRubzZFS1NvOGtHMlN1dEpkVnhpU1dNdWMxaDlHajE5UXhTNFlvTGhSUlY0M0pJdQ",
       "image": "",
-      "published": "Wed, 11 Nov 2026 20:09:18 +0000",
+      "published": "Thu, 12 Nov 2026 17:36:00 GMT",
       "sections": [
         "local"
       ],
@@ -107,7 +107,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkV0TFdJQmlaQW02UC11UWViR1hlcGlBZlZET3NyelRZcEFEcnNLUW1qTUNCZWtkRUVSSDRrZWN5T2VYbFNwUXFodlVSYmJNUmNqUjlkTzFuWGx6ZkhDU0FjVjd2a2pWMnlFSDFCa3hnYUhtYmJXWEdTYzFFVnZqb3h2Y0d2TkhQSTZ3TTFrR2R3QdIBkgFBVV95cUxQQ2N5d0pxMDRFUGlLLUE1bVFaZU9GcncwdHJsc0hxbnctd2lRdTROYWtOa1p3a3R1YVlJWGZSS1RwTmlLNERxNXNEMlMtX1hXVzdBTmpkdGdpTjhIUWhQWUdhVjNWMFpPXzBSY1hndHJOUGhXaHJkajlHWE5ESlRYNUJVc0NVSnVuczMzLXpBS2N0QQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkV0TFdJQmlaQW02UC11UWViR1hlcGlBZlZET3NyelRZcEFEcnNLUW1qTUNCZWtkRUVSSDRrZWN5T2VYbFNwUXFodlVSYmJNUmNqUjlkTzFuWGx6ZkhDU0FjVjd2a2pWMnlFSDFCa3hnYUhtYmJXWEdTYzFFVnZqb3h2Y0d2TkhQSTZ3TTFrR2R3QdIBkgFBVV95cUxQQ2N5d0pxMDRFUGlLLUE1bVFaZU9GcncwdHJsc0hxbnctd2lRdTROYWtOa1p3a3R1YVlJWGZSS1RwTmlLNERxNXNEMlMtX1hXVzdBTmpkdGdpTjhIUWhQWUdhVjNWMFpPXzBSY1hndHJOUGhXaHJkajlHWE5ESlRYNUJVc0NVSnVuczMzLXpBS2N0QQ",
       "image": "",
-      "published": "Thu, 12 Nov 2026 14:43:06 GMT",
+      "published": "Thu, 12 Nov 2026 14:43:00 GMT",
       "sections": [
         "entertainment"
       ],
@@ -129,6 +129,25 @@
       "published": "Wed, 11 Nov 2026 22:26:26 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "bfc79de3c35c353d",
+      "source": "BBC World",
+      "headline": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+      "published": "Thu, 12 Nov 2026 18:28:59 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-12"
@@ -176,6 +195,25 @@
       "appearances": 1
     },
     {
+      "id": "5052063229effac9",
+      "source": "Wisconsin Public Radio",
+      "headline": "This Fond du Lac pastor can’t come home — but he’s still preaching from Guatemala",
+      "summary": "Reverend Esdras Paredes left Wisconsin to care for his sick mother in Guatemala in August 2025. When Paredes tried to return, the U.S. government said that he wouldn’t be able to come back for another 10 years.",
+      "url": "https://www.wpr.org/news/fond-du-lac-pastor-cant-come-home-still-preaching-guatemala",
+      "canonical_url": "https://www.wpr.org/news/fond-du-lac-pastor-cant-come-home-still-preaching-guatemala",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 18:22:32 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "cb3da9324bc44a1c",
       "source": "Taylor Fashion",
       "headline": "The Latest Look at Taylor Swift’s Off-Duty Style Comes With a New Detail About Her Wedding - ELLE",
@@ -198,7 +236,7 @@
       "id": "9ec53114f601ed4c",
       "source": "Ars Technica",
       "headline": "The amazing disappearing exoplanet",
-      "summary": "An exoplanet seems to stopped transiting in front of its host star.",
+      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
       "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
       "canonical_url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
@@ -242,7 +280,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
       "published": "Wed, 11 Nov 2026 20:32:21 +0000",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -404,25 +442,6 @@
       "appearances": 1
     },
     {
-      "id": "ad638f2b04bab253",
-      "source": "Ars Technica",
-      "headline": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-      "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
-      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-      "canonical_url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
-      "published": "Thu, 12 Nov 2026 12:00:37 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "83d47cb9fc8d91f7",
       "source": "MarTech",
       "headline": "Retailer data can sharpen social. It can also inflate the bill.",
@@ -480,16 +499,54 @@
       "appearances": 1
     },
     {
-      "id": "7930300f7248d501",
-      "source": "BBC World",
-      "headline": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg",
-      "published": "Thu, 12 Nov 2026 16:52:53 GMT",
+      "id": "fa0429fda0192559",
+      "source": "Wisconsin News",
+      "headline": "Perkins and Conger announced as Big Ten Jackie Robinson Award honorees - Wisconsin Badgers",
+      "summary": "Perkins and Conger announced as Big Ten Jackie Robinson Award honorees Wisconsin Badgers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOam5UWFlDNU5sTWR0ckxRMHA5aC1kZlN3RkIyVG5NUF9lQ281Zmp2VDNaamotZW5pWGJMSVFOWF96MDZISDY3LTJJdnBxWUo2Ul94SWJvUjU2aWgwV0NuZFFYd0d3YnBfajdlNTBMaGFISWotUWhMWXpFR3dhWnIxdkxOamVaQmdVSnVuWFdNYlFBRXFqa01VQUltTzRXaFl6Q2l0MmZBNGdoLVk0ZUh2bl9DTUZpMVli?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOam5UWFlDNU5sTWR0ckxRMHA5aC1kZlN3RkIyVG5NUF9lQ281Zmp2VDNaamotZW5pWGJMSVFOWF96MDZISDY3LTJJdnBxWUo2Ul94SWJvUjU2aWgwV0NuZFFYd0d3YnBfajdlNTBMaGFISWotUWhMWXpFR3dhWnIxdkxOamVaQmdVSnVuWFdNYlFBRXFqa01VQUltTzRXaFl6Q2l0MmZBNGdoLVk0ZUh2bl9DTUZpMVli",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 18:02:57 GMT",
       "sections": [
-        "must-know"
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "13bd641fb166be99",
+      "source": "AI News",
+      "headline": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 18:26:38 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "d545fdc617b9aefd",
+      "source": "The Verge",
+      "headline": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "image": "",
+      "published": "2026-11-12T13:06:54-05:00",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -518,25 +575,6 @@
       "appearances": 1
     },
     {
-      "id": "15c28179b2dc3ec9",
-      "source": "The Verge",
-      "headline": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "image": "",
-      "published": "2026-11-12T10:01:31-05:00",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "b6766d1eb2938f96",
       "source": "BBC Science",
       "headline": "Nurdle impact to be researched for a year",
@@ -547,6 +585,44 @@
       "published": "Thu, 12 Nov 2026 11:38:35 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "f19eed12f3ab7052",
+      "source": "BBC US & Canada",
+      "headline": "New York Mayor Mamdani praises 'heroism' of building collapse responders",
+      "summary": "\"People are alive today due to their heroism yesterday,\" Mamdani tells reporters at a news conference.",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg2lkv0lz9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/cmvg2lkv0lz9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84bc/live/59a6a3a0-dec6-11f1-b441-2b33b063138f.jpg",
+      "published": "Thu, 12 Nov 2026 18:26:54 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "925495e127c626a7",
+      "source": "Ars Technica",
+      "headline": "Netflix releases new trailer for Ray Gunn",
+      "summary": "\"It's hard being the only honest players in a crooked game.\"",
+      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "canonical_url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
+      "published": "Thu, 12 Nov 2026 18:38:38 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-12"
@@ -575,16 +651,35 @@
       "appearances": 1
     },
     {
-      "id": "18cc07e566ce4ee5",
-      "source": "Wisconsin Public Radio",
-      "headline": "La Crosse, Eau Claire voters approve new committees focused on healthcare costs",
-      "summary": "Both cities will now have Citizens' Advisory Healthcare Action Committees, which are tasked with \"collecting public testimony, reviewing data, and evaluating policy impacts\" around healthcare accessibility.",
-      "url": "https://www.wpr.org/news/la-crosse-eau-claire-voters-approve-committees-focused-healthcare-costs",
-      "canonical_url": "https://www.wpr.org/news/la-crosse-eau-claire-voters-approve-committees-focused-healthcare-costs",
+      "id": "b0ebc3e0bd3df3f9",
+      "source": "Dane County",
+      "headline": "MATC dean named CEO of Boys & Girls Clubs of Dane County - Wisconsin State Journal",
+      "summary": "MATC dean named CEO of Boys & Girls Clubs of Dane County Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalVQV3J0SV95YXFxZGRiRE9GNjJVeHIteTdIclE4VmxicFZBYUNOdnhfcW0tRnhvcEJFX1k1cXczemJUWDN6THlMOUd6emVwX1U3UHlab2w5ZTFmMFNkYnJ3b3NTRHp6ZG5HOU0xS1Z0M2dqZEJCNFlweHNIWGt4UmVsLVF1Ymc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalVQV3J0SV95YXFxZGRiRE9GNjJVeHIteTdIclE4VmxicFZBYUNOdnhfcW0tRnhvcEJFX1k1cXczemJUWDN6THlMOUd6emVwX1U3UHlab2w5ZTFmMFNkYnJ3b3NTRHp6ZG5HOU0xS1Z0M2dqZEJCNFlweHNIWGt4UmVsLVF1Ymc",
       "image": "",
-      "published": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "published": "Thu, 12 Nov 2026 18:19:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "588bfac0a6020513",
+      "source": "Ars Technica",
+      "headline": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "canonical_url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
+      "published": "Thu, 12 Nov 2026 18:17:19 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -601,7 +696,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c",
       "image": "",
-      "published": "Thu, 12 Nov 2026 16:53:00 GMT",
+      "published": "Thu, 12 Nov 2026 18:28:00 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -661,25 +756,6 @@
       "published": "Thu, 12 Nov 2026 17:30:45 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "b99645adcdd89c09",
-      "source": "Variety",
-      "headline": "Industry Trio Launch Distinkt, AI-Powered Agency for Global Talent (EXCLUSIVE)",
-      "summary": "Distinkt, a talent firm built for a large population of unrepresented creators and clients around the world, has launched out of Los Angeles and London. The agency will use AI workflows and human agents to connect actors, directors, producers, editors. photographers and digital creatives with opportunities in key markets. Distinkt is up and running with",
-      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
-      "canonical_url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg",
-      "published": "Thu, 12 Nov 2026 17:20:00 +0000",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -784,16 +860,16 @@
       "appearances": 1
     },
     {
-      "id": "e78feb87045092b3",
-      "source": "BBC Entertainment",
-      "headline": "How much art does your council own and is it locked away or on display?",
-      "summary": "More than 500,000 pieces of art are owned by 225 councils, the BBC finds, but most of it is storage.",
-      "url": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/d80fb770-de73-11f1-9115-cfe6d179af3a.jpg",
-      "published": "Thu, 12 Nov 2026 14:43:38 GMT",
+      "id": "63360144c2a1830a",
+      "source": "Reuters",
+      "headline": "How far will the ECB go to rescue France? | Macro Matters - Reuters",
+      "summary": "How far will the ECB go to rescue France? | Macro Matters Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 16:18:20 GMT",
       "sections": [
-        "entertainment"
+        "animals"
       ],
       "report_dates": [
         "2026-11-12"
@@ -803,16 +879,16 @@
       "appearances": 1
     },
     {
-      "id": "a2085c864bb01841",
-      "source": "Animals",
-      "headline": "How drunk raccoon found in bathroom raises $290K for animal shelter - The Independent",
-      "summary": "How drunk raccoon found in bathroom raises $290K for animal shelter The Independent",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWZVVmMwTFdicFdhUUZST2ZvdTA1Z3lLOHdqTTI4N3VBNENXTmJSLVlUYms3M2s0UmViWGhPY2JZc2JUZXltTVVoOEZqUG9LSjJ5dGpPVUxOdGF3ZEhkTGdQTEE5cUM3Ym5MLUVobV9BcnJzVUZfNWI5Vkl2MjdPaDg1MEZfOGJxM01KNjQwXzE4ZnZJWTJiRmx2LVVQcUhONmQ2ZW9CYUJyOHp1TjlpR19VaXk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWZVVmMwTFdicFdhUUZST2ZvdTA1Z3lLOHdqTTI4N3VBNENXTmJSLVlUYms3M2s0UmViWGhPY2JZc2JUZXltTVVoOEZqUG9LSjJ5dGpPVUxOdGF3ZEhkTGdQTEE5cUM3Ym5MLUVobV9BcnJzVUZfNWI5Vkl2MjdPaDg1MEZfOGJxM01KNjQwXzE4ZnZJWTJiRmx2LVVQcUhONmQ2ZW9CYUJyOHp1TjlpR19VaXk",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 16:13:00 GMT",
+      "id": "7930300f7248d501",
+      "source": "BBC World",
+      "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
+      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
       "sections": [
-        "quick-scan"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-12"
@@ -832,44 +908,6 @@
       "published": "Thu, 12 Nov 2026 14:50:17 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "43aa90c5faabb117",
-      "source": "Good News Network",
-      "headline": "Good News in History, November 12",
-      "summary": "46 years ago today, NASA’s Voyager 1 probe arrived at Saturn and beamed back the first images ever taken of its rings. It arrived at our solar system’s second-largest planet via a gravitational assist trajectory at Jupiter which was replicated with Voyager 2. On November 12th, when the space probe came within 77,000 miles of Saturn’s",
-      "url": "https://www.goodnewsnetwork.org/events061112/",
-      "canonical_url": "https://www.goodnewsnetwork.org/events061112",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 08:00:00 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "1f73a681d4246b56",
-      "source": "Mongabay",
-      "headline": "Genetic study describes two new species of Amazonian howler monkeys - news - Mongabay",
-      "summary": "Genetic study describes two new species of Amazonian howler monkeys news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTm5qRk5GeTFNQXV6NTBuWElQWWNTNjYwY3VYN3FiNlZOR0I2VEllTEJIcV9UR293LXNmSjl6dzNoSFJHUE5oblVZdGZmTDRFUWxFVklGVDFwVFdEeUVvUGtpRGhTNmNWUzh4WDlHQ0wxTFIyNkxBUlBDYW1INGY5UDY2OXZ6aUF2bVdGQUVpVVFveFJpd2lTRmEzWGNhQjlzMnB6Wm5RZVB0UXBU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTm5qRk5GeTFNQXV6NTBuWElQWWNTNjYwY3VYN3FiNlZOR0I2VEllTEJIcV9UR293LXNmSjl6dzNoSFJHUE5oblVZdGZmTDRFUWxFVklGVDFwVFdEeUVvUGtpRGhTNmNWUzh4WDlHQ0wxTFIyNkxBUlBDYW1INGY5UDY2OXZ6aUF2bVdGQUVpVVFveFJpd2lTRmEzWGNhQjlzMnB6Wm5RZVB0UXBU",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 11:17:32 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-11-12"
@@ -962,9 +1000,28 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWt1eE5HbzdyUlJyMmN3NW1IVTZhQ3ZtTHdVOElOMmp2Ukk4S1ZsaUg2MHZfLTRtNFZiUWdrdmlfN0FObHIxTkNpcDVWbHNPLXRpS1VvOFJ6ZUg1QUk4VnE5cFdEcTFmYUxxa3A0dGUzX3VQejRhY18xbHNhbE1jT0FhNXBFUnlSS2Fnc1NnS19hQm45Q0lNeUNvNFdrS1BBeFBURmdZN1dFblYxZVZpT3ZCQjMzU1VJa2E4?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWt1eE5HbzdyUlJyMmN3NW1IVTZhQ3ZtTHdVOElOMmp2Ukk4S1ZsaUg2MHZfLTRtNFZiUWdrdmlfN0FObHIxTkNpcDVWbHNPLXRpS1VvOFJ6ZUg1QUk4VnE5cFdEcTFmYUxxa3A0dGUzX3VQejRhY18xbHNhbE1jT0FhNXBFUnlSS2Fnc1NnS19hQm45Q0lNeUNvNFdrS1BBeFBURmdZN1dFblYxZVZpT3ZCQjMzU1VJa2E4",
       "image": "",
-      "published": "Thu, 12 Nov 2026 17:00:27 GMT",
+      "published": "Thu, 12 Nov 2026 17:32:38 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "fb11e6600902ddce",
+      "source": "Animals",
+      "headline": "Drunk raccoon helps raise astonishing amount for animal shelter: ‘Couldn’t believe it’ - AL.com",
+      "summary": "Drunk raccoon helps raise astonishing amount for animal shelter: ‘Couldn’t believe it’ AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlF0Sjd0UVN6cl9Ma1NtNjlLaVdzUTN4Sl9RMmtiYThCSGR6aTNTU0xRa3k0VWlxdU5SaDRud1dLUlFhcXlybnhOcEtLaFpPMGZDWHpsOExZODZ4YnpHaThEdmtjcDVrV2g5MDVObTYtcXltRE9MQXFhN2V2MUkwZk5qUl9iX1M4V3JBNXZXcHc2RGlPRDFHekpLcnJOekQ0a2tPLS0yZ3U0czJXYldMRG9EbmNKQkU4ZDd30gHPAUFVX3lxTE41RWY3Q1FGTlFtQTJCRGFhS3FlQ2JxTzU4Y2JYeHpxb1RfQ1F5dmhSVzlERTdMNTd0NGZkbk1kWUMwNHltaUtmQng0NXhSSEVjRTBJLWs3WXI0dkhqSnJISVhQNks1QzEyRWctTG9CWjc4TlgzbDduUzRPYWlwWjBJQXQ3aHhmZTljNWNfY0QzNzJtaTNmcEZpV3F1dlEyVUVfUDR6enl5cFRPWHJOeUVKRmZHRnd5eXVsLWZPSmN0VEhtQkZnTms5TFgweWJJMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlF0Sjd0UVN6cl9Ma1NtNjlLaVdzUTN4Sl9RMmtiYThCSGR6aTNTU0xRa3k0VWlxdU5SaDRud1dLUlFhcXlybnhOcEtLaFpPMGZDWHpsOExZODZ4YnpHaThEdmtjcDVrV2g5MDVObTYtcXltRE9MQXFhN2V2MUkwZk5qUl9iX1M4V3JBNXZXcHc2RGlPRDFHekpLcnJOekQ0a2tPLS0yZ3U0czJXYldMRG9EbmNKQkU4ZDd30gHPAUFVX3lxTE41RWY3Q1FGTlFtQTJCRGFhS3FlQ2JxTzU4Y2JYeHpxb1RfQ1F5dmhSVzlERTdMNTd0NGZkbk1kWUMwNHltaUtmQng0NXhSSEVjRTBJLWs3WXI0dkhqSnJISVhQNks1QzEyRWctTG9CWjc4TlgzbDduUzRPYWlwWjBJQXQ3aHhmZTljNWNfY0QzNzJtaTNmcEZpV3F1dlEyVUVfUDR6enl5cFRPWHJOeUVKRmZHRnd5eXVsLWZPSmN0VEhtQkZnTms5TFgweWJJMA",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 18:45:00 GMT",
+      "sections": [
+        "animals"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1012,6 +1069,25 @@
       "appearances": 1
     },
     {
+      "id": "83b3a59d75423a10",
+      "source": "Ars Technica",
+      "headline": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "summary": "\"We're not doing this thing because we like rockets.\"",
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "canonical_url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
+      "published": "Thu, 12 Nov 2026 18:28:22 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "420e71e405cc074e",
       "source": "BBC World",
       "headline": "British woman missing from cruise ship in Atlantic",
@@ -1021,7 +1097,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
       "published": "Thu, 12 Nov 2026 10:13:35 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1041,44 +1117,6 @@
       "published": "Thu, 12 Nov 2026 12:30:42 +0000",
       "sections": [
         "wonderful"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "5e8eb202dd557a21",
-      "source": "Dane County",
-      "headline": "Boys & Girls Clubs of Dane County names Dr. Leslie M. Petty new CEO - Madison365",
-      "summary": "Boys & Girls Clubs of Dane County names Dr. Leslie M. Petty new CEO Madison365",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUEtUXhFWENyaFJqMllWTHVYRGMxQU5fb3BwcDRTSDJQRGtMTWpnaHVwdlNqaEdYMXN0T0c5TUthY1UxeW5JeFN4TngxSFhNQmFwTWk0U2FGbzVZaFVMNlZaX1U3TlZtR2ZQOUtOQkgwNlIxRnk4dk1uQ05uOXhyb0tKZ1c2V1RKZjUwN0xQVVM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUEtUXhFWENyaFJqMllWTHVYRGMxQU5fb3BwcDRTSDJQRGtMTWpnaHVwdlNqaEdYMXN0T0c5TUthY1UxeW5JeFN4TngxSFhNQmFwTWk0U2FGbzVZaFVMNlZaX1U3TlZtR2ZQOUtOQkgwNlIxRnk4dk1uQ05uOXhyb0tKZ1c2V1RKZjUwN0xQVVM",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 11:55:14 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "794e6e48fb8ab1c0",
-      "source": "Dane County",
-      "headline": "Boys & Girls Club of Dane County names new president, CEO - WMSN",
-      "summary": "Boys & Girls Club of Dane County names new president, CEO WMSN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmZfckNLaVg5X2lSZHBVTnF1ejlyTmhPS3FwWmpNNDZLaXFwQmRkNGVsM3NNSHZGNU5yQ2xDSnNfZkR2WE9kSHBaR0dXdnhIZ1FDUUw5cjVyMFlXb1EzU0pqenFoTmk3a1c0aGl0Z3VfMnNPSnlqUXYtTEJTN05JQnc2Vjg1cm9GSHN3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmZfckNLaVg5X2lSZHBVTnF1ejlyTmhPS3FwWmpNNDZLaXFwQmRkNGVsM3NNSHZGNU5yQ2xDSnNfZkR2WE9kSHBaR0dXdnhIZ1FDUUw5cjVyMFlXb1EzU0pqenFoTmk3a1c0aGl0Z3VfMnNPSnlqUXYtTEJTN05JQnc2Vjg1cm9GSHN3",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 23:25:37 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1114,9 +1152,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlfdXpPdmxDaE5hVDB0bGFHUTRiWTB1T2tabVBpSTdrY3VOcFhseVVDRjJ2NXVDc1hrUFd4a21RdjF0VC10WXdZUHhheXJsQnQ5UnljVWdRYTFjbEZ2cDN0OWp0Z21zTzh4dlIxZ3ptNm1TdXB4YWt2Z0JYdmhCZEZ1NWlZNHVfcnJKUklUY1E1MmswRGxveGJrcHM0dXh5Nk5UaQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlfdXpPdmxDaE5hVDB0bGFHUTRiWTB1T2tabVBpSTdrY3VOcFhseVVDRjJ2NXVDc1hrUFd4a21RdjF0VC10WXdZUHhheXJsQnQ5UnljVWdRYTFjbEZ2cDN0OWp0Z21zTzh4dlIxZ3ptNm1TdXB4YWt2Z0JYdmhCZEZ1NWlZNHVfcnJKUklUY1E1MmswRGxveGJrcHM0dXh5Nk5UaQ",
       "image": "",
-      "published": "Thu, 12 Nov 2026 17:26:05 GMT",
+      "published": "Thu, 12 Nov 2026 17:25:22 GMT",
       "sections": [
-        "animals"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1250,44 +1288,6 @@
       "published": "Thu, 12 Nov 2026 11:00:00 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "4ef25a39ade58da7",
-      "source": "NPR",
-      "headline": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-      "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-      "canonical_url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 05:00:00 -0500",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "2c081f31e33905be",
-      "source": "Good News Network",
-      "headline": "100-Year-Old ‘Store Mom’ Surprised With Her First Birthday Party",
-      "summary": "After 100 years, Gretchen Sollo had a major first: a surprise birthday party, thrown by the Lowe’s employees she sees every day. Following a stroke, Sollo turned to the aisles of Lowe’s for her daily walk and to keep out of the weather in Bradley, Illinois. She’s since walked an estimated 1,500 miles over five",
-      "url": "https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/",
-      "canonical_url": "https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 14:07:08 +0000",
-      "sections": [
-        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
