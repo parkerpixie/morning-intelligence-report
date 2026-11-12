@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T16:19:36.277613+00:00",
+  "generated_at": "2026-11-12T17:38:08.981483+00:00",
   "edition_count": 120,
-  "story_count": 7492,
+  "story_count": 7493,
   "stories": [
     {
       "id": "90bd622a3125edf8",
@@ -15,6 +15,44 @@
       "published": "Thu, 12 Nov 2026 14:00:23 +0000",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "8de7b97ea0313796",
+      "source": "Variety",
+      "headline": "‘El Mal Padre,’ Inspired by ‘a Fear of Facing Fatherhood,’ Unpacked by Director Roberto Bueso",
+      "summary": "Roberto Bueso’s “El Mal Padre” (“The Bad Father”), a San Sebastian main competition contender sold by Film Factory, marks a tragicomic take on the mistakes of parenthood, and one son’s struggle not to repeat them. Eduard Fernández (“Marco,” 2024), a four-time Goya winner and recent recipient of Spain’s National Cinematography Award, plays Santiago Balmes, a",
+      "url": "https://variety.com/2026/film/global/el-mal-padre-eduard-fernandez-roberto-bueso-film-factory-1236944257/",
+      "canonical_url": "https://variety.com/2026/film/global/el-mal-padre-eduard-fernandez-roberto-bueso-film-factory-1236944257",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Eduard-Fernandez-El-Mal-Padre.jpg",
+      "published": "Thu, 12 Nov 2026 17:29:36 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "192742615dc20d31",
+      "source": "Wisconsin News",
+      "headline": "Zachemski, Hrvojevic earn Big Ten Postseason awards - Wisconsin Badgers",
+      "summary": "Zachemski, Hrvojevic earn Big Ten Postseason awards Wisconsin Badgers",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDVDbVVuLUNua0JsQkV1dEJzVHhQcjBCX0tlNXZsYnZZV213bEwybHRwdXh6VXpmSjFBbS1vNkU5cHdyMzVzZDctOUpfMXVRNFVub0paQWdnYnpkZ2w1dGdidndyVWV3QXRWZk0wWFZHR1BOanVRZnhiVFRMaFM5Ui1TRTNvOWIzX2R0Wl9Cakp2TWFiVXV2VGdOSWZpZzE1c0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDVDbVVuLUNua0JsQkV1dEJzVHhQcjBCX0tlNXZsYnZZV213bEwybHRwdXh6VXpmSjFBbS1vNkU5cHdyMzVzZDctOUpfMXVRNFVub0paQWdnYnpkZ2w1dGdidndyVWV3QXRWZk0wWFZHR1BOanVRZnhiVFRMaFM5Ui1TRTNvOWIzX2R0Wl9Cakp2TWFiVXV2VGdOSWZpZzE1c0E",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 17:07:34 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-11-12"
@@ -43,25 +81,6 @@
       "appearances": 1
     },
     {
-      "id": "5a09cf618a998d6f",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin religious leaders rally to protect voting rights - News From The States",
-      "summary": "Wisconsin religious leaders rally to protect voting rights News From The States",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeloxWk50TjJuOTJkYzczUHl0aFZKRU9tUFVyWmYyejBLYVRWLXRrZmVxZTBPcGlHTGY2SmRIZjBEaUg2bzYwV2xZWkJXYWZ1bUh5bFhYQ2FNRldWZ2hmZGw1cWpSd2NOd21YZWhGeXBaWXdES0hVNFNQMU9HMUF0dGxuQ2VfVXctdDJta2luRXFSakZmYXcta2FISjhZUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeloxWk50TjJuOTJkYzczUHl0aFZKRU9tUFVyWmYyejBLYVRWLXRrZmVxZTBPcGlHTGY2SmRIZjBEaUg2bzYwV2xZWkJXYWZ1bUh5bFhYQ2FNRldWZ2hmZGw1cWpSd2NOd21YZWhGeXBaWXdES0hVNFNQMU9HMUF0dGxuQ2VfVXctdDJta2luRXFSakZmYXcta2FISjhZUQ",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 08:41:34 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "7c34bf724c8c10d6",
       "source": "Wisconsin Watch",
       "headline": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day. - Wisconsin Watch",
@@ -72,44 +91,6 @@
       "published": "Thu, 12 Nov 2026 15:00:00 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "7dd2a4ccb4c79d31",
-      "source": "Animals",
-      "headline": "Wildlife Conservation Society’s Bronx Zoo Helps to Rescue Dozens of Birds Seized from Illegal Wildlife Pet Trade at U.S.–Mexico Border - WCS Newsroom",
-      "summary": "Wildlife Conservation Society’s Bronx Zoo Helps to Rescue Dozens of Birds Seized from Illegal Wildlife Pet Trade at U.S.–Mexico Border WCS Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSHQtQUxRbk1STUxFb3hFZGlIRnpja2JRYy1iVjZzcFdWRkdPcjVSWmo4Q2VFZkFSQndKWEZOMkFfUVA5ZUdLeUN2Z0lIb0dEeVBEYlM0TWJodW9ISVZLS29VNUV1VExzUmFxTGpoS2tRYzdsMHAyWE1HQUcwdGluZ3J6QXRodkZBTVpUTHJKeFVnUzc1WnM3UHIxQ2lkLWFkVnpONG50eDNKS00wMU9MMkpveG9TUjZVVmZEUW1ITVI4blFNUHpTNU1BcXVoRlN4NnpzQWx0TzBfOHVrcFZ3dWRxRWxadkFjaVlkYUZKOTZVeVhvY3dJRnJDRTJDR1pkc3BZTkVnc0FzQ3ltbnEyRE5iNVFSOWZUeXBzYU02TmVpV0NXYVotbTF2VU1DT2twelE2QkZYVE5jdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSHQtQUxRbk1STUxFb3hFZGlIRnpja2JRYy1iVjZzcFdWRkdPcjVSWmo4Q2VFZkFSQndKWEZOMkFfUVA5ZUdLeUN2Z0lIb0dEeVBEYlM0TWJodW9ISVZLS29VNUV1VExzUmFxTGpoS2tRYzdsMHAyWE1HQUcwdGluZ3J6QXRodkZBTVpUTHJKeFVnUzc1WnM3UHIxQ2lkLWFkVnpONG50eDNKS00wMU9MMkpveG9TUjZVVmZEUW1ITVI4blFNUHpTNU1BcXVoRlN4NnpzQWx0TzBfOHVrcFZ3dWRxRWxadkFjaVlkYUZKOTZVeVhvY3dJRnJDRTJDR1pkc3BZTkVnc0FzQ3ltbnEyRE5iNVFSOWZUeXBzYU02TmVpV0NXYVotbTF2VU1DT2twelE2QkZYVE5jdw",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 11:02:36 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "fbc14e5f6ea51acf",
-      "source": "BBC Technology",
-      "headline": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-      "published": "Thu, 12 Nov 2026 15:26:39 GMT",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -195,54 +176,35 @@
       "appearances": 1
     },
     {
-      "id": "7ee65d1ae7eb3dea",
-      "source": "BBC Technology",
-      "headline": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Thu, 12 Nov 2026 16:02:10 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "ccf1c9625cdc880f",
-      "source": "The Verge",
-      "headline": "The pricey new Apple TV 4K is still the best streamer around",
-      "summary": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies through the room. There",
-      "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
-      "canonical_url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
-      "image": "",
-      "published": "2026-11-12T09:00:00-05:00",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "272e9af6a64a699d",
+      "id": "cb3da9324bc44a1c",
       "source": "Taylor Fashion",
-      "headline": "Taylor Swift Poses in Festive Red With Husband Travis Kelce for a Meaningful Cause - InStyle",
-      "summary": "Taylor Swift Poses in Festive Red With Husband Travis Kelce for a Meaningful Cause InStyle",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0JRamZpZHQ5cG4xN18zMS0wRFZvSmJPZXluc2NYMHVYYnFCVE9JczN4Q2V0WFpYRUZzTDc5VkVTZ25kNnZVVkJfeklsUzFSaUQ3ZW4tOHNsblhSc2lmSWtOOEt4RWJfZG02bHREN0dVdFdMOWt6MXpEeTQ1SnhTQ3pIVWNPdnZFUFFiTXlBa2p0WkFPa3V3ZlQtZ2lyQlFHeEtfZFhlcXhVYjR0dEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0JRamZpZHQ5cG4xN18zMS0wRFZvSmJPZXluc2NYMHVYYnFCVE9JczN4Q2V0WFpYRUZzTDc5VkVTZ25kNnZVVkJfeklsUzFSaUQ3ZW4tOHNsblhSc2lmSWtOOEt4RWJfZG02bHREN0dVdFdMOWt6MXpEeTQ1SnhTQ3pIVWNPdnZFUFFiTXlBa2p0WkFPa3V3ZlQtZ2lyQlFHeEtfZFhlcXhVYjR0dEE",
+      "headline": "The Latest Look at Taylor Swift’s Off-Duty Style Comes With a New Detail About Her Wedding - ELLE",
+      "summary": "The Latest Look at Taylor Swift’s Off-Duty Style Comes With a New Detail About Her Wedding ELLE",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2NNOENvNi1mSVdTYkJXUFJIR2RMSUM5VFVPMC1LRjI3d2xNS3psb3hLQnU3cUMzMlFlakFzTi1xMmxwd3YyVGwwMHd1QlRqTTdnYkNmUC1IMWhoRVQycEZyNFpYMy0wbDJ6SnRNV2hDYVJvSGNnWW90QjVvQjd5YjREU1lmbi1ud2hiUDJDazdnNmNycFJscDhDNGpQYV9ZTGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2NNOENvNi1mSVdTYkJXUFJIR2RMSUM5VFVPMC1LRjI3d2xNS3psb3hLQnU3cUMzMlFlakFzTi1xMmxwd3YyVGwwMHd1QlRqTTdnYkNmUC1IMWhoRVQycEZyNFpYMy0wbDJ6SnRNV2hDYVJvSGNnWW90QjVvQjd5YjREU1lmbi1ud2hiUDJDazdnNmNycFJscDhDNGpQYV9ZTGc",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:52:55 GMT",
+      "published": "Thu, 12 Nov 2026 17:07:00 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "9ec53114f601ed4c",
+      "source": "Ars Technica",
+      "headline": "The amazing disappearing exoplanet",
+      "summary": "An exoplanet seems to stopped transiting in front of its host star.",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "canonical_url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
+      "published": "Thu, 12 Nov 2026 17:18:10 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -347,6 +309,25 @@
       "appearances": 1
     },
     {
+      "id": "c5db485a7b97c1ca",
+      "source": "Adweek",
+      "headline": "Shopify Celebrates the Power of an Idea in First Mother LA Campaign - ADWEEK",
+      "summary": "Shopify Celebrates the Power of an Idea in First Mother LA Campaign ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWU9uaFljTk9Zc0VEN3BQWWY2eXkySS04WDRWd0ZYRldXcTVlS2sxVVVOQ0FLc0pMa2xZYnJKRjJyN0VGVzZWVTJ4U09sUjJqTkR5UlowbVlJOFRSQ0FiTDd3UnRXTmUyamQtOFNCMXFPT0JmTGhBWGxNRDJ5eGZmaTNKbVZ3a1ZRbExYLUhlTzhKN3I2SmdTVHE5VWNiUXN6X2E3YTgtNzJoY0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWU9uaFljTk9Zc0VEN3BQWWY2eXkySS04WDRWd0ZYRldXcTVlS2sxVVVOQ0FLc0pMa2xZYnJKRjJyN0VGVzZWVTJ4U09sUjJqTkR5UlowbVlJOFRSQ0FiTDd3UnRXTmUyamQtOFNCMXFPT0JmTGhBWGxNRDJ5eGZmaTNKbVZ3a1ZRbExYLUhlTzhKN3I2SmdTVHE5VWNiUXN6X2E3YTgtNzJoY0E",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 17:00:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "9b168d75822f4f13",
       "source": "National Geographic Wildlife",
       "headline": "Scientists Detect Microplastics in Animals From Brazil’s Most Pristine Wetland - National Geographic",
@@ -354,7 +335,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX21SNkhvNm5GQlo1TnUwNE1SQzdIajhmZFVaVFp5R05XdDNrRllYMkpmRmstVjZwQm9kd1BybTlRY1I1Qm5PTGVBNTBVb3pldjdzUnVmc3VLMS1qQ2hfaC1kRHNrQXZqakVmRU10VUM1QS03M0xvU1NBbURyTnRpNmtNMkQxdHNZUXVybXhNR0FtRWZoU20wY0VacUFnejdNZDFCZnA5U243dDNLRnVvVWxB?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX21SNkhvNm5GQlo1TnUwNE1SQzdIajhmZFVaVFp5R05XdDNrRllYMkpmRmstVjZwQm9kd1BybTlRY1I1Qm5PTGVBNTBVb3pldjdzUnVmc3VLMS1qQ2hfaC1kRHNrQXZqakVmRU10VUM1QS03M0xvU1NBbURyTnRpNmtNMkQxdHNZUXVybXhNR0FtRWZoU20wY0VacUFnejdNZDFCZnA5U243dDNLRnVvVWxB",
       "image": "",
-      "published": "Thu, 12 Nov 2026 16:02:43 GMT",
+      "published": "Thu, 12 Nov 2026 16:32:19 GMT",
       "sections": [
         "animals"
       ],
@@ -500,13 +481,13 @@
     },
     {
       "id": "7930300f7248d501",
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "headline": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+      "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg",
-      "published": "Thu, 12 Nov 2026 11:24:47 GMT",
+      "published": "Thu, 12 Nov 2026 16:52:53 GMT",
       "sections": [
         "must-know"
       ],
@@ -528,25 +509,6 @@
       "published": "Wed, 11 Nov 2026 19:32:59 +0000",
       "sections": [
         "wonderful"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "426b199762db8714",
-      "source": "The Verge",
-      "headline": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "image": "",
-      "published": "2026-11-12T08:53:16-05:00",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -613,44 +575,6 @@
       "appearances": 1
     },
     {
-      "id": "a2c1147a875df083",
-      "source": "Medical Xpress",
-      "headline": "Mapping the marmoset's deep-brain cell diversity and building a tool to integrate data across species - Medical Xpress",
-      "summary": "Mapping the marmoset's deep-brain cell diversity and building a tool to integrate data across species Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0xpdFJBWExVQndlTmtpQkhZeFVIUW9ObG10MTJzN3pDOWZVa1I1NTZWWUUyVXE0YzZ2MW1JMVZrTzNYdk5PTWtucGxWY0Q2TzduMlB2QWRHSTgxTmc2VWpid3Q2cGJDdjlMYVlpWVRaY1k0Y1NzbkllYm9jbG9VYS1uSUc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0xpdFJBWExVQndlTmtpQkhZeFVIUW9ObG10MTJzN3pDOWZVa1I1NTZWWUUyVXE0YzZ2MW1JMVZrTzNYdk5PTWtucGxWY0Q2TzduMlB2QWRHSTgxTmc2VWpid3Q2cGJDdjlMYVlpWVRaY1k0Y1NzbkllYm9jbG9VYS1uSUc",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 16:01:31 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "d963b6ebed1e6fc5",
-      "source": "Animals",
-      "headline": "LOOK: Three threatened Northern Philippine giant cloud rats were spotted foraging at night in Ampucao, Itogon, Benguet, last Nov. 10. Video uploader Conz Asmin urged residents not to hunt…",
-      "summary": "LOOK: Three threatened Northern Philippine giant cloud rats were spotted foraging at night in Ampucao, Itogon, Benguet, last Nov. 10. Video uploader Conz Asmin urged residents not to hunt the animals. The species faces threats from habitat destruction, illeg Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFZPcWNEaXY2dTFQNTV1cEpQbFVfZk5rRUtuUFBrQTBEU2FBR1ZSejFoNDgyRGJlMTQyYmZQdUhKU1hsOU9hRkZXb25qb2tiUWVZc1JuRllWV0RFb2dveWZnZUJuUnJNSkZpcVI3OFQ1S2JyYWZkcm96Y3FlamdTcjRNdW9mR3M0YnMydHlrX1I2Q19XUTlhaVZ2TzI5MmdwQkVib3B3SXE2TnB0cDl0SlFWbEwxUER3Q2REWHU2M2d2TUV6TmVEQ0YxNjFvbHd2ZEFF?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFZPcWNEaXY2dTFQNTV1cEpQbFVfZk5rRUtuUFBrQTBEU2FBR1ZSejFoNDgyRGJlMTQyYmZQdUhKU1hsOU9hRkZXb25qb2tiUWVZc1JuRllWV0RFb2dveWZnZUJuUnJNSkZpcVI3OFQ1S2JyYWZkcm96Y3FlamdTcjRNdW9mR3M0YnMydHlrX1I2Q19XUTlhaVZ2TzI5MmdwQkVib3B3SXE2TnB0cDl0SlFWbEwxUER3Q2REWHU2M2d2TUV6TmVEQ0YxNjFvbHd2ZEFF",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 11:03:15 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "18cc07e566ce4ee5",
       "source": "Wisconsin Public Radio",
       "headline": "La Crosse, Eau Claire voters approve new committees focused on healthcare costs",
@@ -670,6 +594,44 @@
       "appearances": 1
     },
     {
+      "id": "e02272661baabc1e",
+      "source": "Associated Press",
+      "headline": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair - AP News",
+      "summary": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 16:53:00 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "1d250e9233fe0f75",
+      "source": "The Verge",
+      "headline": "Jensen Huang is out. What did China want from him?",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "canonical_url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "image": "",
+      "published": "2026-11-12T11:30:00-05:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "097fc4f244c4543f",
       "source": "BBC World",
       "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
@@ -677,9 +639,47 @@
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
-      "published": "Thu, 12 Nov 2026 14:27:30 GMT",
+      "published": "Thu, 12 Nov 2026 16:54:12 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "e2c00672938c61f7",
+      "source": "Salesforce",
+      "headline": "Is ZETA a Buy as Growth Surges While Its Valuation Stays Expensive? - TradingView",
+      "summary": "Is ZETA a Buy as Growth Surges While Its Valuation Stays Expensive? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlNORjY1RXZhcUx0R3VOWWpsOWZDeDl4ZmNMaS1GeG1hTjE1aG5XakNvUkRCTFpDWW1GdEVmX1p1MG9kNGx4Z2NYckp4MTBtV3RqYmZDQmJfbHk0QVM1UlZPU195eS1VQUFCeGpocE5Td2N0OG1OTjI2eHJkU3hsUDY5SGdJTVlFV29EN0lCb25ocTlZdHllNGY4ZFBqYzNFLW1lS0ZXclNFR1J5QmItODZ1cU5NZEJaTk5hOXR4SQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlNORjY1RXZhcUx0R3VOWWpsOWZDeDl4ZmNMaS1GeG1hTjE1aG5XakNvUkRCTFpDWW1GdEVmX1p1MG9kNGx4Z2NYckp4MTBtV3RqYmZDQmJfbHk0QVM1UlZPU195eS1VQUFCeGpocE5Td2N0OG1OTjI2eHJkU3hsUDY5SGdJTVlFV29EN0lCb25ocTlZdHllNGY4ZFBqYzNFLW1lS0ZXclNFR1J5QmItODZ1cU5NZEJaTk5hOXR4SQ",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 17:30:45 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "b99645adcdd89c09",
+      "source": "Variety",
+      "headline": "Industry Trio Launch Distinkt, AI-Powered Agency for Global Talent (EXCLUSIVE)",
+      "summary": "Distinkt, a talent firm built for a large population of unrepresented creators and clients around the world, has launched out of Los Angeles and London. The agency will use AI workflows and human agents to connect actors, directors, producers, editors. photographers and digital creatives with opportunities in key markets. Distinkt is up and running with",
+      "url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168/",
+      "canonical_url": "https://variety.com/2026/film/news/distinkt-talent-agency-ai-actors-clients-1236946168",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Unknown_a9cd6c.jpeg",
+      "published": "Thu, 12 Nov 2026 17:20:00 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -706,27 +706,6 @@
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "appearances": 1
-    },
-    {
-      "id": "f57f8322ed7afed7",
-      "source": "BBC World",
-      "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
-      "published": "Thu, 12 Nov 2026 08:46:57 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12",
-        "2026-11-11"
-      ],
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "appearances": 2
     },
     {
       "id": "6a8a02d3c47124aa",
@@ -805,25 +784,6 @@
       "appearances": 1
     },
     {
-      "id": "972182eb5501fde5",
-      "source": "Customer Data",
-      "headline": "How Siemens, Emerson, IDEC and Weidmuller modernize SCADA - MarketScale",
-      "summary": "How Siemens, Emerson, IDEC and Weidmuller modernize SCADA MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGZCVEthM2VaR0kzS0hNTjFRbk9LRlFGLTFRUmhELWk1NlBTWGhPbjRfYU5DU1paLTFra3lmRk1NWGxlSlhwRVhEVmtnSlpfZXRROXRqR0hURUZaRVBEcjlCbHRwV3hEOFhrLThuLWNNWXM4NzBQSHFNT25UY3FTX3lRVWx6VzRLN0tmX2xKUlpaSWRmbjE5dHR1R2YtTUM5S3E2TmloajNsc2hhV2VNdjZZMEl1RWpMeDdYUVNmTDJMMm45WXUxQWZUZk8?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGZCVEthM2VaR0kzS0hNTjFRbk9LRlFGLTFRUmhELWk1NlBTWGhPbjRfYU5DU1paLTFra3lmRk1NWGxlSlhwRVhEVmtnSlpfZXRROXRqR0hURUZaRVBEcjlCbHRwV3hEOFhrLThuLWNNWXM4NzBQSHFNT25UY3FTX3lRVWx6VzRLN0tmX2xKUlpaSWRmbjE5dHR1R2YtTUM5S3E2TmloajNsc2hhV2VNdjZZMEl1RWpMeDdYUVNmTDJMMm45WXUxQWZUZk8",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 11:55:00 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "e78feb87045092b3",
       "source": "BBC Entertainment",
       "headline": "How much art does your council own and is it locked away or on display?",
@@ -843,16 +803,16 @@
       "appearances": 1
     },
     {
-      "id": "6dfd7bf104774413",
-      "source": "Variety",
-      "headline": "Hollywood’s Next Big Deal: Will Netflix Make an M&A Play for NBCU?",
-      "summary": "David Ellison has knocked out Warner Bros. Discovery, merging it with Paramount into the new Skydance Corp. Now the chatter around town is about the industry’s next megamerger. In the current landscape, only one media company of considerable size could be ripe for a takeover: NBCUniversal. Following its planned spinoff from Comcast in mid-2027, NBCU",
-      "url": "https://variety.com/2026/tv/news/will-netflix-make-acquisition-move-nbcuniversal-spinoff-1236946048/",
-      "canonical_url": "https://variety.com/2026/tv/news/will-netflix-make-acquisition-move-nbcuniversal-spinoff-1236946048",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Mergers-Slot-Machine.jpg",
-      "published": "Thu, 12 Nov 2026 15:30:00 +0000",
+      "id": "a2085c864bb01841",
+      "source": "Animals",
+      "headline": "How drunk raccoon found in bathroom raises $290K for animal shelter - The Independent",
+      "summary": "How drunk raccoon found in bathroom raises $290K for animal shelter The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWZVVmMwTFdicFdhUUZST2ZvdTA1Z3lLOHdqTTI4N3VBNENXTmJSLVlUYms3M2s0UmViWGhPY2JZc2JUZXltTVVoOEZqUG9LSjJ5dGpPVUxOdGF3ZEhkTGdQTEE5cUM3Ym5MLUVobV9BcnJzVUZfNWI5Vkl2MjdPaDg1MEZfOGJxM01KNjQwXzE4ZnZJWTJiRmx2LVVQcUhONmQ2ZW9CYUJyOHp1TjlpR19VaXk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWZVVmMwTFdicFdhUUZST2ZvdTA1Z3lLOHdqTTI4N3VBNENXTmJSLVlUYms3M2s0UmViWGhPY2JZc2JUZXltTVVoOEZqUG9LSjJ5dGpPVUxOdGF3ZEhkTGdQTEE5cUM3Ym5MLUVobV9BcnJzVUZfNWI5Vkl2MjdPaDg1MEZfOGJxM01KNjQwXzE4ZnZJWTJiRmx2LVVQcUhONmQ2ZW9CYUJyOHp1TjlpR19VaXk",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 16:13:00 GMT",
       "sections": [
-        "entertainment"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -919,25 +879,6 @@
       "appearances": 1
     },
     {
-      "id": "c9f26db638e0cbc1",
-      "source": "Variety",
-      "headline": "Gal Gadot Says Skydance Co-CEO Ynon Kreiz ‘Gives Me Hope’ Against Antisemitism: ‘I’m Frightened by How Quickly Hatred of Jews Is Spreading’",
-      "summary": "Gal Gadot held back tears while honoring Skydance co-CEO Ynon Kreiz at the Simon Wiesenthal Center’s Humanitarian Award Dinner. The former “Wonder Woman” actor cited Kreiz as a leader she trusts amid the rise of antisemitism around the world. “I’m frightened by how quickly hatred of Jews is spreading — and how openly it is",
-      "url": "https://variety.com/2026/film/news/gal-gadot-ynon-kreiz-antisemitism-jewish-hatred-spreading-1236946059/",
-      "canonical_url": "https://variety.com/2026/film/news/gal-gadot-ynon-kreiz-antisemitism-jewish-hatred-spreading-1236946059",
-      "image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg",
-      "published": "Thu, 12 Nov 2026 16:03:50 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
       "id": "f67c5d112d2a4e19",
       "source": "BBC Health",
       "headline": "Free Sad lamps given out as disorder 'makes it hard to do anything on darker days'",
@@ -957,33 +898,14 @@
       "appearances": 1
     },
     {
-      "id": "545ce358bfdc5ba1",
-      "source": "Good News Network",
-      "headline": "For Centuries, Visitors Walked Right by 280 Unseen Ice Age Cave Paintings",
-      "summary": "The third-largest collection of Ice Age-era engravings ever found on Spain’s Mediterranean side was sitting in plain sight where visitors for centuries had been walking right by them. “For more than six decades, thousands of visitors passed directly in front of the engraved surfaces, and in some cases inscribed names and dates over them, without",
-      "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
-      "canonical_url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 19:30:10 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "4780cddb2c7d466a",
-      "source": "Audubon",
-      "headline": "Explore Bird Species - Bird Migration Explorer (Audubon)",
-      "summary": "Explore Bird Species Bird Migration Explorer (Audubon)",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYk9TOU1hay1FZXBQT09pYTVRdGZZbHFNVUpYREhCOFFkSDUyblgybWhkRnVNd0pqamZiVnpMa1JOLWNWeTg2NEM1dTdsaGlGNzhmYzVIM283WGZxSV9xWXJxeHBHNnBZYjNEMjZYWU5HR29JVmFpS2pQWXZWZUM0aTJhakFCcnVKWlRPRkh3S1podjY5NUg4QzExY2FHRkQzc2x4cXNXNkFzLWxreV9DdjF3aDF5U3U5M0JwUHB5Ym84U0dvMVRwU2ZkZ250dEVjVWR4RFJFZldDcXlxYmphNzdqcTZaakVOTHNxUW1Cb2t2YjNkUHpqeDVlVmphV2FoX3hlZk5B?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYk9TOU1hay1FZXBQT09pYTVRdGZZbHFNVUpYREhCOFFkSDUyblgybWhkRnVNd0pqamZiVnpMa1JOLWNWeTg2NEM1dTdsaGlGNzhmYzVIM283WGZxSV9xWXJxeHBHNnBZYjNEMjZYWU5HR29JVmFpS2pQWXZWZUM0aTJhakFCcnVKWlRPRkh3S1podjY5NUg4QzExY2FHRkQzc2x4cXNXNkFzLWxreV9DdjF3aDF5U3U5M0JwUHB5Ym84U0dvMVRwU2ZkZ250dEVjVWR4RFJFZldDcXlxYmphNzdqcTZaakVOTHNxUW1Cb2t2YjNkUHpqeDVlVmphV2FoX3hlZk5B",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 04:37:39 GMT",
+      "id": "24bd05b612e13d25",
+      "source": "BBC World",
+      "headline": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg",
+      "published": "Thu, 12 Nov 2026 11:07:19 GMT",
       "sections": [
         "animals"
       ],
@@ -1014,6 +936,25 @@
       "appearances": 1
     },
     {
+      "id": "d3df9bf62cbca22d",
+      "source": "BBC World",
+      "headline": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
+      "published": "Thu, 12 Nov 2026 13:58:49 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "1f0712c830a183e2",
       "source": "Animals",
       "headline": "Drunk raccoon’s boozy night has helped raise $290K for an animal shelter - The Washington Post",
@@ -1021,9 +962,28 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWt1eE5HbzdyUlJyMmN3NW1IVTZhQ3ZtTHdVOElOMmp2Ukk4S1ZsaUg2MHZfLTRtNFZiUWdrdmlfN0FObHIxTkNpcDVWbHNPLXRpS1VvOFJ6ZUg1QUk4VnE5cFdEcTFmYUxxa3A0dGUzX3VQejRhY18xbHNhbE1jT0FhNXBFUnlSS2Fnc1NnS19hQm45Q0lNeUNvNFdrS1BBeFBURmdZN1dFblYxZVZpT3ZCQjMzU1VJa2E4?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWt1eE5HbzdyUlJyMmN3NW1IVTZhQ3ZtTHdVOElOMmp2Ukk4S1ZsaUg2MHZfLTRtNFZiUWdrdmlfN0FObHIxTkNpcDVWbHNPLXRpS1VvOFJ6ZUg1QUk4VnE5cFdEcTFmYUxxa3A0dGUzX3VQejRhY18xbHNhbE1jT0FhNXBFUnlSS2Fnc1NnS19hQm45Q0lNeUNvNFdrS1BBeFBURmdZN1dFblYxZVZpT3ZCQjMzU1VJa2E4",
       "image": "",
-      "published": "Thu, 12 Nov 2026 16:02:38 GMT",
+      "published": "Thu, 12 Nov 2026 17:00:27 GMT",
       "sections": [
-        "animals"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "95452643f4482ddb",
+      "source": "Good News Network",
+      "headline": "Documentarian Helps 103-yo D-Day Survivor Recover His Lost War Medals–Just in Time for Veterans Day",
+      "summary": "A 103-year-old D-Day veteran was reunited with his war medals just in time for Veterans Day. The story came about through a remarkable coincidence when an amateur WWII historian came across the man’s military record and medals, and contacted the family wondering if he still had them. “They may be just a piece of metal",
+      "url": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day/",
+      "canonical_url": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 16:30:00 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1043,25 +1003,6 @@
       "published": "Thu, 12 Nov 2026 12:00:00 +0000",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "4a32187e9aeb9620",
-      "source": "NPR",
-      "headline": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-      "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-      "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-      "canonical_url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 07:15:48 -0500",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1166,6 +1107,44 @@
       "appearances": 1
     },
     {
+      "id": "4011731735cef6c5",
+      "source": "Animals",
+      "headline": "BC SPCA rescues 14 cats, severely neglected dog from Vancouver Island property - BC SPCA",
+      "summary": "BC SPCA rescues 14 cats, severely neglected dog from Vancouver Island property BC SPCA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlfdXpPdmxDaE5hVDB0bGFHUTRiWTB1T2tabVBpSTdrY3VOcFhseVVDRjJ2NXVDc1hrUFd4a21RdjF0VC10WXdZUHhheXJsQnQ5UnljVWdRYTFjbEZ2cDN0OWp0Z21zTzh4dlIxZ3ptNm1TdXB4YWt2Z0JYdmhCZEZ1NWlZNHVfcnJKUklUY1E1MmswRGxveGJrcHM0dXh5Nk5UaQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlfdXpPdmxDaE5hVDB0bGFHUTRiWTB1T2tabVBpSTdrY3VOcFhseVVDRjJ2NXVDc1hrUFd4a21RdjF0VC10WXdZUHhheXJsQnQ5UnljVWdRYTFjbEZ2cDN0OWp0Z21zTzh4dlIxZ3ptNm1TdXB4YWt2Z0JYdmhCZEZ1NWlZNHVfcnJKUklUY1E1MmswRGxveGJrcHM0dXh5Nk5UaQ",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 17:26:05 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "100a850a55f5e207",
+      "source": "Mental Health",
+      "headline": "Autism Scholars Award 2026 - Wilfrid Laurier University",
+      "summary": "Autism Scholars Award 2026 Wilfrid Laurier University",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXVCQV81QjVhdmtWdGNFZ0dvUV9MalAzenRGcktGTFZ1a2hOdG41dnJHczRndV9ZTUJDMmp2dGQxdWs1ZkRReDAyb1VUUW1UV0ZJOEpCWnpBM2Q1bnJfWC05dmttSTI2c2FERUt2aWY0bmRCUm5TUGVpOHFMRjhmeUNMNi1pQTdUSkEwLUMtSHA4THgwd0pNOFQzRDRsaDFCYUxBdUoxcVVMakpkMG03X3JBTVRYWTRjVFQzOXZhRkZ4WHFFWXlpc0xwTm1ZVWtzemlF?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXVCQV81QjVhdmtWdGNFZ0dvUV9MalAzenRGcktGTFZ1a2hOdG41dnJHczRndV9ZTUJDMmp2dGQxdWs1ZkRReDAyb1VUUW1UV0ZJOEpCWnpBM2Q1bnJfWC05dmttSTI2c2FERUt2aWY0bmRCUm5TUGVpOHFMRjhmeUNMNi1pQTdUSkEwLUMtSHA4THgwd0pNOFQzRDRsaDFCYUxBdUoxcVVMakpkMG03X3JBTVRYWTRjVFQzOXZhRkZ4WHFFWXlpc0xwTm1ZVWtzemlF",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 16:23:32 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "f127620a594c39f8",
       "source": "BBC Science",
       "headline": "Art trail celebrates arrival of black bears at zoo",
@@ -1223,6 +1202,44 @@
       "appearances": 1
     },
     {
+      "id": "c540cb7bbed5108a",
+      "source": "Variety",
+      "headline": "Andrew Garfield to Be Honored With Spotlight Award at Palm Springs International Film Awards",
+      "summary": "Andrew Garfield will be honored with the Spotlight Award, Actor, at the Palm Springs International Film Awards for his performance in “Artificial.” The awards are set to take place on Jan. 7, 2027 at the Palm Springs Convention Center, kicking off the Palm Springs International Film Festival, which runs Jan. 8 to Jan. 18. “Andrew",
+      "url": "https://variety.com/2026/film/news/andrew-garfield-palm-springs-international-film-awards-1236945687/",
+      "canonical_url": "https://variety.com/2026/film/news/andrew-garfield-palm-springs-international-film-awards-1236945687",
+      "image": "https://variety.com/wp-content/uploads/2026/11/AG-Headshot_MaartenDeBoer-.jpg",
+      "published": "Thu, 12 Nov 2026 17:30:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
+      "id": "32933935200c2839",
+      "source": "The Verge",
+      "headline": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "image": "",
+      "published": "2026-11-12T12:00:00-05:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-12"
+      ],
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "appearances": 1
+    },
+    {
       "id": "99b64b8a4aadec64",
       "source": "Wisconsin Public Radio",
       "headline": "After smooth election, Wisconsin clerks look to Legislature for long-sought changes",
@@ -1233,25 +1250,6 @@
       "published": "Thu, 12 Nov 2026 11:00:00 +0000",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-12"
-      ],
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "appearances": 1
-    },
-    {
-      "id": "fc8514ecaff3792f",
-      "source": "Associated Press",
-      "headline": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks - KSAT",
-      "summary": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks KSAT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUtpQkZwbDVONlVPRk4ySmRjSnV2NS1DTVl1UTI5SXEwY1ZuRDFqOEQwUjg3SFRWQk5pRUItaG54ZDlkeS1hV1k5RUpCYU5rdjdBajJ1aEdzMC0tN0U5LXN2TXZLeS1tb0VyaG10NUtqM1ZiYjFkUWlSYTVWWmp6b3pTY2M5V0tEOFcxWjRtVEQ0Sjh5c2p0azk4V3lPcGdoN2sxZ1JVMlAwZ1BaMFpxbm5udmVYWncxRUo2X3NOUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUtpQkZwbDVONlVPRk4ySmRjSnV2NS1DTVl1UTI5SXEwY1ZuRDFqOEQwUjg3SFRWQk5pRUItaG54ZDlkeS1hV1k5RUpCYU5rdjdBajJ1aEdzMC0tN0U5LXN2TXZLeS1tb0VyaG10NUtqM1ZiYjFkUWlSYTVWWmp6b3pTY2M5V0tEOFcxWjRtVEQ0Sjh5c2p0azk4V3lPcGdoN2sxZ1JVMlAwZ1BaMFpxbm5udmVYWncxRUo2X3NOUQ",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 15:00:30 GMT",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1289,7 +1287,7 @@
       "image": "",
       "published": "Thu, 12 Nov 2026 14:07:08 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-12"
@@ -1978,6 +1976,25 @@
       "published": "Wed, 11 Nov 2026 10:14:22 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-11"
+      ],
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "appearances": 1
+    },
+    {
+      "id": "f57f8322ed7afed7",
+      "source": "BBC World",
+      "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+      "published": "Wed, 11 Nov 2026 16:38:07 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-11"
