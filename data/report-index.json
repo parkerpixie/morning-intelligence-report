@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-11.json",
-  "report_date": "2026-11-11",
-  "generated_at": "2026-11-11T18:43:22.102839+00:00",
-  "edition_count": 119,
+  "latest": "data/archive/2026-11-12.json",
+  "report_date": "2026-11-12",
+  "generated_at": "2026-11-12T15:21:11.083814+00:00",
+  "edition_count": 120,
   "editions": [
+    {
+      "report_date": "2026-11-12",
+      "generated_at": "2026-11-12T15:21:11.083814+00:00",
+      "path": "data/archive/2026-11-12.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+        "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+        "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-11",
       "generated_at": "2026-11-11T18:43:22.102839+00:00",
