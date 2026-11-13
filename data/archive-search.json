@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T15:43:13.410630+00:00",
+  "generated_at": "2026-11-13T17:16:19.158166+00:00",
   "edition_count": 121,
-  "story_count": 7559,
+  "story_count": 7558,
   "stories": [
     {
       "id": "90bd622a3125edf8",
@@ -81,6 +81,44 @@
       "appearances": 1
     },
     {
+      "id": "4404a59fc147d6f3",
+      "source": "Wisconsin Public Radio",
+      "headline": "Wisconsin joins federal lawsuit against Hims & Hers telehealth provider",
+      "summary": "Wisconsin is joining a federal lawsuit against the telehealth provider Hims & Hers Health, which offers widely advertised direct-to-consumer treatments for hair loss, weight loss and erectile dysfunction.",
+      "url": "https://www.wpr.org/health/wisconsin-joins-federal-lawsuit-against-hims-hers-telehealth-provider",
+      "canonical_url": "https://www.wpr.org/health/wisconsin-joins-federal-lawsuit-against-hims-hers-telehealth-provider",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 16:59:40 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "bc9e424becdbff07",
+      "source": "Ars Technica",
+      "headline": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "canonical_url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "published": "Fri, 13 Nov 2026 16:26:32 +0000",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
       "id": "197c942ac2af6205",
       "source": "Audubon",
       "headline": "Willets, Warblers, and Wrens: This Year’s Bird Name Updates and Species Splits - National Audubon Society",
@@ -91,6 +129,25 @@
       "published": "Fri, 13 Nov 2026 03:11:22 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "9024dba0337b63a3",
+      "source": "BBC World",
+      "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+      "published": "Fri, 13 Nov 2026 17:12:46 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-13"
@@ -138,33 +195,14 @@
       "appearances": 1
     },
     {
-      "id": "387a1a4c8178c6ca",
+      "id": "04c521fe74c20458",
       "source": "Reuters",
-      "headline": "US denies Iran's claim that it attacked early-warning radar in Bahrain - Reuters",
-      "summary": "US denies Iran's claim that it attacked early-warning radar in Bahrain Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ",
+      "headline": "US Congress Democrats plot 'must-have' victories in 2027 - Reuters",
+      "summary": "US Congress Democrats plot 'must-have' victories in 2027 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGhnekxYN2VBbGp2T1R2em5qV2ZVQ0FHa0tYWGRGNWZqUkoySzVhdU9yRUN0TzRWSXBsaHVla0dPT0U5RTAxMUlIcUloZzhFUnJ3MTNMQWMwWGt5QVNOTWxhTloweWpOb2JXcnd6cy1oblAxenl4WmtNNXJTaHc5QU1uUDE3cU1PbUJPUGUyLVpnaUxJRUxMeTE1SGRCWjNJeUU3NFM3WQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGhnekxYN2VBbGp2T1R2em5qV2ZVQ0FHa0tYWGRGNWZqUkoySzVhdU9yRUN0TzRWSXBsaHVla0dPT0U5RTAxMUlIcUloZzhFUnJ3MTNMQWMwWGt5QVNOTWxhTloweWpOb2JXcnd6cy1oblAxenl4WmtNNXJTaHc5QU1uUDE3cU1PbUJPUGUyLVpnaUxJRUxMeTE1SGRCWjNJeUU3NFM3WQ",
       "image": "",
-      "published": "Fri, 13 Nov 2026 02:51:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "0d3ec387e439f949",
-      "source": "Reuters",
-      "headline": "US Congress Democrats Plot 'Must-Have' Victories in 2027 - U.S. News & World Report",
-      "summary": "US Congress Democrats Plot 'Must-Have' Victories in 2027 U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXhuMGtobnJmRUhlV2swcEVLaGpiMVdkTXlmMU42M1FmeVVWZk5XenV6QW9TMlRtSUJuX01wMC1USjlGdHcyTkdiV0MzVHZPejEyZkVGWjNKal8tcy1lY0NWZUpjYXdhRzNiRERualYyMEM1V3YxOFJTTXN2TVIxU2M4aEhKNnVzVUhOa2Y5MzQzTWlhb254bDR2d2JIa1pyVmlXTjd3S0g1WE9nOUtoTQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXhuMGtobnJmRUhlV2swcEVLaGpiMVdkTXlmMU42M1FmeVVWZk5XenV6QW9TMlRtSUJuX01wMC1USjlGdHcyTkdiV0MzVHZPejEyZkVGWjNKal8tcy1lY0NWZUpjYXdhRzNiRERualYyMEM1V3YxOFJTTXN2TVIxU2M4aEhKNnVzVUhOa2Y5MzQzTWlhb254bDR2d2JIa1pyVmlXTjd3S0g1WE9nOUtoTQ",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 15:09:43 GMT",
+      "published": "Fri, 13 Nov 2026 16:13:56 GMT",
       "sections": [
         "must-know"
       ],
@@ -195,14 +233,33 @@
       "appearances": 1
     },
     {
-      "id": "bde46c6768ed3599",
+      "id": "287b2cca6d4040e9",
+      "source": "Smithsonian",
+      "headline": "This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat",
+      "summary": "An intense selection process and long preparation helped set the crew up for cohabitation in a 3D-printed replication of the Red Planet's environment in Houston. There, they practiced Marswalks, disrupted communications with people on Earth and food cultivation",
+      "url": "https://www.smithsonianmag.com/smart-news/this-four-person-nasa-crew-spent-over-a-year-on-mars-heres-what-they-did-for-378-days-in-a-simulated-martian-habitat-180989862/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/this-four-person-nasa-crew-spent-over-a-year-on-mars-heres-what-they-did-for-378-days-in-a-simulated-martian-habitat-180989862",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/pEwDsEHhLuIeGsPorh3xAdVZygE=/420x240/filters:focal(3739x2493:3740x2494)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e8/a7/e8a7687d-4a03-4954-85b5-e0cdd754c4fc/jsc2026e424293orig.webp",
+      "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "c525c341d288a543",
       "source": "NPR",
-      "headline": "These swing voters have low expectations for divided government",
-      "summary": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
-      "canonical_url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+      "headline": "The Trump administration's voter roll crusade could continue",
+      "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+      "canonical_url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
       "image": "",
-      "published": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "published": "Fri, 13 Nov 2026 12:00:00 -0500",
       "sections": [
         "must-know"
       ],
@@ -214,16 +271,16 @@
       "appearances": 1
     },
     {
-      "id": "5d96793560738122",
-      "source": "BBC Technology",
-      "headline": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-      "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+      "id": "1ef0d2714d698282",
+      "source": "BBC US & Canada",
+      "headline": "The polar vortex just broke a new record but experts aren't sure what it means for this winter's weather",
+      "summary": "The polar vortex has reversed direction leading to the earliest sudden stratospheric warming on record. Will this bring an early taste of winter?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwdd8dl7830go?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/weather/articles/cwdd8dl7830go",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe6/live/cba78f30-ddd3-11f1-9053-236ccb99630c.jpg",
+      "published": "Fri, 13 Nov 2026 16:42:18 GMT",
       "sections": [
-        "ai-tech"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-13"
@@ -233,16 +290,16 @@
       "appearances": 1
     },
     {
-      "id": "1cc5026bf2e89ef8",
-      "source": "Audubon",
-      "headline": "The Platte River Does More Than Support Wildlife - National Audubon Society",
-      "summary": "The Platte River Does More Than Support Wildlife National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdF90bkZBM1ZqVVNQYkE3RFQyU3pWQVFoc3lzaDR5U1UtdVZwaEFGUW1OZHJNNmVobnBibnRFQTFzdzJaQUtMc1JFejJOaTZZeTlVU1M2TEo4VXFvYjRQaFN2OFNpa2RUMHFKRVJXelo5MV9KVGM4ZHJXUWpyUkdIc2tkdlV4RGto?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdF90bkZBM1ZqVVNQYkE3RFQyU3pWQVFoc3lzaDR5U1UtdVZwaEFGUW1OZHJNNmVobnBibnRFQTFzdzJaQUtMc1JFejJOaTZZeTlVU1M2TEo4VXFvYjRQaFN2OFNpa2RUMHFKRVJXelo5MV9KVGM4ZHJXUWpyUkdIc2tkdlV4RGto",
+      "id": "67b664462bb0ef6c",
+      "source": "The Verge",
+      "headline": "The new Apple TV has a YouTube problem",
+      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "canonical_url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
       "image": "",
-      "published": "Thu, 12 Nov 2026 18:27:50 GMT",
+      "published": "2026-11-13T11:55:57-05:00",
       "sections": [
-        "animals"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-13"
@@ -291,33 +348,14 @@
       "appearances": 1
     },
     {
-      "id": "6b7a8e4513e1a0e2",
-      "source": "Variety",
-      "headline": "Taylor Swift to Perform at CMAs for the First Time in 13 Years",
-      "summary": "Taylor Swift will perform on the CMA Awards Wednesday for the first time in 13 years, ABC and the Country Music Association announced Friday morning. Swift had already publicly declared, upon getting a CMA nomination this year, that she would attend the show, but there was no indication until now on how or whether she",
-      "url": "https://variety.com/2026/music/news/taylor-swift-to-perform-cma-awards-first-time-13-years-1236946968/",
-      "canonical_url": "https://variety.com/2026/music/news/taylor-swift-to-perform-cma-awards-first-time-13-years-1236946968",
-      "image": "https://variety.com/wp-content/uploads/2026/10/GF2_8698.jpg",
-      "published": "Fri, 13 Nov 2026 14:59:13 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "887376766adf7128",
+      "id": "12cb1cccfc935b50",
       "source": "Taylor Alert",
-      "headline": "Taylor Swift to perform at CMAs for 1st time in 13 years - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Taylor Swift to perform at CMAs for 1st time in 13 years ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVVURnJIcmZUeDhET18yY1JTYjVqTzlLZEUtNEU4R3EtZFFOb29LdlZBdUdDOHd1R1hEdWdoZ2VhZUtRRmRQLVB3UENHaTBHSmVQSUhXSk5KcnFTTlJBVldLZTZ2UnVISVFRZUl2ZjNHVUVqUzJrdk5YcEt0cldDa1o2SUJOcG5FTHdadXc5MFh6eGIzdkVDQU5R0gGfAUFVX3lxTE9FaTFQQnVtV1lqVkhHY3RVLXBvS3dVRWl3c2FUNTlRQ09uMVVRUGotakl3eE9HVVJIaWNPUFVraGJaT0twbkRPaWVvUmJpVU5vUllyX1llVFliTm9Sc1hmUGRIbk1OdTVHZXZySDA2NlNVeWptN29uNkpySXpBd0laOFRNZmVzanplZnRwV2lpUGlFcUUwbmtGdGZZbElFcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVVURnJIcmZUeDhET18yY1JTYjVqTzlLZEUtNEU4R3EtZFFOb29LdlZBdUdDOHd1R1hEdWdoZ2VhZUtRRmRQLVB3UENHaTBHSmVQSUhXSk5KcnFTTlJBVldLZTZ2UnVISVFRZUl2ZjNHVUVqUzJrdk5YcEt0cldDa1o2SUJOcG5FTHdadXc5MFh6eGIzdkVDQU5R0gGfAUFVX3lxTE9FaTFQQnVtV1lqVkhHY3RVLXBvS3dVRWl3c2FUNTlRQ09uMVVRUGotakl3eE9HVVJIaWNPUFVraGJaT0twbkRPaWVvUmJpVU5vUllyX1llVFliTm9Sc1hmUGRIbk1OdTVHZXZySDA2NlNVeWptN29uNkpySXpBd0laOFRNZmVzanplZnRwV2lpUGlFcUUwbmtGdGZZbElFcw",
+      "headline": "Taylor Swift To Perform At CMA Awards For First Time In 13 Years - Deadline",
+      "summary": "Taylor Swift To Perform At CMA Awards For First Time In 13 Years Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb21HLVBzWWEtTVBkenc1eGlZZWtucTFRY0ZqUVlRc25PZlpvOWtpbmx0bGtnU09EX1k3cGxHOE1lenFudUVMRk5teTV2VlR0dU5jRjBTeFpOcFE2aGxYaTdyem5tcjVOS0V6Q0c3Nm5xUHd4OWVtQklYRm5wb295aUQwVkVLZExuQ1BqTlA3MDh2QQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb21HLVBzWWEtTVBkenc1eGlZZWtucTFRY0ZqUVlRc25PZlpvOWtpbmx0bGtnU09EX1k3cGxHOE1lenFudUVMRk5teTV2VlR0dU5jRjBTeFpOcFE2aGxYaTdyem5tcjVOS0V6Q0c3Nm5xUHd4OWVtQklYRm5wb295aUQwVkVLZExuQ1BqTlA3MDh2QQ",
       "image": "",
-      "published": "Fri, 13 Nov 2026 13:55:54 GMT",
+      "published": "Fri, 13 Nov 2026 15:20:00 GMT",
       "sections": [
         "entertainment"
       ],
@@ -481,16 +519,16 @@
       "appearances": 1
     },
     {
-      "id": "70e5de3bb6bd98b1",
-      "source": "Audubon",
-      "headline": "Reclaiming an Urban Forest for Birds and People in Baltimore - National Audubon Society",
-      "summary": "Reclaiming an Urban Forest for Birds and People in Baltimore National Audubon Society",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkFYRE8yUGNKLWVVQkp6REZRM3pKM3dJNU1jQjFMN2k3d3RDTEVuWTExdE5xNkR6ZEItc1lpMGlJSnhKNW1NV1lKV2htR3VpcjJUVEt1aFd1TWVkbTE0VEpnVC1SSHN4WGVobWE4QXZSMHdWX1RJNV8yYW9tYUdxZU5rSk1PbmdOclJPOGV1NWQ5bUNaaHVv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkFYRE8yUGNKLWVVQkp6REZRM3pKM3dJNU1jQjFMN2k3d3RDTEVuWTExdE5xNkR6ZEItc1lpMGlJSnhKNW1NV1lKV2htR3VpcjJUVEt1aFd1TWVkbTE0VEpnVC1SSHN4WGVobWE4QXZSMHdWX1RJNV8yYW9tYUdxZU5rSk1PbmdOclJPOGV1NWQ5bUNaaHVv",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 19:30:29 GMT",
+      "id": "7330b4a06b5b289b",
+      "source": "BBC Entertainment",
+      "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
+      "published": "Fri, 13 Nov 2026 16:53:50 GMT",
       "sections": [
-        "animals"
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-13"
@@ -528,7 +566,7 @@
       "image": "",
       "published": "Thu, 12 Nov 2026 22:02:02 GMT",
       "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-13"
@@ -614,35 +652,16 @@
       "appearances": 1
     },
     {
-      "id": "8c14f3064e3aae2c",
-      "source": "Ars Technica",
-      "headline": "Microsoft blames failed server health checks—not hackers—for global outage",
-      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg",
-      "published": "Fri, 13 Nov 2026 15:26:53 +0000",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "91eded598726bb94",
-      "source": "Customer Data",
-      "headline": "Managing Consent, Identity, and Personalization Across Digital Channels - MarTech Cube",
-      "summary": "Managing Consent, Identity, and Personalization Across Digital Channels MarTech Cube",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWNoUmVObXp0MVptYzJGYmVYeXZRaFA1WFEyUkZYZUdRbGxjZlh5Y3MzOGRwS0toRU1mVlhfOVNPamNOYlk3LU1oeGR4dW8yOFZRRUJVbHNkSi1kU1l1UWFnbUc5eFVmT3pMTVFLMjZHdUlvMEI5Z3dvbmRJZGV2YTJYSUNVcU9SVzRVM2oyYThOOWc5X1dDSTVnbmJlOWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWNoUmVObXp0MVptYzJGYmVYeXZRaFA1WFEyUkZYZUdRbGxjZlh5Y3MzOGRwS0toRU1mVlhfOVNPamNOYlk3LU1oeGR4dW8yOFZRRUJVbHNkSi1kU1l1UWFnbUc5eFVmT3pMTVFLMjZHdUlvMEI5Z3dvbmRJZGV2YTJYSUNVcU9SVzRVM2oyYThOOWc5X1dDSTVnbmJlOWc",
+      "id": "5225af5da8da64fb",
+      "source": "Good News Network",
+      "headline": "Man Rescues Trapped Neighbors from ‘Biblical’ Florida Flooding",
+      "summary": "A man put his life on the line to rescue his vulnerable neighbors during a flood in Florida he he described as “biblical.” With one recovering from surgery and the other stricken with ALS, their survival hinged on help, which their neighbor Rick Addante heroically provided. It comes amid a flood of stories of compassion",
+      "url": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/",
+      "canonical_url": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities",
       "image": "",
-      "published": "Fri, 13 Nov 2026 12:03:51 GMT",
+      "published": "Fri, 13 Nov 2026 16:30:59 +0000",
       "sections": [
-        "work-marketing"
+        "wonderful"
       ],
       "report_dates": [
         "2026-11-13"
@@ -662,25 +681,6 @@
       "published": "Fri, 13 Nov 2026 00:40:00 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "e20ff15bfaefe30c",
-      "source": "Variety",
-      "headline": "Lena Dunham on Media’s Misogyny Over ‘Girls’: ‘People Were Angrier at Us for Giving Handjobs on TV Than They Were at Walter White or Tony Soprano’",
-      "summary": "Lena Dunham and Allison Williams are still getting used to people actually liking “Girls.” “We are not used to the way people feel about the show now,” Dunham said during a conversation with Allison Williams at New York City’s Swarovski store on Thursday evening. “It’s a daily surprise.” When “Girls” premiered in 2012, Dunham and",
-      "url": "https://variety.com/2026/tv/news/lena-dunham-girls-media-misogyny-revival-enthusiasm-1236946939/",
-      "canonical_url": "https://variety.com/2026/tv/news/lena-dunham-girls-media-misogyny-revival-enthusiasm-1236946939",
-      "image": "https://variety.com/wp-content/uploads/2025/01/Lena-Dunham_Charlotte-Hadden_thumbnail.jpg",
-      "published": "Fri, 13 Nov 2026 14:27:11 +0000",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-11-13"
@@ -813,7 +813,7 @@
       "image": "",
       "published": "Fri, 13 Nov 2026 14:00:22 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-13"
@@ -842,25 +842,6 @@
       "appearances": 1
     },
     {
-      "id": "59143f34f02f8619",
-      "source": "NPR",
-      "headline": "Hegseth awards medal to soldier who chastised him",
-      "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-      "canonical_url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 05:27:08 -0500",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
       "id": "97507d872f87a619",
       "source": "NPR",
       "headline": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
@@ -871,6 +852,25 @@
       "published": "Fri, 13 Nov 2026 07:06:28 -0500",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "2c723f3e102ce851",
+      "source": "Search Engine Land",
+      "headline": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
+      "summary": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z",
+      "image": "",
+      "published": "Wed, 11 Nov 2026 16:42:16 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-13"
@@ -995,63 +995,6 @@
       "appearances": 1
     },
     {
-      "id": "6d1d489aff1e1acc",
-      "source": "Animals",
-      "headline": "Drunk raccoon who passed out after viral Virginia liquor store rampage helped raise $290K for animal shelter - New York Post",
-      "summary": "Drunk raccoon who passed out after viral Virginia liquor store rampage helped raise $290K for animal shelter New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVAxOC1sY1I1WVdobk1lTzZoWGtVb240VWdGVF9SVnd2TTgwLWJWZGxkRlhYclpJMjIzRzdqd1Z0cElBeG1nejF0bkpYTlBzQVdtZ3pQbFB6VlcyVTk4dVVIdDFUSmJrY1VUWHgtX0ZNdnJWYzEybUZtTzY4a01JTS1COFVTMEgwaUhWYk14VVBhN25IemZoUzhMYnM3dFRuLVFEOHJoN09FMTlSNlpLcTNHZHVDRDlYZ1RXcHh4a1RuTFoydGR6R3VoTzBxS0ljMHFYYVhpVQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVAxOC1sY1I1WVdobk1lTzZoWGtVb240VWdGVF9SVnd2TTgwLWJWZGxkRlhYclpJMjIzRzdqd1Z0cElBeG1nejF0bkpYTlBzQVdtZ3pQbFB6VlcyVTk4dVVIdDFUSmJrY1VUWHgtX0ZNdnJWYzEybUZtTzY4a01JTS1COFVTMEgwaUhWYk14VVBhN25IemZoUzhMYnM3dFRuLVFEOHJoN09FMTlSNlpLcTNHZHVDRDlYZ1RXcHh4a1RuTFoydGR6R3VoTzBxS0ljMHFYYVhpVQ",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 01:44:00 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "1b5a48eb7c028a3e",
-      "source": "Animals",
-      "headline": "Drunk Raccoon From Viral Video Raises Staggering Amount For Local Animal Shelter - HuffPost",
-      "summary": "Drunk Raccoon From Viral Video Raises Staggering Amount For Local Animal Shelter HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEhpOXV2ZlV6SFdvVnl4ckF3SXVkOTZJcXdmMXBWeUFHSXl5UnZUVmtabTdsUlozNXRTcGJPbC16WU9VcklMWU9ZRmFOVzJXYkJRYkVqbXpkdDNDa2FjN1dZb2dLRGtxb2s5Q3NJWEhDbks2bm9SRXp2dFdaazBDeFBHb2Rmc1B5VGNReXBlYV95aWg4YV9ELWVEblNWVkE4bWw2WNIBqgFBVV95cUxPQ0UxcURZSzdCMkY3cHFSSnAyMU1PbVNqQ0tpQ1Rnc2Fsc3FQRElZYTBaMll5NXdzdjg1alJmYzE3dU8teklmWnk4Wk8zN1JYVGxKUUl1MDVuWG9SSlBpeWE3MUlIOTFKcHZ0ak5UUHlvZVVBRHJ6WlRzemVjSnpOMk1rYVZ4NFc2RjhYSU9Qd2dqRVlxdWVWc0E1WlJ0eTFEbTEtenpxclJhdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEhpOXV2ZlV6SFdvVnl4ckF3SXVkOTZJcXdmMXBWeUFHSXl5UnZUVmtabTdsUlozNXRTcGJPbC16WU9VcklMWU9ZRmFOVzJXYkJRYkVqbXpkdDNDa2FjN1dZb2dLRGtxb2s5Q3NJWEhDbks2bm9SRXp2dFdaazBDeFBHb2Rmc1B5VGNReXBlYV95aWg4YV9ELWVEblNWVkE4bWw2WNIBqgFBVV95cUxPQ0UxcURZSzdCMkY3cHFSSnAyMU1PbVNqQ0tpQ1Rnc2Fsc3FQRElZYTBaMll5NXdzdjg1alJmYzE3dU8teklmWnk4Wk8zN1JYVGxKUUl1MDVuWG9SSlBpeWE3MUlIOTFKcHZ0ak5UUHlvZVVBRHJ6WlRzemVjSnpOMk1rYVZ4NFc2RjhYSU9Qd2dqRVlxdWVWc0E1WlJ0eTFEbTEtenpxclJhdw",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 03:10:29 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "d32004864dfdee25",
-      "source": "Madison Local",
-      "headline": "Dog diving competition happening this weekend in Madison, Wisconsin - KVUE",
-      "summary": "Dog diving competition happening this weekend in Madison, Wisconsin KVUE",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjl3OWxoWktsRlRZMlhwWXRxUWpxbkNtQmVZWnJzRVk3ZzM3NVhrMjR6djBYU2wyVUVYNUREZHlMYzRNQ0kxcjBLOTlGWTVzVWtIai00SjdZT0tCU1I1bWtBWm40S3lJbmhic1ZSMV9UeXJmV01iaVZLU0lQRG43MC0xQjNWMWU1YXhheHVKOEQtdjAweThodzk0Q051M3E3eFdpM1BzcUVyN3hCbzVFdzU1Mm8tR1RyWG5CV2w0UGl1VS05SXF3M2wwRkVLdTc1?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjl3OWxoWktsRlRZMlhwWXRxUWpxbkNtQmVZWnJzRVk3ZzM3NVhrMjR6djBYU2wyVUVYNUREZHlMYzRNQ0kxcjBLOTlGWTVzVWtIai00SjdZT0tCU1I1bWtBWm40S3lJbmhic1ZSMV9UeXJmV01iaVZLU0lQRG43MC0xQjNWMWU1YXhheHVKOEQtdjAweThodzk0Q051M3E3eFdpM1BzcUVyN3hCbzVFdzU1Mm8tR1RyWG5CV2w0UGl1VS05SXF3M2wwRkVLdTc1",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 14:38:40 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
       "id": "70234e83dc7a4d30",
       "source": "BBC Health",
       "headline": "Doctor burnout putting maternity patients at risk, says regulator",
@@ -1090,6 +1033,26 @@
       "appearances": 1
     },
     {
+      "id": "cb7a77a84970bedc",
+      "source": "Behavioral Health",
+      "headline": "Deals tracker: Ardent Health to acquire Boone Health - Modern Healthcare News",
+      "summary": "Deals tracker: Ardent Health to acquire Boone Health Modern Healthcare News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 11:06:05 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-13",
+        "2026-10-30"
+      ],
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-11-13",
+      "appearances": 2
+    },
+    {
       "id": "1ee41352598fe587",
       "source": "B2B Marketing Ops",
       "headline": "Curve Dental Appoints Nat Harrison Senior Vice President of Marketing Amid $200 Million R&D Investment - citybiz",
@@ -1098,25 +1061,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdk1RWWdWQTVIclRJUkxKeE8wdnBoQ2hJR2E1UXhLSzZBYjBRbzFfR1VaVGhhbW10ZDdGYlozN3lISG1ObGNudGxjWHFqMDQwc2NKNHRPaTFHdGp5bjBSQmxPWUpBMW8yOXktWHdWVEZteEU4WUdndU9DWnJUY2xrYVgxeG9RQmdZOVlVNktPbGo2RTd2VXhvTGhvZFkyWEp2MW1ucmZ0MlhtVVRvNUppbDZjaXhKY3Q2T0hsZGRxZ2hVY3RJb0ttVTJUQ1Q3SGRya0RrSHhR",
       "image": "",
       "published": "Thu, 12 Nov 2026 21:11:57 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
-      "id": "4012814d6709cec9",
-      "source": "Customer Data",
-      "headline": "Cordial’s headless CDP brings CDP queries into ChatGPT, Claude and Copilot - MarketScale",
-      "summary": "Cordial’s headless CDP brings CDP queries into ChatGPT, Claude and Copilot MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTG9iLXg5LWlDMHFrdlVjTU43ZnhLajhtckE0enZRYlNXVEJPaEFKeWFEcGJPS2NoeXppbmYwcDhzblpLRzlJOUFQT3pVLVlfcE5IdE56QUpqNXl6Q3ZOQ2ZQRG9zMWI0Q3NJWG9BbWsySGhERXFZdkFsTFNGWVV4MUJ6SHJ5VG1faEFaU0ZGQlUzdloxRXdYUmNNOXgtZE9jTWFGdVNHM3BVTmhmVXVDSHlsWk5EX3VuekpMdkpVeE9lOU5JUk5z?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTG9iLXg5LWlDMHFrdlVjTU43ZnhLajhtckE0enZRYlNXVEJPaEFKeWFEcGJPS2NoeXppbmYwcDhzblpLRzlJOUFQT3pVLVlfcE5IdE56QUpqNXl6Q3ZOQ2ZQRG9zMWI0Q3NJWG9BbWsySGhERXFZdkFsTFNGWVV4MUJ6SHJ5VG1faEFaU0ZGQlUzdloxRXdYUmNNOXgtZE9jTWFGdVNHM3BVTmhmVXVDSHlsWk5EX3VuekpMdkpVeE9lOU5JUk5z",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 12:04:00 GMT",
       "sections": [
         "work-marketing"
       ],
@@ -1185,25 +1129,6 @@
       "appearances": 1
     },
     {
-      "id": "e6d6ae49fa20b432",
-      "source": "Dane County",
-      "headline": "Boys & Girls Clubs of Dane County announces next president - hngnews.com",
-      "summary": "Boys & Girls Clubs of Dane County announces next president hngnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT0oxT083aU1kWFZnM2xPMWVwV05yYjRnaTNzTHctOGpCVFp5cnktOVpGN3BzY0lqbU9XZ3FKV2VIUTAtV3lDV01FVVhpNDFORFR5SmxvOWhOajhneE44ZDRVY1A0bnotczQ5OEJWdGhGdk4wSC1iUy1aTnU1OThHdnBJZzBIdldvWVNZb2dhQkd1ZE5Ba0hST1g2ZnNQT2lmeFpqMHZYX1czQkc1bFhVODhtd3BXMXlwdDFkclZvUjd5dTJmUFN5NFNEUkplOGZiTXdJeXFOb3lhUlhCVXpIbktNUlY?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT0oxT083aU1kWFZnM2xPMWVwV05yYjRnaTNzTHctOGpCVFp5cnktOVpGN3BzY0lqbU9XZ3FKV2VIUTAtV3lDV01FVVhpNDFORFR5SmxvOWhOajhneE44ZDRVY1A0bnotczQ5OEJWdGhGdk4wSC1iUy1aTnU1OThHdnBJZzBIdldvWVNZb2dhQkd1ZE5Ba0hST1g2ZnNQT2lmeFpqMHZYX1czQkc1bFhVODhtd3BXMXlwdDFkclZvUjd5dTJmUFN5NFNEUkplOGZiTXdJeXFOb3lhUlhCVXpIbktNUlY",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 21:00:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "appearances": 1
-    },
-    {
       "id": "31bce081153991a0",
       "source": "MarTech",
       "headline": "Before you ask for better leads, define ‘better’",
@@ -1214,6 +1139,44 @@
       "published": "Fri, 13 Nov 2026 13:58:00 +0000",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "1c4a7cc7e678a0d0",
+      "source": "Variety",
+      "headline": "Asian World Film Festival Sets Honorees Including ‘Josephine’ Star Mason Reeves, Packed Lineup of Oscar Contenders",
+      "summary": "The Asian World Film Festival has announced its honorees, recognizing their accomplishments in bringing Asian stories to audiences worldwide. The fest is honoring Mason Reeves, the young star of “Josephine,” with the Snow Leopard Rising Star Award. Irene Tsu will be honored with the Snow Leopard Outstanding Cinematic Achievement Award. The Shanghai-born actress who, after",
+      "url": "https://variety.com/2026/film/news/asian-world-film-festival-honorees-1236945778/",
+      "canonical_url": "https://variety.com/2026/film/news/asian-world-film-festival-honorees-1236945778",
+      "image": "https://variety.com/wp-content/uploads/2026/01/Filipinana.jpg",
+      "published": "Fri, 13 Nov 2026 16:30:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "431fe131dc6bcf71",
+      "source": "Reuters",
+      "headline": "As election nears, Spain's Sanchez struggles to rally disillusioned left - Reuters",
+      "summary": "As election nears, Spain's Sanchez struggles to rally disillusioned left Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 05:03:00 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-13"
@@ -1242,6 +1205,25 @@
       "appearances": 1
     },
     {
+      "id": "33b012ac7e113730",
+      "source": "Smithsonian",
+      "headline": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+      "summary": "New research suggests that medium-sized birds of prey such as short-eared owls feasted on the frogs during a \"short, intensive predation event\" some 1,700 years ago",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/5_Evm68KT8rpIPer7b1jUo-TsuQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/b8/ccb81183-d6c7-4601-b7bf-d89c90d12d15/aerial-view.png",
+      "published": "Fri, 13 Nov 2026 16:25:49 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
       "id": "01e8de1c37519369",
       "source": "AI News",
       "headline": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
@@ -1249,9 +1231,28 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw",
       "image": "",
-      "published": "Thu, 12 Nov 2026 22:12:48 GMT",
+      "published": "Fri, 13 Nov 2026 15:49:57 GMT",
       "sections": [
-        "quick-scan"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "appearances": 1
+    },
+    {
+      "id": "18a0bbf39887f9ac",
+      "source": "Wisconsin News",
+      "headline": "Alex Warren announces tour stop at the Kohl Center - Wisconsin Badgers",
+      "summary": "Alex Warren announces tour stop at the Kohl Center Wisconsin Badgers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcldXWF9EcWc0Ymx1TDRGaTB3czh0bEVnbDF3cmZveW5tTmNCWjFtVVZRZHJtSEp4U29zejlTS19yZW1SX3hXUnA1Mk9FS3ZJQ3pHOVRQMk5BXzZVaWpzRWpKMEhkOHo0dEROTkkxZWJrRVBqQTZoODNIdXpEUWM2dTVsNG02MnZqRms1SHdQd1c3SmpvUkdJaDhPX0JQRDJjU1dN?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcldXWF9EcWc0Ymx1TDRGaTB3czh0bEVnbDF3cmZveW5tTmNCWjFtVVZRZHJtSEp4U29zejlTS19yZW1SX3hXUnA1Mk9FS3ZJQ3pHOVRQMk5BXzZVaWpzRWpKMEhkOHo0dEROTkkxZWJrRVBqQTZoODNIdXpEUWM2dTVsNG02MnZqRms1SHdQd1c3SmpvUkdJaDhPX0JQRDJjU1dN",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 16:46:01 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-11-13"
@@ -18423,25 +18424,6 @@
       "published": "Fri, 30 Oct 2026 15:17:11 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-30"
-      ],
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "appearances": 1
-    },
-    {
-      "id": "cb7a77a84970bedc",
-      "source": "Behavioral Health",
-      "headline": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
-      "summary": "Deals tracker: Stryker acquires ZuriMED Modern Healthcare News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 02:59:46 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-10-30"
