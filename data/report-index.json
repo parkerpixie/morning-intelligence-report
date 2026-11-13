@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-12.json",
-  "report_date": "2026-11-12",
-  "generated_at": "2026-11-12T18:58:00.022721+00:00",
-  "edition_count": 120,
+  "latest": "data/archive/2026-11-13.json",
+  "report_date": "2026-11-13",
+  "generated_at": "2026-11-13T14:39:43.930815+00:00",
+  "edition_count": 121,
   "editions": [
+    {
+      "report_date": "2026-11-13",
+      "generated_at": "2026-11-13T14:39:43.930815+00:00",
+      "path": "data/archive/2026-11-13.json",
+      "top_story": {
+        "source": "NPR",
+        "headline": "These swing voters have low expectations for divided government",
+        "summary": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-12",
       "generated_at": "2026-11-12T18:58:00.022721+00:00",
