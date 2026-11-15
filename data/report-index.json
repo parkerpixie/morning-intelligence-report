@@ -1,19 +1,19 @@
 {
   "latest": "data/archive/2026-11-15.json",
   "report_date": "2026-11-15",
-  "generated_at": "2026-11-15T14:58:41.185440+00:00",
+  "generated_at": "2026-11-15T16:23:47.884097+00:00",
   "edition_count": 123,
   "editions": [
     {
       "report_date": "2026-11-15",
-      "generated_at": "2026-11-15T14:58:41.185440+00:00",
+      "generated_at": "2026-11-15T16:23:47.884097+00:00",
       "path": "data/archive/2026-11-15.json",
       "top_story": {
-        "source": "Reuters",
-        "headline": "Cape Verde holds presidential election - The Lufkin Daily News",
-        "summary": "Cape Verde holds presidential election The Lufkin Daily News",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa3pRUF9HOFVlVGMtTVpOS2VjTFY5b2lpZ0U1bGhVSHRGWEJkVXg1WFFmaWdJc2NzYzFYdC1fN2ZJT3M3b2dsTzhfN3NXRDV0S1lLRFhVTDdmTVZic19MTHkzMy1ockpjNVNyX2pkbkZGbTdtYTU3N1RnWXBuOVAtaUVkME5takdGbUwyMDFJOXRGN3VYLVJ5SWZBR05FSHgtU2VYVlJpMWdwTm5LUEt2TDNOTmJ5V0hLN3d0eUhVNFdONkJ1ckQxNXhHRkJOOFJSa3c?oc=5",
-        "image": "assets/images/clementine-madison-morning.webp"
+        "source": "BBC World",
+        "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+        "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
       },
       "story_count": 68,
       "section_counts": {
