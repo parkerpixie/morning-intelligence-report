@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-16.json",
-  "report_date": "2026-11-16",
-  "generated_at": "2026-11-16T21:04:27.243214+00:00",
-  "edition_count": 124,
+  "latest": "data/archive/2026-11-17.json",
+  "report_date": "2026-11-17",
+  "generated_at": "2026-11-17T16:07:58.795742+00:00",
+  "edition_count": 125,
   "editions": [
+    {
+      "report_date": "2026-11-17",
+      "generated_at": "2026-11-17T16:07:58.795742+00:00",
+      "path": "data/archive/2026-11-17.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+        "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-16",
       "generated_at": "2026-11-16T21:04:27.243214+00:00",
