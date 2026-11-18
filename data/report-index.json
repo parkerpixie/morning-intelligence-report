@@ -1,18 +1,18 @@
 {
   "latest": "data/archive/2026-11-18.json",
   "report_date": "2026-11-18",
-  "generated_at": "2026-11-18T15:44:57.580738+00:00",
+  "generated_at": "2026-11-18T16:43:25.008045+00:00",
   "edition_count": 126,
   "editions": [
     {
       "report_date": "2026-11-18",
-      "generated_at": "2026-11-18T15:44:57.580738+00:00",
+      "generated_at": "2026-11-18T16:43:25.008045+00:00",
       "path": "data/archive/2026-11-18.json",
       "top_story": {
-        "source": "Wisconsin Public Radio",
-        "headline": "Conservative firm warns cities and counties they could be sued under new anti-DEI amendment",
-        "summary": "A conservative law firm is warning several Wisconsin cities and counties that a recently approved constitutional amendment has made dozens of programs and ordinances based on race and sex explicitly illegal.",
-        "url": "https://www.wpr.org/news/conservative-firm-warns-cities-counties-lawsuit-new-anti-dei-amendment",
+        "source": "The Verge",
+        "headline": "Remember the frontier AI pause? Chip companies don’t either",
+        "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
         "image": "assets/images/clementine-madison-morning.webp"
       },
       "story_count": 68,
