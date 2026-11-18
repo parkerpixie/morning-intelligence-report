@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-17.json",
-  "report_date": "2026-11-17",
-  "generated_at": "2026-11-17T19:53:46.065979+00:00",
-  "edition_count": 125,
+  "latest": "data/archive/2026-11-18.json",
+  "report_date": "2026-11-18",
+  "generated_at": "2026-11-18T15:44:57.580738+00:00",
+  "edition_count": 126,
   "editions": [
+    {
+      "report_date": "2026-11-18",
+      "generated_at": "2026-11-18T15:44:57.580738+00:00",
+      "path": "data/archive/2026-11-18.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Conservative firm warns cities and counties they could be sued under new anti-DEI amendment",
+        "summary": "A conservative law firm is warning several Wisconsin cities and counties that a recently approved constitutional amendment has made dozens of programs and ordinances based on race and sex explicitly illegal.",
+        "url": "https://www.wpr.org/news/conservative-firm-warns-cities-counties-lawsuit-new-anti-dei-amendment",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-17",
       "generated_at": "2026-11-17T19:53:46.065979+00:00",
