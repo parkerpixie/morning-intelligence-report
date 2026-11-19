@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-18.json",
-  "report_date": "2026-11-18",
-  "generated_at": "2026-11-18T19:25:10.391466+00:00",
-  "edition_count": 126,
+  "latest": "data/archive/2026-11-19.json",
+  "report_date": "2026-11-19",
+  "generated_at": "2026-11-19T15:50:11.125203+00:00",
+  "edition_count": 127,
   "editions": [
+    {
+      "report_date": "2026-11-19",
+      "generated_at": "2026-11-19T15:50:11.125203+00:00",
+      "path": "data/archive/2026-11-19.json",
+      "top_story": {
+        "source": "BBC US & Canada",
+        "headline": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+        "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+        "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-18",
       "generated_at": "2026-11-18T19:25:10.391466+00:00",

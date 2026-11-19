@@ -1,9 +1,1312 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T19:27:09.097552+00:00",
-  "edition_count": 126,
-  "story_count": 7866,
+  "generated_at": "2026-11-19T15:51:32.242019+00:00",
+  "edition_count": 127,
+  "story_count": 7929,
   "stories": [
+    {
+      "id": "886deac57fb3a1ea",
+      "source": "Animals",
+      "headline": "‘Someone always asks, why are you saving animals while humans are suffering?’ - India Development Review",
+      "summary": "‘Someone always asks, why are you saving animals while humans are suffering?’ India Development Review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTlWdVdfTGNkcGt6WlNHT3JTdkdYdm5kdnU3RjNOT1FrNHpOeDROQXZLV3RVaFhhSXVYVjdfbE5uaHplSVI0anJJV3dnX3g3SVpMS2FNekJXNTdVWVZTZFk5NGZKZ2h4ZnFGN0pmdTZlMGtuejRjcTFLSDM4cXREUkF0b1JUNV96R2ZLWnlacEV3S0s1cmRCLXV5SFNleXlpZVVuV3dwVUREZW5YUC14ZUhCeUxpSG5L?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTlWdVdfTGNkcGt6WlNHT3JTdkdYdm5kdnU3RjNOT1FrNHpOeDROQXZLV3RVaFhhSXVYVjdfbE5uaHplSVI0anJJV3dnX3g3SVpMS2FNekJXNTdVWVZTZFk5NGZKZ2h4ZnFGN0pmdTZlMGtuejRjcTFLSDM4cXREUkF0b1JUNV96R2ZLWnlacEV3S0s1cmRCLXV5SFNleXlpZVVuV3dwVUREZW5YUC14ZUhCeUxpSG5L",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 06:00:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "52ddaf3739fc5ab7",
+      "source": "Wisconsin Public Radio",
+      "headline": "Workers call for safety improvements, fair wages at state-subsidized construction projects",
+      "summary": "A workers' rights group is alleging that affordable housing developments, subsidized by the state of Wisconsin, have been sites of wage theft and dangerous working conditions.",
+      "url": "https://www.wpr.org/news/workers-unions-affordable-housing-construction-safety",
+      "canonical_url": "https://www.wpr.org/news/workers-unions-affordable-housing-construction-safety",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 01:12:34 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "f222f0105417cdcf",
+      "source": "Wisconsin News",
+      "headline": "Wisconsin Winter Weather Awareness Week - Campbellsport News",
+      "summary": "Wisconsin Winter Weather Awareness Week Campbellsport News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXFZZjdYZW1vTzZYZEs2Q194ZUUzYW50bnZXNWhsd2xQTzNFWEQtQ2FqLTdSM3lMV1AyVHViTUZDMkstd3RTSWtYM3NBVXd4M0VhSzl3WHNUTDNLWUxVcG5GQ19ELWY5T25vZTlsWm9sSG40RUY5ZmVsd3l1VTdDbUROQk5nVmY5Mm1aMXB1RVotckpKX0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXFZZjdYZW1vTzZYZEs2Q194ZUUzYW50bnZXNWhsd2xQTzNFWEQtQ2FqLTdSM3lMV1AyVHViTUZDMkstd3RTSWtYM3NBVXd4M0VhSzl3WHNUTDNLWUxVcG5GQ19ELWY5T25vZTlsWm9sSG40RUY5ZmVsd3l1VTdDbUROQk5nVmY5Mm1aMXB1RVotckpKX0E",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 12:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "38a939115f521c27",
+      "source": "Animals",
+      "headline": "Wildlife officers rescue more than 70 residents, dozens of pets from flooded Hollywood apartment complex - CBS News",
+      "summary": "Wildlife officers rescue more than 70 residents, dozens of pets from flooded Hollywood apartment complex CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3Exd25SNXY0VEhTZGdDbXNlc1Z0Q2VWSDNTSXVQaG5ZYV9CeFdkUFVwNWtQQmFGTXNveFBfNkFJQmViYktQN0N0NDhTeGxIbEpEQldHWFVLZGJwemdHYURvcHluZzZGdUdVaWtJRHA1TV9hMlFQZHJ1S1lYUE9HbUxUUk90aUVvMVpEWjRZODFua3hpQmdkRHdYTk5CSFR3MWdoWEFYSG5hSVhtRENRck55ZlNvd1o0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3Exd25SNXY0VEhTZGdDbXNlc1Z0Q2VWSDNTSXVQaG5ZYV9CeFdkUFVwNWtQQmFGTXNveFBfNkFJQmViYktQN0N0NDhTeGxIbEpEQldHWFVLZGJwemdHYURvcHluZzZGdUdVaWtJRHA1TV9hMlFQZHJ1S1lYUE9HbUxUUk90aUVvMVpEWjRZODFua3hpQmdkRHdYTk5CSFR3MWdoWEFYSG5hSVhtRENRck55ZlNvd1o0",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 22:14:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "9d6e5b138b34e39b",
+      "source": "BBC US & Canada",
+      "headline": "Who are the investors ready to jump on Anthropic?",
+      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Thu, 19 Nov 2026 01:22:38 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "57e16eaca3c36e7f",
+      "source": "BBC Health",
+      "headline": "Welsh NHS in strongest pre-winter position ever, says health minister",
+      "summary": "It comes as the number waiting for planned NHS treatment in Wales increases for the sixth month.",
+      "url": "https://www.bbc.co.uk/news/articles/cq702e33el83o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq702e33el83o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg",
+      "published": "Thu, 19 Nov 2026 13:52:35 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "06688dd14fc841dc",
+      "source": "Pitchfork",
+      "headline": "Watch Taylor Swift Bring “Our Song” Medley to 2026 CMA Awards",
+      "summary": "Her first time playing the ceremony in 13 years",
+      "url": "https://pitchfork.com/story/watch-taylor-swift-bring-our-song-medley-to-2026-cma-awards/",
+      "canonical_url": "https://pitchfork.com/story/watch-taylor-swift-bring-our-song-medley-to-2026-cma-awards",
+      "image": "https://media.pitchfork.com/photos/6afe83a42e42c91d3fe85def/master/pass/GettyImages-2305800607.jpg",
+      "published": "Thu, 19 Nov 2026 05:16:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "530a5501006336ca",
+      "source": "BBC Science",
+      "headline": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
+      "published": "Thu, 19 Nov 2026 13:35:29 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "bb7c82d495a1ccb3",
+      "source": "Audubon",
+      "headline": "Vote for Audubon Washington’s 2027 Bird of the Year - National Audubon Society",
+      "summary": "Vote for Audubon Washington’s 2027 Bird of the Year National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVKY1FydVgwclZPeUIyNWNOUWZtR3A2UWVXWUszWU9zVjVSNmV1TGdwaFFqS0FuR0hYd2lqTm1OaVJjRkxqbGxQVnhOVnVqY1cxZjNzX0xuM2dlMG9hV3RPdzhsUFFqUWFydFFwUDZfUDcwYmVyd1BqX3lHNWdpOTlickFPZzhUVHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnVKY1FydVgwclZPeUIyNWNOUWZtR3A2UWVXWUszWU9zVjVSNmV1TGdwaFFqS0FuR0hYd2lqTm1OaVJjRkxqbGxQVnhOVnVqY1cxZjNzX0xuM2dlMG9hV3RPdzhsUFFqUWFydFFwUDZfUDcwYmVyd1BqX3lHNWdpOTlickFPZzhUVHc",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 00:10:11 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "983ec0baf2ae6b1f",
+      "source": "Wisconsin News",
+      "headline": "Virtual care expands in rural WI with satellite clinic - Sanford Health News",
+      "summary": "Virtual care expands in rural WI with satellite clinic Sanford Health News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHhrWWd6Ny1TT2MtSkZvQ0RERkN0elQ5NTlLVDhPMnRJRHpuWkl2TVNCRGdBYV92cEZlY3BaSkpQYUdZcDY3OW9DR3pBY2RJSEloU08wUDd3NFpzZ1VVTVhoWm50WmNlSnhlR2hjNFR6MjIxaFk3dWpxeFJKS05OajU3eXQzaFJxLUlXQnFSTEx2WmVXUW9mcWJFMTJtNGVyWmJtMTR6LURseUY2ZHlxWEkxMUdwT1ktRWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHhrWWd6Ny1TT2MtSkZvQ0RERkN0elQ5NTlLVDhPMnRJRHpuWkl2TVNCRGdBYV92cEZlY3BaSkpQYUdZcDY3OW9DR3pBY2RJSEloU08wUDd3NFpzZ1VVTVhoWm50WmNlSnhlR2hjNFR6MjIxaFk3dWpxeFJKS05OajU3eXQzaFJxLUlXQnFSTEx2WmVXUW9mcWJFMTJtNGVyWmJtMTR6LURseUY2ZHlxWEkxMUdwT1ktRWc",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 14:36:25 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "9a7a8ff25b12b7e3",
+      "source": "BBC US & Canada",
+      "headline": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+      "published": "Thu, 19 Nov 2026 13:31:23 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "c349f19b0be3625a",
+      "source": "B2B Marketing Ops",
+      "headline": "US-Based Hypergen Merges with Bulgaria’s Brandly to Connect Branding With Outbound Lead Gen - The Recursive",
+      "summary": "US-Based Hypergen Merges with Bulgaria’s Brandly to Connect Branding With Outbound Lead Gen The Recursive",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWJXVEtiZVV6MFZabVIxSjAzVUpKcTYwejRBcUVSOWJhWVN2VTM0Ql9BbmhsZUFHNzRFMDV3ejg5REw0elRMYk81UDhRaG9FUzAyMHA3VFBSM0NxYWsyZ1FrdmtFQ1NXU1NvdjN1VEhMd0Zaeno2UDgxQzlrSlZiN21CYWdEemZ4RUN0RjJNeHVWczAxYmQ1MmNPVFJKT3lYeFcyMXFPWU4wRDBDRHpRYnNiRXEzVWFpTThkQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWJXVEtiZVV6MFZabVIxSjAzVUpKcTYwejRBcUVSOWJhWVN2VTM0Ql9BbmhsZUFHNzRFMDV3ejg5REw0elRMYk81UDhRaG9FUzAyMHA3VFBSM0NxYWsyZ1FrdmtFQ1NXU1NvdjN1VEhMd0Zaeno2UDgxQzlrSlZiN21CYWdEemZ4RUN0RjJNeHVWczAxYmQ1MmNPVFJKT3lYeFcyMXFPWU4wRDBDRHpRYnNiRXEzVWFpTThkQQ",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:10:08 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "7073f2bce7e23030",
+      "source": "NPR",
+      "headline": "Trump, Xi and Putin meet as global alliances hang in the balance",
+      "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+      "canonical_url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 04:44:40 -0500",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "db18c3c5862651cb",
+      "source": "BBC World",
+      "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+      "published": "Thu, 19 Nov 2026 15:23:34 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "3849751c73b679a6",
+      "source": "BBC US & Canada",
+      "headline": "Torrential rain causes widespread flooding in South Florida",
+      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+      "published": "Wed, 18 Nov 2026 20:29:18 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "1fb035bdb5e04e59",
+      "source": "Smithsonian",
+      "headline": "The North Atlantic Right Whale Population Has Shrunk, Raising Concerns About the Future of the Critically Endangered Species",
+      "summary": "The massive marine mammals are dying from ship strikes, fishing gear entanglements and other causes, which is affecting the species' ability to grow its numbers. The animals were hunted to the brink of extinction around 100 years ago",
+      "url": "https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896/",
+      "canonical_url": "https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HvUIkcAxa0EP4GyLdQ8_WWPT2ew=/420x240/filters:focal(1280x829:1281x830)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/47/4b478197-659f-40a0-bc6f-52c709ef0886/neaq-right-whale-scaled.jpg",
+      "published": "Thu, 19 Nov 2026 15:00:00 +0000",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "cbc094fe9bb99682",
+      "source": "Variety",
+      "headline": "Thai Randolph’s NILE & Co. Buys Yahoo’s MAKERS Women’s Leadership Platform",
+      "summary": "NILE & Co., the content and ecommerce startup aimed at women founded and led by media veteran Thai Randolph, has acquired Yahoo’s MAKERS, the women’s storytelling and leadership platform. Yahoo has signed on as presenting sponsor of the in-person MAKERS Summit under a two-year commitment. Financial terms of the deal weren’t disclosed. The MAKERS brand,",
+      "url": "https://variety.com/2026/digital/news/thai-randolph-nile-co-acquires-yahoo-makers-1236947159/",
+      "canonical_url": "https://variety.com/2026/digital/news/thai-randolph-nile-co-acquires-yahoo-makers-1236947159",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Thai-Randolph-1.jpg",
+      "published": "Thu, 19 Nov 2026 15:00:00 +0000",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "6f4bdc7b15aa7bf8",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift Surprises in an Unexpected Color for Her First CMA Awards in 10 Years - InStyle",
+      "summary": "Taylor Swift Surprises in an Unexpected Color for Her First CMA Awards in 10 Years InStyle",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGVJZWhISGRkQ09YZUpMaXB5RTBQLTdablVqd0FScGVIQ3RsdlJjRmJNRkhFZ2pUYm8tbkxHcUoyVzY2ejhZWVBxOW0xamRuX3hyM3RKaHoyMUppODNlNVVWc2NWV0lIc1NmaUpZWDdwTTRQdFFKZGpJT1RSdFQzMHBGMEk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGVJZWhISGRkQ09YZUpMaXB5RTBQLTdablVqd0FScGVIQ3RsdlJjRmJNRkhFZ2pUYm8tbkxHcUoyVzY2ejhZWVBxOW0xamRuX3hyM3RKaHoyMUppODNlNVVWc2NWV0lIc1NmaUpZWDdwTTRQdFFKZGpJT1RSdFQzMHBGMEk",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 00:00:53 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "439eccd8408e448b",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift Elevates Her Country Era in Oscar de la Renta and Erdem at the 2026 CMA Awards - Marie Claire",
+      "summary": "Taylor Swift Elevates Her Country Era in Oscar de la Renta and Erdem at the 2026 CMA Awards Marie Claire",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnR3aGNkLXdiR3dibUlwclQ4UTczU0NVWktITmFIRDA0dUtEWDVkdU44RktKRUFnX09nTGJSTHFIV0MtNkRkQzZYcUh3TWJFemgtMm12bE5jb3dGY2Eyc0w0T2Q2emFNNHotbjlsZEZUa1pQaFdjaGQ3ZVZiN2JyRVhNclpUQWhrNUJWb0ZFTDA1VG9QaUhsWmlZaFRDbUtRR1J3cUlORE5QbFpPZmVOWTZkdVJyMU0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnR3aGNkLXdiR3dibUlwclQ4UTczU0NVWktITmFIRDA0dUtEWDVkdU44RktKRUFnX09nTGJSTHFIV0MtNkRkQzZYcUh3TWJFemgtMm12bE5jb3dGY2Eyc0w0T2Q2emFNNHotbjlsZEZUa1pQaFdjaGQ3ZVZiN2JyRVhNclpUQWhrNUJWb0ZFTDA1VG9QaUhsWmlZaFRDbUtRR1J3cUlORE5QbFpPZmVOWTZkdVJyMU0",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 03:11:34 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "799c646f1349245d",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift Changes Into a Cutout Minidress With a Playful Tribute for Her First CMA Awards Performance in 13 Years - InStyle",
+      "summary": "Taylor Swift Changes Into a Cutout Minidress With a Playful Tribute for Her First CMA Awards Performance in 13 Years InStyle",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2Q5STQ2ck5ScVctSGJ1Ni05bnBxUTNSNDdCdkR6amNvZXpWZElkSkdaUHMyZ1U0SjcwR3VQbnNjM3pUNTd2MTdiOG92VWg2WEJ0OTRoaXFoa29xTzQzcjFHYUxkNkY3NVhYSTcyRHVhQ2ctZGNVOVFLS284VEJieXFzeEVQZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2Q5STQ2ck5ScVctSGJ1Ni05bnBxUTNSNDdCdkR6amNvZXpWZElkSkdaUHMyZ1U0SjcwR3VQbnNjM3pUNTd2MTdiOG92VWg2WEJ0OTRoaXFoa29xTzQzcjFHYUxkNkY3NVhYSTcyRHVhQ2ctZGNVOVFLS284VEJieXFzeEVQZw",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 03:56:17 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "f10fb213fdd86ab6",
+      "source": "BBC World",
+      "headline": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
+      "published": "Thu, 19 Nov 2026 09:21:54 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "13429205ba75c5ad",
+      "source": "BBC Health",
+      "headline": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
+      "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
+      "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bf/live/715d23f0-e41d-11f1-9e08-55a8a3b48445.png",
+      "published": "Thu, 19 Nov 2026 15:30:48 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "79464d9d81757c33",
+      "source": "Good News Network",
+      "headline": "Students Fighting to Save Poached Plant Species That Only Exists in Near Their Campus",
+      "summary": "Scientists at Santa Clara University are sparing no effort to save a one-of-a-kind wildflower as unique as their county. Commonly known as the Santa Clara Valley “liveforever,” this flowering succulent is a vital food source for pollinators, but also one of the most poached wild plants in the state. Not far from Silicon Valley, the",
+      "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+      "canonical_url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 19:30:50 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "3c887163dc6e5229",
+      "source": "Marketing Ops",
+      "headline": "SpinnerBet partners with NetRefer for its affiliate marketing platform - iGaming Business",
+      "summary": "SpinnerBet partners with NetRefer for its affiliate marketing platform iGaming Business",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGQyT1dnal9JSFFVS01VUWdZZ3dWUXo1THo0VmVvWlJYbTl4Q2xOWGdUQ095Yk9oRVJmbHVkODZNTTU1bDhDNTJmV01qRHZSRGxKcHYtcGVKbDhkb2NVaDNRR3Q3TmNJcUZUYlgyLURBTGpPWU1xSC1VTTRpY0pXRG1odmJURHRPUVZpbzZUcmdadmFIRTIzZUJjcVJ0eDFWNG9NSVE2QUpjd2l0QUhQR0pR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGQyT1dnal9JSFFVS01VUWdZZ3dWUXo1THo0VmVvWlJYbTl4Q2xOWGdUQ095Yk9oRVJmbHVkODZNTTU1bDhDNTJmV01qRHZSRGxKcHYtcGVKbDhkb2NVaDNRR3Q3TmNJcUZUYlgyLURBTGpPWU1xSC1VTTRpY0pXRG1odmJURHRPUVZpbzZUcmdadmFIRTIzZUJjcVJ0eDFWNG9NSVE2QUpjd2l0QUhQR0pR",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 10:17:19 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "36fb3b10f78efb73",
+      "source": "Associated Press",
+      "headline": "South Korea’s top court overturns charges against ex-prime minister for his role in martial law - AP News",
+      "summary": "South Korea’s top court overturns charges against ex-prime minister for his role in martial law AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVE5V0dJVDlVYWRDY3FoQV9VdUVOMzhrNUdwRDlUVGRmOU9FSzlHTWVYbkJzZEtZMGw0Sy03OHpHTmlmUndVSFZMZlg1bDBLdnpBU0lyMG1IVUVhNnR2czFGamctOThFY29QRmVKUEhrNnBJMHJXLWQ5Mm1fTElGOVkyTkVDMVN0dW9PYjhpQ0h0WjhlRERxMWlrTHRvNlA1dUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVE5V0dJVDlVYWRDY3FoQV9VdUVOMzhrNUdwRDlUVGRmOU9FSzlHTWVYbkJzZEtZMGw0Sy03OHpHTmlmUndVSFZMZlg1bDBLdnpBU0lyMG1IVUVhNnR2czFGamctOThFY29QRmVKUEhrNnBJMHJXLWQ5Mm1fTElGOVkyTkVDMVN0dW9PYjhpQ0h0WjhlRERxMWlrTHRvNlA1dUE",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 12:28:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "1bf8eed19977fb64",
+      "source": "BBC US & Canada",
+      "headline": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "71eb6ac8b2ff414c",
+      "source": "Reuters",
+      "headline": "PODCAST: Anthropic meets the market - Reuters",
+      "summary": "PODCAST: Anthropic meets the market Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDR2b0dRVWpnQnl5QkJTYVcxeDRac250Y2xSTGhiMkdfanN4TEw5QWlPbGJxMUd2WEVKdUFqMTRsRUVKempfZjNFYVdNRlZ5MV96bC1rekVlRW14QmV2NzBtbTI4a0x1Zkd2LTVVMU9DaHcwVFVDSFFaQ1pSTUdXQ05TZk1GNjV2SHVTaGFoZ0I?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDR2b0dRVWpnQnl5QkJTYVcxeDRac250Y2xSTGhiMkdfanN4TEw5QWlPbGJxMUd2WEVKdUFqMTRsRUVKempfZjNFYVdNRlZ5MV96bC1rekVlRW14QmV2NzBtbTI4a0x1Zkd2LTVVMU9DaHcwVFVDSFFaQ1pSTUdXQ05TZk1GNjV2SHVTaGFoZ0I",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:29:19 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "9acc89809ea276af",
+      "source": "Animals",
+      "headline": "Placer County Animal Services Center Celebrates 10 Years of Saving Lives - The Placer Sentinel |",
+      "summary": "Placer County Animal Services Center Celebrates 10 Years of Saving Lives The Placer Sentinel |",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMkZNay1uQUdCbGFsak4zbVRpU2czNm5wYVNGLWRCZFotejJhb0w3TmE5Q0NiQ0RiaHpNRDVyWks1bnhtUGc2UnI5LVc2VzNGTkJBMWJHZlVRQW40dmRvdzZSY2FkOU5mQm5Ia1VmR1Z3SWFZRkk3a1V2QWlQLS1nTFJjR1dVdjMxVnRCTzNzSEMxNllrQnc1T254VzIzRm1zTlBHQUJ2OEZ2Ry1nMDZibW1KTGxuQ1ExcV9hb1hn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMkZNay1uQUdCbGFsak4zbVRpU2czNm5wYVNGLWRCZFotejJhb0w3TmE5Q0NiQ0RiaHpNRDVyWks1bnhtUGc2UnI5LVc2VzNGTkJBMWJHZlVRQW40dmRvdzZSY2FkOU5mQm5Ia1VmR1Z3SWFZRkk3a1V2QWlQLS1nTFJjR1dVdjMxVnRCTzNzSEMxNllrQnc1T254VzIzRm1zTlBHQUJ2OEZ2Ry1nMDZibW1KTGxuQ1ExcV9hb1hn",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 21:51:23 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "67057c60b3e1e628",
+      "source": "Good News Network",
+      "headline": "Over 100 Cave Bear Skeletons Found in ‘Sensational’ Discovery by Alpine Guide",
+      "summary": "The “sensational” discovery of a cave containing the skeletons of over 100 extinct cave bears has been revealed by local authorities. Kept secret to prevent looting, the incredible assemblage of thousands of bones will remain tucked away behind iron bars until the spring thaw when an interdisciplinary team of scientists will begin studying them. Discovered",
+      "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
+      "canonical_url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 12:30:10 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "267a54f48ea351d1",
+      "source": "Wisconsin Public Radio",
+      "headline": "Northern Wisconsin lawmakers see bipartisan agreement on reining in AI",
+      "summary": "Republican Erik Severson and Democrat Angela Stroud joined Robin Washington on “Morning Edition” to talk about where they agree or disagree and how each would navigate the upcoming session.",
+      "url": "https://www.wpr.org/news/northern-wisconsin-lawmakers-bipartisan-agreement-reining-ai",
+      "canonical_url": "https://www.wpr.org/news/northern-wisconsin-lawmakers-bipartisan-agreement-reining-ai",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "a78035054fd31a85",
+      "source": "Mental Health",
+      "headline": "Network Analysis Maps Daily Life Difficulties in Pediatric ADHD Across Daily Routines - Bioengineer.org",
+      "summary": "Network Analysis Maps Daily Life Difficulties in Pediatric ADHD Across Daily Routines Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUlhY052UnA0ZlVoZm9LSm9uLWNlSzBtOV9XdGZJMzM0bl9PU3N5OXZocXllUU11aXdzYVM2TGdSMEpYWTR3NFUzck9JVVpuSXY1eGx1ZF9NdXAxUWRBb090c1BzUzdJOEQwM3g1WVl1ZHgxOURsODVkTkFVc2E5LUx4eEtJa1ZjeXNhZks5dWtzaDExcVZ1VUQ4dGV0R2tpbzcwWmluTXZBdUhQMm5r?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUlhY052UnA0ZlVoZm9LSm9uLWNlSzBtOV9XdGZJMzM0bl9PU3N5OXZocXllUU11aXdzYVM2TGdSMEpYWTR3NFUzck9JVVpuSXY1eGx1ZF9NdXAxUWRBb090c1BzUzdJOEQwM3g1WVl1ZHgxOURsODVkTkFVc2E5LUx4eEtJa1ZjeXNhZks5dWtzaDExcVZ1VUQ4dGV0R2tpbzcwWmluTXZBdUhQMm5r",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 13:15:01 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "c2a52f59395126d4",
+      "source": "NPR",
+      "headline": "Morning news brief",
+      "summary": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO.",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+      "canonical_url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 04:46:29 -0500",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "ae3b16a8ed799bc7",
+      "source": "Associated Press",
+      "headline": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say - AP News",
+      "summary": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 01:16:00 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "73cddd1cbc96e72a",
+      "source": "Madison365",
+      "headline": "Madison student Milani Lee named Boys & Girls Clubs of Dane County Youth of the Year - Madison365",
+      "summary": "Madison student Milani Lee named Boys & Girls Clubs of Dane County Youth of the Year Madison365",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGtnSGNRVi1PdjRIRV9FYXkwcmZCNmtSSHJZNC1PekJwTWZuSTBOWk9Wclc3aWRBTmUxZ042cHA0cFpBWlNLdTJNQnA1dUhkTWtsZ1d5MVZSSjgyS2o4MUt6eEFiNmtuVDhWYkhiYzRldXZtbmJNRkVQVmwzYU1SZzloVmpxeXBJZVNBTDBvNUpHVFEwTmxIaUNhS0J4TnhoOXNYVDRST0pVZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGtnSGNRVi1PdjRIRV9FYXkwcmZCNmtSSHJZNC1PekJwTWZuSTBOWk9Wclc3aWRBTmUxZ042cHA0cFpBWlNLdTJNQnA1dUhkTWtsZ1d5MVZSSjgyS2o4MUt6eEFiNmtuVDhWYkhiYzRldXZtbmJNRkVQVmwzYU1SZzloVmpxeXBJZVNBTDBvNUpHVFEwTmxIaUNhS0J4TnhoOXNYVDRST0pVZw",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:45:54 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "f5974850414e0694",
+      "source": "BBC World",
+      "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Thu, 19 Nov 2026 11:07:37 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "b7e52b65eb9b576e",
+      "source": "ScienceDaily Mind & Brain",
+      "headline": "Is free will an illusion? New brain research reveals a surprising twist",
+      "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 20:21:35 EST",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "fe44b1178bdbaa57",
+      "source": "NPR",
+      "headline": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+      "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "canonical_url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 05:00:00 -0500",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "b64571709d6758a7",
+      "source": "BBC World",
+      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "sections": [
+        "big-story",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19",
+        "2026-11-18"
+      ],
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "appearances": 2
+    },
+    {
+      "id": "0b0eeb1bc11ff12a",
+      "source": "Variety",
+      "headline": "Hollywood’s D.C. Allies Look for Tax Vehicle as Clock Ticks on Lame-Duck Session",
+      "summary": "Hollywood’s allies in Congress are continuing to build support for a U.S. film incentive, but are awaiting a bipartisan tax package to serve as a vehicle for the measure. During a meeting with actor Jon Voight on Friday, President Trump sent a Truth Social message exhorting lawmakers to “Get this done!” But Congress faces a",
+      "url": "https://variety.com/2026/film/news/hollywood-lame-duck-federal-incentive-1236952716/",
+      "canonical_url": "https://variety.com/2026/film/news/hollywood-lame-duck-federal-incentive-1236952716",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Capitol-Hill-Federal-Tax-Incentive-Watch.jpg",
+      "published": "Thu, 19 Nov 2026 15:30:00 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "df5e0ad9db4582ff",
+      "source": "BBC World",
+      "headline": "Ghana's new $60m presidential jet sparks public outrage",
+      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
+      "published": "Wed, 18 Nov 2026 09:27:51 GMT",
+      "sections": [
+        "must-know",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19",
+        "2026-11-18"
+      ],
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "appearances": 2
+    },
+    {
+      "id": "0f9c66562d6989ce",
+      "source": "BBC World",
+      "headline": "Florida pastor found guilty over role in assassination of Haitian president",
+      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
+      "published": "Thu, 19 Nov 2026 11:44:57 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "28a564ff52bf9aa2",
+      "source": "Medical Xpress",
+      "headline": "Exercise may be good for your social life, studies in mice suggest - Medical Xpress",
+      "summary": "Exercise may be good for your social life, studies in mice suggest Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uaDVfSURHYzR0Q3BCZnRvZzRPUlFDRXk5Q01DUHhXcS1YQ3dYcVhobFc1N2J2MWVjdjhNdVJsSDYxTTB0QkZaSXZQbk5SY1FhSzFfWW5fbWNPVUEzZ1RhbUtJd1JNbExMVTJhUFh5LWZBakE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uaDVfSURHYzR0Q3BCZnRvZzRPUlFDRXk5Q01DUHhXcS1YQ3dYcVhobFc1N2J2MWVjdjhNdVJsSDYxTTB0QkZaSXZQbk5SY1FhSzFfWW5fbWNPVUEzZ1RhbUtJd1JNbExMVTJhUFh5LWZBakE",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 13:10:01 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "4ba98550c3abf452",
+      "source": "Klaviyo",
+      "headline": "Engage app users with rich push notifications - Klaviyo",
+      "summary": "Engage app users with rich push notifications Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbEdKZV8zTmdZTE5HcEM4eXFZUWFDS2VJaWdnbXk5a2lKYkU5Tkd6R3pqRGxQLXZUTE5GYUw3Y1hMbmFtSDk5UU8wek9ERmlWcTF3SDJaYjhZbUJfQmpsNVln?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbEdKZV8zTmdZTE5HcEM4eXFZUWFDS2VJaWdnbXk5a2lKYkU5Tkd6R3pqRGxQLXZUTE5GYUw3Y1hMbmFtSDk5UU8wek9ERmlWcTF3SDJaYjhZbUJfQmpsNVln",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 02:57:41 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "3376ba05dcfd73b3",
+      "source": "Good News Network",
+      "headline": "Empire State Building Lit Up with Gold Marks Historic Milestone of NASA’s Voyager 1 This Week",
+      "summary": "This week the Empire State Building was illuminated in gold to celebrate NASA’s Voyager 1 spacecraft passing one light-day away from Earth. It now takes the farthest man-made object from Earth 24 hours to send a signal back to NASA headquarters. “The color gold is emblematic of the gold-plated copper phonograph record that is flying",
+      "url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+      "canonical_url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 14:00:49 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "cb28e554f8067df7",
+      "source": "BBC Entertainment",
+      "headline": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "summary": "Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa1/live/4fe0f450-e408-11f1-99b6-a35a62fa4264.jpg",
+      "published": "Thu, 19 Nov 2026 12:01:35 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "98c96fbe5a664894",
+      "source": "Taylor Alert",
+      "headline": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards - The New York Times",
+      "summary": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2J4R1BPQnEtVGxqOUhGNENLV3l2eGZicUhjbFFUYUJTQVRVX2VIZ1oxcXlXOUhjVkFwMUhsOXVYRV9rQWVOY3pyR0NKbVpjSnR5cmZ0SU8yc2FCX0hCSkRpMEhLdWk5QVNVY0lHZ1BQZUtMbGtGOVdoNmxUbVM4RzZjaS02RTB6YlZmbHpJNEs?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2J4R1BPQnEtVGxqOUhGNENLV3l2eGZicUhjbFFUYUJTQVRVX2VIZ1oxcXlXOUhjVkFwMUhsOXVYRV9rQWVOY3pyR0NKbVpjSnR5cmZ0SU8yc2FCX0hCSkRpMEhLdWk5QVNVY0lHZ1BQZUtMbGtGOVdoNmxUbVM4RzZjaS02RTB6YlZmbHpJNEs",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 10:02:12 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "e0477f6a6f52ed34",
+      "source": "Wisconsin Watch",
+      "headline": "Did an AI company awarded an FAA contract donate to Michael Alfonso? - Wisconsin Watch",
+      "summary": "Did an AI company awarded an FAA contract donate to Michael Alfonso? Wisconsin Watch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOallhVmxBUE9tRjBqOHRMc0NqaFRCLXNRSVVsd0l1bHJ4Tm4zTEFkOTZkWVhodDNiOHIySU1nNFAwc3BuTkVVT1BpNWYxVW1PS2xqcEp0TFZKdTk0SXhJQjVTMi10b0FtUjNhSGlkRVVSdlJFMjlrTk41OURLQnVXS3c0dEJPdm5OVVdXLVJ0Y29CaTdGeHhZZjlFTkx3VEt4S2c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOallhVmxBUE9tRjBqOHRMc0NqaFRCLXNRSVVsd0l1bHJ4Tm4zTEFkOTZkWVhodDNiOHIySU1nNFAwc3BuTkVVT1BpNWYxVW1PS2xqcEp0TFZKdTk0SXhJQjVTMi10b0FtUjNhSGlkRVVSdlJFMjlrTk41OURLQnVXS3c0dEJPdm5OVVdXLVJ0Y29CaTdGeHhZZjlFTkx3VEt4S2c",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "017ffa83242fd131",
+      "source": "BBC US & Canada",
+      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+      "published": "Wed, 18 Nov 2026 21:13:06 GMT",
+      "sections": [
+        "must-know",
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19",
+        "2026-11-18"
+      ],
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "appearances": 2
+    },
+    {
+      "id": "cb7a77a84970bedc",
+      "source": "Behavioral Health",
+      "headline": "Deals tracker: UnitedHealth Group sells physician practices - Modern Healthcare",
+      "summary": "Deals tracker: UnitedHealth Group sells physician practices Modern Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:04:29 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19",
+        "2026-10-30"
+      ],
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-11-19",
+      "appearances": 2
+    },
+    {
+      "id": "7ea59af94fb712c1",
+      "source": "Wisconsin Public Radio",
+      "headline": "Data finds outdoor recreation boosts Wisconsin’s economy by record $12.3B",
+      "summary": "Outdoor enthusiasts provided a record-breaking $12.3 billion boost to Wisconsin’s economy, marking the state’s fourth record year in a row for outdoor recreation.",
+      "url": "https://www.wpr.org/news/outdoor-recreation-boosts-wisconsins-economy",
+      "canonical_url": "https://www.wpr.org/news/outdoor-recreation-boosts-wisconsins-economy",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 22:30:50 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "508d5655484970ee",
+      "source": "BBC Health",
+      "headline": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+      "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg",
+      "published": "Thu, 19 Nov 2026 15:07:43 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "98ab7da0b6c3855f",
+      "source": "BBC Health",
+      "headline": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+      "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+      "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png",
+      "published": "Thu, 19 Nov 2026 12:47:27 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "4027aef7c07473f8",
+      "source": "Dane County",
+      "headline": "Conservative law firm warns Madison, Dane County about recently passed constitutional amendment - The Badger Herald",
+      "summary": "Conservative law firm warns Madison, Dane County about recently passed constitutional amendment The Badger Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXA3Q3ZzN3llYkZfMU9DZ1NucVV0VGNfMlpnZldYaUc4U2MwaG94WEJzekZPMjVZNDhEbFNhb093aEstRi1lelBjLTFPcTc3cUVORnEwM1V0U1UtRjBfQ0dmRXdkVHFCYzRNOUMyRDZvcDhlRDQ4M3NLaTJ0SU53MHBhc0lvdC1UNTZwckRwLXhkcDRKX2Y5TWtvMmFfaXYtNU10MHYxQWdGYWEyMXg1S09KY3ZwdEhXY0NfNXFZT05OVEZCTDl2eWJjSXBoakJkbzBqTlVTSnBGcWdj?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXA3Q3ZzN3llYkZfMU9DZ1NucVV0VGNfMlpnZldYaUc4U2MwaG94WEJzekZPMjVZNDhEbFNhb093aEstRi1lelBjLTFPcTc3cUVORnEwM1V0U1UtRjBfQ0dmRXdkVHFCYzRNOUMyRDZvcDhlRDQ4M3NLaTJ0SU53MHBhc0lvdC1UNTZwckRwLXhkcDRKX2Y5TWtvMmFfaXYtNU10MHYxQWdGYWEyMXg1S09KY3ZwdEhXY0NfNXFZT05OVEZCTDl2eWJjSXBoakJkbzBqTlVTSnBGcWdj",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 02:17:09 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "db8159068d05aa84",
+      "source": "Variety",
+      "headline": "CMAs Photo Gallery: See Taylor Swift, Ella Langley, Kacey Musgraves, Lainey Wilson, Stella Lefty and Other Stars on the Carpet and On-Stage",
+      "summary": "It very much felt like ladies’ night at the 60th annual CMA Awards, with Ella Langley taking a record six awards home and a big spotlight on stars like Taylor Swift, Miranda Lambert and host Lainey Wilson. The men of country also got their turn, with performances from or awards for Chris Stapleton, Brooks &",
+      "url": "https://variety.com/2026/music/news/cma-awards-photos-taylor-swift-ella-langley-kacey-musgraves-1236952762/",
+      "canonical_url": "https://variety.com/2026/music/news/cma-awards-photos-taylor-swift-ella-langley-kacey-musgraves-1236952762",
+      "image": "https://variety.com/wp-content/uploads/2026/11/BUC_4229-e1795100829873.jpg",
+      "published": "Thu, 19 Nov 2026 15:03:19 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "3c634139e2b08ce5",
+      "source": "HubSpot Marketing",
+      "headline": "Claude Cowork skills: How they work and what to build",
+      "summary": "If you’ve yet to understand Claude Cowork skills, let me help you out: Claude Cowork is a mode that can access your desktop files and complete tasks for you. A skill is a set of instructions that tell Claude exactly how to perform a specific workflow. When combined, the two can boost your productivity in a way that Claude Chat alone cannot.",
+      "url": "https://blog.hubspot.com/marketing/claude-cowork-skills",
+      "canonical_url": "https://blog.hubspot.com/marketing/claude-cowork-skills",
+      "image": "https://blog.hubspot.com/hubfs/blogbot/claude-cowork-skills-featured-7780910.webp",
+      "published": "Thu, 19 Nov 2026 13:30:03 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "472ad25b9672004e",
+      "source": "Adweek",
+      "headline": "Brands Must Sharpen Their Storytelling For Agentic Commerce - ADWEEK",
+      "summary": "Brands Must Sharpen Their Storytelling For Agentic Commerce ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1V5UGc5eFpiYUFvMlNRdUZWS1RHMmFma3UxVlpyTnZQdEVvYmJWeDZWWGZXZFJ2Y21waUR5cXJUaVFtM1loU0c1dmZ2ZVVSUTBoOHp2RG4wUk15LUNSQ1FUbjg4bVltcW9CdWlQUGhJT2ViRE45Zkg4NV9aNEwxVnhDMWhXcVhmeTN5UnFkd0FBandETW5R?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1V5UGc5eFpiYUFvMlNRdUZWS1RHMmFma3UxVlpyTnZQdEVvYmJWeDZWWGZXZFJ2Y21waUR5cXJUaVFtM1loU0c1dmZ2ZVVSUTBoOHp2RG4wUk15LUNSQ1FUbjg4bVltcW9CdWlQUGhJT2ViRE45Zkg4NV9aNEwxVnhDMWhXcVhmeTN5UnFkd0FBandETW5R",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 14:24:12 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "0a70307c85084c62",
+      "source": "AI News",
+      "headline": "Anthropic’s Strategy to Take Over the World Economy - Bismarck Brief",
+      "summary": "Anthropic’s Strategy to Take Over the World Economy Bismarck Brief",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRTFSLW5lenlocDU3NWlWaWdTQ1h4dVVwelJNUnA5RllXMmFQSWNicWRBNmtVUldOUHQtaWh6MjJVOERPU2I0T2NzVjZJVUhnZ194VlpkVXB3T2Z5VXAwSThhWU9wRmJNamVsNk1JMkNGUG5EVjhBTA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRTFSLW5lenlocDU3NWlWaWdTQ1h4dVVwelJNUnA5RllXMmFQSWNicWRBNmtVUldOUHQtaWh6MjJVOERPU2I0T2NzVjZJVUhnZ194VlpkVXB3T2Z5VXAwSThhWU9wRmJNamVsNk1JMkNGUG5EVjhBTA",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 14:03:50 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "0802e9c7212e7741",
+      "source": "Reuters",
+      "headline": "Anthropic set to secure $1.8 trillion valuation in strong Nasdaq debut - Reuters",
+      "summary": "Anthropic set to secure $1.8 trillion valuation in strong Nasdaq debut Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 15:24:43 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "53b632b4ea42a152",
+      "source": "NPR",
+      "headline": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "canonical_url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 07:26:01 -0500",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "584db0d8b9b3e36b",
+      "source": "BBC US & Canada",
+      "headline": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "published": "Thu, 19 Nov 2026 10:48:04 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "20234a1d7f52275d",
+      "source": "Mongabay",
+      "headline": "Another Sri Lankan leopard caught in a snare. These big cats need protecting, experts say - news - Mongabay",
+      "summary": "Another Sri Lankan leopard caught in a snare. These big cats need protecting, experts say news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnVzTzZHZlQzVnFpU3d4MF9ldTdmc2l3LWxzeC1oNmR2anM5ZE9abzRqNzV1dEc4b21ncmRQUl94TGRrdmVIX3pfQ1ZzdV9YUHd2UEhCdV9hQTlDWU9TazBNLXZ6STFJNXBEU2ZFVjRlcEY5OWJsdmtId2J4VWl4dTVOWXo3QWVHZVREalh3dl9VczdycjFDenpsOU43MVZMTkJPNHRscTBIanpCR09XS2pOV1ZuWTBxZGdCRmtUVdIBxAFBVV95cUxPeXlKV1VpVWpoTXJNQmFCQVVkZ1pQbU9tb0cwTFNPdDZjZzBRal95OXR2UFBvUVhfY2tzYm93RERTSXpSRHN1Y2FGdm1mNWZ2NDZCcFJzdUtfR05BTFI0aW05TzZZc1lYc19tR2RjV0szQ2dqWkVmWjFZemEwaHhwbEhTYXhrTDQ4YTlCRk1BcnZZQWNrazl0UjYtQWZpQ2padlVzUjVRRE45eW5mdHVGd25DQUxVaWx3T0M5OUhPeFVHZFk3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnVzTzZHZlQzVnFpU3d4MF9ldTdmc2l3LWxzeC1oNmR2anM5ZE9abzRqNzV1dEc4b21ncmRQUl94TGRrdmVIX3pfQ1ZzdV9YUHd2UEhCdV9hQTlDWU9TazBNLXZ6STFJNXBEU2ZFVjRlcEY5OWJsdmtId2J4VWl4dTVOWXo3QWVHZVREalh3dl9VczdycjFDenpsOU43MVZMTkJPNHRscTBIanpCR09XS2pOV1ZuWTBxZGdCRmtUVdIBxAFBVV95cUxPeXlKV1VpVWpoTXJNQmFCQVVkZ1pQbU9tb0cwTFNPdDZjZzBRal95OXR2UFBvUVhfY2tzYm93RERTSXpSRHN1Y2FGdm1mNWZ2NDZCcFJzdUtfR05BTFI0aW05TzZZc1lYc19tR2RjV0szQ2dqWkVmWjFZemEwaHhwbEhTYXhrTDQ4YTlCRk1BcnZZQWNrazl0UjYtQWZpQ2padlVzUjVRRE45eW5mdHVGd25DQUxVaWx3T0M5OUhPeFVHZFk3",
+      "image": "",
+      "published": "Tue, 17 Nov 2026 14:21:40 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "471d4da5bdf7c22c",
+      "source": "Wisconsin Public Radio",
+      "headline": "After disastrous midterm, race for next GOP state chair getting crowded",
+      "summary": "As many as five Wisconsin Republicans are in the running to be the next state GOP chair. One is calling for the party to move on from President Donald Trump.",
+      "url": "https://www.wpr.org/news/midterm-wisconsin-gop-chair-crowded",
+      "canonical_url": "https://www.wpr.org/news/midterm-wisconsin-gop-chair-crowded",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "192e8c76fced5f59",
+      "source": "Audubon",
+      "headline": "A Journey Through the Southwest: Public Lands and the Promise of Conservation - National Audubon Society",
+      "summary": "A Journey Through the Southwest: Public Lands and the Promise of Conservation National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVJKTjg3cms4dnRod2pDQkR2ai12dlNxUi1uYlNJSGRWSlJka2VMZm5USzY0ZTBJVU1oNHlKaHQ2ck9OMFczWnZwUWg1RGVScDVwZXgwQ3JqZmIweE5DYTgya3h5QkdxbVhLeXNhTWRtUGJjOFYxemE4ZG5heGh0dFNnNXNPZ1FkM3dqQkVJdFl0YVpHNXduYnFuaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVJKTjg3cms4dnRod2pDQkR2ai12dlNxUi1uYlNJSGRWSlJka2VMZm5USzY0ZTBJVU1oNHlKaHQ2ck9OMFczWnZwUWg1RGVScDVwZXgwQ3JqZmIweE5DYTgya3h5QkdxbVhLeXNhTWRtUGJjOFYxemE4ZG5heGh0dFNnNXNPZ1FkM3dqQkVJdFl0YVpHNXduYnFuaw",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 22:39:55 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "5a4f8784e2ab601f",
+      "source": "Marketing Ops",
+      "headline": "25 Career Tips for Marketing and Advertising St...Entry Level Jobs | Internships for Students - College Recruiter",
+      "summary": "25 Career Tips for Marketing and Advertising St...Entry Level Jobs | Internships for Students College Recruiter",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOempGVWN4akp6aXZuYTJqbENsY3VHZURadEVBN3JhUy1udzNGYk1NdDJXTWJ4NTlVbTEyYTFJODY0SkhfOGtYM3JKbmgxcWZfRnpuOWlWaHNMVUFRX0lHTEpCMzY2Q2VzZ3BHMjFtSHh0MGl3N2tvaFZiTDhrQ0VEbjZteTBEdGZBel80MVgxcGJjOFRuSkRDcHhIV1BmS1BuWEpTXzB3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOempGVWN4akp6aXZuYTJqbENsY3VHZURadEVBN3JhUy1udzNGYk1NdDJXTWJ4NTlVbTEyYTFJODY0SkhfOGtYM3JKbmgxcWZfRnpuOWlWaHNMVUFRX0lHTEpCMzY2Q2VzZ3BHMjFtSHh0MGl3N2tvaFZiTDhrQ0VEbjZteTBEdGZBel80MVgxcGJjOFRuSkRDcHhIV1BmS1BuWEpTXzB3",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:04:40 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "c2ec4b5f4b662141",
+      "source": "Wisconsin News",
+      "headline": "135 more beagles released from Wisconsin research facility - ABC News - Breaking News, Latest News and Videos",
+      "summary": "135 more beagles released from Wisconsin research facility ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnV2LUlTckNjWjVUV25KSFZEWjJXRC1RVndXc1JxOVRIQkhYRXlPUVFzcXhBTnVzZ1hDY3ByUnE5VDg2c2w1T1dsX2Z5UTMxeUppOGRUZ2FnUWdobHAyM1MyR01LX0lxYXVZaEMyMFVLMzJsVncwc3B1QU1fdmhLNDJEVzI3aGRaU3hTUGI0ZzlGUHkt0gGaAUFVX3lxTE0wZng4UVc4OVctMXhUVWRvMHhCZGNrZGNlblV4X1VaY05kMloxMkpVdm1sbkFuVHBvM2dTa2tiZ05UNDFCNFNVT1NCTUJxTjlQVHJpczMtdXUzMkNkbFNNVjRITGc4UlVKcnFPeW5sa0MtMFMtOEw3aGkxVy1xNkwtOWFwS0JseDRWTnR2aW1IN3MwUnd3bjZka3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnV2LUlTckNjWjVUV25KSFZEWjJXRC1RVndXc1JxOVRIQkhYRXlPUVFzcXhBTnVzZ1hDY3ByUnE5VDg2c2w1T1dsX2Z5UTMxeUppOGRUZ2FnUWdobHAyM1MyR01LX0lxYXVZaEMyMFVLMzJsVncwc3B1QU1fdmhLNDJEVzI3aGRaU3hTUGI0ZzlGUHkt0gGaAUFVX3lxTE0wZng4UVc4OVctMXhUVWRvMHhCZGNrZGNlblV4X1VaY05kMloxMkpVdm1sbkFuVHBvM2dTa2tiZ05UNDFCNFNVT1NCTUJxTjlQVHJpczMtdXUzMkNkbFNNVjRITGc4UlVKcnFPeW5sa0MtMFMtOEw3aGkxVy1xNkwtOWFwS0JseDRWTnR2aW1IN3MwUnd3bjZka3c",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 11:53:20 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-19",
+        "2026-11-08",
+        "2026-10-11",
+        "2026-09-30",
+        "2026-09-27"
+      ],
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-11-19",
+      "appearances": 5
+    },
+    {
+      "id": "997e32038a38c901",
+      "source": "BBC Entertainment",
+      "headline": "'Public have heard enough from Russell Brand', says PM's spokesman",
+      "summary": "The comments came after YouTube owner Google refused a government request to remove a clip posted by the wife of the jailed comedian in which he claims he is innocent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0537/live/bd670b70-e3ec-11f1-a16c-7de3762c094b.jpg",
+      "published": "Thu, 19 Nov 2026 15:47:56 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "ddf29dc290aa4147",
+      "source": "BBC US & Canada",
+      "headline": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+      "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+      "published": "Thu, 19 Nov 2026 11:43:06 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "b8fc9ad90e7d4763",
+      "source": "BBC Health",
+      "headline": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
+      "summary": "The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times.",
+      "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e9/live/f75e8720-e367-11f1-9f51-4bfc31543510.jpg",
+      "published": "Thu, 19 Nov 2026 11:14:38 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
     {
       "id": "9956bd14a760908f",
       "source": "Marketing Brew",
@@ -748,25 +2051,6 @@
       "appearances": 1
     },
     {
-      "id": "b64571709d6758a7",
-      "source": "BBC World",
-      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
-      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
-      "sections": [
-        "big-story"
-      ],
-      "report_dates": [
-        "2026-11-18"
-      ],
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "appearances": 1
-    },
-    {
       "id": "26a5df592f6a30ba",
       "source": "BBC Health",
       "headline": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
@@ -957,25 +2241,6 @@
       "appearances": 1
     },
     {
-      "id": "df5e0ad9db4582ff",
-      "source": "BBC World",
-      "headline": "Ghana's new $60m presidential jet sparks public outrage",
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
-      "published": "Wed, 18 Nov 2026 09:27:51 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-18"
-      ],
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "appearances": 1
-    },
-    {
       "id": "8db619b3bbc255e5",
       "source": "BBC US & Canada",
       "headline": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
@@ -1060,25 +2325,6 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
       "published": "Wed, 18 Nov 2026 10:23:57 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-18"
-      ],
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "appearances": 1
-    },
-    {
-      "id": "017ffa83242fd131",
-      "source": "BBC World",
-      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-      "published": "Wed, 18 Nov 2026 17:34:23 GMT",
       "sections": [
         "must-know"
       ],
@@ -13654,28 +14900,6 @@
       "appearances": 1
     },
     {
-      "id": "c2ec4b5f4b662141",
-      "source": "Wisconsin News",
-      "headline": "135 more beagles released from Wisconsin research facility - ABC News - Breaking News, Latest News and Videos",
-      "summary": "135 more beagles released from Wisconsin research facility ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnV2LUlTckNjWjVUV25KSFZEWjJXRC1RVndXc1JxOVRIQkhYRXlPUVFzcXhBTnVzZ1hDY3ByUnE5VDg2c2w1T1dsX2Z5UTMxeUppOGRUZ2FnUWdobHAyM1MyR01LX0lxYXVZaEMyMFVLMzJsVncwc3B1QU1fdmhLNDJEVzI3aGRaU3hTUGI0ZzlGUHkt0gGaAUFVX3lxTE0wZng4UVc4OVctMXhUVWRvMHhCZGNrZGNlblV4X1VaY05kMloxMkpVdm1sbkFuVHBvM2dTa2tiZ05UNDFCNFNVT1NCTUJxTjlQVHJpczMtdXUzMkNkbFNNVjRITGc4UlVKcnFPeW5sa0MtMFMtOEw3aGkxVy1xNkwtOWFwS0JseDRWTnR2aW1IN3MwUnd3bjZka3c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnV2LUlTckNjWjVUV25KSFZEWjJXRC1RVndXc1JxOVRIQkhYRXlPUVFzcXhBTnVzZ1hDY3ByUnE5VDg2c2w1T1dsX2Z5UTMxeUppOGRUZ2FnUWdobHAyM1MyR01LX0lxYXVZaEMyMFVLMzJsVncwc3B1QU1fdmhLNDJEVzI3aGRaU3hTUGI0ZzlGUHkt0gGaAUFVX3lxTE0wZng4UVc4OVctMXhUVWRvMHhCZGNrZGNlblV4X1VaY05kMloxMkpVdm1sbkFuVHBvM2dTa2tiZ05UNDFCNFNVT1NCTUJxTjlQVHJpczMtdXUzMkNkbFNNVjRITGc4UlVKcnFPeW5sa0MtMFMtOEw3aGkxVy1xNkwtOWFwS0JseDRWTnR2aW1IN3MwUnd3bjZka3c",
-      "image": "",
-      "published": "Sun, 08 Nov 2026 08:59:07 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-08",
-        "2026-10-11",
-        "2026-09-30",
-        "2026-09-27"
-      ],
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-11-08",
-      "appearances": 4
-    },
-    {
       "id": "529d625a5b8da410",
       "source": "Klaviyo",
       "headline": "11 email pop-up best practices, with real-life examples for inspiration - Klaviyo",
@@ -24325,25 +25549,6 @@
       "published": "Fri, 30 Oct 2026 15:17:11 GMT",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-10-30"
-      ],
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "appearances": 1
-    },
-    {
-      "id": "cb7a77a84970bedc",
-      "source": "Behavioral Health",
-      "headline": "Deals tracker: Stryker acquires ZuriMED - Modern Healthcare News",
-      "summary": "Deals tracker: Stryker acquires ZuriMED Modern Healthcare News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 02:59:46 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-10-30"
