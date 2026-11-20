@@ -1,9 +1,28 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T15:34:02.353672+00:00",
+  "generated_at": "2026-11-20T16:23:55.896269+00:00",
   "edition_count": 128,
   "story_count": 7998,
   "stories": [
+    {
+      "id": "f8ede6e9d81e8689",
+      "source": "Variety",
+      "headline": "‘Ramayana’ Star Sai Pallavi, Ravi Kishan’s ‘Spider-Man’ Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa",
+      "summary": "The 57th International Film Festival of India opened in Goa on Friday, with “Lagaan” director Ashutosh Gowariker setting out a “Stories Without Borders” program in his first year as festival director and Goa Chief Minister Pramod Sawant renewing his push for a film city in the state. Paweł Pawlikowski’s “Fatherland,” which shared the best director",
+      "url": "https://variety.com/2026/film/festivals/sai-pallavi-ravi-kishan-ricky-kej-iffi-opening-goa-1236954225/",
+      "canonical_url": "https://variety.com/2026/film/festivals/sai-pallavi-ravi-kishan-ricky-kej-iffi-opening-goa-1236954225",
+      "image": "https://variety.com/wp-content/uploads/2026/11/IFFI-Goa-Opening-2026.jpg",
+      "published": "Fri, 20 Nov 2026 16:07:53 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
     {
       "id": "3d9d69b6323a7304",
       "source": "Wisconsin Public Radio",
@@ -121,33 +140,14 @@
       "appearances": 1
     },
     {
-      "id": "2af93e3b8100433c",
-      "source": "BBC World",
-      "headline": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
-      "published": "Fri, 20 Nov 2026 13:28:32 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "89cbe725214e77f8",
+      "id": "1f721bd558361e3e",
       "source": "Ars Technica",
-      "headline": "US will soon announce root cause behind FAA nationwide ground stop",
-      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "canonical_url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
-      "published": "Fri, 20 Nov 2026 14:52:51 +0000",
+      "headline": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "canonical_url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
+      "published": "Fri, 20 Nov 2026 16:11:21 +0000",
       "sections": [
         "quick-scan"
       ],
@@ -176,27 +176,6 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "appearances": 1
-    },
-    {
-      "id": "db18c3c5862651cb",
-      "source": "BBC World",
-      "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-      "published": "Thu, 19 Nov 2026 17:38:22 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-20",
-        "2026-11-19"
-      ],
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "appearances": 2
     },
     {
       "id": "d110e28f6dfb7de2",
@@ -237,16 +216,16 @@
       "appearances": 1
     },
     {
-      "id": "3476eae0217cf499",
-      "source": "ScienceDaily Mind & Brain",
-      "headline": "This simple habit is linked to a 33% lower risk of Alzheimer's",
-      "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading has also been associated with a 33% lower risk of Alzheimer's disease.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-      "canonical_url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+      "id": "dfdc32a353f4abe2",
+      "source": "Reuters",
+      "headline": "Top Democrat warns US law enforcement agencies to save records, including on apps - Yahoo",
+      "summary": "Top Democrat warns US law enforcement agencies to save records, including on apps Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk83QkFmUFd1dkQ2b1VuTUxNTVEtM1dwbWJYaXFWdUd0Q1NIS29aaVZ3MUZiSEZSdnYxOENSUmh1U1ZGODNjYld0NERVMV9CVG5LRVBDUXhVdGVfV1Z4cE9UR2w1dGZCbkg4RDB6eklHTXJzSUxZRXlDNy13R2NiNVJCYWZqRnVYOUZqZVd3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk83QkFmUFd1dkQ2b1VuTUxNTVEtM1dwbWJYaXFWdUd0Q1NIS29aaVZ3MUZiSEZSdnYxOENSUmh1U1ZGODNjYld0NERVMV9CVG5LRVBDUXhVdGVfV1Z4cE9UR2w1dGZCbkg4RDB6eklHTXJzSUxZRXlDNy13R2NiNVJCYWZqRnVYOUZqZVd3",
       "image": "",
-      "published": "Fri, 20 Nov 2026 07:06:07 EST",
+      "published": "Fri, 20 Nov 2026 14:55:16 GMT",
       "sections": [
-        "wellbeing"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-20"
@@ -323,6 +302,25 @@
       "published": "Thu, 19 Nov 2026 23:30:19 GMT",
       "sections": [
         "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "0dfdeb2dfc6990ca",
+      "source": "NIH News",
+      "headline": "Summary Feedback and Interim Next Steps for NIH-Supported Research Involving Laboratory Cephalopods - National Institutes of Health (NIH) | (.gov)",
+      "summary": "Summary Feedback and Interim Next Steps for NIH-Supported Research Involving Laboratory Cephalopods National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTZKdDlEbzlHY1hEUUc4VjdvWlZ5V0RyZi1NeWo3RDRtLTNEbUUzSjZEWjY2VFd2SnlvLVdXZEF6Uloyc2hhb3NHdUw4M2lTOFFPSXVrLXdfYzd4TFBacGltejBKRlZLbnhpN3JCcENuLWhUQUhQejByRWxtSlFFdjFPcGM5RWQ4YWtScktTeFo0UW9CQVYzQ0x1ZHhNYm9jY3JmdHIyR25NSndDMnE0RjgyZEV2bWRhZXR2MndmUDczNEVvcmZNTHZvdGhKalliTFRlZzJ0Mzl3N0JCTTFKcXhZOUtrVDZzdExEWTQybTdpUVQ4RzNKSDJqQ2I?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTZKdDlEbzlHY1hEUUc4VjdvWlZ5V0RyZi1NeWo3RDRtLTNEbUUzSjZEWjY2VFd2SnlvLVdXZEF6Uloyc2hhb3NHdUw4M2lTOFFPSXVrLXdfYzd4TFBacGltejBKRlZLbnhpN3JCcENuLWhUQUhQejByRWxtSlFFdjFPcGM5RWQ4YWtScktTeFo0UW9CQVYzQ0x1ZHhNYm9jY3JmdHIyR25NSndDMnE0RjgyZEV2bWRhZXR2MndmUDczNEVvcmZNTHZvdGhKalliTFRlZzJ0Mzl3N0JCTTFKcXhZOUtrVDZzdExEWTQybTdpUVQ4RzNKSDJqQ2I",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 15:05:27 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -512,7 +510,7 @@
       "image": "",
       "published": "Fri, 20 Nov 2026 15:10:55 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-20"
@@ -598,6 +596,25 @@
       "appearances": 1
     },
     {
+      "id": "4e73c3befc3e3efc",
+      "source": "BBC World",
+      "headline": "Nearly 600 women killed in South Africa within three months",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
+      "published": "Fri, 20 Nov 2026 15:55:16 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "ce832359e78ee56b",
       "source": "Search Engine Land",
       "headline": "Microsoft Advertising warns Outlook outage may have affected advertiser spend - Search Engine Land",
@@ -617,16 +634,16 @@
       "appearances": 1
     },
     {
-      "id": "17e57164aa813a87",
-      "source": "Variety",
-      "headline": "Mel Gibson’s ‘The Resurrection of the Christ’ Bought for Italy by RAI Cinema and Leone Film Group",
-      "summary": "Italy’s RAI Cinema and Leone Film Group have acquired exclusive Italian distribution rights for Mel Gibson’s two-part biblical drama sequel, “The Resurrection of the Christ,” from Lionsgate. More than 20 years ago, Gibson shot the original “The Passion of the Christ” at Italy’s Cinecittà studios in Rome. It became one of the largest-grossing independent films",
-      "url": "https://variety.com/2026/film/global/mel-gibson-resurrection-italy-rai-cinema-leone-film-group-1236954099/",
-      "canonical_url": "https://variety.com/2026/film/global/mel-gibson-resurrection-italy-rai-cinema-leone-film-group-1236954099",
-      "image": "https://variety.com/wp-content/uploads/2026/06/The-Resurrection-of-Christ.jpg",
-      "published": "Fri, 20 Nov 2026 12:17:05 +0000",
+      "id": "c625ddf4844cc897",
+      "source": "Animals",
+      "headline": "Mexico passes historic first nationwide animal welfare law - Humane World for Animals",
+      "summary": "Mexico passes historic first nationwide animal welfare law Humane World for Animals",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2VIWHUxbnM1em5xbHFJMElXTnhIc2tWUzNkb0tBUE1ZN1BtaWJhTkt4NHpVdXM3V0lqcnZnSUk0cU5IcUNsTnk4eTlWZXlZdW1LTTQtYm0tMl9rdTVSbEFqNEhfTEhVeWEzUGREQkJhb2ZINGlxOVgteVlFSTR4NDBnRQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2VIWHUxbnM1em5xbHFJMElXTnhIc2tWUzNkb0tBUE1ZN1BtaWJhTkt4NHpVdXM3V0lqcnZnSUk0cU5IcUNsTnk4eTlWZXlZdW1LTTQtYm0tMl9rdTVSbEFqNEhfTEhVeWEzUGREQkJhb2ZINGlxOVgteVlFSTR4NDBnRQ",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 21:33:06 GMT",
       "sections": [
-        "entertainment"
+        "animals"
       ],
       "report_dates": [
         "2026-11-20"
@@ -639,13 +656,51 @@
       "id": "07c70c40af5eb0a8",
       "source": "BBC Health",
       "headline": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
-      "summary": "Derek Appleton, 60, lost 11 litres of blood and went into cardiac arrest during liver surgery.",
+      "summary": "It comes after a leaked review identified 19 avoidable deaths following liver and pancreatic surgery at the hospital.",
       "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/adfb2d10-e4e1-11f1-b039-c1944465024e.jpg",
       "published": "Fri, 20 Nov 2026 13:57:49 GMT",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "f66d1aeddf88077a",
+      "source": "Isthmus",
+      "headline": "Madison Solopreneur Lab - Isthmus | Madison, Wisconsin",
+      "summary": "Madison Solopreneur Lab Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3M0d2lYWHdTS3pJaDdyZk5pbGtTQmpWLTVHU01qcUJzWEdLQU5tTEJSeUVyQXFoQ2xJQ1JESFZWcVpIcEg2VWlGbDJud2haelprXzY5OFJrUHVLWF92ZDQ0bVFJMFhPbUNuNjdHM2x4YUo4eDNya3VhZjF6WS1QQlpSVDJlZ28?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3M0d2lYWHdTS3pJaDdyZk5pbGtTQmpWLTVHU01qcUJzWEdLQU5tTEJSeUVyQXFoQ2xJQ1JESFZWcVpIcEg2VWlGbDJud2haelprXzY5OFJrUHVLWF92ZDQ0bVFJMFhPbUNuNjdHM2x4YUo4eDNya3VhZjF6WS1QQlpSVDJlZ28",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 09:15:11 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "18abd896d4388a7b",
+      "source": "Mental Health",
+      "headline": "Living in a disadvantaged neighborhood associated with socioemotional, behavioral concerns in young children - Medical Xpress",
+      "summary": "Living in a disadvantaged neighborhood associated with socioemotional, behavioral concerns in young children Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamdyVmJmMGZrZkxweFozMTdBNzRJenhiSzdOVHRJNGtOVlN1SVJQai1sYl9ha1EtQ0ZsaXJ0S2Zmdnh1b194VlNsaXAtOFJTSUkzZjBfY2dRV0dKQ0tKTzNhOUFDRjJQSl9peGFUN3FkQjYxYnJMempuLTNvbjY2amVWMVZXVWFKZGVRMTJxcW1XclUtdzN3V2RPSGFKTlNGMFBMTg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamdyVmJmMGZrZkxweFozMTdBNzRJenhiSzdOVHRJNGtOVlN1SVJQai1sYl9ha1EtQ0ZsaXJ0S2Zmdnh1b194VlNsaXAtOFJTSUkzZjBfY2dRV0dKQ0tKTzNhOUFDRjJQSl9peGFUN3FkQjYxYnJMempuLTNvbjY2amVWMVZXVWFKZGVRMTJxcW1XclUtdzN3V2RPSGFKTlNGMFBMTg",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 15:40:23 GMT",
+      "sections": [
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -665,25 +720,6 @@
       "published": "Fri, 20 Nov 2026 09:48:46 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "e7464161746bfab3",
-      "source": "NIH News",
-      "headline": "Large NIH-supported study identifies key underlying pathways in endometriosis - National Institutes of Health (NIH) | (.gov)",
-      "summary": "Large NIH-supported study identifies key underlying pathways in endometriosis National Institutes of Health (NIH) | (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkpPaGIyT0NHRUVmVjZpM1F5MHRFWWllNC1iUG9TVlVhS3pmcEpMUE9QeFk5eHhRdVZyZW5SeVpweTZWbU1kdnY2X3A5UTVFaVJqYnh4WHpiV2U5N1pYS0twbnlMSW1pcEFUMlFuSEVTU01wVTZfSXAwakRic2NnU1ZES0l0WE53MVhDWW9uRnZBMnZqVFVuS2lZU3hyLXpKVVVsNU4yNWpTOTdzREI0cUFmZEdwR1owU0RzeQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkpPaGIyT0NHRUVmVjZpM1F5MHRFWWllNC1iUG9TVlVhS3pmcEpMUE9QeFk5eHhRdVZyZW5SeVpweTZWbU1kdnY2X3A5UTVFaVJqYnh4WHpiV2U5N1pYS0twbnlMSW1pcEFUMlFuSEVTU01wVTZfSXAwakRic2NnU1ZES0l0WE53MVhDWW9uRnZBMnZqVFVuS2lZU3hyLXpKVVVsNU4yNWpTOTdzREI0cUFmZEdwR1owU0RzeQ",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 13:13:18 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -731,6 +767,46 @@
       "appearances": 1
     },
     {
+      "id": "a22183825019b133",
+      "source": "B2B Marketing Ops",
+      "headline": "Inside the B2B Marketing Awards Judging Process: What It Really Takes to Win - B2B Marketing",
+      "summary": "Inside the B2B Marketing Awards Judging Process: What It Really Takes to Win B2B Marketing",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdndXbkFHNXQwM0xsRTMyRlZ6dDE1ZU1YbW9lYTdqTVpScFBmQmhEMU1wUklSN0JrUkR4VjJObVN5ZmMwTXV5akxDOWJzU2ZCNkpyaXB4LTNSTTNvWXBNMmJOVHdrazhJc21xSHpRR3I0WGZLUkRlV2pRZWgyMndZUVY4RHF3MjRERExrUEIwQkNkVmVCeEYwLU9pSVhQTWlFOFNVX3kyMUl6XzhxbV93?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdndXbkFHNXQwM0xsRTMyRlZ6dDE1ZU1YbW9lYTdqTVpScFBmQmhEMU1wUklSN0JrUkR4VjJObVN5ZmMwTXV5akxDOWJzU2ZCNkpyaXB4LTNSTTNvWXBNMmJOVHdrazhJc21xSHpRR3I0WGZLUkRlV2pRZWgyMndZUVY4RHF3MjRERExrUEIwQkNkVmVCeEYwLU9pSVhQTWlFOFNVX3kyMUl6XzhxbV93",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 01:34:35 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-20",
+        "2026-11-16",
+        "2026-11-13"
+      ],
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-20",
+      "appearances": 3
+    },
+    {
+      "id": "3a79179d3a7df84a",
+      "source": "NPR",
+      "headline": "How Orchestra Noir turned classical music into a cultural movement",
+      "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+      "canonical_url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 11:12:18 -0500",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "87145c7924ab9c02",
       "source": "NPR",
       "headline": "How exactly did Trump get so rich on crypto? We explain",
@@ -760,25 +836,6 @@
       "published": "Thu, 19 Nov 2026 23:52:25 GMT",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "a29d215f9ab2b53b",
-      "source": "Associated Press",
-      "headline": "House Democrat investigates government agencies' use of messaging apps to discuss official business - ABC News - Breaking News, Latest News and Videos",
-      "summary": "House Democrat investigates government agencies' use of messaging apps to discuss official business ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFNzdzczakdFOUgyQnVXSG5YUUN4ajJFeW9yMFhyUURuOTRJZXA0NjRPb1c1X2RuOE53OFJySmlwSnhfVDMwVmJGYTJjcGNNX25Bb3JQOFRQMjRTNGc0eFE3Y3luTWh6N09WY1RpaW8zSXBmelNmUTRNa0ZTdnhtWThad1l2ZTV5V0NBWVVnXzFEeVNVU01FbFVsdjhQVnVGSnZ1c0pGc2FnS2xCTTdjSU43Qkh0OEg3dXBPa1930gHDAUFVX3lxTE81YUtKaWZBZFRhSTQ3N1loV3VzNUIxeXhSbGpwUG9lcWMwLVJQVGk1emtUaTUzd3VGWkhCNE5LRWE0dWRDN19lTlBrTkhDR1ZEVHptekQxOXl1bS1SQS1wN2RvbTJqOVZLMTNFWTgyRFMxYlpIZ0FpZXljX0JmampnNzZncXNRd0czTnE3SHJmTU1GT25YaG54YkFxVWltVVpZS3QtTUxWcE9PVmo1cXAwU2drelhrZWtjLTZOVjdscTVJOA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFNzdzczakdFOUgyQnVXSG5YUUN4ajJFeW9yMFhyUURuOTRJZXA0NjRPb1c1X2RuOE53OFJySmlwSnhfVDMwVmJGYTJjcGNNX25Bb3JQOFRQMjRTNGc0eFE3Y3luTWh6N09WY1RpaW8zSXBmelNmUTRNa0ZTdnhtWThad1l2ZTV5V0NBWVVnXzFEeVNVU01FbFVsdjhQVnVGSnZ1c0pGc2FnS2xCTTdjSU43Qkh0OEg3dXBPa1930gHDAUFVX3lxTE81YUtKaWZBZFRhSTQ3N1loV3VzNUIxeXhSbGpwUG9lcWMwLVJQVGk1emtUaTUzd3VGWkhCNE5LRWE0dWRDN19lTlBrTkhDR1ZEVHptekQxOXl1bS1SQS1wN2RvbTJqOVZLMTNFWTgyRFMxYlpIZ0FpZXljX0JmampnNzZncXNRd0czTnE3SHJmTU1GT25YaG54YkFxVWltVVpZS3QtTUxWcE9PVmo1cXAwU2drelhrZWtjLTZOVjdscTVJOA",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 12:51:43 GMT",
-      "sections": [
-        "must-know"
       ],
       "report_dates": [
         "2026-11-20"
@@ -826,6 +883,25 @@
       "appearances": 1
     },
     {
+      "id": "74a7d26ec2b9bced",
+      "source": "NPR",
+      "headline": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "canonical_url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 06:37:35 -0500",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "8eaa013e82840b40",
       "source": "Good News Network",
       "headline": "Good News in History, November 20",
@@ -864,25 +940,6 @@
       "appearances": 1
     },
     {
-      "id": "855755826b53c2c6",
-      "source": "Reuters",
-      "headline": "Fiona, Beloved Cincinnati Zoo Hippo, Dies After Ingesting Hat - U.S. News & World Report",
-      "summary": "Fiona, Beloved Cincinnati Zoo Hippo, Dies After Ingesting Hat U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2R0VWtqdm5sNUdqTTlmbTE1M2x0MWVGbk9zNlVmVGRGQjhfSG1PMGRuWGRrcE85dndRZUpxa01tYndReWRlWC0za1B1SG1nWWhKS25vOEpKY1p0TGVFdnRuOGp5S29pQWRvcGZnZV9meWUwb2l3VnV3R0lsc0JPalhDTTBvQXJxdTFDby1QUURMRWdCWWpJTUpZY080RUR1NWFzUnAwYjI0OUdWLWFBdy1JYWxoZ1U?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2R0VWtqdm5sNUdqTTlmbTE1M2x0MWVGbk9zNlVmVGRGQjhfSG1PMGRuWGRrcE85dndRZUpxa01tYndReWRlWC0za1B1SG1nWWhKS25vOEpKY1p0TGVFdnRuOGp5S29pQWRvcGZnZV9meWUwb2l3VnV3R0lsc0JPalhDTTBvQXJxdTFDby1QUURMRWdCWWpJTUpZY080RUR1NWFzUnAwYjI0OUdWLWFBdy1JYWxoZ1U",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 22:21:00 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
       "id": "f35793fb87613847",
       "source": "Good News Network",
       "headline": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
@@ -892,7 +949,7 @@
       "image": "",
       "published": "Fri, 20 Nov 2026 12:30:29 +0000",
       "sections": [
-        "wonderful"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-20"
@@ -902,33 +959,12 @@
       "appearances": 1
     },
     {
-      "id": "b5502e0ebc980de5",
-      "source": "BBC World",
-      "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-      "published": "Fri, 20 Nov 2026 00:50:24 GMT",
-      "sections": [
-        "must-know",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-20",
-        "2026-11-19"
-      ],
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "appearances": 2
-    },
-    {
-      "id": "51f478b68bb31a0b",
+      "id": "69cb7b79827594cb",
       "source": "Reuters",
-      "headline": "Did you follow Arizona news this week? Take the azcentral news quiz - Sacramento Bee",
-      "summary": "Did you follow Arizona news this week? Take the azcentral news quiz Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xMmU1dXJLaE41dDZtOE5XQTlIWWJFWXg4Z3ZjVkt5Z3drYklHUFRTZmlWaGZnQWhQb0MwZkdnSXFCSHJBS1Zpei15NnotRUhzSWIwMGVmVldzbWxOTnVMR3BMZ1FZTnJ2VENORFJsV3E0RFAzNnJrWDRPbw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xMmU1dXJLaE41dDZtOE5XQTlIWWJFWXg4Z3ZjVkt5Z3drYklHUFRTZmlWaGZnQWhQb0MwZkdnSXFCSHJBS1Zpei15NnotRUhzSWIwMGVmVldzbWxOTnVMR3BMZ1FZTnJ2VENORFJsV3E0RFAzNnJrWDRPbw",
+      "headline": "Did you follow Arizona news this week? Take the azcentral news quiz - Fresno Bee",
+      "summary": "Did you follow Arizona news this week? Take the azcentral news quiz Fresno Bee",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uTUxzWWhDMTBDUEt1SDhUbHBPb0l6TlBjS0pmbFZPODF3a1JPU0tMeHB6ejdHbDUxbnBra3VDTUEySnFVMS1nRElsWmNVaXU4OFl5YXlybDhpQkFxQ2lXWFBQUXlsbFI4ZTU4aldCVjlwZFlNd2gxNkJiQ1RHdTA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uTUxzWWhDMTBDUEt1SDhUbHBPb0l6TlBjS0pmbFZPODF3a1JPU0tMeHB6ejdHbDUxbnBra3VDTUEySnFVMS1nRElsWmNVaXU4OFl5YXlybDhpQkFxQ2lXWFBQUXlsbFI4ZTU4aldCVjlwZFlNd2gxNkJiQ1RHdTA",
       "image": "",
       "published": "Fri, 20 Nov 2026 11:06:00 GMT",
       "sections": [
@@ -961,25 +997,6 @@
       "appearances": 1
     },
     {
-      "id": "92e490e41315e3dc",
-      "source": "Dane County",
-      "headline": "Dane County prosecutor declines to charge Madison police officer who fatally shot Corey Ruiz - TMJ4 News",
-      "summary": "Dane County prosecutor declines to charge Madison police officer who fatally shot Corey Ruiz TMJ4 News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEtTaXdKTHFmRVg1U1U1OElEeG1KeVJheVNJelc3SUpoNFN5RVB6cGxQNTJMNmdwSi1nNXFkUXUwaUI2YkliYk5nR1QxX2x1bkJnbU9YRjU5em9HMUVOcU1qdnpWUEUzZFkwaWpucUNGTG5tNndFUjlnaFNBaGF1MTB4cGtqczh6bF9ORVFuMkxrYk0yTXUtWUpWZ3oyWm1xeGtjelk5Tk13NElHMmZJUjZnRC05MlRqWEhHczlDaG1LUmJiMDRYaTBuZkdhSlg2WmJBcE92dFl5VjRjNWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEtTaXdKTHFmRVg1U1U1OElEeG1KeVJheVNJelc3SUpoNFN5RVB6cGxQNTJMNmdwSi1nNXFkUXUwaUI2YkliYk5nR1QxX2x1bkJnbU9YRjU5em9HMUVOcU1qdnpWUEUzZFkwaWpucUNGTG5tNndFUjlnaFNBaGF1MTB4cGtqczh6bF9ORVFuMkxrYk0yTXUtWUpWZ3oyWm1xeGtjelk5Tk13NElHMmZJUjZnRC05MlRqWEhHczlDaG1LUmJiMDRYaTBuZkdhSlg2WmJBcE92dFl5VjRjNWc",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 22:57:17 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
       "id": "3c804987ccec779e",
       "source": "Dane County",
       "headline": "Dane County District Attorney Ismael Ozanne has determined that no criminal charges will be filed against law enforcement officers involved in the July death of Corey D. Ruiz in Madison. -…",
@@ -988,25 +1005,6 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPcEE2RUhVdnlVbFVMQkJhT3V3V1F0amhCN1hHei1LelBNUG5ETHpXS1RjR2g0UGppOWlUSzJyR2JFeDRJTVBqc080R1hRTXVXWVJ3dW5La05FZ0lnVE5DQlU4bHdRVjdxbGFEMWRyaDJ4UHBPY2ZNUVNCbUFJZkZfV2dyQ3czWHh5OXpWWE9HUFhSYVJNcDE1aUVKakRYMlU2WFFSSWZzbWltNjZ0aHhBOEZYWUVYbVhOdk5XN0ZBQWtSbDkzRmVpYU10VVpDazFhbm5yR1dqdzJBQ1o5TllyMjlqT1FGM2NDSVhVT1FLR0M4czF3ZkNUeGtXQ0dFZUtlN1ZsWFkwQ3l2UHRMMlZIa2l5SjAtQjgtVTEzMXVfWjVyd2R3MmJPN28wM0FCaUtoWm9oaHpkWkhkX3BuVWp2VzdMTjQ",
       "image": "",
       "published": "Thu, 19 Nov 2026 20:15:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "7c5f689709a777ac",
-      "source": "Dane County",
-      "headline": "Dane County DA will not charge officer who shot, killed Corey Ruiz in Madison - WSAW",
-      "summary": "Dane County DA will not charge officer who shot, killed Corey Ruiz in Madison WSAW",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzdLRnlOM05Ialg2cmF3eXV6MEtSVy1PcS0tN0t3LWowRVBHaDFaMjQ1WXZjYWlzNzF0WmhMZGRtS3RJTkNGUjN0N1FNT2gxdjY2S2hFQkRoZGt6TEJlUHMyN2YxMV9weEJ6b3RwWjJzVFpKTXhZdTZMU1ZmeC1IMmYzd18wZFhvZERodktfYjFiMUlQOWtJdzRFUFhLWFdVb19IQ09xTzNGS1QwZmptbllB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzdLRnlOM05Ialg2cmF3eXV6MEtSVy1PcS0tN0t3LWowRVBHaDFaMjQ1WXZjYWlzNzF0WmhMZGRtS3RJTkNGUjN0N1FNT2gxdjY2S2hFQkRoZGt6TEJlUHMyN2YxMV9weEJ6b3RwWjJzVFpKTXhZdTZMU1ZmeC1IMmYzd18wZFhvZERodktfYjFiMUlQOWtJdzRFUFhLWFdVb19IQ09xTzNGS1QwZmptbllB",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 22:58:00 GMT",
       "sections": [
         "local"
       ],
@@ -1037,6 +1035,25 @@
       "appearances": 1
     },
     {
+      "id": "e2b0adfb5dc44f3e",
+      "source": "Good News Network",
+      "headline": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
+      "summary": "When a Kansas business owner suffered the theft of some $20,000 in landscaping machinery, his community raised money to replace all of it. Sonny Gallardo started a landscape company when he was just in 6th grade. The teen from Prairie Village would go door to door raking leaves after school with supplies dropped off by",
+      "url": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+      "canonical_url": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 16:00:53 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "fb3d577571ba5da5",
       "source": "BBC World",
       "headline": "China issues Mount Fuji warning as family of missing climber offers reward",
@@ -1056,23 +1073,24 @@
       "appearances": 1
     },
     {
-      "id": "06ee84395437a954",
-      "source": "Animals",
-      "headline": "Charlotte breaks ground on $30M animal adoption center to ease shelter overcrowding - WCNC",
-      "summary": "Charlotte breaks ground on $30M animal adoption center to ease shelter overcrowding WCNC",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VJV0NLQkU1a2QzSHdiS2ZXaFE4QjdZUkpJRjk1OFZCbmpwN2J0ZG4xcTUxa3RPWE5yY04wak1OMTdOM0VuS2hUY2FnTk1ZUWt6b2tLcG5TNXc4Qk5fdC1MX2RHSG1qc0p3bWNZdjM5dlZnLU9GT2hQaEoyTW42Z2VQU01RMlJjdGNsMTRTcWFxZU9DajFnZURGTHYxVWJWWko3UElEdU82TGhTN1BEUEZnVVhJSW1XSnVxR2RPOGpEaENNbUNxMi1YWkdmZDY1VWtIQnI5Wkh5MHdXXzBXLVhIeDlzTmRK?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VJV0NLQkU1a2QzSHdiS2ZXaFE4QjdZUkpJRjk1OFZCbmpwN2J0ZG4xcTUxa3RPWE5yY04wak1OMTdOM0VuS2hUY2FnTk1ZUWt6b2tLcG5TNXc4Qk5fdC1MX2RHSG1qc0p3bWNZdjM5dlZnLU9GT2hQaEoyTW42Z2VQU01RMlJjdGNsMTRTcWFxZU9DajFnZURGTHYxVWJWWko3UElEdU82TGhTN1BEUEZnVVhJSW1XSnVxR2RPOGpEaENNbUNxMi1YWkdmZDY1VWtIQnI5Wkh5MHdXXzBXLVhIeDlzTmRK",
+      "id": "f9353711d3585cde",
+      "source": "Smithsonian Animals",
+      "headline": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama - Smithsonian Magazine",
+      "summary": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama Smithsonian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB",
       "image": "",
-      "published": "Fri, 20 Nov 2026 10:46:00 GMT",
+      "published": "Fri, 20 Nov 2026 04:02:39 GMT",
       "sections": [
         "animals"
       ],
       "report_dates": [
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-16"
       ],
-      "first_seen": "2026-11-20",
+      "first_seen": "2026-11-16",
       "last_seen": "2026-11-20",
-      "appearances": 1
+      "appearances": 2
     },
     {
       "id": "25979e65d8891dba",
@@ -1101,7 +1119,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "published": "Fri, 20 Nov 2026 15:16:52 GMT",
+      "published": "Fri, 20 Nov 2026 15:44:53 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -1218,25 +1236,6 @@
       "published": "Fri, 20 Nov 2026 13:46:44 GMT",
       "sections": [
         "local"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "b9356a139d12ea5e",
-      "source": "Taylor Fashion",
-      "headline": "10 outfits Taylor Swift has worn at the CMA Awards, ranked from least to most iconic - Business Insider",
-      "summary": "10 outfits Taylor Swift has worn at the CMA Awards, ranked from least to most iconic Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYno4RWd5bkM5cmxaeHB5Y2dXT25MZXNvZC03R0MwbFdONFhENXNMd2tsbzhPdUpBQ0hhUUI0TXA0YnNFdFFwU2VMYXFmSUFZUHFXN3Voc1prMk4xeEhYLUVQWEtHeUt3UG9PSlJ2dms2N0EwZXRxVFZQYVBCTzFTdnFXZ18?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYno4RWd5bkM5cmxaeHB5Y2dXT25MZXNvZC03R0MwbFdONFhENXNMd2tsbzhPdUpBQ0hhUUI0TXA0YnNFdFFwU2VMYXFmSUFZUHFXN3Voc1prMk4xeEhYLUVQWEtHeUt3UG9PSlJ2dms2N0EwZXRxVFZQYVBCTzFTdnFXZ18",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 19:33:00 GMT",
-      "sections": [
-        "entertainment"
       ],
       "report_dates": [
         "2026-11-20"
@@ -1486,6 +1485,25 @@
       "published": "Thu, 19 Nov 2026 18:12:00 GMT",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "db18c3c5862651cb",
+      "source": "BBC World",
+      "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Thu, 19 Nov 2026 17:38:22 GMT",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-19"
@@ -2054,6 +2072,25 @@
       "canonical_url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
       "published": "Thu, 19 Nov 2026 11:44:57 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "b5502e0ebc980de5",
+      "source": "BBC World",
+      "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Thu, 19 Nov 2026 19:16:21 GMT",
       "sections": [
         "must-know"
       ],
@@ -5861,26 +5898,6 @@
       "appearances": 1
     },
     {
-      "id": "a22183825019b133",
-      "source": "B2B Marketing Ops",
-      "headline": "Inside the B2B Marketing Awards Judging Process: What It Really Takes to Win - B2B Marketing",
-      "summary": "Inside the B2B Marketing Awards Judging Process: What It Really Takes to Win B2B Marketing",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdndXbkFHNXQwM0xsRTMyRlZ6dDE1ZU1YbW9lYTdqTVpScFBmQmhEMU1wUklSN0JrUkR4VjJObVN5ZmMwTXV5akxDOWJzU2ZCNkpyaXB4LTNSTTNvWXBNMmJOVHdrazhJc21xSHpRR3I0WGZLUkRlV2pRZWgyMndZUVY4RHF3MjRERExrUEIwQkNkVmVCeEYwLU9pSVhQTWlFOFNVX3kyMUl6XzhxbV93?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdndXbkFHNXQwM0xsRTMyRlZ6dDE1ZU1YbW9lYTdqTVpScFBmQmhEMU1wUklSN0JrUkR4VjJObVN5ZmMwTXV5akxDOWJzU2ZCNkpyaXB4LTNSTTNvWXBNMmJOVHdrazhJc21xSHpRR3I0WGZLUkRlV2pRZWgyMndZUVY4RHF3MjRERExrUEIwQkNkVmVCeEYwLU9pSVhQTWlFOFNVX3kyMUl6XzhxbV93",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 14:37:33 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-16",
-        "2026-11-13"
-      ],
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-16",
-      "appearances": 2
-    },
-    {
       "id": "b7c049eee1caf718",
       "source": "Isthmus",
       "headline": "Improv Open Jam - Isthmus | Madison, Wisconsin",
@@ -6233,25 +6250,6 @@
       "published": "Mon, 16 Nov 2026 13:00:00 +0000",
       "sections": [
         "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-16"
-      ],
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "appearances": 1
-    },
-    {
-      "id": "f9353711d3585cde",
-      "source": "Smithsonian Animals",
-      "headline": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama - Smithsonian Magazine",
-      "summary": "Brazil’s Beautiful Blue Bird Was the Star of the Animated Hit 'Rio.’ In Real Life, Bringing the Species Back From the Brink Put It in the Middle of a Huge Drama Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB",
-      "image": "",
-      "published": "Mon, 16 Nov 2026 12:00:00 GMT",
-      "sections": [
-        "animals"
       ],
       "report_dates": [
         "2026-11-16"
