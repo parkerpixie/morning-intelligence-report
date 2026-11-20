@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T16:23:55.896269+00:00",
+  "generated_at": "2026-11-20T17:52:05.977920+00:00",
   "edition_count": 128,
-  "story_count": 7998,
+  "story_count": 7999,
   "stories": [
     {
       "id": "f8ede6e9d81e8689",
@@ -121,6 +121,25 @@
       "appearances": 1
     },
     {
+      "id": "6713354d3cd1c9b1",
+      "source": "Mental Health",
+      "headline": "Why Autistic Employees Are Targeted By Bullies - Psychology Today",
+      "summary": "Why Autistic Employees Are Targeted By Bullies Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWJXSFFkUWtTVTEySDJTRnotVTJPSGNkMzRFQ1MzTm5wbXkyVmwzYWhJTzRDVzFoVTR0NXNaRElXLXhGT05zUXJ1Yzg4ZVdRNVNXbUhLVDZKczZMcFVLemVOLV9YZ05kUVNvOEhFcUhNZU82Tjh1XzZqOWF0UW42d1RkRGozcFNFd1F5OXQ5cTJYeEJrd2o5OUZmNzM0c1V2cmNlQWpubllSamFIZkJyVGl2YnQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWJXSFFkUWtTVTEySDJTRnotVTJPSGNkMzRFQ1MzTm5wbXkyVmwzYWhJTzRDVzFoVTR0NXNaRElXLXhGT05zUXJ1Yzg4ZVdRNVNXbUhLVDZKczZMcFVLemVOLV9YZ05kUVNvOEhFcUhNZU82Tjh1XzZqOWF0UW42d1RkRGozcFNFd1F5OXQ5cTJYeEJrd2o5OUZmNzM0c1V2cmNlQWpubllSamFIZkJyVGl2YnQ",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 17:09:28 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "27182ef26d688c63",
       "source": "AI News",
       "headline": "Who are Anthropic’s 7 co-founders? Meet the former OpenAI colleagues now worth billions - The Indian Express",
@@ -140,16 +159,16 @@
       "appearances": 1
     },
     {
-      "id": "1f721bd558361e3e",
-      "source": "Ars Technica",
-      "headline": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
-      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "canonical_url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
-      "published": "Fri, 20 Nov 2026 16:11:21 +0000",
+      "id": "eb11180769f56935",
+      "source": "Animals",
+      "headline": "WATCH: Tax-Smart Giving in 2026: Make Your Generosity Go Further for Animals - IDA - In Defense of Animals",
+      "summary": "WATCH: Tax-Smart Giving in 2026: Make Your Generosity Go Further for Animals IDA - In Defense of Animals",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRoNHNGRzNIaFFyZXFBTEZLNkR4eTJ1eWhOVVAteDYydFFrQlk3aU5zcURzV1VhWk5McTdIQnRUN2FKbUtNWU9kTDU4eUh5TllBUGlMdzNwaFpVRE9PT0E3dC01WXBZeHpsblhhM2ZJeXdqLTVBM1NvbmRVN1MyMVl4WG5KTlVYWEJycE1mRmNqQ1c1WFN0MHVaUVRxd09KazdjeVZR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTRoNHNGRzNIaFFyZXFBTEZLNkR4eTJ1eWhOVVAteDYydFFrQlk3aU5zcURzV1VhWk5McTdIQnRUN2FKbUtNWU9kTDU4eUh5TllBUGlMdzNwaFpVRE9PT0E3dC01WXBZeHpsblhhM2ZJeXdqLTVBM1NvbmRVN1MyMVl4WG5KTlVYWEJycE1mRmNqQ1c1WFN0MHVaUVRxd09KazdjeVZR",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 17:33:10 GMT",
       "sections": [
-        "quick-scan"
+        "animals"
       ],
       "report_dates": [
         "2026-11-20"
@@ -160,7 +179,7 @@
     },
     {
       "id": "8fc44eaca7192377",
-      "source": "BBC World",
+      "source": "BBC US & Canada",
       "headline": "US army warns detonation of unstable explosives will create toxic plume",
       "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
       "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
@@ -168,7 +187,26 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg",
       "published": "Fri, 20 Nov 2026 01:27:27 GMT",
       "sections": [
-        "big-story"
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "656cdb405835b5f5",
+      "source": "NPR",
+      "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "canonical_url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 12:00:00 -0500",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-20"
@@ -180,14 +218,14 @@
     {
       "id": "d110e28f6dfb7de2",
       "source": "NPR",
-      "headline": "Trump to hold press conference after meeting with Xi and Putin",
+      "headline": "Trump holds press conference after meeting with Xi and Putin",
       "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
       "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
       "canonical_url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
       "image": "",
       "published": "Fri, 20 Nov 2026 10:00:00 -0500",
       "sections": [
-        "must-know"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-20"
@@ -216,16 +254,16 @@
       "appearances": 1
     },
     {
-      "id": "dfdc32a353f4abe2",
-      "source": "Reuters",
-      "headline": "Top Democrat warns US law enforcement agencies to save records, including on apps - Yahoo",
-      "summary": "Top Democrat warns US law enforcement agencies to save records, including on apps Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk83QkFmUFd1dkQ2b1VuTUxNTVEtM1dwbWJYaXFWdUd0Q1NIS29aaVZ3MUZiSEZSdnYxOENSUmh1U1ZGODNjYld0NERVMV9CVG5LRVBDUXhVdGVfV1Z4cE9UR2w1dGZCbkg4RDB6eklHTXJzSUxZRXlDNy13R2NiNVJCYWZqRnVYOUZqZVd3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk83QkFmUFd1dkQ2b1VuTUxNTVEtM1dwbWJYaXFWdUd0Q1NIS29aaVZ3MUZiSEZSdnYxOENSUmh1U1ZGODNjYld0NERVMV9CVG5LRVBDUXhVdGVfV1Z4cE9UR2w1dGZCbkg4RDB6eklHTXJzSUxZRXlDNy13R2NiNVJCYWZqRnVYOUZqZVd3",
+      "id": "82f88075e9fa05c3",
+      "source": "Isthmus",
+      "headline": "Trampled by Turtles - Isthmus | Madison, Wisconsin",
+      "summary": "Trampled by Turtles Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ibkc2WWhSZkNKbm9QdkJfOTd3VTNIRWwzNTBBNG1TQUdaQ0RaZUVRWmsycExCczZUS3Axd0ttdTFOWTFxRThjWDhkQjU5YjIwYy1VVjl0ajNGaXdfVFVHN2dB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ibkc2WWhSZkNKbm9QdkJfOTd3VTNIRWwzNTBBNG1TQUdaQ0RaZUVRWmsycExCczZUS3Axd0ttdTFOWTFxRThjWDhkQjU5YjIwYy1VVjl0ajNGaXdfVFVHN2dB",
       "image": "",
-      "published": "Fri, 20 Nov 2026 14:55:16 GMT",
+      "published": "Fri, 20 Nov 2026 17:47:44 GMT",
       "sections": [
-        "must-know"
+        "local"
       ],
       "report_dates": [
         "2026-11-20"
@@ -255,7 +293,7 @@
     },
     {
       "id": "92faa8ab8cece3a0",
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "headline": "Texas death-row inmate screams as execution takes more than one hour",
       "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
       "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
@@ -302,25 +340,6 @@
       "published": "Thu, 19 Nov 2026 23:30:19 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "0dfdeb2dfc6990ca",
-      "source": "NIH News",
-      "headline": "Summary Feedback and Interim Next Steps for NIH-Supported Research Involving Laboratory Cephalopods - National Institutes of Health (NIH) | (.gov)",
-      "summary": "Summary Feedback and Interim Next Steps for NIH-Supported Research Involving Laboratory Cephalopods National Institutes of Health (NIH) | (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTZKdDlEbzlHY1hEUUc4VjdvWlZ5V0RyZi1NeWo3RDRtLTNEbUUzSjZEWjY2VFd2SnlvLVdXZEF6Uloyc2hhb3NHdUw4M2lTOFFPSXVrLXdfYzd4TFBacGltejBKRlZLbnhpN3JCcENuLWhUQUhQejByRWxtSlFFdjFPcGM5RWQ4YWtScktTeFo0UW9CQVYzQ0x1ZHhNYm9jY3JmdHIyR25NSndDMnE0RjgyZEV2bWRhZXR2MndmUDczNEVvcmZNTHZvdGhKalliTFRlZzJ0Mzl3N0JCTTFKcXhZOUtrVDZzdExEWTQybTdpUVQ4RzNKSDJqQ2I?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTZKdDlEbzlHY1hEUUc4VjdvWlZ5V0RyZi1NeWo3RDRtLTNEbUUzSjZEWjY2VFd2SnlvLVdXZEF6Uloyc2hhb3NHdUw4M2lTOFFPSXVrLXdfYzd4TFBacGltejBKRlZLbnhpN3JCcENuLWhUQUhQejByRWxtSlFFdjFPcGM5RWQ4YWtScktTeFo0UW9CQVYzQ0x1ZHhNYm9jY3JmdHIyR25NSndDMnE0RjgyZEV2bWRhZXR2MndmUDczNEVvcmZNTHZvdGhKalliTFRlZzJ0Mzl3N0JCTTFKcXhZOUtrVDZzdExEWTQybTdpUVQ4RzNKSDJqQ2I",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 15:05:27 GMT",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -413,7 +432,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-      "published": "Fri, 20 Nov 2026 13:52:04 GMT",
+      "published": "Fri, 20 Nov 2026 16:54:29 GMT",
       "sections": [
         "must-know"
       ],
@@ -432,7 +451,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTNLWmdYdncxbDRfcFZhVlRFeVRfN3Jic2JSb252SkQ4djE0ckRoaGpqcnZKWDU5Wm4tUXdjTHdPZVNtWkVRWVNSN29EcFNQQkhVeVF6WWQ5NFB2WUFURVFyWjI3dmRGeEJNSDJrMk1HYTdMMXVTMkZqZl9ZVjlJMVlhSWRTR0Nha0NJZ3J0TVBpVndia25nVXNDZi1GcnVxYTFtdklydElZQy1FMHo5TGhJcUpjcG5rWDZJaQ?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTNLWmdYdncxbDRfcFZhVlRFeVRfN3Jic2JSb252SkQ4djE0ckRoaGpqcnZKWDU5Wm4tUXdjTHdPZVNtWkVRWVNSN29EcFNQQkhVeVF6WWQ5NFB2WUFURVFyWjI3dmRGeEJNSDJrMk1HYTdMMXVTMkZqZl9ZVjlJMVlhSWRTR0Nha0NJZ3J0TVBpVndia25nVXNDZi1GcnVxYTFtdklydElZQy1FMHo5TGhJcUpjcG5rWDZJaQ",
       "image": "",
-      "published": "Fri, 20 Nov 2026 10:32:00 GMT",
+      "published": "Fri, 20 Nov 2026 15:58:00 GMT",
       "sections": [
         "must-know"
       ],
@@ -463,16 +482,16 @@
       "appearances": 1
     },
     {
-      "id": "2114a482a34d78ff",
-      "source": "Variety",
-      "headline": "Prince Harry Gives New James Bond Robert Pattinson the Royal Seal of Approval: ‘I Want to Make Sure That It’s in Good Hands’",
-      "summary": "Prince Harry has given Robert Pattinson his royal seal of approval as the new 007. Appearing on daytime show “This Morning” on Friday, the British royal, who recently moved back to the U.K. with his wife Meghan and their two children, was asked by hosts Dermot O’Leary and Alison Hammond to choose between James Bond",
-      "url": "https://variety.com/2026/film/global/prince-harry-james-bond-robert-pattinson-1236954165/",
-      "canonical_url": "https://variety.com/2026/film/global/prince-harry-james-bond-robert-pattinson-1236954165",
-      "image": "https://variety.com/wp-content/uploads/2026/11/bond.jpg",
-      "published": "Fri, 20 Nov 2026 14:41:18 +0000",
+      "id": "73bf908a7325b730",
+      "source": "Madison Local",
+      "headline": "Prosecutor declines to charge a Madison, Wisconsin, police officer who fatally shot a Black man - The News-Item",
+      "summary": "Prosecutor declines to charge a Madison, Wisconsin, police officer who fatally shot a Black man The News-Item",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYU5XYXpFcHhKQ1ZNd1hoZE14S29RSkNTU0tIRnhxaGd2OUpOZGVjMFQ5WmhTeVhNUEo2Z2RvLU5Gck81ZGVxcXNFa0xoU01iMWhjVjREVzNKeThBOEJ0bHo3YjFPTGNjZnAxeUdQS21sM3NzVlBUSnVGaFV3TzZYSEh1b3EtT0g1UlNLQ0xhQjlyWVBNTWZJZm9za3U1S2xqanMza0tKTmo2RENDUEd1VGhKaFdVNGpSU0tNeFNrQU95Y0ZQcVhiOWc5VlVTdTVBSHFyV1RuM3ZjYzRPOGp0WU9hdE1uNTFWRnQ2UzhlY0ttbm5yQ1Axa3ZHdkZCTEVvVXhnbTJrVjZBU1dD?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYU5XYXpFcHhKQ1ZNd1hoZE14S29RSkNTU0tIRnhxaGd2OUpOZGVjMFQ5WmhTeVhNUEo2Z2RvLU5Gck81ZGVxcXNFa0xoU01iMWhjVjREVzNKeThBOEJ0bHo3YjFPTGNjZnAxeUdQS21sM3NzVlBUSnVGaFV3TzZYSEh1b3EtT0g1UlNLQ0xhQjlyWVBNTWZJZm9za3U1S2xqanMza0tKTmo2RENDUEd1VGhKaFdVNGpSU0tNeFNrQU95Y0ZQcVhiOWc5VlVTdTVBSHFyV1RuM3ZjYzRPOGp0WU9hdE1uNTFWRnQ2UzhlY0ttbm5yQ1Axa3ZHdkZCTEVvVXhnbTJrVjZBU1dD",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 06:22:33 GMT",
       "sections": [
-        "animals"
+        "local"
       ],
       "report_dates": [
         "2026-11-20"
@@ -501,16 +520,16 @@
       "appearances": 1
     },
     {
-      "id": "acf69fa3bb76b3b3",
-      "source": "Marketing Ops",
-      "headline": "OPTECH Special Report: Intelligent Automation - Multifamily Housing News",
-      "summary": "OPTECH Special Report: Intelligent Automation Multifamily Housing News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJCclBOY1kzcGxiU1ViMjBTMERVWkxobzN4VER3N0lFN0w0V0ctTXdlMkpmWEUxb1hiaFQ3SWpUYlIxSzJmTTE5M0JjZFVUQWg2LVh3Qk5KZUJGRkYzblJkRmpvcFQzOGRFNmZnOVRKWDlJWXI1Ny0takRmMmZTLU9ZcTk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJCclBOY1kzcGxiU1ViMjBTMERVWkxobzN4VER3N0lFN0w0V0ctTXdlMkpmWEUxb1hiaFQ3SWpUYlIxSzJmTTE5M0JjZFVUQWg2LVh3Qk5KZUJGRkYzblJkRmpvcFQzOGRFNmZnOVRKWDlJWXI1Ny0takRmMmZTLU9ZcTk",
+      "id": "d358d10dd3d11eb2",
+      "source": "Isthmus",
+      "headline": "Pecos & the Rooftops - Isthmus | Madison, Wisconsin",
+      "summary": "Pecos & the Rooftops Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54aG5LbDZDUFM1NXdhVGJGZ2ZGNUpobTAzTmdLSmFLZ3E3VWU2WjJqc2ZZdnliS0tYUnhPSFhmb0ZzdWQxakhuczJyWDU1VmlaRlVWZ05WVUxucFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54aG5LbDZDUFM1NXdhVGJGZ2ZGNUpobTAzTmdLSmFLZ3E3VWU2WjJqc2ZZdnliS0tYUnhPSFhmb0ZzdWQxakhuczJyWDU1VmlaRlVWZ05WVUxucFE",
       "image": "",
-      "published": "Fri, 20 Nov 2026 15:10:55 GMT",
+      "published": "Fri, 20 Nov 2026 17:47:50 GMT",
       "sections": [
-        "quick-scan"
+        "local"
       ],
       "report_dates": [
         "2026-11-20"
@@ -530,25 +549,6 @@
       "published": "Fri, 20 Nov 2026 00:38:57 GMT",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "803e0ca7d6b917b0",
-      "source": "Isthmus",
-      "headline": "New Glarus Farmers' Market - Isthmus | Madison, Wisconsin",
-      "summary": "New Glarus Farmers' Market Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0p5RF9sM2hhQ3BJZGV2LXlZcVZjbkxoVnd5MFVCSm1DWkRvNEd4Rzc5bjJ5ZW5ZdkJ4NmhSbURXN0dkSzd2cF9HTk9jRzZackpyNE5TSzNhV1pobkhMLXdrcEF1NzE1d3NuYW1jcGxqSFlTLW12MnpYOHk4RkhHNG05YlAwb2FnTzM4OW5NWTF0ZWs?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0p5RF9sM2hhQ3BJZGV2LXlZcVZjbkxoVnd5MFVCSm1DWkRvNEd4Rzc5bjJ5ZW5ZdkJ4NmhSbURXN0dkSzd2cF9HTk9jRzZackpyNE5TSzNhV1pobkhMLXdrcEF1NzE1d3NuYW1jcGxqSFlTLW12MnpYOHk4RkhHNG05YlAwb2FnTzM4OW5NWTF0ZWs",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 14:37:55 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-11-20"
@@ -596,25 +596,6 @@
       "appearances": 1
     },
     {
-      "id": "4e73c3befc3e3efc",
-      "source": "BBC World",
-      "headline": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
-      "published": "Fri, 20 Nov 2026 15:55:16 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
       "id": "ce832359e78ee56b",
       "source": "Search Engine Land",
       "headline": "Microsoft Advertising warns Outlook outage may have affected advertiser spend - Search Engine Land",
@@ -634,25 +615,6 @@
       "appearances": 1
     },
     {
-      "id": "c625ddf4844cc897",
-      "source": "Animals",
-      "headline": "Mexico passes historic first nationwide animal welfare law - Humane World for Animals",
-      "summary": "Mexico passes historic first nationwide animal welfare law Humane World for Animals",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2VIWHUxbnM1em5xbHFJMElXTnhIc2tWUzNkb0tBUE1ZN1BtaWJhTkt4NHpVdXM3V0lqcnZnSUk0cU5IcUNsTnk4eTlWZXlZdW1LTTQtYm0tMl9rdTVSbEFqNEhfTEhVeWEzUGREQkJhb2ZINGlxOVgteVlFSTR4NDBnRQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2VIWHUxbnM1em5xbHFJMElXTnhIc2tWUzNkb0tBUE1ZN1BtaWJhTkt4NHpVdXM3V0lqcnZnSUk0cU5IcUNsTnk4eTlWZXlZdW1LTTQtYm0tMl9rdTVSbEFqNEhfTEhVeWEzUGREQkJhb2ZINGlxOVgteVlFSTR4NDBnRQ",
-      "image": "",
-      "published": "Wed, 18 Nov 2026 21:33:06 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
       "id": "07c70c40af5eb0a8",
       "source": "BBC Health",
       "headline": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
@@ -660,9 +622,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/adfb2d10-e4e1-11f1-b039-c1944465024e.jpg",
-      "published": "Fri, 20 Nov 2026 13:57:49 GMT",
+      "published": "Fri, 20 Nov 2026 16:45:44 GMT",
       "sections": [
-        "quick-scan"
+        "wellbeing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -672,14 +634,14 @@
       "appearances": 1
     },
     {
-      "id": "f66d1aeddf88077a",
+      "id": "800e94cc659c07d1",
       "source": "Isthmus",
-      "headline": "Madison Solopreneur Lab - Isthmus | Madison, Wisconsin",
-      "summary": "Madison Solopreneur Lab Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3M0d2lYWHdTS3pJaDdyZk5pbGtTQmpWLTVHU01qcUJzWEdLQU5tTEJSeUVyQXFoQ2xJQ1JESFZWcVpIcEg2VWlGbDJud2haelprXzY5OFJrUHVLWF92ZDQ0bVFJMFhPbUNuNjdHM2x4YUo4eDNya3VhZjF6WS1QQlpSVDJlZ28?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3M0d2lYWHdTS3pJaDdyZk5pbGtTQmpWLTVHU01qcUJzWEdLQU5tTEJSeUVyQXFoQ2xJQ1JESFZWcVpIcEg2VWlGbDJud2haelprXzY5OFJrUHVLWF92ZDQ0bVFJMFhPbUNuNjdHM2x4YUo4eDNya3VhZjF6WS1QQlpSVDJlZ28",
+      "headline": "Madison County, Dan Lepien Band, Rachel Neal, Mane Thompson - Isthmus | Madison, Wisconsin",
+      "summary": "Madison County, Dan Lepien Band, Rachel Neal, Mane Thompson Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0tUSmwzaEJVX1QxeURZdUdBU2RoNkltdGcxX1kyRU5kTXZWLTZuQ3FVYjZxVHlOOFlOMUxJVnlCdnR3V2FHS2xxZEhWdEdLaXh0VlptQnlseWNnaktqdlRjQ1dNMmZsS1ZOTm5kcWkyVlFOaW9iMDNzSERxaWl1YjZWZzJIX3Z3NUhONA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0tUSmwzaEJVX1QxeURZdUdBU2RoNkltdGcxX1kyRU5kTXZWLTZuQ3FVYjZxVHlOOFlOMUxJVnlCdnR3V2FHS2xxZEhWdEdLaXh0VlptQnlseWNnaktqdlRjQ1dNMmZsS1ZOTm5kcWkyVlFOaW9iMDNzSERxaWl1YjZWZzJIX3Z3NUhONA",
       "image": "",
-      "published": "Fri, 20 Nov 2026 09:15:11 GMT",
+      "published": "Fri, 20 Nov 2026 17:47:45 GMT",
       "sections": [
         "local"
       ],
@@ -710,16 +672,16 @@
       "appearances": 1
     },
     {
-      "id": "7798e780c98f4283",
+      "id": "8669bdf95dda94c6",
       "source": "Isthmus",
-      "headline": "lexia frank photography - Isthmus | Madison, Wisconsin",
-      "summary": "lexia frank photography Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUjZ3RlFfbm9RLXY0eExqaFNKcUZBWElIcmNrMUdDdDVaakVuUmgweEp2b2wxeUZ6RUR6WFVZSzN5VGhBdEgyTlB3U25NWGpJQXpZS0JldGVvT2tfT2Rvag?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUjZ3RlFfbm9RLXY0eExqaFNKcUZBWElIcmNrMUdDdDVaakVuUmgweEp2b2wxeUZ6RUR6WFVZSzN5VGhBdEgyTlB3U25NWGpJQXpZS0JldGVvT2tfT2Rvag",
+      "headline": "Leroy from the North - Isthmus | Madison, Wisconsin",
+      "summary": "Leroy from the North Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBETkFZZ3NuZW4tM1pPS1NOaWlDWXFXaXEzSmdFeHJ3VmFIa3JwYVcwWkVOMHZMYUxxTGdFMzg1WWhNRnpIVVQ3ZzlYYzRwd1VkQ1U4SWM0bjVFcUxuM2w0ODVMMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBETkFZZ3NuZW4tM1pPS1NOaWlDWXFXaXEzSmdFeHJ3VmFIa3JwYVcwWkVOMHZMYUxxTGdFMzg1WWhNRnpIVVQ3ZzlYYzRwd1VkQ1U4SWM0bjVFcUxuM2w0ODVMMA",
       "image": "",
-      "published": "Fri, 20 Nov 2026 09:48:46 GMT",
+      "published": "Fri, 20 Nov 2026 17:47:41 GMT",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-20"
@@ -788,6 +750,44 @@
       "appearances": 3
     },
     {
+      "id": "ac72bf8df42ae789",
+      "source": "BBC US & Canada",
+      "headline": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+      "published": "Fri, 20 Nov 2026 17:42:36 GMT",
+      "sections": [
+        "must-know"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "2ea6c8bb93de27aa",
+      "source": "Search Engine Land",
+      "headline": "How to measure SEO performance and results - Search Engine Land",
+      "summary": "How to measure SEO performance and results Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBITG9KMVdHOF90NEZPYUczbGU4UWRrOHIzMXNTb0ItZDlnb21kbFREcHlCWjNZV0RscUVnS0R6eVI5S0JoeTlndFFDMmFfRHlPZjRQTk9pR2l4UQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBITG9KMVdHOF90NEZPYUczbGU4UWRrOHIzMXNTb0ItZDlnb21kbFREcHlCWjNZV0RscUVnS0R6eVI5S0JoeTlndFFDMmFfRHlPZjRQTk9pR2l4UQ",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 16:57:07 GMT",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
       "id": "3a79179d3a7df84a",
       "source": "NPR",
       "headline": "How Orchestra Noir turned classical music into a cultural movement",
@@ -827,7 +827,7 @@
     },
     {
       "id": "11147e28a0c160e4",
-      "source": "BBC US & Canada",
+      "source": "BBC World",
       "headline": "How did Anthropic's stock market debut unfold?",
       "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
       "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
@@ -855,6 +855,25 @@
       "published": "Fri, 20 Nov 2026 11:00:00 +0000",
       "sections": [
         "local"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "79c0f44d64a72eec",
+      "source": "The Verge",
+      "headline": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "canonical_url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "image": "",
+      "published": "2026-11-20T12:33:59-05:00",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-20"
@@ -893,6 +912,25 @@
       "published": "Fri, 20 Nov 2026 06:37:35 -0500",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "adae8ee65be338dc",
+      "source": "Search Engine Land",
+      "headline": "Google Ads automation drift: Why better performance numbers don't always mean better results - Search Engine Land",
+      "summary": "Google Ads automation drift: Why better performance numbers don't always mean better results Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ25jM1Z0cWVXZUJ2LWNjVmVSWXlOZHc4RXR5Nm42YWJnSzlUcWY1by1sdGdabmdZRlY3YkxwdFNVcUNEOWVzbnhyeFRXbTZVZy15ak52YlEzdVNQbXZ5QW1ndEw4LS1JU1Nod1dJYnh2X0VDZFBLbUpPbzhWa0NqbnlaclZnZ2Z0OURlWGJQOUZaUjdBWk5xRnE2VTdfblRCZFRUQ0JZbnBuWFgwbVo4MUNJRDZtSHJuYVpVb04yWE4yVUdq?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ25jM1Z0cWVXZUJ2LWNjVmVSWXlOZHc4RXR5Nm42YWJnSzlUcWY1by1sdGdabmdZRlY3YkxwdFNVcUNEOWVzbnhyeFRXbTZVZy15ak52YlEzdVNQbXZ5QW1ndEw4LS1JU1Nod1dJYnh2X0VDZFBLbUpPbzhWa0NqbnlaclZnZ2Z0OURlWGJQOUZaUjdBWk5xRnE2VTdfblRCZFRUQ0JZbnBuWFgwbVo4MUNJRDZtSHJuYVpVb04yWE4yVUdq",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 17:21:44 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-20"
@@ -959,12 +997,12 @@
       "appearances": 1
     },
     {
-      "id": "69cb7b79827594cb",
+      "id": "51f478b68bb31a0b",
       "source": "Reuters",
-      "headline": "Did you follow Arizona news this week? Take the azcentral news quiz - Fresno Bee",
-      "summary": "Did you follow Arizona news this week? Take the azcentral news quiz Fresno Bee",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uTUxzWWhDMTBDUEt1SDhUbHBPb0l6TlBjS0pmbFZPODF3a1JPU0tMeHB6ejdHbDUxbnBra3VDTUEySnFVMS1nRElsWmNVaXU4OFl5YXlybDhpQkFxQ2lXWFBQUXlsbFI4ZTU4aldCVjlwZFlNd2gxNkJiQ1RHdTA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uTUxzWWhDMTBDUEt1SDhUbHBPb0l6TlBjS0pmbFZPODF3a1JPU0tMeHB6ejdHbDUxbnBra3VDTUEySnFVMS1nRElsWmNVaXU4OFl5YXlybDhpQkFxQ2lXWFBQUXlsbFI4ZTU4aldCVjlwZFlNd2gxNkJiQ1RHdTA",
+      "headline": "Did you follow Arizona news this week? Take the azcentral news quiz - Sacramento Bee",
+      "summary": "Did you follow Arizona news this week? Take the azcentral news quiz Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xMmU1dXJLaE41dDZtOE5XQTlIWWJFWXg4Z3ZjVkt5Z3drYklHUFRTZmlWaGZnQWhQb0MwZkdnSXFCSHJBS1Zpei15NnotRUhzSWIwMGVmVldzbWxOTnVMR3BMZ1FZTnJ2VENORFJsV3E0RFAzNnJrWDRPbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xMmU1dXJLaE41dDZtOE5XQTlIWWJFWXg4Z3ZjVkt5Z3drYklHUFRTZmlWaGZnQWhQb0MwZkdnSXFCSHJBS1Zpei15NnotRUhzSWIwMGVmVldzbWxOTnVMR3BMZ1FZTnJ2VENORFJsV3E0RFAzNnJrWDRPbw",
       "image": "",
       "published": "Fri, 20 Nov 2026 11:06:00 GMT",
       "sections": [
@@ -1016,25 +1054,6 @@
       "appearances": 1
     },
     {
-      "id": "f7ff875e34940f67",
-      "source": "NPR",
-      "headline": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-      "summary": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-      "canonical_url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 05:00:00 -0500",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
       "id": "e2b0adfb5dc44f3e",
       "source": "Good News Network",
       "headline": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
@@ -1054,14 +1073,33 @@
       "appearances": 1
     },
     {
-      "id": "fb3d577571ba5da5",
+      "id": "06ee84395437a954",
+      "source": "Animals",
+      "headline": "Charlotte breaks ground on $30M animal adoption center to ease shelter overcrowding - WCNC",
+      "summary": "Charlotte breaks ground on $30M animal adoption center to ease shelter overcrowding WCNC",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VJV0NLQkU1a2QzSHdiS2ZXaFE4QjdZUkpJRjk1OFZCbmpwN2J0ZG4xcTUxa3RPWE5yY04wak1OMTdOM0VuS2hUY2FnTk1ZUWt6b2tLcG5TNXc4Qk5fdC1MX2RHSG1qc0p3bWNZdjM5dlZnLU9GT2hQaEoyTW42Z2VQU01RMlJjdGNsMTRTcWFxZU9DajFnZURGTHYxVWJWWko3UElEdU82TGhTN1BEUEZnVVhJSW1XSnVxR2RPOGpEaENNbUNxMi1YWkdmZDY1VWtIQnI5Wkh5MHdXXzBXLVhIeDlzTmRK?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa3VJV0NLQkU1a2QzSHdiS2ZXaFE4QjdZUkpJRjk1OFZCbmpwN2J0ZG4xcTUxa3RPWE5yY04wak1OMTdOM0VuS2hUY2FnTk1ZUWt6b2tLcG5TNXc4Qk5fdC1MX2RHSG1qc0p3bWNZdjM5dlZnLU9GT2hQaEoyTW42Z2VQU01RMlJjdGNsMTRTcWFxZU9DajFnZURGTHYxVWJWWko3UElEdU82TGhTN1BEUEZnVVhJSW1XSnVxR2RPOGpEaENNbUNxMi1YWkdmZDY1VWtIQnI5Wkh5MHdXXzBXLVhIeDlzTmRK",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 10:46:00 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-20"
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "appearances": 1
+    },
+    {
+      "id": "b15c605acea6f263",
       "source": "BBC World",
-      "headline": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
-      "published": "Fri, 20 Nov 2026 04:13:22 GMT",
+      "headline": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
+      "published": "Fri, 20 Nov 2026 15:55:02 GMT",
       "sections": [
         "must-know"
       ],
@@ -1080,7 +1118,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB?oc=5",
       "canonical_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQandzNkVUZl9tWFRVNHJ4ZG1xUkEwZG50RGZvb1NfUmhjMEhNbGdSM0Rvbjl2ano5STVaVjZJckFCNFB3R1Z6Tjk4RkRWMVdUYVJITGpBWkc1Z0tsd2pWaUptV3dZd05CdVhxWXk0QWl1M1ZHNHNSQy1vMXFBbVNET1dFYjVZTWtWTEJacjEwcFd6TVNGQmhxS3pHNWN0cEROUGFXZXdyS1JzNzFkMG5vVkJydDRHWk55YnNEMVNydXpxOFozNjRtd05PZmhhVDBPMGxKODU2dXU4dFZhY0dqbUZB",
       "image": "",
-      "published": "Fri, 20 Nov 2026 04:02:39 GMT",
+      "published": "Fri, 20 Nov 2026 16:02:40 GMT",
       "sections": [
         "animals"
       ],
@@ -1113,32 +1151,13 @@
     },
     {
       "id": "4dfd121c6c304146",
-      "source": "BBC Technology",
-      "headline": "Anthropic shares fall a day after blockbuster opening",
+      "source": "BBC World",
+      "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "published": "Fri, 20 Nov 2026 15:44:53 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-20"
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "appearances": 1
-    },
-    {
-      "id": "11a8aa5fd92f82ca",
-      "source": "BBC World",
-      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-      "published": "Thu, 19 Nov 2026 23:33:51 GMT",
+      "published": "Fri, 20 Nov 2026 17:36:29 GMT",
       "sections": [
         "ai-tech"
       ],
@@ -1226,16 +1245,16 @@
       "appearances": 1
     },
     {
-      "id": "520b02e3036d3b60",
-      "source": "Wisconsin News",
-      "headline": "Adam Hargrove to lead Wisconsin’s Educational Communications Board - current.org",
-      "summary": "Adam Hargrove to lead Wisconsin’s Educational Communications Board current.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmJ4cy1QSUp6NzRlMjljUmJ4bHI2N09xUTNHc09RQmVfMUw4Ymc3NGlxTHpMOTZmRW5Td2hPSmloWGtEaGU2Z2hEMGVZcXJJbE1kNm4tNFlIV0NBME54ajczUFZMWG5TY2tlMmt3dlItOGR4VDZrSXB0b09tbE45Rl93N04wdTZfU0hOS3ZocTVwbTgyb3MwZXV3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmJ4cy1QSUp6NzRlMjljUmJ4bHI2N09xUTNHc09RQmVfMUw4Ymc3NGlxTHpMOTZmRW5Td2hPSmloWGtEaGU2Z2hEMGVZcXJJbE1kNm4tNFlIV0NBME54ajczUFZMWG5TY2tlMmt3dlItOGR4VDZrSXB0b09tbE45Rl93N04wdTZfU0hOS3ZocTVwbTgyb3MwZXV3",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 13:46:44 GMT",
+      "id": "3bf74b4ec6a6e8f9",
+      "source": "BBC US & Canada",
+      "headline": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+      "summary": "GTA 6 fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a25a/live/8d9dd5f0-e503-11f1-9e2f-7fb5281f0b3c.jpg",
+      "published": "Fri, 20 Nov 2026 16:29:18 GMT",
       "sections": [
-        "local"
+        "big-story"
       ],
       "report_dates": [
         "2026-11-20"
@@ -1254,7 +1273,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b367/live/f062d950-e4f0-11f1-99a1-253766e7ad8b.jpg",
       "published": "Fri, 20 Nov 2026 15:06:08 GMT",
       "sections": [
-        "wellbeing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-20"
@@ -1262,27 +1281,6 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "appearances": 1
-    },
-    {
-      "id": "ddf29dc290aa4147",
-      "source": "BBC US & Canada",
-      "headline": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-      "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
-      "published": "Thu, 19 Nov 2026 11:43:06 GMT",
-      "sections": [
-        "big-story",
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-20",
-        "2026-11-19"
-      ],
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "appearances": 2
     },
     {
       "id": "82130019fe0a4652",
@@ -2530,6 +2528,25 @@
       "published": "Thu, 19 Nov 2026 11:04:40 GMT",
       "sections": [
         "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "ddf29dc290aa4147",
+      "source": "BBC US & Canada",
+      "headline": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+      "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+      "published": "Thu, 19 Nov 2026 11:43:06 GMT",
+      "sections": [
+        "big-story"
       ],
       "report_dates": [
         "2026-11-19"
