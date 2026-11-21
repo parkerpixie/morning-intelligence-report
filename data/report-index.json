@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-20.json",
-  "report_date": "2026-11-20",
-  "generated_at": "2026-11-20T19:07:41.320353+00:00",
-  "edition_count": 128,
+  "latest": "data/archive/2026-11-21.json",
+  "report_date": "2026-11-21",
+  "generated_at": "2026-11-21T14:43:55.454493+00:00",
+  "edition_count": 129,
   "editions": [
+    {
+      "report_date": "2026-11-21",
+      "generated_at": "2026-11-21T14:43:55.454493+00:00",
+      "path": "data/archive/2026-11-21.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk",
+        "summary": "A Brown County judge on Thursday tossed out a lawsuit against Elon Musk, alleging that payments he made to voters during the 2025 Wisconsin Supreme Court campaign amounted to bribery and an illegal lottery.",
+        "url": "https://www.wpr.org/news/elon-musk-supreme-court-lawsuit-brown-county-schimel-crawford",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-20",
       "generated_at": "2026-11-20T19:07:41.320353+00:00",
