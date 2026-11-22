@@ -1,9 +1,28 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T14:41:43.532791+00:00",
+  "generated_at": "2026-11-22T15:42:54.821241+00:00",
   "edition_count": 130,
-  "story_count": 8114,
+  "story_count": 8115,
   "stories": [
+    {
+      "id": "0ab81e858bdddad0",
+      "source": "Good News Network",
+      "headline": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved",
+      "summary": "Millions of people with high blood pressure may be offered an actual cure for its root cause that would bring long-lasting relief. Doctors were stunned by the latest study of patients who took the FDA-approved drug called baxdrostat, which showed that it reversed the condition—even for years after patients stopped taking the medication. Baxdrostat (aka",
+      "url": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+      "canonical_url": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 14:58:57 +0000",
+      "sections": [
+        "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-22"
+      ],
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "appearances": 1
+    },
     {
       "id": "1c20aabfa0ef2b66",
       "source": "BBC World",
@@ -74,25 +93,6 @@
       "published": "Sun, 22 Nov 2026 11:50:00 GMT",
       "sections": [
         "big-story"
-      ],
-      "report_dates": [
-        "2026-11-22"
-      ],
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "appearances": 1
-    },
-    {
-      "id": "a9d5b1f028fd4109",
-      "source": "Wisconsin News",
-      "headline": "Wisconsin's supper clubs, where community is always on the menu - CBS News",
-      "summary": "Wisconsin's supper clubs, where community is always on the menu CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczB2WEZjNjFjWkJET1RVbklvNWMxSjZmdlNzVU0yRUlyMml3U0RCZXdtVU92UW11OHVPNHZnUDBRRFN2Ri10YUU0ODRSeXAxY2FpX0NZbVZTN3VmT3BWWUw1MHhZUHZ5bktkVEtZeTdfZUxTOXBPUUN6bUNYa255Sks2R2ZUZV94ZVNJNzNqaF9QU284VmZn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczB2WEZjNjFjWkJET1RVbklvNWMxSjZmdlNzVU0yRUlyMml3U0RCZXdtVU92UW11OHVPNHZnUDBRRFN2Ri10YUU0ODRSeXAxY2FpX0NZbVZTN3VmT3BWWUw1MHhZUHZ5bktkVEtZeTdfZUxTOXBPUUN6bUNYa255Sks2R2ZUZV94ZVNJNzNqaF9QU284VmZn",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 14:22:00 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-11-22"
@@ -221,25 +221,6 @@
       "appearances": 2
     },
     {
-      "id": "ff9671d2d2653042",
-      "source": "AI News",
-      "headline": "Trump says AI leaders signed a 'constitution' to police themselves - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Trump says AI leaders signed a 'constitution' to police themselves ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanlhb3luTWNPUUpYbzhHV2tQdUF1dEVhN3d5VDJZdGwzRU1fT1Nsb2ZrNjRNeHNiem1HNTZaSzdQcU80MTVwSE44a0pvR1J3eTZIRG0yRjhnSWdVVjJuek1qTDVIOVAwTDZRRXlPR25xUU83NWkyd2swVWFsbE5ELVYyNzFCU1RETWY2S21pVlNBYVEw0gGaAUFVX3lxTE5qYlFleHFIUHFxbnkxTDVvZmx5RmI5SHRCY1Bnc0wxejY5emRkd2RsWDA4WUNndklFbG1qVzBBRkdreUtGZ0VLc3hlNWVHc3d1NHdiUzRKZkhNczhTZTBBSXdzZlZGM2ZTbndUaFlob0R4Q2pQT0t0aXlUTnhfYnJPQkRNWlVGOG80U240NHR1U3hnSVpCN0Y4QVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanlhb3luTWNPUUpYbzhHV2tQdUF1dEVhN3d5VDJZdGwzRU1fT1Nsb2ZrNjRNeHNiem1HNTZaSzdQcU80MTVwSE44a0pvR1J3eTZIRG0yRjhnSWdVVjJuek1qTDVIOVAwTDZRRXlPR25xUU83NWkyd2swVWFsbE5ELVYyNzFCU1RETWY2S21pVlNBYVEw0gGaAUFVX3lxTE5qYlFleHFIUHFxbnkxTDVvZmx5RmI5SHRCY1Bnc0wxejY5emRkd2RsWDA4WUNndklFbG1qVzBBRkdreUtGZ0VLc3hlNWVHc3d1NHdiUzRKZkhNczhTZTBBSXdzZlZGM2ZTbndUaFlob0R4Q2pQT0t0aXlUTnhfYnJPQkRNWlVGOG80U240NHR1U3hnSVpCN0Y4QVE",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 08:25:48 GMT",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-22"
-      ],
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "appearances": 1
-    },
-    {
       "id": "460719117a505666",
       "source": "NPR",
       "headline": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -259,26 +240,6 @@
       "appearances": 1
     },
     {
-      "id": "bf5f04ab493ead2b",
-      "source": "Klaviyo",
-      "headline": "Triggered Automations (Flows) Dashboard - Klaviyo",
-      "summary": "Triggered Automations (Flows) Dashboard Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fZ3ZaaGxhZGJGazJCSm1YcHUtZVhiVEpmNzA0ZjhGNU5jV3phNk52N0hDUGJ4Wm9aQmxLYzBmVU5sb2k2ZWFHdTRpR1NDcFB6M0Q4T1pn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fZ3ZaaGxhZGJGazJCSm1YcHUtZVhiVEpmNzA0ZjhGNU5jV3phNk52N0hDUGJ4Wm9aQmxLYzBmVU5sb2k2ZWFHdTRpR1NDcFB6M0Q4T1pn",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 08:10:37 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-22",
-        "2026-10-31"
-      ],
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-22",
-      "appearances": 2
-    },
-    {
       "id": "cd3f9ca39c7787eb",
       "source": "BBC World",
       "headline": "Three killed and dozens missing after fire at Indonesian factory",
@@ -296,26 +257,6 @@
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "appearances": 1
-    },
-    {
-      "id": "3cc9a89a6eeeeb8a",
-      "source": "Good News Network",
-      "headline": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
-      "summary": "Antarctic blue whales have increased in number 1,000% since 1973 when the harpoons were finally hung up for good. Growing from just 418 whales to 4,018, the superb recovery has averaged 4.5% per year. Though the International Whaling Commission banned the killing of Antarctic blue whales in 1964, illegal whaling continued until 1973. These long-lived animals—the",
-      "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
-      "canonical_url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling",
-      "image": "",
-      "published": "Wed, 18 Nov 2026 14:00:45 +0000",
-      "sections": [
-        "wonderful"
-      ],
-      "report_dates": [
-        "2026-11-22",
-        "2026-11-18"
-      ],
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
-      "appearances": 2
     },
     {
       "id": "0f50037c76f25ff3",
@@ -491,6 +432,27 @@
       "appearances": 2
     },
     {
+      "id": "4e38ff5428baec33",
+      "source": "Animals",
+      "headline": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer - Shedd Aquarium",
+      "summary": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer Shedd Aquarium",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 03:36:34 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-22",
+        "2026-11-14",
+        "2026-11-07"
+      ],
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-22",
+      "appearances": 3
+    },
+    {
       "id": "4c9d70de279cb63c",
       "source": "BBC World",
       "headline": "Russia-bound ship still on fire after attack in Gulf of Finland",
@@ -548,16 +510,35 @@
       "appearances": 1
     },
     {
-      "id": "b3b3f9a877b32821",
-      "source": "Animals",
-      "headline": "Participants and rescue dogs connect at Seoul yoga programme - The Straits Times",
-      "summary": "Participants and rescue dogs connect at Seoul yoga programme The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlQyaFNKVkphUGRSUVJWcWhoLVNqN3VuUHM5bnNyQV9SSG9tLTFnSFlIMkl1RndhTm02eDZHV1FVMEQtTUxHNFRvbHI2NHVfWExULUZsTk5RR3AtYjJ0TFRKZVRMRVdqZkVIZW9rc0gyVGwzbFJlbW9lWUdFRVA0enVtR0pmMzJ3Vk5kaElWZWd4ZUk4Umx0aEV2ZFpBbGN3UnVYSmJGLWlXS2Y1R1BFM1M3SGdHdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlQyaFNKVkphUGRSUVJWcWhoLVNqN3VuUHM5bnNyQV9SSG9tLTFnSFlIMkl1RndhTm02eDZHV1FVMEQtTUxHNFRvbHI2NHVfWExULUZsTk5RR3AtYjJ0TFRKZVRMRVdqZkVIZW9rc0gyVGwzbFJlbW9lWUdFRVA0enVtR0pmMzJ3Vk5kaElWZWd4ZUk4Umx0aEV2ZFpBbGN3UnVYSmJGLWlXS2Y1R1BFM1M3SGdHdw",
+      "id": "2269595c3cbcf4ec",
+      "source": "The Verge",
+      "headline": "Protesters storm Meta offices in India",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "canonical_url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
       "image": "",
-      "published": "Sun, 22 Nov 2026 02:05:00 GMT",
+      "published": "2026-11-22T10:15:07-05:00",
       "sections": [
-        "animals"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-22"
+      ],
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "appearances": 1
+    },
+    {
+      "id": "0697f77bb6d4fe6a",
+      "source": "Wisconsin News",
+      "headline": "Novembers with the most precipitation in Wisconsin since 1895 - WBAY",
+      "summary": "Novembers with the most precipitation in Wisconsin since 1895 WBAY",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNei1FY3pGelE1M3RlMG9KQURxTUlQR1JJaHlGRXN4cXFzLS0zX0VzWDdFelVrREZfYjBoMmNTS1pCRWFQY0xkME5jeS0xcndTTlFTOTdpVFl2RTE3a0RfS0xxY0Mzc1I3STQ3UFFleVNleVRLTnZpMHN5SzRXX2djc2ttSUJRdk02NVFERDVFamU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNei1FY3pGelE1M3RlMG9KQURxTUlQR1JJaHlGRXN4cXFzLS0zX0VzWDdFelVrREZfYjBoMmNTS1pCRWFQY0xkME5jeS0xcndTTlFTOTdpVFl2RTE3a0RfS0xxY0Mzc1I3STQ3UFFleVNleVRLTnZpMHN5SzRXX2djc2ttSUJRdk02NVFERDVFamU",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 15:00:00 GMT",
+      "sections": [
+        "local"
       ],
       "report_dates": [
         "2026-11-22"
@@ -797,6 +778,25 @@
       "appearances": 1
     },
     {
+      "id": "c01ad3f6a089332a",
+      "source": "Wisconsin News",
+      "headline": "In Focus: Wisconsin's gun deer hunting season underway - Spectrum News",
+      "summary": "In Focus: Wisconsin's gun deer hunting season underway Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzRqUjRodC1ZVjhrejZuNTFVbDBCbzkydzB0QkpEcW42eFJkYjQ0cVkwZXdMZm9zTXZHbS1GSEhsdXpDU3ZWdlNROEdZMmI0MVFveW93SWd2dGdJLXBKdDNad1B5aXRQVVdGbkVCdmVxaHlYYjhkVDNvTF9JY1habnpYbUxnRmowa3lBSG9jUVBwSEVaSW01QW9Ba2hzcHhlaWtkcVlR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzRqUjRodC1ZVjhrejZuNTFVbDBCbzkydzB0QkpEcW42eFJkYjQ0cVkwZXdMZm9zTXZHbS1GSEhsdXpDU3ZWdlNROEdZMmI0MVFveW93SWd2dGdJLXBKdDNad1B5aXRQVVdGbkVCdmVxaHlYYjhkVDNvTF9JY1habnpYbUxnRmowa3lBSG9jUVBwSEVaSW01QW9Ba2hzcHhlaWtkcVlR",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 15:30:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-22"
+      ],
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "appearances": 1
+    },
+    {
       "id": "e3819dbc0a130eff",
       "source": "BBC Health",
       "headline": "I lost my dad, mum and sister to the same aggressive brain cancer",
@@ -864,25 +864,6 @@
       "published": "Sat, 21 Nov 2026 17:01:35 -0500",
       "sections": [
         "must-know"
-      ],
-      "report_dates": [
-        "2026-11-22"
-      ],
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "appearances": 1
-    },
-    {
-      "id": "422b523c4f9fb5a1",
-      "source": "Madison Local",
-      "headline": "Helen Brewster Obituary (1944 - 2026) - Madison, WI - Madison.com - Legacy | Obituary",
-      "summary": "Helen Brewster Obituary (1944 - 2026) - Madison, WI - Madison.com Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelpiazhCMzRyOGQ4ZzR1Y1dGcTFUNGpTSElBY3VGbHZvYXlwcGdvbjZteF9oYlQxSGllYXpoQ3hCWU1pY2FWUEtIMnY5LXNMSW9zbXoydTZkNUlteTJOZDBxZUhlV0pQVkFMeWs3V0cwcVhJZVpYbHhOb2Z4V2t2MVFBTWVUV1k2a0I0b1lR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelpiazhCMzRyOGQ4ZzR1Y1dGcTFUNGpTSElBY3VGbHZvYXlwcGdvbjZteF9oYlQxSGllYXpoQ3hCWU1pY2FWUEtIMnY5LXNMSW9zbXoydTZkNUlteTJOZDBxZUhlV0pQVkFMeWs3V0cwcVhJZVpYbHhOb2Z4V2t2MVFBTWVUV1k2a0I0b1lR",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 07:18:49 GMT",
-      "sections": [
-        "local"
       ],
       "report_dates": [
         "2026-11-22"
@@ -1300,6 +1281,25 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-22",
       "appearances": 2
+    },
+    {
+      "id": "37d9442e7321ecfd",
+      "source": "Klaviyo",
+      "headline": "10 BFCM Marketing Tips & Best Practices to Maximize Holiday Sales - Klaviyo",
+      "summary": "10 BFCM Marketing Tips & Best Practices to Maximize Holiday Sales Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTUNFQXpNWURhWDF2TEpzWDQwZzJ5WTd3LVBZMEx1UVV6X2tfak4zNHZDZHNabmVvWFEwbC00QTNDOXRybHBfbEZXVEkzUzA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTUNFQXpNWURhWDF2TEpzWDQwZzJ5WTd3LVBZMEx1UVV6X2tfak4zNHZDZHNabmVvWFEwbC00QTNDOXRybHBfbEZXVEkzUzA",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-22"
+      ],
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "appearances": 1
     },
     {
       "id": "6a4e3e34f9134744",
@@ -5338,6 +5338,25 @@
       "published": "Wed, 18 Nov 2026 05:32:03 -0500",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-11-18"
+      ],
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "appearances": 1
+    },
+    {
+      "id": "3cc9a89a6eeeeb8a",
+      "source": "Good News Network",
+      "headline": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
+      "summary": "Antarctic blue whales have increased in number 1,000% since 1973 when the harpoons were finally hung up for good. Growing from just 418 whales to 4,018, the superb recovery has averaged 4.5% per year. Though the International Whaling Commission banned the killing of Antarctic blue whales in 1964, illegal whaling continued until 1973. These long-lived animals—the",
+      "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+      "canonical_url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 14:00:45 +0000",
+      "sections": [
+        "wonderful"
       ],
       "report_dates": [
         "2026-11-18"
@@ -10366,26 +10385,6 @@
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-14",
       "appearances": 1
-    },
-    {
-      "id": "4e38ff5428baec33",
-      "source": "Animals",
-      "headline": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer - Shedd Aquarium",
-      "summary": "Shedd Aquarium Names Brad Rutherford Chief Animal Conservation Officer Shedd Aquarium",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam1Ycm9ubGhMMGJncWJ0TmtQUnlIM1FNYUM5R0w4S3EzU1JCWXNZcU5wYXZRck9pSkxWWnlabm9CTng1ZkxHcWphenBWMW82cWhBc25HTEpqbkxOQTh0TDJ0VVU4R2pFZXlEWWpsQ0tralpidThMNVdnZGlaMm8tU3VxVQ",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 14:17:25 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-14",
-        "2026-11-07"
-      ],
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-14",
-      "appearances": 2
     },
     {
       "id": "52d66cc31d3ec979",
@@ -27238,6 +27237,25 @@
       "published": "Sat, 31 Oct 2026 14:20:01 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-10-31"
+      ],
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "appearances": 1
+    },
+    {
+      "id": "bf5f04ab493ead2b",
+      "source": "Klaviyo",
+      "headline": "Triggered Automations (Flows) Dashboard - Klaviyo",
+      "summary": "Triggered Automations (Flows) Dashboard Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fZ3ZaaGxhZGJGazJCSm1YcHUtZVhiVEpmNzA0ZjhGNU5jV3phNk52N0hDUGJ4Wm9aQmxLYzBmVU5sb2k2ZWFHdTRpR1NDcFB6M0Q4T1pn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fZ3ZaaGxhZGJGazJCSm1YcHUtZVhiVEpmNzA0ZjhGNU5jV3phNk52N0hDUGJ4Wm9aQmxLYzBmVU5sb2k2ZWFHdTRpR1NDcFB6M0Q4T1pn",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 05:44:37 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-10-31"
