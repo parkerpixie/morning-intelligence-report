@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-21.json",
-  "report_date": "2026-11-21",
-  "generated_at": "2026-11-21T18:01:12.226551+00:00",
-  "edition_count": 129,
+  "latest": "data/archive/2026-11-22.json",
+  "report_date": "2026-11-22",
+  "generated_at": "2026-11-22T14:40:05.184341+00:00",
+  "edition_count": 130,
   "editions": [
+    {
+      "report_date": "2026-11-22",
+      "generated_at": "2026-11-22T14:40:05.184341+00:00",
+      "path": "data/archive/2026-11-22.json",
+      "top_story": {
+        "source": "Dane County",
+        "headline": "With Dane County Election Center underway, Madison mulls buying its own facility - Wisconsin State Journal",
+        "summary": "With Dane County Election Center underway, Madison mulls buying its own facility Wisconsin State Journal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE?oc=5",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-21",
       "generated_at": "2026-11-21T18:01:12.226551+00:00",
