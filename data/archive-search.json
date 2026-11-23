@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T21:29:38.229319+00:00",
+  "generated_at": "2026-11-23T22:43:22.021322+00:00",
   "edition_count": 131,
-  "story_count": 8172,
+  "story_count": 8173,
   "stories": [
     {
       "id": "d75528e294a30965",
@@ -90,7 +90,7 @@
       "image": "",
       "published": "Mon, 23 Nov 2026 21:20:55 GMT",
       "sections": [
-        "local"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-23"
@@ -138,6 +138,25 @@
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-23",
       "appearances": 3
+    },
+    {
+      "id": "8ab70d6f89cfc96b",
+      "source": "The Verge",
+      "headline": "Welcome to elite impunity, Jensen Huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "image": "",
+      "published": "2026-11-23T17:09:26-05:00",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
     },
     {
       "id": "1eb85ac75d7f047c",
@@ -199,6 +218,25 @@
       "appearances": 2
     },
     {
+      "id": "8e9a839c44d1e99e",
+      "source": "Wisconsin News",
+      "headline": "Visit Wausau earns Wisconsin Tourism Trailblazer Award - Wausau Pilot & Review",
+      "summary": "Visit Wausau earns Wisconsin Tourism Trailblazer Award Wausau Pilot & Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkpoRGFyZmgxX1Q1TnhmOTlmNlA0b24wUTVQMU5UTThnZUxZQUctX3JQRG50QlhEeUc2bVJISzlfZXBIY1lTTzZQVjZKNW9ZZ1V2cmptSTluYzBEOFZmZlVmYUkzQjdubFZMX0dBQnQtdW9XcGpOcFhoYzRaVEdKaEgxUkxzdXVuWW80cXRsbzJhYkFXSXVGblJNTnVZODNM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkpoRGFyZmgxX1Q1TnhmOTlmNlA0b24wUTVQMU5UTThnZUxZQUctX3JQRG50QlhEeUc2bVJISzlfZXBIY1lTTzZQVjZKNW9ZZ1V2cmptSTluYzBEOFZmZlVmYUkzQjdubFZMX0dBQnQtdW9XcGpOcFhoYzRaVEdKaEgxUkxzdXVuWW80cXRsbzJhYkFXSXVGblJNTnVZODNM",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 22:05:00 GMT",
+      "sections": [
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
       "id": "2d882f0bc8f54668",
       "source": "BBC Science",
       "headline": "Village's concern over sewage discharge in dry river",
@@ -237,6 +275,25 @@
       "appearances": 1
     },
     {
+      "id": "3c7214ece71fcc2e",
+      "source": "BBC World",
+      "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "published": "Mon, 23 Nov 2026 22:15:26 GMT",
+      "sections": [
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
       "id": "2aa9fd24f84b5e13",
       "source": "BBC US & Canada",
       "headline": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
@@ -256,16 +313,35 @@
       "appearances": 1
     },
     {
-      "id": "b9d1aefd5c5577c1",
-      "source": "BBC US & Canada",
-      "headline": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
-      "summary": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-      "published": "Mon, 23 Nov 2026 19:52:52 GMT",
+      "id": "60e5451e017bf2ee",
+      "source": "Ars Technica",
+      "headline": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "canonical_url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg",
+      "published": "Mon, 23 Nov 2026 21:58:34 +0000",
       "sections": [
-        "must-know"
+        "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
+      "id": "049542555c2cb3db",
+      "source": "The Verge",
+      "headline": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "image": "",
+      "published": "2026-11-23T17:25:12-05:00",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-23"
@@ -313,45 +389,6 @@
       "appearances": 1
     },
     {
-      "id": "d35493f0f62df89c",
-      "source": "Taylor Fashion",
-      "headline": "Taylor Swift sparkles in sequins and fringe to round out glamorous CMA Awards 2026 appearance - Page Six",
-      "summary": "Taylor Swift sparkles in sequins and fringe to round out glamorous CMA Awards 2026 appearance Page Six",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3psOXZzejBKSWg3MERCVGpnXzdFZUxGc2VCdjdrdlhlR2kxSDVCYVhjLTRhSXl3elU3ald2TzcyYmo2ZDZvZVFaYVppNTREa29VTDBKYllLQXhzOTVaVkZZdERvazdQUGNWd3RlN0R0WWtHdjNzcHhMYmp4MGZ4ZEZ1bHQxeDhnYUFyZGtNMm9fUlNScHBDNWVnZi1vNzM3OGsyYUZMdEZOZDlObVVGNGNnaWxCb0U?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3psOXZzejBKSWg3MERCVGpnXzdFZUxGc2VCdjdrdlhlR2kxSDVCYVhjLTRhSXl3elU3ald2TzcyYmo2ZDZvZVFaYVppNTREa29VTDBKYllLQXhzOTVaVkZZdERvazdQUGNWd3RlN0R0WWtHdjNzcHhMYmp4MGZ4ZEZ1bHQxeDhnYUFyZGtNMm9fUlNScHBDNWVnZi1vNzM3OGsyYUZMdEZOZDlObVVGNGNnaWxCb0U",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 16:23:00 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-23",
-        "2026-11-19"
-      ],
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-23",
-      "appearances": 2
-    },
-    {
-      "id": "f80a2ca99611f81f",
-      "source": "Ars Technica",
-      "headline": "Surveillance pricing uses our personal data to make us pay more",
-      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822-1152x648.jpg",
-      "published": "Mon, 23 Nov 2026 20:11:43 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
       "id": "f2df81fbedc27577",
       "source": "BBC Health",
       "headline": "Striking doctor says they are advocating for the health service",
@@ -371,6 +408,25 @@
       "appearances": 1
     },
     {
+      "id": "972640f78a70025d",
+      "source": "Ars Technica",
+      "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+      "published": "Mon, 23 Nov 2026 21:30:44 +0000",
+      "sections": [
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
       "id": "512c70520340b3ac",
       "source": "Search Engine Land",
       "headline": "SEO forecasting and predictive analytics: How to estimate traffic and revenue - Search Engine Land",
@@ -381,25 +437,6 @@
       "published": "Mon, 23 Nov 2026 17:59:51 GMT",
       "sections": [
         "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
-      "id": "cb88e1b28dcac8ef",
-      "source": "NPR",
-      "headline": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-      "canonical_url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-      "image": "",
-      "published": "Mon, 23 Nov 2026 05:00:00 -0500",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-23"
@@ -447,25 +484,6 @@
       "appearances": 1
     },
     {
-      "id": "4f9577781e5be200",
-      "source": "Ars Technica",
-      "headline": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "canonical_url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg",
-      "published": "Mon, 23 Nov 2026 20:34:51 +0000",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
       "id": "ac8b319940d273ae",
       "source": "BBC Entertainment",
       "headline": "Russell Brand's wife says she'll honour prison rules after message row",
@@ -504,25 +522,6 @@
       "appearances": 1
     },
     {
-      "id": "4b8229dcb20d20a0",
-      "source": "Variety",
-      "headline": "Oscars: 38 Animated Movies, 104 International Films and 190 Documentaries Make the Eligibility Lists, Setting New Records",
-      "summary": "The Academy of Motion Picture Arts and Sciences has released the lists of films eligible for animated feature, documentary feature and international feature at the 99th Academy Awards, and two of the three are setting records. Animated feature has 38 eligible films, the most in the category’s history. International feature has 104, also a record.",
-      "url": "https://variety.com/2026/film/awards/oscars-2027-eligible-animated-documentary-international-1236956087/",
-      "canonical_url": "https://variety.com/2026/film/awards/oscars-2027-eligible-animated-documentary-international-1236956087",
-      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-2-4.jpg",
-      "published": "Mon, 23 Nov 2026 19:00:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
       "id": "78384e70189132e3",
       "source": "Good News Network",
       "headline": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
@@ -533,6 +532,25 @@
       "published": "Mon, 23 Nov 2026 16:04:07 +0000",
       "sections": [
         "wonderful"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
+      "id": "15c28179b2dc3ec9",
+      "source": "The Verge",
+      "headline": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "image": "",
+      "published": "2026-11-23T17:10:32-05:00",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-23"
@@ -581,6 +599,25 @@
       "appearances": 2
     },
     {
+      "id": "22382c743803dd76",
+      "source": "Variety",
+      "headline": "Music Industry Moves: Gram Parsons Estate Signs With Peermusic; Roger Miller Posthumously Inducted Into Songwriters Hall of Fame",
+      "summary": "Peermusic has signed a publishing deal for the song catalog of Gram Parsons and will assume worldwide administration, it was announced last week by Peermusic CEO Mary Megan Peer and U.S./ Canada president Jamie Cerreta. Perhaps more than any other artist, Parsons — who was inducted posthumously into the Rock & Roll Hall of Fame",
+      "url": "https://variety.com/2026/music/news/gram-parsons-estate-signs-with-peermusic-1236956337/",
+      "canonical_url": "https://variety.com/2026/music/news/gram-parsons-estate-signs-with-peermusic-1236956337",
+      "image": "https://variety.com/wp-content/uploads/2023/11/GettyImages-85237440-e1701019860146.jpg",
+      "published": "Mon, 23 Nov 2026 22:20:13 +0000",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
       "id": "3da8649f1efa3579",
       "source": "NPR",
       "headline": "Mushroom supplements promise health benefits. What does the science say?",
@@ -591,25 +628,6 @@
       "published": "Mon, 23 Nov 2026 05:00:00 -0500",
       "sections": [
         "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
-      "id": "3826e22e5d745d20",
-      "source": "NPR",
-      "headline": "Morning news brief",
-      "summary": "A look at how artificial intelligence is affecting the economy, NATO to meet after Russian missiles hit Poland, negotiators fail to reach a deal as COP31 comes to an end.",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
-      "canonical_url": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
-      "image": "",
-      "published": "Mon, 23 Nov 2026 04:45:21 -0500",
-      "sections": [
-        "ai-tech"
       ],
       "report_dates": [
         "2026-11-23"
@@ -697,16 +715,16 @@
       "appearances": 1
     },
     {
-      "id": "d70cab9089ae301f",
-      "source": "Marketing Brew",
-      "headline": "How Joya Studio brought the scents of A24's ‘Backrooms’ into consumers’ own rooms",
-      "summary": "The fragrance house worked with A24 to interpret liminal spaces from “Backrooms” for home theaters with the goal of building personal connections with audiences.",
-      "url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
-      "canonical_url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score",
+      "id": "35f875ddfac99a12",
+      "source": "Medical Xpress",
+      "headline": "How sensory neurons help the brain pursue its goals - Medical Xpress",
+      "summary": "How sensory neurons help the brain pursue its goals Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONktNa2haYUsxOEdjMk5rcC1OV0M4ZWl3bVhWWUhGdmYzSEJMOFRURTNlenhXM0sxUmdYOUpUaEVlZ2xaNHZERDlsY09GX1N2UEk3TkxUZ21hbm9CZ25ZX25DcU9lZnc5d1lxaC1uclVkWU51cExCZjc4NVM0dEpfczNnZy0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONktNa2haYUsxOEdjMk5rcC1OV0M4ZWl3bVhWWUhGdmYzSEJMOFRURTNlenhXM0sxUmdYOUpUaEVlZ2xaNHZERDlsY09GX1N2UEk3TkxUZ21hbm9CZ25ZX25DcU9lZnc5d1lxaC1uclVkWU51cExCZjc4NVM0dEpfczNnZy0",
       "image": "",
-      "published": "Mon, 23 Nov 2026 15:13:59 +0000",
+      "published": "Mon, 23 Nov 2026 21:00:07 GMT",
       "sections": [
-        "work-marketing"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-23"
@@ -765,6 +783,25 @@
       "published": "Mon, 23 Nov 2026 14:08:50 GMT",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
+      "id": "2b925ce40004c896",
+      "source": "Klaviyo",
+      "headline": "Full Page Forms for Higher Conversion - Klaviyo",
+      "summary": "Full Page Forms for Higher Conversion Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hbWhZOW1pSVpIZm9EZHpkdnpsRFdnemJ1TVFnNEY4c0RoWFREVXJXOVp4TGl5VGpKNFFuQkQ2Vkswd21kdlBRZS1Od25QNExMZnRiVGc3OA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hbWhZOW1pSVpIZm9EZHpkdnpsRFdnemJ1TVFnNEY4c0RoWFREVXJXOVp4TGl5VGpKNFFuQkQ2Vkswd21kdlBRZS1Od25QNExMZnRiVGc3OA",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 18:06:46 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-23"
@@ -849,6 +886,25 @@
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-23",
       "appearances": 2
+    },
+    {
+      "id": "ae8e22c9dc1cdfdb",
+      "source": "Animals",
+      "headline": "Dog attack claims spark call for urgent Paphos shelter checks - Philenews",
+      "summary": "Dog attack claims spark call for urgent Paphos shelter checks Philenews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9wM09BUzU1VnBBUjN0ZURyR1hoOGFkMTRBVFZON2JGMVVJX0k5R29RVXlNUHJCSGVKYzJHaGNaVkgzcFRLcE1nNi1TOGtvU2dIUzN3ZUsteGRvVXhOVEh2a0IzN2s2aHdsa3ljSnA1WW5VR3J3ZDhFMGZQMlZkLVFySExfR3VrZExobUxyNEx0ZzdRVFJEMG5vQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9wM09BUzU1VnBBUjN0ZURyR1hoOGFkMTRBVFZON2JGMVVJX0k5R29RVXlNUHJCSGVKYzJHaGNaVkgzcFRLcE1nNi1TOGtvU2dIUzN3ZUsteGRvVXhOVEh2a0IzN2s2aHdsa3ljSnA1WW5VR3J3ZDhFMGZQMlZkLVFySExfR3VrZExobUxyNEx0ZzdRVFJEMG5vQQ",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 14:39:12 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
     },
     {
       "id": "87f97ff46d5663c7",
@@ -946,25 +1002,6 @@
       "appearances": 1
     },
     {
-      "id": "3567822eb8805d1f",
-      "source": "Reuters",
-      "headline": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
-      "summary": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA",
-      "image": "",
-      "published": "Mon, 23 Nov 2026 07:00:00 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
       "id": "356c846027652ad0",
       "source": "BBC World",
       "headline": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
@@ -1023,25 +1060,6 @@
       "appearances": 1
     },
     {
-      "id": "79ef78db22ef11e8",
-      "source": "Isthmus",
-      "headline": "Charlie Painter & Aaron Brenton - Isthmus | Madison, Wisconsin",
-      "summary": "Charlie Painter & Aaron Brenton Isthmus | Madison, Wisconsin",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXVwTHJobmdpREpVSnJIWGFkcFIxMjBmRzlZZm1icWt2SW1DeVBWWk5UQmNIVVNNSnpsUTYxMGtEaFpNeE9HbGo1SWYzdHhnaFFYWlBpR2RlbWI3OEstaGwzODNnTFpKM1VQU29FbThKX3BmeURiNTdJWkRXdE1xVGt1UXBiQTJKRWlDRnA2amE5bElpcmdreUMwZjh4ZUg3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXVwTHJobmdpREpVSnJIWGFkcFIxMjBmRzlZZm1icWt2SW1DeVBWWk5UQmNIVVNNSnpsUTYxMGtEaFpNeE9HbGo1SWYzdHhnaFFYWlBpR2RlbWI3OEstaGwzODNnTFpKM1VQU29FbThKX3BmeURiNTdJWkRXdE1xVGt1UXBiQTJKRWlDRnA2amE5bElpcmdreUMwZjh4ZUg3",
-      "image": "",
-      "published": "Mon, 23 Nov 2026 19:20:27 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
       "id": "c753168319b04d5c",
       "source": "Animals",
       "headline": "Cavik Insurance Partners With Freedom Bridge Animal Rescue-NC to Support North Carolina Shelter Dogs - WWAYTV3",
@@ -1052,6 +1070,44 @@
       "published": "Mon, 23 Nov 2026 19:11:04 GMT",
       "sections": [
         "animals"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
+      "id": "48112c23751e9133",
+      "source": "BBC US & Canada",
+      "headline": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg",
+      "published": "Mon, 23 Nov 2026 21:51:23 GMT",
+      "sections": [
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-11-23"
+      ],
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "appearances": 1
+    },
+    {
+      "id": "31d777bedd56f55a",
+      "source": "NPR",
+      "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "canonical_url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 17:29:53 -0500",
+      "sections": [
+        "must-know"
       ],
       "report_dates": [
         "2026-11-23"
@@ -1089,26 +1145,7 @@
       "image": "",
       "published": "Mon, 23 Nov 2026 20:21:38 +0000",
       "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
-      "id": "f41c0847f22be192",
-      "source": "The Verge",
-      "headline": "Apple renews Ted Lasso for season 5",
-      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut.",
-      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-      "canonical_url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-      "image": "",
-      "published": "2026-11-23T15:56:00-05:00",
-      "sections": [
-        "ai-tech"
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-23"
@@ -1181,10 +1218,10 @@
       "summary": "A new analysis suggests Wisconsin Republicans would have held on to their state Assembly majority despite this month's historic blue wave election if GOP-drawn voting districts were never overturned by the Wisconsin Supreme Court.",
       "url": "https://www.wpr.org/news/analysis-old-assembly-map-would-have-saved-wisconsin-republicans",
       "canonical_url": "https://www.wpr.org/news/analysis-old-assembly-map-would-have-saved-wisconsin-republicans",
-      "image": "assets/images/clementine-madison-morning.webp",
+      "image": "",
       "published": "Mon, 23 Nov 2026 11:41:54 +0000",
       "sections": [
-        "big-story"
+        "local"
       ],
       "report_dates": [
         "2026-11-23"
@@ -1194,16 +1231,16 @@
       "appearances": 1
     },
     {
-      "id": "370bd57ddc704d23",
-      "source": "Ars Technica",
-      "headline": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-      "summary": "Amazon now uses its packages for political purposes.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg",
-      "published": "Mon, 23 Nov 2026 19:38:13 +0000",
+      "id": "c8a4adf47aeb2d80",
+      "source": "Variety",
+      "headline": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
+      "summary": "Adam Driver and Steven Soderbergh didn’t get paid for the two-and-a-half years they spent developing “The Hunt for Ben Solo,” a standalone “Star Wars” movie that would’ve centered on Driver’s fan favorite character Kylo Ren/Ben Solo. The actor said on the “Talk Easy” podcast that money was not even top of mind since they were",
+      "url": "https://variety.com/2026/film/news/adam-driver-never-paid-hunt-for-ben-solo-development-star-wars-1236955936/",
+      "canonical_url": "https://variety.com/2026/film/news/adam-driver-never-paid-hunt-for-ben-solo-development-star-wars-1236955936",
+      "image": "https://variety.com/wp-content/uploads/2026/02/MCDSTWA_WD067-e1771442130493.jpg",
+      "published": "Mon, 23 Nov 2026 22:35:53 +0000",
       "sections": [
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-23"
@@ -1213,35 +1250,16 @@
       "appearances": 1
     },
     {
-      "id": "0cd17937bdc8feaa",
-      "source": "The Verge",
-      "headline": "AI data centers throw another wrench into chaotic UN climate talks",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "canonical_url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "image": "",
-      "published": "2026-11-23T16:09:37-05:00",
+      "id": "1b7f2ed360140641",
+      "source": "BBC US & Canada",
+      "headline": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
+      "published": "Mon, 23 Nov 2026 21:40:30 GMT",
       "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
-    },
-    {
-      "id": "6025ba53b8d90d84",
-      "source": "Animals",
-      "headline": "A history of compassion, education, and conservation offered - The Caswell Messenger",
-      "summary": "A history of compassion, education, and conservation offered The Caswell Messenger",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2lJenVWMHJDTnR5OEZEdHZ1VHFWTUllYmJuZm5BYTYwYjVQZFpNVzlMbzFoWVRIa1pESDZtU2NSSFEzYnlaeTBwSGp6Y2NKUV83cEowa2dSdnV4bVRJM1k2ZUdlVEc1UzJOanBMb0R4UGMwaF9XRl9zUHZsZEN3eUFuM3BjejBJMVFNU0tDbXU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2lJenVWMHJDTnR5OEZEdHZ1VHFWTUllYmJuZm5BYTYwYjVQZFpNVzlMbzFoWVRIa1pESDZtU2NSSFEzYnlaeTBwSGp6Y2NKUV83cEowa2dSdnV4bVRJM1k2ZUdlVEc1UzJOanBMb0R4UGMwaF9XRl9zUHZsZEN3eUFuM3BjejBJMVFNU0tDbXU",
-      "image": "",
-      "published": "Mon, 23 Nov 2026 15:49:00 GMT",
-      "sections": [
-        "animals"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-23"
@@ -1290,25 +1308,6 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-23",
       "appearances": 3
-    },
-    {
-      "id": "f3a1a57bc1b67585",
-      "source": "BBC World",
-      "headline": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "canonical_url": "https://www.bbc.co.uk/news/articles/cw074km48myeo",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
-      "published": "Mon, 23 Nov 2026 13:09:52 GMT",
-      "sections": [
-        "quick-scan"
-      ],
-      "report_dates": [
-        "2026-11-23"
-      ],
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "appearances": 1
     },
     {
       "id": "0ab81e858bdddad0",
@@ -5272,6 +5271,25 @@
       "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGVJZWhISGRkQ09YZUpMaXB5RTBQLTdablVqd0FScGVIQ3RsdlJjRmJNRkhFZ2pUYm8tbkxHcUoyVzY2ejhZWVBxOW0xamRuX3hyM3RKaHoyMUppODNlNVVWc2NWV0lIc1NmaUpZWDdwTTRQdFFKZGpJT1RSdFQzMHBGMEk",
       "image": "",
       "published": "Thu, 19 Nov 2026 00:00:53 GMT",
+      "sections": [
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-19"
+      ],
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "appearances": 1
+    },
+    {
+      "id": "d35493f0f62df89c",
+      "source": "Taylor Fashion",
+      "headline": "Taylor Swift sparkles in sequins and fringe to round out glamorous CMA Awards 2026 appearance - Page Six",
+      "summary": "Taylor Swift sparkles in sequins and fringe to round out glamorous CMA Awards 2026 appearance Page Six",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3psOXZzejBKSWg3MERCVGpnXzdFZUxGc2VCdjdrdlhlR2kxSDVCYVhjLTRhSXl3elU3ald2TzcyYmo2ZDZvZVFaYVppNTREa29VTDBKYllLQXhzOTVaVkZZdERvazdQUGNWd3RlN0R0WWtHdjNzcHhMYmp4MGZ4ZEZ1bHQxeDhnYUFyZGtNMm9fUlNScHBDNWVnZi1vNzM3OGsyYUZMdEZOZDlObVVGNGNnaWxCb0U?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3psOXZzejBKSWg3MERCVGpnXzdFZUxGc2VCdjdrdlhlR2kxSDVCYVhjLTRhSXl3elU3ald2TzcyYmo2ZDZvZVFaYVppNTREa29VTDBKYllLQXhzOTVaVkZZdERvazdQUGNWd3RlN0R0WWtHdjNzcHhMYmp4MGZ4ZEZ1bHQxeDhnYUFyZGtNMm9fUlNScHBDNWVnZi1vNzM3OGsyYUZMdEZOZDlObVVGNGNnaWxCb0U",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 16:23:00 GMT",
       "sections": [
         "entertainment"
       ],
