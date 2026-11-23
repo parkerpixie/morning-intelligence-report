@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-22.json",
-  "report_date": "2026-11-22",
-  "generated_at": "2026-11-22T18:33:25.800835+00:00",
-  "edition_count": 130,
+  "latest": "data/archive/2026-11-23.json",
+  "report_date": "2026-11-23",
+  "generated_at": "2026-11-23T18:19:41.917086+00:00",
+  "edition_count": 131,
   "editions": [
+    {
+      "report_date": "2026-11-23",
+      "generated_at": "2026-11-23T18:19:41.917086+00:00",
+      "path": "data/archive/2026-11-23.json",
+      "top_story": {
+        "source": "Wisconsin Public Radio",
+        "headline": "Analysis: Old Assembly map would have saved Wisconsin Republicans from blue wave",
+        "summary": "A new analysis suggests Wisconsin Republicans would have held on to their state Assembly majority despite this month's historic blue wave election if GOP-drawn voting districts were never overturned by the Wisconsin Supreme Court.",
+        "url": "https://www.wpr.org/news/analysis-old-assembly-map-would-have-saved-wisconsin-republicans",
+        "image": "assets/images/clementine-madison-morning.webp"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-22",
       "generated_at": "2026-11-22T18:33:25.800835+00:00",
