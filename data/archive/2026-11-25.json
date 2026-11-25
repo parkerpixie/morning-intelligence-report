@@ -1,0 +1,582 @@
+{
+  "generated_at": "2026-11-25T17:19:05.451571+00:00",
+  "generated_at_local": "2026-11-25T11:19:05.451571-06:00",
+  "report_date": "2026-11-25",
+  "top_story": {
+    "source": "BBC World",
+    "headline": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+    "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+    "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+    "published": "Wed, 25 Nov 2026 07:26:54 GMT"
+  },
+  "quick_scan": [
+    {
+      "source": "The Verge",
+      "headline": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "image": "",
+      "published": "2026-11-25T06:12:42-05:00"
+    },
+    {
+      "source": "The Verge",
+      "headline": "The Verge’s guide to the best gifts under $100",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers,",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "image": "",
+      "published": "2026-11-25T12:00:00-05:00"
+    },
+    {
+      "source": "BBC Health",
+      "headline": "GP surgery suspends routine appointments due to 'tsunami' of demand",
+      "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+      "published": "Tue, 24 Nov 2026 18:12:52 GMT"
+    },
+    {
+      "source": "BBC Health",
+      "headline": "Nurses vote for industrial action over pay",
+      "summary": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
+      "url": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/7efa3f50-e816-11f1-ab42-55d8d8278025.jpg",
+      "published": "Tue, 24 Nov 2026 16:31:10 GMT"
+    },
+    {
+      "source": "Good News Network",
+      "headline": "Land Returned to Native American Ownership 400 Years After the First Thanksgiving",
+      "summary": "More than 400 years after the Pilgrims first explored the Cape Cod area, land belonging to Native Americans was returned to Indigenous ownership. On October 30, The Nature Conservancy gave roughly 126 acres of salt marsh and natural habitat in Eastham, Massachusetts to the Native Land Conservancy, an Indigenous-led nonprofit based in Mashpee. The land",
+      "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 12:59:08 +0000"
+    },
+    {
+      "source": "Animals",
+      "headline": "Hong Kong wildlife groups push for tighter exotic pet rules after 3.7 million imports - Yahoo",
+      "summary": "Hong Kong wildlife groups push for tighter exotic pet rules after 3.7 million imports Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdTBzdndqbk1FaGhLOG5za0xQQmwzdFptSkFETXBxR25oaHdzUUd3ZWE3WHBrV3ozR2FCRlA1dnRTTVd2UkFKbU1SR29CNUY0bG1ld1I0TjZpNDFhTlVjcHVOcUFTZXBLdlZqbGNBeUFRc2Vvb1RKQmNILThqYWhEeGdVdUNHOXNuVEFVNFpLYTM?oc=5",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 05:37:00 GMT"
+    },
+    {
+      "source": "BBC World",
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "published": "Wed, 25 Nov 2026 03:44:07 GMT"
+    },
+    {
+      "source": "Wisconsin Public Radio",
+      "headline": "DPI defends school assessments, education experts differ on Wisconsin testing standards",
+      "summary": "Wisconsin Superintendent Jill Underly says the recent audit showing her department’s changes to state testing inflated student outcomes is something she repeatedly told lawmakers would happen two years ago.",
+      "url": "https://www.wpr.org/news/dpi-defends-school-assessments-expert-says-wisconsin-standards-anomaly",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 18:45:54 +0000"
+    }
+  ],
+  "sections": {
+    "local": [
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Can police search your car because of a marijuana smell? Wisconsin Supreme Court to weigh in.",
+        "summary": "In August, justices agreed to take up a petition brought on behalf of Wisconsin resident Ayanna McAfee. West Bend Police searched her car in 2021, after an officer reported smelling marijuana.",
+        "url": "https://www.wpr.org/news/police-search-car-marijuana-smell-wisconsin-supreme-court",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Watchdog, Wisconsin News Publishers Urge State Supreme Court to Stop Officials From Gaming Public Records Law - American Oversight",
+        "summary": "Watchdog, Wisconsin News Publishers Urge State Supreme Court to Stop Officials From Gaming Public Records Law American Oversight",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjE3b3Y5UUViWHhJa2xDaGZ0c0FMRWhVZV9VVm41NXhvNHlQRzJjOVNlYTBwQjRXanRhU1lUa0tCRnpjeFRMamlPVU5Xd1RETnp0M0pyQ0pVREVkZWZPU0F5VGxsMzlLc2xqM1laQnpjaHg1MFc5N21xaVd5Y0VqQVlja080R2pqNXJBSlQzbw?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 00:33:39 GMT"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Democrats plan big changes for Wisconsin gun laws in new Legislature",
+        "summary": "As Wisconsin Democrats prepare to take power in the state Legislature next year, a new guide from Johns Hopkins University provides a roadmap for members of the party intent on tackling gun violence in the state.",
+        "url": "https://www.wpr.org/news/democrats-changes-wisconsin-gun-laws-state-legislature",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 11:04:00 +0000"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "Madison Common Council approves purchase of property for new elections operations center - WKOW",
+        "summary": "Madison Common Council approves purchase of property for new elections operations center WKOW",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHZTWGIyeWhnb29uVTQtYW1OMGFETVNXbDA3MXNtdDdtX2pVN2tGbHc1SWRSRkhOWmFJUFRwY29PTVp2SXQtNlNoMWJXWWtfUjVpNmt0R0R0MGlnX1N6N3duajR6UkM2dElVdXpPaXFhcERPYno2TndXZVVyckd3UGtfUTVBUEZwWVctTlNzXzFqalN3Nm41UE9pbkNzNHMtSUdkVlhkUDBsZE9PVDltYWlxYWsyOVJBelhCSnYwRVhNcF9MbFExT2VFbExUWVExdUZmSEVYcnloTXZUSzhLU2lyeHNjdk9rWGlvUS0zMV80RVVKeEhn?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 09:06:00 GMT"
+      },
+      {
+        "source": "Wisconsin News",
+        "headline": "Heath and Lehninger Recognized by Wisconsin Super Lawyers as 2026 “Rising Stars” - Dykema",
+        "summary": "Heath and Lehninger Recognized by Wisconsin Super Lawyers as 2026 “Rising Stars” Dykema",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVNsXzdjbGdaVWcycTZCa0EtYmVndUIycHZpM1BfUTlNcXBCOWFVUlJFSzJoSG1QYTFIYUVqTF9GcjdJZXBlQ0pmamFGTWJCSG9SQVlEb3Y2OTMxbGlWVnR4MUZFTjlzLVkxWURrNmNGRnJUNHNyOVpGSEp4d1ExblVwb1gwYm5iV2VqckhzbUF5X2tQSGI3UGg4R0dUOFZ0ZTZYMTB4VDcxWkFUYlJlck9raFdBMmpyYUNOMQ?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 14:40:59 GMT"
+      },
+      {
+        "source": "Madison Local",
+        "headline": "UW-Madison experts discuss potential lead dust impacts ahead of Iowa detonation - WKOW",
+        "summary": "UW-Madison experts discuss potential lead dust impacts ahead of Iowa detonation WKOW",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMXBwVjRVeWtMOFlad1A1UjBwRWlLRmo1YXUtLXE2amRrSzJOS1ZZZXNWRTVNRDBfWEtLOGdCbUdjdVY0QmNfUkEtWmdDZDBKamQybFZ2WXBHd0ZaWU52T0dzajlkcXV0YmhUa3dsOU5Day1OMURrV2cwLVo0OGFYV1RXU2JhcU9NYWxmdlBUYkE2bW54bnA3cUduamNSNkl6a1VmbWlZdmFGMzVyZmZtVUVrUkl2N01mVVBPaks0alk5WDV4VUFUbFNIVTAydmlhRndZVTQyU0dpRVFpSUhsYXZneTB2V0dnUnRB?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 05:24:06 GMT"
+      },
+      {
+        "source": "Wisconsin Public Radio",
+        "headline": "Thanksgiving travelers see falling gas prices in Wisconsin",
+        "summary": "More than 1 million Wisconsinites are expected to hit the roads this holiday weekend, and drivers can be thankful that gas prices have fallen fast in the Dairy State.",
+        "url": "https://www.wpr.org/news/thanksgiving-travelers-falling-gas-prices-wisconsin",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 11:00:00 +0000"
+      },
+      {
+        "source": "Dane County",
+        "headline": "Thank public servants for keeping Dane County safe | Dane County Sheriff Kalvin Barrett - Wisconsin State Journal",
+        "summary": "Thank public servants for keeping Dane County safe | Dane County Sheriff Kalvin Barrett Wisconsin State Journal",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmRnX0ZiWjg4UG9LWXBGalhzTnA2Q1R1QlJXanN3aHlMVnZLM1NRUGEtZWdodVlsU253MEp1eFdWTzQ2aWlWOUg3OVJaUzZxb0l0SXlySUk5dmEwb0ctbnNiTFQxNHNRU3dsQ0VGZng0SV9BR3l2VmZXRjg3ZFU3XzBDUXpEcXN4UTN1MDl3?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 11:00:00 GMT"
+      }
+    ],
+    "must-know": [
+      {
+        "source": "BBC World",
+        "headline": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+        "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+        "published": "Wed, 25 Nov 2026 12:42:11 GMT"
+      },
+      {
+        "source": "BBC World",
+        "headline": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+        "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+        "published": "Wed, 25 Nov 2026 12:21:49 GMT"
+      },
+      {
+        "source": "NPR",
+        "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+        "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 06:50:05 -0500"
+      },
+      {
+        "source": "BBC World",
+        "headline": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+        "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+        "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+        "published": "Wed, 25 Nov 2026 00:54:13 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes - The Washington Post",
+        "summary": "Eisenkot, pushing to oust Netanyahu, sharpens warnings over new Iran strikes The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkhOZm1VUmwzQkwxSW4yOC1fZ1JqcXl4MlZZdnI3MTNmWUE4eEg2QUliYWRETWU2blAzNlAycDBjQzd3Z0ZfNkZ0SDh1WWw4aHZtdmRTZG9iZjJJeVMxT1dKa0ROWVhzbTVNRmhiUHpPRXJWaVFyQmQ2dUoxSkVUN2djT3V0MDNWY3g2M2hMV1Z1U2doRnhEcnJRbW5ZamVpZU9GcHJmNGtnR21weWt0RXRGVm8wWFhXc2pLTw?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 16:38:35 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "Russian Government Official Warns of Ukrainian Drone Attacks on Utility Infrastructure This Winter - U.S. News & World Report",
+        "summary": "Russian Government Official Warns of Ukrainian Drone Attacks on Utility Infrastructure This Winter U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZDZveGRfYjJNS3hvMGJSNWFXQzdHSDNSLVB5NGVaNHgtemlQZ296SktHa25YdVBSb0JERHY1RmRmSDBOWnJncThua0NMQ3ROREhlaHdFcWdwaGNPS0xBc2E5NTRnQmpVZDBjWXJwUy1GVXFHUTB1UHVqNFNwVEJ4dkFzbkdlQXRfNzA4YXpVQ0NpUVFlZy1ZS0hXSHMzbEp4cFFmTkMyMGRSZmVwMjA2T1Q1aEJkZ2lVdV9GRDQ1bXRncmhMUnNNNlFObUZSdDRmTTEtNDNkZVJDc0NncFRuNkw1aWVuQlk?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 15:26:29 GMT"
+      },
+      {
+        "source": "Reuters",
+        "headline": "U.S. Shelves Plans for Business Deals With Russia to End Ukraine War – FT - The Moscow Times",
+        "summary": "U.S. Shelves Plans for Business Deals With Russia to End Ukraine War – FT The Moscow Times",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDB2c2JYWEtlTHhhQkpJeFJ5ZzdSV0VCRFpTb2lJdk5EVzI0ZjJZcUpuV1RRdWRXS2N1dy1kR0NpSXhLYnZwU0I1ZFBmRTFLTDBKTkw0N24tQWcwWG4zT0phaWVOQWFzcGhHWS1ySEFyODhOVDI2alZlX3hKRVBmNjlGckFXYnU4Umh3VW84R0I4czV4YVlnUXYtTWJCTHdMaXV3S1MyQ2R4TUQ0N0dheXFhbzFxWlV0bXc?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 10:14:06 GMT"
+      },
+      {
+        "source": "Associated Press",
+        "headline": "US plans to hike tariffs on China, EU, Brazil and others over subsidized production - ABC News - Breaking News, Latest News and Videos",
+        "summary": "US plans to hike tariffs on China, EU, Brazil and others over subsidized production ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTEyWUl4a0JIS1ExVkowVzdBTWxrSkZWb18xd2pBZW1lMW0wcWVnS0FTQjJBNkRRVm0xRElKUUhyUVcxNXV0eWNlbXBjSk10UVdIM19sVHdITDR0N2lmMDlGa01GbktCZ0JnSGlzYy1sclVoSThBZkE3bnJ3el81cFlaMi0zOXB4U3I3Uk13S2NTckluaHfSAZsBQVVfeXFMTm9VMng0d0NGYUxYNXhLZzRsSjFiTE56bnpwM0J0OFBHUEdTeVhHaHNER0ZzY1pXZ25pOERjOFVyR2E1WEgxeUFuN2xDbHM4a29YRXJ5TVR6MTc1WVhHY0o0OWYxSDFDc2lOMUkzUzk1ZktEOWphcnFGLUpCM0NtazVfSVJYTC1adG1RS09MbDJqbkZsd3BOWldCaWM?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 13:30:00 GMT"
+      }
+    ],
+    "ai-tech": [
+      {
+        "source": "Ars Technica",
+        "headline": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+        "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+        "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+        "published": "Wed, 25 Nov 2026 16:47:14 +0000"
+      },
+      {
+        "source": "Smithsonian",
+        "headline": "Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn't Exist. It's Located Just 28 Light-Years From Earth",
+        "summary": "The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/QhX_dBAvyYRzPa-VVPNcKDkAY38=/420x240/filters:focal(640x366:641x367)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/6e/1f6e62b2-7cca-40c8-aa13-77903f47d9a4/im4k-udem-system_welopoai_0.jpg",
+        "published": "Wed, 25 Nov 2026 16:37:34 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+        "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+        "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
+        "published": "Tue, 24 Nov 2026 22:36:28 +0000"
+      },
+      {
+        "source": "AI News",
+        "headline": "Google Is Turning AI Performance Into a Price War Anthropic Can’t Ignore - Benzinga",
+        "summary": "Google Is Turning AI Performance Into a Price War Anthropic Can’t Ignore Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXZiRkUtTHZWMGozaGVrc0s5QWNCNmxrVkVNcDJhVlNpSUhYdHhHMTRYYmFwcDN5Tk5XMXN6ZHVrYzZ4QW9XeFlYS2dGaDZnaFlsMkFCWDRXUFdDQmdZaXRzWE1tVXRraUpucFpxLWNCQ1Z3aGlUbTNTLV9YaGRmcFZLbjhDcFkydmVtdjhvZXVSdFVrcTV3UFVR?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 14:38:22 GMT"
+      },
+      {
+        "source": "BBC US & Canada",
+        "headline": "US stocks fall further as fears over AI intensify",
+        "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+        "published": "Wed, 25 Nov 2026 16:07:26 GMT"
+      },
+      {
+        "source": "MIT Technology Review",
+        "headline": "The Download: AI swamping open records, and firefighting for permafrost",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "MIT Technology Review",
+        "headline": "AI is straining America’s open records systems",
+        "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "source": "Ars Technica",
+        "headline": "Etsy clarifies AI terms after seller backlash",
+        "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+        "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
+        "published": "Wed, 25 Nov 2026 17:12:57 +0000"
+      }
+    ],
+    "work-marketing": [
+      {
+        "source": "Variety",
+        "headline": "Hallmark’s New Podcast Push Kicks Off With Interview Series Hosted by Melissa Peterman That ‘Breaks the Fourth Wall,’ With More Shows to Come",
+        "summary": "Hallmark Media is gearing up for new expansion into podcasting — aiming to add another vector for connecting with its fanbase. The media company in recent years has stepped up its brand extensions, from cruises and live tours to movies and series centered on heartwarming storylines and holiday themes. Now it wants to engage with",
+        "url": "https://variety.com/2026/tv/news/hallmark-podcast-melissa-peterman-1236956991/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Melissa-Peterman.jpg",
+        "published": "Wed, 25 Nov 2026 17:00:00 +0000"
+      },
+      {
+        "source": "The Verge",
+        "headline": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+        "summary": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets,",
+        "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+        "image": "",
+        "published": "2026-11-25T08:30:00-05:00"
+      },
+      {
+        "source": "Klaviyo",
+        "headline": "Send personalized texts to customers in New Zealand - Klaviyo",
+        "summary": "Send personalized texts to customers in New Zealand Klaviyo",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jSlIwY2ZIdGhOVDBEMGZabkdVSXhjZHVTbWQwRHN2V3RlTEozZWpNZHZTNVVjd0ZaajNsRVdOellfNTlvTWZMeXZxVTZDNEhXWmJnUEpibw?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 03:05:15 GMT"
+      },
+      {
+        "source": "Adweek",
+        "headline": "JOVS Recruits an Advisory Board to Back Its Beauty Tech - ADWEEK",
+        "summary": "JOVS Recruits an Advisory Board to Back Its Beauty Tech ADWEEK",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFI3Q0NhNkVOUVZGUERaVENWRFhObUUxX205RTJvZ1ljX05LSzVWZVN4bHlZZVk5MU96UTdDbGVza0N6azFPYzlVM2ZpTFA3Vk9aT1RHSEt4bThWNW1VVFNZTG1PSW4wOUpoUHFEZUtFNWpURjVmU2VqWUozTzBhemxWYVJqRU5sT29UUm9JSlVZc0ZudUc5cWFjSQ?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 20:17:04 GMT"
+      },
+      {
+        "source": "Search Engine Land",
+        "headline": "Google Ads expands guidance on Book Appointment conversion goal - Search Engine Land",
+        "summary": "Google Ads expands guidance on Book Appointment conversion goal Search Engine Land",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzhaNUREcGtfSFVNQjZuQnlSMmNPUWdOT3ROUjhXeDhpLW5rMFBUUF9BYkhCYmp3OTVla19PTGNaVlEwQWhHMHdmcXZXamxqX1c2Zjh6MkZjdjdCYTg4dmg5Sy1qeFZFSlFleVUzakxBWkFNNXVGaGE0bDdiMWxRWlUtQnpyclhtNkpZcTY1Nk05RnNsYi0zX0ZXMFRYWW1I?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 17:34:51 GMT"
+      },
+      {
+        "source": "Adweek",
+        "headline": "Advertising Is a Top Priority for Best Buy’s New CEO - ADWEEK",
+        "summary": "Advertising Is a Top Priority for Best Buy’s New CEO ADWEEK",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGhCSEszZzJzTF91WDdXVENNOU9JUU13TV8tZTlpNW0tNHhCWi1oRG9NRUc3QmZBUkdGTkh6U1NWT2VnTTF6WU9HMUhNZ1ZMODJlLXJSc29XbXBGNmVScEw2NXh3QkVZYkl3T0w2bHpFZVVBcldVLVIxWmJQMGtkQ3FMVC1WRnNrTnU1SA?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 17:10:45 GMT"
+      },
+      {
+        "source": "Search Engine Land",
+        "headline": "How many products does an ecommerce category page need? Data from 100 stores - Search Engine Land",
+        "summary": "How many products does an ecommerce category page need? Data from 100 stores Search Engine Land",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnhWSXJoVHk1Z1RYTXJjQ3RTZzJiV1JGbk5nTFBkVnlwVHNyWWNPMTZWYWZUOFE1ZzRlNTUxcGhPNUdIcW9EbjV3d2lPWE1OOGlHc3k4WDN0MHdQckJTck5pelhCbDdIbWIzNGI4bDB1dmpnYmNWWkw4QUdMMEZMeDVyU3U2b1lyaTBR?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 14:00:00 GMT"
+      },
+      {
+        "source": "B2B Marketing Ops",
+        "headline": "This Is the Best B2B Benchmark Report, Yet It Only Tells Part of the Story - Demand Gen Report",
+        "summary": "This Is the Best B2B Benchmark Report, Yet It Only Tells Part of the Story Demand Gen Report",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTlyVlpTbi0tU0dEbVM4UzZlUVVMTlE1c2JTUnNCaDlBb1hvZ3dsYnJMUmJGOFNJdG9KamlibzRpXzhNOXZ2dG5zOEY3UzBxbG1ZTEk4aUEzVDE2VzB4WGQ4LW8xX1BGOGlfZzVwZjVmbWVzTmhGdDZwZTkybU5lWEFBME9VUXdmaTNsa2NLRXV0UXRsR3l3Rk5RdUU3d1RzR2Q4eHEzRnB4akljTDJFeGg5a0tSSEtZaU9ZaDR0TExlRzhGdFdz?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 12:04:43 GMT"
+      }
+    ],
+    "wellbeing": [
+      {
+        "source": "Ars Technica",
+        "headline": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+        "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+        "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
+        "published": "Wed, 25 Nov 2026 15:35:17 +0000"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+        "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
+        "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c42/live/b88e7ac0-dedd-11f1-93e1-3b657b665bcf.jpg",
+        "published": "Wed, 25 Nov 2026 16:13:33 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "A question of trust in the NHS could be Swinney's most dangerous political moment",
+        "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
+        "url": "https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/6d4b6c20-e816-11f1-a094-5fdc692f3e33.jpg",
+        "published": "Wed, 25 Nov 2026 06:17:47 GMT"
+      },
+      {
+        "source": "BBC Health",
+        "headline": "Third of young Brits have never had sex, but many are sexting and watching porn",
+        "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+        "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg",
+        "published": "Tue, 24 Nov 2026 23:38:39 GMT"
+      },
+      {
+        "source": "NIH News",
+        "headline": "More education may reduce dementia risk - National Institutes of Health (NIH) | (.gov)",
+        "summary": "More education may reduce dementia risk National Institutes of Health (NIH) | (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmNmdHltMjd6Qm9PQWRRaHIwOWJqbTJEZDBKWWcybXRuNmVsdm0tdFpOVk5EMnU4eWl1Z1NTa0k4c2M0N09jZnhxY3VaelUwc3lYakdOSzdGa2dEa2x3MHFYRUwxdXpVbldmUklBdG8wZjA5N3NySnFsaHhqdFo2YTU0azdjX2l3aEthNU5QNHh6UUI1a3Rv?oc=5",
+        "image": "",
+        "published": "Tue, 24 Nov 2026 21:52:56 GMT"
+      },
+      {
+        "source": "Mental Health",
+        "headline": "Gender identity and neurodivergence shape eating disorder experiences - Medical Xpress",
+        "summary": "Gender identity and neurodivergence shape eating disorder experiences Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE1MZG1qeDNVXzVPaTZ4WVhqanRSMTc2Q2Z6UkJZUFVoZ25zOFVVMnZUakhYMU94bWRGMzNNT21BMjg2TlotWVBFY3k2blN6S2NKaFpVaHVNVkxGREZMUWkyM09RRUh3NzFfMF9iX3VNUUtvWktHSUw2Vm4zTTVaYUNtcTU5enJJMjhXLQ?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 17:00:15 GMT"
+      },
+      {
+        "source": "Medical Xpress",
+        "headline": "Frontal brain regions reveal an unexpected eye for detail outside the visual cortex - Medical Xpress",
+        "summary": "Frontal brain regions reveal an unexpected eye for detail outside the visual cortex Medical Xpress",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUx5NGRha242RC1qTlM4bUJuTzFvWWdBY2p5aEp0TTdZOWs3WllRUEVVMENjTzJlT1c3ajFfNkl3NzZ1ZFVRZDFYbmJzY0hmNHMyaUN5cDAwRGxPRzBNbGJQNUlRWjI5eVpFQU5kSWp5TGFUQlV3ZnNTNnBlb2djVWxOdGxwZl9McGM4?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 17:00:01 GMT"
+      },
+      {
+        "source": "Mental Health",
+        "headline": "Children with elevated ADHD traits show no advantage on creative story-writing task - PsyPost",
+        "summary": "Children with elevated ADHD traits show no advantage on creative story-writing task PsyPost",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2dDc2htTkNIMVZSTG12M3QwcEZ0QXlaMkF5eFZFSWdMR0xROEpzS3hSVGtNZGNpVnVHR3lYdkxId1dSanQ3aFluWWU2Sk1acmpfS05fX3BIa0NLZnA4Nks5TjdIQTZGZ1NMcnVJeGNyV0l5SHIzX0lTSlU0cVpQVFpzcEdoRUpZb29MVWV5Y3VBdWo0MUx0SnJXVmhQZHZ3Z3dBZnhDVHFNc2x2?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 15:31:43 GMT"
+      }
+    ],
+    "entertainment": [
+      {
+        "source": "BBC World",
+        "headline": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+        "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+        "published": "Wed, 25 Nov 2026 12:24:12 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)",
+        "summary": "Michael Urie, the two-time Emmy nominee, will host the 79th annual Writers Guild Awards New York ceremony on Saturday, Feb. 13, 2027, Variety has learned exclusively. Urie served as a presenter at the 2026 New York ceremony and clearly made an impression on the guild’s leadership. “Michael was an absolute delight as a presenter at",
+        "url": "https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2279647710.jpg",
+        "published": "Wed, 25 Nov 2026 17:15:00 +0000"
+      },
+      {
+        "source": "Variety",
+        "headline": "Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)",
+        "summary": "“The Pop Exchange,” the live celebrity digital series hosted by “E! News” veteran Jason Kennedy and actress Karrueche Tran, had more than 11 million views in its first month. The show launched on Oct. 12. Guests included Chris Pratt, Patrick Schwarzenegger, Blake Griffin, Heather McMahan, David Henrie and Dallas Jenkins, among others. “The Pop Exchange”",
+        "url": "https://variety.com/2026/digital/columns/jason-kennedy-karrueche-tran-pop-exchange-1236958021/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_07d1c1.jpg",
+        "published": "Wed, 25 Nov 2026 16:36:45 +0000"
+      },
+      {
+        "source": "BBC Entertainment",
+        "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+        "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f563/live/292aa8e0-e8f1-11f1-8808-1d4222955d7e.jpg",
+        "published": "Wed, 25 Nov 2026 17:16:19 GMT"
+      },
+      {
+        "source": "Variety",
+        "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Scores $16 Million on Tuesday, ‘Hexed’ Earns $2 Million in Previews",
+        "summary": "Lionsgate’s “Hunger Games” prequel “Sunrise on the Reaping” continues to power the domestic box office, earning a leading $15.98 million on Tuesday. Those ticket sales rank as the franchise’s best Tuesday haul, above 2013’s “The Hunger Games: Catching Fire,” which grossed $15.96 million on its first Tuesday (not adjusted for inflation). “Sunrise on the Reaping”",
+        "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Hexed_Billie_and_Beef.jpg",
+        "published": "Wed, 25 Nov 2026 16:33:19 +0000"
+      },
+      {
+        "source": "Taylor Alert",
+        "headline": "Taylor Swift returns to CMA Awards after 13 years, but Ella Langley takes the cake - Los Angeles Times",
+        "summary": "Taylor Swift returns to CMA Awards after 13 years, but Ella Langley takes the cake Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQS1BejM5MXozS0hYS3U3UTdwNG9wV21DcUlPYzE3cnlKX2xJOV9GWWVabnBYaFMySmU5NEc3YjBZLU9LMTRIYTdzeTFlY2NTcndtRUthREt0YlFhc054M05xLUJzSF9CTkIxMVRubTBMY1dKMnlfZlZNVno3NWxhUFJiMjFiMk1iaGlnTmhsM044TG5GUXJvYUJ4dnc4NGVrX3BWQ1NiTS1xa09ENUtaNlRuNlJzMUhpLWItY3R3?oc=5",
+        "image": "",
+        "published": "Thu, 19 Nov 2026 23:30:19 GMT"
+      },
+      {
+        "source": "Taylor Alert",
+        "headline": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep - Reuters",
+        "summary": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ?oc=5",
+        "image": "",
+        "published": "Thu, 19 Nov 2026 10:47:35 GMT"
+      },
+      {
+        "source": "Taylor Alert",
+        "headline": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards - Variety",
+        "summary": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards Variety",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG5JSW5PQm4yWU44SlJTRDVNSk5uSDVnMm94bHphSkFDSG5yQ2JXNXE1YldtRWZFeS1VWUw0WFBJNkhHVDl6b3NzOFFCZTRoV0hzSHM2NzhWN0JKZS02MkEwOVVVMGtvWHpubU9jUGRDRDVlLWQtNTcxSG9VclVhQ3VPSlg2Yy02WnlRU0NpQmU4T3Z3R05GVl9ITkpMMENsV0ZQczFLQQ?oc=5",
+        "image": "",
+        "published": "Thu, 19 Nov 2026 02:29:00 GMT"
+      }
+    ],
+    "animals": [
+      {
+        "source": "BBC US & Canada",
+        "headline": "Trump's rescue of Nvidia's Huang brings political risks",
+        "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
+        "published": "Wed, 25 Nov 2026 01:03:05 GMT"
+      },
+      {
+        "source": "Smithsonian",
+        "headline": "Indigenous Hunters Drove Bison Off This Tall Cliff for 3,000 Years. It's Only the Second Buffalo Jump Ever Discovered in Texas",
+        "summary": "Two science teachers were hiking when they stumbled on hundreds of ancient buffalo bones in Caprock Canyons State Park, which is today home to the Texas State Bison Herd",
+        "url": "https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/S3nNm2LYUkrEPZO759Qo5RmHMMY=/420x240/filters:focal(586x402:587x403)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/f3/1ff35c0f-5799-4e52-bedc-995388f8df6e/8878605403_1c7691832a_o.jpg",
+        "published": "Wed, 25 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "source": "Animals",
+        "headline": "Hong Kong Imported 3.7 Million Live Exotic Animals in Six Years, Conservation Groups Say - Nature World News",
+        "summary": "Hong Kong Imported 3.7 Million Live Exotic Animals in Six Years, Conservation Groups Say Nature World News",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWtCT095d2hWVmk3V3g4WjItdXg4SWdxR1psb2VyNXNndlBfQXAwcE5lX0YzN3BJMEpVamdud215NzNZbkxLalZJdElKRE5IdkMwMS1ZbE14Y1pZMUh2SHpTaWlZaURiQmNtcnF5c0N4cXFqb01jWjY4NFQ3a3ZXdG94U0k1MV9iVDhnZGVWUGJ5cWJnclpvcWxyRXAySjc3WVA1VTZaYnVYRHVQQWVSblNBeDIzTG5YUExYRTJyX2htVmh4Z05SZFpPMEZGLVNlcDMzbDhTQm9zR1U?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 15:56:58 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "San Francisco Zoo’s oldest animal Mojave the tortoise dies aged 79 - Newswav",
+        "summary": "San Francisco Zoo’s oldest animal Mojave the tortoise dies aged 79 Newswav",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2dGUWFxNXQ5THJEMXVNdjd2S3FwNVlGR1ItMjRxaXQtTVdmeVpWTEcxZVdXLW12MUpYNGM5MmotYkNSWGVDbDFUMzlnQ1NVTFdkUGdmSk4yS3RoVzR5LXNYZGdCenlaWjdwSE50ZnR0eGRETVpMTXl1T0k0YXRIVWNUWFMybGF2VGVoQkY3Wi1mYWxKUzVLRHZZblExV19TaDlCQXNsZlJIWkU?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 13:22:48 GMT"
+      },
+      {
+        "source": "National Geographic Wildlife",
+        "headline": "California’s Wolves Are Nearly Impossible to Photograph. Here’s How Aaron Huey Did it. - National Geographic",
+        "summary": "California’s Wolves Are Nearly Impossible to Photograph. Here’s How Aaron Huey Did it. National Geographic",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmR4QThySlhLSE1UVl82ckVxY0hVTTVueW5EY3ZNNEUtTk9Kdm10RmZwV294ZUZSTXE0ZGNHeFA5RDF6cVhYOTMtVWI1blZkNVlyd1I1TTVUWjdHaE9SUTJDQURpSDVMZUxNYTFCdmdXTXdRUlF3dktNc0xRci15cklCcU5BaVhWaXphYnpCeTN5czJnOGdPV1pkQUY?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 12:04:47 GMT"
+      },
+      {
+        "source": "Mongabay",
+        "headline": "Photos: Elephants maintain an essential role in conservation in Nepal despite shifting norms - news - Mongabay",
+        "summary": "Photos: Elephants maintain an essential role in conservation in Nepal despite shifting norms news - Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2xuTEFsWnNQZXVfVHhVWmJ5NjNTWjlGb1ZMcVk3ZEJBWlplODRCNWcxc1pWZHJkdmVxajgzeHY1S1d4STQ3Yl9XclZWVDhlekpmbTBCVFNxbVZYLWtKM0pWcEdUdG9vYmNybXdSYmh1bkdiODJSZ1ZFT1AtQ2cxTTFIbDdZQk9CVktZcUtwa3JOTkRpYnBHMzdtbkFJeFhLTVYyXzR6bDhIcTlGSk1ZVHlVMVFoSlZybUVNVzFuUVhqQ3BI0gHKAUFVX3lxTE0zY0RFUzBxY0R2SUxPSU1obVRlUVBqeW5xWGV2aDIwUjVqbkVfTWNSaDdVVHhFWnZQaHVHcXg5RGNIQlhqcFh0eTMxQllRQUJ0NEtTTVY2UTJ0dE53QjBHUFEzUU5HMko3c1Q4blJLQ2ZpMXE2bGo4ZVh2a3dHMlQzU2ZKSXhZcjhHbkw0Y2xQRGI1YmRnaUdsYXpnS2wzV0NhRHlCZk9EelZWaG5yX3dDV3BSUXJEVnMzbHlFT2VyMFJkX1VwVVNBcVE?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 10:51:11 GMT"
+      },
+      {
+        "source": "Animals",
+        "headline": "Vantara Madagascar Deal: Vantara Signs 10-Year Agreement With Madagascar to Repatriate Trafficked Wildlife, Establish Rescue Center & Protect Endangered Species - The Sunday Guardian",
+        "summary": "Vantara Madagascar Deal: Vantara Signs 10-Year Agreement With Madagascar to Repatriate Trafficked Wildlife, Establish Rescue Center & Protect Endangered Species The Sunday Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTGRTME9LamVzMkp1SEJfdV9ZeC1CbXladndVQnlneDhFU1huMlNuQjV3OXpUWW50MExwcEpicGtkeTl5ak5DeGhUYnRodlpwc2tNZWRPbzFMc2JockdIc2g1UEpaRjlUMzdUU0F3aHhTY2VKWW9hVjk1RXRYRWdVRUViT2FuOXFILXA0NEM2TGlMMkZyQWgxdXNrTWNIajNhNUJZeFJ5dGFwMEczWVZDVktra1VLMUNVQlFDdXYxOEVjV1U4U21zeVU0d0lXU2ZjbGZZVVlyNU5aSTFuM19JYzFoVFEzWXpaTVJsMXJxV0RGbUt2RWNXY0U0dldESm1OWXJuZU1oQ3k4bmE1b0ROdkl6azFramtUaXhSbE15ZEFvT1N5VzhmSdIBrgJBVV95cUxQSzR0bVgzTlRSSmNvVkYyOE9CMS1PcEZ3Y3ZhbV9YbEo3c09FZFBiYUxNWjNRTVlFS015eUFOMTI3MXd6eXItZ1ktQUpIcEs1bTF6ZmZxTzhfem5OWGZKZTBGd25WV2JoR2VuN1dObDlnT1RfZGZwR2ZTUlgtRVREaGhfNjJLYnM2UkVtLUFhb242Y1pIRjUyaWhzU1oxZkw0am13MWthSjlWcVN4ZWxlNVZlSGJNVVVBVUZqeDRPeFQ1eFpveE5jVjY5VEpBX3JhcjMtcjd3aFl4RTRkSnYtRTY3MkstMHYyUlJ1eFJWc0pBWFZRMXVxMWRJRVFWRTJKM2JfdWhVUU5KYXhDOFVJVGl6T203cGVNaHlWSVI4bWtvOWllaUR2YXRMNXpqdw?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 06:36:11 GMT"
+      },
+      {
+        "source": "Mongabay",
+        "headline": "Species down to the last 50 animals can recover, but rarely without help - news - Mongabay",
+        "summary": "Species down to the last 50 animals can recover, but rarely without help news - Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VZT0tFb0ZSeVdDYlVYUEdHdXk2bmJsNDRMVFpER1ZGeE1IcDhjcXcxV1JtbHJILXp5elBOXzBTb0ZhRDBjMDNVUW42UGk2bHJ0X0hodEFMU0h1d0xHSFh4YWJTa0k0RW84NnpHNFM5RC1IOFg2RC16bmJLbVQ1N0c4UC1HQmFWN0RTZXpYSF9KTGNWcWNrbHVHNzJad2M2SGpEM3FsQmlfaXVEN3JxSkxR?oc=5",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 00:24:10 GMT"
+      }
+    ],
+    "wonderful": [
+      {
+        "source": "Good News Network",
+        "headline": "Good News in History, November 25",
+        "summary": "121 years ago today, American photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue in NYC. This small gallery helped bring art photography to the same stature in America as painting and sculpture, exhibiting famous early photographers like Edward Steichen, Alvin Langdon Coburn, Gertrude Käsebier, and Clarence H. White. But,",
+        "url": "https://www.goodnewsnetwork.org/events061125/",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 08:00:00 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "Roman Glass Among the Silk Road Treasures Unearthed in Nomadic Noble’s Tomb",
+        "summary": "The legendary character of the Silk Road was in full focus recently in Mongolia, where excavations of a nomad’s tomb unearthed objects all the way from Classical Rome. The tomb undoubtedly belonged to an elite individual from the Xiongnu people, a nomadic group that controlled large stretches of Central Asia, Mongolia, and Manchuria for some",
+        "url": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 16:30:05 +0000"
+      },
+      {
+        "source": "Good News Network",
+        "headline": "‘Autos for Love’ Owners Delight in Giving Away Cars to Needy Neighbors",
+        "summary": "Once a year, the owners of a Texas auto-repair shop would refurbish a donated car and then hand the keys to a member of their community in need. But thanks to their generosity and the generosity of others, they’ve been able to turbocharge their giving, with multiple vehicles going out ever year. “One was not",
+        "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
+        "image": "",
+        "published": "Wed, 25 Nov 2026 14:00:36 +0000"
+      }
+    ]
+  },
+  "wonderful": {
+    "source": "Good News Network",
+    "headline": "Good News in History, November 25",
+    "summary": "121 years ago today, American photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue in NYC. This small gallery helped bring art photography to the same stature in America as painting and sculpture, exhibiting famous early photographers like Edward Steichen, Alvin Langdon Coburn, Gertrude Käsebier, and Clarence H. White. But,",
+    "url": "https://www.goodnewsnetwork.org/events061125/",
+    "image": "",
+    "published": "Wed, 25 Nov 2026 08:00:00 +0000"
+  },
+  "capybara_message": "Choose one thing to protect before the world starts negotiating with you.",
+  "personalization": {
+    "active_feedback_signals": 248,
+    "profile_updated_at": "2026-08-17T12:10:17.367Z"
+  }
+}

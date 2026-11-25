@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-24.json",
-  "report_date": "2026-11-24",
-  "generated_at": "2026-11-24T21:18:09.570299+00:00",
-  "edition_count": 132,
+  "latest": "data/archive/2026-11-25.json",
+  "report_date": "2026-11-25",
+  "generated_at": "2026-11-25T17:19:05.451571+00:00",
+  "edition_count": 133,
   "editions": [
+    {
+      "report_date": "2026-11-25",
+      "generated_at": "2026-11-25T17:19:05.451571+00:00",
+      "path": "data/archive/2026-11-25.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+        "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+        "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-24",
       "generated_at": "2026-11-24T21:18:09.570299+00:00",
