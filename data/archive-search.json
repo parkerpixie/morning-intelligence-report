@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T18:13:39.063302+00:00",
+  "generated_at": "2026-11-25T19:21:10.532295+00:00",
   "edition_count": 133,
-  "story_count": 8302,
+  "story_count": 8301,
   "stories": [
     {
       "id": "01ebbd9e07dc7d44",
@@ -15,25 +15,6 @@
       "published": "Wed, 25 Nov 2026 17:51:58 +0000",
       "sections": [
         "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
-      "id": "a23c5518c1584f7d",
-      "source": "Variety",
-      "headline": "‘The Pitt’ Sets Season 3 Release Date at HBO Max",
-      "summary": "“The Pitt” has set its Season 3 premiere date at HBO Max. The third season of the smash hit medical drama will debut on Jan. 7. That is in keeping with the other season premieres of the series, which aired on Jan. 9, 2025, and Jan. 8, 2026 respectively. The official series logline describes “The",
-      "url": "https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110/",
-      "canonical_url": "https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110",
-      "image": "https://variety.com/wp-content/uploads/2026/11/The-Pitt-season-3.jpg",
-      "published": "Wed, 25 Nov 2026 17:25:30 +0000",
-      "sections": [
-        "wellbeing"
       ],
       "report_dates": [
         "2026-11-25"
@@ -60,6 +41,27 @@
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "appearances": 1
+    },
+    {
+      "id": "4f38747a2cf9481b",
+      "source": "Dane County",
+      "headline": "With Dane County Election Center underway, Madison mulls buying its own facility - Wisconsin State Journal",
+      "summary": "With Dane County Election Center underway, Madison mulls buying its own facility Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE",
+      "image": "assets/images/clementine-madison-morning.webp",
+      "published": "Mon, 23 Nov 2026 13:05:00 GMT",
+      "sections": [
+        "big-story",
+        "local"
+      ],
+      "report_dates": [
+        "2026-11-25",
+        "2026-11-22"
+      ],
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
+      "appearances": 2
     },
     {
       "id": "a17c23615b4e4927",
@@ -119,16 +121,16 @@
       "appearances": 1
     },
     {
-      "id": "1cd206b6e4fb37cb",
-      "source": "Animals",
-      "headline": "Vantara Signs 10-Year Wildlife Pact with Madagascar: Key Facts & CITES - Adda247",
-      "summary": "Vantara Signs 10-Year Wildlife Pact with Madagascar: Key Facts & CITES Adda247",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUdiVzBiQzNYZ3NVeFFLUzdxS1luNnRJejdqMmJYUlVrdDVWc1BKZXY1ZTEyRkhiLWF6MGtGU0Jlb01HdzZjX0NTUmdScmNuTGd5R3VRNi1LSXcyTG0zMmx2ZWdxdS1RSUI5Z0RBMUxCUUYwaVFteXJHRnlUNnh4ZHVLUTBpcGQ3Q3hZNzlwaUcyTVREanRCams4ZHZoeDdrQi1UblZpUWVTMTQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUdiVzBiQzNYZ3NVeFFLUzdxS1luNnRJejdqMmJYUlVrdDVWc1BKZXY1ZTEyRkhiLWF6MGtGU0Jlb01HdzZjX0NTUmdScmNuTGd5R3VRNi1LSXcyTG0zMmx2ZWdxdS1RSUI5Z0RBMUxCUUYwaVFteXJHRnlUNnh4ZHVLUTBpcGQ3Q3hZNzlwaUcyTVREanRCams4ZHZoeDdrQi1UblZpUWVTMTQ",
+      "id": "ededd7d72dc37592",
+      "source": "Associated Press",
+      "headline": "Venice Biennale Visitors Award Top Prizes to Nick Cave and India After Jury Quit - U.S. News & World Report",
+      "summary": "Venice Biennale Visitors Award Top Prizes to Nick Cave and India After Jury Quit U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZm9IXzR2aVdUTXl4NHJkZVJIR0tHdi1Yc0JXRmVGcldBNHZWZHlnSnFHTnB6aVFwSk1uWGxCMW5JU2hIWTJOWEM1VVQxQmIwYlNSQ0x1Q0tNaHpaQUl5QUpSbi1DZ2xqbWFoOWNzM2NZOFVFVWZVWHFXZU1vR2gyeUczaVFyYS1uTzBaZnpZMEI3c1d2VGtseUl1VTEwVVh6Vm9Db2N6S1NsY1hpTVREQlE3ZWlRVnlMdVMtQW4zX0JQbVI2YW1wS1h4MnlOUzFZdy0tWEJ1OXZxZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZm9IXzR2aVdUTXl4NHJkZVJIR0tHdi1Yc0JXRmVGcldBNHZWZHlnSnFHTnB6aVFwSk1uWGxCMW5JU2hIWTJOWEM1VVQxQmIwYlNSQ0x1Q0tNaHpaQUl5QUpSbi1DZ2xqbWFoOWNzM2NZOFVFVWZVWHFXZU1vR2gyeUczaVFyYS1uTzBaZnpZMEI3c1d2VGtseUl1VTEwVVh6Vm9Db2N6S1NsY1hpTVREQlE3ZWlRVnlMdVMtQW4zX0JQbVI2YW1wS1h4MnlOUzFZdy0tWEJ1OXZxZw",
       "image": "",
-      "published": "Wed, 25 Nov 2026 08:10:25 GMT",
+      "published": "Wed, 25 Nov 2026 15:56:00 GMT",
       "sections": [
-        "quick-scan"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-25"
@@ -138,14 +140,14 @@
       "appearances": 1
     },
     {
-      "id": "5dd223049e169637",
+      "id": "1cd206b6e4fb37cb",
       "source": "Animals",
-      "headline": "Vantara Madagascar Deal: Vantara Signs 10-Year Agreement With Madagascar to Repatriate Trafficked Wildlife, Establish Rescue Center & Protect Endangered Species - The Sunday Guardian",
-      "summary": "Vantara Madagascar Deal: Vantara Signs 10-Year Agreement With Madagascar to Repatriate Trafficked Wildlife, Establish Rescue Center & Protect Endangered Species The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTGRTME9LamVzMkp1SEJfdV9ZeC1CbXladndVQnlneDhFU1huMlNuQjV3OXpUWW50MExwcEpicGtkeTl5ak5DeGhUYnRodlpwc2tNZWRPbzFMc2JockdIc2g1UEpaRjlUMzdUU0F3aHhTY2VKWW9hVjk1RXRYRWdVRUViT2FuOXFILXA0NEM2TGlMMkZyQWgxdXNrTWNIajNhNUJZeFJ5dGFwMEczWVZDVktra1VLMUNVQlFDdXYxOEVjV1U4U21zeVU0d0lXU2ZjbGZZVVlyNU5aSTFuM19JYzFoVFEzWXpaTVJsMXJxV0RGbUt2RWNXY0U0dldESm1OWXJuZU1oQ3k4bmE1b0ROdkl6azFramtUaXhSbE15ZEFvT1N5VzhmSdIBrgJBVV95cUxQSzR0bVgzTlRSSmNvVkYyOE9CMS1PcEZ3Y3ZhbV9YbEo3c09FZFBiYUxNWjNRTVlFS015eUFOMTI3MXd6eXItZ1ktQUpIcEs1bTF6ZmZxTzhfem5OWGZKZTBGd25WV2JoR2VuN1dObDlnT1RfZGZwR2ZTUlgtRVREaGhfNjJLYnM2UkVtLUFhb242Y1pIRjUyaWhzU1oxZkw0am13MWthSjlWcVN4ZWxlNVZlSGJNVVVBVUZqeDRPeFQ1eFpveE5jVjY5VEpBX3JhcjMtcjd3aFl4RTRkSnYtRTY3MkstMHYyUlJ1eFJWc0pBWFZRMXVxMWRJRVFWRTJKM2JfdWhVUU5KYXhDOFVJVGl6T203cGVNaHlWSVI4bWtvOWllaUR2YXRMNXpqdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTGRTME9LamVzMkp1SEJfdV9ZeC1CbXladndVQnlneDhFU1huMlNuQjV3OXpUWW50MExwcEpicGtkeTl5ak5DeGhUYnRodlpwc2tNZWRPbzFMc2JockdIc2g1UEpaRjlUMzdUU0F3aHhTY2VKWW9hVjk1RXRYRWdVRUViT2FuOXFILXA0NEM2TGlMMkZyQWgxdXNrTWNIajNhNUJZeFJ5dGFwMEczWVZDVktra1VLMUNVQlFDdXYxOEVjV1U4U21zeVU0d0lXU2ZjbGZZVVlyNU5aSTFuM19JYzFoVFEzWXpaTVJsMXJxV0RGbUt2RWNXY0U0dldESm1OWXJuZU1oQ3k4bmE1b0ROdkl6azFramtUaXhSbE15ZEFvT1N5VzhmSdIBrgJBVV95cUxQSzR0bVgzTlRSSmNvVkYyOE9CMS1PcEZ3Y3ZhbV9YbEo3c09FZFBiYUxNWjNRTVlFS015eUFOMTI3MXd6eXItZ1ktQUpIcEs1bTF6ZmZxTzhfem5OWGZKZTBGd25WV2JoR2VuN1dObDlnT1RfZGZwR2ZTUlgtRVREaGhfNjJLYnM2UkVtLUFhb242Y1pIRjUyaWhzU1oxZkw0am13MWthSjlWcVN4ZWxlNVZlSGJNVVVBVUZqeDRPeFQ1eFpveE5jVjY5VEpBX3JhcjMtcjd3aFl4RTRkSnYtRTY3MkstMHYyUlJ1eFJWc0pBWFZRMXVxMWRJRVFWRTJKM2JfdWhVUU5KYXhDOFVJVGl6T203cGVNaHlWSVI4bWtvOWllaUR2YXRMNXpqdw",
+      "headline": "Vantara Signs 10-Year Wildlife Pact with Madagascar: Key Facts & CITES - Adda247",
+      "summary": "Vantara Signs 10-Year Wildlife Pact with Madagascar: Key Facts & CITES Adda247",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUdiVzBiQzNYZ3NVeFFLUzdxS1luNnRJejdqMmJYUlVrdDVWc1BKZXY1ZTEyRkhiLWF6MGtGU0Jlb01HdzZjX0NTUmdScmNuTGd5R3VRNi1LSXcyTG0zMmx2ZWdxdS1RSUI5Z0RBMUxCUUYwaVFteXJHRnlUNnh4ZHVLUTBpcGQ3Q3hZNzlwaUcyTVREanRCams4ZHZoeDdrQi1UblZpUWVTMTQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUdiVzBiQzNYZ3NVeFFLUzdxS1luNnRJejdqMmJYUlVrdDVWc1BKZXY1ZTEyRkhiLWF6MGtGU0Jlb01HdzZjX0NTUmdScmNuTGd5R3VRNi1LSXcyTG0zMmx2ZWdxdS1RSUI5Z0RBMUxCUUYwaVFteXJHRnlUNnh4ZHVLUTBpcGQ3Q3hZNzlwaUcyTVREanRCams4ZHZoeDdrQi1UblZpUWVTMTQ",
       "image": "",
-      "published": "Wed, 25 Nov 2026 06:36:11 GMT",
+      "published": "Wed, 25 Nov 2026 08:10:25 GMT",
       "sections": [
         "quick-scan"
       ],
@@ -214,16 +216,35 @@
       "appearances": 1
     },
     {
-      "id": "3ffe31b1668b162a",
+      "id": "47c9586ab578f728",
       "source": "Reuters",
-      "headline": "U.S. Shelves Plans for Business Deals With Russia to End Ukraine War – FT - The Moscow Times",
-      "summary": "U.S. Shelves Plans for Business Deals With Russia to End Ukraine War – FT The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDB2c2JYWEtlTHhhQkpJeFJ5ZzdSV0VCRFpTb2lJdk5EVzI0ZjJZcUpuV1RRdWRXS2N1dy1kR0NpSXhLYnZwU0I1ZFBmRTFLTDBKTkw0N24tQWcwWG4zT0phaWVOQWFzcGhHWS1ySEFyODhOVDI2alZlX3hKRVBmNjlGckFXYnU4Umh3VW84R0I4czV4YVlnUXYtTWJCTHdMaXV3S1MyQ2R4TUQ0N0dheXFhbzFxWlV0bXc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDB2c2JYWEtlTHhhQkpJeFJ5ZzdSV0VCRFpTb2lJdk5EVzI0ZjJZcUpuV1RRdWRXS2N1dy1kR0NpSXhLYnZwU0I1ZFBmRTFLTDBKTkw0N24tQWcwWG4zT0phaWVOQWFzcGhHWS1ySEFyODhOVDI2alZlX3hKRVBmNjlGckFXYnU4Umh3VW84R0I4czV4YVlnUXYtTWJCTHdMaXV3S1MyQ2R4TUQ0N0dheXFhbzFxWlV0bXc",
+      "headline": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
+      "summary": "US shelves plans for business deals with Russia to end Ukraine war, FT says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc",
       "image": "",
-      "published": "Wed, 25 Nov 2026 10:14:06 GMT",
+      "published": "Wed, 25 Nov 2026 05:16:00 GMT",
       "sections": [
-        "must-know"
+        "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "d55f2bd937d7f8cb",
+      "source": "BBC US & Canada",
+      "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "published": "Wed, 25 Nov 2026 19:18:27 GMT",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-25"
@@ -261,7 +282,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
       "published": "Wed, 25 Nov 2026 16:42:11 GMT",
       "sections": [
-        "big-story"
+        "must-know"
       ],
       "report_dates": [
         "2026-11-25"
@@ -269,6 +290,27 @@
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "appearances": 1
+    },
+    {
+      "id": "b9c6d5194bdd50ce",
+      "source": "Associated Press",
+      "headline": "Trump says Walter Reed medical exam went ‘perfectly’ - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Trump says Walter Reed medical exam went ‘perfectly’ ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 11:36:13 GMT",
+      "sections": [
+        "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-25",
+        "2026-11-22",
+        "2026-10-27"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-11-25",
+      "appearances": 3
     },
     {
       "id": "36007996272a4691",
@@ -300,6 +342,44 @@
       "published": "Tue, 24 Nov 2026 23:38:39 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "42b720d5532525a1",
+      "source": "Associated Press",
+      "headline": "The Latest: Army detonates entire US stockpile of lead azide in Iowa - FOX 5 San Diego & KUSI News",
+      "summary": "The Latest: Army detonates entire US stockpile of lead azide in Iowa FOX 5 San Diego & KUSI News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzJtcnF6VUJNT096WDJTd29KUUtyT2t6b3JmTEJqRlZnMEtHQmp4U3ZkSjJLTGhxUEpxSVJuNUxMdGlHY3pvUGZkd01PdnhIdjlKOWF1SE56YzY4VlNuejIzeFlaTlM1d0VHVE5HTmRXQXVicGZuMUlWSHc4bm5CdXJqLV9YR3NhZ1lWbHRjYjhDbEtNOV9RdjU1VkRmNEZhTmMtR25YTlJYTXNIbkJnRUVwWTJqUElrdWQ2LTMxc0k2TFByS1Jkd1930gHPAUFVX3lxTE16S2h3SEJyMWY4RmUzUGY5VU1fMWFrOTc0MEhhY25JNFI5bUJhMkl1bklWcjlUd2R3WGpyMElmdHJLNTAwSmg4aEhCTHRIWUVvbGdHTWxpMG1pa3R2WHBLZVcxNFMyLWhsYnhwRE5XbDdNa21pS1YwbzdrVkxKSTlTeS1mUGJkZVFLUXJucXZCTjJOeDdYYkk4a0JBcFMwdFhHZUdXOUxraE1PeThia2ZzQzJDQ0JsaUoxcHg0aVJkbzFzNlFxdjFZMU11aUxlbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzJtcnF6VUJNT096WDJTd29KUUtyT2t6b3JmTEJqRlZnMEtHQmp4U3ZkSjJLTGhxUEpxSVJuNUxMdGlHY3pvUGZkd01PdnhIdjlKOWF1SE56YzY4VlNuejIzeFlaTlM1d0VHVE5HTmRXQXVicGZuMUlWSHc4bm5CdXJqLV9YR3NhZ1lWbHRjYjhDbEtNOV9RdjU1VkRmNEZhTmMtR25YTlJYTXNIbkJnRUVwWTJqUElrdWQ2LTMxc0k2TFByS1Jkd1930gHPAUFVX3lxTE16S2h3SEJyMWY4RmUzUGY5VU1fMWFrOTc0MEhhY25JNFI5bUJhMkl1bklWcjlUd2R3WGpyMElmdHJLNTAwSmg4aEhCTHRIWUVvbGdHTWxpMG1pa3R2WHBLZVcxNFMyLWhsYnhwRE5XbDdNa21pS1YwbzdrVkxKSTlTeS1mUGJkZVFLUXJucXZCTjJOeDdYYkk4a0JBcFMwdFhHZUdXOUxraE1PeThia2ZzQzJDQ0JsaUoxcHg0aVJkbzFzNlFxdjFZMU11aUxlbw",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 16:12:48 GMT",
+      "sections": [
+        "animals"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "4ce8d1b279b5ea70",
+      "source": "Ars Technica",
+      "headline": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "canonical_url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+      "published": "Wed, 25 Nov 2026 18:22:38 +0000",
+      "sections": [
+        "quick-scan"
       ],
       "report_dates": [
         "2026-11-25"
@@ -384,63 +464,6 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-25",
       "appearances": 2
-    },
-    {
-      "id": "ae235e08e9517717",
-      "source": "Taylor Alert",
-      "headline": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards - Variety",
-      "summary": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards Variety",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG5JSW5PQm4yWU44SlJTRDVNSk5uSDVnMm94bHphSkFDSG5yQ2JXNXE1YldtRWZFeS1VWUw0WFBJNkhHVDl6b3NzOFFCZTRoV0hzSHM2NzhWN0JKZS02MkEwOVVVMGtvWHpubU9jUGRDRDVlLWQtNTcxSG9VclVhQ3VPSlg2Yy02WnlRU0NpQmU4T3Z3R05GVl9ITkpMMENsV0ZQczFLQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdG5JSW5PQm4yWU44SlJTRDVNSk5uSDVnMm94bHphSkFDSG5yQ2JXNXE1YldtRWZFeS1VWUw0WFBJNkhHVDl6b3NzOFFCZTRoV0hzSHM2NzhWN0JKZS02MkEwOVVVMGtvWHpubU9jUGRDRDVlLWQtNTcxSG9VclVhQ3VPSlg2Yy02WnlRU0NpQmU4T3Z3R05GVl9ITkpMMENsV0ZQczFLQQ",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 02:29:00 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
-      "id": "e010f72033253876",
-      "source": "The Verge",
-      "headline": "Tapo’s new indoor security camera includes a touchscreen for video calls",
-      "summary": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets,",
-      "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
-      "canonical_url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
-      "image": "",
-      "published": "2026-11-25T08:30:00-05:00",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
-      "id": "d55479bc47efa8d0",
-      "source": "Mongabay",
-      "headline": "Species down to the last 50 animals can recover, but rarely without help - news - Mongabay",
-      "summary": "Species down to the last 50 animals can recover, but rarely without help news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VZT0tFb0ZSeVdDYlVYUEdHdXk2bmJsNDRMVFpER1ZGeE1IcDhjcXcxV1JtbHJILXp5elBOXzBTb0ZhRDBjMDNVUW42UGk2bHJ0X0hodEFMU0h1d0xHSFh4YWJTa0k0RW84NnpHNFM5RC1IOFg2RC16bmJLbVQ1N0c4UC1HQmFWN0RTZXpYSF9KTGNWcWNrbHVHNzJad2M2SGpEM3FsQmlfaXVEN3JxSkxR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VZT0tFb0ZSeVdDYlVYUEdHdXk2bmJsNDRMVFpER1ZGeE1IcDhjcXcxV1JtbHJILXp5elBOXzBTb0ZhRDBjMDNVUW42UGk2bHJ0X0hodEFMU0h1d0xHSFh4YWJTa0k0RW84NnpHNFM5RC1IOFg2RC16bmJLbVQ1N0c4UC1HQmFWN0RTZXpYSF9KTGNWcWNrbHVHNzJad2M2SGpEM3FsQmlfaXVEN3JxSkxR",
-      "image": "",
-      "published": "Wed, 25 Nov 2026 00:24:10 GMT",
-      "sections": [
-        "animals"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
     },
     {
       "id": "0d6eaae978c8031d",
@@ -617,7 +640,7 @@
     {
       "id": "cb7efad2424b29a1",
       "source": "BBC Health",
-      "headline": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+      "headline": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
       "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
       "url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo",
@@ -644,6 +667,25 @@
       "published": "Wed, 25 Nov 2026 00:54:13 GMT",
       "sections": [
         "must-know"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "c260b869c8ff0878",
+      "source": "Klaviyo",
+      "headline": "Multi-language support for reviews has arrived - Klaviyo",
+      "summary": "Multi-language support for reviews has arrived Klaviyo",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTVVaM1E4ZHdhczY3M0ludG5PWFFIOG5mTjBfcHhIUmlYZnZKLWh5UXU0LUFrdmtPRnk4LUZOb3hFeWxOd1JsZEpNaFZKek9sdGx1cUNSSkpYclh4bV9BSw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTVVaM1E4ZHdhczY3M0ludG5PWFFIOG5mTjBfcHhIUmlYZnZKLWh5UXU0LUFrdmtPRnk4LUZOb3hFeWxOd1JsZEpNaFZKek9sdGx1cUNSSkpYclh4bV9BSw",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 09:36:24 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-25"
@@ -691,63 +733,6 @@
       "appearances": 1
     },
     {
-      "id": "76def49481692565",
-      "source": "Variety",
-      "headline": "Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)",
-      "summary": "Michael Urie, the two-time Emmy nominee, will host the 79th annual Writers Guild Awards New York ceremony on Saturday, Feb. 13, 2027, Variety has learned exclusively. Urie served as a presenter at the 2026 New York ceremony and clearly made an impression on the guild’s leadership. “Michael was an absolute delight as a presenter at",
-      "url": "https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790/",
-      "canonical_url": "https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790",
-      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2279647710.jpg",
-      "published": "Wed, 25 Nov 2026 17:15:00 +0000",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
-      "id": "e8d2e3ccf17edc94",
-      "source": "Associated Press",
-      "headline": "Making sense of the CFP rankings, from Alabama's drop to Big Ten woes and Group of Six mysteries - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Making sense of the CFP rankings, from Alabama's drop to Big Ten woes and Group of Six mysteries ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3M5LTIxbXAyT3VkbmtWY1VneXBEdlMtYXNDTnZSeHRHRXJ5QTBYdHJiMmdmNHZQTVdPQmN5U3ZTdGRmWExNZUVGdmJTVlBGZ3Jad01rdUNldXlpWjZKRUJoUHhMckxWa2hyNHRYaUtHN25HM2JKamFsTE53R0JybC1RTHgwQm9QTWVnVDN5ZmpJU014UkZGbEFR0gGfAUFVX3lxTE9ISGVUY3dXZmswekN6d3A5OTZYel9VZ0xJNDRxZjEwTFQ0Z3Q1cFFBNENYNmpNRkRwNnR3dUNDc3ZpbTRmTkExbHBGUjdIY2xVRmtVNHlJQkJ4ZlhrX0ZVT2hKQTg1eEpqdVJGTlJxQlV4ZmM4N2FjVC03bkhTLW1SaTI0cnlsNEFvdEhaZmFMeXlFZGZJZEVaTVA4Y0t4OA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3M5LTIxbXAyT3VkbmtWY1VneXBEdlMtYXNDTnZSeHRHRXJ5QTBYdHJiMmdmNHZQTVdPQmN5U3ZTdGRmWExNZUVGdmJTVlBGZ3Jad01rdUNldXlpWjZKRUJoUHhMckxWa2hyNHRYaUtHN25HM2JKamFsTE53R0JybC1RTHgwQm9QTWVnVDN5ZmpJU014UkZGbEFR0gGfAUFVX3lxTE9ISGVUY3dXZmswekN6d3A5OTZYel9VZ0xJNDRxZjEwTFQ0Z3Q1cFFBNENYNmpNRkRwNnR3dUNDc3ZpbTRmTkExbHBGUjdIY2xVRmtVNHlJQkJ4ZlhrX0ZVT2hKQTg1eEpqdVJGTlJxQlV4ZmM4N2FjVC03bkhTLW1SaTI0cnlsNEFvdEhaZmFMeXlFZGZJZEVaTVA4Y0t4OA",
-      "image": "",
-      "published": "Wed, 25 Nov 2026 17:46:21 GMT",
-      "sections": [
-        "must-know"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
-      "id": "1e0719e9dca9df29",
-      "source": "Madison Local",
-      "headline": "Madison Common Council approves purchase of property for new elections operations center - WKOW",
-      "summary": "Madison Common Council approves purchase of property for new elections operations center WKOW",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHZTWGIyeWhnb29uVTQtYW1OMGFETVNXbDA3MXNtdDdtX2pVN2tGbHc1SWRSRkhOWmFJUFRwY29PTVp2SXQtNlNoMWJXWWtfUjVpNmt0R0R0MGlnX1N6N3duajR6UkM2dElVdXpPaXFhcERPYno2TndXZVVyckd3UGtfUTVBUEZwWVctTlNzXzFqalN3Nm41UE9pbkNzNHMtSUdkVlhkUDBsZE9PVDltYWlxYWsyOVJBelhCSnYwRVhNcF9MbFExT2VFbExUWVExdUZmSEVYcnloTXZUSzhLU2lyeHNjdk9rWGlvUS0zMV80RVVKeEhn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHZTWGIyeWhnb29uVTQtYW1OMGFETVNXbDA3MXNtdDdtX2pVN2tGbHc1SWRSRkhOWmFJUFRwY29PTVp2SXQtNlNoMWJXWWtfUjVpNmt0R0R0MGlnX1N6N3duajR6UkM2dElVdXpPaXFhcERPYno2TndXZVVyckd3UGtfUTVBUEZwWVctTlNzXzFqalN3Nm41UE9pbkNzNHMtSUdkVlhkUDBsZE9PVDltYWlxYWsyOVJBelhCSnYwRVhNcF9MbFExT2VFbExUWVExdUZmSEVYcnloTXZUSzhLU2lyeHNjdk9rWGlvUS0zMV80RVVKeEhn",
-      "image": "",
-      "published": "Wed, 25 Nov 2026 09:06:00 GMT",
-      "sections": [
-        "local"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
       "id": "b7692ec17102a659",
       "source": "Ars Technica",
       "headline": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
@@ -786,25 +771,6 @@
       "appearances": 1
     },
     {
-      "id": "d0d15a6780baf7c7",
-      "source": "Ars Technica",
-      "headline": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "canonical_url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
-      "published": "Wed, 25 Nov 2026 17:33:30 +0000",
-      "sections": [
-        "ai-tech"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
       "id": "a87455069b89efa4",
       "source": "BBC US & Canada",
       "headline": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
@@ -824,16 +790,16 @@
       "appearances": 1
     },
     {
-      "id": "787f60c2ec17c284",
-      "source": "Variety",
-      "headline": "Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)",
-      "summary": "“The Pop Exchange,” the live celebrity digital series hosted by “E! News” veteran Jason Kennedy and actress Karrueche Tran, had more than 11 million views in its first month. The show launched on Oct. 12. Guests included Chris Pratt, Patrick Schwarzenegger, Blake Griffin, Heather McMahan, David Henrie and Dallas Jenkins, among others. “The Pop Exchange”",
-      "url": "https://variety.com/2026/digital/columns/jason-kennedy-karrueche-tran-pop-exchange-1236958021/",
-      "canonical_url": "https://variety.com/2026/digital/columns/jason-kennedy-karrueche-tran-pop-exchange-1236958021",
-      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_07d1c1.jpg",
-      "published": "Wed, 25 Nov 2026 16:36:45 +0000",
+      "id": "12a0a6df158e8558",
+      "source": "Adweek",
+      "headline": "JOVS Recruits an Advisory Board to Back Its Beauty Tech - ADWEEK",
+      "summary": "JOVS Recruits an Advisory Board to Back Its Beauty Tech ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFI3Q0NhNkVOUVZGUERaVENWRFhObUUxX205RTJvZ1ljX05LSzVWZVN4bHlZZVk5MU96UTdDbGVza0N6azFPYzlVM2ZpTFA3Vk9aT1RHSEt4bThWNW1VVFNZTG1PSW4wOUpoUHFEZUtFNWpURjVmU2VqWUozTzBhemxWYVJqRU5sT29UUm9JSlVZc0ZudUc5cWFjSQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFI3Q0NhNkVOUVZGUERaVENWRFhObUUxX205RTJvZ1ljX05LSzVWZVN4bHlZZVk5MU96UTdDbGVza0N6azFPYzlVM2ZpTFA3Vk9aT1RHSEt4bThWNW1VVFNZTG1PSW4wOUpoUHFEZUtFNWpURjVmU2VqWUozTzBhemxWYVJqRU5sT29UUm9JSlVZc0ZudUc5cWFjSQ",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 20:17:04 GMT",
       "sections": [
-        "entertainment"
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-25"
@@ -919,25 +885,6 @@
       "appearances": 1
     },
     {
-      "id": "950ab661ff29ebb0",
-      "source": "Variety",
-      "headline": "Hallmark’s New Podcast Push Kicks Off With Interview Series Hosted by Melissa Peterman That ‘Breaks the Fourth Wall,’ With More Shows to Come",
-      "summary": "Hallmark Media is gearing up for new expansion into podcasting — aiming to add another vector for connecting with its fanbase. The media company in recent years has stepped up its brand extensions, from cruises and live tours to movies and series centered on heartwarming storylines and holiday themes. Now it wants to engage with",
-      "url": "https://variety.com/2026/tv/news/hallmark-podcast-melissa-peterman-1236956991/",
-      "canonical_url": "https://variety.com/2026/tv/news/hallmark-podcast-melissa-peterman-1236956991",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Melissa-Peterman.jpg",
-      "published": "Wed, 25 Nov 2026 17:00:00 +0000",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
       "id": "2bfe168014b9db1c",
       "source": "BBC Health",
       "headline": "GP surgery suspends routine appointments due to 'tsunami' of demand",
@@ -996,6 +943,25 @@
       "appearances": 1
     },
     {
+      "id": "d2da7cc1d9ed7888",
+      "source": "Search Engine Land",
+      "headline": "Google Ads expands guidance on Book Appointment conversion goal - Search Engine Land",
+      "summary": "Google Ads expands guidance on Book Appointment conversion goal Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzhaNUREcGtfSFVNQjZuQnlSMmNPUWdOT3ROUjhXeDhpLW5rMFBUUF9BYkhCYmp3OTVla19PTGNaVlEwQWhHMHdmcXZXamxqX1c2Zjh6MkZjdjdCYTg4dmg5Sy1qeFZFSlFleVUzakxBWkFNNXVGaGE0bDdiMWxRWlUtQnpyclhtNkpZcTY1Nk05RnNsYi0zX0ZXMFRYWW1I?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzhaNUREcGtfSFVNQjZuQnlSMmNPUWdOT3ROUjhXeDhpLW5rMFBUUF9BYkhCYmp3OTVla19PTGNaVlEwQWhHMHdmcXZXamxqX1c2Zjh6MkZjdjdCYTg4dmg5Sy1qeFZFSlFleVUzakxBWkFNNXVGaGE0bDdiMWxRWlUtQnpyclhtNkpZcTY1Nk05RnNsYi0zX0ZXMFRYWW1I",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 17:34:51 GMT",
+      "sections": [
+        "work-marketing"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
       "id": "829c6ab1fd896807",
       "source": "Good News Network",
       "headline": "Good News in History, November 25",
@@ -1025,6 +991,25 @@
       "published": "Wed, 25 Nov 2026 17:00:15 GMT",
       "sections": [
         "wellbeing"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "8931f0bcdb3d7e2e",
+      "source": "BBC Entertainment",
+      "headline": "Gavin and Stacey props to be auctioned for cancer charity",
+      "summary": "Items including a signed clapperboard and Smithy's West Ham shirt will raise money for charity.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2r19v328o?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx7v2r19v328o",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13de/live/2932dfe0-e8e9-11f1-99b6-a35a62fa4264.jpg",
+      "published": "Wed, 25 Nov 2026 17:59:54 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-25"
@@ -1072,16 +1057,16 @@
       "appearances": 1
     },
     {
-      "id": "d346e42f31fce359",
-      "source": "Ars Technica",
-      "headline": "Etsy clarifies AI terms after seller backlash",
-      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
-      "published": "Wed, 25 Nov 2026 17:12:57 +0000",
+      "id": "d2286f86c804019f",
+      "source": "Variety",
+      "headline": "Dropout’s ‘Very Important People’ Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
+      "summary": "Dropout’s improv interview series “Very Important People” is set to debut its fourth season Dec. 10 with a new batch of weirdo guests. Hosted by comedian Vic Michaelis, “Very Important People” features improv comedians after they undergo an extensive makeover by a talented team of make-up artists to transform them into an entirely new and",
+      "url": "https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190/",
+      "canonical_url": "https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190",
+      "image": "https://variety.com/wp-content/uploads/2026/11/VIP-Dropout.jpg",
+      "published": "Wed, 25 Nov 2026 18:30:12 +0000",
       "sections": [
-        "quick-scan"
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-25"
@@ -1112,14 +1097,33 @@
     {
       "id": "510234d634caf753",
       "source": "BBC World",
-      "headline": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "headline": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
       "canonical_url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
-      "published": "Wed, 25 Nov 2026 16:20:14 GMT",
+      "published": "Wed, 25 Nov 2026 18:41:33 GMT",
       "sections": [
-        "quick-scan"
+        "big-story"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "7b846b60a8182f4b",
+      "source": "Salesforce",
+      "headline": "Can ZETA's Million-Dollar Customer Base Fuel Long-Term Growth? - TradingView",
+      "summary": "Can ZETA's Million-Dollar Customer Base Fuel Long-Term Growth? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm9vU2tGMVhKd3dqYVNjZXBMcWVBNERqUHhXZDNxVDdDVV9PSHFGM01tbFdRS1E2eFRnU0w0enhxbUU0aUF0UnpYQk5jU2NVZlVwc1I0MGw5dlR1bElScEtmanR4YkJuRExLNVRia2dwd002TXBMV0FzaVY5YVYzNGJPV214R0JvMWpUbExTdmNwX3dOaU5fakF1SWVxcm40b1NwSUN5UmROczVmU3k4SE1taUh6WTdH?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm9vU2tGMVhKd3dqYVNjZXBMcWVBNERqUHhXZDNxVDdDVV9PSHFGM01tbFdRS1E2eFRnU0w0enhxbUU0aUF0UnpYQk5jU2NVZlVwc1I0MGw5dlR1bElScEtmanR4YkJuRExLNVRia2dwd002TXBMV0FzaVY5YVYzNGJPV214R0JvMWpUbExTdmNwX3dOaU5fakF1SWVxcm40b1NwSUN5UmROczVmU3k4SE1taUh6WTdH",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 16:08:00 GMT",
+      "sections": [
+        "work-marketing"
       ],
       "report_dates": [
         "2026-11-25"
@@ -1167,16 +1171,35 @@
       "appearances": 1
     },
     {
-      "id": "ddc746fc945a4386",
-      "source": "Klaviyo",
-      "headline": "Boost Sales with Discount Pricing in Product Blocks - Klaviyo",
-      "summary": "Boost Sales with Discount Pricing in Product Blocks Klaviyo",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0X1JJd2VUZVlDUjRaeHRESjk5Mzh0Mk13UjlIZ0ZCc01VYWNPaWJVc05ZSlJ6T2U2alRZZzdqYjlfcjlEM2FoOHI3UVkwRmMzS2pfbG9Ub242Ry1RWFRJZGRTWQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0X1JJd2VUZVlDUjRaeHRESjk5Mzh0Mk13UjlIZ0ZCc01VYWNPaWJVc05ZSlJ6T2U2alRZZzdqYjlfcjlEM2FoOHI3UVkwRmMzS2pfbG9Ub242Ry1RWFRJZGRTWQ",
-      "image": "",
-      "published": "Wed, 25 Nov 2026 00:42:07 GMT",
+      "id": "593bca4b0da30b7e",
+      "source": "BBC Entertainment",
+      "headline": "BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead",
+      "summary": "The US president is suing the BBC over the way Panorama edited a speech he gave in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo?at_medium=RSS&at_campaign=rss",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
+      "published": "Wed, 25 Nov 2026 18:27:53 GMT",
       "sections": [
-        "work-marketing"
+        "entertainment"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "45e1e19ee7511dc9",
+      "source": "Ars Technica",
+      "headline": "Backblaze explains why it's sharing customer information with advertisers",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "canonical_url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "published": "Wed, 25 Nov 2026 18:38:29 +0000",
+      "sections": [
+        "ai-tech"
       ],
       "report_dates": [
         "2026-11-25"
@@ -1196,6 +1219,25 @@
       "published": "Wed, 25 Nov 2026 16:37:34 +0000",
       "sections": [
         "ai-tech"
+      ],
+      "report_dates": [
+        "2026-11-25"
+      ],
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "appearances": 1
+    },
+    {
+      "id": "1f8a31c38beca921",
+      "source": "Variety",
+      "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
+      "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade. While a huge culture moment for Sanrio’s",
+      "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/",
+      "canonical_url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Hello-Kitty-Sanrio-Macys-Thanksgiving-Parade-Balloon.jpg",
+      "published": "Wed, 25 Nov 2026 19:00:00 +0000",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-25"
@@ -1243,25 +1285,6 @@
       "appearances": 1
     },
     {
-      "id": "f5c0adc9b4ca6223",
-      "source": "Marketing Ops",
-      "headline": "ABB commissions digital platform integration for sunflag steel to enable better metals plant decision making - ABB",
-      "summary": "ABB commissions digital platform integration for sunflag steel to enable better metals plant decision making ABB",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT28yVVRrRHdKZkZ2MnFvWDdvb2dFUEM4ZEpyREFQaDFrcUlESDl5eE1EaFJ3TVhYR0NXWWVkaE5yeDZBRGxjM19CYW9PaC1hOHUzLUphbG5oUnJJbC00VTZNb0c5SzI3QjFRTm5yd1l5UEpMakFhbW1kanlRZl92RS1VZHZmdjhWM0o4a05keWNnSmJReXNweXNGX0FudWtZRFNNQmp1UXdIUURxYTlFZjN2Y3NsRm5idDk4cmdaVWx2QXAzR3liZUUzamlHWmZaYlBmZ0U4Vl8zNWR0b1VSSXUteVdIMVU3OExWeGJtUHF5VVlZNWp4STAxVHVjLXFJaGhZWXdLR2p0Z2M?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT28yVVRrRHdKZkZ2MnFvWDdvb2dFUEM4ZEpyREFQaDFrcUlESDl5eE1EaFJ3TVhYR0NXWWVkaE5yeDZBRGxjM19CYW9PaC1hOHUzLUphbG5oUnJJbC00VTZNb0c5SzI3QjFRTm5yd1l5UEpMakFhbW1kanlRZl92RS1VZHZmdjhWM0o4a05keWNnSmJReXNweXNGX0FudWtZRFNNQmp1UXdIUURxYTlFZjN2Y3NsRm5idDk4cmdaVWx2QXAzR3liZUUzamlHWmZaYlBmZ0U4Vl8zNWR0b1VSSXUteVdIMVU3OExWeGJtUHF5VVlZNWp4STAxVHVjLXFJaGhZWXdLR2p0Z2M",
-      "image": "",
-      "published": "Wed, 25 Nov 2026 01:50:19 GMT",
-      "sections": [
-        "work-marketing"
-      ],
-      "report_dates": [
-        "2026-11-25"
-      ],
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "appearances": 1
-    },
-    {
       "id": "bc06a2c33a25deb5",
       "source": "BBC Health",
       "headline": "A question of trust in the NHS could be Swinney's most dangerous political moment",
@@ -1279,26 +1302,6 @@
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "appearances": 1
-    },
-    {
-      "id": "3302212e4b95ab81",
-      "source": "Taylor Alert",
-      "headline": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep - Reuters",
-      "summary": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 10:47:35 GMT",
-      "sections": [
-        "entertainment"
-      ],
-      "report_dates": [
-        "2026-11-25",
-        "2026-11-21"
-      ],
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25",
-      "appearances": 2
     },
     {
       "id": "0affde310cda2237",
@@ -3922,25 +3925,6 @@
       "appearances": 1
     },
     {
-      "id": "4f38747a2cf9481b",
-      "source": "Dane County",
-      "headline": "With Dane County Election Center underway, Madison mulls buying its own facility - Wisconsin State Journal",
-      "summary": "With Dane County Election Center underway, Madison mulls buying its own facility Wisconsin State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE",
-      "image": "assets/images/clementine-madison-morning.webp",
-      "published": "Sun, 22 Nov 2026 11:50:00 GMT",
-      "sections": [
-        "big-story"
-      ],
-      "report_dates": [
-        "2026-11-22"
-      ],
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "appearances": 1
-    },
-    {
       "id": "93ff5356a1eba71c",
       "source": "Wisconsin News",
       "headline": "Wisconsin measles update as of November 20 - Outbreak News Today",
@@ -4113,26 +4097,6 @@
         "2026-11-21"
       ],
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
-      "appearances": 2
-    },
-    {
-      "id": "b9c6d5194bdd50ce",
-      "source": "Associated Press",
-      "headline": "Trump says Walter Reed medical exam went ‘perfectly’ - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Trump says Walter Reed medical exam went ‘perfectly’ ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSllqS09DblktdXZyMG5yLXZYTnYxTWxBZXl4VzUwcWFHMHNwaGlpbEY3OXR0TGF1OVZEcVJJLWFOUUFULTRWb2s5S2VUdmxveXpGbERzemFtZm00cWhLUGVRdWdpSUVQNnc4eVdJQVNGWWNTeTEwcHR1WmtFVkswMVh6MHNGVWRLc3Z0VFgtNFg0bUJZd1J30gGcAUFVX3lxTE5wYVgxdFBWeXQxeEhXa2ZJbHZHNmhEUTFBa3ZQY0tueTJSUmNoam10NGlfWnJLelFwcVJHZnI3cktqaTZxRGcxSzVfR2N4dGMySXlEUlptelNLR3ZQZjVLMG5YeVNpay1ZVnNCQ2JFbVhwbXlMbFoyTWd1eVVWNmtDRVRobElPRzJPbUFuU0J5UFNqUTRKVTZKeTNhNA",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 11:48:02 GMT",
-      "sections": [
-        "wellbeing"
-      ],
-      "report_dates": [
-        "2026-11-22",
-        "2026-10-27"
-      ],
-      "first_seen": "2026-10-27",
       "last_seen": "2026-11-22",
       "appearances": 2
     },
@@ -6320,6 +6284,25 @@
       "published": "Fri, 20 Nov 2026 22:00:41 +0000",
       "sections": [
         "quick-scan"
+      ],
+      "report_dates": [
+        "2026-11-21"
+      ],
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "appearances": 1
+    },
+    {
+      "id": "3302212e4b95ab81",
+      "source": "Taylor Alert",
+      "headline": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep - Reuters",
+      "summary": "'Choosin' Texas' singer Langley beats Taylor Swift on way to Country Music Awards sweep Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjVfa3NFRjlPRVFHT2hoMmVDNG5fUnJmc3RfN0MzRDZoTWphUkhjcS1Xd3BEWnpncEJ4RE5TZGRtNy0ybzlGZk1zN3JWWndzdWJLQm9sbXBEb21uRC1XZ1k3dDR6WnBqUWZFS0N4UklCVlN4azBPY2Q0clFOTDZBYnpmcWtsTi1qX2VBNEVWdGhUTmpULW9nSjg2MWo5eXVmZ2lTcTVXNjlPWEZoZ3hFZy1UckhvUk5lNzlRRkQ1bWNESEFTNWdfczYzVWpUbEF4Y0pZ",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 10:47:35 GMT",
+      "sections": [
+        "entertainment"
       ],
       "report_dates": [
         "2026-11-21"
