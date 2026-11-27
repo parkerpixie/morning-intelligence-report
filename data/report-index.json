@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-26.json",
-  "report_date": "2026-11-26",
-  "generated_at": "2026-11-26T20:13:14.355066+00:00",
-  "edition_count": 134,
+  "latest": "data/archive/2026-11-27.json",
+  "report_date": "2026-11-27",
+  "generated_at": "2026-11-27T16:44:50.000161+00:00",
+  "edition_count": 135,
   "editions": [
+    {
+      "report_date": "2026-11-27",
+      "generated_at": "2026-11-27T16:44:50.000161+00:00",
+      "path": "data/archive/2026-11-27.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-26",
       "generated_at": "2026-11-26T20:13:14.355066+00:00",
