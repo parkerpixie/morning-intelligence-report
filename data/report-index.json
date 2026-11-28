@@ -1,9 +1,32 @@
 {
-  "latest": "data/archive/2026-11-27.json",
-  "report_date": "2026-11-27",
-  "generated_at": "2026-11-27T19:59:39.342273+00:00",
-  "edition_count": 135,
+  "latest": "data/archive/2026-11-28.json",
+  "report_date": "2026-11-28",
+  "generated_at": "2026-11-28T15:37:45.563198+00:00",
+  "edition_count": 136,
   "editions": [
+    {
+      "report_date": "2026-11-28",
+      "generated_at": "2026-11-28T15:37:45.563198+00:00",
+      "path": "data/archive/2026-11-28.json",
+      "top_story": {
+        "source": "BBC World",
+        "headline": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+        "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
+      },
+      "story_count": 68,
+      "section_counts": {
+        "local": 8,
+        "must-know": 8,
+        "ai-tech": 8,
+        "work-marketing": 8,
+        "wellbeing": 8,
+        "entertainment": 8,
+        "animals": 8,
+        "wonderful": 3
+      }
+    },
     {
       "report_date": "2026-11-27",
       "generated_at": "2026-11-27T19:59:39.342273+00:00",
